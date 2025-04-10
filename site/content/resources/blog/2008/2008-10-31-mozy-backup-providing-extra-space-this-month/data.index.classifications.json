@@ -8,18 +8,6 @@
     "reasoning": "Content is primarily about a promotional offer for a backup service and does not discuss Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-07T15:49:31",
-    "ai_confidence": 45.0,
-    "ai_mentions": 60.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 42.0,
-    "reasoning": "The content discusses Mozy, a backup solution, and mentions its features and personal usage, which aligns with the category of products. However, it lacks a detailed analysis or review of the product in relation to Agile or DevOps methodologies, and the discussion is primarily promotional rather than analytical.",
-    "level": "Tertiary"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-16T11:19:04",
@@ -56,43 +44,16 @@
     "reasoning": "Content primarily discusses a promotional offer for a backup service and personal experiences with it, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T11:19:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses a promotional offer for a backup service and personal experiences, with no relevance to events or presentations.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T11:19:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a promotional offer for a backup service and personal experiences with it, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T09:37:13",
+    "calculated_at": "2025-04-10T15:56:26",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a promotional offer for a backup service, Mozy, and does not discuss any principles, practices, or cultural shifts related to DevOps. There are no direct mentions of DevOps concepts, and the discussion lacks depth in any relevant areas such as collaboration, automation, or shared accountability.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T11:19:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content is primarily about a backup service promotion and does not discuss AI or Agile methodologies.",
     "level": "Ignored"
   },
   "Lean": {
@@ -115,23 +76,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T09:37:21",
+    "calculated_at": "2025-04-10T15:56:26",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses entirely on a promotional offer for a backup service and does not mention or align with any principles of the Agile Product Operating Model. There is no discussion of agile methodologies, product management, or related concepts.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T11:19:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a promotional offer for a backup service and personal experiences with it, lacking focus on Agile or DevOps techniques and tooling.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -154,10 +106,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T11:19:22",
+    "calculated_at": "2025-04-10T15:56:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a promotional offer for Mozy Backup and personal experiences with the service, rather than installation or configuration processes.",
     "level": "Ignored"
   },
@@ -172,32 +124,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T09:37:25",
+    "calculated_at": "2025-04-10T15:56:26",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on promoting a backup service and its referral program, with no discussion of Evidence-Based Management principles or metrics. It lacks any mention of data-informed decision-making or the key topics outlined in the EBM category.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T11:19:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a promotional offer for a backup service and personal experiences with it, with no relevance to software code or complexity.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T11:19:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a promotional offer for Mozy Backup and personal experiences, lacking relevance to Agile, DevOps, or technology industry news and reviews.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -238,10 +172,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T11:19:33",
+    "calculated_at": "2025-04-10T15:56:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a promotional offer for a backup service and personal experiences, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -284,15 +218,6 @@
     "reasoning": "The content briefly mentions personal use of Mozy for backup, which aligns with the Personal category. However, it primarily focuses on a promotional offer rather than providing in-depth personal reflections or insights related to Agile, Scrum, or DevOps methodologies.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T11:19:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a promotional offer for a backup service and personal experiences with it, with no focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Azure DevOps": {
     "category": "Azure DevOps",
     "calculated_at": "2025-02-16T11:19:41",
@@ -300,15 +225,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses Mozy Backup and personal experiences with backup solutions, which are unrelated to Azure DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T11:19:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a promotional offer for a backup service and personal experiences, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -327,15 +243,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a promotional offer for a backup service and personal experiences with it, with no relevance to Systems Thinking principles or applications.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T11:19:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a promotional offer for a backup service and personal experiences with the product, with no focus on team dynamics, collaboration, or process methodologies.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -473,7 +380,7 @@
     "reasoning": "Content focuses on Mozy Backup and promotional referral information, with no relevance to Agile methodologies or large-scale agility practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T11:24:07",
     "ai_confidence": 0,
@@ -489,15 +396,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses Mozy Backup and personal backup solutions, which is not related to Site Reliability Engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T11:24:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on Mozy Backup service promotion and personal experience with backup solutions, with no relevance to Agile Project Management or its principles.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -671,24 +569,6 @@
     "reasoning": "Content discusses Mozy Backup and its referral program, unrelated to estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T11:24:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Mozy Backup and referral promotions, which is unrelated to software development, Agile, or DevOps topics.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T11:24:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a backup service promotion without any reference to AI applications in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-16T11:24:07",
@@ -743,15 +623,6 @@
     "reasoning": "Content is primarily about Mozy Backup and referral incentives, with no mention of Agile frameworks.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T11:24:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on promoting a backup service and does not discuss Agile methodologies or scaling.",
-    "level": "Ignored"
-  },
   "Product Owner": {
     "category": "Product Owner",
     "calculated_at": "2025-02-16T11:24:07",
@@ -790,10 +661,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T11:24:07",
+    "calculated_at": "2025-04-10T15:56:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a promotional offer from Mozy Backup rather than topics related to innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -871,10 +742,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T11:24:07",
+    "calculated_at": "2025-04-10T15:56:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on promoting Mozy Backup and referral incentives, with no reference to the Definition of Done or Agile principles.",
     "level": "Ignored"
   },
@@ -889,13 +760,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T09:37:23",
+    "calculated_at": "2025-04-10T15:56:26",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a promotional offer for Mozy Backup and does not mention Continuous Delivery or its principles. There is no alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality. The depth of discussion is minimal and focused on a specific product rather than any relevant practices or methodologies.",
     "level": "Ignored"
   },
@@ -1007,21 +878,12 @@
     "reasoning": "Content is focused on a backup service promotion and does not discuss empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T11:24:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a backup service promotion and personal experiences with it, which is unrelated to Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T11:24:07",
+    "calculated_at": "2025-04-10T15:56:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses Mozy Backup promotional details and personal experiences with the service, which is unrelated to the Definition of Ready concept.",
     "level": "Ignored"
   },
@@ -1226,15 +1088,6 @@
     "reasoning": "Content focuses on a backup service promotion and personal experience with Mozy, with no discussion on deployment strategies.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T11:24:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a promotional offer for a backup service and does not relate to Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
     "calculated_at": "2025-02-16T11:24:07",
@@ -1285,10 +1138,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T11:24:07",
+    "calculated_at": "2025-04-10T15:56:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a backup service promotion and does not relate to Agile values or principles.",
     "level": "Ignored"
   },
@@ -1299,15 +1152,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses Mozy Backup and referral bonuses, with no relevance to Test Driven Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T11:24:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on promoting a backup service and discussing its features; it does not relate to Scrum or scaling practices.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1346,15 +1190,6 @@
     "reasoning": "Content mainly discusses Mozy Backup service and referral offers, without focusing on the technical aspects of system configuration.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T11:24:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses solely on a promotional message about Mozy Backup, without any relevance to scaling agility practices or principles.",
-    "level": "Ignored"
-  },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
     "calculated_at": "2025-02-16T11:24:07",
@@ -1375,13 +1210,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:49:13",
+    "calculated_at": "2025-04-10T15:56:26",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a promotional offer for a backup service and does not discuss any aspects of social technologies, collaboration, or decision-making. It lacks any relevant themes or depth related to the category.",
     "level": "Ignored"
   },
@@ -1414,13 +1249,13 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:57:15",
+    "calculated_at": "2025-04-10T15:56:26",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not mention Scrum or any related concepts. It focuses entirely on a promotional offer for a backup service, lacking any discussion of Scrum principles, roles, events, or practices.",
     "level": "Ignored"
   },
@@ -1438,49 +1273,49 @@
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T09:37:14",
+    "calculated_at": "2025-04-10T15:56:26",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 0.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on promoting a backup service and its referral program, with no discussion of Continuous Improvement principles, methodologies, or practices. It lacks any mention of empirical evidence, data-driven decision-making, or strategies for enhancing processes or team effectiveness.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T09:37:16",
+    "calculated_at": "2025-04-10T15:56:26",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on promoting a backup service and discussing personal experiences with it, with no mention of Agile, DevOps, or the concept of Common Goals. It lacks any alignment with the principles of shared objectives or strategic alignment, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T09:37:19",
+    "calculated_at": "2025-04-10T15:56:26",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on promoting a backup service and does not discuss competence, continuous learning, or skill development. There are no direct mentions of competence or its related themes, and the depth of discussion is minimal, primarily revolving around the benefits of a specific product.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:39:02",
+    "calculated_at": "2025-04-10T15:56:26",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on promoting a backup service and does not discuss Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is entirely unrelated to the themes of human or AI agency in socio-technical environments.",
     "level": "Ignored"
   }

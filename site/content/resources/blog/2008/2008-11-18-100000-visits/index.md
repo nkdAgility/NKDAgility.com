@@ -31,7 +31,8 @@ aliasesArchive:
 - /100-000-visits
 - /blog/100-000-visits
 - /resources/blog/100000-visits
-tags: []
+tags:
+- Miscellaneous
 categories: []
 preview: nakedalm-logo-128-link-3-3.png
 

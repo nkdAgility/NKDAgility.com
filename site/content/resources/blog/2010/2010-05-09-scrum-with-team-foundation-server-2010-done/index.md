@@ -9,7 +9,7 @@ ResourceImportId: 43
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-05-09
-weight: 810
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,9 +24,7 @@ aliasesArchive:
 - /scrum-with-team-foundation-server-2010-done
 - /resources/blog/scrum-with-team-foundation-server-2010-done
 tags:
-- Events and Presentations
 - Software Development
-- Agile Project Management
 - Agile Frameworks
 categories:
 - Scrum

@@ -23,7 +23,8 @@ aliasesArchive:
 - /blog/tfs-event-handler-v1-1-released
 - /tfs-event-handler-v1-1-released
 - /resources/blog/tfs-event-handler-v1-1-released
-tags: []
+tags:
+- Software Development
 preview: metro-visual-studio-2005-128-link-2-1.png
 categories: []
 

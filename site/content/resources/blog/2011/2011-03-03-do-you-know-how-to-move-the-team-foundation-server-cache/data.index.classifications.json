@@ -8,18 +8,6 @@
     "reasoning": "Content primarily discusses technical steps for moving the Team Foundation Server cache, which is unrelated to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:32:22",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content provides a practical guide on moving the Team Foundation Server (TFS) cache, which directly relates to tooling and practical techniques in a DevOps context. It includes step-by-step instructions, which align with the category's focus on the application of tools and methodologies. However, while it discusses a specific tool (TFS), it lacks broader context on Agile or DevOps practices, limiting its depth and conceptual alignment.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-15T23:41:13",
@@ -31,41 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:45:07",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical instructions for moving the Team Foundation Server cache, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and provides minimal depth on any related topics.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T23:41:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses moving the Team Foundation Server cache and does not address code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T23:41:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details related to moving the Team Foundation Server cache, with no emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T23:41:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses moving the Team Foundation Server cache, which is unrelated to AI and automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -79,24 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:02:13",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed, step-by-step guide on how to move the Team Foundation Server (TFS) cache, which directly aligns with the category of Install and Configuration. It explicitly discusses the installation process by outlining specific actions to take, such as creating a new directory, setting permissions, and modifying the web.config file. The content is focused on practical instructions that facilitate the effective implementation of TFS within an organisational context. The depth of discussion is significant, as it includes multiple steps and considerations, enhancing the overall clarity and utility of the guide. Therefore, the content strongly aligns with the key topics outlined in the category.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T23:41:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical steps for moving the Team Foundation Server cache, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content heavily discusses technical steps for moving the Team Foundation Server cache without addressing any sociotechnical interactions or organisational context.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T23:41:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses technical steps for moving the Team Foundation Server cache without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:44:53",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on moving the Team Foundation Server cache, which is a technical task related to server management rather than a discussion on DevOps principles or practices. While it touches on performance improvement and server organisation, it lacks explicit references to DevOps concepts such as collaboration, automation, or shared accountability. The discussion is more about a specific technical procedure than the broader philosophy of DevOps.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily discusses technical steps for moving the Team Foundation Server cache, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T23:42:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical instructions for moving the Team Foundation Server cache, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T23:42:07",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses moving the Team Foundation Server cache and does not focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T23:42:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical steps for moving the Team Foundation Server cache without addressing human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T23:42:15",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical steps for moving the Team Foundation Server cache, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -220,13 +145,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T06:41:10",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 32.0,
     "ai_mentions": 10,
     "ai_alignment": 25,
     "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content provides a practical guide on moving the Team Foundation Server (TFS) cache, which touches on aspects of technical practices related to server management and performance optimisation. However, it lacks a broader discussion on engineering methodologies or principles that enhance agility in software development. The focus is primarily on a specific technical task rather than on overarching themes of technical excellence such as TDD, CI/CD, or modular architecture. Therefore, while it does mention technical aspects, it does not align closely with the core themes of the category.",
     "level": "Ignored"
   },
@@ -275,15 +200,6 @@
     "reasoning": "Content primarily discusses the technical process of moving the Team Foundation Server cache, which is unrelated to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T23:42:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical steps for moving the Team Foundation Server cache, with no focus on products, books, or Agile methodologies.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T23:42:26",
@@ -295,15 +211,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T06:41:19",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses moving the Team Foundation Server (TFS) cache, which is related to Azure DevOps, but it does not explicitly mention Azure DevOps itself. The focus is primarily on a specific technical task rather than broader Azure DevOps functionalities or best practices. While it aligns with the operational aspects of TFS, it lacks depth in discussing Azure DevOps as a suite of tools or methodologies.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -334,13 +250,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:45:04",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses entirely on moving the Team Foundation Server cache, which is a technical task related to server management and optimisation. It does not discuss any aspects of the Agile Product Operating Model, such as product management principles, agile methodologies, or continuous delivery. The content is strictly about a specific technical procedure, making it irrelevant to the category.",
     "level": "Ignored"
   },
@@ -353,21 +269,12 @@
     "reasoning": "Content primarily discusses technical steps for moving the Team Foundation Server cache, with no focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T23:42:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical tutorial for moving the Team Foundation Server cache, which does not align with news or reviews related to Agile, DevOps, or technology updates.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T23:42:39",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses moving the Team Foundation Server cache, which is a technical task related to server management rather than the broader scope of Application Lifecycle Management.",
     "level": "Ignored"
   },
@@ -382,24 +289,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T00:41:57",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical steps related to moving the Team Foundation Server cache, which is unrelated to the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T15:00:54",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content provides a practical guide on moving the Team Foundation Server (TFS) cache, which touches on aspects of software engineering, such as server management and configuration. However, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. The focus is primarily on a specific technical task rather than a comprehensive exploration of technical mastery.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -412,13 +319,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:45:09",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 10.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on moving the Team Foundation Server cache, which is a specific technical task related to server management rather than Continuous Delivery. There are no direct mentions of Continuous Delivery principles, practices, or related topics. The discussion lacks depth and does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or incremental improvements.",
     "level": "Ignored"
   },
@@ -451,10 +358,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T00:41:57",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses how to move the Team Foundation Server cache, which is unrelated to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -505,22 +412,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T06:41:16",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses moving the Team Foundation Server (TFS) cache, which relates to operational efficiency by potentially improving server space management and performance. However, it lacks a broader discussion on operational practices within Agile, DevOps, or Lean frameworks, focusing instead on a specific technical task without delving into process optimisation or continuous improvement strategies.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T00:41:57",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of moving the Team Foundation Server cache and does not address any Scrum team dynamics, roles, or collaboration.",
     "level": "Ignored"
   },
@@ -580,10 +487,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T00:41:57",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical instructions for moving the Team Foundation Server cache, with no relevant discussion of team performance, dynamics, or agile methodologies.",
     "level": "Ignored"
   },
@@ -607,31 +514,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T15:08:15",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content provides a practical guide on moving the Team Foundation Server (TFS) cache, which relates to version control systems and collaborative development. It discusses specific steps and configurations, indicating a focus on software engineering practices. However, while it touches on relevant topics, it lacks broader discussions on methodologies or best practices, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T00:41:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on moving the Team Foundation Server cache and does not discuss Agile Project Management principles, frameworks, or practices.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T00:41:57",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily describes how to move the Team Foundation Server cache, which is technical guidance unrelated to Agile values or principles.",
     "level": "Ignored"
   },
@@ -646,22 +544,22 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-15T06:41:08",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses moving the Team Foundation Server (TFS) cache, which is related to source control, but it primarily focuses on a specific operational task rather than broader best practices or methodologies in modern source control. While it mentions TFS, it lacks a comprehensive discussion on version control strategies, collaboration workflows, or code management principles, which are central to the category. The depth of discussion is limited to procedural steps without exploring the implications or best practices associated with source control.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T00:41:57",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses moving the Team Foundation Server cache, with no relation to empirical process control, Agile, or Scrum principles.",
     "level": "Ignored"
   },
@@ -694,10 +592,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T00:41:57",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses how to move the Team Foundation Server cache, focusing on technical steps and server management rather than organisational change processes or methodologies.",
     "level": "Ignored"
   },
@@ -728,15 +626,6 @@
     "reasoning": "Content heavily discusses technical implementation details of moving the Team Foundation Server cache without any reference to customer satisfaction principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T00:41:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses moving the Team Foundation Server cache, which is unrelated to Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T00:41:57",
@@ -755,24 +644,15 @@
     "reasoning": "Content heavily discusses technical steps for managing the Team Foundation Server cache, with no relation to psychological safety.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T00:41:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses moving a Team Foundation Server cache and server organization rather than scaling agility practices or frameworks.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T06:41:08",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a technical task related to moving the Team Foundation Server cache, which is a specific operational detail rather than a broader discussion on engineering excellence. While it touches on aspects of server management and performance improvement, it lacks a comprehensive exploration of software craftsmanship, best practices, or continuous improvement processes that are central to the category of Engineering Excellence. The discussion is more about a procedural task than about fostering a culture of excellence in software development.",
     "level": "Ignored"
   },
@@ -814,13 +694,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T06:41:14",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content provides practical steps for moving the Team Foundation Server cache, which aligns with pragmatic problem-solving in a technical context. However, it lacks a broader discussion on Agile, Scrum, or DevOps principles, limiting its depth and overall alignment with the category.",
     "level": "Ignored"
   },
@@ -835,29 +715,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T00:41:57",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical steps for moving a Team Foundation Server cache, which is unrelated to measuring or improving innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T00:41:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses moving the Team Foundation Server cache, which is unrelated to Scrum product development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T00:41:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on moving the Team Foundation Server cache and does not discuss Scaled Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1033,19 +895,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T00:41:57",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical instructions for moving the Team Foundation Server cache, which is not related to Change Management principles or practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T00:41:57",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical steps to move the Team Foundation Server cache, with no focus on team collaboration or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1067,7 +929,7 @@
     "reasoning": "Content discusses the technical process of moving the Team Foundation Server cache but does not focus on digital transformation strategies or the integration of digital technologies for business agility and innovation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T00:41:57",
     "ai_confidence": 0,
@@ -1076,26 +938,17 @@
     "reasoning": "Content discusses moving the Team Foundation Server cache, which is unrelated to Minimum Viable Products or product development.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T00:41:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on managing Team Foundation Server (TFS) cache and does not mention AI or its applications in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T10:38:48",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses the process of moving the Team Foundation Server (TFS) cache, which is a specific system configuration task. It provides detailed steps for creating a new directory, setting permissions, and modifying the web.config file, all of which are directly related to system configuration practices. The discussion aligns well with the category's core themes, such as best practices for software configuration and troubleshooting common issues. The depth of the discussion is substantial, offering practical instructions and considerations for optimising server space and performance. Overall, the content is highly relevant to the System Configuration category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1135,27 +988,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:17:05",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses on moving the Team Foundation Server cache, which is unrelated to Test First Development principles. There are no mentions of success criteria, testing practices, or any relevant discussions that align with the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-10T18:49:00",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 30,
-    "final_score": 77.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on moving the Team Foundation Server (TFS) cache, which is a specific task related to the Windows operating system. It discusses the steps involved in creating a new directory, setting permissions, and modifying the web.config file, all of which are relevant to Windows server management. The content aligns well with the key topics of configuration settings and performance optimisation techniques. The depth of discussion is substantial, providing detailed instructions and considerations for the task at hand. Overall, the content is highly relevant to the Windows category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1177,10 +1030,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T00:41:57",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical instructions related to moving the Team Foundation Server cache without any relevance to team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1204,13 +1057,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T12:03:59",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content provides a step-by-step guide on moving the Team Foundation Server (TFS) cache, which involves identifying potential issues (like permissions) and resolving them. It explicitly mentions troubleshooting aspects, such as checking permissions if a folder does not appear. However, while it aligns with troubleshooting themes, the depth of discussion is somewhat limited to a specific task without broader troubleshooting methodologies or tools.",
     "level": "Secondary"
   },
@@ -1225,13 +1078,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:17:07",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses entirely on moving the Team Foundation Server cache, which is unrelated to the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, roles, or practices, and the discussion does not align with any key topics associated with the Scrum Master category.",
     "level": "Ignored"
   },
@@ -1251,18 +1104,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical steps for moving the Team Foundation Server cache, which is unrelated to working agreements.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T06:41:08",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on a technical task related to moving the Team Foundation Server (TFS) cache, which is a specific operational detail rather than a broader discussion on the role of software developers within Agile or DevOps frameworks. While it does touch on aspects of software development, such as configuration and performance improvement, it lacks direct mentions of Agile methodologies, DevOps principles, or collaborative practices. The depth of the discussion is moderate, providing step-by-step instructions, but it does not engage with the key themes outlined for the category.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1382,15 +1223,6 @@
     "reasoning": "Content focuses on technical instructions for moving the Team Foundation Server cache, with no discussion of accountability, team dynamics, or ownership.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T00:41:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical steps for moving the Team Foundation Server cache, with no relation to Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T00:41:57",
@@ -1411,13 +1243,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:40:52",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical instructions for moving the Team Foundation Server cache, which is a specific technical task. There are no direct mentions of social technologies, collaboration, or decision-making frameworks. The content lacks alignment with the core themes of social technologies, as it does not discuss team dynamics, transparency, or value delivery. The depth of discussion is limited to procedural steps without any exploration of underlying social frameworks or methodologies.",
     "level": "Ignored"
   },
@@ -1450,25 +1282,25 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:49:06",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses the technical aspects of moving the Team Foundation Server cache, with no direct mentions of Scrum principles, roles, events, or practices. While it touches on project management tools, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is focused on a specific technical task rather than any Scrum-related concepts.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:31:26",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on moving the Team Foundation Server cache and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. The content is more about server management than software development practices related to Shift-Left.",
     "level": "Ignored"
   },
@@ -1486,37 +1318,37 @@
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:44:59",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses on technical instructions for moving the Team Foundation Server cache, which does not relate to the concept of Common Goals in Agile or DevOps. There are no discussions on shared objectives, alignment, or strategic goals, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:45:02",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a technical guide for moving the Team Foundation Server cache, which does not directly address the principles of competence in Agile or DevOps. While it implies a need for skill in managing server configurations, it lacks explicit discussions on continuous learning, quality outcomes, or fostering a culture of competence. The mention of performance improvement is too vague to align with the core themes of competence.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:17:03",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses on technical instructions for moving the Team Foundation Server cache, which does not relate to the concept of Agentic Agility. There are no direct mentions of agency, intentionality, or the interplay between human and AI capabilities. The discussion is purely operational and lacks any depth regarding the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }

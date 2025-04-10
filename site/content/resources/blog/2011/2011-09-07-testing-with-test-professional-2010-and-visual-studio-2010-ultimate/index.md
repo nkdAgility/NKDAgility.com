@@ -9,7 +9,7 @@ ResourceImportId: 3776
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-09-07
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,8 +24,8 @@ aliasesArchive:
 - /testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 - /resources/blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 tags:
-- Events and Presentations
-- Products and Books
+- Application Lifecycle Management
+- Software Development
 categories: []
 
 ---

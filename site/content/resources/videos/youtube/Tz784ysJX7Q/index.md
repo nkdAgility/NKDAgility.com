@@ -2,7 +2,7 @@
 title: 'Balancing Speed and Stability: Why Quality Should Always Come First in Delivery Management'
 description: Discover how to balance speed and stability in project delivery. Learn why prioritising quality over tight deadlines is essential for long-term success.
 date: 2025-01-24T06:30:21Z
-weight: 505
+weight: 450
 ResourceId: Tz784ysJX7Q
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,10 +26,13 @@ preview: https://i.ytimg.com/vi/Tz784ysJX7Q/maxresdefault.jpg
 duration: 469
 isShort: false
 tags:
-- Product Delivery
 - Pragmatic Thinking
-- People and Process
+- Product Delivery
 - Working Software
+- Competence
+- Decision Theory
+- Sociotechnical Systems
+- Project Management
 resourceTypes:
 - video
 sitemap:
@@ -37,6 +40,7 @@ sitemap:
   priority: 0.6
 categories:
 - Engineering Excellence
+- Product Development
 
 ---
 One of the questions I often encounter as a delivery manager is how to balance speed and stability, especially when we're under pressure from tight deadlines. However, I would argue that there's a fundamental issue with the premise of this question: why are we under such tight deadlines in the first place? More often than not, these deadlines exist because stakeholders lack confidence in our ability to meet them. This is the absurdity of deadlines.

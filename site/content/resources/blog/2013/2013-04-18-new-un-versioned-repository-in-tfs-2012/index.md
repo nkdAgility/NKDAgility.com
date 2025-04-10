@@ -9,7 +9,7 @@ ResourceImportId: 9452
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-04-18
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,6 +25,8 @@ aliasesArchive:
 - /resources/blog/new-un-versioned-repository-in-tfs-2012
 tags:
 - Software Development
+- Install and Configuration
+- Modern Source Control
 categories: []
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 

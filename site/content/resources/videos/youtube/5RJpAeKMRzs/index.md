@@ -2,7 +2,7 @@
 title: 'Avoiding the Seven Deadly Sins of Agile: Transform Your Organisation for True Agility'
 description: Uncover the "Seven Deadly Sins of Agile" that hinder transformation. Learn how to foster true agility and drive meaningful change in your organisation.
 date: 2024-04-14T12:17:16Z
-weight: 575
+weight: 530
 ResourceId: 5RJpAeKMRzs
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -25,16 +25,23 @@ preview: https://i.ytimg.com/vi/5RJpAeKMRzs/maxresdefault.jpg
 duration: 2299
 isShort: false
 tags:
-- People and Process
 - Agile Product Management
-- Software Developers
-- Organisational Agility
 - Software Development
 - Agile Philosophy
-- Agile Transformation
+- Organisational Agility
 - Agile Frameworks
-- Agile Project Management
+- Agile Transformation
 - Pragmatic Thinking
+- Business Agility
+- Organisational Change
+- Agile Strategy
+- Organisational Culture
+- Value Delivery
+- Agile Values and Principles
+- Change Management
+- Enterprise Agility
+- Operational Practices
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -44,6 +51,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Management
 
 ---
 Agile is hard, and it’s designed for complex environments. Over the years, I’ve encountered numerous behaviours in organisations that can only be described as suboptimal. Today, I want to share my insights on what I call the "Seven Deadly Sins of Agile." These are pitfalls that can hinder your Agile transformation and prevent you from achieving true agility.

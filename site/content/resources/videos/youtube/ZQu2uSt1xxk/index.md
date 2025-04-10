@@ -34,11 +34,13 @@ sitemap:
 tags:
 - Agile Frameworks
 - Software Development
-- Agile Project Management
 - Continuous Improvement
 - Value Delivery
 - Flow Efficiency
 - Lean Thinking
+- Lean Principles
+- Metrics and Learning
+- Operational Practices
 resourceTypes:
 - video
 categories: []

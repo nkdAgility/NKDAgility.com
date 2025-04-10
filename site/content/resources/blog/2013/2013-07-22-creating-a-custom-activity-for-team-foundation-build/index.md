@@ -9,7 +9,7 @@ ResourceImportId: 9769
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-22
-weight: 810
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,9 +26,9 @@ aliasesArchive:
 tags:
 - Software Development
 - Install and Configuration
-- Practical Techniques and Tooling
 - Azure DevOps
 - Azure Pipelines
+- Technical Excellence
 categories: []
 
 ---

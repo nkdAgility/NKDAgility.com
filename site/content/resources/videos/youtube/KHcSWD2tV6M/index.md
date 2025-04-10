@@ -2,7 +2,7 @@
 title: 'Breaking the Silence: How to Combat Communication Gaps in Agile Teams'
 description: Discover the hidden dangers of silence in Agile teams and learn effective strategies to foster open communication for better collaboration and value delivery.
 date: 2023-11-02T11:30:10Z
-weight: 675
+weight: 640
 ResourceId: KHcSWD2tV6M
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,16 +26,26 @@ preview: https://i.ytimg.com/vi/KHcSWD2tV6M/maxresdefault.jpg
 duration: 67
 isShort: false
 tags:
+- Social Technologies
 - Team Collaboration
 - Team Performance
 - Agile Philosophy
-- Agile Project Management
-- Organisational Culture
 - Software Development
 - Organisational Agility
+- Organisational Culture
 - Agile Product Management
-- People and Process
-- Transparency and Accountability
+- Pragmatic Thinking
+- Agile Transformation
+- Psychological Safety
+- Team Motivation
+- Agile Leadership
+- Agile Frameworks
+- Business Agility
+- Scrum Team
+- Sociotechnical Systems
+- Value Delivery
+- Agile Strategy
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,7 +53,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Technical Leadership
 
 ---
 In my journey through the world of Agile, I've often encountered a troubling phenomenon that I believe is one of the seven signs of the Agile apocalypse: silence. This silence isn't just a lack of noise; it’s a deafening absence of communication that can have dire consequences for teams and organisations striving for agility.

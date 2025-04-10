@@ -6,7 +6,7 @@ ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-03-31T09:00:00
-weight: 225
+weight: 155
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -17,19 +17,62 @@ aliasesArchive:
 - /your-evolving-definition-of-done
 - /blog/your-evolving-definition-of-done
 categories:
-- Social Technologies
+- Engineering Excellence
+- Product Management
 - Scrum
 tags:
 - Definition of Done
 - Software Development
-- Scrum Product Development
-- Strategy
-- Professional Scrum
-- Value Delivery
-- Engineering Practices
-- Product Delivery
 - Agile Product Management
-- Practical Techniques and Tooling
+- Continuous Improvement
+- Professional Scrum
+- Shift-Left Strategy
+- Technical Mastery
+- Value Delivery
+- Common Goals
+- Technical Excellence
+- Working Software
+- Engineering Practices
+- Operational Practices
+- Product Delivery
+- Agile Strategy
+- Pragmatic Thinking
+- Agile Frameworks
+- Scrum Team
+- Strategic Goals
+- Increment
+- Social Technologies
+- Competence
+- Organisational Agility
+- Sociotechnical Systems
+- Team Performance
+- Agile Planning
+- Agile Transformation
+- Automated Testing
+- Business Agility
+- Empirical Process Control
+- Enterprise Agility
+- Market Adaptability
+- Metrics and Learning
+- Organisational Physics
+- Continuous Delivery
+- Continuous Integration
+- Current Value
+- Decision Making
+- Digital Transformation
+- Evidence Based Management
+- Organisational Change
+- Organisational Culture
+- Release Management
+- Scrum Master
+- Team Collaboration
+- Technical Debt
+- Test Automation
+- Test Driven Development
+- Test First Development
+- Time to Market
+- Company as a Product
+- Agile Philosophy
 
 ---
 The [Definition of Done (DoD)]({{< ref "/tags/definition-of-done" >}}) is not a static artefact; it evolves over time as a [Scrum Team]({{< ref "/tags/scrum-team" >}}) gains experience and capability. While the [Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}}) acknowledges that teams may refine their DoD to improve product quality, there’s an often overlooked piece: Organisations should also provide an organisational Definition of Done that reflects their needs. This organisational perspective ensures that Scrum Teams build on a solid foundation, aligning technical execution with strategic goals.

@@ -2,7 +2,7 @@
 title: 'Breaking Free from the Plagues of Agility: How to Cultivate Flexibility and Innovation in Your Team'
 description: Break free from the plagues of agility! Discover how to foster flexibility, boost team morale, and embrace change for true Agile success.
 date: 2023-11-01T09:42:43Z
-weight: 700
+weight: 665
 ResourceId: HFFSrQx-wbQ
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,15 +26,20 @@ preview: https://i.ytimg.com/vi/HFFSrQx-wbQ/maxresdefault.jpg
 duration: 64
 isShort: false
 tags:
-- Organisational Agility
 - Agile Philosophy
+- Organisational Agility
 - Business Agility
 - Continuous Improvement
-- Agile Values and Principles
-- Organisational Culture
-- Agile Project Management
 - Software Development
 - Agile Transformation
+- Agile Values and Principles
+- Organisational Culture
+- Agile Leadership
+- Agile Strategy
+- Market Adaptability
+- Team Performance
+- Change Management
+- Self Organisation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

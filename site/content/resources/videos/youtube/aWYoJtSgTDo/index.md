@@ -28,6 +28,7 @@ isShort: false
 tags:
 - Pragmatic Thinking
 - Personal
+- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

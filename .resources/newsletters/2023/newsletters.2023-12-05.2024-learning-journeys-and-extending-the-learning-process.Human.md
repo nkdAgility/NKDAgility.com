@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: newsletters
 ResourceContentOrigin: Human
 date: 2023-12-05
-weight: 615
+weight: 580
 preview: naked-agility-technically-agile-1280×720-December2023.jpg
 author: MrHinsh
 resourceTypes: newsletter
@@ -20,16 +20,16 @@ aliasesArchive:
 - /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
 categories:
 - Scrum
-- Social Technologies
-- Product Management
 tags:
 - Continuous Learning
-- Discovery and Learning
-- People and Process
-- Agile Project Management
 - Pragmatic Thinking
-- Events and Presentations
-- Products and Books
+- Competence
+- Agile Transformation
+- Organisational Agility
+- Professional Scrum
+- Software Development
+- Value Delivery
+- Coaching
 
 ---
 We have already had great success with our immersive learning classes, with the 8-week Professional Scrum Product Owner gaining high acclaim not only from the students but also from their managers and leaders:

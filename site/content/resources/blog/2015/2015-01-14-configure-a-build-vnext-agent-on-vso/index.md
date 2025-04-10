@@ -9,7 +9,7 @@ ResourceImportId: 11021
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-01-14
-weight: 670
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,17 +28,23 @@ aliasesArchive:
 - /blog/configure-a-build-vnext-agent
 - /resources/blog/configure-a-build-vnext-agent-on-vso
 tags:
-- Windows
-- Install and Configuration
-- System Configuration
-- Practical Techniques and Tooling
 - Azure DevOps
 - Continuous Integration
 - Azure Pipelines
+- Windows
 - Software Development
+- Install and Configuration
+- System Configuration
 - Azure Repos
 - Internal Developer Platform
-categories: []
+- Technical Excellence
+- Modern Source Control
+- Technical Mastery
+- Platform Engineering
+- Pragmatic Thinking
+- Release Management
+categories:
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-27-27.png
 
 ---

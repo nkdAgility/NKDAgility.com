@@ -9,7 +9,7 @@ ResourceImportId: 11152
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-01-28
-weight: 945
+weight: 940
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,8 +28,7 @@ aliasesArchive:
 - /blog/managing-your-azure-vm's-with-your-phone
 - /resources/blog/managing-azure-vms-phone
 tags:
-- Practical Techniques and Tooling
-- Products and Books
+- Miscellaneous
 categories: []
 preview: nakedalm-windows-logo-7-7.png
 

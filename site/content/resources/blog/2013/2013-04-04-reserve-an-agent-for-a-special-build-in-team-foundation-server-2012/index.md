@@ -9,7 +9,7 @@ ResourceImportId: 9359
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-04-04
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,9 +24,8 @@ aliasesArchive:
 - /reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 - /resources/blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 tags:
-- Install and Configuration
 - Software Development
-- Practical Techniques and Tooling
+- Install and Configuration
 - System Configuration
 - Continuous Integration
 - Azure DevOps
@@ -34,6 +33,9 @@ tags:
 - Pragmatic Thinking
 - Technical Mastery
 - Troubleshooting
+- Technical Excellence
+- Operational Practices
+- Continuous Delivery
 categories: []
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 

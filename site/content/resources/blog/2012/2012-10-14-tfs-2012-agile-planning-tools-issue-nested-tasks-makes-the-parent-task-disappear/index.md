@@ -9,7 +9,7 @@ ResourceImportId: 8936
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-10-14
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,15 +32,17 @@ aliasesArchive:
 tags:
 - Software Development
 - Agile Planning Tools
-- Agile Project Management
-- Scrum Product Development
 - Product Backlog
-- Practical Techniques and Tooling
-- Software Developers
 - Agile Planning
-- Azure Boards
 - Azure DevOps
-categories: []
+- Azure Boards
+- Pragmatic Thinking
+- Troubleshooting
+- Agile Product Management
+- Working Software
+- Product Delivery
+categories:
+- Scrum
 preview: metro-problem-icon-8-8.png
 
 ---

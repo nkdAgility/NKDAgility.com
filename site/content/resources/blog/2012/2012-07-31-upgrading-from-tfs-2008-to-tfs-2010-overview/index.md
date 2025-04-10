@@ -9,7 +9,7 @@ ResourceImportId: 6905
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-31
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,6 +27,7 @@ tags:
 - Software Development
 - Install and Configuration
 - System Configuration
+- Troubleshooting
 categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 

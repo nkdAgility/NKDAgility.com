@@ -2,7 +2,7 @@
 title: 'Transforming Engineering Excellence: The Power of Naked Agility in Quality and Leadership'
 description: Transform your engineering practices with naked agility! Discover how to enhance quality, build trust, and foster technical leadership in your organisation.
 date: 2024-11-30T06:00:00Z
-weight: 240
+weight: 175
 ResourceId: tdOSrPOlyAI
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,16 +26,22 @@ preview: https://i9.ytimg.com/vi/tdOSrPOlyAI/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 127
 isShort: false
 tags:
-- Technical Mastery
 - Software Development
-- Technical Excellence
-- Technical Leadership
+- Technical Mastery
+- Competence
+- Shift-Left Strategy
 - Continuous Improvement
+- Pragmatic Thinking
+- Technical Excellence
 - Engineering Practices
 - Product Delivery
-- Competence
 - Technical Debt
-- Shift-Left Strategy
+- Organisational Agility
+- Value Delivery
+- Working Software
+- Agile Philosophy
+- Operational Practices
+- Transparency
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,6 +49,8 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
+- Technical Leadership
+- Product Development
 
 ---
 Naked agility can be a transformative partner in fostering engineering excellence and cultivating technical leadership within your organisation. Over the past few videos, I’ve delved into various aspects of this journey, and today, I want to share some insights that I believe are crucial for anyone looking to elevate their engineering practices.

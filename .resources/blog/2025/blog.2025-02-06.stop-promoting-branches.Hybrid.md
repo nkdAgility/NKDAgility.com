@@ -6,7 +6,7 @@ ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-02-06T09:00:00
-weight: 305
+weight: 230
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -21,18 +21,32 @@ aliasesArchive:
 - /stop-promoting-branches
 - /blog/stop-promoting-branches
 tags:
-- Software Development
 - Modern Source Control
+- Software Development
 - Continuous Integration
-- Value Delivery
-- Release Management
-- Software Developers
-- Continuous Delivery
-- Engineering Practices
 - Deployment Strategies
-- Practical Techniques and Tooling
+- Technical Mastery
+- Value Delivery
+- Continuous Delivery
+- GitHub
+- Release Management
+- Technical Excellence
+- Flow Efficiency
+- Deployment Frequency
+- Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
+- Product Delivery
+- Working Software
+- Frequent Releases
+- Continuous Improvement
+- Time to Market
+- Azure DevOps
+- Organisational Agility
 categories:
+- Engineering Excellence
 - DevOps
+- Product Development
 preview: 2025-02-06-stop-promoting-branches.jpg
 marketing: []
 

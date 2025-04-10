@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: course
 ResourceContentOrigin: human
 date: 2020-08-31
-weight: 775
+weight: 750
 creator: Martin Hinshelwood
 type: course
 slug: managing-projects-using-azure-boards-training
@@ -31,16 +31,19 @@ course-learning-experiences:
 delivery-audiences:
 - Product managers
 tags:
-- Agile Planning Tools
-- Agile Project Management
-- Scrum Product Development
 - Agile Planning
+- Agile Planning Tools
 - Azure Boards
 - Azure DevOps
-- Product Backlog
-- Software Development
 - Collaboration Tools
-- People and Process
+- Operational Practices
+- Pragmatic Thinking
+- Product Backlog
+- Product Delivery
+- Software Development
+- Agile Frameworks
+- Agile Product Management
+- Team Performance
 categories: []
 preview: naked-agility-Accentient-MPAB-1600x900-1.jpg
 previewIcon: A-MPAB.png

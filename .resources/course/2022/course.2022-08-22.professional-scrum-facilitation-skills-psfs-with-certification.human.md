@@ -7,7 +7,7 @@ ResourceType: course
 ResourceContentOrigin: human
 shortTitle: Scrum Facilitation Skills
 date: 2022-08-22
-weight: 775
+weight: 750
 creator: Martin Hinshelwood
 type: course
 slug: professional-scrum-facilitation-skills-psfs-with-certification
@@ -31,17 +31,18 @@ delivery-audiences:
 - Teams
 - Lean Agile Practitioners
 tags:
-- Transparency
+- Agile Frameworks
 - Professional Scrum
 - Scrum Team
 - Team Collaboration
-- Agile Frameworks
-- Agile Project Management
-- People and Process
 - Team Performance
+- Transparency
+- Social Technologies
+- Scrum Master
+- Coaching
+- Software Development
 categories:
 - Scrum
-- Social Technologies
 preview: naked-agility-Professional-Scrum-PSFS-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PSFS-400x.png
 brandColour: 

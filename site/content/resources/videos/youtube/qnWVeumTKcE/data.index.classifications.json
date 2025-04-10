@@ -1,25 +1,25 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T20:40:26",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum training, which is a specific methodology rather than a discussion on DevOps principles. There are no direct mentions of DevOps concepts, and the alignment with the core themes of DevOps is minimal. The depth of discussion is also very limited, as it does not delve into any relevant DevOps practices or philosophies.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:18:46",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Scrum, which is related to team dynamics and decision-making, but it does not delve into the principles of self-organisation, collaboration, or value delivery in a meaningful way. The focus is primarily on training rather than the underlying social frameworks or methodologies that promote these concepts.",
     "level": "Ignored"
   },
@@ -93,27 +93,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content only provides a link to a video without discussing Agile frameworks or the principles surrounding them.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T11:14:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not discuss Scrum product development; it only provides a link to a video without any substantial content on Scrum principles or practices.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-15T02:23:20",
-    "ai_confidence": 25.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 22.0,
-    "reasoning": "The content includes a link to a YouTube video, which may imply a presentation or event. However, it lacks explicit discussion of the event's details, such as the context of the presentation, the speakers involved, or the insights shared. The mention of 'PSM Training' suggests a connection to a training event, but without further elaboration, it does not sufficiently align with the core themes of the category.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -244,13 +223,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T20:40:43",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum training, which is not directly related to Continuous Delivery. While it may touch on aspects of software development practices, it does not explicitly discuss Continuous Delivery principles, automation, or related strategies. The mention of Scrum roles and events indicates a focus on Agile methodologies rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
@@ -452,15 +431,6 @@
     "reasoning": "Content is primarily about Scrum training, which is related to project management and not focused on software craftsmanship or engineering practices.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T11:14:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily consists of a link to a video and does not provide discussions or insights related to software developers, Agile, or DevOps.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T11:14:27",
@@ -468,15 +438,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T11:14:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are unrelated to software code quality or complexity.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -508,15 +469,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T17:17:51",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 45.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 40.0,
+    "final_score": 45.0,
     "reasoning": "The content briefly mentions Scrum mastery and references training related to Scrum, which indicates a connection to the role of the Scrum Master. However, it lacks detailed discussion on the responsibilities, techniques, or impact of the Scrum Master, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -590,15 +551,6 @@
     "reasoning": "Content primarily focuses on a specific training program related to Scrum, without discussing organisational change strategies or processes.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T11:14:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on PSM Training from Scrum.org, which is related to Scrum but does not discuss scaling Agile practices across multiple teams or at an enterprise level.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "calculated_at": "2025-02-18T11:14:27",
@@ -606,15 +558,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum training and does not focus on Lean principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T11:14:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is solely a link to a video, lacking any discussion or analysis on people, processes, or related methodologies.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -680,7 +623,7 @@
     "reasoning": "Content is focused on PSM Training from Scrum.org and does not discuss Lead Time, its measurement, or relevance.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T11:14:27",
     "ai_confidence": 0,
@@ -696,15 +639,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss Agile leadership; it only refers to Scrum training without addressing leadership roles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T11:14:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss AI or automation, and instead focuses on Scrum training.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -752,15 +686,6 @@
     "reasoning": "Content is primarily about Scrum training and does not focus on market adaptability strategies or practices.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T11:14:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Working Software": {
     "category": "Working Software",
     "calculated_at": "2025-02-18T11:14:27",
@@ -806,15 +731,6 @@
     "reasoning": "Content does not discuss the Product Backlog or related topics; it is a link to a video about PSM Training.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T11:14:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content consists solely of a link to a video and does not provide any discussion or information about Agile Project Management.",
-    "level": "Ignored"
-  },
   "Psychological Safety": {
     "category": "Psychological Safety",
     "calculated_at": "2025-02-18T11:14:27",
@@ -833,24 +749,6 @@
     "reasoning": "Content heavily discusses Scrum training and is unrelated to troubleshooting technical issues.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T11:14:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses training rather than specific products or books related to Agile methodologies or DevOps practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T11:14:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide any insights, updates, or reviews related to Agile, DevOps, or technology; it only links to a YouTube video without context.",
-    "level": "Ignored"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
     "calculated_at": "2025-02-18T11:14:27",
@@ -867,15 +765,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily consists of a link to a video and does not provide personal reflections or insights related to Agile, Scrum, or DevOps.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T11:14:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss any aspects related to Scaling Scrum; it appears to be a promotional link for video training.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -916,13 +805,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:17:48",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum training and does not explicitly discuss Test First Development principles or practices. While it may touch on related topics, it lacks direct mentions and depth regarding success criteria, testing methodologies, or the impact of Test First on collaboration.",
     "level": "Ignored"
   },
@@ -1007,15 +896,6 @@
     "reasoning": "The content does not provide sufficient information related to product delivery; it merely mentions a video link without discussing relevant methodologies or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T11:14:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on Scrum training, which pertains to team-level agile practices rather than scaling agility in organizations.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
     "calculated_at": "2025-02-18T11:14:27",
@@ -1043,24 +923,6 @@
     "reasoning": "The content is focused on Scrum training and does not discuss portfolio management or related topics.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T11:14:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on PSM Training and does not address resilience or change management principles.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T11:14:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss transparency or accountability; it merely references a training video.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
     "calculated_at": "2025-02-18T11:14:27",
@@ -1077,15 +939,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T11:14:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content consists only of a link to a video about PSM training and does not provide discussions on practical techniques or tooling.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1135,23 +988,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T20:40:38",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum training, which is a specific agile practice rather than the broader Agile Product Operating Model. While it may touch on agile principles, it does not discuss the product-oriented mindset or the key topics outlined in the APOM framework.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T11:14:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses solely on a video link related to PSM training, with no discussion of discovery, learning, or methodologies relevant to innovation and experimentation.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1179,15 +1023,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training, which is unrelated to automated testing.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T11:14:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on PSM Training from Scrum.org, which is unrelated to Scaling Kanban.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
@@ -1345,13 +1180,13 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T20:40:41",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum training and practices, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks direct mentions of empirical decision-making or the key topics outlined in the EBM category, resulting in a very low confidence score.",
     "level": "Ignored"
   },
@@ -1402,85 +1237,85 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T02:23:20",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 16.0,
+    "final_score": 15.0,
     "reasoning": "The content title mentions 'PSM Training from Scrum.org', indicating a connection to Scrum. However, the actual content provided is minimal and lacks any substantial discussion on Scrum principles, roles, events, or practices. The link to a video does not provide enough context or detail to significantly align with the Scrum category.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:10:12",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 1.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not discuss the Shift-Left Strategy at all; it focuses solely on Scrum training, which is unrelated to the principles of integrating testing, security, and compliance earlier in the software development lifecycle.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T20:40:29",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum training and mastery, with minimal direct mention of Continuous Improvement principles. While Scrum practices can relate to Continuous Improvement, the content lacks a detailed exploration of the core themes such as empirical evidence, culture of experimentation, or specific strategies for integrating Continuous Improvement into processes.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T20:40:31",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly mentions Scrum practices but does not explicitly discuss Common Goals or their significance in Agile and DevOps. The focus is more on training and mastery rather than aligning strategy with execution or shared objectives.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T20:40:33",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions enhancing Scrum mastery, which relates to competence, but lacks explicit discussions on continuous learning or skill development. The focus is more on the training itself rather than the underlying principles of competence.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:40:36",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum training, which is unrelated to the One Engineering System framework. There are no direct mentions of 1ES principles, components, or practices, and the discussion lacks depth regarding integration or standardisation of engineering processes.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T17:17:46",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on Scrum training and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, nor does it explore the distinction between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }

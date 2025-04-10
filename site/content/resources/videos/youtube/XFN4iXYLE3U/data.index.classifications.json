@@ -1,22 +1,22 @@
 {
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-03-14T18:45:14",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses limiting work in progress, which is a concept related to flow and efficiency, but it primarily focuses on Kanban rather than Value Stream Management specifically. While it touches on the importance of maintaining flow and delivering value, it lacks a comprehensive exploration of Value Stream Management principles, techniques, or metrics, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T12:35:04",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of limiting work in progress in Kanban, without a clear focus on metrics, data analysis, or learning mechanisms.",
     "level": "Ignored"
   },
@@ -31,15 +31,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-14T18:45:14",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of limiting work in progress within the context of Kanban, which is an Agile methodology. However, it does not explicitly mention Agile Product Management or its key topics such as the role of the Product Owner, backlog prioritisation, or stakeholder engagement. While it touches on concepts related to product delivery and value, the focus is primarily on Kanban practices rather than broader Agile product management principles.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -52,43 +52,34 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-03-06T13:41:52",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 83.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the importance of limiting work in progress (WIP), which is a core principle of Kanban. It aligns well with the key themes of visualising work processes and managing flow. The depth of discussion is substantial, focusing on how limiting WIP contributes to understanding system constraints and maintaining a sustainable pace, which are essential for effective Kanban implementation.",
     "level": "Primary"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T12:35:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Kanban methodology and work in progress limits, which are not directly related to code quality or complexity.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T17:28:16",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban methodology and limiting work in progress, which are not directly related to DevOps principles. While there are some mentions of workflow efficiency and team productivity, the discussion lacks a clear connection to the core themes of DevOps, such as collaboration, automation, and shared accountability.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T12:35:16",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the principles of Kanban and limiting work in progress, which are not related to installation or configuration processes.",
     "level": "Ignored"
   },
@@ -101,24 +92,15 @@
     "reasoning": "Content primarily discusses the importance of limiting work in progress in Kanban, which does not directly relate to market adaptability strategies or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T12:35:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of limiting work in progress in Kanban, focusing on practical application rather than news or reviews related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T17:28:36",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban and limiting work in progress, which are not central to the Agile Product Operating Model. While it touches on agile principles, it does not discuss product management practices or the broader themes of APOM, such as transitioning to a product ethos or integrating Scrum with product management.",
     "level": "Ignored"
   },
@@ -131,38 +113,17 @@
     "reasoning": "Content heavily discusses Kanban principles and practices without a focus on decision-making processes or uncertainty.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-07T12:58:51",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 28,
-    "ai_depth": 22,
-    "non_ai_confidence": 30,
-    "final_score": 59.0,
-    "reasoning": "The content discusses the importance of limiting work in progress within the context of Kanban, which indirectly touches on team dynamics and the human factors involved in maintaining workflow. While it does not explicitly mention team collaboration or leadership, it highlights how limiting work allows individuals to focus on delivering value, which aligns with the core themes of the category. However, the discussion is primarily centred on the Kanban methodology itself rather than a broader exploration of people and processes, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T12:35:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Kanban principles and work in progress limits, without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-10T11:43:14",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of limiting work in progress (WIP) in Kanban, which indirectly relates to value delivery by emphasising the need to maintain a sustainable flow of work and focus on delivering value. However, it lacks explicit references to Agile methodologies or broader value delivery strategies, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -184,25 +145,25 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-03-10T13:59:27",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses the importance of limiting work in progress (WIP), which is a key principle of flow efficiency. It aligns well with the core themes of optimising throughput and managing work in progress effectively. The depth of discussion is substantial, as it explains how limiting WIP helps identify constraints and maintain a sustainable flow of work, which directly relates to enhancing speed and minimising bottlenecks in the value stream.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-03-14T18:45:14",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on concepts related to Systems Thinking, such as understanding constraints within a system and maintaining flow, but it primarily focuses on Kanban methodology without a comprehensive exploration of Systems Thinking principles. The discussion lacks depth and does not explicitly mention key topics like feedback loops or holistic analysis, which are central to Systems Thinking.",
     "level": "Ignored"
   },
@@ -217,24 +178,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-03-14T18:45:14",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 42.0,
     "ai_mentions": 10,
     "ai_alignment": 15,
     "ai_depth": 17,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses limiting work in progress, which is a key aspect of Lean methodologies, particularly in relation to Kanban. However, it primarily focuses on Kanban without explicitly connecting it to broader Lean principles or discussing waste reduction, value stream mapping, or continuous improvement. While there are mentions of delivering value and maintaining flow, the depth of discussion on Lean concepts is limited, resulting in a moderate confidence score.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T12:35:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of limiting work in progress in Kanban, without reference to any events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -263,27 +215,15 @@
     "reasoning": "Content heavily discusses Kanban principles and practices without any direct connection to platform engineering or internal developer platforms.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T11:17:40",
-    "ai_confidence": 72.0,
-    "ai_mentions": 60.0,
-    "ai_alignment": 80.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content explicitly discusses the importance of limiting work in progress within the context of Kanban, which is a practical methodology relevant to Agile practices. It aligns well with the core themes of the category by focusing on a specific technique that enhances team performance and delivery outcomes. The depth of discussion is substantial, as it explains the implications of not limiting work and how it affects the flow of work and product quality. However, it lacks direct references to specific tools or broader Agile frameworks, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T13:12:19",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of limiting work in progress (WIP) within the context of Kanban, which is a methodology relevant to product delivery. It explicitly mentions the impact of WIP on delivering high-quality, usable products, aligning with the core themes of product delivery. However, while it touches on the significance of maintaining flow and focus, it lacks a broader discussion on other aspects of product delivery such as testing, deployment, or cross-functional teams, which limits its depth. Overall, the content is relevant but not comprehensive enough to score higher.",
     "level": "Secondary"
   },
@@ -298,62 +238,26 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-14T18:45:14",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on the concept of limiting work in progress (WIP) within the Kanban framework, which is a specific practice rather than a broader discussion on organisational agility. While it touches on themes of workflow efficiency and team productivity, it lacks a comprehensive exploration of organisational agility principles, such as leadership roles, cultural shifts, or cross-functional team dynamics. The discussion is more about a tactical approach to Kanban rather than a strategic view on enhancing organisational adaptability.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T12:35:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the importance of limiting work in progress in Kanban, without addressing transparency or accountability as primary themes.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:35:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Kanban principles and work management without a focus on discovery or learning processes.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:28:40",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Kanban and limiting work in progress, with only a brief mention of value delivery. While it discusses workflow efficiency and team productivity, it lacks a strong emphasis on empirical evidence or data-informed decision-making, which are central to Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T12:35:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Kanban principles and limiting work in progress, with no mention of AI or automation.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T12:36:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the concept of limiting work in progress in Kanban, without reference to specific products, books, or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
@@ -394,41 +298,23 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:53:38",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on the concept of limiting work in progress (WIP) within the Kanban framework, which is a technical aspect of Agile methodologies. While it touches on themes of team dynamics and productivity, it lacks a direct discussion on collaboration, decision-making, or the broader implications of social technologies in organisational contexts. The depth of discussion is more technical than social, leading to a moderate confidence score.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T13:55:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses solely on the principle of limiting work in progress and does not discuss scaling Kanban in large organizations or its application across multiple teams.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T13:55:28",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Kanban principles and methodologies rather than system configuration topics.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T13:55:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Kanban methodology and the importance of limiting work in progress without addressing scaling Agile practices across multiple teams or at an enterprise level.",
+    "reasoning": "Content heavily discusses Kanban principles and methodologies rather than system configuration topics.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -496,10 +382,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T13:55:28",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on Work in Progress limits in Kanban, which is not related to the Definition of Ready.",
     "level": "Ignored"
   },
@@ -541,15 +427,15 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-03-11T16:11:40",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on the concept of limiting work in progress (WIP) within the context of Kanban, which is a Lean tool. It discusses the importance of WIP limits in enhancing workflow efficiency, identifying bottlenecks, and delivering value, all of which align closely with Lean Thinking principles. The depth of discussion is substantial, providing practical steps and personal experiences that illustrate the application of Lean concepts. However, while it is heavily aligned with Lean principles, it does not explicitly mention all key topics of Lean Thinking, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -562,13 +448,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-14T18:45:24",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of limiting work in progress (WIP) in Kanban, which indirectly relates to delivering high-quality software. It mentions the impact of WIP on workflow efficiency and product quality, aligning with the core themes of working software. However, the primary focus is on Kanban practices rather than directly on working software itself, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -599,15 +485,6 @@
     "reasoning": "Content heavily discusses the importance of limiting work in progress in Kanban, without directly addressing Continuous Learning principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T13:55:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban principles and does not relate to Scrum or its scaling practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-17T13:55:28",
@@ -628,24 +505,24 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T13:55:28",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban processes and principles, without focusing on remote working or Agile practices in a distributed environment.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-14T18:45:14",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses limiting work in progress (WIP) within the context of Kanban, which is related to empirical process control. However, it primarily focuses on the practical aspects of WIP limits rather than explicitly discussing empirical process control principles such as transparency, inspection, and adaptation. While there are mentions of improving workflow and identifying bottlenecks, the depth of discussion on empirical process control concepts is limited, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -730,13 +607,13 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-03-14T18:45:32",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses the concept of limiting work in progress (WIP) within the context of Kanban, which is a method that can align with Lean principles. However, it does not explicitly mention Lean Product Development or its core themes such as waste reduction or customer feedback. While it touches on efficiency and value delivery, the focus is more on Kanban practices rather than a comprehensive discussion of Lean Product Development principles.",
     "level": "Secondary"
   },
@@ -796,25 +673,25 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-14T18:45:20",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily focuses on the Kanban methodology, specifically the importance of limiting work in progress (WIP). While it discusses a key Agile practice, it does not explicitly address broader Agile transformation strategies or principles. The discussion aligns with Agile concepts but lacks depth in exploring organisational change, leadership roles, or cultural shifts necessary for Agile transformation.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-14T18:45:26",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 38,
     "non_ai_confidence": 0,
-    "final_score": 83.0,
+    "final_score": 92.0,
     "reasoning": "The content extensively discusses the importance of limiting work in progress (WIP) within the Kanban framework, which is a key operational practice aimed at enhancing workflow efficiency. It provides detailed insights into how limiting WIP can help identify bottlenecks, improve quality, and maintain a sustainable work pace, aligning closely with the core themes of operational efficiency and continuous improvement. The depth of discussion is significant, with practical steps and personal experiences shared, reinforcing the practical application of the methodology.",
     "level": "Primary"
   },
@@ -829,10 +706,10 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T13:55:28",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the principles of Kanban and limiting work in progress, which is unrelated to working agreements.",
     "level": "Ignored"
   },
@@ -843,15 +720,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Kanban practices and specific aspects of limiting work in progress without addressing strategic alignment or broader Agile strategy principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T13:55:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban and limiting work in progress, which, while relevant to workflow management, does not focus on software developers' roles or practices in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -928,22 +796,22 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-03-14T18:45:22",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses limiting work in progress (WIP) in Kanban, which indirectly relates to transparency by highlighting the visibility of bottlenecks and workflow. However, the primary focus is on WIP management rather than transparency itself. While it touches on aspects of visibility and team dynamics, it lacks a comprehensive exploration of transparency as a core theme.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T13:55:28",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the importance of limiting work in process in Kanban, focusing on workflow management rather than directly measuring or enhancing the ability to innovate.",
     "level": "Ignored"
   },
@@ -958,15 +826,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-11T17:24:39",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on the Kanban framework, discussing the importance of limiting work in progress (WIP) as a core principle of Kanban. It provides a detailed exploration of WIP, its implications for workflow efficiency, and practical steps for implementation, aligning well with the key topics of Agile frameworks. The depth of discussion is substantial, with personal experiences and actionable advice, reinforcing its relevance to the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -979,15 +847,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-14T14:51:23",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on the concept of limiting work in progress (WIP), which is directly related to throughput as it discusses how managing WIP can enhance the flow of work and improve delivery rates. It provides a detailed exploration of the significance of WIP limits in Kanban, including personal experiences and practical steps for implementation. The discussion aligns well with the core themes of throughput, such as optimising workflows and identifying bottlenecks, and offers substantial depth in its analysis and examples.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Windows": {
     "category": "Windows",
@@ -1016,18 +884,6 @@
     "reasoning": "Content heavily discusses Kanban methodology and work process management, rather than employee engagement.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-14T18:45:35",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 0,
-    "final_score": 78.0,
-    "reasoning": "The content primarily focuses on the Kanban framework, discussing the importance of limiting work in progress (WIP) as a key principle of Agile Project Management. It provides a detailed exploration of how WIP limits enhance workflow efficiency, team focus, and product quality, aligning well with agile principles. The depth of discussion includes practical steps for implementing WIP limits, personal experiences, and the impact on team dynamics, which further solidifies its relevance to the category.",
-    "level": "Secondary"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
     "calculated_at": "2025-02-17T13:55:28",
@@ -1048,13 +904,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T17:28:38",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban and limiting work in progress (WIP), which are not directly related to Continuous Delivery principles. While it touches on aspects of workflow management that could indirectly support Continuous Delivery, it does not explicitly discuss Continuous Delivery practices, automation, or rapid feedback mechanisms. Therefore, the confidence score reflects a low alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
@@ -1069,10 +925,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T13:55:28",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Kanban practices, specifically limiting work in progress, which is unrelated to the Definition of Done.",
     "level": "Ignored"
   },
@@ -1105,15 +961,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T18:45:30",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 34,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on the Kanban methodology, a key aspect of Agile software development. It discusses limiting work in progress (WIP) as a crucial practice for improving workflow efficiency, which aligns closely with core themes of software development methodologies. The depth of discussion is substantial, providing detailed insights into the implications of WIP limits, practical steps for implementation, and personal experiences that reinforce the importance of this practice in software development contexts.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1133,26 +989,17 @@
     "reasoning": "Content primarily discusses work in progress and Kanban principles rather than the Product Backlog or its management.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T13:55:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on Kanban principles and does not discuss Scrum methodologies or practices.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-03-14T18:45:17",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses the concept of limiting work in progress (WIP) within the context of Kanban, which aligns with Lean principles of waste reduction and value maximisation. It explicitly mentions the importance of focusing on value delivery and identifying bottlenecks, which are core themes of Lean thinking. However, while it touches on these principles, the discussion is more focused on Kanban practices rather than a comprehensive exploration of Lean principles as a whole, leading to a slightly lower confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -1174,15 +1021,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-14T18:45:14",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily discusses the concept of limiting work in progress (WIP) within the context of Kanban, which is a specific Agile methodology. While it touches on Agile principles, such as focusing on value delivery and maintaining a sustainable pace, it does not explicitly address broader Agile Planning practices or methodologies. The discussion is more focused on Kanban rather than Agile Planning as a whole, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -1231,10 +1078,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T13:55:28",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the Kanban framework, specifically its practices of limiting work in progress, without addressing Agile values or principles directly.",
     "level": "Ignored"
   },
@@ -1249,15 +1096,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-03-14T18:45:14",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses limiting work in progress (WIP) within the context of Kanban, which touches on systems thinking principles such as workflow management and bottleneck identification. However, it primarily focuses on practical implementation rather than a holistic view of organisational dynamics or the interplay of organisational structure and culture. While it does mention concepts like bottlenecks and team capacity, it lacks a deeper exploration of organisational behaviour or systems thinking as a primary focus.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1275,15 +1122,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of limiting work in progress in Kanban rather than strategic alignment or higher-level strategic approaches within Agile frameworks.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T13:55:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Kanban principles and limiting work in progress, with no direct relation to AI.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1315,13 +1153,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:56:31",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses Kanban and the importance of limiting work in progress (WIP), which is unrelated to Test First Development principles. There are no direct mentions of Test First practices, success criteria, or testing methodologies. The focus is on workflow management rather than testing strategies.",
     "level": "Ignored"
   },
@@ -1345,15 +1183,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-13T16:33:22",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 87.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the practical application of limiting work in progress (WIP) within the Kanban framework, which aligns closely with pragmatic thinking. It provides real-world examples and personal experiences that illustrate the importance of WIP limits in enhancing team productivity and workflow efficiency. The depth of discussion on how to implement WIP limits and the benefits derived from them further supports its alignment with the category. Overall, the content is focused on practical problem-solving strategies relevant to Agile methodologies.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1371,15 +1209,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Kanban principles rather than coaching practices or techniques.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T13:55:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on Kanban principles and techniques rather than scaling agility across an organization.",
     "level": "Ignored"
   },
   "Scrum Master": {
@@ -1421,7 +1250,7 @@
     "reasoning": "Content primarily discusses the importance of limiting work in progress in Kanban, which is unrelated to the delivery of software increments in Agile or Scrum contexts.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T13:55:28",
     "ai_confidence": 0,
@@ -1477,85 +1306,85 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:46:17",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily discusses Kanban principles, specifically the importance of limiting work in progress. There are no direct mentions of Scrum roles, events, or artifacts, and the focus is on Kanban rather than Scrum methodologies. The conceptual alignment with Scrum is minimal, as it does not address any of the core themes or practices associated with Scrum. The depth of discussion is also low, as it does not provide any insights into Scrum practices or frameworks.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:44:49",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the importance of limiting work in progress (WIP) within the Kanban methodology, focusing on workflow management rather than integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on quality and efficiency, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:28:22",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses limiting work in progress (WIP) within the context of Kanban, which is a technique that supports continuous improvement by enhancing workflow and productivity. While it does mention aspects of continuous improvement, such as monitoring and adjusting WIP limits, the primary focus is on Kanban practices rather than a broader discussion of continuous improvement principles. The content provides some depth in terms of personal experiences and practical steps, but it does not fully explore the wider implications of continuous improvement in organisational processes or team effectiveness.",
     "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:28:26",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 15.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the concept of limiting work in progress (WIP) within the Kanban framework, which is a specific project management technique. While it touches on themes of productivity and workflow, it does not explicitly discuss Common Goals or their significance in Agile or DevOps contexts. The discussion lacks depth regarding shared objectives or alignment with strategic goals, which are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:28:28",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 32.0,
     "ai_mentions": 2,
     "ai_alignment": 3,
     "ai_depth": 2,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses limiting work in progress (WIP) in the context of Kanban, which indirectly relates to competence by emphasising the importance of focus and quality in delivering outcomes. However, it primarily centres on workflow management rather than explicitly addressing continuous learning or skill development, which are core themes of competence. The depth of discussion on competence is limited, focusing more on practical implementation rather than fostering a culture of competence.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:28:33",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban and limiting work in progress, which are not directly related to the One Engineering System framework. While it discusses workflow management and efficiency, it does not address the principles, components, or implementation of 1ES, nor does it provide insights into integration across teams or methodologies. Therefore, the confidence score reflects a minimal connection to the specified category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T15:56:29",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on limiting work in progress (WIP) within the Kanban framework, discussing its benefits for productivity and workflow management. While it touches on themes of focus and efficiency, it does not explicitly address the intentional shaping of outcomes, nor does it differentiate between human and AI capabilities in the context of agility. The discussion lacks depth regarding the principles of Agentic Agility, making it largely irrelevant to the category.",
     "level": "Ignored"
   }

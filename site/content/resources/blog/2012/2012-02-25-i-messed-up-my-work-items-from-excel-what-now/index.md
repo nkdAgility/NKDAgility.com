@@ -29,10 +29,11 @@ aliasesArchive:
 - /resources/blog/i-messed-up-my-work-items-from-excel-what-now
 tags:
 - Troubleshooting
-- Practical Techniques and Tooling
 - Azure DevOps
 - Pragmatic Thinking
 - Software Development
+- Azure Boards
+- Modern Source Control
 categories: []
 preview: metro-visual-studio-2010-128-link-4-4.png
 

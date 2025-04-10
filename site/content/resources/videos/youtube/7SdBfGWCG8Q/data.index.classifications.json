@@ -10,10 +10,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T13:29:55",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of relationships in immersive learning rather than focusing on metrics, data utilisation, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -37,25 +37,25 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:49:17",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on immersive learning and relationship building within Scrum, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on collaboration and learning, it lacks a direct connection to data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-06T13:50:05",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses personal experiences related to building relationships through immersive learning in a Scrum context. It explicitly mentions the importance of relationships formed during collaborative learning, which aligns with the Personal category's focus on individual reflections and insights. However, while it touches on personal experiences, it lacks deeper exploration of challenges or specific anecdotes, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
@@ -77,24 +77,6 @@
     "reasoning": "Content primarily discusses the importance of building relationships through immersive learning in Scrum, which does not align with the principles or applications of Systems Thinking.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T13:30:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses building relationships in immersive learning within a Scrum context, which is unrelated to code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T13:30:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses relationship building through immersive learning in Scrum, without a clear focus on transparency or accountability.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
     "calculated_at": "2025-02-17T13:30:09",
@@ -103,18 +85,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on building relationships through immersive learning in Scrum, which does not directly address market adaptability strategies or practices.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-06T14:56:12",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 32.0,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content explicitly discusses the importance of building relationships among practitioners in a Scrum learning environment, which directly relates to team dynamics and collaboration. It highlights how immersive learning fosters connections that enhance collaboration and knowledge sharing, aligning well with the core themes of the category. However, while it touches on these aspects, the depth of discussion is somewhat limited, focusing primarily on relationships rather than broader process methodologies or team dynamics.",
-    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -136,15 +106,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-14T19:42:10",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly touches on the importance of relationships in a collaborative learning environment, which aligns with the sociotechnical systems theme of team dynamics. However, it lacks a direct discussion of organisational structures or the broader implications of these relationships on software delivery. The focus is primarily on personal interactions rather than the integration of social and technical aspects within organisations.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -162,15 +132,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on relationship building through immersive learning rather than Agile Product Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T13:30:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses relationship building in immersive learning within Scrum, which is not primarily about organisational resilience or change management.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -191,15 +152,6 @@
     "reasoning": "Content primarily focuses on building relationships through immersive learning rather than discussing organisational agility or its principles.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T13:30:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses relationship building in immersive learning within Scrum, with no mention of AI or automation.",
-    "level": "Ignored"
-  },
   "Decision Theory": {
     "category": "Decision Theory",
     "calculated_at": "2025-02-17T13:30:27",
@@ -218,24 +170,15 @@
     "reasoning": "Content heavily discusses building relationships in the context of immersive learning within Scrum, with no clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T13:30:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the benefits of immersive learning in Scrum, without discussing industry news, updates, or reviews.",
-    "level": "Ignored"
-  },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-03-14T19:42:10",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the importance of relationships in a learning environment, which can relate to team dynamics and cohesion. However, it primarily focuses on immersive learning in a Scrum context, lacking a deeper exploration of psychological principles or theories relevant to organisational psychology. The discussion does not explicitly mention key topics such as motivation theories or leadership styles, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -246,24 +189,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses relationship building in immersive learning contexts, which is not directly related to business agility principles or practices.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T13:30:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on building relationships through immersive learning rather than discussing specific tools, methodologies, or practical techniques related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T13:30:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the benefits of immersive learning and relationship building in a Scrum context, without a clear focus on specific events or presentations.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -282,15 +207,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses relationship building in the context of immersive learning within Scrum, without addressing broader organisational agility or its implications.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T13:30:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the benefits of immersive learning and relationship building in a Scrum context, without focusing on specific products or literature.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -313,39 +229,27 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T17:49:13",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses immersive learning in Scrum and the importance of relationships among practitioners, which is tangentially related to agile practices but does not focus on the Agile Product Operating Model. While it touches on collaboration and learning within the Scrum framework, it lacks a direct discussion of the APOM principles, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T17:49:00",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on immersive learning within the Scrum framework, discussing the importance of relationships among practitioners. While it touches on collaboration, which is a key aspect of DevOps, it does not explicitly address DevOps principles, practices, or cultural shifts. The discussion is centred around Agile and Scrum methodologies rather than the broader DevOps philosophy.",
     "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-10T14:03:04",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content briefly touches on the importance of relationships built through immersive learning, which can contribute to a culture of continuous learning and collaboration. However, it lacks explicit discussions on methodologies, experimentation, or feedback loops that are central to the category. The focus is more on personal relationships rather than the broader processes of discovery and learning.",
-    "level": "Tertiary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -365,15 +269,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T13:31:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses building relationships in the context of immersive learning within Scrum, with no mention of Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
     "calculated_at": "2025-02-17T13:31:01",
@@ -383,24 +278,15 @@
     "reasoning": "Content heavily discusses building relationships in the context of immersive learning within Scrum, which is unrelated to system configuration.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T13:31:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses relationship building in a Scrum context without addressing scaling Agile practices or frameworks.",
-    "level": "Ignored"
-  },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-14T19:42:10",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the importance of relationships in a learning environment, which aligns with Agile's emphasis on collaboration. However, it primarily focuses on immersive learning in a Scrum context without delving into the broader Agile principles or philosophy. The discussion lacks depth regarding Agile values and does not explicitly mention Agile concepts, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -433,22 +319,22 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-03-11T09:57:47",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of building relationships through immersive learning, which aligns with the themes of team engagement and collaboration. However, it lacks explicit mentions of team motivation strategies and does not delve deeply into the psychological aspects of team dynamics. The focus is more on the relationships formed rather than the broader implications for team motivation.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T13:31:11",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on building relationships through immersive learning rather than discussing Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
@@ -463,10 +349,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T13:31:14",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses building relationships through immersive learning, which is not relevant to the Definition of Ready.",
     "level": "Ignored"
   },
@@ -553,24 +439,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-11T11:20:43",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content briefly touches on the importance of relationships built through immersive learning, which can facilitate knowledge sharing. However, it lacks a direct focus on continuous learning principles, such as growth mindset or feedback loops, and does not delve into techniques or practices that promote sustained improvement in Agile or DevOps environments.",
-    "level": "Tertiary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T13:31:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on building relationships through immersive learning, which is not directly related to scaling Scrum principles or practices.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -736,36 +613,36 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-11T14:25:45",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content extensively discusses the importance of relationships and collaboration within a Scrum context, highlighting roles, trust, and support systems that are crucial for a Scrum Team's effectiveness. It aligns well with the core themes of team dynamics and continuous improvement, providing detailed insights into how relationships enhance the Scrum learning experience.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-17T13:32:14",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses relationship building through immersive learning, with no clear focus on Daily Scrum or its specific practices.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-11T16:14:55",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses immersive learning in the context of Scrum, highlighting the importance of relationships and collaboration among practitioners. While it touches on Agile principles and the Scrum framework, the primary focus is on relationship-building rather than a comprehensive exploration of Agile transformation strategies or methodologies. Therefore, it aligns with the category but lacks depth in discussing broader Agile transformation themes.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -803,15 +680,6 @@
     "reasoning": "Content primarily discusses the importance of relationships in immersive learning within a Scrum context, without addressing Agile strategy or its alignment with organisational vision and execution.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T13:32:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on building relationships through immersive learning rather than discussing the role of software developers in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "Engineering Practices": {
     "category": "Engineering Practices",
     "calculated_at": "2025-02-17T13:32:27",
@@ -832,13 +700,13 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-03-11T17:27:39",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 72.0,
     "ai_mentions": 3,
     "ai_alignment": 80.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of relationships in immersive learning within the Scrum framework, highlighting aspects such as trust, support, and collaboration, which align with Scrum Values like Respect and Openness. However, while it touches on these values, the primary focus is on relationship-building rather than a direct exploration of the Scrum Values themselves, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -898,10 +766,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T13:32:42",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses relationship building in immersive learning rather than innovation capabilities.",
     "level": "Ignored"
   },
@@ -916,27 +784,27 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-13T15:05:49",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the importance of relationships in immersive learning within the context of Scrum, which is a specific Agile framework. It directly mentions Scrum multiple times and explores how relationships enhance the learning experience and collaboration, aligning well with Agile principles. However, while it provides substantial insights into the role of relationships, it lacks a broader comparative analysis of different Agile frameworks or a detailed exploration of Agile principles beyond Scrum, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-13T15:28:28",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 87.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of relationships in immersive learning within the Scrum framework, highlighting how these relationships foster collaboration, trust, and support among team members. It aligns well with the core themes of team dynamics and collaboration, providing detailed insights into how these relationships enhance the Scrum learning experience. The depth of discussion on building connections and their long-term benefits further solidifies its relevance to the 'Team Performance' category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -967,26 +835,14 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-03-13T16:36:16",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of building relationships in immersive learning, which aligns with employee engagement principles such as trust, collaboration, and support. It highlights how these relationships enhance the learning experience and contribute to a supportive work environment. However, the primary focus is on Scrum training rather than broader employee engagement strategies, which slightly limits its depth in the category.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-14T14:54:01",
-    "ai_confidence": 82.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
-    "non_ai_confidence": 0,
-    "final_score": 74.0,
-    "reasoning": "The content extensively discusses the importance of relationships in immersive learning within the context of Scrum, highlighting collaboration, trust, and support among practitioners. It aligns well with agile principles, particularly the emphasis on teamwork and iterative learning. The depth of discussion on how these relationships enhance the Scrum learning experience further solidifies its relevance to Agile Project Management.",
     "level": "Secondary"
   },
   "Hypothesis Driven Development": {
@@ -1030,22 +886,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T13:33:02",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of relationships in immersive learning rather than the Definition of Done in Agile and Scrum.",
     "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-03-14T15:14:27",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of relationships in immersive learning within a Scrum context, highlighting how these relationships foster trust, support, and collaboration, which are key elements of organisational culture. It aligns well with the category by exploring how cultural aspects influence learning and team dynamics. However, while it touches on cultural themes, it primarily focuses on the learning process rather than a broader organisational culture perspective, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
@@ -1069,13 +925,13 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T19:42:12",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses immersive learning in the context of Scrum, which is a framework within software development. While it touches on important aspects of collaboration and relationship-building, it primarily focuses on the social dynamics of learning rather than the technical or methodological aspects of software development itself. The mention of Scrum practices indicates some alignment with the category, but the depth of discussion leans more towards personal experiences and relationship-building rather than core software development methodologies.",
     "level": "Secondary"
   },
@@ -1095,15 +951,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of relationships in immersive learning rather than focusing on the Product Backlog or its management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T13:33:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses relationship building through immersive learning, which is not central to Scrum product development.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -1189,13 +1036,13 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-14T19:42:14",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of relationships and collaboration in the context of immersive learning within Scrum, which aligns with Agile principles of collaboration and self-organising teams. However, it primarily focuses on the practical aspects of relationship-building rather than explicitly addressing Agile values or principles. The discussion lacks depth on the Agile Manifesto or its core values, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1235,15 +1082,6 @@
     "reasoning": "Content primarily discusses the importance of relationships in immersive learning rather than focusing on strategic approaches within Agile, Scrum, or DevOps frameworks.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T13:33:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses relationship building in immersive learning within Scrum, with no mention of AI or its applications.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-17T13:33:38",
@@ -1255,13 +1093,13 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-03-14T19:42:17",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of relationships in immersive learning, which aligns with mentoring principles. It highlights how trust, support, and shared success contribute to personal and professional growth, key aspects of effective mentoring. The depth of discussion on building relationships and their long-term benefits in a Scrum context further supports its relevance to mentoring, although it does not explicitly mention mentoring techniques or roles.",
     "level": "Secondary"
   },
@@ -1306,13 +1144,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-14T19:42:19",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of relationships in immersive learning within a Scrum context, highlighting practical applications and collaborative problem-solving. However, while it touches on relevant themes, it primarily focuses on relationship-building rather than specific pragmatic problem-solving strategies or techniques. The depth of discussion on pragmatic thinking is moderate, as it lacks detailed examples of navigating complexity or uncertainty in project management.",
     "level": "Secondary"
   },
@@ -1327,34 +1165,25 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-14T19:42:22",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the importance of relationships in immersive learning, which aligns with coaching principles such as building trust and fostering collaboration. It highlights the role of a Scrum Trainer in facilitating growth through peer interactions, reflecting the supportive nature of coaching. However, while it touches on coaching-related themes, it does not explicitly focus on coaching techniques or frameworks, leading to a slightly lower confidence score.",
-    "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T13:33:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses relationship building in immersive learning, which is primarily focused on team-level interactions rather than scaling agility across an organisation.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T16:06:00",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of relationships in immersive learning within the context of Scrum, highlighting the role of a Scrum Trainer and the collaborative nature of Scrum practices. While it does not explicitly define the Scrum Master's responsibilities, it aligns well with the core themes of fostering collaboration and continuous improvement, which are essential to the Scrum Master role. The depth of discussion on relationship-building and its impact on Scrum learning experiences adds to the overall relevance, though it lacks a direct focus on the Scrum Master's specific duties.",
     "level": "Secondary"
   },
@@ -1385,7 +1214,7 @@
     "reasoning": "Content heavily discusses relationship building in immersive learning rather than the delivery of software increments.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T13:34:02",
     "ai_confidence": 0,
@@ -1405,15 +1234,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-14T19:42:26",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of building relationships in the context of immersive learning within Scrum, highlighting how these relationships enhance team collaboration, trust, and support. It aligns well with the core themes of team dynamics and shared ownership in Agile frameworks. The depth of discussion is significant, providing personal experiences and practical recommendations for fostering collaboration, which reinforces its relevance to the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1426,27 +1255,27 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-14T19:42:10",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the importance of relationships built through immersive learning, which can be a component of leadership in fostering collaboration. However, it lacks explicit discussions on leadership practices, strategies, or frameworks, making it a secondary focus rather than a primary one.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:56:35",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on the importance of relationships in immersive learning within the Scrum framework, which aligns well with the principles of collaboration and collective intelligence central to social technologies. It discusses how building trust and support among peers enhances decision-making and value delivery, reflecting the core themes of the category. The depth of discussion is substantial, providing personal experiences and practical recommendations for fostering relationships, which further strengthens its relevance to social technologies.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1468,63 +1297,63 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:49:39",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 55.0,
     "ai_mentions": 5,
     "ai_alignment": 20,
     "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 54.0,
+    "final_score": 55.0,
     "reasoning": "The content briefly touches on the importance of relationships in the context of immersive learning, which can be relevant to Scrum team dynamics. However, it lacks explicit mentions of Scrum roles, events, or artifacts, and does not delve deeply into Scrum principles or practices. The focus on relationships is a secondary aspect rather than a primary discussion of Scrum.",
     "level": "Tertiary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:47:47",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses immersive learning and relationship building within the context of Scrum, without any explicit mention or focus on the Shift-Left Strategy. While it touches on collaboration, it does not address integrating testing, security, or compliance earlier in the software development lifecycle, which are core themes of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:49:02",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of relationships in immersive learning within the Scrum framework, which indirectly touches on the concept of continuous improvement through collaboration and shared experiences. However, it lacks a direct focus on continuous improvement principles, empirical evidence, or specific strategies for integrating continuous improvement into organisational processes. The discussion is more centred on relationship-building rather than the systematic enhancement of processes or team effectiveness.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:49:05",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the importance of relationships in immersive learning within Scrum, which is a secondary theme rather than a direct focus on Common Goals. While it touches on collaboration and support, it lacks explicit discussions on aligning strategy with execution or shared objectives that guide decision-making. The depth of discussion on Common Goals is minimal, as the content does not delve into how these relationships connect to overarching strategic objectives or frameworks like OKRs.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:49:07",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 62.0,
     "ai_mentions": 3,
     "ai_alignment": 75.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of relationships in immersive learning, which indirectly supports the development of competence through collaboration and shared experiences. While it does mention aspects of skill enhancement and continuous improvement, the primary focus is on relationship-building rather than directly addressing competence as a foundational principle. The depth of discussion on competence-related themes is moderate, but the overall emphasis leans more towards interpersonal connections than on the core principles of competence itself.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
@@ -1540,13 +1369,13 @@
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:05:53",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses immersive learning and relationship-building within Scrum, which does not directly address the concept of Agentic Agility. While there are elements of collaboration and personal growth, the focus is on interpersonal relationships rather than the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks explicit references to the principles of Agentic Agility, such as intent, accountability, and the interplay between human judgement and AI logic.",
     "level": "Ignored"
   }

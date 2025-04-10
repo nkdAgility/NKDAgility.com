@@ -9,7 +9,7 @@ ResourceImportId: 9777
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-16
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,8 +25,11 @@ aliasesArchive:
 - /resources/blog/modelling-teams-in-team-foundation-server-2013
 tags:
 - Software Development
-- Practical Techniques and Tooling
 - Application Lifecycle Management
+- Azure DevOps
+- Pragmatic Thinking
+- Install and Configuration
+- Modern Source Control
 categories: []
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 

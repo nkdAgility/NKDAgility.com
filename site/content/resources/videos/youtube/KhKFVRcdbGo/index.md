@@ -2,7 +2,7 @@
 title: 'Transforming Organisational Culture: Unlocking Engineering Excellence Through System Optimisation'
 description: Transform your organisation's culture with Naked Agility. Discover how to optimise systems for maximum value and achieve engineering excellence today!
 date: 2024-12-21T06:00:00Z
-weight: 360
+weight: 305
 ResourceId: KhKFVRcdbGo
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -30,12 +30,20 @@ sitemap:
   priority: 0.6
 resourceTypes:
 - video
-categories: []
+categories:
+- Engineering Excellence
 tags:
+- Operational Practices
 - Organisational Culture
 - Metrics and Learning
 - Organisational Physics
-- Operational Practices
+- Agile Strategy
+- Organisational Agility
+- Organisational Change
+- Pragmatic Thinking
+- Systems Thinking
+- Value Stream Management
+- Value Delivery
 
 ---
 Creating a culture of engineering excellence within an organisation is a topic that often stirs up a fair bit of debate. I find myself grappling with the concept of culture itself. After all, culture is essentially the embodiment of what exists within an organisation. It’s like the shadow on the wall; to change the shadow, we must first alter the shape of the object casting it. This is where Naked Agility comes into play.

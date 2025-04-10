@@ -31,16 +31,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Transparency
 - Operational Practices
+- Transparency
 - Continuous Improvement
+- Software Development
 - Agile Frameworks
 - Flow Efficiency
-- Agile Project Management
-- Software Development
 - Pragmatic Thinking
-- Throughput
 - Continuous Learning
+- Lean Principles
+- Throughput
+- Lean Thinking
+- Empirical Process Control
+- Social Technologies
+- Agile Transformation
 resourceTypes:
 - video
 categories:

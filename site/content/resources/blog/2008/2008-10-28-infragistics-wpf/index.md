@@ -23,7 +23,8 @@ aliasesArchive:
 - /blog/infragistics-wpf
 - /infragistics-wpf
 - /resources/blog/infragistics-wpf
-tags: []
+tags:
+- Software Development
 categories: []
 
 ---

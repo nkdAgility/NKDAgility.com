@@ -9,7 +9,7 @@ ResourceImportId: 4182
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-31
-weight: 675
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,12 +29,15 @@ aliasesArchive:
 - /visual-studio-2010-overview---code-management-and-build
 - /blog/visual-studio-2010-overview---code-management-and-build
 - /resources/blog/visual-studio-2010-overview-code-management-build
-categories: []
+categories:
+- Engineering Excellence
 tags:
 - Software Development
-- Practical Techniques and Tooling
-- Modern Source Control
 - Application Lifecycle Management
+- Modern Source Control
+- Engineering Practices
+- Technical Excellence
+- Technical Mastery
 
 ---
 code-management-and-build

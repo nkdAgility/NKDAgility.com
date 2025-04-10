@@ -9,7 +9,7 @@ ResourceImportId: 4189
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-31
-weight: 810
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,9 +30,9 @@ aliasesArchive:
 - /blog/visual-studio-2010-overview---microsoft-test-manager
 - /resources/blog/visual-studio-2010-overview-microsoft-test-manager
 tags:
-- Practical Techniques and Tooling
 - Application Lifecycle Management
 - Software Development
+- Test Automation
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories: []
 

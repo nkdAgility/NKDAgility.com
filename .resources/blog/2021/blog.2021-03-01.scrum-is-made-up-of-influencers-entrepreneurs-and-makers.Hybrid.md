@@ -9,7 +9,7 @@ ResourceImportId: 45946
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-03-01
-weight: 690
+weight: 665
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -33,14 +33,14 @@ aliasesArchive:
 - /blog/scrum-is-made-up-of-influencers--entrepreneurs--and-makers
 - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 tags:
-- People and Process
-- Agile Project Management
 - Value Delivery
 - Product Delivery
+- Agile Product Management
+- Agile Frameworks
+- Agile Leadership
+- Software Development
 categories:
 - Leadership
-- Social Technologies
-- Product Management
 preview: image-4-5-5.png
 
 ---

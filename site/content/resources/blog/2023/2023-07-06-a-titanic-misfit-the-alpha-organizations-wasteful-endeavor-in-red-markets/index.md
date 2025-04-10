@@ -32,7 +32,18 @@ tags:
 - Beta Codex
 - Lean Principles
 - Lean Thinking
-categories: []
+- Organisational Agility
+- Agile Philosophy
+- Complexity Thinking
+- Enterprise Agility
+- Lean Product Development
+- Pragmatic Thinking
+- Organisational Physics
+- Sociotechnical Systems
+- Business Agility
+- Value Stream Management
+categories:
+- Lean
 preview: image-1.jpg
 
 ---

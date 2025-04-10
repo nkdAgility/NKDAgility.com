@@ -9,7 +9,7 @@ ResourceImportId: 10620
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-07-23
-weight: 810
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,8 +30,9 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Software Development
-- Practical Techniques and Tooling
 - Pragmatic Thinking
+- Install and Configuration
+- System Configuration
 categories: []
 preview: naked-alm-jenkins-logo-2-2.png
 

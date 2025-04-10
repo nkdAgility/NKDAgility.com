@@ -32,16 +32,17 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
-- Agile Project Management
 - Software Development
 - Competence
 - Pragmatic Thinking
-- Continuous Improvement
 - Coaching
+- Continuous Improvement
+- Social Technologies
+- Agile Values and Principles
+- Mentoring
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 One of my favorite quotes is from the legendary Peter Drucker: **"Without theory, experience has no meaning. Without theory, one has no questions to ask. Hence, without theory, there is no learning."** This profound idea resonates deeply with my approach to immersive learning, especially in the context of **Scrum** and **Agile**.

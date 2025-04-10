@@ -2,7 +2,7 @@
 title: 'Unlocking Greatness: How the Right Scrum Master Transforms Teams and Organisations'
 description: Discover what sets a great Scrum Master apart! Explore the vital role of team fit, relationship-building, and navigating organisational challenges for success.
 date: 2023-03-13T07:00:19Z
-weight: 700
+weight: 665
 ResourceId: rHFhR3o849k
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,14 +29,20 @@ isShort: false
 tags:
 - Scrum Master
 - Scrum Team
-- People and Process
-- Agile Project Management
 - Sociotechnical Systems
 - Pragmatic Thinking
 - Team Performance
-- Scrum Product Development
+- Agile Frameworks
+- Software Development
+- Coaching
 - Professional Scrum
 - Team Collaboration
+- Team Motivation
+- Agile Leadership
+- Agile Transformation
+- Organisational Agility
+- Agile Product Management
+- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

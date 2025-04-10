@@ -8,67 +8,28 @@
     "reasoning": "The content primarily discusses technical features of the Build vNext system and does not address Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T14:37:27",
-    "ai_confidence": 82.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content provides a detailed exploration of the Build vNext capabilities and demands system, which is a specific tool within the DevOps ecosystem. It discusses practical implementation aspects, such as configuring build agents and defining capabilities and demands, aligning well with the category's focus on practical techniques and tooling. The depth of discussion is significant, covering both the functionality and the implications of using this system, thus demonstrating a strong alignment with the key topics outlined in the category.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-03-15T04:00:14",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Build vNext capabilities and demands system, which relates to internal developer platforms and automation in the application lifecycle. It provides a detailed explanation of how build agents are configured and how capabilities and demands work, aligning with the principles of platform engineering. However, it lacks a broader discussion on enhancing developer productivity or standardisation of tools, which slightly lowers the confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T21:25:45",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the technical features of the Build vNext system in TFS 2015, focusing on its capabilities and demands without any reference to evidence-based management principles or metrics. There are no direct mentions of current value, time to market, or empirical decision-making, which are key aspects of Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-14T22:25:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and functionalities of the Build vNext system without addressing the interplay between software code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-14T22:25:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of the Build vNext system without a focus on learning or discovery processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-14T22:25:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the Build vNext system and its features without any mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -82,24 +43,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T12:35:49",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 82.0,
     "ai_mentions": 16,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content provides a detailed guide on the installation and configuration of the Build vNext capabilities and demands system within Team Foundation Server (TFS) 2015. It explicitly discusses the steps to download TFS, configure build agents, and set up capabilities and demands, which are essential for effective installation and configuration. The depth of discussion includes troubleshooting issues with agents and the implications of system capabilities, aligning well with the key topics of the category. Overall, the content is focused on practical, actionable instructions relevant to the installation and configuration of a specific tool.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-14T22:25:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the technical features of the Build vNext system without addressing transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -119,24 +71,15 @@
     "reasoning": "Content primarily discusses technical features of the Build vNext system without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-14T22:25:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical features of the Build vNext system without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T21:25:25",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of the Build vNext capabilities and demands system in TFS 2015, which is a specific tool rather than a discussion on the broader DevOps philosophy. While it touches on automation and build processes, it lacks a comprehensive exploration of DevOps principles such as collaboration, shared accountability, or cultural shifts. The discussion is more about the functionality of a tool rather than the integration of people, processes, and technology that characterises DevOps.",
     "level": "Ignored"
   },
@@ -158,15 +101,6 @@
     "reasoning": "Content primarily discusses the technical features and functionalities of the Build vNext system, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-14T22:25:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and functionalities of the Build vNext system, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-14T22:25:26",
@@ -174,15 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the Build vNext capabilities and demands system without a clear focus on optimising work throughput or addressing flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-14T22:25:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical features of the Build vNext system without addressing human behaviour, team dynamics, or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -205,10 +130,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-14T22:25:33",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and functionalities of the Build vNext system without focusing on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -223,15 +148,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T04:00:02",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses the features of the Build vNext system, focusing on capabilities and demands in the context of build agents. While it touches on aspects of Continuous Integration (CI) through the build system, it lacks a deeper exploration of engineering practices or methodologies that enhance agility or technical excellence. The discussion is more descriptive of the system's functionality rather than providing insights into best practices or principles that align with the category's core themes.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -253,13 +178,13 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T04:00:19",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the technical aspects of the Build vNext system, focusing on its capabilities and demands without explicitly addressing broader product delivery methodologies or practices. While it touches on aspects of build configuration, it lacks a comprehensive discussion on planning, testing, or deployment strategies that are central to product delivery. The depth of discussion is limited to specific features rather than the overall process of delivering software products effectively.",
     "level": "Ignored"
   },
@@ -281,15 +206,6 @@
     "reasoning": "Content primarily discusses the Build vNext capabilities and demands system, which is focused on build processes rather than Value Stream Management principles.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-14T22:25:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and functionalities of the Build vNext system in VSO, without focusing on specific products or literature related to Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-14T22:25:50",
@@ -301,15 +217,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T14:41:00",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses the Build vNext capabilities within Azure DevOps (formerly VSO), detailing its features, configuration, and improvements over previous systems. It explicitly mentions Azure DevOps services and provides a thorough explanation of how to implement and utilise the Build vNext system, aligning well with the key topics of Azure DevOps. The depth of discussion is significant, covering practical aspects and user experiences, which enhances its relevance to the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Personal": {
     "category": "Personal",
@@ -331,13 +247,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T21:25:40",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses the Build vNext capabilities and demands system in TFS 2015, focusing on technical aspects of build processes rather than the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or the core themes of APOM. The discussion is heavily centred on build system features and configurations, which do not align with the category's focus on product-oriented agile methodologies.",
     "level": "Ignored"
   },
@@ -350,29 +266,17 @@
     "reasoning": "Content primarily discusses the technical features of the Build vNext system and its configuration, without a focus on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T04:00:12",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on the technical aspects of the Build vNext system, detailing its features and functionalities rather than providing a broader industry news perspective or a review. While it mentions the release of TFS 2015 and discusses new capabilities, it lacks a comprehensive analysis of trends or tools in Agile or DevOps, which are central to the 'News and Reviews' category. The depth of discussion is significant in terms of technical detail, but it does not align well with the category's focus on industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T04:00:05",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the Build vNext capabilities and demands system, which relates to the deployment and maintenance stages of the application lifecycle. However, it lacks a comprehensive exploration of the broader ALM principles, methodologies, and tools. While it touches on aspects of build management, it does not delve into governance, compliance, or integration with Agile and DevOps principles, which are key themes of Application Lifecycle Management.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -385,24 +289,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-14T22:26:17",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the Build vNext capabilities and demands system, with no mention of the Definition of Done or its related concepts.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T04:00:32",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 62.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses the technical features and functionalities of the Build vNext system, including capabilities and demands, which aligns with the principles of software craftsmanship and engineering practices. However, while it provides a good level of detail about the system, it lacks a broader discussion on best practices or methodologies that contribute to high-quality software development, which slightly lowers the confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -415,15 +319,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T21:25:42",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the Build vNext capabilities and demands system, which relates to automation in the build process, a key aspect of Continuous Delivery. However, it primarily focuses on the technical details of the build system rather than the broader principles and practices of Continuous Delivery. While there are mentions of simplifying the build process and auto-detection, the discussion lacks depth on Continuous Delivery's core themes such as rapid feedback, cultural aspects, or case studies. Therefore, it aligns with the category but does not fully meet the criteria for a strong focus on Continuous Delivery.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -454,10 +358,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-14T22:26:31",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the Build vNext capabilities and demands system, which is unrelated to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -508,22 +412,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T04:00:25",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the Build vNext capabilities and demands system, which relates to operational practices in the context of build management. However, it primarily focuses on the features of the system rather than providing in-depth strategies or techniques for optimising operational efficiency. While there are mentions of capabilities and demands that could enhance workflow management, the discussion lacks a broader application of operational practices within Agile or DevOps frameworks.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-14T22:26:40",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the Build vNext capabilities and demands system, which is unrelated to Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -574,19 +478,19 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-14T22:26:51",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the Build vNext capabilities and demands system, focusing on build agent configuration rather than automated testing principles or practices.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-14T22:26:52",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical features of the Build vNext system and its configuration, with no focus on team dynamics, collaboration, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -610,31 +514,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T18:31:20",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content provides a detailed discussion on the Build vNext capabilities and demands system, which is a specific aspect of software development related to build systems and CI/CD practices. It explicitly mentions the build system's features, configuration, and the implications for software development processes. The depth of discussion is significant, covering practical examples and configurations, aligning well with the core themes of software development methodologies and practices.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-14T22:26:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Build vNext capabilities and demands system, which is focused on build processes rather than Agile Project Management principles or methodologies.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-14T22:26:59",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical features of the Build vNext system without reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -649,40 +544,40 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-15T04:00:27",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the Build vNext capabilities and demands system, which is related to build processes in a version control context. However, it primarily focuses on the specifics of the build system rather than broader version control practices or methodologies. While it touches on aspects of continuous integration, it lacks a comprehensive discussion on version control systems, branching strategies, or collaboration workflows, which are central to the 'Modern Source Control' category.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-14T22:27:04",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and functionalities of the Build vNext system without addressing empirical process control principles or Agile methodologies.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-14T22:27:05",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical features of the Build vNext system and does not relate to Scrum Values.",
     "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-14T22:27:07",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the Build vNext system and its features, with no clear focus on Azure Boards or Agile project management.",
     "level": "Ignored"
   },
@@ -731,15 +626,6 @@
     "reasoning": "Content primarily discusses technical features of the Build vNext system without any focus on customer satisfaction or related principles.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-14T22:27:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Build vNext capabilities and demands system in VSO, which is unrelated to Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-14T22:27:21",
@@ -758,26 +644,17 @@
     "reasoning": "Content heavily discusses the technical aspects of the Build vNext system and its features, with no mention of psychological safety or related themes.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-14T22:27:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical features of the Build vNext system and its capabilities, without addressing scaling agility or related organisational practices.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T03:59:59",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the Build vNext capabilities and demands system, which relates to software development practices, particularly in the context of build systems and automation. However, it lacks a direct focus on broader engineering excellence principles such as coding standards, quality assurance, or continuous improvement. While it touches on aspects of automation and configuration management, it does not delve deeply into best practices or metrics for assessing engineering performance, which are key themes of the category. Therefore, while there is some relevance, it does not fully align with the core themes of Engineering Excellence.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -817,15 +694,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T04:00:17",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the practical application of the Build vNext capabilities and demands system, which aligns with pragmatic thinking in a DevOps context. It provides specific examples of how to configure build agents and manage capabilities, demonstrating real-world problem-solving. However, while it touches on practical strategies, it lacks a broader discussion on Agile or Scrum principles, which limits its overall alignment with the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -838,29 +715,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-14T22:27:37",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical features of the Build vNext system without a focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-14T22:27:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Build vNext system and its features, with no clear connection to Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-14T22:27:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Build vNext capabilities and demands system in Microsoft VSO, with no clear reference to Scaled Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -901,15 +760,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T04:00:22",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the Build vNext capabilities and demands system, which relates to the operational aspects of software development. However, it lacks a direct focus on the delivery of functional software that meets customer needs, and does not delve into best practices or customer feedback mechanisms. While it touches on the configuration of build agents, it does not provide a comprehensive discussion on working software principles as defined in Agile and Scrum frameworks.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -922,13 +781,13 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-11T10:22:28",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the Build vNext capabilities and demands system, which is a feature related to Continuous Integration. It provides a detailed explanation of how to configure build agents and manage capabilities, which aligns with CI practices. However, it lacks broader discussions on CI principles, best practices, or the role of automated testing, which limits its depth and alignment with the category. Overall, while it is relevant to CI, it does not fully explore the category's key themes.",
     "level": "Secondary"
   },
@@ -997,15 +856,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-13T17:02:09",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the Build vNext capabilities and demands system, which relates to the build process in software development. However, it lacks a direct focus on broader release management strategies, such as version control, release scheduling, or risk management. While it touches on aspects of build definitions and agent capabilities, it does not delve into the overall planning and coordination required for effective release management, thus limiting its relevance to the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1027,15 +886,15 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-03-11T11:48:13",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed discussion on the Build vNext capabilities and demands system within Azure DevOps, specifically focusing on the configuration and management of build definitions. It explicitly mentions the Build vNext system, its features, and how to configure capabilities and demands, which are central to Azure Pipelines. The depth of the discussion is significant, covering practical aspects of using the system, including tagging agents and setting demands for builds. Overall, the content aligns closely with the key topics of Azure Pipelines, justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1057,10 +916,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-14T22:28:08",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical features of the Build vNext system and its configuration, with no clear focus on team collaboration or Agile principles.",
     "level": "Ignored"
   },
@@ -1082,7 +941,7 @@
     "reasoning": "Content primarily discusses the technical features of the Build vNext system and its configuration, without a clear focus on digital transformation strategies or impacts on business operations.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-14T22:28:12",
     "ai_confidence": 0,
@@ -1091,24 +950,15 @@
     "reasoning": "Content primarily discusses the features and functionalities of the Build vNext system in VSO, with no clear focus on Minimum Viable Product concepts or related strategies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-14T22:28:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the Build vNext capabilities and demands system in VSO, with no mention of AI or its integration in Agile or DevOps practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T14:53:20",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the configuration of the Build vNext system, detailing how to set up build agents, manage capabilities, and define demands for builds. It provides specific examples of configuring system capabilities and troubleshooting issues, which aligns well with the core themes of system configuration. The depth of discussion is substantial, covering practical steps and considerations for optimising the build process, thus justifying a high confidence score.",
     "level": "Secondary"
   },
@@ -1123,10 +973,10 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-14T22:28:17",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical features and functionalities of the Build vNext system without addressing any aspects of technical leadership, team dynamics, or agile methodologies.",
     "level": "Ignored"
   },
@@ -1150,25 +1000,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:38:42",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the Build vNext capabilities and demands system in TFS 2015, focusing on build processes and agent configurations. There is no explicit mention of Test First Development principles, success criteria, or testing practices. The discussion lacks alignment with the core themes of Test First Development, and the depth of discussion on related topics is minimal, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T16:43:09",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 72.0,
     "ai_mentions": 80.0,
     "ai_alignment": 65.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses the Build vNext capabilities and demands system, which is a feature related to Microsoft's Team Foundation Server (TFS) and Visual Studio Online (VSO). It explicitly mentions Windows Server Technical Preview and Server 2012 R2, indicating a focus on Windows environments. The discussion includes installation and configuration aspects of the build system, aligning with key topics of the Windows category. However, while it provides substantial detail on the build system, it does not delve deeply into broader Windows operating system functionalities or troubleshooting, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -1192,10 +1042,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-14T22:28:26",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical features of the Build vNext system without addressing team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1219,15 +1069,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T04:00:10",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 65.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 58.0,
+    "final_score": 65.0,
     "reasoning": "The content discusses issues related to the Build vNext system, specifically mentioning a problem with a build agent that is not functioning correctly. It provides insights into how to configure capabilities and demands, which can be seen as troubleshooting steps. However, the primary focus is on the features of the Build vNext system rather than a systematic approach to diagnosing and resolving issues. While there are mentions of troubleshooting, they are not the main emphasis of the content, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1240,13 +1090,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T17:38:45",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses the Build vNext capabilities and demands system in TFS 2015, focusing on technical aspects of build processes rather than any Scrum Master responsibilities or related topics. There are no direct mentions of Scrum, Scrum Masters, or agile principles, and the discussion lacks depth in relation to the role of a Scrum Master.",
     "level": "Ignored"
   },
@@ -1266,18 +1116,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical features of the Build vNext system and does not address working agreements or team collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T03:59:59",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily discusses the technical aspects of the Build vNext system in VSO, focusing on capabilities and demands for build agents. While it touches on a tool relevant to software development, it lacks explicit discussions on Agile methodologies, DevOps principles, or the role of software developers in these contexts. The depth of technical detail is present, but it does not align closely with the core themes of the category, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1300,10 +1138,10 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-14T22:28:39",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and functionalities of the Build vNext system without addressing any aspects of technical debt or its management.",
     "level": "Ignored"
   },
@@ -1354,13 +1192,13 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-03-15T04:00:30",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 45.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 42.0,
+    "final_score": 45.0,
     "reasoning": "The content primarily discusses the Build vNext capabilities and demands system within the context of Visual Studio Online (VSO) and Team Foundation Server (TFS). While it touches on aspects of build definitions and agent capabilities, it does not explicitly mention Azure Repos or its functionalities related to source control management, branching strategies, or pull requests. The focus is more on the build system rather than Azure Repos itself, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
@@ -1400,15 +1238,6 @@
     "reasoning": "Content heavily discusses the technical aspects of the Build vNext system and its features, with no focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-14T22:28:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Build vNext capabilities and demands system in VSO, which is unrelated to Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-14T22:28:56",
@@ -1438,22 +1267,22 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:24:31",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical aspects of the Build vNext capabilities and demands system in TFS 2015, discussing features and configurations without addressing collaboration, decision-making, or value delivery. There are no direct mentions of social technologies or their principles, and the discussion lacks depth in relation to the category's core themes.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:11:02",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the Build vNext system, which is a component of an Internal Developer Platform, focusing on capabilities and demands for build agents. However, it primarily revolves around specific features rather than a comprehensive discussion on IDPs.",
     "level": "Tertiary"
   },
@@ -1468,85 +1297,85 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:34:45",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses the Build vNext capabilities and demands system in the context of Microsoft’s TFS and VSO, with no direct references to Scrum principles, roles, events, or artifacts. While there is a mention of project management through build definitions, it does not align with the core themes of Scrum or provide any depth on Scrum practices.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:15:54",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the Build vNext capabilities and demands system without any explicit mention of the Shift-Left Strategy. While it touches on aspects of build processes, it does not integrate testing, security, or compliance earlier in the development lifecycle, which are core themes of the Shift-Left Strategy. The discussion lacks depth in relation to the proactive identification of issues or enhancing software quality, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T21:25:29",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical features of the Build vNext system in TFS 2015, detailing its capabilities and demands without discussing Continuous Improvement principles. While there are mentions of simplifying processes and enhancing features, these are not framed within the context of Continuous Improvement or its methodologies. The discussion lacks depth in terms of empirical evidence, culture of experimentation, or strategies for integrating Continuous Improvement into organisational processes.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T21:25:32",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical aspects of the Build vNext capabilities and demands system, detailing its features and functionalities. There are no explicit discussions on Common Goals, nor does it connect to the principles of Agile or DevOps in terms of shared objectives or strategic alignment. The content lacks depth in discussing how these features might contribute to team alignment or organisational performance, which are key aspects of the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T21:25:34",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical features of the Build vNext system and its implementation rather than discussing competence in terms of skill development or professionalism. While it touches on capabilities and demands, it does not explicitly address continuous learning, quality outcomes, or fostering a culture of competence, which are central to the category.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T21:25:37",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Build vNext capabilities and demands system in TFS 2015, discussing specific features and functionalities without addressing the broader principles or integration aspects of the One Engineering System. While it touches on build processes, it does not align with the core themes of standardisation, integration, or best practices related to 1ES.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T17:38:40",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses the technical features of the Build vNext system in TFS 2015, focusing on capabilities and demands without addressing the intentional shaping of outcomes, agency, or the principles of Agentic Agility. There are no explicit mentions of human or AI agency, intent, or adaptability, which are central to the category.",
     "level": "Ignored"
   }

@@ -31,16 +31,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
-- Competence
-- Continuous Learning
 - Agile Transformation
-- Agile Project Management
-- Software Development
 - Pragmatic Thinking
-- Software Developers
+- Software Development
+- Continuous Learning
+- Competence
+- Agile Frameworks
 - Agile Values and Principles
+- Coaching
 - Continuous Improvement
+- Agile Philosophy
+- Scrum Master
+- Agile Leadership
+- Agile Planning
+- Agile Strategy
+- Empirical Process Control
+- Professional Scrum
+- Team Performance
 resourceTypes:
 - video
 categories: []

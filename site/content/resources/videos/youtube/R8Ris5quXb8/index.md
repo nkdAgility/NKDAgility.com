@@ -27,15 +27,22 @@ duration: 18
 isShort: true
 tags:
 - Product Backlog
-- Agile Project Management
 - Agile Planning Tools
-- Product Delivery
-- Backlog Refinement
-- Scrum Product Development
 - Agile Planning
-- Product Owner
+- Product Delivery
 - Software Development
+- Product Owner
 - Pragmatic Thinking
+- Backlog Refinement
+- Operational Practices
+- Agile Frameworks
+- Working Software
+- Agile Transformation
+- Flow Efficiency
+- Agile Product Management
+- Agile Strategy
+- Lean Principles
+- Professional Scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6

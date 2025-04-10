@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: course
 ResourceContentOrigin: human
 date: 2017-01-01
-weight: 550
+weight: 500
 creator: Martin Hinshelwood
 type: course
 slug: scaled-professional-scrum-with-nexus-sps-with-certification
@@ -41,16 +41,12 @@ delivery-audiences:
 - Lean Agile Practitioners
 - Teams
 tags:
-- Scrum Product Development
-- Large Scale Agility
-- People and Process
-- Professional Scrum
-- Scaled Agile
-- Scaling Scrum
-- Software Development
 - Agile Frameworks
-- Agile Project Management
-- Practical Techniques and Tooling
+- Large Scale Agility
+- Professional Scrum
+- Software Development
+- Competence
+- Social Technologies
 categories:
 - Scrum
 preview: naked-agility-Professional-Scrum-SPS-1600x900-1.jpg

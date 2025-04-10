@@ -2,7 +2,7 @@
 title: What will you learn on the professional scrum master course?
 description: Discover how the Professional Scrum Master course empowers you to lead agile teams, fostering autonomy and collaboration for optimal success.
 date: 2023-01-19T07:00:14Z
-weight: 775
+weight: 750
 ResourceId: zqwHUwnw0hg
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,16 +29,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
 - Agile Frameworks
-- Increment
 - Empirical Process Control
 - Professional Scrum
 - Scrum Master
 - Scrum Team
 - Software Development
-- People and Process
-- Scrum Product Development
+- Increment
+- Agile Transformation
+- Agile Product Management
+- Team Performance
+- Pragmatic Thinking
+- Agile Planning
+- Agile Strategy
+- Organisational Agility
+- Sociotechnical Systems
+- Transparency
+- Competence
+- Team Collaboration
+- Value Delivery
+- Product Delivery
 resourceTypes:
 - video
 categories:

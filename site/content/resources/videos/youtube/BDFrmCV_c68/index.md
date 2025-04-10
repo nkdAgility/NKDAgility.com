@@ -35,13 +35,19 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Agile Product Management
-- Discovery and Learning
-- Agile Project Management
 - Evidence Based Management
-- Software Developers
 - Agile Philosophy
 - Metrics and Learning
-- People and Process
+- Organisational Agility
+- Continuous Improvement
+- Hypothesis Driven Development
+- Agile Frameworks
+- Agile Transformation
+- Empirical Process Control
+- Operational Practices
+- Agile Values and Principles
+- Personal
+- Value Delivery
 resourceTypes:
 - video
 categories: []

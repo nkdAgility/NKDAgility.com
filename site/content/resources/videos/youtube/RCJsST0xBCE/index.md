@@ -26,10 +26,11 @@ duration: 2399
 isShort: false
 tags:
 - Azure DevOps
-- Practical Techniques and Tooling
 - Install and Configuration
-- Products and Books
 - Software Development
+- Operational Practices
+- Technical Mastery
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

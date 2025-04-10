@@ -9,7 +9,7 @@ ResourceImportId: 186
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-10-22
-weight: 810
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,8 +29,12 @@ aliasesArchive:
 - /resources/blog/branch-madness
 tags:
 - Software Development
-- Practical Techniques and Tooling
 - Troubleshooting
+- Application Lifecycle Management
+- Miscellaneous
+- Pragmatic Thinking
+- Install and Configuration
+- Modern Source Control
 preview: nakedalm-logo-128-link-2-1.png
 categories: []
 

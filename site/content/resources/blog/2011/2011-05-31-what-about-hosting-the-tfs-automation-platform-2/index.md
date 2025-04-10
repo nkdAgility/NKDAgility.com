@@ -9,7 +9,7 @@ ResourceImportId: 3365
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-05-31
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,7 +27,10 @@ aliasesArchive:
 - /what-about-hosting-the-tfs-automation-platform
 - /blog/what-about-hosting-the-tfs-automation-platform
 - /resources/blog/what-about-hosting-the-tfs-automation-platform-2
-tags: []
+tags:
+- Miscellaneous
+- Software Development
+- System Configuration
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories: []
 

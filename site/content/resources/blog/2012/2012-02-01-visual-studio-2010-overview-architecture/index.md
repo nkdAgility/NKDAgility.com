@@ -9,7 +9,7 @@ ResourceImportId: 4191
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-01
-weight: 810
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,7 +29,8 @@ aliasesArchive:
 - /visual-studio-2010-overview---architecture
 - /blog/visual-studio-2010-overview---architecture
 - /resources/blog/visual-studio-2010-overview-architecture
-tags: []
+tags:
+- Software Development
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories: []
 

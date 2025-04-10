@@ -2,7 +2,7 @@
 title: 'Stop Starting and Start Finishing: The Key to Team Success'
 description: Unlock Agile success! Learn to "stop starting and start finishing" for enhanced productivity and team effectiveness. Watch now for valuable insights!
 date: 2024-01-31T14:26:11Z
-weight: 490
+weight: 440
 ResourceId: 8aIUldVDtGw
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -31,22 +31,37 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Throughput
+- Operational Practices
+- Pragmatic Thinking
+- Value Delivery
 - Cycle Time
 - Lean Principles
-- Operational Practices
-- Value Delivery
 - Team Performance
 - Flow Efficiency
 - Lean Thinking
-- Lean
+- Throughput
+- Agile Product Management
+- Software Development
+- Product Delivery
+- Product Owner
+- Agile Frameworks
+- Agile Planning
+- Agile Strategy
+- Agile Transformation
+- Continuous Improvement
+- Lean Product Development
+- Scrum Team
+- Team Collaboration
+- Organisational Agility
+- Professional Scrum
+- Scrum Master
+- Organisational Physics
 resourceTypes:
 - video
 categories:
-- Scrum
+- Lean
 - Product Management
-- Kanban
+- Scrum
 
 ---
 In today's fast-paced business environment, there's often a misconception that the more tasks we juggle, the more productive we are. However, as many successful teams have realized, this couldn't be further from the truth. A popular quote from Lean methodology sums it up perfectly: **"Stop starting and start finishing."** This philosophy emphasizes the importance of focusing on completing work, rather than constantly starting new tasks.

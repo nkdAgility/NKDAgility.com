@@ -9,7 +9,7 @@ ResourceImportId: 45077
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-11-18
-weight: 810
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,15 +29,17 @@ aliasesArchive:
 - /resources/blog/update-scrum-guide-25th-anniversary-scrum-framework
 tags:
 - Agile Frameworks
-- Agile Project Management
-- Scrum Product Development
-- Scrum Team
 - Professional Scrum
+- Scrum Team
 - Software Development
-- News and Reviews
-- People and Process
-- Increment
 - Team Collaboration
+- Agile Planning
+- Agile Product Management
+- Self Organisation
+- Team Performance
+- Increment
+- Value Delivery
+- Product Delivery
 categories:
 - Scrum
 preview: naked-Agility-Scrum-Framework-3-2.jpg

@@ -2,7 +2,7 @@
 title: 'Transforming Scope Creep into Success: Embrace Agility and Deliver Value in a Changing Market'
 description: Struggling with scope creep? Discover how embracing Agile principles can help you adapt to change, prioritise value, and enhance your product delivery.
 date: 2024-12-04T06:00:00Z
-weight: 775
+weight: 750
 ResourceId: qNJ2suVslzE
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,23 +26,44 @@ preview: https://i9.ytimg.com/vi/qNJ2suVslzE/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 259
 isShort: false
 tags:
-- Agile Values and Principles
-- Agile Product Management
-- Software Development
 - Agile Planning
-- Agile Project Management
+- Agile Product Management
 - Agile Strategy
+- Agile Values and Principles
 - Business Agility
 - Organisational Agility
+- Pragmatic Thinking
+- Software Development
 - Value Delivery
 - Market Adaptability
+- Product Delivery
+- Agile Philosophy
+- Agile Transformation
+- Working Software
+- Agile Frameworks
+- Lean Product Development
+- Empirical Process Control
+- Agile Product Operating Model
+- Product Owner
+- Agnostic Agile
+- Complexity Thinking
+- Continuous Improvement
+- Customer Satisfaction
+- Enterprise Agility
+- Social Technologies
+- Current Value
+- Operational Practices
+- Project Management
+- Change Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
+- Scrum
 
 ---
 If you're grappling with scope creep, you're not alone. It's a common challenge that many teams face, and often, it stems from relying on outdated practices and philosophies that were designed for a world of low variance. In environments where change is minimal, creating a detailed plan or Gantt chart seems effective. You can run the plan, manage risks, and feel in control. However, when the variance—the gap between your expectations and reality—exceeds 50%, those traditional tools start to falter, leading to the dreaded scope creep.

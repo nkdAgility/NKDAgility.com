@@ -25,7 +25,7 @@ preview: https://i.ytimg.com/vi/56nUC8jR2v8/maxresdefault.jpg
 duration: 51
 isShort: true
 tags:
-- Events and Presentations
+- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

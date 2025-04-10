@@ -9,7 +9,7 @@ ResourceImportId: 8700
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-09-09
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,9 +30,11 @@ aliasesArchive:
 tags:
 - Software Development
 - Application Lifecycle Management
-- Practical Techniques and Tooling
-- Products and Books
 - Azure DevOps
+- Agile Planning Tools
+- Agile Planning
+- Pragmatic Thinking
+- Product Delivery
 categories: []
 preview: metro-requirements-icon-14-14.png
 

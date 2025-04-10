@@ -9,7 +9,7 @@ ResourceImportId: 3783
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-09-16
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,7 +31,9 @@ aliasesArchive:
 - /not-just-happy--but-ecstatic
 - /blog/not-just-happy--but-ecstatic
 - /resources/blog/not-just-happy-but-ecstatic
-tags: []
+tags:
+- Operational Practices
+- Pragmatic Thinking
 categories: []
 
 ---

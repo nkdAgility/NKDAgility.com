@@ -9,7 +9,7 @@ ResourceImportId: 3606
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-06
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,10 +25,16 @@ aliasesArchive:
 - /resources/blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 tags:
 - Software Development
-- Practical Techniques and Tooling
 - Working Software
 - Install and Configuration
 - Technical Mastery
+- Azure DevOps
+- Application Lifecycle Management
+- Pragmatic Thinking
+- Technical Excellence
+- Increment
+- System Configuration
+- Troubleshooting
 categories: []
 
 ---

@@ -8,18 +8,6 @@
     "reasoning": "Content primarily discusses technical aspects of upgrading build servers and does not relate to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:09:02",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content provides a detailed discussion on the practical aspects of upgrading and configuring Team Foundation Server (TFS) and its build agents, which directly relates to tooling in a DevOps context. It discusses specific tools (TFS 2010 and TFS 2012), methodologies for connecting build agents, and the challenges faced during upgrades, aligning well with the category's focus on practical techniques and tooling. However, while it is rich in detail, it lacks broader discussions on Agile methodologies or metrics, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-15T19:09:58",
@@ -31,41 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T07:55:50",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses technical aspects of Visual Studio and Team Foundation Server upgrades, with no explicit mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any depth in discussing how empirical evidence informs management practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T19:10:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the compatibility and upgrade process of Visual Studio and Team Foundation Server, without a focus on code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T19:10:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details related to upgrading build servers and does not focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T19:10:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the compatibility and upgrade process of Visual Studio and Team Foundation Server, with no mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -79,24 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T12:49:52",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 82.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content provides a detailed discussion on the installation and configuration of Team Foundation Server (TFS) 2012 Update 2, specifically regarding its compatibility with existing TFS 2010 Build Servers. It includes step-by-step instructions for connecting existing build agents, reconfiguring build controllers, and addressing system requirements such as the need for .NET Framework 3.5. The content aligns well with the key topics of the category, focusing on practical installation and configuration processes, while also addressing potential challenges and solutions. The depth of discussion is significant, covering various scenarios and configurations, which supports a high confidence score.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T19:10:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of Visual Studio and Team Foundation Server upgrades, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content primarily discusses technical aspects of upgrading build servers and does not address the interaction between social and technical systems.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T19:10:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical aspects of upgrading build servers and does not focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T07:55:37",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the integration of Visual Studio 2012 with older build servers, focusing on technical details of upgrading and configuration. While it touches on aspects of build automation and infrastructure management, it lacks a broader discussion on the DevOps philosophy, principles, or cultural shifts. The mention of build processes and server configurations is relevant but does not align closely with the core themes of DevOps, such as collaboration, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily discusses technical aspects of upgrading build servers and does not focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T19:10:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical details and support for Visual Studio and TFS, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T19:10:21",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the compatibility and upgrade process of Visual Studio and Team Foundation Server, without a focus on optimising work throughput or addressing flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T19:10:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of upgrading build servers and does not focus on human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -193,19 +118,19 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-15T19:10:25",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of upgrading build servers and does not focus on principles or practices of business agility.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T19:10:27",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of upgrading Team Foundation Server and build agents, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -220,22 +145,22 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T05:21:23",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the technical aspects of upgrading build servers and the compatibility of different versions of Team Foundation Server (TFS). While it touches on relevant technical practices, such as configuration and compatibility, it lacks a broader discussion on methodologies like TDD or CI/CD, which are central to the category of Technical Excellence. The focus is primarily on specific technical details rather than overarching engineering practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-15T19:10:31",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of upgrading software and build servers, with no reference to complexity science or its principles.",
     "level": "Ignored"
   },
@@ -250,13 +175,13 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T05:21:21",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the upgrade process of Visual Studio and Team Foundation Server, which touches on aspects of product delivery, such as deployment and integration of build systems. However, it lacks a broader discussion on methodologies, practices, or strategies that are central to the product delivery category. The focus is more on technical details of the upgrade rather than the overarching principles of delivering software products effectively.",
     "level": "Ignored"
   },
@@ -278,15 +203,6 @@
     "reasoning": "Content primarily discusses the technical aspects of upgrading Visual Studio and Team Foundation Server, with no focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T19:10:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical details and upgrade processes related to Visual Studio and Team Foundation Server, without focusing on specific products or literature relevant to Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T19:10:39",
@@ -298,15 +214,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T14:51:06",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 62.0,
     "ai_mentions": 75.0,
     "ai_alignment": 55.0,
     "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses the compatibility and upgrade paths between Visual Studio 2012 and Team Foundation Server (TFS) 2010, which is part of the Azure DevOps suite. It provides detailed technical information about connecting build servers and agents, which aligns with Azure DevOps functionalities. However, it lacks broader discussions on Azure DevOps services and methodologies, focusing instead on specific technical aspects of TFS. This results in a moderate confidence score, as it is relevant but not comprehensive in covering the full scope of Azure DevOps.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -319,31 +235,31 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-15T19:10:48",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of upgrading Visual Studio and Team Foundation Server, with no focus on Systems Thinking principles or organisational dynamics.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T19:10:50",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the compatibility and upgrade process of Visual Studio and Team Foundation Server, without focusing on the principles or integration aspects of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T07:55:47",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses the technical aspects of Visual Studio 2012 and its integration with older build servers, focusing on upgrade paths and configuration details. It does not mention or align with the Agile Product Operating Model, nor does it discuss any principles or practices related to agile methodologies or product management.",
     "level": "Ignored"
   },
@@ -356,27 +272,15 @@
     "reasoning": "Content primarily discusses technical aspects of upgrading build servers and does not address organisational agility or related strategies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T05:21:29",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on technical details and instructions regarding the compatibility of Visual Studio 2012 Update 2 with older build servers, rather than providing industry news or reviews. While it does mention an update, it lacks broader context about Agile or DevOps trends and does not evaluate tools or methodologies, which are key aspects of the 'News and Reviews' category.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T05:21:25",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the compatibility and upgrade paths between different versions of Team Foundation Server (TFS) and build servers. While it touches on aspects of application management, such as upgrading and maintaining build workflows, it lacks a comprehensive discussion on the broader stages of the application lifecycle, governance, or metrics. The focus is more on technical details of TFS rather than the overarching principles of Application Lifecycle Management.",
     "level": "Ignored"
   },
@@ -391,24 +295,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T20:12:33",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses upgrades and compatibility of Visual Studio and Team Foundation Server, with no mention of Definition of Done or related Agile practices.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T05:21:45",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the technical aspects of upgrading build servers and the compatibility between different versions of Team Foundation Server (TFS). It provides specific details about the challenges and solutions related to software upgrades, which aligns with the principles of software craftsmanship and engineering practices. However, while it touches on important technical topics, it lacks a broader discussion on best practices or methodologies that contribute to high-quality software development, which limits its depth of discussion in the context of Technical Mastery.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -421,13 +325,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T07:55:52",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the integration of Visual Studio 2012 with older build servers, focusing on upgrade paths and technical configurations. While it touches on aspects of build processes, it does not explicitly address Continuous Delivery principles, practices, or benefits. The discussion lacks depth in relation to Continuous Delivery, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
@@ -442,10 +346,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T20:12:33",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on upgrading Team Foundation Servers and build agents, which is unrelated to Lead Time as a metric of time from work initiation to customer delivery.",
     "level": "Ignored"
   },
@@ -460,10 +364,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T20:12:33",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical aspects of Visual Studio and Team Foundation Server, with no relevant discussion on the Definition of Ready.",
     "level": "Ignored"
   },
@@ -514,22 +418,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T05:21:33",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the upgrade process for Visual Studio and Team Foundation Server, which touches on operational practices related to build infrastructure. However, it lacks a direct focus on broader operational efficiency strategies or methodologies like Agile, DevOps, or Lean. While it provides some detail on the technical aspects of upgrading and maintaining build servers, it does not delve into process optimisation or continuous improvement strategies, which are key themes of the category.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T20:12:33",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details related to Visual Studio and Team Foundation Server upgrades, without reference to Scrum roles, team collaboration, or dynamics.",
     "level": "Ignored"
   },
@@ -589,10 +493,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T20:12:33",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of upgrading and configuring Team Foundation Server and build systems, rather than team performance, collaboration, or agile methodologies.",
     "level": "Ignored"
   },
@@ -607,40 +511,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T20:12:33",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio and Team Foundation Server build processes, with no mention of Acceptance Test Driven Development or collaboration on acceptance criteria.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T18:40:11",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the integration and upgrade process of Visual Studio and Team Foundation Server (TFS), which are essential tools in the software development lifecycle. It provides detailed insights into the challenges and solutions related to build server configurations, which aligns well with best practices in software development and version control systems. The depth of discussion on specific technical processes and configurations indicates a strong focus on software engineering practices.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T20:12:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical aspects of Visual Studio and Team Foundation Server, focusing on upgrade paths and build configurations, rather than on Agile Project Management principles or practices.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T20:12:33",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects and upgrades of Visual Studio and TFS, without reference to Agile values and principles.",
     "level": "Ignored"
   },
@@ -655,13 +550,13 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-15T05:21:38",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the compatibility and upgrade paths between different versions of Team Foundation Server (TFS) and its build systems. While it touches on aspects of source control, such as build agents and server configurations, it lacks a focus on broader version control practices, methodologies, or strategies. The discussion is more about specific technical details rather than best practices or collaborative workflows in modern source control.",
     "level": "Ignored"
   },
@@ -703,10 +598,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T20:12:33",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical support for software and build servers, lacking central themes related to organisational change or agility.",
     "level": "Ignored"
   },
@@ -730,23 +625,14 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-03-15T05:21:41",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on technical details regarding the compatibility of Visual Studio 2012 with older build servers, with only brief mentions of customer concerns about upgrading. While it touches on customer experiences, it lacks a comprehensive discussion on customer satisfaction principles or strategies, making it only tangentially related to the category.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T20:12:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily discussing Visual Studio and Team Foundation Server build systems, with no mention of Scrum or its scaling practices.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -767,24 +653,15 @@
     "reasoning": "Content heavily discusses technical aspects of upgrading software and build servers, which is not related to psychological safety.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T20:12:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of connecting and upgrading TFS (Team Foundation Server) and does not address scaling agility or related frameworks, practices, or organizational strategies.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T05:21:21",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the technical aspects of upgrading build servers and the implications for development workflows, which touches on engineering practices. However, it lacks a direct focus on broader principles of engineering excellence, such as software craftsmanship or quality assurance. The discussion is primarily about specific technical upgrades rather than promoting high standards in software development practices.",
     "level": "Ignored"
   },
@@ -826,10 +703,10 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T20:12:34",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused primarily on technical details related to upgrading build servers and configurations in Visual Studio, lacking a central discussion on practical problem-solving strategies in Agile or DevOps contexts.",
     "level": "Ignored"
   },
@@ -844,29 +721,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T20:12:34",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical support and upgrades for Visual Studio and TFS, with no discussions on measuring or enhancing innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T20:12:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses technical aspects of Visual Studio and Team Foundation Server (TFS) upgrade paths, with no relevant focus on Scrum principles, product development, or the Scrum framework.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T20:12:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical aspects of upgrading Visual Studio and Team Foundation Server, which is unrelated to Scaled Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -880,19 +739,19 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-15T20:12:34",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical details and processes related to upgrading Team Foundation Server and does not cover Lean principles, waste elimination, continuous improvement, or related themes.",
     "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-15T20:12:34",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses upgrade paths and configuration of Team Foundation Server (TFS) and does not focus on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
@@ -907,15 +766,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T05:21:31",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the compatibility of Visual Studio 2012 Update 2 with older build servers, which is relevant to working software as it addresses the operational aspects of software upgrades. However, it lacks a direct focus on the characteristics of working software, customer value delivery, or best practices for ensuring software quality. The discussion is more technical and operational rather than strategic or customer-focused, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -928,13 +787,13 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-15T05:21:35",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the compatibility of Visual Studio 2012 with older build servers and the upgrade process for Team Foundation Server (TFS). While it touches on aspects of build infrastructure, it lacks a direct focus on Continuous Integration principles, best practices, or tools. The discussion is primarily technical and procedural, with minimal emphasis on CI as a practice, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -1003,15 +862,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-11T18:02:31",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the compatibility of Visual Studio 2012 Update 2 with older build servers and the implications for upgrading, which touches on aspects of release management such as version control and the challenges of upgrading software. However, it lacks a comprehensive focus on the broader strategies and practices of release management, making it more of a technical discussion rather than a thorough exploration of release management principles.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1024,10 +883,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T20:12:34",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on upgrading Visual Studio and TFS infrastructure rather than discussing the measurement or implications of Cycle Time.",
     "level": "Ignored"
   },
@@ -1051,19 +910,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T20:12:34",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical aspects of upgrading from TFS 2010 to TFS 2012, with no clear discussion on change management strategies or principles.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T20:12:34",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on technical details regarding upgrading and configuring TFS and does not discuss team collaboration or Agile dynamics.",
     "level": "Ignored"
   },
@@ -1085,7 +944,7 @@
     "reasoning": "Content primarily discusses updates to Visual Studio and Team Foundation Server, focusing on technical aspects of server compatibility and build workflows, rather than strategic adoption or integration of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T20:12:34",
     "ai_confidence": 0,
@@ -1094,26 +953,17 @@
     "reasoning": "Content primarily discusses technical aspects of upgrading Visual Studio and TFS build servers, with no focus on MVP, product development, or market validation.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T20:12:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the upgrade process and configuration for Team Foundation Server and does not relate to AI or its applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T11:55:33",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 36,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on the configuration and integration of Team Foundation Server (TFS) with build servers, detailing the processes required for upgrading and reconfiguring build agents. It discusses specific steps for connecting existing build agents to a new server, the implications of hardware and software compatibility, and the necessary configurations for optimal performance. The depth of discussion is significant, covering various aspects of system configuration, including troubleshooting and best practices for managing build environments. Overall, the content aligns well with the key topics of system configuration, justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1153,52 +1003,52 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T18:55:45",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses the integration of Visual Studio 2012 with 2010 Build Servers, focusing on upgrade paths and configuration details. It does not mention Test First Development principles, success criteria, or any testing methodologies related to Test First practices. The discussion is centred around build infrastructure rather than testing strategies, leading to a very low confidence score in relation to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T10:30:32",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 75.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the compatibility and configuration of Visual Studio and Team Foundation Server (TFS) with various Windows Server versions, particularly focusing on the transition from older to newer systems. It directly mentions Windows Server 2003, Windows Server 2008 R2, and Windows Server 2012, which are all relevant to the Windows operating system. The discussion aligns well with the category's core themes, such as installation, configuration, and troubleshooting. The depth of the discussion is substantial, providing detailed steps and considerations for users upgrading their build infrastructure, which is crucial for effective management of the Windows environment.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-15T05:21:21",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
-    "final_score": 18.0,
+    "final_score": 20.0,
     "reasoning": "The content primarily focuses on upgrading and configuring Team Foundation Server and build agents, which relates to deployment only in the context of managing build infrastructure and compatibility. However, it does not detail specific deployment strategies or methodologies.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-15T20:12:34",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of upgrading build servers and does not align with large scale Agile principles, frameworks, or practices.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T20:12:34",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of upgrading software and connection configurations, without reference to team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1222,13 +1072,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T15:00:38",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the challenges and steps involved in upgrading from TFS 2010 to TFS 2012, which includes troubleshooting aspects related to configuration and compatibility issues. However, while it touches on troubleshooting, it primarily focuses on upgrade paths and features rather than providing in-depth methodologies or systematic problem-solving techniques. The discussion is relevant but not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1243,13 +1093,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T18:55:47",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses technical aspects of Visual Studio and Team Foundation Server, with no direct mention of Scrum Master responsibilities or related concepts. It lacks any discussion on agile principles, team dynamics, or the role of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
@@ -1269,15 +1119,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of upgrading from Visual Studio 2010 to 2012 and does not address working agreements, team collaboration, or related topics.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T20:12:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical aspects of connecting older build servers to a newer version of Team Foundation Server, rather than focusing on the role of software developers within Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1397,15 +1238,6 @@
     "reasoning": "Content discusses technical aspects of Visual Studio and Team Foundation Server configurations without any reference to accountability or team dynamics in Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T20:12:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration and upgrading of Visual Studio and Team Foundation Server, without any mention of Kanban principles, scaling approaches, or related topics.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T20:12:34",
@@ -1417,22 +1249,22 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T20:12:34",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the support for Visual Studio, Team Foundation Server, and build server upgrades, without addressing Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:32:57",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical aspects of Visual Studio and Team Foundation Server integration, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. It lacks depth in addressing the core themes of social technologies, such as self-organisation or collective intelligence, and does not provide any insights into organisational culture or behaviour.",
     "level": "Ignored"
   },
@@ -1465,73 +1297,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:41:41",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses the technical aspects of upgrading Team Foundation Server and does not mention Scrum principles, roles, events, or any related topics. It lacks any direct references to Scrum or its practices, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:23:41",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses the compatibility and upgrade paths for Visual Studio and Team Foundation Server, focusing on technical details of build server configurations. It does not address the Shift-Left Strategy, which involves integrating testing, security, and compliance earlier in the software development lifecycle. There are no direct mentions of Shift-Left principles, nor does the content explore the benefits or techniques associated with this strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T07:55:39",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical aspects of integrating Visual Studio 2012 with older build servers, discussing upgrade paths and configurations. While it touches on the idea of simplifying upgrades, it does not engage with the principles of Continuous Improvement, such as fostering a culture of experimentation or data-driven decision-making. The discussion lacks depth in relation to Continuous Improvement methodologies and does not provide empirical evidence or strategies for enhancing processes or team effectiveness.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T07:55:41",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical details regarding the integration of Visual Studio 2012 with 2010 Build Servers. It does not discuss Common Goals, Agile, or DevOps principles. While it touches on upgrade paths and customer challenges, these are not aligned with the concept of shared objectives or strategic alignment within teams.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T07:55:44",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical aspects of integrating Visual Studio 2012 with 2010 Build Servers, discussing upgrade paths and configuration details. While it touches on the challenges of upgrading workflows, it does not explicitly address the concept of competence or continuous skill development in a professional context. The discussion lacks depth in relation to the principles of competence, such as fostering a culture of learning or the impact of competence on team dynamics.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T18:55:41",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the technical aspects of integrating Visual Studio 2012 with 2010 Build Servers, discussing upgrade paths and configuration details. It does not address the concept of Agentic Agility, nor does it explore themes of intentionality, autonomy, or adaptability in the context of human or AI agency.",
     "level": "Ignored"
   }

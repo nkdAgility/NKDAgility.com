@@ -24,7 +24,9 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/2Sal3OneFfo/maxresdefault.jpg
 duration: 59
 isShort: true
-tags: []
+tags:
+- Azure DevOps
+- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

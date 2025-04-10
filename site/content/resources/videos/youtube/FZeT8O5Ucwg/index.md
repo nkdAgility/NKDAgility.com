@@ -26,16 +26,29 @@ preview: https://i.ytimg.com/vi/FZeT8O5Ucwg/maxresdefault.jpg
 duration: 2106
 isShort: false
 tags:
-- Agile Project Management
-- Software Development
-- People and Process
 - Agile Transformation
+- Software Development
 - Organisational Agility
+- Agile Philosophy
 - Agile Product Management
 - Agile Values and Principles
-- Agile Philosophy
 - Agile Strategy
 - Business Agility
+- Continuous Improvement
+- Organisational Culture
+- Product Delivery
+- Agile Frameworks
+- Empirical Process Control
+- Metrics and Learning
+- Pragmatic Thinking
+- Social Technologies
+- Sociotechnical Systems
+- Personal
+- Change Management
+- Enterprise Agility
+- Market Adaptability
+- Agile Leadership
+- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,6 +56,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Product Management
 - Scrum
 
 ---

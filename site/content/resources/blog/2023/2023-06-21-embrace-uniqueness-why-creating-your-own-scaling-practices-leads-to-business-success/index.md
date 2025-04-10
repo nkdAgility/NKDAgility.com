@@ -31,13 +31,19 @@ aliasesArchive:
 tags:
 - Organisational Agility
 - Business Agility
-- People and Process
+- Entrepreneurship
 - Agile Strategy
 - Enterprise Agility
 - Organisational Culture
-- Entrepreneurship
 - Pragmatic Thinking
-categories: []
+- Self Organisation
+- Large Scale Agility
+- Organisational Change
+- Market Adaptability
+- Agile Philosophy
+- Strategic Goals
+categories:
+- Leadership
 preview: naked-agility-technically-agile-Blog-EmbraceUniqueness-1-1-1.jpg
 
 ---

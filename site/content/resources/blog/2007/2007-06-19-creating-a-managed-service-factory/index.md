@@ -9,7 +9,7 @@ ResourceImportId: 377
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-19
-weight: 810
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,6 +25,7 @@ aliasesArchive:
 - /resources/blog/creating-a-managed-service-factory
 tags:
 - Software Development
+- Technical Mastery
 categories: []
 preview: metro-merilllynch-128-link-3-3.png
 

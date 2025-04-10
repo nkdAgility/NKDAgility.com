@@ -9,7 +9,7 @@ ResourceImportId: 9737
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-24
-weight: 385
+weight: 315
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,18 +24,40 @@ aliasesArchive:
 - /quality-enablement-to-achieve-predictable-delivery
 - /resources/blog/quality-enablement-to-achieve-predictable-delivery
 tags:
-- Product Delivery
-- Software Development
-- Working Software
-- Practical Techniques and Tooling
 - Operational Practices
 - Pragmatic Thinking
+- Product Delivery
+- Software Development
 - Engineering Practices
-- Software Developers
+- Working Software
 - Value Delivery
 - Continuous Delivery
+- Technical Excellence
+- Acceptance Test Driven Development
+- Application Lifecycle Management
+- Automated Testing
+- Continuous Improvement
+- Continuous Integration
+- Definition of Done
+- Shift-Left Strategy
+- Test First Development
+- Competence
+- Empirical Process Control
+- Metrics and Learning
+- Release Management
+- Team Performance
+- Evidence Based Leadership
+- Evidence Based Management
+- Product Backlog
+- Test Automation
+- Forecasting
+- Increment
+- Sociotechnical Systems
+- Deployment Frequency
 categories:
 - Engineering Excellence
+- DevOps
+- Product Management
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

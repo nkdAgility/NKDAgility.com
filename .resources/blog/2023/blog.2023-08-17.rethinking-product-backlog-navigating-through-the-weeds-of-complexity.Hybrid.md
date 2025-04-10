@@ -9,7 +9,7 @@ ResourceImportId: 49515
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-08-17
-weight: 775
+weight: 750
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -30,18 +30,32 @@ aliasesArchive:
 - /resources/blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
 tags:
 - Agile Product Management
-- Agile Project Management
-- People and Process
-- Product Backlog
 - Complexity Thinking
 - Software Development
 - Pragmatic Thinking
-- Sensemaking
 - Organisational Agility
-- Scrum Product Development
+- Product Backlog
+- Agile Planning
+- Product Owner
+- Agile Philosophy
+- Sensemaking
+- Self Organisation
+- Agile Strategy
+- Agile Values and Principles
+- Sociotechnical Systems
+- Systems Thinking
+- Organisational Physics
+- Product Delivery
+- Agile Frameworks
+- Agile Planning Tools
+- Agile Transformation
+- Business Agility
+- Organisational Culture
+- Social Technologies
+- Value Delivery
+- Market Adaptability
 categories:
 - Product Management
-- Social Technologies
 - Scrum
 preview: image-1.jpg
 

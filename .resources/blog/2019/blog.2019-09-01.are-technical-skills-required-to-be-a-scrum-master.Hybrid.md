@@ -9,7 +9,7 @@ ResourceImportId: 39894
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-09-01
-weight: 340
+weight: 275
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,16 +31,26 @@ tags:
 - Scrum Master
 - Professional Scrum
 - Scrum Team
-- People and Process
-- Agile Project Management
-- Scrum Product Development
-- Software Development
-- Coaching
 - Pragmatic Thinking
+- Software Development
 - Agile Frameworks
+- Competence
+- Agile Product Management
+- Agile Transformation
+- Agile Leadership
+- Coaching
+- Engineering Practices
+- Technical Mastery
+- Team Performance
+- Agile Planning
+- Mentoring
+- Organisational Agility
+- Sociotechnical Systems
+- Product Delivery
+- Value Delivery
 categories:
 - Scrum
-- Social Technologies
+- Technical Leadership
 preview: 1029723898-1-1.jpg
 
 ---

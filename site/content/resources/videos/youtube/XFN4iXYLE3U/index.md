@@ -34,7 +34,6 @@ sitemap:
 tags:
 - Operational Practices
 - Agile Frameworks
-- Agile Project Management
 - Software Development
 - Throughput
 - Pragmatic Thinking
@@ -42,6 +41,9 @@ tags:
 - Lean Principles
 - Lean Thinking
 - Working Software
+- Continuous Improvement
+- Lean Product Development
+- Product Delivery
 resourceTypes:
 - video
 categories:

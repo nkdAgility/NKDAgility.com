@@ -8,18 +8,6 @@
     "reasoning": "Content primarily discusses the installation process of Visual Studio Team Foundation Server and does not relate to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:41:30",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content provides a detailed step-by-step guide for installing Visual Studio 2008 Team Foundation Server SP1, which aligns with practical techniques and tooling. It discusses specific actions, such as turning off remote access, running SQL backups, and testing services, which are relevant to the category. However, while it mentions practical steps, it lacks broader discussions on methodologies or frameworks that enhance Agile and DevOps practices, leading to a moderate confidence score.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-16T01:49:11",
@@ -31,41 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T09:07:20",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, providing a detailed release and test plan. It does not discuss Evidence-Based Management principles or metrics, nor does it engage with data-informed decision-making. The mention of installation challenges and troubleshooting does not align with the core themes of EBM, which emphasises empirical evidence and strategic improvements.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T01:49:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2008 Team Foundation Server SP1, with no significant focus on code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T01:49:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, detailing steps and technical procedures without discussing discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T01:49:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2008 Team Foundation Server SP1, with no mention of AI, automation, or Agile methodologies.",
     "level": "Ignored"
   },
   "Lean": {
@@ -79,24 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:07:40",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed step-by-step guide for installing Visual Studio 2008 Team Foundation Server SP1, which aligns directly with the category of Install and Configuration. It includes specific installation procedures, a release plan, a test plan, and a back-out plan, demonstrating a clear focus on the technical aspects of installation. The mention of troubleshooting resources further supports its relevance. Overall, the content is highly aligned with the key topics of the category, providing actionable insights and instructions.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T01:49:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2008 Team Foundation Server SP1, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content primarily focuses on the technical installation process of Visual Studio 2008 Team Foundation Server SP1, with no significant discussion on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T01:49:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2008 Team Foundation Server SP1, focusing on technical steps and procedures rather than organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T09:07:01",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, which is more aligned with technical implementation rather than the broader DevOps philosophy. While it touches on aspects of collaboration and planning, it lacks a direct discussion of DevOps principles such as automation, shared accountability, or continuous improvement. The mention of a release plan and test plan indicates some alignment with DevOps practices, but the overall focus remains on installation rather than the cultural and philosophical aspects of DevOps.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2008 Team Foundation Server SP1, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T01:49:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2008 Team Foundation Server SP1, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T01:49:31",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2008 Team Foundation Server SP1, with no focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T01:49:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the technical aspects of installing software and does not discuss team dynamics, collaboration, or human factors in processes.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T01:49:36",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2008 Team Foundation Server SP1, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -220,13 +145,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T07:18:37",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, detailing steps and considerations for a successful installation. While it includes a test plan and a back-out plan, which are relevant to ensuring quality and reliability, the discussion lacks a broader context of engineering practices or methodologies that enhance agility in software development. The mention of installation challenges and references to external resources does not sufficiently align with the core themes of Technical Excellence, which emphasises practices like TDD, CI/CD, and modular architecture. Overall, the content is more operational than strategic, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -250,13 +175,13 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T07:18:34",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, which is more about technical implementation than the broader methodologies and practices of product delivery. While it includes elements of planning and testing, these are not discussed in the context of product delivery frameworks or strategies. The mention of a test plan and back-out plan indicates some alignment with product delivery practices, but the overall focus is on installation specifics rather than the end-to-end delivery process.",
     "level": "Ignored"
   },
@@ -278,15 +203,6 @@
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2008 Team Foundation Server SP1, which does not relate to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T01:49:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2008 Team Foundation Server SP1, with no focus on reviews, analyses, or discussions of products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-16T01:49:48",
@@ -298,13 +214,13 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T07:18:49",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the installation of Team Foundation Server (TFS), which is part of the Azure DevOps suite. However, it primarily focuses on the installation process and personal experiences rather than the broader functionalities, best practices, or methodologies associated with Azure DevOps. While TFS is mentioned, the discussion lacks depth in terms of CI/CD practices, integration with other tools, or agile project management, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -337,13 +253,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T09:07:18",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, with no direct mention of Agile methodologies or the Agile Product Operating Model. While there are references to project management practices, they do not align with the core themes of APOM, such as product-oriented mindsets or continuous delivery. The discussion lacks depth regarding Agile principles, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
@@ -356,24 +272,15 @@
     "reasoning": "Content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, with no clear discussion on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T01:49:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical installation process and personal experiences rather than industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T07:18:39",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, which is a specific technical task rather than a comprehensive discussion on Application Lifecycle Management (ALM). While it touches on aspects of deployment and maintenance, it lacks a broader exploration of the application lifecycle stages, governance, or integration of methodologies like Agile and DevOps. The mention of ALM in the tags does not substantiate a strong alignment with the category's core themes.",
     "level": "Ignored"
   },
@@ -388,24 +295,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T02:46:43",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily focused on installing and configuring Visual Studio Team Foundation Server, with no mention of the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:18:51",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, detailing steps and precautions taken during the installation. While it touches on aspects of software deployment and testing, it lacks a broader discussion on software craftsmanship, architecture, or engineering practices. The mention of installation challenges and a test plan indicates some alignment with technical mastery, but the depth of discussion is limited to procedural instructions rather than principles or methodologies that contribute to high-quality software development.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -418,13 +325,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T09:07:25",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, detailing steps for installation, testing, and backup plans. While it touches on aspects of software deployment, it does not explicitly discuss Continuous Delivery principles, practices, or benefits. The mention of installation and testing does not align with the core themes of Continuous Delivery, which emphasises automation, rapid feedback, and incremental improvements. Overall, the content lacks depth and direct relevance to Continuous Delivery.",
     "level": "Ignored"
   },
@@ -439,10 +346,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T02:46:43",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on the installation process of Visual Studio Team Foundation Server and related activities, with no meaningful discussion about Lead Time or its metrics.",
     "level": "Ignored"
   },
@@ -457,10 +364,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T02:46:43",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses installation procedures and troubleshooting for Visual Studio Team Foundation Server, which is unrelated to the Definition of Ready concept.",
     "level": "Ignored"
   },
@@ -511,22 +418,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T07:18:45",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, detailing steps and considerations for a successful installation. While it touches on operational aspects such as planning and testing, it lacks a direct focus on enhancing operational efficiency or discussing methodologies like Agile, DevOps, or Lean. The mention of a release plan and test plan indicates some alignment with operational practices, but the overall depth and direct relevance to the category are limited.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T02:46:43",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses installation processes and technical details related to Visual Studio and TFS, with no clear focus on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -586,10 +493,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T02:46:43",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio Team Foundation Server and does not discuss team performance, dynamics, or agile methodologies.",
     "level": "Ignored"
   },
@@ -604,40 +511,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T02:46:43",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and configuration of Visual Studio and Team Foundation Server, with no mention of Acceptance Test Driven Development or acceptance criteria.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T12:07:48",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses the installation process of Visual Studio 2008 Team Foundation Server SP1, which is a specific software development tool. While it does mention aspects of software development, such as release planning and testing, the focus is more on the installation procedure rather than broader software development methodologies or practices. The content provides some detail on the steps involved, but lacks a deeper exploration of software development principles or frameworks, leading to a moderate confidence score.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T02:46:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the installation and testing process for Visual Studio 2008 Team Foundation Server and does not address Agile Project Management principles or methodologies.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T02:46:43",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process for Visual Studio Team Foundation Server and does not address Agile values or principles.",
     "level": "Ignored"
   },
@@ -731,15 +629,6 @@
     "reasoning": "Content focuses primarily on the technical aspects of installing Team Foundation Server SP1, with no discussions on customer satisfaction or related methodologies.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T02:46:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the installation process of Visual Studio 2008 Team Foundation Server and does not discuss Scaling Scrum or related practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T02:46:43",
@@ -756,15 +645,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the installation process of Visual Studio 2008 Team Foundation Server, with no mention of psychological safety or related concepts.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T02:46:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the installation process of Visual Studio Team Foundation Server SP1 and does not address scaling agility concepts, frameworks, or practices.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -787,10 +667,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-03-15T07:18:34",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
+    "final_score": 30.0,
     "reasoning": "The content mentions challenges related to time zones in a development team context, but it primarily focuses on the installation steps for Visual Studio 2008 Team Foundation Server and does not thoroughly explore asynchronous development principles or practices.",
     "level": "Ignored"
   },
@@ -814,15 +694,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T07:18:34",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the practical steps taken to install Visual Studio 2008 Team Foundation Server SP1, which reflects a pragmatic approach to problem-solving in a real-world context. However, while it touches on practical strategies and acknowledges challenges, it lacks a deeper exploration of Agile, Scrum, or DevOps principles, which are central to the category of Pragmatic Thinking. The focus is more on installation procedures rather than broader project management or team collaboration strategies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -835,29 +715,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T02:46:43",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical procedures for installing and configuring software, with no clear focus on the Ability to Innovate.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T02:46:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on the installation process of Visual Studio and TFS, with no discussion of Scrum principles, roles, or product development practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T02:46:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses installing Visual Studio Team Foundation Server SP1 and does not address scalable Agile methodologies or practices.",
+    "reasoning": "Content primarily discusses technical procedures for installing and configuring software, with no clear focus on the Ability to Innovate.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -880,10 +742,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-16T02:46:43",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on installing and troubleshooting Visual Studio Team Foundation Server and includes a test plan, but lacks a primary focus on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
@@ -961,10 +823,10 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T02:46:43",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2008 Team Foundation Server and does not address hypothesis formulation, experimentation, or data-driven decision-making.",
     "level": "Ignored"
   },
@@ -988,13 +850,13 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-11T17:02:06",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the installation of TFS SP1 and includes a structured release plan, test plan, and back out plan, which are relevant to release management. However, it lacks a broader discussion on release strategies, coordination, or risk management, limiting its depth and alignment with the category.",
     "level": "Secondary"
   },
@@ -1009,10 +871,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T02:46:43",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process for Visual Studio Team Foundation Server, with no mention of cycle time, its measurement, or its implications.",
     "level": "Ignored"
   },
@@ -1045,19 +907,19 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T02:46:43",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical installation procedures and does not discuss team dynamics or collaboration techniques.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T02:46:43",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2008 Team Foundation Server and does not relate to Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1070,7 +932,7 @@
     "reasoning": "Content primarily discusses the installation process of Visual Studio Team Foundation Server and related technical steps, without a clear focus on strategic digital transformation or business agility.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T02:46:43",
     "ai_confidence": 0,
@@ -1079,26 +941,17 @@
     "reasoning": "Content primarily discusses installation procedures for Visual Studio 2008 Team Foundation Server and does not address Minimum Viable Products or related topics.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T02:46:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2008 Team Foundation Server and does not relate to AI or its application in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-10T18:52:50",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on the installation and configuration of Visual Studio 2008 Team Foundation Server SP1, which directly aligns with the category of System Configuration. It discusses specific steps for installation, including best practices, verification processes, and troubleshooting methods, which are all key aspects of system configuration. The depth of discussion is substantial, providing a detailed release plan, test plan, and back-out plan, indicating a thorough approach to system setup. The content does not deviate into unrelated topics, maintaining a strong focus on practical configuration processes.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1138,37 +991,37 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:27:05",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, with a detailed release plan and troubleshooting advice. While it includes a test plan, it does not discuss Test First Development principles, success criteria, or the role of testing in guiding design and implementation. The mention of a test plan is too brief and lacks depth in relation to Test First Development concepts.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-10T15:05:32",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 78.0,
     "ai_mentions": 90.0,
     "ai_alignment": 70.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on the installation of Visual Studio 2008 Team Foundation Server SP1, which is directly related to the Windows operating system environment. It discusses installation procedures, potential issues, and troubleshooting steps, aligning well with the core themes of the Windows category. The depth of discussion is significant, providing detailed steps and considerations for installation and testing, which enhances its relevance. However, while it is focused on Windows, it does not delve into broader Windows features or configurations, slightly limiting its overall alignment.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-15T07:18:41",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the installation of Visual Studio 2008 Team Foundation Server SP1, which includes a release plan, test plan, and back out plan. While it touches on aspects of deployment, such as preparation and rollback strategies, it lacks a direct focus on broader deployment methodologies like Blue-Green Deployments or Canary Releases. The discussion is more about the specific installation process rather than a comprehensive exploration of deployment strategies, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -1183,19 +1036,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T02:46:43",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the technical installation process of Visual Studio 2008 Team Foundation Server, with no discussion of team dynamics or motivation.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-16T02:46:43",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the installation process of Visual Studio 2008 Team Foundation Server SP1 and does not focus on remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1210,13 +1063,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T10:42:13",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the installation of Visual Studio 2008 Team Foundation Server SP1 and includes a detailed release plan, test plan, and back out plan, which are all relevant to troubleshooting installation issues. It references potential problems and provides a link to a blog post that addresses installation issues, indicating an awareness of troubleshooting practices. However, while it touches on troubleshooting, the primary focus is on the installation process rather than a deep exploration of troubleshooting methodologies or techniques.",
     "level": "Secondary"
   },
@@ -1231,13 +1084,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:27:10",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the installation of Visual Studio 2008 Team Foundation Server SP1, with no direct mention of the Scrum Master role or its responsibilities. While there is a brief mention of team dynamics in the context of installation challenges, it does not align with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles. The depth of discussion is limited to technical installation procedures, which are unrelated to the Scrum Master role.",
     "level": "Ignored"
   },
@@ -1259,15 +1112,6 @@
     "reasoning": "Content heavily focuses on the technical aspects of installing TFS and does not discuss working agreements, team collaboration, or related norms.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T02:46:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of TFS SP1 rather than the role of software developers in Agile and DevOps contexts.",
-    "level": "Ignored"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-16T02:46:43",
@@ -1279,13 +1123,13 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T07:18:54",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, which is more related to operational tasks rather than core engineering practices. While it includes a test plan and mentions testing, it lacks a thorough discussion on Agile methodologies, clean code, TDD, or CI/CD principles. The content does not delve into the fundamental principles of software engineering practices, making it only tangentially related to the category.",
     "level": "Ignored"
   },
@@ -1363,10 +1207,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T02:46:43",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the installation process of Visual Studio Team Foundation Server SP1, which does not relate to Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -1388,15 +1232,6 @@
     "reasoning": "Content primarily discusses the installation process of TFS SP1 and does not focus on accountability principles, team dynamics, or ownership in Agile frameworks.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T02:46:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses installation procedures for Team Foundation Server and related technical processes, which are unrelated to scaling Kanban principles.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T02:46:43",
@@ -1408,22 +1243,22 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T02:46:43",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on installation procedures for TFS and Visual Studio without any mention or discussion of Test Driven Development practices or principles.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:44:21",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical aspects of installing Visual Studio 2008 Team Foundation Server SP1, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it mentions a development team, it does not explore themes of self-organisation, collective intelligence, or value delivery, which are central to the category of Social Technologies.",
     "level": "Ignored"
   },
@@ -1456,73 +1291,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T07:18:34",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, with no direct references to Scrum principles, roles, events, or practices. While it discusses project management tools, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is limited to technical installation steps, lacking any substantial engagement with Scrum concepts.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:34:50",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, detailing steps and plans for installation, testing, and rollback. While it includes a test plan, it does not discuss integrating testing, security, or compliance earlier in the development lifecycle, which is central to the Shift-Left Strategy. The mention of testing is limited to post-installation checks, lacking the proactive approach characteristic of Shift-Left practices.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T09:07:07",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, providing a detailed release and test plan. While it mentions challenges faced during installation, it does not engage with the principles of Continuous Improvement, such as fostering a culture of experimentation or discussing strategies for enhancing processes. The discussion lacks depth in relation to Continuous Improvement concepts, making it only tangentially related.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T09:07:10",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical aspects of installing Visual Studio 2008 Team Foundation Server SP1, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While there are mentions of team dynamics and scheduling challenges, these are not connected to the core themes of Common Goals, such as alignment, ownership, or strategic objectives. The depth of discussion is limited to installation procedures and troubleshooting, which does not contribute to the understanding of Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T09:07:12",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical process of installing Visual Studio 2008 Team Foundation Server SP1, with no explicit discussion on competence or continuous skill development. While it touches on the challenges faced during installation, it does not align with the core themes of competence, such as professionalism, trust, or quality outcomes. The depth of discussion is limited to procedural steps rather than fostering a culture of competence or inspecting and adapting skills.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:27:01",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, with no explicit discussion of Agentic Agility or its principles. While there are mentions of planning and execution, these do not align with the core themes of intentionality, autonomy, or adaptability in shaping outcomes. The content lacks depth in exploring the interplay between human and AI capabilities, making it largely irrelevant to the category.",
     "level": "Ignored"
   }

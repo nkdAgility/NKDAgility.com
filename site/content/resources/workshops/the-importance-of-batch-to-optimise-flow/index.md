@@ -17,7 +17,7 @@ aliasesArchive:
 - /learn/agile-delivery-kit/workshops/The-Importance-of-Batch-to-Optimise-Flow
 - /learn/agile-delivery-kit/workshops/the-importance-of-batch-to-optimise-flow/
 date: 2024-09-17
-weight: 620
+weight: 580
 creator: Martin Hinshelwood
 card:
   button:
@@ -31,12 +31,18 @@ tags:
 - Operational Practices
 - Lean Principles
 - Lean Thinking
-- People and Process
-- Practical Techniques and Tooling
-- Value Delivery
-- Agile Project Management
 - Continuous Improvement
 - Pragmatic Thinking
+- Software Development
+- Throughput
+- Product Delivery
+- Value Delivery
+- Agile Frameworks
+- Agile Product Management
+- Lean Product Development
+- Team Performance
+- Value Stream Management
+- Agile Planning
 
 ---
 ## Duration

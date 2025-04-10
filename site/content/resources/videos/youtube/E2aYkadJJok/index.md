@@ -28,10 +28,11 @@ isShort: true
 tags:
 - Operational Practices
 - Software Development
-- Practical Techniques and Tooling
-- Continuous Improvement
 - Agile Frameworks
+- Continuous Improvement
 - Lean Thinking
+- Pragmatic Thinking
+- Throughput
 sitemap:
   filename: sitemap.xml
   priority: 0.6

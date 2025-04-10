@@ -9,7 +9,7 @@ ResourceImportId: 9661
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-24
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,9 +29,11 @@ aliasesArchive:
 - /resources/blog/tfs-2012-2-issue-detaching-collection-fails-on-snapshotidentities
 tags:
 - Troubleshooting
-- System Configuration
 - Software Development
+- System Configuration
 - Install and Configuration
+- Pragmatic Thinking
+- Technical Mastery
 categories: []
 preview: puzzle-issue-problem-128-link-2-2.png
 

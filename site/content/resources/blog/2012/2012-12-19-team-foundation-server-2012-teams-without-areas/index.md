@@ -9,7 +9,7 @@ ResourceImportId: 9188
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-12-19
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,9 +29,12 @@ aliasesArchive:
 - /resources/blog/team-foundation-server-2012-teams-without-areas
 tags:
 - Software Development
-- Install and Configuration
-- Practical Techniques and Tooling
 - Azure DevOps
+- Install and Configuration
+- Azure Boards
+- Pragmatic Thinking
+- System Configuration
+- Operational Practices
 categories: []
 preview: nakedalm-experts-visual-studio-alm-16-16.png
 

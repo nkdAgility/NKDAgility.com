@@ -27,23 +27,23 @@ preview: https://i.ytimg.com/vi/BRRQ1JWsHpQ/maxresdefault.jpg
 duration: 418
 isShort: false
 tags:
-- Discovery and Learning
 - Team Collaboration
-- People and Process
-- Continuous Learning
 - Pragmatic Thinking
-- Practical Techniques and Tooling
+- Continuous Learning
 - Coaching
 - Organisational Agility
+- Social Technologies
 - Software Development
 - Team Motivation
+- Agile Transformation
+- Continuous Improvement
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 When it comes to training in agile methodologies, one of the most pressing questions I often encounter is: how do we effectively transfer our training experiences into our day-to-day jobs? The answer lies in experimentation. I always encourage participants to try things out, to take the tools and techniques we discuss in class and apply them in their own environments. 

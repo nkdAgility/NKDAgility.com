@@ -9,7 +9,7 @@ ResourceImportId: 4142
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-25
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -34,8 +34,8 @@ aliasesArchive:
 - /blog/visual-studio-2010-overview---a-day-in-the-life-of-----plan--code-&-test
 - /resources/blog/visual-studio-2010-overview-a-day-in-the-life-of
 tags:
-- Events and Presentations
 - Software Development
+- Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories: []
 

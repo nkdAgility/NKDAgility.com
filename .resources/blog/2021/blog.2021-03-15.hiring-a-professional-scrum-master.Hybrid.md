@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-03-15
-weight: 620
+weight: 590
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -24,18 +24,26 @@ aliasesArchive:
 - /hiring-a-professional-scrum-master
 - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 tags:
+- Scrum Master
 - Professional Scrum
 - Scrum Team
 - Software Development
-- People and Process
-- Scrum Master
-- Agile Project Management
-- Technical Leadership
 - Agile Frameworks
-- Coaching
 - Team Performance
+- Agile Product Management
+- Coaching
+- Competence
+- Agile Leadership
+- Agile Planning
+- Empirical Process Control
+- Self Organisation
+- Team Collaboration
+- Product Delivery
+- Mentoring
 categories:
 - Scrum
+- Technical Leadership
+- Leadership
 preview: Wide-screen-scrum-master-3-3.jpg
 
 ---

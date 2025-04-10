@@ -2,7 +2,7 @@
 title: 'Unlocking Agile Success: The Essential Knowledge Every Coach Needs'
 description: Unlock the secrets of effective Agile coaching! Discover essential frameworks, principles, and practical tips to empower your teams and enhance your skills.
 date: 2023-11-15T11:01:00Z
-weight: 695
+weight: 665
 ResourceId: xOcL_hqf1SM
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -25,12 +25,13 @@ preview: https://i.ytimg.com/vi/xOcL_hqf1SM/maxresdefault.jpg
 duration: 64
 isShort: false
 tags:
-- Agile Project Management
 - Agile Frameworks
-- Coaching
-- Agile Transformation
 - Software Development
+- Agile Transformation
+- Coaching
 - Competence
+- Organisational Agility
+- Mentoring
 sitemap:
   filename: sitemap.xml
   priority: 0.6

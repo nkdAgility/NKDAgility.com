@@ -31,16 +31,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Planning
-- Agile Project Management
 - Agile Philosophy
 - Agile Transformation
+- Agile Planning
 - Software Development
-- Agile Values and Principles
 - Agile Frameworks
+- Agile Values and Principles
 - Continuous Improvement
 - Empirical Process Control
 - Team Performance
+- Operational Practices
 resourceTypes:
 - video
 categories: []

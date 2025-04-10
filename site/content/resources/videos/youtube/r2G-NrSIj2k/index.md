@@ -2,7 +2,7 @@
 title: Code Reviews for Quality Assurance
 description: Reimagine code reviews with Martin Hinshelwood! Discover how automation and a shift-left approach enhance quality and speed in software development.
 date: 2024-11-27T06:00:25Z
-weight: 330
+weight: 255
 ResourceId: r2G-NrSIj2k
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -24,16 +24,22 @@ preview: https://i.ytimg.com/vi/r2G-NrSIj2k/maxresdefault.jpg
 duration: 116
 isShort: false
 tags:
-- Shift-Left Strategy
 - Software Development
-- Practical Techniques and Tooling
-- Code and Complexity
+- Shift-Left Strategy
 - Automated Testing
-- Test Automation
-- Engineering Practices
 - Technical Excellence
 - Technical Mastery
+- Test Automation
 - Working Software
+- Flow Efficiency
+- Modern Source Control
+- Engineering Practices
+- Continuous Improvement
+- GitHub
+- Operational Practices
+- Pragmatic Thinking
+- Value Delivery
+- Continuous Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

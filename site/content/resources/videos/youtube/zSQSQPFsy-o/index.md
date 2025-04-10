@@ -2,7 +2,7 @@
 title: Why is Scrum so easy to understand but incredibly hard to master?
 description: "Uncover why Scrum is easy to grasp but tough to master! Join Martin as he shares insights and strategies for navigating its complexities. \U0001F680\U0001F4A1"
 date: 2023-02-28T07:00:18Z
-weight: 770
+weight: 750
 ResourceId: zSQSQPFsy-o
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,16 +29,25 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
-- Transparency
 - Agile Frameworks
 - Software Development
+- Transparency
 - Agile Transformation
-- Scrum Product Development
-- Empirical Process Control
+- Pragmatic Thinking
 - Agile Product Management
-- People and Process
+- Empirical Process Control
 - Professional Scrum
+- Team Performance
+- Sprint Review
+- Agile Philosophy
+- Agile Strategy
+- Psychological Safety
+- Social Technologies
+- Team Collaboration
+- Value Delivery
+- Agile Planning
+- Agile Values and Principles
+- Competence
 resourceTypes:
 - video
 categories:

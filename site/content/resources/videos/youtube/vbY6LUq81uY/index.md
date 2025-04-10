@@ -2,7 +2,7 @@
 title: 'Navigating the Unknown: How to Fund Your Product Like a Venture Capitalist'
 description: Discover how to fund your product like a venture capitalist! Learn to balance risk, iterate on ideas, and embrace the journey of innovation.
 date: 2024-12-10T06:30:00Z
-weight: 850
+weight: 840
 ResourceId: vbY6LUq81uY
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -28,20 +28,27 @@ isShort: false
 tags:
 - Entrepreneurship
 - MVP
-- Discovery and Learning
 - Pragmatic Thinking
 - Lean Startup
 - Hypothesis Driven Development
-- Experimentation
 - Ability to Innovate
 - Lean Product Development
 - Metrics and Learning
+- Product Discovery
+- Value Delivery
+- Product Validation
+- Experimentation
+- Continuous Learning
+- Business Agility
+- Decision Theory
+- Miscellaneous
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

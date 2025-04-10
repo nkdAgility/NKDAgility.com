@@ -7,15 +7,15 @@ ResourceType: podcast
 ResourceContentOrigin: Human
 date: 2024-06-04
 weight: 1000
-categories:
-- Social Technologies
+categories: []
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
 slug: power-politics-communicating-and-building-political-capital-for-agile-transformations
 aliases:
 - /resources/2RYiDJ9l8wh
-tags: []
+tags:
+- Transparency
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2024/06/37154808-1717508586054-52b451df81ef9.jpg)

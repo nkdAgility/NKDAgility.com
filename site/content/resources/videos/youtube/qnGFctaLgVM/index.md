@@ -29,6 +29,7 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories: []

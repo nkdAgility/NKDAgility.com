@@ -9,7 +9,7 @@ ResourceImportId: 4576
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-25
-weight: 495
+weight: 450
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,9 +29,14 @@ aliasesArchive:
 - /resources/blog/is-alm-a-useful-term
 tags:
 - Software Development
-- Software Developers
-- Application Lifecycle Management
 - Product Delivery
+- Application Lifecycle Management
+- Agile Strategy
+- Market Adaptability
+- Organisational Agility
+- Pragmatic Thinking
+- Working Software
+- Technical Mastery
 categories:
 - Engineering Excellence
 preview: nakedalm-logo-128-link-1-1.png

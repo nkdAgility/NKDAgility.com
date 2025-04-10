@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: newsletters
 ResourceContentOrigin: Human
 date: 2021-08-30
-weight: 865
+weight: 850
 preview: class-marketing-Q32021.jpg
 author: MrHinsh
 resourceTypes: newsletter
@@ -21,7 +21,6 @@ aliasesArchive:
 - /resources/newsletters/naked-agility-training-schedule-2021-q4-2022-q1
 categories: []
 tags:
-- Events and Presentations
 - Coaching
 
 ---

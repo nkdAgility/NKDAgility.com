@@ -25,8 +25,8 @@ aliasesArchive:
 - /resources/blog/configure-features-in-team-foundation-server-2013
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
+- Software Development
 categories: []
 
 ---

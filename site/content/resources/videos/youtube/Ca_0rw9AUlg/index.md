@@ -31,15 +31,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Organisational Change
-- Organisational Physics
 - Systems Thinking
-- Agile Philosophy
+- Organisational Physics
 - Organisational Agility
 - Sociotechnical Systems
+- Agile Philosophy
 - Software Development
 - Pragmatic Thinking
+- Agile Leadership
+- Agile Strategy
+- Agile Transformation
+- Business Agility
+- Complexity Thinking
+- Continuous Improvement
+- Enterprise Agility
+- Change Management
+- Decision Making
 resourceTypes:
 - video
 categories: []

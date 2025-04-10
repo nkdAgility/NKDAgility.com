@@ -2,7 +2,7 @@
 title: How does someone become an Agile consultant?
 description: Discover how to become a powerful agile consultant with insights from Martin Hinshelwood. Transform organisations through effective coaching and training!
 date: 2023-03-21T07:00:18Z
-weight: 855
+weight: 840
 ResourceId: oBnvr7vOkg8
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,8 +29,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Agile Project Management
 - Software Development
 - Pragmatic Thinking
 - Competence

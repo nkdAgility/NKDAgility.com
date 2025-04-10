@@ -2,7 +2,7 @@
 title: How does a Scrum team estimate what can be delivered in a Sprint?
 description: "Master Sprint estimation in Scrum! Join Martin as he navigates the challenges of creative tasks and effective planning. Perfect for agile enthusiasts! \U0001F680"
 date: 2023-06-01T07:00:31Z
-weight: 805
+weight: 790
 ResourceId: pyk0CfSobzM
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,14 +29,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
 - Software Development
-- Scrum Product Development
+- Agile Frameworks
 - Agile Planning
 - Scrum Master
-- Agile Frameworks
 - Pragmatic Thinking
+- Scrum Team
+- Agile Product Management
+- Agile Transformation
+- Empirical Process Control
+- Professional Scrum
 - Estimation
+- Product Delivery
+- Team Performance
 resourceTypes:
 - video
 categories:

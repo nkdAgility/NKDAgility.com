@@ -9,7 +9,7 @@ ResourceImportId: 9
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-03-06
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,7 +23,8 @@ aliasesArchive:
 - /blog/visual-studio-alm-mvp-of-the-year-2011
 - /visual-studio-alm-mvp-of-the-year-2011
 - /resources/blog/visual-studio-alm-mvp-of-the-year-2011
-tags: []
+tags:
+- Miscellaneous
 categories: []
 preview: metro-award-link-2-2.png
 

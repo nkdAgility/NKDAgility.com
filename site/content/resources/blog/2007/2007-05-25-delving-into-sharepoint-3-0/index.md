@@ -23,7 +23,8 @@ aliasesArchive:
 - /blog/delving-into-sharepoint-3-0
 - /delving-into-sharepoint-3-0
 - /resources/blog/delving-into-sharepoint-3-0
-tags: []
+tags:
+- Miscellaneous
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

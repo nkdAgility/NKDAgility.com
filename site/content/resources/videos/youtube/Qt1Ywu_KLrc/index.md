@@ -25,12 +25,14 @@ preview: https://i.ytimg.com/vi/Qt1Ywu_KLrc/maxresdefault.jpg
 duration: 2020
 isShort: false
 tags:
-- Install and Configuration
 - Azure DevOps
-- Practical Techniques and Tooling
+- Install and Configuration
 - Software Development
-- Windows
 - Pragmatic Thinking
+- Windows
+- Operational Practices
+- Troubleshooting
+- System Configuration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

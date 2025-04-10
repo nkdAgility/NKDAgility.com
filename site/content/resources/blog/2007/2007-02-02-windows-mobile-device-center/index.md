@@ -23,7 +23,8 @@ aliasesArchive:
 - /blog/windows-mobile-device-center
 - /windows-mobile-device-center
 - /resources/blog/windows-mobile-device-center
-tags: []
+tags:
+- Windows
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

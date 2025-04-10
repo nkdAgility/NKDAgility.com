@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: newsletters
 ResourceContentOrigin: Human
 date: 2023-07-15
-weight: 995
+weight: 1000
 preview: nkdagility-agile-2023-Scotland-Experiance.png
 author: MrHinsh
 resourceTypes: newsletter
@@ -19,12 +19,8 @@ aliases:
 aliasesArchive:
 - /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
 - /resources/newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
-categories:
-- Scrum
-- Social Technologies
-tags:
-- Events and Presentations
-- News and Reviews
+categories: []
+tags: []
 
 ---
 The Agile 2023 Scotland Experience is almost upon us, and NKDAgility proudly sponsors the event!

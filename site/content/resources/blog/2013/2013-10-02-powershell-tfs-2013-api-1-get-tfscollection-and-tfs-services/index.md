@@ -9,7 +9,7 @@ ResourceImportId: 10149
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-10-02
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,7 +32,8 @@ aliasesArchive:
 tags:
 - Software Development
 - Install and Configuration
-- Practical Techniques and Tooling
+- System Configuration
+- Technical Mastery
 categories: []
 preview: metro-powershell-logo-1-1.png
 

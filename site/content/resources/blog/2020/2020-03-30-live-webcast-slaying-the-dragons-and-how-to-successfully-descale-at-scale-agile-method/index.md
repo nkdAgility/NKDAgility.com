@@ -27,8 +27,7 @@ aliasesArchive:
 - /slaying-the-dragons-and-how-to-successfully-descale-at-scale
 - /blog/slaying-the-dragons-and-how-to-successfully-descale-at-scale
 - /resources/blog/live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
-tags:
-- Events and Presentations
+tags: []
 categories: []
 preview: 2020-03-27_21-36-13-1-1.jpg
 

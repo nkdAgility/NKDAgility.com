@@ -24,8 +24,8 @@ aliasesArchive:
 - /connecting-to-sql-server-using-dns
 - /resources/blog/connecting-to-sql-server-using-dns
 tags:
-- Install and Configuration
 - Troubleshooting
+- Install and Configuration
 - System Configuration
 - Windows
 categories: []

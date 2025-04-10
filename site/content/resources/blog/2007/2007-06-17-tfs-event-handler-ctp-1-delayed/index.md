@@ -9,7 +9,7 @@ ResourceImportId: 381
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-17
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,7 +27,9 @@ aliasesArchive:
 - /tfs-event-handler--ctp-1-delayed
 - /blog/tfs-event-handler--ctp-1-delayed
 - /resources/blog/tfs-event-handler-ctp-1-delayed
-tags: []
+tags:
+- Miscellaneous
+- Install and Configuration
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

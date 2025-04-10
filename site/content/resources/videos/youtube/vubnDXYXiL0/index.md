@@ -2,7 +2,7 @@
 title: Are there any Scrum courses that teach you how to scale Scrum?
 description: "Unlock the secrets to scaling Scrum! \U0001F680 Join Martin as he shares strategies to overcome challenges and enhance your Scrum journey. Don't miss out! \U0001F31F"
 date: 2023-10-18T07:00:23Z
-weight: 675
+weight: 640
 ResourceId: vubnDXYXiL0
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,20 +29,31 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scaling Scrum
-- Agile Project Management
-- Scrum Product Development
 - Agile Transformation
 - Software Development
 - Pragmatic Thinking
 - Professional Scrum
 - Large Scale Agility
-- Practical Techniques and Tooling
+- Agile Planning
 - Agile Product Management
+- Continuous Improvement
+- Agile Frameworks
+- Organisational Agility
+- Product Delivery
+- Agile Strategy
+- Team Performance
+- Value Delivery
+- Operational Practices
+- Social Technologies
+- Sociotechnical Systems
+- Team Collaboration
+- Enterprise Agility
+- Scrum Master
 resourceTypes:
 - video
 categories:
 - Scrum
+- Technical Leadership
 
 ---
 # Tailoring Scrum to Scale: Building Your Own Framework for Success

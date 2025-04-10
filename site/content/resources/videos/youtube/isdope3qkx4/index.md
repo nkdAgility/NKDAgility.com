@@ -27,7 +27,8 @@ duration: 2351
 isShort: false
 tags:
 - Software Development
-- Agile Project Management
+- Continuous Improvement
+- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

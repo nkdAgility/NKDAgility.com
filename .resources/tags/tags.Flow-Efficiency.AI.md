@@ -1,5 +1,6 @@
 ---
 title: Flow Efficiency
+abstract: Flow efficiency is the optimisation of work throughput within a value stream, aimed at minimising waste and reducing bottlenecks. This concept is essential for organisations seeking to deliver value in a predictable and sustainable manner, as it significantly influences the speed at which teams can respond to customer demands and market fluctuations. By examining and enhancing flow efficiency, teams can pinpoint delays and implement targeted improvements that boost overall performance. This methodology is closely aligned with Lean principles, which emphasise the removal of non-value-adding activities. Unlike metrics such as cycle time or lead time that focus on specific durations, flow efficiency offers a comprehensive view of how effectively work progresses through the system, promoting collaboration across various teams and disciplines to ensure seamless operation throughout the value stream. By emphasising flow efficiency, organisations foster a culture of continuous improvement, empowering teams to innovate and experiment. This not only increases productivity but also enhances resilience, allowing teams to adapt to evolving circumstances while consistently delivering value. Ultimately, the focus on flow efficiency nurtures an environment conducive to sustainable practices, leading to long-term success and heightened customer satisfaction.
 ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
@@ -31,7 +32,7 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T16:46:33
 concepts:
-- Practice
+- Capability
 
 ---
 Flow efficiency refers to the optimisation of work throughput across the value stream, focusing on minimising waste and reducing bottlenecks. This concept is crucial for organisations aiming to deliver value predictably and sustainably, as it directly impacts the speed at which teams can respond to customer needs and market changes. By analysing and improving flow efficiency, teams can identify areas where delays occur, allowing for targeted interventions that enhance overall performance.

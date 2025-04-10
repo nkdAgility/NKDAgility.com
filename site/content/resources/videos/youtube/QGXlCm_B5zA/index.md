@@ -2,7 +2,7 @@
 title: 'Transform Your Scrum Master Journey: Key Insights from the Advanced PSM Course'
 description: Unlock your potential as a Scrum Master! Discover key insights from the Advanced PSM course that will transform your approach and empower your team.
 date: 2023-03-06T07:00:14Z
-weight: 700
+weight: 665
 ResourceId: QGXlCm_B5zA
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,13 +29,19 @@ isShort: false
 tags:
 - Professional Scrum
 - Scrum Master
-- People and Process
-- Agile Project Management
 - Software Development
-- Continuous Learning
-- Scrum Team
 - Agile Product Management
 - Agile Frameworks
+- Continuous Learning
+- Scrum Team
+- Value Delivery
+- Agile Transformation
+- Organisational Agility
+- Agile Leadership
+- Competence
+- Coaching
+- Product Delivery
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

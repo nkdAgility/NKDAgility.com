@@ -26,16 +26,32 @@ preview: https://i.ytimg.com/vi/Q46T5DYVKqQ/maxresdefault.jpg
 duration: 54
 isShort: true
 tags:
-- Experimentation
-- Empirical Process Control
 - Evidence Based Leadership
 - Decision Making
 - Metrics and Learning
-- Discovery and Learning
+- Experimentation
+- Empirical Process Control
 - Pragmatic Thinking
 - Agile Philosophy
 - Continuous Improvement
+- Ability to Innovate
+- Agile Product Management
+- Continuous Learning
+- Organisational Agility
+- Agile Planning
+- Agile Transformation
+- Evidence Based Management
 - Agile Values and Principles
+- Market Adaptability
+- Operational Practices
+- Competence
+- Software Development
+- Value Delivery
+- Agile Strategy
+- Transparency
+- Decision Theory
+- Sensemaking
+- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

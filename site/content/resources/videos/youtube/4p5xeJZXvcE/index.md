@@ -26,15 +26,23 @@ duration: 39
 isShort: true
 tags:
 - Team Motivation
-- People and Process
-- Team Collaboration
 - Organisational Culture
+- Team Collaboration
 - Team Performance
-- Agile Values and Principles
 - Organisational Agility
 - Agile Leadership
-- Agile Project Management
 - Agile Transformation
+- Agile Values and Principles
+- Coaching
+- Software Development
+- Agile Philosophy
+- Continuous Learning
+- Business Agility
+- Mentoring
+- Pragmatic Thinking
+- Agile Strategy
+- Employee Engagement
+- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,7 +50,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Leadership
 
 ---
 In my journey through the world of agile practices, one lesson has consistently stood out: the importance of patience. It’s a simple yet profound concept that can make or break the success of any team or organisation. As I reflect on my experiences, I’ve come to realise that patience is not just a virtue; it’s a necessity in fostering a healthy, productive environment.

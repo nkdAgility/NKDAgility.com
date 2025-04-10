@@ -2,7 +2,7 @@
 title: 'The Importance of Evaluating Direction: Are You Heading the Right Way?'
 description: "Evaluate your project's direction! \U0001F9ED Discover how to make informed choices and adapt in a changing world. Join us for insights and guidance! \U0001F4A1"
 date: 2024-01-20T07:00:00Z
-weight: 855
+weight: 840
 ResourceId: 17qTGonSsbM
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -30,16 +30,30 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Personal
 - Continuous Improvement
 - Agile Product Management
 - Product Owner
+- Agile Philosophy
 - Agile Strategy
 - Agile Values and Principles
-- Agile Philosophy
-- Discovery and Learning
+- Business Agility
+- Software Development
 - Market Adaptability
+- Personal
+- Product Discovery
+- Agile Leadership
+- Change Management
+- Continuous Learning
+- Empirical Process Control
+- Enterprise Agility
+- Evidence Based Leadership
+- Organisational Agility
+- Pragmatic Thinking
+- Strategic Goals
+- Value Delivery
+- Working Software
+- Product Delivery
+- Sensemaking
 resourceTypes:
 - video
 layout: video

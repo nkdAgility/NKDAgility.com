@@ -1,15 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:04:21",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on Scrum and backlog management, which are specific methodologies rather than broader discussions on social technologies. While it touches on stakeholder engagement and decision-making, it lacks a comprehensive exploration of self-organisation, collective intelligence, or transparency as outlined in the category definition. The depth of discussion is limited to practical training offerings without delving into the underlying social frameworks that drive collaboration and value delivery.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -22,25 +22,25 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T18:44:34",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum and backlog management, which are methodologies that do not align with the core principles of DevOps. While there are mentions of stakeholder engagement and decision-making, these concepts are not directly related to the DevOps philosophy of collaboration, automation, and shared accountability. The discussion lacks depth in DevOps-related topics and does not address the key themes outlined in the DevOps category.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T13:30:37",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on Scrum's Product Backlog Management, which is a critical aspect of product management. It discusses the importance of understanding the product, engaging with stakeholders, and making data-driven decisions, all of which align with the core themes of product management. However, while it provides a good overview of the course and its benefits, it lacks in-depth exploration of methodologies or frameworks beyond Scrum, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
@@ -73,15 +73,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-10T14:11:04",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on Scrum's Product Backlog Management, which is a core aspect of the Scrum framework. It explicitly mentions the importance of the Product Backlog and discusses the course designed to enhance understanding and application of Scrum principles. The alignment with key topics such as Scrum roles and artifacts is strong, particularly in the context of training for Scrum professionals. The depth of discussion is significant, providing insights into stakeholder engagement and empirical decision-making, which are essential for effective Scrum practice.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -94,33 +94,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T18:44:52",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 20,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses data-driven decision-making and empirical decision-making, which aligns with Evidence-Based Management principles. However, the primary focus is on Scrum and backlog management rather than a comprehensive exploration of EBM concepts. While there are relevant mentions, the depth of discussion on EBM-specific metrics and outcomes is limited.",
-    "level": "Tertiary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T23:36:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on backlog management rather than code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T23:36:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on Scrum and does not discuss Scaling Kanban principles or applications.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -133,15 +115,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-10T11:58:39",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on Scrum, specifically on Product Backlog Management, which is a key aspect of the Scrum framework. It discusses the importance of understanding the product and engaging with stakeholders, aligning well with Agile principles. The depth of discussion is significant, providing insights into training and practical applications of Scrum, which enhances organisational agility. However, while it is heavily centred on Scrum, it does not explore other Agile frameworks or provide a comparative analysis, which slightly limits its overall alignment with the broader category of Agile Frameworks.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -154,10 +136,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T23:36:28",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on promoting a training course for Scrum Product Backlog Management without discussing the Definition of Ready specifically.",
     "level": "Ignored"
   },
@@ -168,15 +150,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on training for effective backlog management within Scrum rather than analyzing trends or their implications in Agile or DevOps practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T23:36:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and backlog management without any emphasis on scaling Agile practices across multiple teams or enterprise-level implementation.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -217,15 +190,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-06T15:09:24",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 62.0,
     "ai_mentions": 15,
     "ai_alignment": 25,
     "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on a course related to Scrum's Product Backlog Management, which is essential for team performance in an Agile context. It discusses the importance of understanding product dynamics and stakeholder engagement, which are crucial for enhancing team collaboration and effectiveness. However, while it touches on team dynamics, it lacks in-depth exploration of specific team performance metrics or methodologies, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -247,24 +220,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-10T18:06:55",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on Scrum's Product Backlog Management, which is a crucial aspect of product delivery. It discusses the importance of understanding the product, engaging with stakeholders, and making data-driven decisions, all of which align with the core themes of product delivery. The depth of discussion is significant, providing insights into how effective backlog management can lead to project success. However, while it is closely related to product delivery, it does not cover all aspects of the category comprehensively, hence the score reflects a strong but not complete alignment.",
     "level": "Secondary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T23:36:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum's Product Backlog Management and related training, without any mention of AI or its application in Agile or DevOps.",
-    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -275,18 +239,6 @@
     "reasoning": "Content heavily discusses Scrum and backlog management without a direct focus on digital transformation strategies or tools.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-14T21:48:18",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content primarily focuses on Scrum's Product Backlog Management, which inherently involves team dynamics, stakeholder engagement, and the processes that facilitate effective collaboration. It discusses the importance of understanding human factors in managing the backlog and highlights the need for training to improve team performance. While it does touch on methodologies, the emphasis on human behaviour and team collaboration aligns well with the 'People and Process' category, warranting a high confidence score.",
-    "level": "Secondary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-17T23:36:29",
@@ -295,18 +247,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum and backlog management, which are unrelated to Test Driven Development principles.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-14T21:48:35",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
-    "non_ai_confidence": 30,
-    "final_score": 81.0,
-    "reasoning": "The content primarily focuses on Scrum's Product Backlog Management, which is a key aspect of Agile Project Management. It discusses the importance of understanding the product, engaging with stakeholders, and making data-driven decisions, all of which align closely with agile principles. The depth of discussion regarding the course and its relevance to Scrum practices indicates a strong emphasis on agile methodologies, particularly in the context of backlog management.",
-    "level": "Primary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -326,21 +266,12 @@
     "reasoning": "Content primarily discusses Product Backlog Management and the benefits of a training course, with no significant focus on accountability or team dynamics related to Agile principles.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T23:36:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Scrum's Product Backlog Management and training offerings, without clear emphasis on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T23:36:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on Scrum's Product Backlog Management and does not discuss release management processes or practices.",
     "level": "Ignored"
   },
@@ -364,58 +295,58 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-14T21:47:17",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on Scrum's Product Backlog Management and the associated training, which is relevant to agile practices. However, it lacks a direct discussion on technical leadership principles, such as mentoring, team dynamics, or servant leadership. While it touches on stakeholder engagement and decision-making, these aspects are more about Scrum processes than about leading teams technically. Therefore, the confidence score reflects a moderate alignment with the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-03-14T21:47:51",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on Scrum's Product Backlog Management, which is a crucial aspect of Agile planning. It discusses the importance of backlog management, stakeholder engagement, and decision-making, aligning well with the core themes of Agile Planning Tools. However, while it provides a good overview and some depth, it lacks detailed discussions on specific tools or metrics, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T16:30:44",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily focuses on a course related to Scrum's Product Backlog Management, which is a crucial aspect of the Scrum framework. While it mentions the role of Scrum Masters and their importance in engaging stakeholders and making data-driven decisions, the discussion is more centred on the Product Backlog rather than the Scrum Master's specific responsibilities and influence. Therefore, while there is a significant connection to the Scrum Master role, it does not delve deeply into the broader responsibilities and impact of the Scrum Master within a Scrum Team or organisation.",
     "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-14T21:47:20",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on Scrum's Product Backlog Management, which is a crucial aspect of Agile Planning. It discusses the importance of understanding the product, engaging stakeholders, and making data-driven decisions, all of which align with Agile principles. The depth of discussion on backlog management and its role in project success indicates a strong emphasis on Agile Planning methodologies. However, while it is detailed, the content is somewhat promotional and lacks broader discussions on Agile Planning techniques and strategies beyond backlog management.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T23:36:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on backlog management rather than Agile values and principles.",
     "level": "Ignored"
   },
@@ -430,13 +361,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:30:47",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum's Product Backlog Management and does not discuss Test First Development principles, success criteria, or testing practices. It lacks any mention of automated or manual testing approaches, making it irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
@@ -487,37 +418,37 @@
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-03-14T21:48:25",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on promoting a training course related to Scrum's Product Backlog Management. While it mentions the importance of managing the product backlog, it lacks detailed discussions on backlog refinement techniques, prioritisation methods, or the role of the Product Owner in backlog management. The content does not delve into the specific practices or collaborative techniques that are essential for effective backlog refinement, which diminishes its alignment with the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-14T21:47:38",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum's Product Backlog Management and does not explicitly discuss the Ability to Innovate. While it mentions making data-driven decisions, it lacks a comprehensive exploration of frameworks, metrics, or strategies specifically aimed at enhancing innovation capabilities. The discussion is more centred on Scrum practices rather than fostering a culture of innovation or using Evidence-Based Management principles.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-14T21:48:10",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on Scrum's Product Backlog Management, which is a key aspect of Agile practices. It discusses the importance of understanding product dynamics and stakeholder engagement, aligning with Agile principles. However, while it touches on Agile transformation concepts, it lacks a broader discussion on change management strategies, leadership roles, or organisational readiness, which are crucial for a comprehensive Agile transformation narrative.",
     "level": "Secondary"
   },
@@ -541,33 +472,12 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T23:36:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum Product Backlog Management and training offerings, without a clear emphasis on the Scrum Values.",
     "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T23:36:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum's Product Backlog Management, which is focused on agile methodologies and specific course offerings rather than resilience and change management principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-14T21:47:34",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 75.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content primarily focuses on a specific course related to Scrum's Product Backlog Management, which is a practical technique within Agile methodologies. It discusses the importance of backlog management, stakeholder engagement, and data-driven decision-making, aligning well with the core themes of the category. The depth of discussion is significant, providing insights into how the course can enhance team performance and project success. However, while it mentions practical techniques, it does not delve deeply into specific tools or frameworks beyond Scrum, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -580,15 +490,15 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-03-14T21:48:00",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the Product Backlog in the context of a training course, highlighting its importance in Scrum projects. It provides a clear definition and purpose of the Product Backlog, emphasising its role in stakeholder engagement and decision-making. The depth of discussion includes practical applications and the necessity of understanding the Product Backlog for project success, aligning well with the key topics outlined in the category. Overall, the content is focused on the Product Backlog, making it a primary focus rather than a secondary mention.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Personal": {
     "category": "Personal",
@@ -599,56 +509,35 @@
     "reasoning": "Content is primarily focused on promoting a Scrum course and detailing its benefits, lacking personal reflections or experiences.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-14T21:47:41",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content primarily focuses on a specific Scrum training course, which is related to the category of events and presentations. However, it does not explicitly discuss any particular event, presentation, or conference. While it mentions upcoming training classes, the emphasis is more on the course content and benefits rather than on the events themselves. Therefore, while there is some alignment with the category, it lacks depth and direct mentions of events or presentations.",
-    "level": "Tertiary"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T23:36:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on Scrum's Product Backlog Management and training, not on working agreements or teamwork collaboration.",
     "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-17T23:36:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, specifically focusing on backlog management, rather than market share strategies or methodologies.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-11T14:32:57",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily focuses on a course related to Product Backlog Management, which is a specific aspect of Scrum. While it mentions the importance of the Product Backlog and its management, it does not delve deeply into the roles, collaboration, or dynamics of a Scrum Team. The discussion is more about the course offering rather than the team interactions or practices that contribute to a high-performing Scrum Team.",
     "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T23:36:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses team-level Scrum practices and backlog management rather than strategies for scaling agility across the organization.",
-    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -691,44 +580,44 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T23:36:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum's Product Backlog Management and related training, without discussing remote work practices or Agile methodologies specifically tailored for distributed teams.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T23:36:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum's Product Backlog Management, focusing on project management and training rather than change management strategies or principles.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-14T21:48:32",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on Scrum's Product Backlog Management and the importance of training for corporate teams. While it mentions team dynamics and stakeholder engagement, it does not delve deeply into the broader themes of team collaboration, such as trust, psychological safety, or cross-functional teamwork. The discussion is more centred on individual roles and training rather than enhancing team collaboration as a primary focus.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-17T23:36:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Scrum's Product Backlog Management and does not focus on the Daily Scrum event.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T23:36:29",
     "ai_confidence": 0,
@@ -746,18 +635,6 @@
     "reasoning": "Content heavily discusses Scrum and product backlog management with no relevance to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-14T21:47:28",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on Scrum's Product Backlog Management and the associated training course. While it mentions the importance of understanding product dynamics and stakeholder engagement, it lacks a strong emphasis on discovery and learning methodologies. The discussion is more centred on project management and training rather than exploring innovative processes or continuous learning, which are core to the category. Therefore, while there are some relevant mentions, the overall alignment and depth of discussion do not strongly support the category.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T23:36:29",
@@ -769,22 +646,22 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T18:44:47",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on Scrum's Product Backlog Management, which is a specific agile practice rather than a broader discussion on the Agile Product Operating Model. While it touches on stakeholder engagement and data-driven decision-making, it lacks a comprehensive exploration of the APOM principles, such as transitioning to a product ethos or operational stability in product delivery. The depth of discussion is limited to Scrum practices, which do not fully align with the core themes of the Agile Product Operating Model.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-17T23:36:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on backlog management training rather than employee engagement strategies.",
     "level": "Ignored"
   },
@@ -799,10 +676,10 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T23:36:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum's Product Backlog Management, focusing on backlog management rather than market adaptability strategies.",
     "level": "Ignored"
   },
@@ -817,13 +694,13 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-03-14T21:47:53",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions the importance of engaging with stakeholders transparently, which aligns with the concept of transparency in Agile. However, the primary focus is on backlog management and course promotion rather than a detailed discussion of transparency practices or its impact on team dynamics. The depth of discussion on transparency is limited, making it a secondary theme rather than a primary focus.",
     "level": "Ignored"
   },
@@ -838,22 +715,22 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-14T21:48:22",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses decision-making in the context of Scrum's Product Backlog Management, highlighting the importance of data-driven decisions and stakeholder engagement. However, while it touches on evidence-based practices, it primarily focuses on promoting a course rather than providing a detailed exploration of structured decision-making methodologies. The discussion is relevant but lacks the depth and breadth expected for a primary focus on decision-making.",
     "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T23:36:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum's Product Backlog Management and training courses, with minimal emphasis on metrics or learning frameworks.",
     "level": "Ignored"
   },
@@ -868,10 +745,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T23:36:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum and Product Backlog Management rather than Lean Product Development principles.",
     "level": "Ignored"
   },
@@ -882,15 +759,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily focuses on Scrum's Product Backlog Management and the related training courses, rather than on mentoring techniques or the role of mentorship in Agile environments.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T23:36:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on Scrum practice and backlog management without discussing AI or automation.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -913,22 +781,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-14T21:47:48",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on Scrum's Product Backlog Management, which is a crucial aspect of operational practices within Agile frameworks. It discusses the importance of effective backlog management, stakeholder engagement, and data-driven decision-making, aligning well with the core themes of operational efficiency and delivery. However, while it provides some depth in discussing the course and its benefits, it lacks extensive detail on specific operational techniques or metrics that would further enhance its relevance to the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T23:36:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum framework and backlog management, without addressing the broader Agile philosophy.",
     "level": "Ignored"
   },
@@ -943,10 +811,10 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T23:36:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum's Product Backlog Management and training courses, with coaching being a minor aspect rather than a central discussion.",
     "level": "Ignored"
   },
@@ -961,13 +829,13 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-14T21:48:13",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a specific Scrum course related to Product Backlog Management, which does not explicitly discuss Continuous Learning principles or practices. While it touches on the importance of training and skill development, it lacks a strong emphasis on growth mindset, knowledge sharing, or feedback loops that are central to Continuous Learning. The discussion is more about course offerings than fostering a culture of continuous improvement.",
     "level": "Ignored"
   },
@@ -982,10 +850,10 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T23:36:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on Scrum's Product Backlog Management and does not discuss portfolio management topics such as strategic alignment, investment prioritization, or value stream optimization.",
     "level": "Ignored"
   },
@@ -1000,13 +868,13 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-11T17:35:14",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 30,
-    "final_score": 81.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on Scrum's Product Backlog Management, which is a critical aspect of Agile Product Management. It discusses the importance of understanding the product, engaging with stakeholders, and making data-driven decisions, all of which align closely with Agile principles. The depth of discussion regarding the Product Backlog and its management indicates a strong emphasis on Agile methodologies, particularly in the context of product management. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
     "level": "Primary"
   },
@@ -1021,20 +889,11 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T23:36:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum's Product Backlog Management and Scrum methodologies, which do not align with Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T23:36:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on Product Backlog Management in Scrum, which is not directly related to scaling Scrum practices or frameworks for large organizations.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
@@ -1046,27 +905,15 @@
     "reasoning": "Content heavily discusses Scrum roles, events, and training for backlog management without a central focus on sociotechnical system interactions.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-13T15:13:13",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content primarily focuses on promoting a specific training course related to Scrum and backlog management, which aligns with the category of Products and Books. However, it lacks detailed reviews or analyses of literature or tools, and instead serves as a promotional piece for a service. While it mentions the importance of understanding Scrum principles, it does not delve deeply into the methodologies or frameworks presented in literature, nor does it provide comparisons or recommendations for other resources.",
-    "level": "Secondary"
-  },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-14T21:47:46",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses Scrum's Product Backlog Management and mentions empirical decision-making, which aligns with the principles of empirical process control. However, the focus is primarily on the course offering rather than a deep exploration of empirical process control itself. While there are relevant themes, the discussion lacks comprehensive detail on transparency, inspection, and adaptation, which are core to the category.",
     "level": "Secondary"
   },
@@ -1081,13 +928,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-14T21:48:02",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on a course about Scrum's Product Backlog Management, which is relevant to Agile practices. It discusses practical applications, such as stakeholder engagement and data-driven decision-making, aligning with pragmatic thinking. However, while it touches on real-world applications, the depth of discussion on navigating complexity and uncertainty is limited, and it lacks explicit references to broader pragmatic strategies or case studies.",
     "level": "Secondary"
   },
@@ -1111,15 +958,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-14T21:47:57",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on a training course for Scrum's Product Backlog Management, which is a component of Agile methodologies. While it discusses the importance of managing the Product Backlog effectively, it does not delve deeply into the characteristics of working software or provide substantial insights into delivering functional software that meets customer needs. The discussion is more about training and theory rather than practical examples or metrics related to working software.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1150,36 +997,36 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T23:36:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum's Product Backlog Management and training related to Agile practices, rather than discussing overarching product strategy methodologies or frameworks.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T21:47:22",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on Scrum and backlog management, which are integral to Agile methodologies in software development. It discusses the importance of the Product Backlog in Scrum projects, emphasising stakeholder engagement and decision-making, aligning well with core themes of software development practices. The depth of discussion is substantial, providing insights into training and practical applications, which enhances its relevance to the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-03-13T15:35:12",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of data-driven decisions in the context of Scrum's Product Backlog Management, which aligns with the principles of Evidence-Based Leadership. However, the focus is primarily on training and course offerings rather than a deep exploration of evidence-based practices in leadership. While there are mentions of empirical decision-making, the overall depth and direct discussion of evidence-based leadership principles are limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1192,13 +1039,13 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-03-14T21:47:17",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum and backlog management, with only brief mentions of decision-making processes. While it discusses making data-driven decisions, it lacks a comprehensive exploration of decision theory concepts such as heuristics, biases, or frameworks. The depth of discussion on decision-making is minimal, primarily serving as a secondary aspect to the main topic of Scrum training.",
     "level": "Ignored"
   },
@@ -1213,24 +1060,12 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-17T23:36:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on Scrum's Product Backlog Management and related training, with no significant discussion on cross-functional teams.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-11T10:05:22",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content primarily focuses on Scrum and backlog management, which are relevant to software development practices. However, while it mentions developers and Scrum teams, the discussion is more centred on training and course offerings rather than in-depth exploration of Agile or DevOps methodologies. The alignment with the category is moderate, as it touches on key themes but lacks detailed insights into the role of developers within these frameworks.",
-    "level": "Tertiary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1252,33 +1087,24 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T23:36:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum's Product Backlog Management and training courses rather than installation or configuration of tools.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-03-14T21:48:20",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 82.0,
     "ai_mentions": 16,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on the role of the Product Owner in managing the product backlog, which is a key responsibility of this position. It discusses stakeholder engagement and the importance of understanding customer needs, aligning well with the core themes of the Product Owner's role. The depth of discussion is substantial, providing insights into effective backlog management and the necessity of training for Product Owners. However, while the content is rich in relevant information, it is somewhat promotional in nature, which slightly detracts from its focus on the responsibilities and practices of the Product Owner.",
-    "level": "Secondary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T23:36:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on promoting a training course for Scrum Product Backlog Management rather than providing news updates or reviews relevant to Agile or DevOps.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1300,10 +1126,10 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T23:36:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum's Product Backlog Management and related training, which are focused on Scrum processes rather than the broader scope of Application Lifecycle Management.",
     "level": "Ignored"
   },
@@ -1318,19 +1144,19 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T23:36:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses product backlog management within the Scrum framework, without focusing on leadership roles or practices related to Agile Leadership.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T23:36:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on backlog management rather than team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1345,10 +1171,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T23:36:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum's Product Backlog Management and does not focus on validating product ideas through user engagement or testing methodologies.",
     "level": "Ignored"
   },
@@ -1363,13 +1189,13 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-14T21:47:31",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on a training course for Scrum's Product Backlog Management, which is relevant to value delivery as it discusses managing the backlog effectively to enhance project success. However, while it touches on aspects of stakeholder engagement and decision-making, it lacks a deeper exploration of iterative development principles or specific value delivery strategies. The discussion is more about the course offering than a comprehensive analysis of value delivery methodologies.",
     "level": "Secondary"
   },
@@ -1393,27 +1219,15 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-03-14T21:47:17",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum's Product Backlog Management, which is more about project management and implementation rather than exploring methodologies for product discovery. While it touches on understanding the product and engaging with stakeholders, it lacks a direct focus on user research, validating ideas, or defining product features, which are core themes of product discovery.",
     "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-14T21:48:08",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
-    "non_ai_confidence": 20,
-    "final_score": 80.0,
-    "reasoning": "The content explicitly discusses Scrum's Product Backlog Management, which is a core aspect of Scrum Product Development. It highlights the importance of the Product Backlog, stakeholder engagement, and data-driven decision-making, aligning well with the key topics of the category. The depth of discussion is substantial, providing insights into the course's relevance for corporate teams and the skills needed for effective backlog management.",
-    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1426,24 +1240,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T23:36:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Product Backlog Management and does not address the Definition of Done.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-14T21:47:24",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on Scrum's Product Backlog Management, which is a technical practice rather than a strategic discussion. While it mentions the importance of understanding stakeholders and market dynamics, it lacks a comprehensive exploration of Agile strategy principles such as organisational vision alignment or long-term adaptability. The discussion is more about practical training than strategic implementation, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Increment": {
     "category": "Increment",
@@ -1465,13 +1279,13 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-14T21:47:17",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum's Product Backlog Management, which is a specific aspect of Agile methodologies. While it mentions the importance of engaging with stakeholders and making data-driven decisions, it does not delve into broader organisational agility concepts such as leadership roles, cross-functional teams, or continuous improvement strategies. The discussion is more about the mechanics of Scrum rather than the cultural and structural shifts necessary for organisational agility.",
     "level": "Ignored"
   },
@@ -1513,85 +1327,85 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:17:17",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 32,
     "non_ai_confidence": 50,
-    "final_score": 83.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on Scrum, specifically on Product Backlog Management, which is a key aspect of the Scrum framework. It discusses the importance of the Product Backlog, stakeholder engagement, and the need for effective management within Scrum projects. The depth of discussion is significant, providing insights into training and practical applications, which aligns well with the core themes of Scrum. The explicit mentions of Scrum and its principles throughout the content contribute to a high confidence score.",
     "level": "Primary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:55:10",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum and backlog management, with no explicit discussion of integrating testing, security, or compliance earlier in the development process. It does not address the principles or benefits of the Shift-Left Strategy, nor does it provide techniques or case studies related to this approach.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T18:44:37",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum's Product Backlog Management and does mention data-driven decision-making, which aligns with Continuous Improvement. However, it lacks a comprehensive discussion on the broader principles of Continuous Improvement, such as fostering a culture of experimentation or integrating Continuous Improvement into organisational processes. The emphasis is more on training and course offerings rather than on continuous improvement practices themselves.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T18:44:39",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum's Product Backlog Management and the associated training course. While it touches on stakeholder engagement and decision-making, it does not explicitly discuss the concept of Common Goals or their significance in Agile and DevOps. The alignment with the category is weak, as the content lacks depth in exploring how shared objectives guide decision-making or connect individual contributions to the overall mission. Overall, the content is more promotional and instructional rather than a discussion on Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T18:44:42",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 62.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of mastering Scrum's Product Backlog Management, which aligns with the concept of competence through skill development and professional training. However, while it mentions the need for skills and understanding, it does not delve deeply into continuous learning or the broader implications of competence in Agile methodologies, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:44:44",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum and backlog management, which are specific methodologies rather than the overarching principles of the One Engineering System. While there are elements of team collaboration and project success, the discussion does not explicitly address the integration or standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:30:41",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum and backlog management, which does not explicitly discuss Agentic Agility or its principles. While there are mentions of decision-making and stakeholder engagement, these are framed within the context of Scrum practices rather than the intentional shaping of outcomes through autonomy and adaptability. The content lacks depth in exploring the distinctions between human and AI capabilities in relation to Agentic Agility.",
     "level": "Ignored"
   }

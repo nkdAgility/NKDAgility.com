@@ -9,7 +9,7 @@ ResourceImportId: 12011
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2017-09-04
-weight: 525
+weight: 480
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,19 +28,38 @@ aliasesArchive:
 - /blog/professional-organisational-change-at-the-ghana-police-service
 - /resources/blog/professional-organisational-change-ghana-police-service
 tags:
-- People and Process
 - Agile Leadership
 - Change Management
 - Organisational Change
 - Pragmatic Thinking
 - Agile Transformation
 - Organisational Agility
-- Resilience and Change
+- Sociotechnical Systems
 - Digital Transformation
 - Organisational Culture
+- Organisational Physics
+- Agile Frameworks
+- Agile Strategy
+- Business Agility
+- Competence
+- Empirical Process Control
+- Enterprise Agility
+- Strategic Goals
+- Organisational Psychology
+- Agile Philosophy
+- Coaching
+- Continuous Improvement
+- Large Scale Agility
+- Operational Practices
+- Professional Scrum
+- Scrum Master
+- Social Technologies
+- Value Delivery
+- Sensemaking
 categories:
 - Leadership
 - Scrum
+- Technical Leadership
 preview: nkdagility-akaditi-ghana-police-scrum-board-4-3.jpg
 
 ---

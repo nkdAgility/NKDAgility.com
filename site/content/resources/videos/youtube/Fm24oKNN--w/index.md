@@ -2,7 +2,7 @@
 title: 'Transforming Scrum Training: How Real-World Insights Empower Agile Teams at Great Calm'
 description: Transform your team's understanding of Scrum with insights from expert Martin Hinshelwood. Discover how effective training fosters agility and collaboration!
 date: 2017-07-27T18:16:30Z
-weight: 650
+weight: 610
 ResourceId: Fm24oKNN--w
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -27,14 +27,33 @@ isShort: false
 tags:
 - Agile Frameworks
 - Team Performance
-- Team Collaboration
 - Agile Product Management
+- Social Technologies
+- Software Development
 - Continuous Improvement
 - Organisational Agility
-- Software Development
-- People and Process
-- Discovery and Learning
+- Team Collaboration
+- Agile Transformation
+- Self Organisation
+- Agile Planning
+- Coaching
+- Agile Leadership
+- Agile Strategy
+- Change Management
+- Competence
+- Organisational Culture
+- Product Delivery
+- Sociotechnical Systems
+- Scrum Master
 - Value Delivery
+- Common Goals
+- Operational Practices
+- Pragmatic Thinking
+- Strategic Goals
+- Working Software
+- Business Agility
+- Enterprise Agility
+- Mentoring
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,7 +61,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Technical Leadership
 
 ---
 As the CTO at Great Calm, I’ve had the privilege of witnessing the transformative power of effective training in Scrum. Recently, we undertook a significant initiative to baseline our understanding of Scrum across the organisation. This decision stemmed from a recognition that, in a rapidly evolving environment, everyone brings their own flavour and understanding of what Scrum and Agile mean. This diversity can create dissonance, which is why we chose to engage with Martin Hinshelwood for our training sessions.

@@ -9,7 +9,7 @@ ResourceImportId: 28
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-09-07
-weight: 445
+weight: 390
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,13 +29,21 @@ aliasesArchive:
 - /resources/blog/a-change-for-the-better-3
 tags:
 - Software Development
-- People and Process
-- Software Developers
 - Application Lifecycle Management
 - Pragmatic Thinking
 - Personal
+- Engineering Practices
+- Scrum Master
+- Agile Transformation
+- Mentoring
+- Continuous Learning
+- Operational Practices
+- Product Delivery
+- Team Performance
+- Competence
 categories:
 - Scrum
+- Engineering Excellence
 preview: metro-nwc-128-link-2-2.png
 
 ---

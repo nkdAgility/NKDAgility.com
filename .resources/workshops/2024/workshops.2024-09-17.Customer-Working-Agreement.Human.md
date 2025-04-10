@@ -17,7 +17,7 @@ aliasesArchive:
 - /learn/agile-delivery-kit/workshops/Customer-Working-Agreement
 - /learn/agile-delivery-kit/workshops/customer-working-agreement/
 date: 2024-09-17
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 draft: true
 card:
@@ -26,12 +26,17 @@ card:
   content: Discover more about  and how it can help you in your Agile journey!
   title: 
 categories:
-- Social Technologies
 - Scrum
-- Product Management
 tags:
-- Agile Project Management
+- Common Goals
 - Working Agreements
+- Transparency
+- Agile Product Management
+- Agile Planning
+- Agile Frameworks
+- Pragmatic Thinking
+- Product Delivery
+- Software Development
 
 ---
 ## Customer Working Agreement

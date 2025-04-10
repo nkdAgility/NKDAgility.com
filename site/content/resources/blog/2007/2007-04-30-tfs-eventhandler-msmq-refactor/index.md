@@ -9,7 +9,7 @@ ResourceImportId: 407
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-30
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,7 +27,8 @@ aliasesArchive:
 - /tfs-eventhandler--msmq-refactor
 - /blog/tfs-eventhandler--msmq-refactor
 - /resources/blog/tfs-eventhandler-msmq-refactor
-tags: []
+tags:
+- Software Development
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

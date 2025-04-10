@@ -2,7 +2,7 @@
 title: How much of an impact can a strong, skilled product owner have?
 description: Discover the vital role of a skilled product owner in driving team success and customer value, as Martin Hinshelwood shares insights on agile collaboration.
 date: 2023-01-30T07:30:06Z
-weight: 625
+weight: 590
 ResourceId: S3Xq6gCp7Hw
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,20 +29,41 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Development
-- Product Owner
-- Agile Project Management
 - Pragmatic Thinking
-- Scrum Team
+- Product Owner
 - Professional Scrum
+- Scrum Team
 - Product Discovery
 - Agile Product Management
-- People and Process
+- Agile Frameworks
+- Agile Planning
+- Agile Transformation
+- Market Adaptability
 - Product Backlog
+- Software Development
+- Value Delivery
+- Working Software
+- Agile Strategy
+- Product Delivery
+- Product Strategy
+- Agile Philosophy
+- Ability to Innovate
+- Agile Product Operating Model
+- Empirical Process Control
+- Evidence Based Leadership
+- Evidence Based Management
+- Organisational Agility
+- Social Technologies
+- Strategic Goals
+- Customer Satisfaction
+- Decision Making
+- Team Performance
 resourceTypes:
 - video
 categories:
 - Product Management
+- Scrum
+- Leadership
 
 ---
 In my opinion, it’s the whole ball game.

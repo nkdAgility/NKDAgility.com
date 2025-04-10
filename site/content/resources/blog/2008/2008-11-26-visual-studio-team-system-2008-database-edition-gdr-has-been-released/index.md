@@ -9,7 +9,7 @@ ResourceImportId: 162
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-26
-weight: 810
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,9 +28,10 @@ aliasesArchive:
 - /blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released-
 - /resources/blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
 tags:
-- Products and Books
-- News and Reviews
 - Software Development
+- Release Management
+- Technical Excellence
+- Technical Mastery
 categories: []
 
 ---

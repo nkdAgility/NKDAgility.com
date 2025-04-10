@@ -29,13 +29,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
 - Software Development
 - Agile Product Management
-- People and Process
 - Agile Planning
-- Scrum Product Development
-- Software Developers
+- Agile Transformation
+- Pragmatic Thinking
+- Scrum Master
 resourceTypes:
 - video
 categories:

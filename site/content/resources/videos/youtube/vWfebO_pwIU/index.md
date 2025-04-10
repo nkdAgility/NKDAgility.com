@@ -28,10 +28,14 @@ duration: 291
 isShort: false
 tags:
 - Scrum Master
-- People and Process
+- Competence
 - Continuous Learning
 - Software Development
-- Competence
+- Agile Frameworks
+- Agile Transformation
+- Coaching
+- Scrum Team
+- Mentoring
 sitemap:
   filename: sitemap.xml
   priority: 0.6

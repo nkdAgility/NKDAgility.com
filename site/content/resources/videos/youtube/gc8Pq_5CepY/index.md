@@ -28,8 +28,7 @@ isShort: false
 tags:
 - Software Development
 - Professional Scrum
-- Events and Presentations
-- People and Process
+- Scrum Master
 sitemap:
   filename: sitemap.xml
   priority: 0.6

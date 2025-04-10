@@ -23,7 +23,9 @@ aliasesArchive:
 - /blog/vote-for-your-feature
 - /vote-for-your-feature
 - /resources/blog/vote-for-your-feature
-tags: []
+tags:
+- Miscellaneous
+- Customer Feedback Loops
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

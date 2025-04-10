@@ -23,8 +23,7 @@ aliasesArchive:
 - /blog/windows-azure-training-kit
 - /windows-azure-training-kit
 - /resources/blog/windows-azure-training-kit
-tags:
-- Products and Books
+tags: []
 preview: metro-cloud-azure-link-3-1.png
 categories: []
 

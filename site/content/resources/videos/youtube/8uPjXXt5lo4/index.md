@@ -29,13 +29,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
 - Software Development
 - Agile Frameworks
 - Agile Transformation
 - Pragmatic Thinking
 - Personal
-- People and Process
+- Agile Product Management
+- Agile Strategy
+- Coaching
+- Empirical Process Control
+- Organisational Agility
+- Team Collaboration
+- Scrum Master
 resourceTypes:
 - video
 categories: []

@@ -9,7 +9,7 @@ ResourceImportId: 11634
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-10-26
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,9 +24,9 @@ aliasesArchive:
 - /vsts-sync-migration-tools
 - /resources/blog/vsts-sync-migration-tools
 tags:
-- Practical Techniques and Tooling
-- Products and Books
 - Software Development
+- Azure DevOps
+- Install and Configuration
 categories: []
 preview: image_thumb-1-1.png
 

@@ -25,7 +25,7 @@ recommendedContent:
 - collection: practices
   path: _practices/service-level-expectation-sle.md
 date: 2024-09-17
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 card:
   button:
@@ -33,18 +33,30 @@ card:
   content: Discover more about Kanban Guide for Scrum Teams and how it can help you in your Agile journey!
   title: Kanban Guide for Scrum Teams
 categories:
-- Social Technologies
+- Kanban
 tags:
 - Software Development
 - Flow Efficiency
 - Operational Practices
-- Transparency
-- Throughput
-- Empirical Process Control
 - Metrics and Learning
+- Transparency
 - Value Delivery
+- Agile Frameworks
+- Empirical Process Control
+- Throughput
 - Cycle Time
-- Agile Project Management
+- Scrum Team
+- Pragmatic Thinking
+- Team Performance
+- Agile Product Management
+- Increment
+- Team Collaboration
+- Product Delivery
+- Agile Planning
+- Continuous Improvement
+- Working Software
+- Forecasting
+- Lean Principles
 
 ---
 The flow-based perspective of Kanban can enhance and complement the Scrum framework and its implementation. Teams can add complementary Kanban practices whether they are just starting to use Scrum or have been using it all along. The Kanban Guide for Scrum Teams is the result of a collaboration between members of the Scrum.org community and leaders of the Kanban community. Together, they stand behind The Kanban Guide for Scrum Teams. It is their shared belief that professional product development practitioners can benefit from the application of Kanban together with Scrum.

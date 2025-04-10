@@ -8,18 +8,6 @@
     "reasoning": "Content primarily discusses the technical aspects of migrating email from Google Mail to Office 365, with no relevance to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T14:49:35",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content provides a detailed exploration of practical techniques for migrating from Google Mail to Office 365, specifically through the use of IMAP and PowerShell commands. It discusses various methods for email migration, including specific commands and their execution, which aligns well with the category's focus on practical tooling and methodologies. The depth of discussion is significant, as it includes multiple attempts and technical details, although it lacks broader context on Agile or DevOps practices. Overall, the content is primarily focused on practical techniques, justifying a high confidence score.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-15T10:37:21",
@@ -31,41 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T07:21:04",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses the technical aspects of migrating from Google Mail to Office 365, focusing on practical solutions and personal experiences rather than evidence-based management principles. There are no direct mentions of EBM concepts such as current value, time to market, or empirical decision-making. The discussion lacks depth in relation to the category, as it does not engage with the strategic approach of using data to inform management decisions.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T10:37:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of migrating email from Google Mail to Office 365, focusing on practical steps and challenges rather than the interplay between code quality and complexity in software development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T10:37:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details related to migrating email from Google Mail to Office 365, without a focus on learning or discovery processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T10:37:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the migration process from Google Mail to Office 365, focusing on technical challenges and PowerShell commands, with no relevance to AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -79,24 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T12:41:21",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on the installation and configuration of Office 365, specifically detailing the migration process from Google Mail. It explicitly discusses various methods for setting up email accounts (IMAP and PowerShell), which aligns well with the category's focus on actionable installation procedures. The depth of discussion is significant, as it includes step-by-step instructions and troubleshooting insights, although it could benefit from more detailed best practices and system requirements. Overall, the content is highly relevant to the 'Install and Configuration' category.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T10:37:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical challenges and processes involved in migrating from Google Mail to Office 365, without addressing transparency or accountability within Agile teams.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content primarily discusses technical aspects of migrating email systems without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T10:37:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of migrating email systems without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T07:20:49",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 10.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating email services from Google Mail to Office 365, discussing specific methods and PowerShell commands. While it touches on automation through PowerShell, it lacks a broader discussion of DevOps principles such as collaboration, shared accountability, or continuous improvement. The content does not engage with the cultural or philosophical aspects of DevOps, making it only tangentially related to the category.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily discusses technical implementations and personal experiences with migrating email services, without a focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T10:37:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of migrating from Google Mail to Office 365, with no reference to events, presentations, or discussions related to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T10:37:42",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges and methods of migrating email from Google Mail to Office 365, with no focus on optimising work throughput or flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T10:37:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of migrating email systems and does not focus on human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -193,19 +118,19 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-15T10:37:46",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical challenges and processes involved in migrating from Google Mail to Office 365, without addressing principles or practices related to business agility.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T10:37:48",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of migrating from Google Mail to Office 365, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -220,13 +145,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T04:30:38",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from Google Mail to Office 365, detailing specific methods and PowerShell commands. However, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. While it does provide some depth in terms of technical execution, it does not align closely with the core themes of Technical Excellence, such as TDD, CI/CD, or modular architecture.",
     "level": "Ignored"
   },
@@ -275,18 +200,6 @@
     "reasoning": "Content primarily discusses the technical aspects of migrating email from Google Mail to Office 365, with no focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-11T17:57:54",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses the technical aspects of migrating from Google Mail to Office 365, focusing on the challenges and methods involved. While it mentions Office 365 as a product and provides a personal recommendation at the end, the main focus is on the migration process rather than a detailed review or analysis of the product itself. The discussion lacks depth in terms of exploring the broader implications of using Office 365 in relation to Agile or DevOps methodologies, which diminishes its alignment with the category.",
-    "level": "Secondary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T10:37:58",
@@ -307,13 +220,13 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-15T04:30:38",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 25.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from Google Mail to Office 365, detailing various methods and challenges encountered. While there are personal reflections on the experience, such as frustrations with the migration process and a positive conclusion about Office 365, the overall emphasis is on technical execution rather than personal insights related to Agile, Scrum, or DevOps methodologies. Therefore, it does not align closely with the 'Personal' category.",
     "level": "Ignored"
   },
@@ -328,22 +241,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T10:38:04",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges and methods of migrating from Google Mail to Office 365, which is unrelated to the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T07:21:01",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses entirely on the technical aspects of migrating from Google Mail to Office 365, with no mention of agile methodologies, product management principles, or the Agile Product Operating Model. It discusses specific migration techniques and PowerShell commands, which are unrelated to the core themes of the APOM.",
     "level": "Ignored"
   },
@@ -354,15 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical challenges and processes involved in migrating from Google Mail to Office 365, without addressing organisational agility principles or practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T10:38:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on personal experiences and technical steps for migrating from Google Mail to Office 365, lacking industry news or reviews.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -385,22 +289,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T11:05:58",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on technical details and personal experiences related to migrating email services, without any discussion about the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T04:30:38",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the practical aspects of migrating from Google Mail to Office 365, detailing specific methods and PowerShell commands. While it touches on technical execution, it lacks a broader discussion on software craftsmanship, best practices, or principles of clean code. The depth of technical detail is present, but the overall focus is more on migration challenges rather than on achieving excellence in software engineering practices.",
     "level": "Ignored"
   },
@@ -415,13 +319,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T07:21:06",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses the challenges and methods of migrating email from Google Mail to Office 365, focusing on technical solutions and PowerShell commands. It does not address Continuous Delivery principles, practices, or benefits, nor does it explore automation, rapid feedback, or cultural aspects related to software delivery. The mention of migration processes is tangential and does not align with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
@@ -436,10 +340,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T11:05:58",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily about the challenges and processes involved in migrating email services from Google Mail to Office 365, with no significant focus on lead time or its related concepts.",
     "level": "Ignored"
   },
@@ -454,10 +358,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T11:05:58",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on migrating email from Google Mail to Office 365, with no relation to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -508,13 +412,13 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T04:30:43",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses the technical challenges and methods for migrating from Google Mail to Office 365, which does not directly address operational practices aimed at enhancing efficiency within Agile, DevOps, or Lean frameworks. While there are mentions of using PowerShell for migration, the focus is on troubleshooting and execution rather than on broader operational strategies or methodologies. The depth of discussion is more about specific technical steps rather than operational excellence or process optimisation.",
     "level": "Ignored"
   },
@@ -610,31 +514,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T04:30:51",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the process of migrating from Google Mail to Office 365, which is more aligned with IT operations than software development methodologies. While it includes technical details and PowerShell commands, it lacks a focus on software engineering practices, frameworks, or methodologies that are central to the Software Development category. The discussion is more about email system management rather than software development processes.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T11:05:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on email migration strategies and challenges between Office 365 and Google Mail, with no relation to agile project management principles or practices.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T11:05:58",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of migrating email systems and does not reference Agile values or principles.",
     "level": "Ignored"
   },
@@ -721,23 +616,14 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-03-15T04:30:49",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from Google Mail to Office 365, with limited discussion on customer satisfaction. While there is a brief mention of personal satisfaction with Office 365 at the end, the overall content lacks a thorough exploration of customer satisfaction principles, measurement techniques, or strategies for enhancing customer experience. The technical details overshadow any relevant customer satisfaction themes, resulting in a low confidence score.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T11:05:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused entirely on the technical aspects of migrating email systems and does not address any Scrum principles or practices.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -756,15 +642,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on technical aspects of migrating from Google Mail to Office 365 and does not discuss psychological safety or related themes.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T11:05:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical details and challenges of migrating from Google Mail to Office 365, with no discussion of scaling agile practices or principles.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -814,15 +691,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T16:45:56",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses practical problem-solving strategies for migrating from Google Mail to Office 365, which aligns with the category's focus on real-world applications and adaptability in complex environments. However, while it provides some insights into the challenges faced and solutions attempted, the depth of discussion on Agile, Scrum, or DevOps principles is minimal, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -835,29 +712,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T11:05:58",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical issues related to migrating email between Google Mail and Office 365, without discussing innovation capabilities or evidence-based management principles.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T11:05:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses issues related to migrating email from Google Mail to Office 365, which is unrelated to Scrum principles, product development, or any Scrum practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T11:05:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the technicalities of migrating from Google Mail to Office 365, which is entirely unrelated to Scaled Agile frameworks or practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -916,10 +775,10 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-15T11:05:59",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the migration process from Google Mail to Office 365, focusing on email setup and PowerShell commands, which do not relate to Continuous Integration principles or practices.",
     "level": "Ignored"
   },
@@ -1006,10 +865,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T11:05:59",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content predominantly discusses email migration methods and challenges, with no clear focus on Cycle Time or related metrics.",
     "level": "Ignored"
   },
@@ -1060,17 +919,17 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-15T04:30:46",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from Google Mail to Office 365, which is a specific task rather than a broader discussion on digital transformation. While it touches on the use of digital tools (Office 365) and mentions some benefits (flexibility, cost-effectiveness), it lacks a strategic perspective on how this migration enhances business agility or fosters innovation. The discussion is more about troubleshooting and executing a migration process rather than exploring the implications of digital transformation on organisational culture or operational efficiency.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T11:05:59",
     "ai_confidence": 0,
@@ -1079,24 +938,15 @@
     "reasoning": "Content primarily discusses issues and methods related to migrating email services between Google Mail and Office 365, without any focus on Minimum Viable Products or relevant development methodologies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T11:05:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses migrating email accounts from Google Mail to Office 365, with no relevant connection to AI in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-10T18:34:23",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating email from Google Mail to Office 365, which involves configuring IMAP and PowerShell commands. It discusses specific methods for setting up email accounts, troubleshooting issues, and executing commands to facilitate the migration process. The depth of discussion includes detailed PowerShell scripts and the challenges faced during configuration, aligning well with the core themes of system configuration. However, while it is focused on configuration, it does not cover broader system optimisation or security considerations, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -1111,10 +961,10 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-15T11:05:59",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical challenges and solutions related to email migration, without discussing guiding development teams or agile methodologies.",
     "level": "Ignored"
   },
@@ -1138,25 +988,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:46:39",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses entirely on the challenges and methods of migrating from Google Mail to Office 365, with no mention or discussion of Test First Development principles, success criteria, or testing practices. It does not align with the core themes of the category, nor does it provide any depth on related topics.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T04:30:41",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses the migration process from Google Mail to Office 365, with a focus on using PowerShell commands. While it mentions Office 365, which is a Microsoft product, it does not specifically address the Windows operating system or its functionalities. The discussion of PowerShell is relevant to Windows environments, but the overall focus is on email migration rather than Windows installation, configuration, or troubleshooting. Therefore, the content has minimal direct mentions of Windows, limited alignment with the core themes of the category, and a moderate depth of discussion regarding PowerShell usage.",
     "level": "Ignored"
   },
@@ -1171,10 +1021,10 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-15T11:05:59",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical challenges and solutions related to migrating email systems, not on Agile scaling principles or practices.",
     "level": "Ignored"
   },
@@ -1207,13 +1057,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T10:25:17",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the author's personal experience with migrating from Google Mail to Office 365, detailing specific issues encountered during the process. While it does mention troubleshooting steps and attempts to resolve the IMAP configuration issues, the focus is more on the migration experience rather than a systematic approach to troubleshooting. The content provides some insights into the problems faced and the methods attempted, but lacks a comprehensive exploration of troubleshooting techniques or best practices, which diminishes its alignment with the category.",
     "level": "Secondary"
   },
@@ -1256,15 +1106,6 @@
     "reasoning": "Content primarily discusses the technical aspects of migrating from Google Mail to Office 365 and does not address working agreements or teamwork principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T11:05:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on migrating email from Google Mail to Office 365 and does not discuss the role of software developers in Agile, DevOps, or modern engineering practices.",
-    "level": "Ignored"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-15T11:05:59",
@@ -1285,19 +1126,19 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-15T11:05:59",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on the challenges and processes of migrating from Google Mail to Office 365, with no significant discussion of technical debt concepts or implications.",
     "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-15T11:05:59",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is entirely focused on the technical aspects of migrating email from Google Mail to Office 365, with no mention of Sprint Review or related Scrum concepts.",
     "level": "Ignored"
   },
@@ -1382,15 +1223,6 @@
     "reasoning": "Content is primarily about migrating from Google Mail to Office 365, detailing technical implementation issues and personal experiences, without discussing accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T11:05:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses migrating from Google Mail to Office 365 and does not mention Kanban principles, scaling, or related topics.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T11:05:59",
@@ -1420,13 +1252,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:27:38",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from Google Mail to Office 365, discussing specific methods and PowerShell commands. It does not address themes of collaboration, decision-making, or value delivery within organisations, which are central to the category of Social Technologies. The mention of Office 365's integration features is too superficial and does not explore the underlying social frameworks or methodologies that promote collaboration or collective intelligence.",
     "level": "Ignored"
   },
@@ -1450,73 +1282,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:37:07",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses the technical aspects of migrating from Google Mail to Office 365, with no direct mentions of Scrum principles, roles, events, or practices. While it touches on project management in a broad sense, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is focused on technical execution rather than any Scrum-related methodologies.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:18:41",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses the process of migrating from Google Mail to Office 365, focusing on technical challenges and solutions related to email migration. It does not address the Shift-Left Strategy, which involves integrating testing, security, and compliance earlier in the software development lifecycle. There are no direct mentions of Shift-Left principles, nor does the content align with the core themes of proactive quality assurance or early integration of critical processes in software development.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T07:20:52",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the technical challenges and solutions related to migrating from Google Mail to Office 365. While there are mentions of personal experiences and reflections on the migration process, it lacks a clear discussion on Continuous Improvement principles, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The content does not provide strategies for integrating Continuous Improvement into organisational processes or discuss its impact on team effectiveness, which are key topics in the category.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T07:20:54",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from Google Mail to Office 365, discussing specific methods and challenges encountered during the process. There are no explicit discussions on Common Goals, alignment, or shared objectives within Agile or DevOps frameworks. The content lacks depth in relation to the principles of Common Goals, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T07:20:58",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 10.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from Google Mail to Office 365, discussing specific methods and challenges encountered during the process. While there are elements of problem-solving and technical skill involved, the discussion does not explicitly address the concept of competence as defined in the category. It lacks a focus on continuous learning, skill development, or fostering a culture of competence, which are central to the category's definition.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T17:46:36",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from Google Mail to Office 365, discussing specific methods and challenges without addressing the concept of Agentic Agility. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI capabilities. The discussion lacks depth regarding the principles of Agentic Agility and does not explore the interplay between human judgement and AI logic.",
     "level": "Ignored"
   }

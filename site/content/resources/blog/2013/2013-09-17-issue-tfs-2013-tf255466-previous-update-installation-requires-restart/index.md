@@ -29,8 +29,8 @@ aliasesArchive:
 - /resources/blog/issue-tfs-2013-tf255466-previous-update-installation-requires-restart
 tags:
 - Windows
-- Install and Configuration
 - Troubleshooting
+- Install and Configuration
 - System Configuration
 categories: []
 preview: metro-problem-icon-4-4.png

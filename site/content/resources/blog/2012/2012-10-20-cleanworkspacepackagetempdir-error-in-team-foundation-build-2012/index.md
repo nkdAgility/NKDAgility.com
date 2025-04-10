@@ -9,7 +9,7 @@ ResourceImportId: 8949
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-10-20
-weight: 675
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,14 +32,19 @@ aliasesArchive:
 tags:
 - Software Development
 - Troubleshooting
-- Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
 - Technical Mastery
+- Install and Configuration
 - Azure DevOps
 - Technical Excellence
 - Windows
-categories: []
+- Azure Pipelines
+- Continuous Integration
+- Working Software
+- Pragmatic Thinking
+- Engineering Practices
+categories:
+- Engineering Excellence
 preview: metro-problem-icon-6-6.png
 
 ---

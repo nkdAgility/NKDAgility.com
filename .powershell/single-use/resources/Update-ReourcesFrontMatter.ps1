@@ -45,15 +45,15 @@ $TotalItems = $hugoMarkdownObjects.Count
 Write-InformationLog "Loaded ({count}) HugoMarkdown Objects." -PropertyValues $TotalItems
 ### FILTER hugoMarkdownObjects
 $hugoMarkdownObjects = $hugoMarkdownObjects | Sort-Object { $_.FrontMatter.date } -Descending #| Select-Object -First 200 
-# $hugoMarkdownObjects = $hugoMarkdownObjects | Where-Object { 
-#     if ($_.FrontMatter.date) { 
-#         $date = [DateTime]::Parse($_.FrontMatter.date)
-#         return $date -gt $ResourceCatalogueCutoffDate
-#     }
-#     else {
-#         return $false  # Skip objects with null/empty dates
-#     }
-# } | Sort-Object { [DateTime]::Parse($_.FrontMatter.date) } -Descending
+$hugoMarkdownObjects = $hugoMarkdownObjects | Where-Object { 
+    if ($_.FrontMatter.date) { 
+        $date = [DateTime]::Parse($_.FrontMatter.date)
+        return $date -gt $ResourceCatalogueCutoffDate
+    }
+    else {
+        return $false  # Skip objects with null/empty dates
+    }
+} | Sort-Object { [DateTime]::Parse($_.FrontMatter.date) } -Descending
 
 
 # Display the filtered results
@@ -262,7 +262,7 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     # $categories = $marketingClassification | ConvertFrom-Json | ForEach-Object { $_.category } #| Sort-Object
     # Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'marketing' -values @($categories) -Overwrite
     #-----------------Categories-------------------
-    $categoryClassification = Get-ClassificationsForType -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
+    $categoryClassification = Get-ClassificationsForType  -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
     $categoryClassificationOrdered = Get-ClassificationOrderedList -minScore 70 -classifications $categoryClassification | Select-Object -First 3
     $categories = $categoryClassificationOrdered | ForEach-Object { $_.category }
     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite

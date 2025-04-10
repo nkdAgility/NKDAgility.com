@@ -2,7 +2,7 @@
 title: 'Unlocking Scrum Success: A Comprehensive Guide to Values, Roles, Artifacts, and Events'
 description: Unlock the power of Scrum! Discover its core values, roles, and events to enhance team collaboration and drive project success. Dive in now!
 date: 2022-10-18T16:13:02Z
-weight: 720
+weight: 690
 ResourceId: Q2Fo3sM6BVo
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,16 +26,18 @@ preview: https://i.ytimg.com/vi/Q2Fo3sM6BVo/maxresdefault.jpg
 duration: 891
 isShort: false
 tags:
-- Professional Scrum
-- Scrum Product Development
 - Agile Frameworks
-- Agile Project Management
+- Professional Scrum
 - Software Development
-- People and Process
 - Agile Product Management
 - Team Performance
-- Software Developers
 - Agile Planning
+- Scrum Master
+- Social Technologies
+- Team Collaboration
+- Value Delivery
+- Agile Transformation
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -44,7 +46,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 Scrum is a lightweight framework that empowers teams and organisations to generate value through adaptive solutions for complex problems. Over my 12 years as a professional Scrum trainer, I’ve seen firsthand how this framework can transform the way we work. Today, I want to share an overview of Scrum, breaking down its core components: five values, three accountabilities, three artifacts, and five events. 

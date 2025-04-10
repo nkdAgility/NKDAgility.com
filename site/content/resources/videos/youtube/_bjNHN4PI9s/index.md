@@ -25,9 +25,8 @@ duration: 1496
 isShort: false
 tags:
 - Collaboration Tools
-- Practical Techniques and Tooling
-- Events and Presentations
 - Remote Working
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

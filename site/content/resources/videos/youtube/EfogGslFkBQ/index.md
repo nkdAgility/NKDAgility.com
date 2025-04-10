@@ -2,7 +2,7 @@
 title: 'Avoiding Agile Banditry: Why Story Points and Velocity Are Misleading Metrics'
 description: "Discover how to escape the story point trap in Agile! Join Martin as he reveals better metrics for success and transforms your team's value delivery. \U0001F680\U0001F31F"
 date: 2024-01-08T07:00:06Z
-weight: 855
+weight: 840
 ResourceId: EfogGslFkBQ
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -31,16 +31,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Throughput
-- Value Delivery
-- Agile Project Management
 - Pragmatic Thinking
+- Value Delivery
 - Software Development
-- Team Performance
+- Throughput
 - Operational Practices
+- Team Performance
 - Flow Efficiency
 - Agile Philosophy
 - Agile Planning
+- Agile Values and Principles
+- Agile Transformation
+- Cycle Time
+- Metrics and Learning
+- Product Delivery
+- Working Software
+- Agile Strategy
+- Continuous Improvement
+- Empirical Process Control
+- Evidence Based Management
+- Organisational Agility
+- Agile Frameworks
+- Agile Product Management
 resourceTypes:
 - video
 categories: []

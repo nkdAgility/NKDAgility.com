@@ -9,7 +9,7 @@ ResourceImportId: 10526
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-05-07
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,11 +28,11 @@ aliasesArchive:
 - /blog/configuring-jenkins-to-talk-to-tfs-2013
 - /resources/blog/configuring-jenkins-talk-tfs-2013
 tags:
-- Install and Configuration
-- Practical Techniques and Tooling
 - Software Development
+- Install and Configuration
 - System Configuration
 - Continuous Integration
+- Modern Source Control
 categories: []
 preview: naked-alm-jenkins-logo-9-9.png
 

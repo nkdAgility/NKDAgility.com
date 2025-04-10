@@ -29,21 +29,33 @@ tags:
 - Agile Leadership
 - Agile Philosophy
 - Organisational Culture
-- Accountability
-- Team Motivation
-- Transparency
+- Social Technologies
 - Psychological Safety
+- Team Motivation
 - Agile Product Management
-- People and Process
+- Agile Transformation
+- Software Development
+- Value Delivery
+- Agile Strategy
 - Agile Values and Principles
+- Organisational Agility
+- Sociotechnical Systems
+- Transparency
+- Scrum Values
+- Agile Frameworks
+- Continuous Improvement
+- Empirical Process Control
+- Product Delivery
+- Business Agility
+- Change Management
+- Scrum Master
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 In my journey through the world of Agile, I've come to recognise a troubling phenomenon that I refer to as one of the seven signs of the Agile apocalypse: silence. This silence is not merely the absence of sound; it’s a deafening void that can have dire consequences for teams and organisations striving for agility. 

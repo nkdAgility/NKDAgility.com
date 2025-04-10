@@ -9,7 +9,7 @@ ResourceImportId: 10367
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-02-25
-weight: 375
+weight: 315
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,19 +24,39 @@ aliasesArchive:
 - /metrics-that-matter-with-evidence-based-management
 - /resources/blog/metrics-that-matter-with-evidence-based-management
 tags:
+- Decision Making
 - Evidence Based Management
 - Evidence Based Leadership
 - Metrics and Learning
-- Decision Making
+- Ability to Innovate
 - Trend Analysis
 - Value Delivery
 - Continuous Improvement
-- Ability to Innovate
-- Practical Techniques and Tooling
+- Pragmatic Thinking
 - Operational Practices
+- Software Development
+- Empirical Process Control
+- Product Delivery
+- Working Software
+- Organisational Agility
+- Team Performance
+- Application Lifecycle Management
+- Enterprise Agility
+- Throughput
+- Agile Transformation
+- Business Agility
+- Agile Product Management
+- Agile Strategy
+- Agile Frameworks
+- Agile Product Operating Model
+- Azure DevOps
+- Decision Theory
+- Social Technologies
+- Organisational Physics
+- Competence
 categories:
-- Product Management
 - Engineering Excellence
+- Product Management
 preview: nakedalm-agility-index-24-24.png
 
 ---

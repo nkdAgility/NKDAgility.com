@@ -27,7 +27,8 @@ aliasesArchive:
 - /working-from-a-mobile-again-
 - /blog/working-from-a-mobile-again-
 - /resources/blog/working-from-a-mobile-again
-tags: []
+tags:
+- Miscellaneous
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

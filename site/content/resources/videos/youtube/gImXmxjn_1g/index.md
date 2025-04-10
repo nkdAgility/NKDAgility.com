@@ -29,8 +29,10 @@ preview: https://i.ytimg.com/vi/gImXmxjn_1g/maxresdefault.jpg
 duration: 376
 isShort: false
 tags:
-- People and Process
 - Pragmatic Thinking
+- Competence
+- Software Development
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

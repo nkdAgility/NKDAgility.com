@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: course
 ResourceContentOrigin: human
 date: 2018-02-26
-weight: 775
+weight: 750
 creator: Martin Hinshelwood
 type: course
 slug: professional-scrum-with-kanban-psk-with-certification
@@ -37,16 +37,14 @@ delivery-audiences:
 - Lean Agile Practitioners
 - Teams
 tags:
-- Transparency
-- Practical Techniques and Tooling
-- Professional Scrum
 - Agile Frameworks
-- Agile Project Management
 - Agile Transformation
 - Flow Efficiency
 - Operational Practices
-- Products and Books
+- Professional Scrum
 - Software Development
+- Transparency
+- Agile Product Management
 categories: []
 preview: naked-agility-Professional-Scrum-PSK-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PSK-400x.png

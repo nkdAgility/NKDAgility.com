@@ -2,7 +2,7 @@
 title: 'Unlocking Startup Success: Why Every Entrepreneur Needs to Master Product Management Value'
 description: Unlock the secrets of successful product management! Discover how the PSPO course can elevate your startup by focusing on value and customer needs.
 date: 2023-05-16T14:00:07Z
-weight: 855
+weight: 840
 ResourceId: 9TbjaO1_Nz8
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,10 +26,14 @@ preview: https://i.ytimg.com/vi/9TbjaO1_Nz8/maxresdefault.jpg
 duration: 151
 isShort: false
 tags:
-- Products and Books
-- Value Delivery
 - Entrepreneurship
+- Value Delivery
 - Agile Product Management
+- Pragmatic Thinking
+- Product Discovery
+- Product Owner
+- Product Delivery
+- Product Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

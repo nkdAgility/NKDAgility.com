@@ -1,27 +1,27 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T19:53:47",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Agile consulting and coaching, discussing the importance of provoking clients to rethink their approaches. While there are some indirect references to improving operations, the core principles of DevOps, such as collaboration, automation, and shared accountability, are not explicitly addressed. The discussion is centred around Agile methodologies rather than the DevOps philosophy, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:12:54",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their processes, which aligns with the themes of collaboration and decision-making. However, it primarily focuses on the consultant's approach rather than broader social technologies or frameworks. While there are mentions of fostering change and improvement, the depth of discussion on social technologies as a category is limited, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -34,106 +34,85 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T12:14:01",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the role of a consultant in provoking clients to rethink their approaches, which aligns with leadership in fostering an environment of reflection and growth. However, it lacks explicit mentions of leadership frameworks or detailed strategies for cultivating leadership styles, which limits its depth and direct focus on leadership as a primary topic.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-15T00:19:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the role of a consultant in an Agile context, which relates to product management, but it lacks explicit discussion of product management strategies or methodologies. The focus is more on the client's mindset rather than on product management principles or frameworks.",
     "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Agile consulting and rethinking Agile practices without discussing asynchronous development or related practices.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Agile consulting and provoking change in client mindsets, with no clear, primary discussion on the roles, responsibilities, or practices of a Product Owner.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of an Agile consultant in provoking change in mindset rather than focusing on metrics or learning methodologies.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-15T00:20:12",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Agile consulting and the importance of provoking clients to rethink their operations, which is somewhat related to Scrum principles. However, it lacks direct references to specific Scrum roles, events, or artifacts, and does not delve deeply into Scrum theory or practices. The focus is more on general Agile concepts rather than a professional exploration of Scrum itself.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-15T00:20:03",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 68.0,
     "ai_mentions": 70.0,
     "ai_alignment": 60.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their approach to Agile practices, which aligns with the principles of Agile frameworks. It mentions Agile and Scrum explicitly, indicating a focus on these frameworks. However, the discussion is more about the consultant's approach rather than a detailed exploration of the frameworks themselves, which slightly limits the depth of discussion. Overall, while it touches on Agile concepts, it does not provide a comprehensive analysis of Agile frameworks, leading to a moderate confidence score.",
     "level": "Secondary"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-15T00:19:45",
-    "ai_confidence": 62.0,
-    "ai_mentions": 50.0,
-    "ai_alignment": 70.0,
-    "ai_depth": 60.0,
-    "non_ai_confidence": 30,
-    "final_score": 59.0,
-    "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their product development processes, which aligns with Scrum principles of continuous improvement and customer feedback. However, it lacks direct references to specific Scrum roles, events, or detailed methodologies, making it more of a general Agile discussion rather than a focused exploration of Scrum product development.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T08:37:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Agile consulting and the process of provoking clients' thinking rather than discussing specific events, presentations, or workshops.",
-    "level": "Ignored"
-  },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on Agile consulting and provocation rather than product validation methodologies or practices.",
     "level": "Ignored"
   },
@@ -166,10 +145,10 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of an Agile consultant in provoking thought and change within clients rather than focusing on measuring or enhancing customer satisfaction directly.",
     "level": "Ignored"
   },
@@ -202,10 +181,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of an Agile consultant in provoking change and rethinking Agile practices, without a focus on the Definition of Done.",
     "level": "Ignored"
   },
@@ -256,22 +235,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T19:54:08",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses Agile consulting and the role of provocation in changing client mindsets, with no direct mention of Continuous Delivery principles or practices. While it touches on Agile methodologies, it does not explore Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback, which are essential to the category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on provoking clients to rethink their Agile practices rather than discussing mechanisms for collecting or utilizing customer feedback.",
     "level": "Ignored"
   },
@@ -286,19 +265,19 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Agile consulting and the role of provocation in changing client mindsets, with no mention of Test Driven Development or its principles.",
     "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on Agile consulting techniques and provoking clients to rethink their operations, without a clear emphasis on customer retention strategies.",
     "level": "Ignored"
   },
@@ -313,61 +292,61 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T00:19:40",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses Agile consulting, which is a key aspect of software development methodologies. It explicitly mentions Agile and Scrum, aligning well with the core themes of the Software Development category. The depth of discussion includes the importance of provoking clients to rethink their processes, which ties into Agile practices. However, the focus is more on the consulting aspect rather than detailed software engineering practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-15T00:20:01",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 63.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their approaches, which aligns with coaching principles. However, it primarily focuses on the consultant's directive role rather than a collaborative coaching approach. While it mentions coaching and the importance of questioning, it lacks depth in exploring coaching techniques or building trust within teams.",
     "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-15T00:20:38",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their approach to Agile practices, which aligns with the principles of Agile Planning. However, it lacks direct mentions of specific Agile planning techniques, frameworks, or detailed discussions on planning processes. The focus is more on mindset change rather than the structured methodologies of Agile Planning.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-15T00:19:43",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their approach to Agile methodologies, which aligns with the concept of fostering an Agile mindset. However, it lacks a comprehensive exploration of Agile strategy as a whole, focusing more on the consultant's role rather than broader strategic implications. The mention of 'Agile journey' and 'Agile ways of operating' indicates some alignment with Agile principles, but the depth of discussion on strategic planning and execution is limited.",
     "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-15T00:19:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the role of a consultant in provoking thought and reflection in clients, which can relate to team dynamics and performance. However, it lacks explicit discussion on team collaboration, methodologies, or Agile practices. The focus is more on client-consultant interaction rather than the performance of agile teams themselves.",
     "level": "Ignored"
   },
@@ -409,27 +388,27 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-03-14T15:29:34",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their processes and mindsets, which aligns with the principles of change management. However, while it mentions 'Change Management' in the keywords and hashtags, the primary focus is on the consultant's approach rather than a comprehensive discussion of change management strategies or practices. The depth of discussion is moderate, providing insights into the importance of challenging established views but lacking detailed strategies or case studies typical of change management discussions.",
     "level": "Secondary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-15T00:19:47",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses Agile consulting and the importance of provoking clients to rethink their operations, which aligns with the themes of change management and fostering innovation. However, it lacks a direct focus on digital technologies or specific strategies for digital transformation, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -442,22 +421,22 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-15T00:20:55",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of provoking clients to rethink their mindset and approach to Agile practices, which aligns with the principles of Continuous Learning. However, it primarily focuses on the role of the consultant in challenging clients rather than on techniques for knowledge sharing or creating a culture of experimentation. While there are elements of growth mindset and improvement, the depth of discussion on Continuous Learning principles is moderate, leading to a confidence score that reflects a significant but not primary focus on the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses provoking change in client mindsets within an Agile context, which relates to organisational dynamics and change management, making it a major but secondary theme rather than primarily about systems thinking.",
     "level": "Tertiary"
   },
@@ -488,47 +467,26 @@
     "reasoning": "Content heavily discusses Agile consulting and change management rather than software craftsmanship or engineering practices.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T00:19:35",
-    "ai_confidence": 42.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 30.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content briefly touches on the role of a consultant in an Agile context, which is relevant to software developers, but it does not explicitly discuss developers or their practices. The focus is more on client-consultant dynamics rather than on the developers' roles or methodologies like Agile or DevOps. Therefore, while there is some conceptual alignment, the depth and direct mentions are limited.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile consulting and provoking change in mindset rather than on Lean principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T08:37:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role of Agile consulting and provoking change in client mindsets, with no focus on software code or complexity.",
     "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-03-15T00:19:37",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their operations, which touches on aspects of organisational culture, such as mindset and collaboration. However, the primary focus is on the consultant's approach rather than a deep exploration of cultural elements that influence Agile practices. The discussion lacks detailed examination of how organisational culture specifically impacts agility or team dynamics, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -550,48 +508,48 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T16:59:49",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the role of an Agile consultant, which overlaps with the responsibilities of a Scrum Master, particularly in provoking change and fostering an Agile mindset. However, it primarily focuses on the client's perspective and the consultant's role rather than the Scrum Master's specific duties. The mention of Scrum is limited and does not delve deeply into the Scrum Master's responsibilities or techniques, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of Agile consultants and the importance of provoking change in clients' thinking without focusing on large scale Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-15T00:19:49",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their operations, which aligns with the concept of enhancing customer value through introspection and change. However, it lacks direct mentions of specific value delivery methodologies or practices, and the depth of discussion on value delivery principles is limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-15T00:19:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their approaches, which aligns with the principles of fostering a culture of continuous improvement and learning. However, it lacks direct mentions of technical leadership concepts and does not delve deeply into specific strategies or practices related to leading development teams. The focus is more on client engagement rather than on guiding teams through technical expertise.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -631,45 +589,24 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-15T00:19:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly touches on the role of a consultant in provoking clients to rethink their practices, which aligns with the theme of organisational change. However, it lacks explicit discussion of frameworks, methodologies, or detailed strategies for implementing change. The focus is more on the consultant-client dynamic rather than on broader organisational change principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T08:37:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of an Agile consultant in provoking change in an organization's Agile mindset without focusing on scaling Agile practices across multiple teams or at an enterprise level.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile consulting and the importance of provoking clients to rethink their operations, with no clear focus on Lean principles or practices.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T00:20:45",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their processes, which aligns with the category's focus on human behaviour and structured methodologies. It highlights the importance of challenging established views and fostering introspection, which are key aspects of team dynamics and collaboration. However, while it touches on these themes, the discussion lacks depth in exploring specific methodologies or detailed strategies for improving team performance, leading to a moderately high confidence score.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -682,25 +619,25 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-15T00:20:10",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their operations, which aligns with the principles of business agility. However, it primarily focuses on the consultant's approach rather than broader organisational strategies or frameworks for business agility. While it touches on themes of change and improvement, it lacks detailed exploration of metrics, leadership roles, or case studies that would strengthen its alignment with the category.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-03-15T00:20:36",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their operations, which touches on aspects of complexity thinking, such as challenging established views and stimulating change. However, it lacks direct references to complexity science principles, frameworks, or theories. The discussion is more focused on Agile practices rather than a deep exploration of complexity dynamics, resulting in a moderate confidence score.",
     "level": "Ignored"
   },
@@ -724,10 +661,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly focuses on provoking clients to rethink their Agile practices, without explicitly discussing the Definition of Ready or its relevance to backlog items.",
     "level": "Ignored"
   },
@@ -740,7 +677,7 @@
     "reasoning": "Content heavily discusses the role of Agile consulting and provoking change rather than focusing on Lead Time as a metric.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T08:37:33",
     "ai_confidence": 0,
@@ -751,24 +688,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-11T16:31:42",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their approaches, which aligns with the concept of Agile leadership in fostering change and continuous improvement. However, it primarily focuses on the consultant's actions rather than explicitly addressing leadership roles or practices within an Agile context. The depth of discussion on leadership is moderate, as it touches on stimulating change but lacks a comprehensive exploration of leadership strategies or team empowerment.",
     "level": "Secondary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T08:37:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content focuses on provoking clients to rethink Agile practices and does not mention AI or automation in the context of Agile frameworks.",
-    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -781,13 +709,13 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-15T00:20:47",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their processes, which aligns with the principles of inspection and adaptation. However, it lacks direct mentions of empirical process control and does not delve deeply into the core themes of transparency, inspection, or adaptation as defined in the category. The focus is more on change management and mindset rather than on empirical evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -802,33 +730,24 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-15T00:19:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the role of a consultant in provoking thought and reflection within a client, which can relate to team dynamics and collaboration. However, it lacks explicit discussion on team communication, shared ownership, or specific Agile practices. The focus is more on individual client preparation rather than collective team collaboration, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile consulting and the need for organizations to rethink their operations, which aligns with themes of market adaptability; however, it doesn't focus directly on strategies for enhancing market responsiveness.",
     "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T08:37:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Agile consulting and does not mention AI or its integration within Agile methodologies or practices.",
-    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
@@ -841,10 +760,10 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Agile consulting and the role of consultants in provoking change, without any specific reference to the Daily Scrum event or its structure.",
     "level": "Ignored"
   },
@@ -859,33 +778,24 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-15T00:19:59",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on the role of an Agile consultant in provoking change within client organisations, which touches on aspects of fostering an Agile mindset. However, it lacks a broader discussion on organisational structures, frameworks, or metrics that are essential for enterprise agility. While it does mention change management and the importance of rethinking operations, it does not delve deeply into how these concepts apply at an organisational level, thus limiting its alignment with the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the role of an Agile consultant and promoting a mindset shift, which is not primarily focused on Product Backlog management.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T08:37:33",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content focuses on provoking change in clients' mindsets towards Agile practices, and discusses Agile consulting, Scrum training, and the importance of rethinking product development operations within an Agile framework.",
-    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -905,105 +815,78 @@
     "reasoning": "Content focuses on Agile consulting and change management rather than troubleshooting technical issues.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T08:37:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the role of an Agile consultant in provoking change within client organizations, with no focus on reviews, analysis, or discussions regarding specific products or books.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T08:37:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the philosophy and approach of Agile consulting rather than news, updates, or reviews about Agile methodologies or tools.",
-    "level": "Ignored"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-03-15T00:20:18",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their operations, which indirectly touches on team dynamics and motivation. However, it primarily focuses on client engagement rather than team motivation strategies. The mention of a happy and inspired workforce hints at team motivation but lacks depth and direct relevance to the core themes outlined in the category.",
     "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-15T00:20:15",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 62.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses the author's personal approach and philosophy as an Agile consultant, particularly the concept of 'provoking' clients to rethink their practices. This aligns with the Personal category as it reflects individual insights and experiences related to Agile consulting. However, while it does provide personal anecdotes, the focus is more on the consulting process rather than deep personal reflections or challenges faced, which slightly lowers the confidence score.",
-    "level": "Tertiary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T08:37:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on provoking change in Agile practices generally, not specifically on scaling Scrum in larger organizations.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on provoking change in Agile consulting without clear discussion on cross-functional teams.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on provoking clients to rethink their Agile practices and does not specifically discuss Scrum values or their significance.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-15T00:20:42",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their product development processes, which aligns with Agile principles. However, it lacks specific discussions on product management techniques, prioritisation, or stakeholder engagement, which are key topics in Agile Product Management. The focus is more on the consultant's role rather than on product management practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Agile consulting and mindset transformation rather than Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:59:46",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
     "ai_depth": 7.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Agile consulting and the role of provocation in changing client mindsets, with no direct mention of Test First Development principles or practices. While it touches on Agile methodologies, it does not discuss success criteria, testing practices, or the importance of testing in the development process, which are core to the Test First Development category.",
     "level": "Ignored"
   },
@@ -1018,13 +901,13 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-15T00:19:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Scrum and Agile concepts, but it primarily focuses on the role of an Agile consultant in provoking change rather than discussing the dynamics and roles within a Scrum Team. While there are references to high-performing teams and collaboration, the depth of discussion on Scrum-specific roles and practices is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -1057,82 +940,73 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-15T00:20:52",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their approach to Agile practices, which aligns with the strategic mindset necessary for effective Agile implementation. However, while it touches on strategic thinking and improvement, it lacks a detailed exploration of specific strategic frameworks or metrics, which limits its depth in the Strategy category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-03-15T00:20:08",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their approaches, which aligns with mentoring principles. However, it primarily focuses on consulting rather than direct mentoring techniques or strategies. The discussion lacks depth in specific mentoring practices and does not explicitly mention mentoring relationships or emotional intelligence, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-13T16:51:34",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 72.0,
     "ai_mentions": 60.0,
     "ai_alignment": 80.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of provoking clients to rethink their approach to Agile, which aligns with the Agile Philosophy's emphasis on mindset and continuous improvement. It touches on key themes such as adaptability and the need for introspection, which are central to Agile principles. However, while it does mention Agile concepts, it primarily focuses on the role of the consultant rather than a broader discussion of Agile values and principles, which slightly limits its depth.",
     "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T00:20:05",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their product development processes, which aligns with the principles of Agile methodologies and iterative development. However, it lacks specific details on product delivery practices such as testing, deployment, or cross-functional team dynamics, leading to a moderate confidence score.",
     "level": "Secondary"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T08:37:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses provoking change in client mindset regarding Agile practices, focusing on individual engagement rather than scaling agile methodologies at the organizational level.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-15T00:20:32",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 72.0,
     "ai_mentions": 60.0,
     "ai_alignment": 80.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their operations, which aligns with the principles of fostering a culture of agility and adaptability. It emphasises the importance of challenging established views and stimulating change, which are key aspects of organisational agility. However, while it touches on these themes, it does not delve deeply into specific strategies or frameworks that enhance organisational agility, leading to a slightly lower depth score.",
     "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-13T15:43:11",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their approach to Agile practices, which aligns with the principles of Agile transformation. It emphasises the importance of mindset change and introspection, key elements in Agile transformations. However, while it touches on these themes, it lacks detailed exploration of specific frameworks or methodologies, which slightly lowers the depth score.",
     "level": "Secondary"
   },
@@ -1145,33 +1019,12 @@
     "reasoning": "Content heavily discusses Agile consulting and mindset rather than portfolio management.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-03-15T00:20:20",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the role of an Agile consultant in provoking change and encouraging clients to rethink their operations, which aligns with the themes of adaptability and continuous improvement. However, it lacks a direct focus on organisational resilience and change management practices, making it more of a secondary mention rather than a primary focus.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T08:37:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses provoking clients to rethink their Agile practices, rather than focusing on transparency and accountability principles.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on provoking change in client mindset regarding Agile practices rather than discussing Agile planning tools.",
     "level": "Ignored"
   },
@@ -1184,26 +1037,17 @@
     "reasoning": "Content focuses primarily on provoking clients to rethink their Agile mindset rather than discussing software delivery or frequent releases.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T08:37:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on the mindset shift in Agile consulting rather than specific practical techniques or tooling for Agile or DevOps practices.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-03-15T00:20:30",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of provoking clients to rethink their approaches, which aligns with the principles of sensemaking by encouraging introspection and challenging established views. However, it primarily focuses on Agile consulting and does not delve deeply into frameworks or models of sensemaking, nor does it provide extensive detail on decision-making processes in complex environments. The mention of 'provocation' as a tool for change hints at sensemaking but lacks a comprehensive exploration of the category's core themes.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -1216,10 +1060,10 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile consulting and the importance of provoking clients to change their mindset, without a clear focus on product discovery methodologies or practices.",
     "level": "Ignored"
   },
@@ -1234,36 +1078,24 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on provoking clients to rethink their Agile processes rather than discussing hypothesis formulation or experimentation.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T19:54:03",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their approach to product development, which aligns with the concept of fostering a product-oriented mindset. However, it primarily focuses on coaching and consulting rather than the specific principles and practices of the Agile Product Operating Model. The depth of discussion on APOM is limited, as it does not delve into key topics such as operational stability, governance, or Evidence-Based Management.",
     "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-15T00:19:56",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the importance of provoking clients to rethink their approaches to Agile and product development, which aligns with the themes of fostering innovation and continuous learning. However, it primarily focuses on the role of the consultant rather than the broader processes of discovery and learning within teams. While it touches on introspection and challenging established views, it lacks detailed exploration of methodologies or frameworks that support discovery and learning, resulting in a moderate confidence score.",
-    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1276,10 +1108,10 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile consulting and methodologies, without a clear focus on employee engagement strategies or themes.",
     "level": "Ignored"
   },
@@ -1292,26 +1124,17 @@
     "reasoning": "Content discusses Agile consulting and the role of provocation in changing client mindsets, not automated testing.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T08:37:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile consulting and development mindset rather than Scaling Kanban principles.",
-    "level": "Ignored"
-  },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T18:17:12",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of provoking clients to rethink their approaches, which aligns with pragmatic thinking by emphasising real-world application and adaptability in Agile contexts. However, it lacks direct mentions of Agile, Scrum, or DevOps frameworks and does not provide in-depth strategies or case studies, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1324,13 +1147,13 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-15T00:20:40",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their approaches, which touches on decision-making indirectly. However, it lacks structured methodologies or evidence-based practices that are central to the category. The focus is more on personal insights and the importance of challenging established views rather than on systematic decision-making frameworks.",
     "level": "Ignored"
   },
@@ -1363,31 +1186,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses Agile consulting and rethinking Agile methodologies without focusing on Acceptance Test Driven Development or related concepts.",
     "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses Agile consulting and prompting clients to rethink their processes, not focusing on product strategy frameworks or methodologies.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-15T00:20:50",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their approach to product development, which aligns with the Agile principle of fostering a customer-centric mindset and encouraging introspection. However, it primarily focuses on the consultant's role rather than explicitly discussing Agile values or principles. The depth of discussion on Agile concepts is moderate, but it lacks direct references to the Agile Manifesto or its core values.",
     "level": "Secondary"
   },
@@ -1402,15 +1225,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-15T00:19:52",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their operations, which touches on the interaction between social dynamics (client mindset) and technical practices (Agile methodologies). However, it lacks explicit references to sociotechnical systems or a detailed exploration of how organisational structures influence software delivery. The focus is more on individual consultant-client interactions rather than broader sociotechnical frameworks.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1441,10 +1264,10 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile consulting and techniques for provoking change in thinking, without a clear discussion of Systems Thinking principles or its applications.",
     "level": "Ignored"
   },
@@ -1468,45 +1291,45 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T19:54:06",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on provoking clients to rethink their Agile practices rather than discussing Evidence-Based Management principles. While it touches on themes of change and improvement, it lacks explicit references to empirical evidence, metrics, or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of an Agile consultant and the importance of provoking clients to rethink their approach, which does not relate to installation or configuration processes.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T08:37:33",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of an Agile consultant in challenging clients' mindsets and practices, rather than focusing on measurable innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T00:20:34",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their operational practices, which aligns with the category's focus on improving operational efficiency. However, the discussion is more about mindset change rather than specific operational techniques or methodologies, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1528,63 +1351,63 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T00:19:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the concept of Agile consulting but does not explicitly mention Scrum or its specific roles, events, or artifacts. While it aligns with the Agile principle of encouraging reflection and adaptation, it lacks depth in discussing Scrum practices or frameworks, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:04:24",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on provoking clients to rethink their Agile practices and does not explicitly discuss the Shift-Left Strategy or its principles. While it touches on improving processes, it lacks direct references to integrating testing, security, or compliance early in development, which are core to the Shift-Left concept.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T19:53:50",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their processes, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the act of provocation rather than a comprehensive exploration of Continuous Improvement methodologies or frameworks. While there are mentions of improvement and questioning existing practices, the depth of discussion on Continuous Improvement concepts is limited, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T19:53:52",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their operations, which touches on the importance of aligning strategies with execution. However, it primarily focuses on the consultant's approach rather than explicitly addressing Common Goals or their significance in Agile and DevOps. The discussion lacks depth in exploring how these provocations connect to shared objectives or frameworks like OKRs, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T19:53:57",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their operations, which indirectly relates to competence by emphasising the need for continuous improvement and introspection. However, it lacks direct mentions of competence as a primary focus and does not delve deeply into strategies for fostering a culture of competence or skill development. The discussion is more about challenging mindsets than about developing demonstrable capabilities.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
@@ -1600,13 +1423,13 @@
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:59:43",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the role of an Agile consultant in provoking clients to rethink their approaches, which touches on the concept of intentionality in shaping outcomes. However, it lacks a clear focus on Agentic Agility as defined, particularly in distinguishing between human and AI capabilities or discussing mechanisms of AI Agentic Agility. The discussion is more about general Agile practices and coaching rather than a deep exploration of Agentic Agility principles.",
     "level": "Ignored"
   }

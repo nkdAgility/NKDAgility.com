@@ -30,7 +30,9 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Philosophy
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories: []

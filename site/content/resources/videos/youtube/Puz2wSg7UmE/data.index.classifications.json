@@ -1,34 +1,34 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-14T19:52:14",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses metrics related to organisational capability and innovation, which are relevant to application performance but does not explicitly focus on the stages of the application lifecycle or the core principles of Application Lifecycle Management. While it touches on metrics that could be used in an ALM context, it lacks depth in discussing the lifecycle stages or governance practices, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-06T14:57:08",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses the importance of metrics in evaluating an organisation's ability to innovate, which aligns closely with the core themes of the 'Metrics and Learning' category. It mentions evidence-based management and provides specific examples of metrics relevant to innovation, demonstrating a strong conceptual alignment. The depth of discussion is substantial, as it not only lists metrics but also contextualises their importance in the Agile and DevOps framework. Overall, the content is focused on metrics and their role in continuous improvement, justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T14:07:48",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses organisational capability and metrics for innovation, with no focus on installation or configuration processes.",
     "level": "Ignored"
   },
@@ -52,15 +52,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:53:25",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses Evidence-Based Management (EBM) as a means to measure and improve innovation within an organisation. It provides a detailed exploration of key metrics related to innovation, such as active branches, technical debt, innovation rate, and complexity overhead, which align closely with the core themes of EBM. The depth of discussion is substantial, offering actionable insights and recommendations for using these metrics effectively, thus demonstrating a strong alignment with the principles of evidence-based decision-making.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Personal": {
     "category": "Personal",
@@ -80,57 +80,24 @@
     "reasoning": "Content primarily focuses on measuring organisational capability and innovation metrics, without a clear emphasis on Systems Thinking principles or interconnectedness.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-10T11:48:02",
-    "ai_confidence": 55.0,
-    "ai_mentions": 60.0,
-    "ai_alignment": 50.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 50.0,
-    "reasoning": "The content briefly touches on technical debt and the relationship between innovation and complexity, which aligns with the category. However, the primary focus is on organisational capability and metrics for innovation rather than a deep exploration of code quality or complexity theory. The discussion lacks detailed insights into best practices or principles of software development, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T14:07:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses metrics for measuring organisational capability and innovation, without a clear focus on transparency or accountability.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-14T19:52:14",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses organisational capability and innovation metrics, which are tangentially related to market adaptability. However, it lacks explicit references to Agile, DevOps, or Lean methodologies, and does not provide a detailed exploration of strategies for responding to market shifts. The focus is more on measuring innovation rather than adapting to market changes.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-14T19:52:14",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses organisational capability and metrics related to innovation, which touches on the interplay between human behaviour and structured methodologies. However, it lacks direct mentions of team dynamics, leadership, or specific processes like Agile or Scrum. The focus is more on metrics than on the human factors influencing those processes, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T14:08:03",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on metrics for measuring organisational capability and innovation, lacking a direct discussion on psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
   },
@@ -143,38 +110,29 @@
     "reasoning": "Content discusses metrics related to organisational capability and innovation, which aligns with Evidence-Based Management principles, rather than being a general discussion on miscellaneous topics.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T14:08:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on measuring organisational capability and innovation metrics, lacking a clear connection to industry news or reviews.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-11T09:58:18",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses measuring an organisation's ability to improve value, which aligns with the core themes of value delivery. It mentions evidence-based management and metrics related to innovation, which are relevant to assessing value delivery effectiveness. However, the discussion lacks depth in exploring specific strategies or methodologies for continuous delivery of value, resulting in a moderately high confidence score.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-14T19:52:14",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses organisational capability and innovation, which are relevant to sociotechnical systems. However, it primarily focuses on metrics and technical aspects without a strong emphasis on the interplay between social and technical elements. The mention of organisational effectiveness is present but lacks depth in exploring the relationship between organisational culture and technology adoption.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -187,24 +145,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-11T14:26:18",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of innovation and evidence-based management, which aligns with Agile principles of continuous improvement and customer value. However, it lacks direct references to Agile frameworks, roles like the Product Owner, or specific Agile practices, which limits its depth in the Agile Product Management category.",
     "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T14:08:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on measuring organisational capability and innovation metrics, without a clear emphasis on resilience or change management.",
-    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -217,24 +166,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-11T16:15:33",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of innovation and metrics for measuring organisational capability, which aligns with the principles of organisational agility. It highlights the need for continuous improvement and a culture that fosters innovation, which are key aspects of agility. However, while it touches on agility-related themes, it does not explicitly focus on agile methodologies or frameworks, leading to a moderate confidence score.",
     "level": "Secondary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T14:08:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses organisational capability and metrics for innovation without a clear focus on AI or automation in Agile practices.",
-    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -247,27 +187,27 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:57:13",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of innovation and metrics for measuring organizational capability, which aligns with the principles of continuous improvement and value delivery. However, it lacks a direct focus on social technologies or frameworks that promote collaboration and decision-making. While it touches on aspects of team dynamics and improvement, it does not delve deeply into the social frameworks that underpin these concepts.",
     "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-03-14T19:52:14",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses innovation and metrics for measuring organizational capability, which aligns with Lean principles of continuous improvement and value delivery. However, it lacks direct references to Lean methodologies or tools, and the primary focus is on innovation rather than Lean practices specifically.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -280,126 +220,84 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T14:08:27",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses organisational capability and metrics for innovation rather than specific engineering practices or methodologies.",
     "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-13T15:06:13",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the importance of innovation and metrics for measuring organizational capability, which aligns with the principles of business agility. It emphasises the need for adaptability and continuous improvement, key aspects of business agility. However, while it touches on relevant themes, it does not explicitly mention business agility or its core principles, leading to a slightly lower confidence score.",
-    "level": "Secondary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-13T15:28:58",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses metrics related to innovation and organisational capability, which are relevant to Agile and DevOps practices. However, it lacks direct references to specific tools or methodologies commonly associated with these practices, such as CI/CD or Agile frameworks. While it provides valuable insights into measuring innovation, it does not delve deeply into practical techniques or tooling that enhance Agile and DevOps, leading to a moderate confidence score.",
-    "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T14:08:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses organisational capability and metrics for innovation, with no reference to events or presentations.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-13T16:36:45",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 67.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of innovation in delivering value to customers, which aligns with product delivery principles. It mentions key metrics like active branches, technical debt, and innovation rate, which are relevant to assessing product delivery effectiveness. However, the primary focus is on innovation rather than the end-to-end product delivery process, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-14T14:54:30",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of innovation and metrics for measuring organizational capability, which aligns with the principles of enterprise agility. However, it primarily focuses on innovation metrics rather than broader organisational agility frameworks or structures. While it touches on continuous improvement and the need for adaptability, it lacks a comprehensive exploration of enterprise agility as a primary focus.",
     "level": "Secondary"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T14:08:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses organisational capability and metrics for innovation, without a focus on specific products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-03-14T15:14:56",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of innovation and metrics related to it, which aligns with the principles of Value Stream Management. However, it primarily focuses on organizational capability and evidence-based management rather than directly addressing value stream mapping or waste elimination. While it touches on continuous improvement and metrics, it lacks a comprehensive exploration of value stream management techniques.",
     "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T17:53:20",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in measuring innovation, which aligns with the Agile Product Operating Model's emphasis on data-driven measures and continuous improvement. However, the primary focus is on innovation metrics rather than a comprehensive exploration of the Agile Product Operating Model itself, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T17:53:07",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses innovation and evidence-based management, which are relevant to organisational performance but do not explicitly address DevOps principles or practices. While there are mentions of continuous improvement and metrics, the focus is primarily on innovation rather than the integration of people, processes, and technology characteristic of DevOps.",
     "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-14T19:52:18",
-    "ai_confidence": 87.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content extensively discusses the importance of innovation and the methodologies for measuring and improving it, aligning well with the core themes of the 'Discovery and Learning' category. It explicitly mentions concepts like evidence-based management, metrics for innovation, and fostering a culture of continuous improvement, which are central to the category. The depth of discussion is significant, providing detailed insights into various metrics and their implications for innovation, thus supporting a high confidence score.",
-    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -419,15 +317,6 @@
     "reasoning": "Content primarily discusses organisational capability and metrics related to innovation, without a clear focus on Kanban principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T14:40:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on measuring organizational capability in innovation rather than discussing Kanban principles or scaling techniques.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
     "calculated_at": "2025-02-17T14:40:24",
@@ -437,33 +326,24 @@
     "reasoning": "Content primarily discusses organizational capability and innovation metrics rather than system configuration.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T14:40:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses metrics related to organizational capability and innovation but does not focus on scaling Agile practices or multiple teams.",
-    "level": "Ignored"
-  },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-14T19:53:08",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of innovation and continuous improvement, which aligns with Agile principles. However, it primarily focuses on metrics and evidence-based management rather than the broader Agile philosophy or its foundational values. While it touches on aspects of Agile, such as fostering a culture of continuous improvement, it lacks a direct discussion of the Agile Manifesto or its principles.",
     "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T14:40:24",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mostly focuses on metrics for organizational capability and innovation, with no significant discussion on Change Management principles, strategies, or practices.",
     "level": "Ignored"
   },
@@ -478,10 +358,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T14:40:24",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses metrics related to innovation and organizational capability but does not focus on Lead Time as a central theme.",
     "level": "Ignored"
   },
@@ -514,10 +394,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T14:40:24",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on measuring organizational effectiveness in innovation rather than discussing the Definition of Ready.",
     "level": "Ignored"
   },
@@ -532,13 +412,13 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-14T19:52:22",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses metrics related to innovation and technical debt, which are relevant to software craftsmanship and engineering practices. However, the primary focus is on organisational capability and innovation rather than deep technical mastery. While it touches on important technical concepts, it does not delve into best practices or methodologies in software design or architecture, which are central to the category of Technical Mastery.",
     "level": "Secondary"
   },
@@ -562,13 +442,13 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-03-14T19:53:11",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses innovation and metrics for measuring organizational capability, which are tangentially related to Lean Thinking principles like continuous improvement and value delivery. However, it lacks a direct focus on Lean principles such as waste identification or specific Lean tools. The discussion on continuous improvement aligns with Lean, but the overall emphasis is more on innovation rather than Lean methodologies.",
     "level": "Ignored"
   },
@@ -583,36 +463,36 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-14T19:52:50",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses metrics related to software development, such as active branches and technical debt, which are relevant to working software. However, the primary focus is on innovation and organizational capability rather than directly on the delivery of functional software. While it touches on aspects of working software, it does not delve deeply into Agile or Scrum principles, which limits its alignment with the category.",
     "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T14:40:24",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on measuring organizational capability and innovation metrics without a clear emphasis on release management practices.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-14T19:52:24",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of innovation and organisational capability, which are relevant to organisational change. However, it primarily focuses on metrics and evidence-based management rather than specific frameworks or methodologies for implementing change. While it touches on continuous improvement and the need for a culture that supports innovation, it lacks a detailed exploration of change management principles or leadership roles in driving change.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -623,36 +503,27 @@
     "reasoning": "Content primarily discusses measuring organizational effectiveness in innovation, with a focus on metrics rather than continuous learning principles.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T14:40:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organizational capability and metrics related to innovation, which are not specific to scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-03-14T19:52:45",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses evidence-based management as a means to measure and improve organisational innovation, aligning closely with the principles of Evidence Based Leadership. It provides detailed metrics and strategies for applying data-driven approaches to leadership decisions, demonstrating a strong conceptual alignment with the category. The depth of discussion is substantial, covering various metrics and their implications for leadership effectiveness, thus supporting a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-14T19:52:34",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of innovation and metrics for measuring organizational capability, which aligns with the themes of digital transformation. However, it lacks a direct focus on the strategic adoption of digital technologies and does not explicitly mention digital transformation initiatives or case studies. The discussion is more centred on innovation metrics rather than the broader context of digital transformation.",
     "level": "Secondary"
   },
@@ -667,15 +538,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-14T19:52:43",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses evidence-based management and metrics for measuring innovation, which aligns with empirical process control principles. However, it primarily focuses on innovation rather than the core themes of transparency, inspection, and adaptation specific to Agile methodologies. While it mentions metrics and continuous improvement, it lacks a direct focus on Agile frameworks or detailed discussions on empirical process control practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -733,25 +604,25 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-03-14T19:52:38",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses metrics related to innovation and organisational capability, which are relevant to understanding trends in business agility. However, it lacks a direct focus on trend analysis itself and does not explore broader patterns or shifts in Agile or DevOps practices. The discussion is more about measuring innovation rather than analysing trends, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T13:07:38",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the measurement of organisational capability and innovation, which aligns with product management principles, particularly in the context of Evidence-Based Management. However, while it touches on relevant metrics, it lacks a comprehensive exploration of product management methodologies or frameworks, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -766,22 +637,22 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-03-14T19:53:28",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses innovation and metrics for measuring organizational capability, which aligns with Lean principles of continuous improvement and delivering value. However, it lacks direct references to Lean methodologies and does not explicitly address waste reduction or Lean tools, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T14:40:24",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on measuring organizational capability and innovation metrics, which does not directly address self-organisation principles or practices.",
     "level": "Ignored"
   },
@@ -796,27 +667,27 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-06T14:57:05",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses metrics related to organisational capability and innovation in software development, which aligns with the principles of engineering excellence. However, it lacks a direct focus on best practices or detailed discussions on software craftsmanship, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-03-14T19:53:06",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of innovation and metrics related to it, which aligns with product strategy. However, it primarily focuses on organisational capability and evidence-based management rather than explicitly outlining product vision or roadmap development. While it touches on customer value and continuous improvement, it lacks a direct focus on strategic planning or competitive analysis.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -847,13 +718,13 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-14T19:52:48",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the measurement of innovation capabilities within an organization, which aligns with operational practices by focusing on metrics and continuous improvement. However, while it touches on relevant topics like evidence-based management and metrics for innovation, it lacks a direct emphasis on specific operational practices or methodologies such as Agile, DevOps, or Lean. The discussion is more about innovation in a general sense rather than operational efficiency techniques, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -877,24 +748,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-14T19:52:29",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of innovation and metrics for measuring organizational capability, which aligns with Agile principles of continuous improvement and value delivery. However, it lacks a direct focus on Agile methodologies or strategic planning, making it more of a general discussion on innovation rather than a specific Agile strategy.",
     "level": "Secondary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T14:40:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on organizational ability to innovate and metrics related to that, which does not primarily discuss the role of software developers in Agile or DevOps contexts.",
-    "level": "Ignored"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -907,13 +769,13 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-03-14T19:52:32",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of innovation and metrics for measuring organizational capability, which indirectly relates to strategic goals. However, it primarily focuses on operational metrics and processes rather than explicitly defining long-term strategic objectives. While it touches on the need for clear innovation goals, it lacks a comprehensive exploration of how these goals align with broader organisational strategies or agile principles.",
     "level": "Secondary"
   },
@@ -946,15 +808,15 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-03-14T19:53:04",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the importance of innovation in organisations, which is a core principle of entrepreneurship. It aligns well with the themes of value creation and the entrepreneurial mindset by emphasising the need for continuous improvement and calculated risk-taking through metrics. The depth of discussion is substantial, providing detailed insights into measuring innovation and its impact on organisational success, which is crucial for entrepreneurs. Overall, the content is highly relevant to the category of entrepreneurship.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -967,15 +829,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-14T19:52:20",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses innovation and metrics related to organizational capability, which indirectly touches on aspects of technical leadership, such as managing technical debt and fostering a culture of continuous improvement. However, it lacks a direct focus on the principles of technical leadership and agile methodologies, making it a secondary rather than primary focus.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -988,13 +850,13 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-14T19:52:41",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 40,
     "non_ai_confidence": 30,
-    "final_score": 86.0,
+    "final_score": 92.0,
     "reasoning": "The content explicitly discusses the concept of 'ability to innovate' and its importance within organisations, making it a primary focus. It aligns well with the core themes of the category by detailing the role of evidence-based management in measuring innovation and providing specific metrics to assess innovation capabilities. The depth of discussion is substantial, covering various metrics and strategies for fostering a culture of innovation, which supports a high confidence score.",
     "level": "Primary"
   },
@@ -1061,24 +923,15 @@
     "reasoning": "Content primarily discusses metrics and technical aspects related to organizational innovation rather than employee engagement or motivation.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T14:40:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses metrics for measuring effectiveness in terms of value and innovation but does not specifically focus on Agile principles, methodologies, or project management frameworks.",
-    "level": "Ignored"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-03-14T19:52:53",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses innovation and metrics related to organisational capability but does not explicitly mention hypothesis formulation or experimentation. While it touches on evidence-based management, which aligns with data-driven decision-making, it lacks a clear focus on the principles of hypothesis-driven development, such as formulating and testing hypotheses. The depth of discussion on metrics is present, but it does not connect back to the core themes of hypothesis-driven development.",
     "level": "Ignored"
   },
@@ -1093,13 +946,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T17:53:22",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses innovation and evidence-based management, which are relevant to improving software delivery but do not explicitly focus on Continuous Delivery principles. While it touches on metrics and continuous improvement, it lacks a direct emphasis on the core themes of Continuous Delivery, such as automation in deployment or rapid feedback loops.",
     "level": "Ignored"
   },
@@ -1114,19 +967,19 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T14:40:24",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on measuring organizational capability and innovation, with no specific discussion on the Definition of Done.",
     "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T14:40:24",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on measuring organizational capabilities and effectiveness in innovation rather than discussing cultural aspects related to Agile methodologies or DevOps practices.",
     "level": "Ignored"
   },
@@ -1141,25 +994,25 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-14T19:53:23",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses evidence-based management as a methodology for making informed decisions regarding innovation, which aligns closely with the principles of structured decision-making. It provides detailed metrics and actionable steps for organisations to assess and improve their innovation capabilities, demonstrating a strong focus on data-driven decision-making. The depth of discussion on metrics and their implications for decision-making further supports this classification.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T19:52:27",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses key metrics related to software development, such as active branches and technical debt, which are directly relevant to the software development lifecycle. It also touches on evidence-based management, which aligns with best practices in software engineering. The depth of discussion on metrics and their implications for innovation indicates a strong focus on software development practices.",
     "level": "Secondary"
   },
@@ -1181,26 +1034,17 @@
     "reasoning": "Content focuses on measuring organizational capability and innovation effectiveness rather than discussing the Product Backlog or its management.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-14T19:52:14",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "While the content mentions metrics related to improving value and innovation within organizations, it does not specifically focus on Scrum principles, roles, or product development processes, making Scrum only a peripheral theme.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-03-14T19:53:21",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses innovation and metrics for measuring organizational capability, which indirectly relates to Lean principles through the emphasis on continuous improvement and value delivery. However, it lacks direct references to Lean concepts such as waste reduction or specific Lean tools, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -1258,57 +1102,57 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-14T19:52:36",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses metrics related to software development, specifically mentioning 'active branches' and 'technical debt', which are relevant to version control practices. However, the primary focus is on measuring innovation and organisational capability rather than on modern source control methodologies or best practices. While there is some alignment with the category, it is not the main theme, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-03-14T19:53:00",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses innovation and evidence-based management, which are relevant to product validation. However, it primarily focuses on organisational capability and metrics rather than directly addressing user testing, market fit, or customer feedback loops. The discussion lacks depth in practical application for validating product ideas through user engagement.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T14:40:24",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on measuring organizational capabilities and metrics related to innovation, lacking a direct discussion of Agile values and principles.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T14:40:24",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on measuring organizational capabilities and innovation rather than managing a portfolio of projects.",
     "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-03-14T19:53:16",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses organisational capability and innovation, which are relevant to systems thinking and organisational dynamics. However, it primarily focuses on metrics and evidence-based management rather than a holistic view of organisational behaviour or the interplay of various organisational elements. While it touches on complexity and continuous improvement, it lacks a deeper exploration of systems thinking principles and their application in organisational contexts.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1321,24 +1165,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-14T19:53:18",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of measuring innovation within an organization, which aligns with strategic approaches in Agile environments. It mentions key metrics and practices that can enhance team performance and drive value, reflecting a value-driven approach to strategy. However, while it touches on Agile principles, the primary focus is on innovation measurement rather than a comprehensive strategic framework, leading to a moderately high confidence score.",
     "level": "Secondary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T14:40:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on measuring organizational capability and innovation, with no direct reference to AI or its application in Agile or DevOps.",
-    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1390,27 +1225,27 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-03-14T19:53:26",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly discusses technical debt as a crucial metric for measuring innovation capability, highlighting its impact on long-term innovation and team efficiency. It provides a detailed explanation of how technical debt can hinder development and offers practical recommendations for managing it. While the primary focus is on innovation, the discussion of technical debt is substantial and well-integrated, making it a significant aspect of the overall content.",
     "level": "Secondary"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-14T19:52:57",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content extensively discusses practical strategies for measuring and improving innovation within an organization, aligning closely with the core themes of pragmatic thinking. It highlights evidence-based management, key metrics, and the importance of continuous improvement, all of which are essential for navigating complexity in Agile and DevOps contexts. The depth of discussion on metrics and their application in real-world scenarios further supports a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1430,42 +1265,33 @@
     "reasoning": "Content primarily focuses on measuring organizational capability and innovation metrics rather than coaching practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T14:40:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on measuring organizational capability and effectiveness in innovation, without a central discussion on scaling agility practices or frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T16:08:10",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses innovation and evidence-based management in an agile context, which is relevant to Scrum principles. However, it does not explicitly mention the role of the Scrum Master or delve into their specific responsibilities, techniques, or impact on team dynamics. The focus is more on organisational capability and metrics rather than the Scrum Master's role in facilitating Scrum processes.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T14:40:24",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mostly focuses on organizational capability and innovation metrics without directly addressing Cycle Time or its implications.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-17T14:40:24",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on measuring organizational capability for innovation rather than discussing Value Stream Mapping principles, steps, or techniques.",
     "level": "Ignored"
   },
@@ -1478,7 +1304,7 @@
     "reasoning": "Content primarily discusses organizational capability and innovation metrics, with no clear focus on Increment delivery in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T14:40:24",
     "ai_confidence": 0,
@@ -1534,61 +1360,61 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T19:52:14",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the concept of improving value and innovation, which are relevant to Scrum principles, but it lacks explicit mentions of Scrum roles, events, or artifacts. The discussion is more focused on organisational capability and metrics rather than the Scrum framework itself, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:48:24",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses innovation and metrics related to organizational capability but does not explicitly mention the Shift-Left Strategy or its principles. While it touches on aspects like technical debt and complexity, which can relate to early integration in development, the primary focus is on measuring innovation rather than integrating testing, security, or compliance earlier in the software development lifecycle.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:53:09",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 87.0,
     "ai_mentions": 15.0,
     "ai_alignment": 38.0,
     "ai_depth": 34.0,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content discusses the importance of continuous improvement in the context of innovation and evidence-based management. It highlights metrics that can be used to measure innovation capability, which aligns with the principles of continuous improvement. However, while it mentions continuous improvement, it does not delve deeply into specific strategies or frameworks for implementing it, leading to a slightly lower depth score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:53:12",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses innovation and metrics related to organisational capability, which are relevant to achieving common goals. However, it primarily focuses on measuring innovation rather than explicitly aligning strategy with execution or shared objectives within Agile and DevOps frameworks. The mention of defining innovation goals is a step towards common goals, but the overall discussion lacks depth in connecting these concepts to the principles of Agile or DevOps.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:53:15",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 72.0,
     "ai_mentions": 3,
     "ai_alignment": 80.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of measuring organizational capability and innovation, which aligns with the concept of competence in terms of continuous improvement and skill development. It mentions metrics that can help gauge progress, reflecting a focus on competence. However, while it touches on fostering a culture of continuous improvement, the depth of discussion on competence as a foundational principle is somewhat limited, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
@@ -1606,13 +1432,13 @@
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:08:03",
+    "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses innovation and metrics for measuring organizational capability, which touches on aspects of agility and improvement. However, it lacks a direct focus on Agentic Agility, particularly the intentional shaping of outcomes through autonomy and adaptability. While it mentions the importance of continuous improvement and decision-making, it does not explicitly differentiate between human and AI capabilities or delve into the transformative capacity of individuals and systems in a socio-technical context.",
     "level": "Ignored"
   }

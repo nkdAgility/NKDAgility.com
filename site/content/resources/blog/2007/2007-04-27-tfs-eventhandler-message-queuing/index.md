@@ -9,7 +9,7 @@ ResourceImportId: 411
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-27
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,7 +27,8 @@ aliasesArchive:
 - /tfs-eventhandler--message-queuing
 - /blog/tfs-eventhandler--message-queuing
 - /resources/blog/tfs-eventhandler-message-queuing
-tags: []
+tags:
+- Software Development
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

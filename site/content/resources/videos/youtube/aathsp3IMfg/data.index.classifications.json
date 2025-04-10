@@ -37,10 +37,10 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-12T09:42:13",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content does not provide any substantial discussion on Scrum principles, roles, or practices, and instead focuses on the appropriateness of an APS course for a scrum team, which is not central to the Scrum framework.",
     "level": "Ignored"
   },
@@ -100,10 +100,10 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-12T09:42:23",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not discuss the Daily Scrum or its related topics; it focuses on the appropriateness of an APS course for a scrum team.",
     "level": "Ignored"
   },
@@ -262,23 +262,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-15T00:48:15",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 35.0,
     "ai_mentions": 50.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 32.0,
+    "final_score": 35.0,
     "reasoning": "The content title suggests a focus on Scrum, which is an Agile framework, but the provided content is empty. Therefore, while there is a mention of Scrum, there is no substantial discussion or exploration of Agile frameworks, their principles, or applications. This results in a low confidence score due to the lack of depth and detail.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T09:42:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the appropriateness of an APS course for a scrum team, which is primarily about team-level agile practices rather than scaling agility across the organisation.",
     "level": "Ignored"
   },
   "Team Collaboration": {
@@ -461,24 +452,15 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-12T09:43:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide sufficient information to determine relevance to software developers in Agile or DevOps contexts; it only mentions a course for a scrum team without further details.",
-    "level": "Ignored"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:04:42",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Applied Professional Scrum (APS) approach and its principles, with no direct mention of Test First Development or its practices. While it discusses the importance of having a working product at the end of iterations, it does not delve into the specifics of defining success criteria or the role of testing in the context of Test First Development. The discussion is more about Scrum methodologies and team dynamics rather than the principles and practices of Test First Development.",
     "level": "Ignored"
   },
@@ -545,15 +527,6 @@
     "reasoning": "Content does not discuss Lead Time; it focuses on the appropriateness of an APS course for a scrum team.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T09:43:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the appropriateness of an APS course for a scrum team, which does not align with the principles of scaling Agile across multiple teams or enterprise-level initiatives.",
-    "level": "Ignored"
-  },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
     "calculated_at": "2025-02-12T09:43:35",
@@ -570,15 +543,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T09:43:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not provide enough information to determine its relevance to Agile Project Management, as it lacks substantial discussion on agile principles or methodologies.",
     "level": "Ignored"
   },
   "Continuous Integration": {
@@ -601,13 +565,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T20:07:21",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 25.0,
     "ai_mentions": 5,
     "ai_alignment": 10,
     "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on Scrum and Agile methodologies, with only brief mentions of delivering usable products at the end of iterations, which aligns with Continuous Delivery principles. However, it lacks a detailed exploration of Continuous Delivery practices, automation, or specific tools, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -654,24 +618,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not provide any discussion on team performance or collaboration; it focuses on the appropriateness of an APS course for a scrum team without addressing team dynamics or effectiveness.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T09:43:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss AI or its integration within Agile methodologies, DevOps practices, or software development processes. It focuses on Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T09:43:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -721,10 +667,10 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-12T09:44:01",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not discuss Scrum Values; it focuses on the appropriateness of an APS course for a Scrum team.",
     "level": "Ignored"
   },
@@ -746,15 +692,6 @@
     "reasoning": "Content is focused on Scrum roles and events, with no mention of test automation principles, practices, or tools.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T09:44:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content does not provide sufficient information to determine its relevance to Scrum Product Development, as it lacks details on Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
     "calculated_at": "2025-02-12T09:44:07",
@@ -766,13 +703,13 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T20:07:25",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Applied Professional Scrum (APS) approach and its principles, with no explicit discussion of Evidence-Based Management or its key topics. While it touches on concepts related to Scrum and team empowerment, it lacks a direct connection to empirical decision-making or metrics that assess value delivery, which are central to EBM.",
     "level": "Ignored"
   },
@@ -785,26 +722,17 @@
     "reasoning": "Content does not discuss backlog refinement or related Agile practices; it focuses on the appropriateness of an APS course for a scrum team.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T09:44:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not discuss Scaling Scrum principles or practices; it focuses on the appropriateness of an APS course for a Scrum team without addressing scaling aspects.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T17:04:39",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses the role of the Scrum Master in the context of the Applied Professional Scrum (APS) approach, highlighting its importance in fostering effective Scrum teams. It aligns well with the core themes of the category, such as the responsibilities of the Scrum Master, the significance of continuous improvement, and the impact on team dynamics. The depth of discussion is substantial, providing insights into specific practices like the 'Barnacle Exercise' that directly relate to the Scrum Master's role in facilitating team growth and agility.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -860,7 +788,7 @@
     "reasoning": "Content does not address accountability or related themes; it focuses on the appropriateness of an APS course for a scrum team.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T09:44:51",
     "ai_confidence": 0,
@@ -898,10 +826,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-12T09:44:57",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content does not provide enough information to determine its relevance to Scrum Team dynamics or roles; it only poses a question about the appropriateness of an APS course for a Scrum team without further context.",
     "level": "Ignored"
   },
@@ -1049,15 +977,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T09:41:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
     "calculated_at": "2025-02-12T09:41:27",
@@ -1067,15 +986,6 @@
     "reasoning": "Content focuses on the appropriateness of APS courses for scrum teams, which does not relate to installation or configuration processes.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T09:41:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-12T09:41:29",
@@ -1083,15 +993,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on the appropriateness of an APS course for a scrum team, which does not directly relate to the optimisation of work throughput or flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T09:41:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss AI or automation in Agile practices; it focuses on Scrum roles and events.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -1112,15 +1013,6 @@
     "reasoning": "The content does not provide enough information to determine its relevance to Agile Product Management, as it lacks specific discussions on Agile principles, product management practices, or the role of the Product Owner.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T09:41:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the appropriateness of APS courses for scrum teams, which does not directly address discovery or learning methodologies.",
-    "level": "Ignored"
-  },
   "Systems Thinking": {
     "category": "Systems Thinking",
     "calculated_at": "2025-02-12T09:41:36",
@@ -1137,33 +1029,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss complexity science or its principles; it focuses on Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T09:41:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not address transparency or accountability; it focuses on the appropriateness of APS courses for scrum teams.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T09:41:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide any practical techniques or tooling related to Agile or DevOps; it focuses on the appropriateness of an APS course for a scrum team without discussing specific methodologies or tools.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T09:41:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss any specific events, presentations, or related topics; it focuses on the appropriateness of an APS course for a scrum team.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1186,13 +1051,13 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T20:07:02",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum and Agile methodologies, with no direct mention of DevOps principles or practices. While there are themes of collaboration and continuous improvement, they are framed within the context of Scrum rather than the broader DevOps philosophy. The discussion lacks depth regarding DevOps concepts such as automation, shared accountability, or feedback loops, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -1203,15 +1068,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T09:41:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss any specific products or literature related to Agile or DevOps; it focuses on the appropriateness of an APS course for a scrum team.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -1268,18 +1124,6 @@
     "reasoning": "Content does not provide personal reflections or experiences; it focuses on the appropriateness of an APS course for a scrum team without personal context.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T00:48:15",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content title suggests a focus on the appropriateness of an APS course for a Scrum team, which implies a discussion around team dynamics and training. However, without additional context or content, it is difficult to ascertain the depth of the discussion regarding human behaviour or structured methodologies. The mention of 'Scrum' indicates a connection to the category, but the lack of detailed exploration limits the overall confidence score.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-12T09:42:00",
@@ -1287,15 +1131,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not provide any discussion on sociotechnical systems; it focuses on the appropriateness of an APS course for a scrum team without addressing the interplay between technology and organisational structures.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T09:42:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide any news or reviews related to Agile, DevOps, or technology; it focuses on the appropriateness of an APS course for a scrum team without industry updates or evaluations.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
@@ -1336,15 +1171,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:14:25",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the APS approach within the context of Scrum, highlighting team empowerment and collaboration, which aligns with the principles of social technologies. However, while it touches on themes of self-organisation and iterative processes, the primary focus remains on Scrum practices rather than a broader discussion of social technologies. The depth of discussion is moderate, providing insights into APS but lacking extensive exploration of the underlying social frameworks.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1366,13 +1201,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T20:07:19",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the Applied Professional Scrum (APS) approach and its principles, which are closely related to Scrum practices rather than the broader Agile Product Operating Model. While it touches on concepts like working products and iterative feedback, it lacks a direct discussion on transitioning to a product-oriented mindset or the integration of product management principles. The depth of discussion is limited to Scrum-specific practices, which do not fully align with the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
@@ -1405,85 +1240,85 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T00:48:15",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 50,
-    "final_score": 28.0,
+    "final_score": 25.0,
     "reasoning": "The content title suggests a connection to Scrum teams, but the body of the content is missing. Without explicit discussion or details on Scrum principles, roles, or practices, the confidence score remains low. The mention of 'scrum team' indicates a minimal reference to the category, but without further elaboration, the alignment and depth are insufficient to warrant a higher score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:05:57",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Applied Professional Scrum (APS) approach and its principles, with no direct mention or discussion of the Shift-Left Strategy. While it touches on Agile practices and the importance of feedback, it does not address integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T20:07:05",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the APS approach and its role in enhancing Scrum practices, which aligns with the principles of Continuous Improvement. However, it primarily focuses on Scrum mastery and team empowerment rather than explicitly addressing Continuous Improvement as a primary theme. The mention of the 'Barnacle Exercise' suggests a method for reflection and adaptation, but the overall depth and direct discussion of Continuous Improvement concepts are limited.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T20:07:09",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the APS approach and its application within Scrum, discussing the importance of working products and the challenges faced by Scrum teams. However, it lacks a direct discussion on Common Goals as defined in the category. While it touches on team empowerment and the need for alignment in Scrum practices, it does not explicitly connect these ideas to shared objectives or strategic alignment within Agile and DevOps frameworks. The depth of discussion on Common Goals is minimal, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T20:07:13",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the Applied Professional Scrum (APS) approach, which is closely related to competence in Scrum mastery. It highlights the importance of continuous learning and skill development, particularly through the 'Barnacle Exercise' that encourages teams to reflect on their practices. The discussion aligns well with the core themes of competence, such as fostering a culture of mastery and the distinction between performative activity and genuine progress. However, while competence is a significant focus, the content also touches on broader Agile principles, which slightly dilutes the primary focus on competence.",
     "level": "Secondary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:07:16",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Applied Professional Scrum (APS) methodology and its principles, which are specific to Scrum rather than the broader One Engineering System framework. While there are mentions of team empowerment and agile practices, these do not directly relate to the integration and standardisation of engineering processes as outlined in the 1ES category. The discussion lacks depth regarding the core themes of 1ES, such as tool integration or best practices for implementing a unified engineering system.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T17:04:35",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum practices and the APS approach, with limited direct discussion on Agentic Agility. While it touches on themes of empowerment and reflection, it does not explicitly address the intentional shaping of outcomes or differentiate between human and AI capabilities in the context of agility. The depth of discussion remains surface-level, lacking detailed exploration of the principles of Agentic Agility.",
     "level": "Ignored"
   }

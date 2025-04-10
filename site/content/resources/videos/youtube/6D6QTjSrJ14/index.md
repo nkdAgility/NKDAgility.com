@@ -32,12 +32,18 @@ sitemap:
   priority: 0.6
 tags:
 - Continuous Learning
-- Discovery and Learning
-- Continuous Improvement
-- People and Process
-- Customer Feedback Loops
 - Coaching
+- Continuous Improvement
+- Customer Feedback Loops
 - Competence
+- Ability to Innovate
+- Customer Satisfaction
+- Organisational Agility
+- Pragmatic Thinking
+- Social Technologies
+- Miscellaneous
+- Personal
+- Customer Retention
 resourceTypes:
 - video
 layout: video

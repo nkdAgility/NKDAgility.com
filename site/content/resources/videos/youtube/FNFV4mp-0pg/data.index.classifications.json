@@ -1,27 +1,27 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T20:02:15",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master within Agile methodologies, focusing on micromanagement versus facilitation. While it touches on themes of team effectiveness and collaboration, it does not explicitly address DevOps principles or practices. The discussion is more aligned with Agile frameworks rather than the broader DevOps philosophy, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:13:51",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the role of a Scrum Master, focusing on facilitation and support rather than micromanagement, which aligns with the principles of self-organisation and collaboration. However, it primarily centres on the Scrum Master's role rather than broader social technologies or frameworks, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -34,25 +34,25 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-15T00:36:50",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the role of a Scrum Master, which touches on leadership in an Agile context. However, it primarily focuses on the negative aspects of micromanagement rather than providing a comprehensive exploration of leadership strategies or frameworks. While it mentions the importance of facilitating and teaching, it lacks depth in discussing broader leadership concepts or techniques that align with Agile principles.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-15T00:36:50",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master, which is a specific role within Agile frameworks. While it touches on aspects of team effectiveness and facilitation, it does not delve into broader product management strategies or methodologies. The focus is more on the Scrum Master’s responsibilities rather than the strategic alignment of product management with customer needs and business objectives. Therefore, while there are mentions of Agile principles, the overall discussion lacks depth and does not align closely with the core themes of product management.",
     "level": "Ignored"
   },
@@ -76,57 +76,36 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T10:21:53",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and the importance of facilitation rather than micromanagement, lacking a focus on metrics, data collection, or evidence-based decision-making.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-11T17:45:18",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses the role of a Scrum Master, focusing on the importance of facilitation over micromanagement, which aligns well with Scrum principles. It provides a detailed exploration of the Scrum Master's responsibilities and the impact of their approach on team dynamics, demonstrating a strong understanding of Scrum values and practices. The depth of discussion is significant, addressing misconceptions and promoting a culture of trust and empowerment, which are core themes in Professional Scrum.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-15T00:36:52",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master within the Agile framework, explicitly addressing misconceptions about micromanagement. It aligns well with the core themes of Agile frameworks by emphasising facilitation, team empowerment, and continuous improvement. The depth of discussion is significant, providing insights into the responsibilities and impact of a Scrum Master, which is central to understanding Agile practices. Overall, the content is focused on Agile principles and the Scrum framework, justifying a high confidence score.",
-    "level": "Secondary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-15T00:36:56",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content primarily discusses the role of a Scrum Master, which is a key aspect of the Scrum framework. It addresses misconceptions about micromanagement and emphasises the importance of facilitation, empowerment, and team effectiveness, aligning well with Scrum principles. However, while it touches on Scrum practices, it lacks detailed exploration of product development processes, such as Sprint planning or Product Backlog management, which slightly lowers the depth of discussion.",
-    "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T10:21:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role and approach of a Scrum Master without reference to any specific events or presentations.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -139,15 +118,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-03-11T11:38:45",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the role of a Scrum Master and the importance of not micromanaging, which indirectly touches on accountability by emphasising team ownership and effectiveness. However, it lacks direct mentions of accountability as a concept and does not explore the broader implications of accountability within Agile teams.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Windows": {
     "category": "Windows",
@@ -196,28 +175,28 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-18T10:21:53",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of a Scrum Master in Agile methodologies, focusing on mentorship and facilitation rather than Lean principles such as waste reduction and value maximization.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T10:21:53",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of the Scrum Master and the implications of micromanagement, which are not related to the Definition of Done.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-18T10:21:53",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of a Scrum Master and the concept of micromanagement without a focus on evidence-based practices or data-driven leadership decision-making.",
     "level": "Ignored"
   },
@@ -232,24 +211,24 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-18T10:21:53",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on the role and responsibilities of a Scrum Master, particularly in relation to micromanagement, rather than discussing specific collaboration tools or their use in Agile environments.",
     "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-03-13T15:44:05",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master in fostering self-organisation within teams, explicitly contrasting it with micromanagement. It highlights the importance of empowerment, trust, and collaboration, which are core themes of self-organisation. The depth of discussion is substantial, providing insights into how Scrum Masters can facilitate an environment conducive to self-organisation, although it does not delve into specific techniques or case studies. Overall, the content aligns well with the principles of self-organisation, justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -319,63 +298,63 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T14:43:10",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master within the Agile framework, which is a key aspect of software development methodologies. It explicitly mentions Agile principles and the Scrum process, demonstrating a strong focus on software development practices. The discussion is detailed, addressing misconceptions about micromanagement and emphasising the importance of facilitation and team empowerment, which aligns well with the core themes of the Software Development category. The depth of the discussion is significant, providing insights into the responsibilities and impact of a Scrum Master, thus reinforcing its relevance to software development.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-15T00:37:00",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the role of a Scrum Master in a coaching capacity, emphasising facilitation, support, and empowerment rather than micromanagement. It aligns well with key coaching themes such as fostering trust, collaboration, and continuous learning. The depth of discussion is substantial, providing insights into the Scrum Master's responsibilities and the importance of a non-directive approach. Overall, the content strongly supports the coaching category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-10T14:23:15",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the role of a Scrum Master, which is relevant to Agile methodologies, but it primarily focuses on the negative aspects of micromanagement rather than on Agile Planning principles or practices. While it touches on team effectiveness, it lacks a detailed exploration of Agile Planning techniques, strategies, or tools.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-15T00:36:54",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master, focusing on the importance of facilitation over micromanagement. While it touches on Agile principles and the Scrum framework, it lacks a broader discussion on Agile strategy as a whole. The content does not explicitly address strategic planning or organisational alignment, which are key aspects of the Agile Strategy category. However, it does provide a reasonable depth of discussion regarding the Scrum Master's role in fostering an Agile culture, which contributes to the overall confidence score.",
     "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-11T16:32:49",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master in fostering team effectiveness and collaboration, which aligns closely with the core themes of the 'Team Performance' category. It explicitly mentions the importance of creating an environment of trust and empowerment, which are key aspects of team dynamics. The depth of discussion is substantial, providing insights into how a Scrum Master can facilitate rather than micromanage, thus enhancing team performance. Overall, the content is highly relevant and focused on the principles of Agile and Scrum.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Lean": {
     "category": "Lean",
@@ -442,13 +421,13 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-15T00:36:50",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the role of a Scrum Master in facilitating team effectiveness, which aligns with the principles of Continuous Learning. However, it primarily focuses on the negative aspect of micromanagement rather than exploring growth mindset, knowledge sharing, or continuous improvement in detail. The discussion lacks depth and does not explicitly mention key topics related to Continuous Learning.",
     "level": "Ignored"
   },
@@ -488,18 +467,6 @@
     "reasoning": "Content primarily discusses the role of a Scrum Master in Agile practices, focusing on team dynamics and micromanagement, rather than software craftsmanship or technical engineering practices.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-07T14:06:44",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
-    "non_ai_confidence": 0,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the role of a Scrum Master, which is relevant to Agile methodologies and the dynamics of software development teams. However, it primarily focuses on the negative aspects of micromanagement rather than providing a comprehensive exploration of Agile practices or the broader role of software developers. While it touches on the importance of team effectiveness, it lacks depth in discussing best practices, tools, or strategies that would enhance the understanding of software developers within Agile frameworks.",
-    "level": "Secondary"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T10:21:53",
@@ -509,24 +476,15 @@
     "reasoning": "Content primarily discusses the role of a Scrum Master in Agile methodologies, focusing on the importance of facilitation and team empowerment rather than Lean principles or product development processes.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T10:21:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role of a Scrum Master and the principles of Agile, which are unrelated to software code quality or complexity.",
-    "level": "Ignored"
-  },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-03-14T15:30:30",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the role of a Scrum Master in fostering a culture of trust, collaboration, and continuous improvement, which aligns with the themes of organisational culture. It explicitly mentions the importance of creating an environment that empowers team members, which is a key aspect of organisational culture. However, the focus is primarily on the Scrum Master's role rather than a broader discussion of organisational culture itself, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -550,13 +508,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T17:03:04",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 85.0,
+    "final_score": 92.0,
     "reasoning": "The content explicitly discusses the role of the Scrum Master, particularly in the context of micromanagement versus facilitation. It aligns well with the core themes of the category by addressing the responsibilities and impact of a Scrum Master, emphasising the importance of empowerment and support over control. The depth of discussion is significant, providing insights into the Scrum Master's role in fostering team effectiveness and a culture of trust, which are central to the Scrum framework.",
     "level": "Primary"
   },
@@ -571,25 +529,25 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-15T00:36:58",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the role of a Scrum Master in facilitating team effectiveness and fostering a culture of trust and collaboration, which aligns with the principles of value delivery. However, it primarily focuses on the misconception of micromanagement rather than providing in-depth strategies or methodologies for delivering value to customers. The discussion is relevant but lacks comprehensive detail on value delivery practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-13T16:52:35",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master, which is a key aspect of technical leadership in agile environments. It explicitly mentions the importance of facilitation, mentoring, and fostering a culture of trust and continuous improvement, aligning well with the core themes of technical leadership. The depth of discussion is substantial, providing insights into the responsibilities and mindset required for effective Scrum Mastery, although it could benefit from more specific strategies or examples related to agile practices.",
     "level": "Secondary"
   },
@@ -604,10 +562,10 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-18T10:21:54",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of a Scrum Master and emphasizes the importance of facilitation over micromanagement, without addressing decision-making processes or the principles of decision theory.",
     "level": "Ignored"
   },
@@ -638,15 +596,6 @@
     "reasoning": "Content heavily discusses the roles and responsibilities of a Scrum Master in an Agile context rather than focusing on organisational change strategies or frameworks.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T10:21:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role of Scrum Masters in Agile teams without mentioning scaling Agile practices or frameworks.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "calculated_at": "2025-02-18T10:21:54",
@@ -655,18 +604,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on the role of a Scrum Master in Agile, discussing micromanagement versus facilitation without direct reference to Lean Thinking principles or practices.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T00:38:10",
-    "ai_confidence": 87.0,
-    "ai_mentions": 18,
-    "ai_alignment": 35,
-    "ai_depth": 30,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content explicitly discusses the role of a Scrum Master, focusing on the importance of facilitation over micromanagement, which aligns closely with team dynamics and collaboration in Agile environments. It provides a detailed exploration of how Scrum Masters can foster a culture of trust and empowerment, which is central to effective processes. The depth of discussion on the human factors influencing team effectiveness and the emphasis on mentoring and support further solidify its relevance to the 'People and Process' category.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -679,15 +616,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-15T00:37:50",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master and the importance of avoiding micromanagement, which is relevant to Agile practices. However, it does not explicitly focus on broader business agility principles or strategies. While it touches on themes of empowerment and team effectiveness, it lacks depth in discussing how these concepts contribute to overall business agility. The mention of 'Business Agility' in hashtags does not significantly enhance the relevance of the content to the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -700,13 +637,13 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-03-15T00:37:12",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10,
     "ai_alignment": 25,
     "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the role of a Scrum Master in an Agile environment, focusing on facilitation and support rather than micromanagement. While it touches on themes of team dynamics and empowerment, which are relevant to organisational psychology, the primary focus is on Agile methodologies and Scrum practices. The psychological aspects are mentioned but not explored in depth, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -721,10 +658,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T10:21:54",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of a Scrum Master and micromanagement, with no direct reference to the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -737,7 +674,7 @@
     "reasoning": "Content heavily discusses the role of a Scrum Master and concepts around micromanagement rather than Lead Time.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T10:21:54",
     "ai_confidence": 0,
@@ -748,24 +685,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-15T00:38:17",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 87.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the role of a Scrum Master, which is a key aspect of Agile leadership. It highlights the importance of facilitation over micromanagement, aligning well with the principles of empowering teams and fostering a culture of trust and collaboration. The depth of discussion is significant, as it elaborates on the responsibilities of a Scrum Master in creating an effective team environment. Overall, the content is highly relevant to Agile Leadership, focusing on leadership practices within an Agile context.",
-    "level": "Secondary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T10:21:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the role of a Scrum Master and the concept of micromanagement in Agile practices, without addressing AI or automation.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -778,13 +706,13 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-15T00:38:08",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the role of a Scrum Master in facilitating Agile processes, which aligns with the principles of Empirical Process Control. However, it primarily focuses on the misconception of micromanagement rather than providing a comprehensive exploration of empirical practices, transparency, inspection, or adaptation. While it touches on themes of empowerment and team effectiveness, it lacks depth in discussing empirical process control techniques or case studies.",
     "level": "Secondary"
   },
@@ -799,15 +727,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-15T00:37:31",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master in fostering team collaboration and trust, which aligns closely with the category of Team Collaboration. It explicitly mentions the importance of creating an environment of trust and collaboration, and it addresses the negative impact of micromanagement on team dynamics. The discussion is detailed, providing insights into how a Scrum Master can empower the team and enhance effectiveness, which reflects a deep understanding of the principles of Agile teamwork. Overall, the content is highly relevant to the category, with a strong focus on collaboration and team dynamics.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -816,15 +744,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of a Scrum Master and micromanagement but does not focus on market adaptability or related agile practices that enhance responsiveness to market shifts.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T10:21:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of a Scrum Master within Agile frameworks, without any mention or focus on AI applications.",
     "level": "Ignored"
   },
   "Working Software": {
@@ -838,19 +757,19 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T10:21:54",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of a Scrum Master and misconceptions around micromanagement, without a clear focus on the Daily Scrum event.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-18T10:21:54",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of a Scrum Master and the principles of Agile, with no focus on Continuous Integration.",
     "level": "Ignored"
   },
@@ -872,29 +791,17 @@
     "reasoning": "Content is primarily focused on the role of a Scrum Master, discussing facilitation and micromanagement, rather than on Product Backlog management.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-15T00:37:03",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
-    "non_ai_confidence": 20,
-    "final_score": 80.0,
-    "reasoning": "The content primarily focuses on the role of a Scrum Master within Agile Project Management, discussing the importance of facilitation over micromanagement. It directly mentions Scrum principles and the responsibilities of a Scrum Master, aligning well with Agile methodologies. The depth of discussion is substantial, providing insights into how a Scrum Master can empower teams and foster a collaborative environment, which are key aspects of Agile Project Management.",
-    "level": "Secondary"
-  },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-03-15T00:37:05",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the role of a Scrum Master in fostering an environment of trust and collaboration, which aligns with the principles of psychological safety. It mentions the importance of empowering team members and creating a conducive environment for creativity and decision-making. However, the primary focus is on micromanagement rather than a comprehensive exploration of psychological safety itself, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -905,35 +812,17 @@
     "reasoning": "Content heavily discusses the role of a Scrum Master and addresses misconceptions about micromanagement, which is not directly related to the troubleshooting of technical issues.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T10:21:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of a Scrum Master and misconceptions about micromanagement, without focusing on specific products or literature.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T10:21:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of a Scrum Master and micromanagement, without providing industry news, updates, or reviews relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-03-15T00:37:57",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master in fostering team motivation through empowerment and support, aligning well with the core themes of team dynamics and collaboration. It explicitly mentions the importance of creating a culture of trust and continuous learning, which are key aspects of team motivation. The depth of discussion is substantial, providing insights into how a Scrum Master can enhance team effectiveness by avoiding micromanagement and instead focusing on facilitation and mentorship.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Personal": {
     "category": "Personal",
@@ -944,45 +833,36 @@
     "reasoning": "Content primarily discusses the role and responsibilities of a Scrum Master without providing personal experiences or reflections.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T10:21:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the role of the Scrum Master and misconceptions about micromanagement, without addressing scaling Scrum practices or frameworks.",
-    "level": "Ignored"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-18T10:21:54",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of a Scrum Master and addresses micromanagement, rather than focusing on cross-functional teams.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-03-15T00:37:24",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the role of a Scrum Master in relation to micromanagement, emphasising the importance of facilitation, support, and creating an environment of trust and collaboration. It aligns well with the Scrum Values of respect, openness, and commitment, as it highlights the need for a supportive atmosphere where team members can thrive. However, while it touches on these values, it does not delve deeply into each value individually, which slightly lowers the depth score. Overall, the content is primarily focused on the Scrum Master's role, making it relevant to the category.",
     "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-15T00:37:07",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 70.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the role of the Scrum Master within Agile frameworks, which is a key aspect of Agile Product Management. It explicitly mentions the Scrum Master’s responsibilities and contrasts them with traditional project management roles, aligning well with Agile principles. The depth of discussion is substantial, focusing on facilitation, team empowerment, and the importance of a non-micromanagement approach, which are relevant to product management in an Agile context. However, it does not delve deeply into broader product management strategies or stakeholder engagement, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
@@ -997,13 +877,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:02:59",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master and the concept of micromanagement within Agile practices. It does not mention Test First Development, nor does it align with its principles or provide any depth on related topics such as success criteria, testing practices, or collaboration in the context of Test First Development.",
     "level": "Ignored"
   },
@@ -1018,15 +898,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-15T00:37:19",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the role of the Scrum Master, focusing on their responsibilities and the importance of facilitating rather than micromanaging. It aligns well with the core themes of team dynamics, trust, and collaboration within a Scrum Team. The depth of discussion is significant, providing insights into how a Scrum Master can foster an effective team environment, which is central to the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -1057,82 +937,73 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-15T00:38:02",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 62.0,
     "ai_mentions": 75.0,
     "ai_alignment": 55.0,
     "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the role of a Scrum Master in an Agile context, focusing on facilitation rather than micromanagement. While it touches on strategic elements like team empowerment and effectiveness, it lacks a comprehensive exploration of strategic alignment or planning within Agile frameworks. The primary focus is on the Scrum Master's role rather than broader strategic discussions, which limits its alignment with the Strategy category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-03-15T00:37:38",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses the role of a Scrum Master as a mentor, emphasising the importance of facilitating rather than micromanaging. It aligns well with key mentoring themes such as fostering a culture of continuous learning and supporting team members' professional growth. The depth of discussion is substantial, providing insights into the responsibilities and mindset of an effective Scrum Master, which directly relates to mentoring in Agile environments.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-15T00:38:00",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 78.0,
     "ai_mentions": 70.0,
     "ai_alignment": 80.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the role of a Scrum Master in the context of Agile philosophy, focusing on facilitation, empowerment, and the avoidance of micromanagement. It aligns well with core themes of Agile, such as collaboration, team effectiveness, and continuous improvement. The depth of discussion is significant, providing insights into the mindset required for effective Agile practice, although it primarily revolves around the Scrum framework rather than the broader Agile philosophy.",
     "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T00:37:28",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master in Agile methodologies, focusing on the importance of facilitation over micromanagement. While it touches on Agile principles relevant to product delivery, it lacks a comprehensive exploration of the end-to-end product delivery process, such as planning, testing, or deployment. The discussion is more about the Scrum Master's role rather than the broader context of delivering software products effectively.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T10:21:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of a Scrum Master and their responsibilities, which are primarily focused on team-level practices rather than scaling agility at an organizational level.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-15T00:37:26",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the role of a Scrum Master in fostering an agile environment, which aligns with the principles of organisational agility. It emphasises the importance of facilitation over micromanagement, promoting a culture of trust and continuous improvement. However, while it touches on key themes, the focus is primarily on the Scrum Master's role rather than broader organisational strategies, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-15T00:37:54",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly discusses the role of a Scrum Master within the Agile framework, focusing on the importance of facilitation over micromanagement. It aligns well with Agile principles, particularly in fostering team effectiveness and a culture of trust. However, while it touches on Agile transformation concepts, it does not delve deeply into broader strategies or methodologies for organisational change, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
@@ -1145,30 +1016,12 @@
     "reasoning": "Content primarily focuses on the role and responsibilities of a Scrum Master in Agile practices, which does not align with portfolio management themes.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T10:21:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content predominantly focuses on the role of a Scrum Master and the importance of not micromanaging, rather than discussing themes of organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T10:21:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of a Scrum Master in avoiding micromanagement, focusing on facilitation rather than transparency or accountability.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T10:21:54",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of a Scrum Master and the concept of micromanagement, without focusing on Agile Planning Tools or their methodologies.",
     "level": "Ignored"
   },
@@ -1179,15 +1032,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of a Scrum Master, focusing on facilitation and team dynamics rather than software release processes.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T10:21:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the role and philosophy of a Scrum Master rather than practical techniques, tools, or methodologies for Agile practices.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1237,27 +1081,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T20:02:30",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master and addresses misconceptions about micromanagement within Agile teams. While it touches on Agile principles, it does not explicitly focus on the Agile Product Operating Model or its key topics such as product management practices, operational stability, or Evidence-Based Management. The discussion is more centred on Scrum and team dynamics rather than the broader framework of APOM, leading to a low confidence score.",
     "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-15T00:37:18",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the role of a Scrum Master in fostering a culture of continuous learning and improvement, which aligns with the core themes of the 'Discovery and Learning' category. It explicitly mentions the importance of empowering teams and creating an environment conducive to innovation, which reflects the principles of experimentation and feedback loops. However, the primary focus is on clarifying misconceptions about micromanagement rather than exploring broader methodologies for discovery and learning, which slightly limits its depth in this context.",
-    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1270,15 +1102,15 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-03-15T00:38:19",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the role of a Scrum Master in fostering a culture of trust and collaboration, which aligns with employee engagement principles. It highlights the importance of empowering team members and creating an environment conducive to creativity and effectiveness. However, the primary focus is on Scrum methodology rather than a broader exploration of employee engagement strategies, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -1289,26 +1121,17 @@
     "reasoning": "Content heavily discusses the role of a Scrum Master in Agile practices, with no mention of automated testing or related topics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T10:21:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of a Scrum Master in Agile practices, which is unrelated to Scaling Kanban.",
-    "level": "Ignored"
-  },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T00:37:52",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the role of a Scrum Master in a practical context, emphasising the importance of facilitation over micromanagement. It aligns with pragmatic thinking by addressing real-world applications of Agile principles and the impact of leadership styles on team effectiveness. However, while it touches on key themes, it lacks extensive depth in practical problem-solving strategies or case studies, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1321,10 +1144,10 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-18T10:21:54",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the role of a Scrum Master and the distinction between facilitation and micromanagement, without a clear emphasis on structured decision-making methodologies or evidence-based practices.",
     "level": "Ignored"
   },
@@ -1375,13 +1198,13 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-15T00:38:04",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 30,
-    "final_score": 68.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the role of a Scrum Master, which is closely related to Agile principles, particularly in terms of facilitation, empowerment, and team dynamics. However, it primarily focuses on the Scrum framework rather than the broader Agile values and principles. While it touches on concepts like trust, collaboration, and continuous improvement, these are framed within the context of Scrum, limiting the depth of discussion on Agile values as a whole.",
     "level": "Secondary"
   },
@@ -1396,15 +1219,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-15T00:37:14",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the role of a Scrum Master in facilitating team dynamics and fostering an environment of trust and collaboration, which aligns with sociotechnical principles. However, it primarily focuses on the Scrum Master's responsibilities rather than a broader exploration of sociotechnical systems or their impact on software delivery. The discussion lacks depth in addressing organisational structures or the interplay between social and technical systems, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1462,48 +1285,48 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T20:02:33",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master and the concept of micromanagement within Agile practices. While it touches on themes of team effectiveness and empowerment, it does not explicitly mention Evidence-Based Management or its key topics. The focus is more on Agile principles rather than data-informed decision-making or empirical evidence, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T10:21:54",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of a Scrum Master and micromanagement rather than installation and configuration topics.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-15T00:37:10",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the role of a Scrum Master in fostering a culture of trust and creativity, which indirectly relates to innovation. However, it primarily focuses on micromanagement versus facilitation rather than directly addressing the measurement or improvement of innovation capabilities. The discussion lacks depth in terms of frameworks, metrics, or empirical data related to innovation.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T00:38:14",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the role of a Scrum Master in facilitating team effectiveness and avoiding micromanagement, which aligns with operational practices in Agile. However, it primarily focuses on the misconceptions surrounding the Scrum Master's role rather than providing detailed techniques or strategies for operational efficiency. The discussion lacks depth in terms of specific methodologies or metrics that enhance operational practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1525,61 +1348,61 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:25:25",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 78.0,
     "ai_mentions": 90.0,
     "ai_alignment": 70.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 75.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly discusses the role of a Scrum Master, which is a key aspect of the Scrum framework. It addresses the misconception of micromanagement in the context of Scrum, aligning well with the principles of team dynamics and self-organisation. The depth of the discussion is significant, as it provides insights into the responsibilities of a Scrum Master and the impact of micromanagement on team effectiveness. However, it does not delve into other Scrum roles, events, or artifacts, which slightly lowers the overall alignment score.",
     "level": "Secondary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:05:20",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master and the importance of avoiding micromanagement within Agile teams. While it touches on themes of facilitation and team empowerment, it does not explicitly mention or align with the Shift-Left Strategy, which focuses on integrating testing, security, and compliance earlier in the software development lifecycle. The discussion is more centred on Agile principles rather than the proactive measures associated with Shift-Left practices.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T20:02:18",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the role of a Scrum Master in fostering a culture of continuous learning and improvement, which aligns with the principles of Continuous Improvement. However, the primary focus is on addressing micromanagement rather than a comprehensive exploration of Continuous Improvement practices. The discussion is somewhat superficial, lacking detailed strategies or empirical evidence related to Continuous Improvement.",
     "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T20:02:21",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master and the importance of facilitation over micromanagement. While it touches on themes relevant to Agile practices, such as team empowerment and collaboration, it does not explicitly address the concept of Common Goals or how they align with strategic objectives. The focus is more on the Scrum Master's responsibilities rather than on shared objectives that guide decision-making within teams.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T20:02:25",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 68.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the role of a Scrum Master in facilitating team effectiveness and fostering a culture of continuous learning, which aligns with the principles of competence. However, while it touches on the importance of empowering teams and avoiding micromanagement, it does not delve deeply into strategies for skill development or the inspection and adaptation of competence over time. The focus is more on the Scrum Master's role rather than a comprehensive exploration of competence itself.",
     "level": "Secondary"
   },
@@ -1597,13 +1420,13 @@
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T17:02:57",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the role of a Scrum Master in facilitating team autonomy and effectiveness, which aligns with the principles of Agentic Agility. However, it primarily focuses on micromanagement rather than a comprehensive exploration of Agentic Agility concepts, leading to a lower confidence score.",
     "level": "Ignored"
   }

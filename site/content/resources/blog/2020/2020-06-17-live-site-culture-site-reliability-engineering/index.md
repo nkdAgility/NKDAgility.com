@@ -9,7 +9,7 @@ ResourceImportId: 44414
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-06-17
-weight: 420
+weight: 360
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -37,11 +37,19 @@ tags:
 - Software Development
 - Continuous Delivery
 - Operational Practices
-- Product Delivery
-- Events and Presentations
+- Organisational Agility
+- Pragmatic Thinking
 - Value Delivery
 - Market Adaptability
-- Organisational Agility
+- Product Delivery
+- Technical Excellence
+- Azure DevOps
+- Business Agility
+- Digital Transformation
+- Enterprise Agility
+- Working Software
+- Continuous Learning
+- Trend Analysis
 
 ---
 As more and more organisations move towards a higher degree of agility, they inevitably also move towards DevOps practices like Continuous Delivery to facilitate shortening the feedback loops.

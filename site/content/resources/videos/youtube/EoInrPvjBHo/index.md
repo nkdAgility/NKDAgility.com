@@ -31,19 +31,40 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Transformation
-- Team Performance
 - Pragmatic Thinking
 - Software Development
+- Team Performance
+- Agile Planning
 - Agile Values and Principles
 - Team Collaboration
-- People and Process
+- Agile Leadership
+- Agile Strategy
+- Product Delivery
+- Self Organisation
 - Agile Product Management
-- Agile Planning
-- Scrum Product Development
+- Agile Frameworks
+- Professional Scrum
+- Scrum Team
+- Value Delivery
+- Organisational Agility
+- Personal
+- Product Owner
+- Social Technologies
+- Agile Product Operating Model
+- Business Agility
+- Customer Satisfaction
+- Organisational Culture
+- Product Strategy
+- Working Software
+- Agile Philosophy
+- Team Motivation
+- Organisational Psychology
+- Employee Engagement
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Management
+- Scrum
 
 ---
 In Agile, there's a common misconception that leads to what I like to call "Agile Banditry." Product Owners, when misguided, can fall into the trap of treating their role as a project manager, dictating every step of the team’s progress like an overbearing taskmaster. This often leads to disengagement, frustration, and ultimately, a failed product. In this blog, we’ll explore the dangers of Agile Banditry and how Product Owners can avoid this trap, enabling their teams to thrive.

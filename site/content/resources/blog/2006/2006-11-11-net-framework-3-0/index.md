@@ -9,7 +9,7 @@ ResourceImportId: 462
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-11-11
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,7 +27,8 @@ aliasesArchive:
 - /-net-framework-3-0
 - /blog/-net-framework-3-0
 - /resources/blog/net-framework-3-0
-tags: []
+tags:
+- Software Development
 preview: metro-binary-vb-128-link-1-1.png
 categories: []
 

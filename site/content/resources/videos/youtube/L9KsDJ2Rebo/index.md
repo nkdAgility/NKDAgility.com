@@ -26,11 +26,12 @@ preview: https://i.ytimg.com/vi/L9KsDJ2Rebo/maxresdefault.jpg
 duration: 84
 isShort: false
 tags:
-- Discovery and Learning
 - Continuous Learning
 - Pragmatic Thinking
 - Software Development
 - Competence
+- Coaching
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

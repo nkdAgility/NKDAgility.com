@@ -19,7 +19,7 @@ recommendedContent:
 - collection: practices
   path: _practices/service-level-expectation-sle.md
 date: 2024-09-17
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 card:
   button:
@@ -28,18 +28,21 @@ card:
   title: Kanban Guide
 categories:
 - Kanban
-- Social Technologies
+- Lean
 tags:
+- Agile Frameworks
 - Flow Efficiency
 - Operational Practices
-- Lean
-- Agile Frameworks
-- Throughput
-- Practical Techniques and Tooling
-- Value Delivery
 - Software Development
-- Products and Books
-- Agile Project Management
+- Value Delivery
+- Throughput
+- Lean Principles
+- Lean Thinking
+- Cycle Time
+- Continuous Improvement
+- Metrics and Learning
+- Transparency
+- Value Stream Management
 
 ---
 December 2020

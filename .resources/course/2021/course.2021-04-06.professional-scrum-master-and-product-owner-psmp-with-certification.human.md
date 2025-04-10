@@ -8,7 +8,7 @@ ResourceContentOrigin: human
 shortTitle: Scrum Master & Product Owner
 date: 2021-04-06
 creator: Martin Hinshelwood
-weight: 770
+weight: 750
 type: course
 slug: professional-scrum-master-and-product-owner-psmp-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
@@ -32,15 +32,21 @@ delivery-audiences:
 - Lean Agile Practitioners
 tags:
 - Professional Scrum
-- People and Process
-- Agile Product Management
-- Agile Project Management
-- Scrum Product Development
+- Agile Frameworks
 - Agile Planning
+- Agile Product Management
+- Agile Transformation
+- Organisational Agility
 - Product Backlog
 - Product Delivery
 - Product Owner
+- Scrum Team
+- Software Development
+- Team Performance
+- Value Delivery
 - Scrum Master
+- Team Collaboration
+- Agile Strategy
 categories:
 - Scrum
 - Product Management

@@ -33,16 +33,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Transparency
 - Operational Practices
-- Agile Project Management
-- Practical Techniques and Tooling
-- Flow Efficiency
 - Agile Frameworks
-- People and Process
+- Transparency
+- Flow Efficiency
 - Agile Strategy
+- Pragmatic Thinking
 - Software Development
 - Metrics and Learning
+- Social Technologies
+- Value Delivery
+- Organisational Agility
 resourceTypes:
 - video
 categories:

@@ -9,7 +9,7 @@ ResourceImportId: 3279
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-30
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,15 +25,20 @@ aliasesArchive:
 - /resources/blog/upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
 tags:
 - Install and Configuration
-- Windows
-- System Configuration
-- Practical Techniques and Tooling
 - Software Development
+- System Configuration
 - Troubleshooting
+- Windows
 - Azure DevOps
 - Technical Mastery
 - Operational Practices
 - Pragmatic Thinking
+- Application Lifecycle Management
+- Release Management
+- Modern Source Control
+- Product Delivery
+- Technical Excellence
+- Working Software
 categories:
 - Scrum
 preview: metro-visual-studio-2005-128-link-33-33.png

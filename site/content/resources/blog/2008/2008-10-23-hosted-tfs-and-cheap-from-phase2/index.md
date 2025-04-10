@@ -32,7 +32,7 @@ aliasesArchive:
 - /blog/hosted-tfs--and-cheap…-from-phase2
 - /resources/blog/hosted-tfs-and-cheap-from-phase2
 tags:
-- Products and Books
+- Miscellaneous
 preview: metro-sharepoint-128-link-2-2.png
 categories: []
 

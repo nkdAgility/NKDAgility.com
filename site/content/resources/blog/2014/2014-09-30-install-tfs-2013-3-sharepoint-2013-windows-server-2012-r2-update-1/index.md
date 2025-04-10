@@ -9,7 +9,7 @@ ResourceImportId: 10727
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-09-30
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,11 +29,11 @@ aliasesArchive:
 - /resources/blog/install-tfs-2013-3-sharepoint-2013-windows-server-2012-r2-update-1
 tags:
 - Install and Configuration
-- Windows
 - System Configuration
-- Practical Techniques and Tooling
+- Windows
 - Troubleshooting
 - Software Development
+- Pragmatic Thinking
 categories: []
 preview: nakedalm-experts-visual-studio-alm-27-27.png
 

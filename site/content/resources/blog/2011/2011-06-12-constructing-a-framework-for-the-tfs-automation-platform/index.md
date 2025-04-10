@@ -9,7 +9,7 @@ ResourceImportId: 3641
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-12
-weight: 395
+weight: 330
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,9 +27,12 @@ tags:
 - Software Development
 - Platform Engineering
 - Internal Developer Platform
-- Practical Techniques and Tooling
 - Technical Mastery
-categories: []
+- Pragmatic Thinking
+- Technical Excellence
+- Install and Configuration
+categories:
+- Engineering Excellence
 
 ---
 ![ALMRangersLogo_Small](images/ALMRangersLogo_Small-1-1.png "ALMRangersLogo_Small")As Lead developer for the TFS Iteration Automation my goal this weekend is to provide a framework for the developers to give both architectural and development guidance for the tools and methods we are going to be using to construct the Platform.

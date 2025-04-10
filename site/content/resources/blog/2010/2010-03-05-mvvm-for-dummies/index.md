@@ -9,7 +9,7 @@ ResourceImportId: 65
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-05
-weight: 805
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,6 +25,7 @@ aliasesArchive:
 - /resources/blog/mvvm-for-dummies
 tags:
 - Software Development
+- Technical Mastery
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

@@ -2,7 +2,7 @@
 title: Maximizing Transparency and Improvement in Software Engineering with Kanban
 description: Unlock the power of Kanban! Discover how it enhances software engineering processes, boosts efficiency, and fosters team collaboration. Watch now!
 date: 2024-07-29T06:45:02Z
-weight: 500
+weight: 450
 ResourceId: Psc6nDD7Q9g
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -31,21 +31,32 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Software Development
 - Operational Practices
+- Software Development
 - Continuous Improvement
-- Transparency and Accountability
-- Practical Techniques and Tooling
-- Discovery and Learning
+- Social Technologies
 - Agile Frameworks
-- Lean
 - Pragmatic Thinking
 - Throughput
+- Organisational Agility
+- Transparency
+- Continuous Delivery
+- Cycle Time
+- Metrics and Learning
+- Empirical Process Control
+- Product Delivery
+- Ability to Innovate
+- Agile Strategy
+- Complexity Thinking
+- Flow Efficiency
+- Value Delivery
+- Team Collaboration
+- Lean Thinking
 resourceTypes:
 - video
 categories:
 - Kanban
-- Social Technologies
+- Lean
 
 ---
 In the fast-paced world of software engineering, uncertainty is the only certainty. What we expect to happen often diverges dramatically from what actually unfolds during the process. This variance can cause significant challenges, but it also presents opportunities for teams to learn, adapt, and improve. One powerful tool for gaining clarity and creating space for continuous improvement is **Kanban**.

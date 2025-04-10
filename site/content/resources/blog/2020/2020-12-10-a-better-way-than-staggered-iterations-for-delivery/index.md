@@ -9,7 +9,7 @@ ResourceImportId: 9915
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-12-10
-weight: 235
+weight: 155
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -26,18 +26,44 @@ aliasesArchive:
 - /resources/blog/a-better-way-than-staggered-iterations-for-delivery
 tags:
 - Software Development
-- Scrum Product Development
-- Value Delivery
-- Software Developers
-- Working Software
-- Practical Techniques and Tooling
-- Product Delivery
-- Team Performance
 - Agile Planning
 - Agile Product Management
+- Agile Transformation
+- Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
+- Value Delivery
+- Working Software
+- Product Delivery
+- Team Performance
+- Technical Excellence
+- Agile Frameworks
+- Professional Scrum
+- Team Collaboration
+- Continuous Improvement
+- Organisational Agility
+- Increment
+- Technical Mastery
+- Agile Strategy
+- Business Agility
+- Cycle Time
+- Test First Development
+- Cross Functional Teams
+- Empirical Process Control
+- Frequent Releases
+- Shift-Left Strategy
+- Continuous Delivery
+- Deployment Frequency
+- Market Adaptability
+- Throughput
+- Flow Efficiency
+- Scrum Team
+- Self Organisation
+- Competence
 categories:
-- Scrum
 - Engineering Excellence
+- Scrum
+- Technical Leadership
 preview: staggered-iterations-for-delivery1-2-2.png
 
 ---

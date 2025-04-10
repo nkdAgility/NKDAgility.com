@@ -25,17 +25,19 @@ preview: https://i.ytimg.com/vi/XMLdLH6f4N8/maxresdefault.jpg
 duration: 197
 isShort: false
 tags:
+- Social Technologies
 - Organisational Culture
 - Organisational Agility
 - Continuous Improvement
+- Agile Transformation
+- Common Goals
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 As I reflect on my recent experiences with organisational change and the impact it has on teams, I can't help but think about the journey we’ve all been on. It’s a journey that often feels chaotic, yet it’s one that can lead to incredible transformation when approached with the right mindset and tools. 

@@ -29,16 +29,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Values and Principles
 - Agile Transformation
-- Agile Project Management
-- Agile Philosophy
+- Agile Values and Principles
 - Software Development
+- Agile Philosophy
 - Organisational Agility
-- Agile Product Management
-- Discovery and Learning
-- People and Process
 - Agile Frameworks
+- Agile Product Management
+- Personal
+- Coaching
+- Scrum Master
+- Pragmatic Thinking
+- Value Delivery
 resourceTypes:
 - video
 layout: video

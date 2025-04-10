@@ -9,7 +9,7 @@ ResourceImportId: 9894
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-03-03
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,8 +27,8 @@ tags:
 - Install and Configuration
 - Windows
 - System Configuration
-- Practical Techniques and Tooling
 - Troubleshooting
+- Software Development
 categories: []
 
 ---

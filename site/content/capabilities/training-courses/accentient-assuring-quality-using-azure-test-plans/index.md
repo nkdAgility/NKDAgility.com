@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: course
 ResourceContentOrigin: human
 date: 2020-09-01
-weight: 640
+weight: 600
 creator: Martin Hinshelwood
 type: course
 slug: assuring-quality-using-azure-test-plans-training
@@ -33,8 +33,8 @@ delivery-audiences:
 tags:
 - Azure DevOps
 - Software Development
-- Practical Techniques and Tooling
 - Technical Excellence
+- Test Automation
 categories:
 - Engineering Excellence
 preview: 

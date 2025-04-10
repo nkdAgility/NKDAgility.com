@@ -9,7 +9,7 @@ ResourceImportId: 371
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-14
-weight: 575
+weight: 530
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,6 +26,7 @@ aliasesArchive:
 tags:
 - Software Development
 - Pragmatic Thinking
+- Product Delivery
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

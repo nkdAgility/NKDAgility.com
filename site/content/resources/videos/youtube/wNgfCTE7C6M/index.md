@@ -2,7 +2,7 @@
 title: 'Unlocking Effective Product Development: How a Hypothesis-Driven Approach Transforms User Experience'
 description: Unlock the secrets of effective product development! Discover how a hypothesis-driven approach and collaboration can transform your user experience.
 date: 2023-04-10T07:00:18Z
-weight: 805
+weight: 790
 ResourceId: wNgfCTE7C6M
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -27,16 +27,25 @@ preview: https://i.ytimg.com/vi/wNgfCTE7C6M/maxresdefault.jpg
 duration: 371
 isShort: false
 tags:
-- Discovery and Learning
 - Agile Product Management
 - Pragmatic Thinking
-- People and Process
+- Decision Making
 - Software Development
 - Value Delivery
-- Decision Making
-- Scrum Product Development
+- Continuous Learning
 - Professional Scrum
+- Team Collaboration
 - Product Delivery
+- Agile Frameworks
+- Agile Planning
+- Agile Strategy
+- Agile Transformation
+- Continuous Delivery
+- Continuous Improvement
+- Empirical Process Control
+- Organisational Agility
+- Market Adaptability
+- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

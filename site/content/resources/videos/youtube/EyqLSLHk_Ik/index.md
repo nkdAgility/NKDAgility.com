@@ -2,7 +2,7 @@
 title: 'Empowering Teams for Success: The Key to Thriving Product Development'
 description: Unlock the secret to successful product development! Discover how to empower your team, foster collaboration, and boost morale for exceptional results.
 date: 2024-05-07T11:02:49Z
-weight: 290
+weight: 220
 ResourceId: EyqLSLHk_Ik
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -25,16 +25,36 @@ preview: https://i.ytimg.com/vi/EyqLSLHk_Ik/maxresdefault.jpg
 duration: 423
 isShort: false
 tags:
-- People and Process
 - Team Collaboration
 - Team Motivation
 - Sociotechnical Systems
 - Team Performance
-- Employee Engagement
-- Organisational Culture
-- Product Delivery
 - Organisational Agility
 - Agile Leadership
+- Employee Engagement
+- Organisational Culture
+- Pragmatic Thinking
+- Product Delivery
+- Continuous Learning
+- Agile Philosophy
+- Agile Product Management
+- Social Technologies
+- Software Development
+- Coaching
+- Mentoring
+- Organisational Psychology
+- Value Delivery
+- Self Organisation
+- Agile Transformation
+- Agile Values and Principles
+- Business Agility
+- Continuous Improvement
+- Decision Making
+- Decision Theory
+- Operational Practices
+- Scrum Team
+- Competence
+- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,8 +62,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Leadership
 - Engineering Excellence
+- Leadership
 - Product Management
 
 ---

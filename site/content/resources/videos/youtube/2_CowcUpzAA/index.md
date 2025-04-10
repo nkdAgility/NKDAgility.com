@@ -31,14 +31,21 @@ sitemap:
 tags:
 - Product Owner
 - Agile Product Management
-- Agile Project Management
-- Scrum Product Development
-- People and Process
 - Pragmatic Thinking
-- Accountability
 - Software Development
+- Competence
 - Continuous Learning
+- Professional Scrum
 - Scrum Team
+- Product Delivery
+- Value Delivery
+- Agile Frameworks
+- Agile Planning
+- Agile Product Operating Model
+- Agile Strategy
+- Agile Transformation
+- Organisational Agility
+- Decision Making
 resourceTypes:
 - video
 layout: video

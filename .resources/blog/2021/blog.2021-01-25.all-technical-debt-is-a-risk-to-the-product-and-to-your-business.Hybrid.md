@@ -9,7 +9,7 @@ ResourceImportId: 45521
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-01-25
-weight: 400
+weight: 340
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -29,16 +29,14 @@ aliasesArchive:
 - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
 - /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
 tags:
-- Technical Debt
 - Technical Mastery
+- Technical Debt
 - Pragmatic Thinking
-- Product Delivery
 - Software Development
-- Code and Complexity
+- Product Delivery
+- Value Delivery
 categories:
 - Engineering Excellence
-- Scrum
-- Product Management
 preview: All-technical-debt-is-risk-to-the-product-and-to-your-business-2-2.jpg
 
 ---

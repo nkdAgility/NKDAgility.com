@@ -2,7 +2,7 @@
 title: What is Kanban?
 description: Unlock the power of Kanban! Discover how to optimise workflows, visualise processes, and drive continuous improvement in this essential guide.
 date: 2024-02-12T07:00:11Z
-weight: 995
+weight: 1000
 ResourceId: LMmKDlcIvWs
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -32,15 +32,18 @@ tags:
 - Continuous Improvement
 - Operational Practices
 - Lean Principles
-- Agile Project Management
-- Metrics and Learning
-- Practical Techniques and Tooling
-- Continuous Learning
-- Flow Efficiency
 - Agile Frameworks
+- Continuous Learning
+- Metrics and Learning
+- Flow Efficiency
+- Software Development
+- Lean Thinking
+- Pragmatic Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- Lean
+- Kanban
 
 ---
 ### Demystifying Kanban: A Strategy for Continuous Improvement

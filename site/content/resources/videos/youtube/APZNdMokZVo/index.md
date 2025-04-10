@@ -2,7 +2,7 @@
 title: 'Unlocking Success in Agile: Why Your Definition of Done is Essential for Quality Delivery'
 description: Unlock the power of the Definition of Done in Agile! Discover how this key concept enhances quality, transparency, and team effectiveness.
 date: 2023-11-13T06:56:47Z
-weight: 420
+weight: 355
 ResourceId: APZNdMokZVo
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,16 +26,22 @@ preview: https://i.ytimg.com/vi/APZNdMokZVo/maxresdefault.jpg
 duration: 360
 isShort: false
 tags:
-- Agile Project Management
-- Definition of Done
-- Scrum Product Development
-- Agile Product Management
-- Product Delivery
-- Working Software
-- Transparency
 - Pragmatic Thinking
-- Software Developers
+- Working Software
+- Agile Product Management
 - Software Development
+- Definition of Done
+- Product Delivery
+- Professional Scrum
+- Transparency
+- Agile Frameworks
+- Agile Planning
+- Agile Transformation
+- Empirical Process Control
+- Value Delivery
+- Team Performance
+- Operational Practices
+- Increment
 sitemap:
   filename: sitemap.xml
   priority: 0.6

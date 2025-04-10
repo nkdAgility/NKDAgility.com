@@ -2,7 +2,7 @@
 title: Code Reviews for Quality Assurance
 description: Discover how to integrate quality from the start in software development with Martin Hinshelwood. Embrace shifting left for better products and reduced technical debt!
 date: 2024-11-20T07:00:26Z
-weight: 430
+weight: 380
 ResourceId: s4h2K62V_d0
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -30,12 +30,15 @@ tags:
 - Technical Excellence
 - Working Software
 - Engineering Practices
-- Code and Complexity
 - Product Delivery
-- Software Developers
-- Practical Techniques and Tooling
-- People and Process
 - Modern Source Control
+- Experimentation
+- Operational Practices
+- Organisational Agility
+- Pragmatic Thinking
+- Shift-Left Strategy
+- Technical Mastery
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,6 +46,7 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
+- DevOps
 
 ---
 # Code reviews for quality assurance | Martin Hinshelwood  

@@ -2,7 +2,7 @@
 title: 'Transform Your Product Development: Unleash the Power of Experimentation and Collaboration'
 description: Unlock your product development potential! Discover strategies to enhance user value, reduce waste, and foster collaboration in our transformative PPDV course.
 date: 2024-08-11T22:00:33Z
-weight: 775
+weight: 750
 ResourceId: m4KNGw5p4Go
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -30,21 +30,43 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
 - Product Discovery
 - Pragmatic Thinking
-- Agile Project Management
-- Product Validation
-- Lean Product Development
 - Agile Philosophy
-- Product Delivery
-- Experimentation
 - Continuous Improvement
+- Product Delivery
+- Product Validation
+- Continuous Learning
+- Lean Product Development
+- Ability to Innovate
+- Agile Product Management
+- Agile Strategy
+- Lean Principles
+- Lean Startup
+- Operational Practices
+- Social Technologies
+- Team Collaboration
+- Working Software
+- Hypothesis Driven Development
+- Organisational Agility
+- Experimentation
+- Value Delivery
+- Agile Frameworks
+- Customer Satisfaction
+- Digital Transformation
+- Enterprise Agility
+- MVP
+- Software Development
+- Product Strategy
+- Business Agility
+- Decision Making
+- Evidence Based Leadership
+- Metrics and Learning
 resourceTypes:
 - video
 categories:
 - Product Management
-- Social Technologies
+- Lean
 
 ---
 In today’s fast-paced, ever-evolving market, understanding user needs and maximizing value are crucial for successful product development. The right approach can not only boost user satisfaction but also significantly improve your return on investment (ROI). This course is designed to equip you with the tools, techniques, and mindset needed to revolutionize your product development process.

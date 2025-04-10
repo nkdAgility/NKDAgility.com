@@ -28,14 +28,14 @@ duration: 183
 isShort: false
 tags:
 - Agile Product Management
-- Products and Books
-- People and Process
-- Agile Project Management
 - Team Collaboration
-- Scrum Product Development
-- Product Owner
-- Product Delivery
 - Pragmatic Thinking
+- Product Delivery
+- Product Owner
+- Agile Strategy
+- Social Technologies
+- Value Delivery
+- Entrepreneurship
 sitemap:
   filename: sitemap.xml
   priority: 0.6

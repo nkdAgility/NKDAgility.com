@@ -29,13 +29,11 @@ course-learning-experiences:
 delivery-audiences:
 - Product Managers
 tags:
+- Agile Frameworks
 - Agile Product Management
-- Agile Project Management
-- Scrum Product Development
+- Agile Transformation
 - Professional Scrum
 - Software Development
-- Agile Frameworks
-- Agile Transformation
 categories:
 - Scrum
 preview: 

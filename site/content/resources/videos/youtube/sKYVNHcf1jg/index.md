@@ -28,8 +28,11 @@ duration: 280
 isShort: false
 tags:
 - Personal
-- People and Process
 - Pragmatic Thinking
+- Agile Philosophy
+- Organisational Agility
+- Software Development
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

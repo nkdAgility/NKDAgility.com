@@ -2,7 +2,7 @@
 title: 'Embrace Simplicity: How to Transform Complexity into Continuous Delivery Success'
 description: Unlock the secrets to continuous delivery! Discover how to simplify your software and foster a culture of agility for faster, more reliable feature delivery.
 date: 2025-02-27T07:00:10Z
-weight: 315
+weight: 255
 ResourceId: DsvMKLto30o
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -27,21 +27,41 @@ preview: https://i.ytimg.com/vi/DsvMKLto30o/maxresdefault.jpg
 duration: 788
 isShort: false
 tags:
-- Continuous Delivery
 - Software Development
 - Pragmatic Thinking
+- Continuous Delivery
 - Continuous Improvement
-- Product Delivery
-- Product Development
 - Frequent Releases
 - Operational Practices
+- Product Delivery
 - Azure DevOps
-- Resilience and Change
-- Working Software
 - Business Agility
+- Digital Transformation
 - Organisational Agility
 - Value Delivery
+- Working Software
+- Deployment Frequency
+- Flow Efficiency
+- Market Adaptability
 - Technical Debt
+- Technical Mastery
+- Agile Philosophy
+- Agile Strategy
+- Agile Transformation
+- Application Lifecycle Management
+- Change Management
+- Complexity Thinking
+- Continuous Integration
+- Enterprise Agility
+- Lean Product Development
+- Organisational Change
+- Release Management
+- Sociotechnical Systems
+- Technical Excellence
+- Windows
+- Engineering Practices
+- Organisational Physics
+- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -49,6 +69,7 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
+- Product Development
 - DevOps
 
 ---

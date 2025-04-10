@@ -1,13 +1,13 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-21T11:26:29",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not explicitly mention social technologies or their principles. It lacks any discussion on collaboration, decision-making, or value delivery, focusing instead on project management tools without addressing the underlying social frameworks.",
     "level": "Ignored"
   },
@@ -22,22 +22,22 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T11:26:32",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content does not explicitly mention DevOps or its principles. It focuses on managing projects using Visual Studio and Scrum, which are methodologies that do not align with the core themes of DevOps. There is no discussion of collaboration, automation, or shared accountability, which are essential aspects of the DevOps philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T00:05:15",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the Scrum framework and its application in project management, which is relevant to product management, but the primary focus is on training for using Scrum rather than strategic product management.",
     "level": "Tertiary"
   },
@@ -52,10 +52,10 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on managing projects using Visual Studio and Scrum, which are more related to project management frameworks rather than directly addressing the principles and practices of business agility.",
     "level": "Ignored"
   },
@@ -70,10 +70,10 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on delivering a course about the Scrum framework and its application in software delivery, aligning well with key topics of Professional Scrum.",
     "level": "Secondary"
   },
@@ -88,49 +88,31 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T15:06:05",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content does not explicitly mention Evidence-Based Management or its key topics. It appears to focus on Scrum training without providing any empirical evidence or metrics related to management decisions, resulting in a very low confidence score.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T07:21:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Scrum and project management methodologies, not on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T07:21:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on Scrum training and does not discuss Scaling Kanban or related principles.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and practices without a focus on hypothesis formulation or experimentation.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "Content primarily focuses on the Scrum framework, detailing its application in a training course for project management using Visual Studio, emphasizing the principles and practices of Scrum.",
     "level": "Secondary"
   },
@@ -145,10 +127,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training and related practices, without a clear emphasis on the Definition of Ready.",
     "level": "Ignored"
   },
@@ -159,15 +141,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on a training course for Scrum and Visual Studio without discussing any trends or analysis related to Agile, DevOps, or business agility.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T07:21:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses Scrum training and practices, which are focused on Agile principles rather than on scaling Agile practices across multiple teams or an enterprise level.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -181,10 +154,10 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly focuses on managing projects using Scrum rather than technical excellence in software development.",
     "level": "Ignored"
   },
@@ -199,28 +172,28 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses managing projects using Scrum and Visual Studio, with no direct reference to Azure Pipelines.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses delivering software using the Scrum framework and emphasizes team-based exercises, making team collaboration a significant theme, but it is primarily focused on training related to Scrum and Visual Studio.",
     "level": "Tertiary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "Content discusses Scrum framework and team collaboration, which are relevant to collaboration tools, but the primary focus seems to be on Scrum training rather than specific collaboration tools.",
     "level": "Tertiary"
   },
@@ -235,21 +208,12 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on delivering software using the Scrum framework, which is a central methodology in product delivery. It discusses outcomes and objectives related to agile practices and teamwork, fitting well within the scope of product delivery.",
     "level": "Secondary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T07:21:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -260,32 +224,14 @@
     "reasoning": "Content primarily focuses on managing projects using Visual Studio and Scrum, without a clear emphasis on digital transformation strategies or technologies.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T07:21:14",
-    "ai_confidence": 65,
-    "non_ai_confidence": 20,
-    "final_score": 60.0,
-    "reasoning": "The content discusses teamwork and the Scrum framework, which are central to the collaboration and processes involved in software delivery. However, it also emphasizes technical practices and tools, making the human factors a significant but secondary theme.",
-    "level": "Tertiary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on Scrum training and does not discuss Test Driven Development or its principles.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T07:21:14",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content focuses on a training course that teaches the Scrum framework and its application in software delivery, aligning closely with Agile Project Management principles.",
-    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -305,21 +251,12 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T07:21:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses primarily on managing projects using Scrum and Visual Studio, with no direct discussion of transparency and accountability within Agile teams.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum and project management without a clear focus on release management processes.",
     "level": "Ignored"
   },
@@ -343,19 +280,19 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily discusses Scrum, which is related to agile methodologies, but it does not focus specifically on the principles of technical leadership or the core themes outlined for this category.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
+    "final_score": 50.0,
     "reasoning": "The course description mentions Scrum framework and includes topics related to planning and tracking a sprint as well as collaborating as a team, which are key aspects of Agile planning tools. However, the primary focus seems to be on training in Scrum rather than on tools specifically.",
     "level": "Tertiary"
   },
@@ -373,19 +310,19 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content focuses primarily on teaching the Scrum framework and its application in project management, which aligns closely with Agile Planning principles. Key topics such as the Scrum Framework, planning and tracking sprints, and collaborating as a team are directly related to Agile Planning methodologies.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the Scrum framework and its application using Visual Studio, without a focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -400,13 +337,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:31:36",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not explicitly mention Test First Development or its principles. It lacks any discussion on success criteria, testing practices, or related topics, focusing instead on project management and Scrum without a connection to the Test First approach.",
     "level": "Ignored"
   },
@@ -457,37 +394,37 @@
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions the Product Backlog as part of the Scrum framework, which suggests a relevance to backlog refinement, but the primary focus is on a training course related to various aspects of Scrum and Agile practices, making backlog refinement a secondary theme.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the Scrum framework and training related to project management, with no clear focus on measuring or improving innovation capabilities.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content is primarily focused on training in the Scrum framework, which is a key component of Agile transformation, but it is framed as a course rather than a discussion of Agile transformation strategies or practices.",
     "level": "Tertiary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on managing projects using Visual Studio and Scrum, which does not align with core engineering practices.",
     "level": "Ignored"
   },
@@ -502,30 +439,12 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on a training course about managing projects using Scrum but mentions the Scrum framework and its application. However, it does not specifically discuss the Scrum Values directly.",
     "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T07:21:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum roles and software delivery practices without focusing on organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T07:21:14",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on a course about using Visual Studio and Scrum, which involves practical techniques and tooling for software delivery. It discusses the Scrum framework and tools involved, indicating a strong alignment with practical applications.",
-    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -538,10 +457,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions the Product Backlog as one of the outcomes of the training course, indicating it is a relevant topic but not the central theme of the entire content.",
     "level": "Tertiary"
   },
@@ -554,15 +473,6 @@
     "reasoning": "Content is primarily focused on a training course for Scrum and does not include personal experiences or reflections.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T07:21:14",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily describes a training course on using Scrum and Visual Studio, which involves a structured learning experience, aligning with the category of events and presentations.",
-    "level": "Secondary"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
     "calculated_at": "2025-02-18T07:21:14",
@@ -574,30 +484,21 @@
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses managing projects using Scrum and Visual Studio, with no focus on market share or related strategies.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses roles within a Scrum Team and mentions team collaboration but is primarily focused on a training course structure rather than the dynamics of a Scrum Team.",
     "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T07:21:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum training for teams and project management, without addressing the scaling of agility across an organization.",
-    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -619,13 +520,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T15:06:02",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not explicitly mention Continuous Delivery or its principles. It appears to focus on project management using Visual Studio and Scrum, which are not directly related to Continuous Delivery practices. There is no depth of discussion on the key topics associated with Continuous Delivery, leading to a very low confidence score.",
     "level": "Ignored"
   },
@@ -649,32 +550,32 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses implementing the Scrum framework for software delivery rather than focusing on change management principles and practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The course is focused on delivering software using the Scrum framework, which involves teamwork and collaboration as a central theme. It emphasizes team-based exercises and acknowledges the importance of collaboration in Agile methodologies.",
     "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily about training on Scrum and Visual Studio but does not specifically focus on the Daily Scrum event.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T07:21:14",
     "ai_confidence": 0,
@@ -692,30 +593,21 @@
     "reasoning": "Content heavily discusses Scrum roles and events, with no direct focus on the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T07:21:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The course discusses the Scrum framework and its implementation using Visual Studio, which can involve learning and adapting methodologies in project management. However, the primary focus is on project management and technical implementations rather than explicit discovery and learning processes.",
-    "level": "Tertiary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on Scrum framework, which includes aspects of self-organisation, but also heavily outlines project management and training, making self-organisation a secondary theme.",
     "level": "Tertiary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T11:26:25",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 40,
     "non_ai_confidence": 20,
-    "final_score": 38.0,
+    "final_score": 40.0,
     "reasoning": "The content primarily focuses on training related to the Scrum framework, which is a specific Agile methodology. While it touches on Agile concepts, it does not centralize around the Agile Product Operating Model or its core principles.",
     "level": "Ignored"
   },
@@ -730,19 +622,19 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on Scrum framework and project management, with no mention of Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on the Scrum framework and Agile methodologies, which are related to market adaptability, but the primary emphasis is on the training course structure and Scrum roles rather than strategies for responding to market shifts.",
     "level": "Tertiary"
   },
@@ -784,10 +676,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on managing projects using the Scrum framework with no clear emphasis on metrics or learning principles.",
     "level": "Ignored"
   },
@@ -802,10 +694,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the Scrum framework and project management in Visual Studio, without a focus on Lean principles or waste reduction.",
     "level": "Ignored"
   },
@@ -816,15 +708,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on managing projects using Visual Studio and Scrum, with no clear emphasis on mentoring or coaching aspects.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T07:21:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on Scrum methodologies and Visual Studio tools, with no mention of AI or automation within Agile contexts.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -838,37 +721,37 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum framework and practices, but primarily focuses on training and practical applications rather than strategic alignment or development.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on managing projects using the Scrum framework, which is related to operational practices. However, it does not delve deeply into specific operational efficiency techniques or strategies, making it a secondary theme.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "Content primarily focuses on the Scrum framework, detailing its roles, events, and processes, but it does mention Agile principles in the context of software delivery and collaboration.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum and project management using Visual Studio, without a focus on Acceptance Test Driven Development or its principles.",
     "level": "Ignored"
   },
@@ -892,28 +775,28 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses a training course focused on using Scrum and Visual Studio for project management, which implies knowledge sharing and learning. While Continuous Learning is a theme, it is not the primary focus, as the content is primarily about the course structure and attendees. The emphasis on knowledge sharing is present but not central.",
     "level": "Tertiary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the Scrum framework and Visual Studio, with no clear focus on Azure Boards specifically.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on team-level practices rather than portfolio management.",
     "level": "Ignored"
   },
@@ -928,10 +811,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 80,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on delivering software using the Scrum framework and discusses the roles and practices relevant to Agile Product Management.",
     "level": "Secondary"
   },
@@ -946,46 +829,28 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum framework and Visual Studio, without focus on value stream management principles.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T07:21:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on training for using the Scrum framework with Visual Studio, without discussing scaling practices or methodologies related to Scaling Scrum in larger organizations.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the Scrum framework and related team dynamics, which are relevant to sociotechnical systems, but it is primarily focused on training and technical tools rather than a comprehensive exploration of sociotechnical interactions.",
     "level": "Tertiary"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T07:21:14",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a training course that incorporates the Scrum framework and related tools like Visual Studio, which aligns with the category's focus on discussions about resources that enhance understanding and implementation of Agile methodologies.",
-    "level": "Secondary"
-  },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the Scrum framework and its practices, indicating a focus on Agile methodologies, which align with elements of empirical process control. However, it does not delve deeply into transparency, inspection, or adaptation, making it a secondary theme rather than the primary focus.",
     "level": "Tertiary"
   },
@@ -1000,10 +865,10 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the delivery of software using the Scrum framework, which involves practical problem-solving strategies. However, it primarily serves as a course announcement and does not dive deeply into pragmatic techniques or applications.",
     "level": "Tertiary"
   },
@@ -1018,19 +883,19 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses managing projects using Scrum and Visual Studio, with no mention of technical debt.",
     "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily discusses the delivery of software using the Scrum framework within the context of managing projects, emphasizing the importance of functional software development.",
     "level": "Secondary"
   },
@@ -1063,19 +928,19 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum framework and Agile software development practices rather than strategic planning or methodologies for product vision and roadmapping.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on using the Scrum framework for software delivery and the associated practices in Visual Studio, making it a substantial discussion on Software Development methodologies.",
     "level": "Secondary"
   },
@@ -1090,10 +955,10 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on a training course that incorporates Azure DevOps in the context of Scrum, making Azure DevOps a significant aspect but not the primary focus.",
     "level": "Tertiary"
   },
@@ -1117,21 +982,12 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses a Scrum training course which includes team-based exercises and collaborative practices, indicating a focus on team dynamics; however, it does not explicitly center on cross-functional teams as the primary topic.",
     "level": "Tertiary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T07:21:14",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the delivery of software using the Scrum framework, which is directly related to the role of software developers. It outlines relevant practices and outcomes for developers within Agile methodologies.",
-    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1153,82 +1009,73 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without a clear focus on installation or configuration processes.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a training course on managing projects using the Scrum framework without a specific focus on the Product Owner's role or responsibilities.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T07:21:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily describes a training course on Scrum and Visual Studio, lacking focus on industry news or reviews.",
     "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum training and project management with little focus on Azure Repos functionalities.",
     "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on Scrum training and management rather than on specific engineering practices or methodologies that enhance technical excellence.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and practices related to project management, not focusing on the entire application lifecycle.",
     "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and technical practices without addressing leadership aspects.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses team-based exercises and the Scrum framework, which indirectly relates to team dynamics and motivation. However, it primarily focuses on training and technical aspects without deeper exploration of motivational strategies.",
     "level": "Tertiary"
   },
@@ -1243,10 +1090,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training and project management, without any clear emphasis on product validation methodologies or practices.",
     "level": "Ignored"
   },
@@ -1261,22 +1108,22 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-21T11:26:27",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 50,
-    "final_score": 14.0,
+    "final_score": 10.0,
     "reasoning": "The content does not provide any specific details or discussions related to Scrum principles, roles, events, or practices. It only mentions Scrum in the title without elaboration, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses training on the Scrum framework to enhance software delivery, which aligns with value delivery principles. However, the primary focus is on training and project management rather than explicit value delivery strategies, leading to a lower confidence rating.",
     "level": "Tertiary"
   },
@@ -1300,21 +1147,12 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on Scrum training and project management using Visual Studio, which does not align with the methodologies and practices of product discovery.",
     "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T07:21:14",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses training related to delivering software using the Scrum framework and includes key Scrum topics such as the Scrum framework, the Product Backlog, and planning a Sprint.",
-    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1327,28 +1165,28 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about a training course on Scrum and Visual Studio, with no clear focus on the Definition of Done.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on delivering software using the Scrum framework, which is a part of Agile methodologies. While it includes practical aspects of Scrum training, it also addresses the improvement of software delivery and team collaboration, suggesting a connection to Agile strategy principles, albeit in a secondary theme.",
     "level": "Tertiary"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses delivering software using the Scrum framework, which relates to the concept of Increment but does not primarily focus on it.",
     "level": "Tertiary"
   },
@@ -1363,10 +1201,10 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T07:21:14",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the Scrum framework, which is related to agile methodologies but focuses on project management rather than a broader discussion on organisational agility.",
     "level": "Tertiary"
   },
@@ -1390,97 +1228,97 @@
   },
   "Artificial Intelligence": {
     "category": "Artificial Intelligence",
-    "calculated_at": "2025-03-21T11:26:34",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 5.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not mention AI or its applications in Agile or DevOps. It focuses on project management using Visual Studio and Scrum, which are not directly related to the integration of AI in these methodologies.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-03-21T11:26:38",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not mention Internal Developer Platforms at all and focuses on project management using Visual Studio and Scrum, which are unrelated to the IDP concept. There is no alignment with the core themes of IDPs, and the depth of discussion is non-existent.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-21T11:26:40",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not mention the Shift-Left Strategy at all and focuses on project management using Visual Studio and Scrum, which are unrelated to the core themes of integrating testing, security, and compliance early in the software development lifecycle.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T15:05:47",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not explicitly mention Continuous Improvement or its principles. It lacks any discussion on related topics such as empirical evidence, team effectiveness, or strategies for fostering a culture of experimentation. The focus appears to be on project management using Visual Studio and Scrum, which does not align with the core themes of Continuous Improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T15:05:53",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not explicitly mention Common Goals or related concepts. It lacks any discussion on alignment, ownership, or strategic objectives within Agile or DevOps frameworks. The title suggests a focus on project management and Scrum, but without specific details, it does not provide any meaningful insights into the category of Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T15:05:56",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not explicitly mention competence or related themes. It lacks any discussion on continuous learning, skill development, or the importance of competence in Agile or Scrum methodologies. The absence of relevant details means it does not align with the core principles of the category, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T15:05:59",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not explicitly mention the One Engineering System or its principles. It focuses on managing projects using Visual Studio and Scrum, which are unrelated to the core themes of 1ES. There is no depth of discussion regarding integration, standardisation, or best practices related to 1ES, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T17:31:30",
+    "calculated_at": "2025-04-10T15:54:45",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not mention Agentic Agility or its principles, nor does it align with the core themes of intentionality, autonomy, or adaptability. It appears to be a generic request for information without any relevant context.",
     "level": "Ignored"
   }

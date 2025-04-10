@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: newsletters
 ResourceContentOrigin: Human
 date: 2024-07-17
-weight: 850
+weight: 840
 author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
@@ -22,16 +22,26 @@ categories:
 - Product Management
 - Scrum
 tags:
-- Discovery and Learning
 - Product Discovery
 - Product Validation
-- Events and Presentations
 - Agile Product Management
-- Products and Books
-- Product Delivery
 - Value Delivery
-- Scrum Product Development
-- Agile Project Management
+- Product Delivery
+- Customer Satisfaction
+- MVP
+- Product Owner
+- Experimentation
+- Ability to Innovate
+- Agile Transformation
+- Customer Feedback Loops
+- Hypothesis Driven Development
+- Lean Startup
+- Organisational Agility
+- Software Development
+- Team Collaboration
+- Working Software
+- Pragmatic Thinking
+- Product Strategy
 
 ---
 **Dear Innovators and Product Enthusiasts,**

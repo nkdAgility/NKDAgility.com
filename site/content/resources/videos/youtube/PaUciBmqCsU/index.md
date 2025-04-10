@@ -33,9 +33,13 @@ sitemap:
   priority: 0.6
 tags:
 - Transparency
-- Software Development
 - Agile Frameworks
 - Operational Practices
+- Software Development
+- Agile Transformation
+- Continuous Improvement
+- Throughput
+- Lean Thinking
 resourceTypes:
 - video
 categories: []

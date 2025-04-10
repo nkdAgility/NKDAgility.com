@@ -2,7 +2,7 @@
 title: "Rethinking Continuous Delivery: Why Best Practices Don't Exist in Complex Environments"
 description: Discover how to enhance continuous delivery in complex environments with audience-based strategies, testing in production, and a commitment to improvement.
 date: 2025-01-23T06:30:03Z
-weight: 325
+weight: 255
 ResourceId: 5J8RLcOAE3E
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -27,16 +27,31 @@ preview: https://i.ytimg.com/vi/5J8RLcOAE3E/maxresdefault.jpg
 duration: 891
 isShort: false
 tags:
-- Continuous Delivery
 - Complexity Thinking
 - Continuous Improvement
 - Pragmatic Thinking
 - Software Development
-- People and Process
-- Software Developers
-- Code and Complexity
-- Product Delivery
+- Continuous Delivery
+- Technical Excellence
 - Working Software
+- Product Delivery
+- Organisational Agility
+- Agile Philosophy
+- Continuous Learning
+- Operational Practices
+- Release Management
+- Value Delivery
+- Market Adaptability
+- Engineering Practices
+- Frequent Releases
+- Technical Mastery
+- Agile Values and Principles
+- Business Agility
+- Systems Thinking
+- Empirical Process Control
+- Deployment Frequency
+- Deployment Strategies
+- Sensemaking
 resourceTypes:
 - video
 sitemap:
@@ -44,6 +59,7 @@ sitemap:
   priority: 0.6
 categories:
 - Engineering Excellence
+- Product Development
 - DevOps
 
 ---

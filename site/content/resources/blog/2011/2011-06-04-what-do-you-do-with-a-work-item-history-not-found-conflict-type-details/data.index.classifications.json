@@ -8,67 +8,25 @@
     "reasoning": "The content primarily discusses technical issues related to TFS migration and work item history, with no clear focus on Agile product management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:30:30",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses a specific technical issue related to migrating work items in TFS, which involves practical tooling and techniques. It provides insights into the challenges faced during the migration process, including handling revision numbers and conflict types. However, while it touches on practical tooling, it lacks a comprehensive exploration of methodologies or frameworks that enhance Agile and DevOps practices, which limits its alignment with the category.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-15T22:48:05",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to TFS migration and work item history conflicts, without a clear focus on platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:41:27",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses technical issues related to TFS migration and does not focus on Evidence-Based Management principles. There are no explicit mentions of data-informed decision-making or the key topics outlined in the EBM definition. The discussion is more about resolving specific migration conflicts rather than applying empirical evidence to management practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T06:35:25",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10,
-    "ai_alignment": 25,
-    "ai_depth": 15,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses a specific technical issue related to work item migration in TFS, which involves code and system behaviour. However, it primarily focuses on a practical problem rather than exploring broader themes of code quality, complexity theory, or best practices in software development. While there are mentions of code and system interactions, the depth of discussion does not sufficiently align with the core themes of the 'Code and Complexity' category.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T22:48:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical details of a migration process and troubleshooting specific errors, with no clear emphasis on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T22:48:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues related to TFS migration and work item history conflicts, with no clear focus on AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -82,24 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:01:17",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 75.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
+    "final_score": 75.0,
     "reasoning": "The content primarily discusses the installation and configuration of a migration tool for TFS (Team Foundation Server), detailing specific issues encountered during the migration process, including error messages and troubleshooting steps. It provides insights into the configuration of work item revisions and the handling of migration logs, which are relevant to the installation and configuration category. However, while it does touch on installation and configuration, the depth of actionable instructions is somewhat limited, focusing more on specific problems rather than a comprehensive guide.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T22:48:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses technical issues related to TFS migration and does not focus on transparency or accountability within Agile teams.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -119,24 +68,15 @@
     "reasoning": "Content primarily discusses technical issues related to TFS migration and work item history without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T22:48:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS migration and work item history conflicts, without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:41:12",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a specific technical issue related to TFS migration conflicts, which is more focused on a tool and its operational challenges rather than the broader principles and cultural aspects of DevOps. While it touches on aspects of integration and workflow, it lacks a comprehensive discussion on DevOps philosophies such as collaboration, automation, or shared accountability. Therefore, it does not align closely with the core themes of the DevOps category.",
     "level": "Ignored"
   },
@@ -158,31 +98,13 @@
     "reasoning": "The content primarily discusses technical issues related to TFS migration and work item history, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T22:49:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses technical issues related to TFS migration and does not reference any events, presentations, or discussions relevant to Agile, DevOps, or software engineering conferences.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-15T22:49:03",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to TFS migration and work item history conflicts, without a clear focus on optimising throughput or flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T22:49:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses technical issues related to TFS migration and work item history conflicts, without a focus on team dynamics, collaboration, or human factors in process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -205,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T22:49:18",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to TFS migration and does not focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -223,15 +145,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T06:35:09",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 45.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 35.0,
     "non_ai_confidence": 0,
-    "final_score": 40.0,
+    "final_score": 45.0,
     "reasoning": "The content discusses a specific technical issue related to TFS migration and the handling of work item revisions, which touches on aspects of technical excellence such as error handling and system integration. However, it lacks a broader discussion on methodologies or practices that enhance agility or quality in software development, which are central to the 'Technical Excellence' category. The focus is primarily on a specific problem rather than on general engineering practices or principles.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -253,10 +175,10 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T06:34:47",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content primarily discusses issues related to work item migration and conflicts in a TFS integration context, which is tangentially related to product delivery but does not focus on methodologies or practices central to delivering usable software products.",
     "level": "Ignored"
   },
@@ -271,40 +193,31 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T22:49:37",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to TFS migration and work item history, without a clear focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T22:49:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS migration and does not focus on specific products or literature relevant to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-15T22:49:43",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical issues related to TFS migration and work item history conflicts, without a clear focus on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T15:00:18",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 78.0,
     "ai_mentions": 90.0,
     "ai_alignment": 70.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses issues related to work item migration within the context of Azure DevOps (specifically TFS, which is part of Azure DevOps). It provides detailed logs and insights into the migration process, including error handling and configuration, which are relevant to Azure DevOps functionalities. The depth of discussion is significant, as it includes specific examples and technical details about the migration process, making it a strong fit for the Azure DevOps category.",
     "level": "Secondary"
   },
@@ -328,22 +241,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T22:50:00",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to TFS migration and work item history conflicts, without a clear focus on the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:41:24",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses technical issues related to TFS migration and work item history conflicts, with no direct references to Agile Product Operating Model principles or practices. It lacks any discussion on agile methodologies, product management, or the core themes outlined in the APOM definition.",
     "level": "Ignored"
   },
@@ -356,24 +269,15 @@
     "reasoning": "Content primarily discusses technical issues related to TFS migration and work item history conflicts, with no clear focus on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T22:50:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses technical issues related to TFS migration and does not provide industry news, updates, or reviews relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-10T18:48:14",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses issues related to the migration of work items within a TFS (Team Foundation Server) environment, which is a key aspect of Application Lifecycle Management (ALM). It addresses the challenges faced during the migration process, including handling work item revisions and conflicts, which are integral to the maintenance and management of software applications. The content provides specific details about the migration process, including logs and error messages, indicating a focus on the operational aspects of ALM. However, while it touches on relevant topics, it lacks a broader discussion on methodologies, best practices, or tools that are typically associated with ALM, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -388,24 +292,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T23:10:09",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to migration of work items and does not address the Definition of Done in Agile or Scrum frameworks.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T06:35:29",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 62.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses a technical issue related to TFS migration, detailing the challenges faced and the solutions attempted. It includes specific technical details about work item revisions, migration logs, and error handling, which align with the principles of software craftsmanship and engineering practices. However, while it touches on technical mastery, it lacks a broader discussion on best practices or methodologies that would elevate it further into the 'Technical Mastery' category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -439,10 +343,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T23:10:09",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical issues related to work item migration within TFS, focusing on error handling and change processing without mentioning Lead Time metrics, measurement techniques, customer impact, or strategies for optimization.",
     "level": "Ignored"
   },
@@ -457,10 +361,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T23:10:10",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a technical issue related to TFS migration and does not address the criteria or discussions regarding Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -475,10 +379,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T23:10:10",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content deals mainly with technical issues related to TFS migration and work item history, without clear focus on the Product Backlog or its management in Agile frameworks.",
     "level": "Ignored"
   },
@@ -493,10 +397,10 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-15T23:10:10",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses issues related to TFS migration and management of work items, without any focus on Value Stream Mapping or its principles.",
     "level": "Ignored"
   },
@@ -511,13 +415,13 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T06:35:16",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a specific technical issue related to work item migration in TFS, which touches on operational practices in terms of managing workflows and addressing bottlenecks. However, it lacks a broader discussion on operational efficiency techniques or strategies, focusing instead on a singular problem without providing actionable insights or best practices that align with Agile, DevOps, or Lean methodologies.",
     "level": "Ignored"
   },
@@ -559,10 +463,10 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-15T06:34:47",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content primarily discusses technical issues related to migrating work items in a TFS (Team Foundation Server) environment, including integration and handling conflicts in work item revisions. While this may indirectly relate to Agile practices, it does not focus on broader themes or principles of Agile transformation, such as methodologies, frameworks, or cultural change. Thus, it is not central to the category of Agile Transformation.",
     "level": "Ignored"
   },
@@ -595,49 +499,40 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-15T23:10:10",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a technical issue related to TFS migration and work item history conflicts, which does not focus on Agile delivery of software increments or the value delivery aspects associated with the Increment under Scrum.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T23:10:10",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical issues related to TFS migration, work item history, and migration errors rather than discussing Acceptance Test Driven Development (ATDD) principles or practices.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T10:38:15",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses issues related to the migration of work items in TFS (Team Foundation Server), which is a crucial aspect of software development practices, particularly in the context of version control and project management. It provides detailed insights into the challenges faced during the migration process, including handling revision numbers and conflict types, which are relevant to the software development lifecycle. The depth of discussion includes specific technical details, logs, and SQL queries, indicating a strong focus on software engineering practices. Overall, the content aligns well with the Software Development category, particularly in the areas of version control and project management methodologies.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T23:10:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to work item migration in TFS without a clear focus on Agile methodologies or principles, making it not relevant to Agile Project Management.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T23:10:11",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical issues related to TFS migration and does not focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -652,13 +547,13 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T12:03:19",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses issues related to migrating work items in TFS (Team Foundation Server), which is a version control system. It addresses specific problems encountered during the migration process, including handling revision numbers and conflict types, which are relevant to source control practices. However, while it touches on aspects of version control, such as change groups and migration instructions, it lacks a broader discussion on methodologies or best practices in modern source control, which limits its depth of discussion. Overall, the content is focused on a specific technical issue within the context of source control, justifying a moderate confidence score.",
     "level": "Secondary"
   },
@@ -682,13 +577,13 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-03-15T06:34:47",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses issues related to work item migration in TFS (Team Foundation Server), which is closely related to Azure Boards. However, it primarily focuses on migration conflicts and technical details rather than exploring the functionalities and best practices of Azure Boards in managing Agile projects. While it mentions work items, it lacks a comprehensive discussion on the broader themes of Azure Boards, such as team collaboration, sprint planning, or customisation of workflows.",
     "level": "Ignored"
   },
@@ -703,10 +598,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T23:10:11",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical aspects of TFS migration and conflict resolution without discussing relevant themes of organisational change management, such as agility, leadership strategies, or methodologies for transformation.",
     "level": "Ignored"
   },
@@ -721,13 +616,13 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-15T06:35:13",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 15.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses issues related to work item migration and conflicts in TFS, with no explicit focus on frequent releases or the principles of continuous delivery. While it touches on aspects of versioning and change tracking, it lacks a comprehensive discussion on release frequency, automation, or best practices associated with frequent releases.",
     "level": "Ignored"
   },
@@ -738,15 +633,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses technical issues and details related to work item migration within TFS, without any reference to customer satisfaction metrics, principles, or practices. It focuses heavily on implementation details rather than customer experience or satisfaction initiatives.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T23:10:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS (Team Foundation Server) migration and work item histories, without a focus on scaling Scrum principles or practices.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -767,24 +653,15 @@
     "reasoning": "Content focuses primarily on technical details related to TFS migration and work item history conflicts, with no discussion of psychological safety or its implications.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T23:10:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to the migration of work items in TFS and does not address the core concepts of scaling agile principles or practices at an organizational level.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T06:34:47",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a technical issue related to TFS migration and does not explicitly address principles of software craftsmanship or best practices in engineering. While it touches on aspects of continuous integration and the handling of work items, it lacks a focused discussion on engineering excellence or improvement practices. The depth of discussion is limited to troubleshooting a specific problem rather than promoting high standards in software development.",
     "level": "Ignored"
   },
@@ -826,50 +703,32 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T18:09:02",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses practical issues encountered during a migration process in TFS, highlighting specific problems and solutions related to work item revisions and conflict resolution. It provides a real-world scenario that aligns with Agile and DevOps principles, demonstrating pragmatic problem-solving. However, while it touches on practical applications, it lacks a deeper exploration of strategies or frameworks that could enhance collaboration or efficiency, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-15T23:10:12",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues with TFS migration, not backlog refinement practices.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T23:10:12",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical issues and troubleshooting related to work item migration in TFS (Team Foundation Server). It does not focus on the measurement or improvement of innovation capabilities nor does it engage with the concept of Evidence-Based Management as defined in the Ability to Innovate category.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T23:10:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical aspects of a migration process related to TFS (Team Foundation Server) and does not focus on Scrum principles, roles, or product development practices, making it irrelevant to Scrum Product Development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T23:10:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific integration problem within TFS (Team Foundation Server) related to work item migration, which does not focus on scaling Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -892,10 +751,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-15T23:10:12",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to data migration within TFS and does not focus on principles, practices, or tools specifically related to test automation.",
     "level": "Ignored"
   },
@@ -910,13 +769,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T16:57:58",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 45.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 42.0,
+    "final_score": 45.0,
     "reasoning": "The content primarily discusses a technical issue related to work item migration in TFS, which is a specific aspect of software functionality. While it touches on the operational aspects of software (e.g., handling conflicts and revisions), it lacks a broader discussion on the characteristics of working software, best practices for ensuring software quality, or customer feedback integration. The focus is more on troubleshooting than on delivering high-quality, functional software that meets user needs.",
     "level": "Tertiary"
   },
@@ -931,10 +790,10 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-15T06:34:47",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 40,
     "non_ai_confidence": 20,
-    "final_score": 38.0,
+    "final_score": 40.0,
     "reasoning": "The content relates to migration issues in TFS and work item tracking, which may be connected to CI practices, but it is focused more on specific migration problems rather than a clear, primary discussion on Continuous Integration principles or practices.",
     "level": "Ignored"
   },
@@ -967,10 +826,10 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-15T23:10:13",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on migration issues related to TFS work item history, not on SRE principles or practices.",
     "level": "Ignored"
   },
@@ -1003,13 +862,13 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T06:34:50",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 32.0,
     "ai_mentions": 10,
     "ai_alignment": 25,
     "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses issues related to work item migration and conflicts during the process, which are relevant to release management. However, it lacks a comprehensive focus on broader release management strategies, such as version control, release scheduling, or coordination among stakeholders. The primary focus is on technical details of migration rather than the overall release management process.",
     "level": "Ignored"
   },
@@ -1024,19 +883,19 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T23:10:13",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses primarily on migration issues and error handling related to work items in TFS, without discussing Cycle Time or its measurement.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-03-15T06:34:47",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content primarily discusses work item migration within the TFS Integration Platform and presents logging details rather than focusing on Azure Pipelines, CI/CD practices, or pipeline configurations.",
     "level": "Ignored"
   },
@@ -1051,10 +910,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T23:10:13",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on technical issues related to TFS migration, specifically discussing migration logs and error messages. It lacks a discussion on change management principles, engagement strategies, or leadership roles that are central to effective change management.",
     "level": "Ignored"
   },
@@ -1078,17 +937,17 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-15T06:35:22",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses technical issues related to a specific migration process within TFS (Team Foundation Server) and does not explicitly address broader themes of digital transformation such as business agility, innovation, or strategic adoption of digital technologies. While it touches on aspects of technology integration, it lacks a focus on how these processes enhance operational efficiency or transform business practices, which are key elements of digital transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T23:10:13",
     "ai_confidence": 0,
@@ -1097,24 +956,15 @@
     "reasoning": "The content discusses technical issues related to TFS migration and work item history conflicts, but does not focus on MVP concepts like minimum viable product development, validation, or Agile principles.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T23:10:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content focuses on TFS (Team Foundation Server) migration issues, specifically dealing with work item revisions and migration processes, without any clear reference to AI integration or related applications in Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T06:34:54",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses issues related to the configuration and migration of work items in TFS (Team Foundation Server), which falls under system configuration. It details specific problems encountered during the migration process, including handling revision numbers and conflict types, which are critical aspects of system configuration. The depth of discussion includes technical details about the migration console's operations and the implications of configuration changes, indicating a strong alignment with the category. However, while it is focused on configuration, it does not extensively cover best practices or optimisation strategies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -1156,25 +1006,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:15:33",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses TFS migration conflicts and does not explicitly mention Test First Development principles or practices. While there are references to work item revisions and processing, these do not align with the core themes of Test First Development, such as defining success criteria or automated testing practices. The focus is on resolving migration issues rather than on testing methodologies.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T06:35:06",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses issues related to the TFS (Team Foundation Server) Integration Platform, which is closely associated with Windows environments. It includes specific references to TFS, a tool used for version control and project management in Windows-based systems. The content also touches on migration processes and error handling within the context of TFS, which is relevant to Windows users. However, while it does mention Windows-related tools and processes, it lacks a broader discussion on Windows operating system features or general usage, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -1207,33 +1057,33 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T23:10:14",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to work item history conflicts and migration processes in TFS, without any direct reference to remote working practices or Agile team dynamics.",
     "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-15T23:10:14",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical details and troubleshooting within a work item migration system, with no clear emphasis on principles or practices of continuous learning, growth mindset, or knowledge sharing.",
     "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T06:34:57",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 85.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
+    "final_score": 85.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific issue related to TFS migration, detailing the symptoms, error messages, and attempts to resolve the problem. It discusses the 'WorkItemHistoryNotFoundConflictTypeDetails' error and the steps taken to address it, which aligns well with the troubleshooting category. The depth of discussion includes specific logs and SQL queries to investigate the issue further, demonstrating a systematic approach to problem-solving.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1246,13 +1096,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:15:37",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses technical issues related to TFS migration and work item history conflicts, with no direct mention of the Scrum Master role or its responsibilities. It lacks alignment with the core themes of the Scrum Master category, such as team dynamics, coaching, or agile principles. The depth of discussion is focused on technical problem-solving rather than any aspects related to Scrum or the Scrum Master role.",
     "level": "Ignored"
   },
@@ -1267,20 +1117,11 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T23:10:14",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on technical issues surrounding work item migration and TFS Integration, with no mention of working agreements or teamwork principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T23:10:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses primarily on a specific technical issue related to migration within TFS, rather than discussing broader topics related to software development methodologies or practices such as Agile or DevOps.",
+    "reasoning": "Content is focused on technical issues surrounding work item migration and TFS Integration, with no mention of working agreements or teamwork principles.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1294,10 +1135,10 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-15T23:10:14",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a specific technical issue related to TFS migration and does not clearly align with the key topics of Engineering Practices such as clean code, TDD, CI/CD, refactoring, or automation in the context of Agile development.",
     "level": "Ignored"
   },
@@ -1384,10 +1225,10 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-15T23:10:15",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a technical issue related to work item migration in TFS without discussing any identifiable trends, patterns, or strategic analysis within Agile or DevOps frameworks.",
     "level": "Ignored"
   },
@@ -1400,45 +1241,36 @@
     "reasoning": "Content primarily discusses TFS migration issues and technical details related to work item history, without a central focus on accountability in team dynamics or ownership in Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T23:10:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to TFS migration and technical conflicts during the process, with no clear focus on scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-15T06:35:19",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a technical issue related to work item migration in TFS, focusing on error handling and logging during the migration process. While it touches on aspects of work item processing, it does not explicitly address throughput as defined in Agile or DevOps contexts. There are no direct mentions of throughput metrics, measurement techniques, or strategies for optimisation, leading to a low confidence score in this category.",
     "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T23:10:15",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses challenges related to TFS migration and work item history conflicts, with no focus on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:40:17",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on technical aspects of TFS migration and error handling, with no significant discussion on collaboration, decision-making, or value delivery. It lacks references to social technologies or frameworks that promote teamwork and adaptability.",
     "level": "Ignored"
   },
@@ -1453,10 +1285,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:29:04",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily discusses issues related to work item migration within a TFS Integration Platform, which is a component of an Internal Developer Platform. However, it does not extensively cover the broader concepts or best practices of IDPs.",
     "level": "Tertiary"
   },
@@ -1471,25 +1303,25 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T06:34:47",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses issues related to TFS (Team Foundation Server) migration and work item history conflicts, with no explicit mention of Scrum principles, roles, events, or artifacts. While it touches on work items, which are relevant in Scrum, it does not align with the core themes of the Scrum framework or its implementation. The focus is on technical migration challenges rather than Scrum practices.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:30:52",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses issues related to TFS migration and work item history conflicts without addressing the principles or practices of the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it provide insights into the benefits or methodologies associated with a Shift-Left approach.",
     "level": "Ignored"
   },
@@ -1507,37 +1339,37 @@
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:41:18",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical details related to TFS migration conflicts and does not discuss or align with the concept of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or frameworks like OKRs, which are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:41:21",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 15.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on technical issues related to TFS migration and does not discuss competence, continuous learning, or skill development. While it touches on problem-solving, it lacks a clear connection to the principles of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:15:30",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical issues related to TFS migration conflicts and does not discuss Agentic Agility or its principles. There are no explicit mentions of intentional shaping of outcomes, autonomy, or adaptability, which are core to the category. The content lacks depth in discussing the interplay between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }

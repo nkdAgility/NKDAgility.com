@@ -1,5 +1,6 @@
 ---
 title: Value
+abstract: Value refers to the core beliefs and principles that influence the behaviours and decision-making processes of individuals and organisations. These values serve as a foundational element in various methodologies such as Agile, Scrum, DevOps, and Lean, guiding how work is approached and how teams interact. Unlike performance metrics, values represent enduring principles that shape organisational culture, ethics, and accountability. They encompass key aspects such as respect for individuals, commitment to transparency, and a focus on continuous improvement, which are essential for fostering collaboration and breaking down silos. By prioritising values, organisations can create a culture that not only enhances productivity but also aligns actions with their mission and long-term objectives. This philosophical foundation helps teams navigate complex environments, ensuring that decisions are made ethically and sustainably. Ultimately, embedding strong values within an organisation cultivates an environment conducive to innovation, adaptability, and resilience, which are crucial for long-term success in today's rapidly evolving landscape.
 ClassificationType: concepts
 ClassificationContentOrigin: hybrid
 date: 2025-04-09T14:00:00

@@ -1,5 +1,6 @@
 ---
 title: Sprint Review
+abstract: The Sprint Review is a fundamental event within the Scrum framework, aimed at evaluating the work completed during a sprint and refining the product backlog based on feedback from stakeholders. This collaborative meeting involves the Scrum Team and key stakeholders, promoting transparency and open communication regarding the product's progress and future direction. By presenting the increment, teams can assess their achievements against the sprint goal, ensuring alignment with customer needs and expectations. This practice is crucial for enabling teams to deliver value consistently and sustainably, as it fosters continuous improvement through real-time feedback, which is essential in a rapidly changing market. The Sprint Review enhances accountability and nurtures a culture of collaboration and shared ownership among team members and stakeholders. Additionally, it provides a forum for discussing future priorities, ensuring that the product evolves to maximise value delivery. By incorporating stakeholder insights, teams can make informed decisions that improve the product's development trajectory, ultimately leading to a more resilient and adaptive process. The Sprint Review is not just a routine check; it is a vital tool for promoting innovation and responsiveness within the organisation, contributing to long-term success and customer satisfaction through a commitment to ongoing learning and adaptation.
 ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
@@ -31,7 +32,7 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T13:09:42
 concepts:
-- Practice
+- Framework
 
 ---
 The Sprint Review is a critical event in the Scrum framework, designed to inspect the increment of work completed during the sprint and adapt the product backlog based on stakeholder feedback. This collaborative session involves the Scrum Team and key stakeholders, fostering transparency and open dialogue about the product's progress and direction. By showcasing the increment, teams can validate their work against the sprint goal, ensuring alignment with customer needs and expectations.

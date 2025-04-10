@@ -29,6 +29,9 @@ tags:
 - Team Collaboration
 - Remote Working
 - Scrum Master
+- Coaching
+- Pragmatic Thinking
+- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

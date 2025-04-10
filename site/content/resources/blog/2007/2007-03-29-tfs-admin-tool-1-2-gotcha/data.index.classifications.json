@@ -1,22 +1,13 @@
 {
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T09:20:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a specific issue with the TFS admin tool and does not relate to AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:25:55",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 45.0,
     "ai_mentions": 5,
     "ai_alignment": 30,
     "ai_depth": 10,
     "non_ai_confidence": 10,
-    "final_score": 42.0,
+    "final_score": 45.0,
     "reasoning": "The content discusses a specific issue encountered while using the TFS Admin Tool, which relates to user permissions during configuration. While it touches on a configuration problem, it lacks detailed installation procedures or broader configuration best practices. The focus is more on a specific troubleshooting scenario rather than a comprehensive guide, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
@@ -27,24 +18,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue with the TFS admin tool and does not focus on decision-making processes or related theories.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:20:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue with the TFS admin tool and does not focus on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:20:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue with the TFS admin tool and does not address organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -94,13 +67,13 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T07:49:10",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a specific issue related to the TFS admin tool, which is part of the Azure DevOps suite. However, it does not provide a comprehensive overview or detailed insights into Azure DevOps functionalities or best practices. The mention of TFS (Team Foundation Server) indicates a connection to Azure DevOps, but the focus is primarily on a minor technical issue rather than broader discussions on CI/CD, project management, or collaboration practices within Azure DevOps.",
     "level": "Ignored"
   },
@@ -115,10 +88,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:20:53",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific issue with user permissions in a tool, without focusing on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -131,24 +104,15 @@
     "reasoning": "Content primarily discusses an issue with the TFS admin tool and user permissions, which does not align with the core principles of platform engineering.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:20:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific issue with the TFS admin tool and user permissions, which does not relate to code quality or complexity in software development.",
-    "level": "Ignored"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-04-08T21:24:30",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily discusses a technical issue related to user permissions in a TFS Admin Tool, with no explicit mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and provides minimal detail relevant to the category.",
     "level": "Ignored"
   },
@@ -206,36 +170,15 @@
     "reasoning": "Content primarily discusses a technical issue with the TFS admin tool and does not relate to Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:21:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific issue with the TFS admin tool rather than providing industry news or reviews.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-10T19:06:29",
-    "ai_confidence": 55.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 5.0,
-    "non_ai_confidence": 10,
-    "final_score": 50.0,
-    "reasoning": "The content discusses a specific issue encountered with the TFS admin tool, which relates to practical tooling in a DevOps context. However, it lacks a broader exploration of methodologies or frameworks, and the depth of discussion is limited to a single problem without detailed insights or best practices. Therefore, while it touches on practical tooling, it does not fully align with the category's core themes.",
-    "level": "Tertiary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T07:49:10",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions ALM in the tags but does not explicitly discuss the methodologies, practices, or tools related to Application Lifecycle Management. The focus is primarily on a specific issue with the TFS admin tool, which does not provide a comprehensive view of the application lifecycle stages or best practices. While it touches on a problem related to user permissions, it lacks depth in discussing governance, compliance, or integration with ALM principles.",
     "level": "Ignored"
   },
@@ -259,23 +202,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-04-08T21:24:27",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily discusses a specific issue related to the TFS Admin Tool and user permissions, which does not directly address the Agile Product Operating Model or its principles. There are no explicit mentions of agile methodologies, product management, or the core themes outlined in the APOM framework. The discussion lacks depth and relevance to the category, focusing instead on a technical problem unrelated to agile product management.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:21:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue with the TFS admin tool and does not relate to events or presentations.",
     "level": "Ignored"
   },
   "Agile Product Management": {
@@ -314,33 +248,6 @@
     "reasoning": "Content primarily discusses a technical issue with the TFS admin tool and does not provide personal reflections or insights related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:21:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue with the TFS admin tool and does not focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:21:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue with the TFS admin tool and does not focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:21:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific issue encountered with a tool, rather than providing a review, analysis, or discussion relevant to Agile methodologies or DevOps practices.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-17T09:21:29",
@@ -352,13 +259,13 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-04-08T21:24:10",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses a specific issue related to the TFS Admin Tool, focusing on user permissions rather than broader DevOps principles. While it touches on aspects of collaboration and user access, it lacks a comprehensive discussion of DevOps philosophy, practices, or cultural shifts. The mention of TFS (Team Foundation Server) is relevant to DevOps tools but does not align with the core themes of DevOps as a philosophy.",
     "level": "Ignored"
   },
@@ -409,22 +316,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T09:52:38",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily discussing an issue with permissions in a project management tool and does not address the Definition of Done.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-04-08T21:24:35",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 10.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily discusses a specific issue related to user permissions in the TFS Admin Tool, which does not directly address Continuous Delivery principles or practices. While it touches on a software delivery tool, it lacks explicit discussion of Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback. The focus is on a technical problem rather than the broader themes of Continuous Delivery.",
     "level": "Ignored"
   },
@@ -444,15 +351,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about a specific issue with the TFS admin tool and does not discuss empirical process control or related Agile principles.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T09:52:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is mostly about an issue with TFS admin tool permissions, not related to scaling Scrum or its principles.",
     "level": "Ignored"
   },
   "Increment": {
@@ -475,13 +373,13 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T07:49:10",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a specific issue related to user permissions in the TFS Admin Tool, which touches on system configuration. However, it lacks a comprehensive exploration of configuration methodologies or best practices. The mention of a problem and its fix is relevant but does not delve deeply into broader configuration strategies or principles.",
     "level": "Ignored"
   },
@@ -550,25 +448,25 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T15:21:25",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 55.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 50.0,
+    "final_score": 55.0,
     "reasoning": "The content discusses a specific issue related to user permissions in the TFS Admin Tool, which is relevant to software development practices, particularly in the context of project management and user roles. However, the discussion is quite limited in scope and lacks depth regarding broader software development methodologies or practices. While it touches on a practical aspect of software administration, it does not delve into the SDLC or best practices in coding or design, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T21:24:32",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses an issue related to user permissions in the TFS Admin Tool, which does not relate to Test First Development principles. There are no direct mentions of testing practices, success criteria, or any of the key topics associated with Test First Development. The focus is on a specific technical problem rather than the broader concepts of testing methodologies.",
     "level": "Ignored"
   },
@@ -635,15 +533,6 @@
     "reasoning": "Content heavily discusses a technical issue with the TFS admin tool and does not address strategic goals or business agility.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T09:52:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to permissions in TFS and does not address scaling Agile practices or collaboration among multiple teams.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-17T09:52:38",
@@ -700,13 +589,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T17:10:48",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 75.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
+    "final_score": 75.0,
     "reasoning": "The content discusses a specific issue encountered with the TFS Admin Tool, highlighting a problem with user permissions that affects report visibility. This aligns with troubleshooting as it identifies a technical issue and suggests a solution. However, the discussion is brief and lacks depth in exploring broader troubleshooting techniques or methodologies, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
@@ -811,10 +700,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T09:52:38",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on a specific issue related to the TFS admin tool, without discussing Agile values or principles.",
     "level": "Ignored"
   },
@@ -892,10 +781,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T09:52:39",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a specific issue with a tool, unrelated to the Definition of Ready or backlog item readiness.",
     "level": "Ignored"
   },
@@ -908,7 +797,7 @@
     "reasoning": "Content primarily discusses a problem with the TFS admin tool and user permissions, not related to Azure Boards or Agile project management.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T09:52:39",
     "ai_confidence": 0,
@@ -960,15 +849,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue with the TFS admin tool, not Agile strategy or methodologies.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:52:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific issue related to TFS admin tool permissions, which is not central to the role of software developers in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -1023,15 +903,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses a technical issue related to a TFS admin tool and does not reference Scrum values or principles.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T09:52:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily addresses an issue with the TFS admin tool and user permissions, without any discussion on Kanban principles, scaling, or related topics.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -1232,15 +1103,6 @@
     "reasoning": "Content primarily discusses issues related to TFS permissions and project management, with no focus on test automation topics.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:52:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a technical issue related to TFS admin tool, not relevant to Scrum Product Development.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
     "calculated_at": "2025-02-17T09:52:39",
@@ -1261,13 +1123,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T21:24:37",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 0.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a technical issue related to the TFS Admin Tool and does not mention the role or responsibilities of a Scrum Master. There is no alignment with the core themes of Scrum or agile principles, and the depth of discussion is limited to a specific problem with user permissions, which is unrelated to Scrum practices.",
     "level": "Ignored"
   },
@@ -1291,29 +1153,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:52:39",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue with a specific tool and does not focus on innovation capabilities, empirical data, or related frameworks.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T09:52:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS admin tool without any focus on scaling agile practices or principles.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:52:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content discusses a specific issue related to TFS admin tool permissions, which is not directly related to Agile Project Management principles or practices.",
+    "reasoning": "Content primarily discusses a technical issue with a specific tool and does not focus on innovation capabilities, empirical data, or related frameworks.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -1361,15 +1205,6 @@
     "reasoning": "Content discusses an issue with a TFS admin tool related to user permissions and does not address Value Stream Mapping or its principles.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T09:52:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses a specific issue with the TFS admin tool and does not relate to AI or its application in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-17T09:52:39",
@@ -1390,13 +1225,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-04-08T21:24:13",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on a technical issue related to the TFS Admin Tool, specifically about user permissions and access rights. While it touches on a problem that could affect collaboration (report visibility), it does not explicitly discuss social technologies, self-organisation, or collective intelligence. The mention of user access issues is more about technical functionality than the underlying social frameworks that promote collaboration and decision-making within teams.",
     "level": "Ignored"
   },
@@ -1429,73 +1264,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T07:49:10",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a technical issue related to the TFS admin tool and user permissions, with no explicit mention of Scrum principles, roles, or practices. While it touches on project management aspects, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The discussion lacks depth and detail regarding Scrum, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:51:08",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a specific issue related to user permissions in a TFS admin tool, which does not directly address the Shift-Left Strategy. There are no explicit mentions of integrating testing, security, or compliance earlier in the development process, nor does it explore the principles or benefits of the Shift-Left approach. The discussion is focused on a minor technical problem rather than the broader themes of proactive quality assurance or early integration of critical processes.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-04-08T21:24:16",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a specific technical issue related to user permissions in the TFS Admin Tool, which does not align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth on these topics. The focus is on a minor problem rather than on fostering collaboration or accountability across teams.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-04-08T21:24:19",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily discusses a specific technical issue related to the TFS Admin Tool and does not focus on the broader themes of competence, such as continuous learning or skill development. While it touches on a problem that could affect user access and reporting, it lacks a detailed exploration of competence as a foundational principle in Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-04-08T21:24:21",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content briefly mentions a specific issue with the TFS Admin Tool but does not discuss Continuous Improvement principles or practices. It lacks a focus on empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning. The discussion is primarily about a technical problem rather than a broader commitment to ongoing improvement.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T21:24:24",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a technical issue related to user permissions in a TFS Admin Tool, which does not align with the principles of Agentic Agility. There are no explicit mentions of intentional shaping of outcomes, autonomy, or adaptability, and the discussion lacks depth regarding the transformative capacity of individuals or systems. Overall, it is focused on a specific problem rather than the broader themes of Agentic Agility.",
     "level": "Ignored"
   }

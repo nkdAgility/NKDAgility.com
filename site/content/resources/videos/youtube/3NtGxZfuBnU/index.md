@@ -28,14 +28,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Agile Values and Principles
-- Discovery and Learning
+- Organisational Agility
+- Sociotechnical Systems
 - Agile Transformation
 - Organisational Culture
 - Agile Strategy
-- Organisational Agility
-- Sociotechnical Systems
+- Agile Frameworks
+- Agile Leadership
+- Agile Philosophy
+- Beta Codex
+- Business Agility
+- Enterprise Agility
+- Pragmatic Thinking
+- Sensemaking
+- Software Development
+- Social Technologies
+- Organisational Physics
 resourceTypes:
 - video
 layout: video

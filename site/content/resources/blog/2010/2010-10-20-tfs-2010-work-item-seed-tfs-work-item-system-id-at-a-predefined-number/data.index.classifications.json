@@ -1,24 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-16T00:08:32",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical implementation details related to TFS work item management and does not focus on Agile principles or product management practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:33:37",
-    "ai_confidence": 82.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content provides a detailed exploration of a practical technique for managing work item IDs in TFS 2010, including specific code examples and methodologies for using the TFS API. It discusses the implementation of a solution to a real-world problem, aligning well with the category's focus on practical techniques and tooling. The depth of discussion is significant, with clear explanations of the code and its purpose, as well as considerations for best practices. The content is primarily focused on practical application rather than theoretical discussions, which supports a high confidence score.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -31,75 +19,36 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:48:40",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a technical implementation of TFS Work Item IDs and does not discuss Evidence-Based Management principles or metrics. While it touches on the use of an API and some operational aspects, it lacks any reference to empirical decision-making, current value metrics, or outcome management, which are central to EBM.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T06:46:38",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10,
-    "ai_alignment": 25,
-    "ai_depth": 20,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content primarily discusses a specific coding solution for generating work item IDs in TFS, which is a technical implementation rather than a broader discussion on code quality or complexity. While it touches on aspects of coding practices and the use of APIs, it lacks a deeper exploration of complexity theory or its implications on software architecture and design. The focus is more on a practical coding task than on the interplay between code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T00:08:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details related to TFS work item management, without a clear emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T00:08:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses TFS work item management and API usage without any mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-16T00:08:43",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to TFS work item management, with no clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:02:59",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on the installation and configuration of work items in TFS 2010, detailing a specific requirement to set work item IDs at a predefined number. It discusses the use of the TFS API, provides code snippets for creating and deleting work items, and outlines the steps necessary to achieve the desired configuration. The depth of discussion includes practical examples and troubleshooting considerations, aligning well with the key topics of the category. However, while it is detailed, it does not cover broader installation procedures or system requirements, which slightly lowers the overall confidence score.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T00:08:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of TFS work item ID seeding, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -119,24 +68,15 @@
     "reasoning": "Content primarily discusses technical implementation details related to TFS work item IDs without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T00:08:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical implementation details related to TFS work item management, with no focus on organisational resilience or change management strategies.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:48:28",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a specific technical implementation related to TFS (Team Foundation Server) and work item management, which does not align with the broader principles and cultural shifts of DevOps. While it touches on aspects of automation and process efficiency, it lacks a comprehensive discussion on collaboration, shared accountability, or continuous improvement that are central to the DevOps philosophy.",
     "level": "Ignored"
   },
@@ -158,15 +98,6 @@
     "reasoning": "Content primarily discusses technical implementation details related to TFS work item management, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T00:08:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical solution for managing work item IDs in TFS, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T00:08:57",
@@ -174,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical implementation for seeding work item IDs in TFS, with no clear focus on optimising throughput or addressing flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T00:08:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details related to TFS work item IDs and API usage, with no significant focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -205,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T00:09:03",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details for creating and managing work items in TFS, without a focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -223,15 +145,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T15:01:42",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily focuses on a technical solution for managing work item IDs in TFS, which involves coding practices and API usage. While it does not explicitly mention concepts like TDD or CI/CD, it demonstrates a technical approach to a specific problem, showcasing coding techniques and the use of APIs. However, the discussion lacks depth in broader engineering practices and methodologies that enhance agility, which limits its alignment with the category of Technical Excellence.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -253,10 +175,10 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-16T00:09:13",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical implementation for managing work item IDs in TFS, which does not align with the core principles of product delivery.",
     "level": "Ignored"
   },
@@ -271,40 +193,31 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-16T00:09:16",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to TFS work item management, without a focus on value stream management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T00:09:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical solution for managing work item IDs in TFS, with no focus on products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-16T00:09:18",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to TFS work item ID management without a clear focus on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T18:49:39",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 78.0,
     "ai_mentions": 90.0,
     "ai_alignment": 70.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the use of TFS (Team Foundation Server), which is a part of Azure DevOps, focusing on creating and managing work items. It provides detailed code examples and methodologies for achieving a specific requirement within the TFS environment, aligning well with Azure DevOps functionalities. However, it lacks broader discussions on other Azure DevOps services and best practices, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
@@ -328,22 +241,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T00:09:25",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific implementation of TFS work item IDs and does not focus on the principles or integration aspects of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:48:38",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a technical solution for managing work item IDs in TFS 2010, with no direct mention of agile methodologies, product management principles, or the Agile Product Operating Model. While it touches on aspects of work item management, it does not align with the core themes of the APOM, such as continuous delivery, customer-centric value, or the transition from project to product ethos.",
     "level": "Ignored"
   },
@@ -356,26 +269,17 @@
     "reasoning": "Content primarily discusses technical implementation details related to TFS work item management, without a focus on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T00:09:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical solution for setting work item IDs in TFS, lacking industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T06:46:27",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on a specific technical implementation related to TFS (Team Foundation Server) work item management, which is a part of the application lifecycle. However, it lacks a broader discussion on the overall application lifecycle management principles, methodologies, or best practices. While it touches on aspects of work item creation and deletion, it does not delve into governance, compliance, or integration with Agile/DevOps principles, which are key topics in Application Lifecycle Management.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -388,43 +292,43 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T00:46:23",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses TFS work item ID management and API usage without reference to Definition of Done criteria or Agile principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T12:04:35",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on a specific technical solution for managing work item IDs in TFS 2010, which involves coding practices and API usage. While it does touch on aspects of software craftsmanship, such as the importance of clean code and the use of APIs, the discussion lacks depth in broader engineering principles and best practices. The content is more of a practical guide than a comprehensive exploration of technical mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-16T00:46:23",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses TFS work item management and technical implementation details without focusing on customer needs or product feature definitions.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:48:42",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a specific technical implementation related to TFS (Team Foundation Server) work item IDs, which does not directly address Continuous Delivery principles or practices. While it discusses aspects of work item management, it lacks explicit references to Continuous Delivery concepts such as automation, rapid feedback, or incremental improvements. The discussion is more about a workaround for ID management rather than enhancing software delivery processes.",
     "level": "Ignored"
   },
@@ -439,10 +343,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T00:46:23",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on TFS Work Item ID management and does not discuss Lead Time as defined.",
     "level": "Ignored"
   },
@@ -457,10 +361,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T00:46:23",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a technical implementation related to TFS work item ID generation and deletion, with no references or discussions about the Definition of Ready criteria or Agile practices.",
     "level": "Ignored"
   },
@@ -475,10 +379,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-16T00:46:23",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on TFS work item ID manipulation and API usage, with no relevant discussions on Product Backlog concepts or practices.",
     "level": "Ignored"
   },
@@ -493,40 +397,40 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-16T00:46:23",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on TFS work item creation and management, with no reference to Value Stream Mapping or Lean principles.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-16T00:46:23",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical implementation of seeding work item IDs in TFS without any mention of customer feedback or feedback loops.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T06:46:32",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses a specific technical solution for managing work item IDs in TFS, which relates to operational practices in terms of process optimisation and workflow management. However, it lacks a broader discussion on operational efficiency or continuous improvement strategies, focusing instead on a singular implementation detail. The depth of discussion is moderate, primarily detailing a coding solution without extensive exploration of operational methodologies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T00:46:23",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses technical implementation related to TFS work item IDs and APIs, with no focus on Scrum roles, team collaboration, or any dynamics relevant to a Scrum Team.",
     "level": "Ignored"
   },
@@ -550,10 +454,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-16T00:46:23",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical implementation of TFS work item ID seeding without any direct discussion on product validation methodologies, user feedback, or iterative testing practices.",
     "level": "Ignored"
   },
@@ -586,19 +490,19 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T00:46:23",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementations related to TFS and work item management without a focus on team dynamics, collaboration, or performance strategies within agile teams.",
     "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-16T00:46:23",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses generating and managing work item IDs in TFS, which is not focused on the concept of Increment in Agile and Scrum.",
     "level": "Ignored"
   },
@@ -613,31 +517,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T15:08:45",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed discussion on using the TFS API to manage work item IDs, which is a specific software development practice. It covers practical coding examples, methodologies for creating and deleting work items, and addresses potential issues, aligning well with the core themes of software development. The depth of technical detail and the focus on a specific software engineering problem further support a high confidence score.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T00:46:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses technical details and code related to creating and managing work items in TFS, which does not directly address Agile Project Management principles, practices, or methodologies.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T00:46:23",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical implementation details of TFS Work Items and does not discuss Agile values or principles.",
     "level": "Ignored"
   },
@@ -652,13 +547,13 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-15T06:46:34",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses the use of TFS (Team Foundation Server) for managing work items, which is a form of source control. It provides specific code examples and methodologies for creating and deleting work items, aligning with best practices in version control. However, while it touches on aspects of source control, it lacks broader discussions on collaboration workflows, branching strategies, or integration with DevOps practices, which limits its depth of discussion.",
     "level": "Secondary"
   },
@@ -682,15 +577,15 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-03-15T06:46:43",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the creation and management of work items in TFS (Team Foundation Server), which is related to Azure Boards. However, it primarily focuses on a specific technical implementation rather than exploring the broader functionalities and best practices of Azure Boards in Agile project management. While it mentions work items and their IDs, it lacks a comprehensive discussion on Agile methodologies, team collaboration, or the integration of Azure Boards with other services, which are key themes of the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -703,10 +598,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T00:46:23",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of TFS work item management and coding rather than organisational change strategies or practices.",
     "level": "Ignored"
   },
@@ -730,20 +625,11 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-16T00:46:23",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses technical implementation details related to TFS work items, which does not address customer satisfaction, experience, or feedback.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T00:46:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content focuses on managing TFS work items and API integrations, which are not related to Scrum principles, practices, or scaling methods.",
+    "reasoning": "The content primarily discusses technical implementation details related to TFS work items, which does not address customer satisfaction, experience, or feedback.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -764,24 +650,15 @@
     "reasoning": "Content primarily discusses technical aspects of TFS work item ID generation and API usage, with no relevance to psychological safety or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T00:46:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a specific technical requirement related to TFS work item IDs and API usage, with no discussion on agile practices, methodologies, or scaling agility across an organization.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T06:46:23",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a specific technical implementation related to TFS work item IDs, which does not directly address broader engineering excellence principles such as software craftsmanship, coding standards, or continuous improvement practices. While it touches on aspects of coding and API usage, it lacks a comprehensive discussion on best practices or quality assurance, leading to a low confidence score in the context of 'Engineering Excellence'.",
     "level": "Ignored"
   },
@@ -814,22 +691,22 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-16T00:46:23",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of TFS work item ID management, which is not related to customer retention strategies.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T10:39:21",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a practical solution to a specific problem within the TFS (Team Foundation Server) environment, demonstrating pragmatic thinking through the application of coding techniques to achieve a desired outcome. It provides a real-world scenario where the author navigates the complexities of work item ID management, showcasing adaptability and problem-solving strategies. The depth of discussion includes code snippets and explanations of the process, aligning well with the core themes of pragmatic thinking, particularly in the context of Agile and DevOps. However, while it is focused on practical application, it lacks broader discussions on Agile or Scrum methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -844,29 +721,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T00:46:23",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical details and processes related to TFS work items and ID management, with no clear focus on innovation capabilities or practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T00:46:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses a technical solution related to TFS (Team Foundation Server) work item management, which does not clearly relate to Scrum principles or product development practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T00:46:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on a technical solution for managing work item IDs in TFS and does not address Scaled Agile practices or frameworks.",
+    "reasoning": "Content primarily discusses technical details and processes related to TFS work items and ID management, with no clear focus on innovation capabilities or practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -907,15 +766,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T06:46:30",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a specific implementation of creating and managing work items in TFS, which relates to the operational aspect of software. However, it lacks a broader discussion on quality, user requirements, or iterative development, which are key themes of working software. The focus is more on a technical solution rather than on delivering functional software that meets customer needs.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1009,19 +868,19 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-16T00:46:23",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical implementation details related to TFS (Team Foundation Server) and does not focus on the responsibilities, skills, or practices relevant to the Product Owner role in Agile and Scrum.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T00:46:23",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses how to set up and manipulate work item IDs in TFS, rather than focusing on Cycle Time metrics or their implications in Agile or DevOps.",
     "level": "Ignored"
   },
@@ -1045,19 +904,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T00:46:23",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical aspects of managing work item IDs in TFS rather than on strategies or practices related to Change Management.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T00:46:24",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical solution related to managing work item IDs in TFS, with no clear focus on team dynamics, communication, or collaboration principles.",
     "level": "Ignored"
   },
@@ -1079,7 +938,7 @@
     "reasoning": "Content primarily focuses on a technical solution for managing work item IDs in TFS, rather than discussing broader strategic digital transformation initiatives or the adoption of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T00:46:24",
     "ai_confidence": 0,
@@ -1088,33 +947,24 @@
     "reasoning": "The content primarily discusses technical implementation details related to starting work item IDs in TFS and does not focus on MVP concepts, product development, market validation, or Agile principles.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T00:46:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is focused on creating and managing work items in TFS, without any mention of AI or its application in Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T16:59:15",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses the configuration of TFS (Team Foundation Server) work items, specifically how to set the starting ID for new work items. It provides a detailed explanation of the process, including code snippets and methods for achieving the desired configuration. The discussion aligns well with the core themes of system configuration, such as best practices for software installation and configuration, and troubleshooting common configuration issues. However, while it is focused on a specific configuration task, it lacks broader discussions on optimisation strategies or security considerations, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-16T00:46:24",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details related to TFS work items and API usage, which do not align with product strategy principles.",
     "level": "Ignored"
   },
@@ -1159,15 +1009,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T18:10:15",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 79.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses the use of TFS (Team Foundation Server) 2010, which is a Microsoft product that operates within the Windows environment. It provides detailed instructions on how to manipulate work item IDs using the TFS API, which is relevant to Windows users. The content includes code snippets and explanations that are specific to Windows and TFS, demonstrating a strong alignment with the category's focus on installation, configuration, and troubleshooting within the Windows operating system. The depth of discussion is significant, as it covers practical implementation and potential issues, making it a primary focus rather than a brief mention.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1189,10 +1039,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T00:46:24",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details related to work item management in TFS, with no focus on team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1216,13 +1066,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T06:46:25",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a specific technical problem related to setting a starting ID for work items in TFS 2010 and provides a solution using the API. It mentions potential issues with unsupported database changes and the need for a supported method, which aligns with troubleshooting. However, while it does provide some insights into the problem and solution, the depth of discussion on systematic troubleshooting techniques and methodologies is limited, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1237,13 +1087,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:18:35",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses technical aspects of TFS (Team Foundation Server) and work item management, with no direct mention of the Scrum Master role or its responsibilities. While it touches on project management concepts, it does not align with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles.",
     "level": "Ignored"
   },
@@ -1264,18 +1114,6 @@
     "final_score": 0.0,
     "reasoning": "Content is focused on technical implementation details related to TFS work items and API usage, and does not discuss teamwork or working agreements.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T06:46:40",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content primarily focuses on a specific technical implementation related to TFS (Team Foundation Server) and work item management, which is relevant to software developers. However, it lacks explicit discussions on Agile methodologies, DevOps principles, or broader engineering practices. While it touches on the use of APIs and project management tools, it does not delve into best practices or collaborative strategies that are central to the Software Developers category. Therefore, while there is some relevance, the depth and alignment with the category's core themes are limited.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1315,10 +1153,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-16T00:46:24",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical implementation details of managing work items in TFS, which does not align with the strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1369,10 +1207,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T00:46:24",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on TFS Work Item management and API usage, with no discussions related to Lean principles or practices.",
     "level": "Ignored"
   },
@@ -1394,24 +1232,15 @@
     "reasoning": "The content focuses on the technical implementation of creating and managing work item IDs in TFS and does not discuss accountability within Agile teams or related themes.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T00:46:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses TFS work item management and API usage without reference to Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-15T06:46:36",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a technical implementation for creating and deleting work items in TFS, with a focus on ID management rather than the measurement or optimisation of throughput. While it briefly touches on the time taken to create work items, it lacks a comprehensive discussion on throughput metrics, techniques for measurement, or strategies for improvement, which are central to the category of Throughput.",
     "level": "Ignored"
   },
@@ -1426,13 +1255,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:41:25",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a technical implementation of TFS (Team Foundation Server) for managing work item IDs, which does not align with the core themes of Social Technologies. While it briefly touches on aspects of collaboration through the use of APIs and team projects, it lacks a substantial discussion on self-organisation, collective intelligence, or value delivery. The depth of discussion is mainly technical and does not explore the social frameworks or methodologies that promote collaboration and decision-making within teams.",
     "level": "Ignored"
   },
@@ -1447,10 +1276,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:30:28",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the use of TFS (Team Foundation Server) for managing work items, which relates to the automation and streamlining of development processes, a key aspect of Internal Developer Platforms. However, the primary focus is on a specific implementation rather than a broader discussion of IDPs.",
     "level": "Tertiary"
   },
@@ -1465,73 +1294,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T06:46:23",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a technical solution for managing work item IDs in TFS (Team Foundation Server) and does not explicitly mention Scrum principles, roles, events, or artifacts. While it touches on project management aspects, it lacks a direct focus on Scrum methodologies or frameworks, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:31:58",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a technical implementation related to TFS work item IDs and does not explicitly mention or align with the principles of the Shift-Left Strategy. While it involves aspects of software development, it lacks a focus on integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:48:30",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a technical solution for setting TFS Work Item IDs and does not engage with the principles of Continuous Improvement. While it mentions the need for a better solution, it lacks a discussion on empirical evidence, data-driven decision-making, or fostering a culture of experimentation and learning. The content is more about a specific implementation rather than a broader strategy for continuous improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:48:32",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a technical solution for setting TFS Work Item IDs and does not discuss the concept of Common Goals within Agile or DevOps frameworks. While it touches on project management aspects, it lacks explicit references to shared objectives, alignment, or strategic goals that are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:48:34",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a technical solution for setting TFS Work Item IDs and does not discuss competence, continuous learning, or skill development. While it touches on problem-solving and technical execution, it lacks a direct connection to the principles of competence as defined in Agile and DevOps methodologies.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:18:30",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a technical solution for setting TFS Work Item IDs and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content lacks depth in discussing the interplay between human and AI capabilities or any transformative capacity related to Agentic Agility.",
     "level": "Ignored"
   }

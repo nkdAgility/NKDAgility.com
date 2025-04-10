@@ -30,15 +30,19 @@ sitemap:
   priority: 0.6
 tags:
 - Metrics and Learning
-- Agile Project Management
 - Operational Practices
 - Forecasting
 - Software Development
-- Throughput
 - Agile Frameworks
-- Practical Techniques and Tooling
-- Products and Books
+- Throughput
 - Flow Efficiency
+- Product Delivery
+- Pragmatic Thinking
+- Value Delivery
+- Estimation
+- Agile Planning
+- Agile Strategy
+- Decision Making
 resourceTypes:
 - video
 categories:

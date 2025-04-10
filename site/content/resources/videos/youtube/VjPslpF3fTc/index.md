@@ -31,7 +31,9 @@ sitemap:
   priority: 0.6
 tags:
 - Competence
-- Discovery and Learning
+- Miscellaneous
+- Continuous Learning
+- Personal
 resourceTypes:
 - video
 categories: []

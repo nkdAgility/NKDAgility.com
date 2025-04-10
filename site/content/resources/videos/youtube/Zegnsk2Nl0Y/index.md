@@ -26,15 +26,13 @@ preview: https://i.ytimg.com/vi/Zegnsk2Nl0Y/maxresdefault.jpg
 duration: 44
 isShort: true
 tags:
-- Products and Books
 - Software Development
-- Agile Project Management
 - Scrum Master
 - Collaboration Tools
 - Scrum Team
 - Agile Planning Tools
-- Scrum Product Development
 - Agile Transformation
+- Transparency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

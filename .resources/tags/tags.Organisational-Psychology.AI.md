@@ -1,5 +1,6 @@
 ---
 title: Organisational Psychology
+abstract: Organisational psychology is the study of behaviours, motivations, and dynamics within teams and organisations, aimed at creating environments where individuals feel engaged and valued. This field is applied to enhance collaboration, leadership effectiveness, and psychological safety, allowing team members to share ideas, take risks, and learn from failures without fear. The principles of organisational psychology are vital for sustainable value delivery, as they inform practices that improve team dynamics and facilitate the formation of cross-functional teams, which harness diverse skills for better decision-making and problem-solving. By recognising the significance of intrinsic motivation, organisational psychology contributes to higher employee engagement and retention. Its integration into agile, lean, and DevOps methodologies ensures that the human aspect is prioritised, promoting a systemic understanding of team interactions and individual contributions. This approach is crucial for long-term success, as it aligns personal aspirations with organisational goals, fostering a resilient and adaptive workforce capable of thriving in a fast-paced environment.
 ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false

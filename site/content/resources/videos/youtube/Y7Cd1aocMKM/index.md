@@ -2,7 +2,7 @@
 title: How effective is scrum training via digital delivery?
 description: Discover how digital scrum training transforms learning with engaging tools like LEGO and Minecraft, making agile practices accessible and effective!
 date: 2023-01-31T07:00:08Z
-weight: 810
+weight: 790
 ResourceId: Y7Cd1aocMKM
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,11 +29,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Remote Working
-- Agile Project Management
-- Team Collaboration
 - Pragmatic Thinking
+- Team Collaboration
+- Agile Transformation
+- Competence
 resourceTypes:
 - video
 categories: []

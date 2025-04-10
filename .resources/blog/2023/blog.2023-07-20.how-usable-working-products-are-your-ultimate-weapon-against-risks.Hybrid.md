@@ -9,7 +9,7 @@ ResourceImportId: 49501
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-07-20
-weight: 415
+weight: 360
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -25,18 +25,37 @@ aliasesArchive:
 - /how-usable-working-products-are-your-ultimate-weapon-against-risks
 - /resources/blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
 tags:
-- Increment
 - Agile Product Management
-- Software Developers
-- Working Software
-- Software Development
-- Agile Project Management
 - Operational Practices
-- Product Delivery
-- Value Delivery
+- Working Software
+- Increment
 - Pragmatic Thinking
+- Product Delivery
+- Software Development
+- Value Delivery
+- Frequent Releases
+- Agile Transformation
+- Market Adaptability
+- Organisational Agility
+- Customer Feedback Loops
+- Agile Planning
+- Empirical Process Control
+- Agile Philosophy
+- Agile Strategy
+- Automated Testing
+- Engineering Practices
+- Product Validation
+- Agile Frameworks
+- Agile Product Operating Model
+- Continuous Delivery
+- Continuous Improvement
+- Metrics and Learning
+- Technical Excellence
+- Test Automation
+- Lean Product Development
+- Agile Values and Principles
+- Deployment Frequency
 categories:
-- Social Technologies
 - Engineering Excellence
 - Product Management
 preview: image-1.jpg

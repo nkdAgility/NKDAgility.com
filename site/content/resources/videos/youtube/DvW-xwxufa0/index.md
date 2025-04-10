@@ -2,7 +2,7 @@
 title: 'The Limits of Self-Taught Learning: Why External Perspectives Matter'
 description: Discover the pitfalls of self-taught learning and the power of diverse insights in consulting. Embrace continuous learning for better solutions!
 date: 2024-08-22T07:00:08Z
-weight: 665
+weight: 630
 ResourceId: DvW-xwxufa0
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -31,9 +31,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Discovery and Learning
 - Pragmatic Thinking
+- Competence
+- Continuous Learning
+- Software Development
 resourceTypes:
 - video
 categories:

@@ -9,7 +9,7 @@ ResourceImportId: 11120
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-01-21
-weight: 850
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,7 +31,8 @@ aliasesArchive:
 - /do-you-need-an-expert-in-visual-studio-alm--tfs--or-scrum-
 - /blog/do-you-need-an-expert-in-visual-studio-alm--tfs--or-scrum-
 - /resources/blog/need-expert-visual-studio-alm-tfs-scrum
-tags: []
+tags:
+- Software Development
 categories: []
 preview: nakedalm-logo-260-5-5.png
 

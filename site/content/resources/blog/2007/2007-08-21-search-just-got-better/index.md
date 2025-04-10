@@ -23,7 +23,8 @@ aliasesArchive:
 - /blog/search-just-got-better
 - /search-just-got-better
 - /resources/blog/search-just-got-better
-tags: []
+tags:
+- Miscellaneous
 categories: []
 preview: nakedalm-logo-128-link-6-1.png
 

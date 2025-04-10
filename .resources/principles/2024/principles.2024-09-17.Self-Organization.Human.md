@@ -7,7 +7,7 @@ ResourceType: principles
 ResourceContentOrigin: Human
 recommendedContent: 
 date: 2024-09-17
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 resourceTypes: principles
 layout: principles
@@ -24,12 +24,15 @@ card:
   title: Self-Organization
 categories:
 - Scrum
-- Social Technologies
 tags:
-- Agile Project Management
-- People and Process
+- Self Organisation
+- Social Technologies
 - Scrum Team
+- Software Development
 - Team Collaboration
+- Agile Frameworks
+- Scrum Master
+- Team Performance
 
 ---
 Self-Organization: Scrum teams are self-organizing, which means they have the autonomy to determine how to achieve their goals. The team members collaborate and make decisions together, and the Scrum Master helps to facilitate and guide the process

@@ -37,10 +37,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T19:04:07",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses suggestions for a community platform and does not address the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T19:04:09",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses suggestions for community features and user interactions rather than installation or configuration processes.",
     "level": "Ignored"
   },
@@ -73,24 +73,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-10T13:17:24",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 72.0,
     "ai_mentions": 10.0,
     "ai_alignment": 60.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses suggestions for improving a community platform, which does not directly reference Agile, Scrum, DevOps, or Lean methodologies. While it touches on user experience and community engagement, these topics are presented in a general manner without a clear connection to established frameworks. The depth of discussion is significant, as it provides multiple suggestions and insights, but they remain anecdotal and non-technical, aligning well with the Miscellaneous category.",
     "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T19:04:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses suggestions for improving a community platform, focusing on technical features and user experience rather than organisational resilience or change management.",
-    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -99,15 +90,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses suggestions for a community platform and does not reference complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T19:04:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses suggestions for community features and user interactions, lacking a focus on Agile or DevOps tools and methodologies.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -121,10 +103,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T19:04:18",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses suggestions for community features and improvements, lacking a focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -169,23 +151,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-04-08T20:10:33",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on user feedback and suggestions for improving a community platform, which does not directly relate to the Agile Product Operating Model. While there are elements of user experience and feature enhancement, these do not align with the core principles of APOM, such as product-oriented mindset or continuous delivery. The discussion lacks depth and does not mention agile methodologies or product management practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T19:04:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses suggestions for improvements to a community platform rather than industry news or reviews related to Agile, DevOps, or technology.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -208,47 +181,11 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-16T19:04:29",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses community feedback and suggestions for a specific platform, lacking a focus on platform engineering principles or enhancing developer productivity.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T19:04:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses community feedback and suggestions for a platform, with no mention of AI, automation, or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T19:04:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses suggestions for community features and user interface improvements, with no focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T19:04:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses suggestions for a community platform and does not reference any events, presentations, or related discussions.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T19:04:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses suggestions for improving a community platform, lacking a focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -289,10 +226,10 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T19:04:45",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses suggestions for a community platform and does not focus on personal experiences or reflections related to Agile, Scrum, DevOps, or business agility.",
     "level": "Ignored"
   },
@@ -316,13 +253,13 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-04-08T20:10:20",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on user feedback and suggestions for improving a community platform, with no explicit discussion of DevOps principles, practices, or cultural shifts. While there are mentions of user experience and community engagement, these do not align with the core themes of DevOps, such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
@@ -333,36 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses user suggestions for a community platform, lacking a focus on engineering practices or methodologies that enhance software development.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T07:37:07",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content discusses suggestions for improving a community platform, which touches on user interaction and moderation processes. However, it lacks a strong focus on team dynamics, leadership, or structured methodologies. The mentions of user contributions and moderation hint at human factors but do not delve deeply into the interplay between people and processes, resulting in a low confidence score.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T19:04:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses feature suggestions and improvements for a community platform, lacking a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T19:04:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses suggestions for a community platform and does not focus on products, books, or Agile/DevOps methodologies.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -376,31 +283,31 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-03-15T07:37:07",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content discusses suggestions for improving a community platform, which includes user feedback elements. However, it primarily focuses on feature requests and general improvements rather than structured methodologies for validating product ideas through user engagement. While there are elements of user feedback, they are not the primary focus, leading to a low confidence score in the context of Product Validation.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T19:22:46",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses suggestions related to community features and profile management, not system configuration.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T19:22:46",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses community feedback and specific suggestions for improvements rather than focusing on the measurement and enhancement of innovation capabilities.",
     "level": "Ignored"
   },
@@ -429,15 +336,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses community feedback and suggestions for website improvements, with no clear focus on portfolio management or alignment of strategy with execution.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T19:22:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses suggestions for improving a community platform and does not address Scrum principles, practices, or product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -469,10 +367,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T19:22:46",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses suggestions for a community platform without reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -505,20 +403,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T19:22:46",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses community feedback and suggestions for platform improvements, with no mention of the Definition of Done or related Agile concepts.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T19:22:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on suggestions for a community platform and does not discuss any scaled Agile methodologies or practices.",
+    "reasoning": "Content discusses community feedback and suggestions for platform improvements, with no mention of the Definition of Done or related Agile concepts.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -584,15 +473,6 @@
     "reasoning": "Content focuses on user suggestions for a community platform, but does not primarily discuss tools for collaboration within Agile teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T19:22:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses feedback and suggestions related to community features and user profiles, with little to no focus on the role of software developers in Agile and DevOps contexts.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
     "calculated_at": "2025-02-16T19:22:46",
@@ -604,10 +484,10 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-16T19:22:46",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses community contributions and platform features, with no focus on Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
@@ -629,7 +509,7 @@
     "reasoning": "Content discusses community feedback and suggestions related to a platform, without any mention of estimation techniques, Agile, or Scrum principles.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T19:22:46",
     "ai_confidence": 0,
@@ -703,13 +583,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-04-08T20:10:44",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 10.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on user feedback and suggestions for improving a community platform, which does not directly address Continuous Delivery principles or practices. While there are mentions of enhancing features and user experience, these discussions do not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or software quality. The content lacks depth in discussing Continuous Delivery concepts, resulting in a very low confidence score.",
     "level": "Ignored"
   },
@@ -733,10 +613,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T19:22:46",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses suggestions for community platform improvements, with no clear focus on organisational change strategies or practices.",
     "level": "Ignored"
   },
@@ -758,15 +638,6 @@
     "reasoning": "Content focuses on community feedback and suggestions for a platform, lacking any discussion or elements related to hypothesis formulation, experimentation, or validated learning.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T19:22:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses forum suggestions and website features unrelated to AI in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Agile Strategy": {
     "category": "Agile Strategy",
     "calculated_at": "2025-02-16T19:22:46",
@@ -778,10 +649,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T19:22:46",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses suggestions for improving a community platform, which is not focused on change management strategies or practices.",
     "level": "Ignored"
   },
@@ -823,10 +694,10 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-16T19:22:46",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses website functionality and user suggestions without reference to leadership or evidence-based practices.",
     "level": "Ignored"
   },
@@ -940,10 +811,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T19:22:46",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses suggestions for a community platform and does not engage with the Definition of Ready or its principles.",
     "level": "Ignored"
   },
@@ -983,35 +854,17 @@
     "reasoning": "Content primarily discusses suggestions for a community platform, with no focus on remote work or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T19:22:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on suggestions for a community platform unrelated to Kanban or its scaling principles.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-03-15T07:37:07",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses suggestions for improving a community platform, which indirectly relates to customer retention through user engagement and experience. However, it lacks explicit focus on retention strategies and does not delve deeply into methodologies for maintaining user engagement or minimising churn.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T19:22:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses community contributions and suggestions for a platform, which are not related to Agile Project Management principles, frameworks, or practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1060,15 +913,15 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-03-11T12:13:42",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses suggestions for improving a community platform, which implies a focus on user feedback. However, it lacks explicit mention of structured feedback loops or detailed methods for integrating feedback into product development. The suggestions are more about feature requests than systematic feedback collection and analysis, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Strategy": {
     "category": "Strategy",
@@ -1216,13 +1069,13 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-03-15T07:37:07",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses suggestions for improving a community platform, which includes user feedback and feature requests. However, it lacks a strong focus on methodologies for understanding customer needs or validating product ideas. While there are mentions of user contributions and suggestions, the discussion does not delve deeply into the core themes of product discovery, such as user research techniques or frameworks for validating ideas.",
     "level": "Ignored"
   },
@@ -1289,15 +1142,6 @@
     "reasoning": "Content focuses primarily on suggestions for a community platform, without any discussion of asynchronous development principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T19:22:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses community feedback and suggestions unrelated to Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T19:22:46",
@@ -1334,24 +1178,15 @@
     "reasoning": "The content primarily discusses community feedback and suggestions for a platform, with no relation to Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T19:22:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses feedback and suggestions for a community platform, which is not relevant to scaling agile practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T20:10:35",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses feedback and suggestions for a community platform, with no direct mention of Scrum or the role of a Scrum Master. While there may be a tangential connection to team dynamics through community engagement, it lacks any substantial discussion on Scrum principles, responsibilities, or the impact of a Scrum Master.",
     "level": "Ignored"
   },
@@ -1375,25 +1210,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T20:10:41",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on community feedback and suggestions for improving a platform, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:53:13",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses suggestions for improving a community platform, which touches on collaboration and user experience. However, it lacks a strong focus on the core themes of social technologies, such as self-organisation, decision-making frameworks, or collective intelligence. The discussion is more about feature enhancements rather than the underlying social frameworks that drive collaboration and value delivery.",
     "level": "Ignored"
   },
@@ -1408,10 +1243,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:44:55",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses community feedback and suggestions for a platform, with no clear focus on Internal Developer Platforms or related topics.",
     "level": "Ignored"
   },
@@ -1426,73 +1261,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:01:20",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses suggestions for a community platform and does not mention Scrum principles, roles, events, or any related topics. It lacks any substantial discussion on Scrum or its implementation, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:43:40",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses suggestions for a community platform, focusing on user contributions, profile management, and SEO improvements. There is no mention of integrating testing, security, or compliance earlier in the software development lifecycle, which are core aspects of the Shift-Left Strategy. The discussion does not align with the principles or benefits of the Shift-Left approach, nor does it provide any depth on related tools or methodologies.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-04-08T20:10:23",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on user feedback and suggestions for improving a specific platform, Community Credit. While it encourages community engagement, it does not explicitly discuss or align with the principles of Common Goals in Agile or DevOps. The suggestions provided are more about feature enhancements and user experience rather than shared objectives or strategic alignment within teams.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-04-08T20:10:25",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on suggestions for improving a community platform rather than discussing competence in Agile, Scrum, or DevOps contexts. While there are mentions of user experience and moderation, these do not directly relate to the principles of competence, continuous learning, or skill development. The discussion lacks depth and does not align with the core themes of competence as defined.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-04-08T20:10:28",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses suggestions for enhancing a community platform, which aligns with the idea of improving user experience. However, it lacks a structured approach to Continuous Improvement principles, such as empirical evidence or systematic methodologies. The focus is more on user feedback rather than a comprehensive strategy for ongoing improvement.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T20:10:31",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on user feedback and suggestions for improving a community platform, lacking any explicit discussion on Agentic Agility or its principles. While there are elements of user autonomy in suggesting improvements, the content does not delve into the intentional shaping of outcomes or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }

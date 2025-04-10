@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses a technical issue related to MS Build and does not address Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T11:52:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to MS Build and does not focus on products or literature relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-16T11:52:59",
@@ -37,10 +28,10 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T07:29:20",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses a specific build error related to MS Build and mentions solutions and updates, but it primarily focuses on troubleshooting rather than broader engineering practices or methodologies that enhance technical excellence.",
     "level": "Ignored"
   },
@@ -53,51 +44,24 @@
     "reasoning": "Content primarily discusses a technical error related to MS Build and does not focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T11:53:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to MS Build and does not reference any events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T11:53:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical error related to MS Build and does not address organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T09:43:45",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses troubleshooting MS Build errors in Visual Studio, which is more focused on specific technical issues rather than the broader principles and practices of DevOps. While it touches on aspects of build processes, it lacks a clear connection to the core themes of DevOps such as collaboration, automation, or shared accountability. The discussion is technical and specific, with minimal relevance to the DevOps philosophy.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T11:53:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a build error in MS Build and does not relate to AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-16T11:53:11",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical error related to MS Build and does not address Lean principles or methodologies.",
     "level": "Ignored"
   },
@@ -112,26 +76,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T09:43:57",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses technical issues related to MS Build errors in Visual Studio, with no direct mention of agile methodologies, product management principles, or the Agile Product Operating Model. It focuses on troubleshooting and solutions for specific software development problems rather than the broader themes of agile product delivery or organisational effectiveness.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T07:29:31",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses a specific build error encountered in MS Build, which relates to tooling in a practical context. However, it primarily focuses on troubleshooting a specific issue rather than exploring broader methodologies or frameworks that enhance Agile and DevOps practices. While there are mentions of tools like MS Build and TFS, the discussion lacks depth in terms of practical techniques or best practices for tool integration, which diminishes its alignment with the category.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -145,22 +97,22 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-16T11:53:17",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a build error related to MS Build and Visual Studio, with no clear focus on platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-15T07:29:25",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses a specific build error related to MS Build and mentions potential solutions, including installing service packs and updates. While it touches on installation aspects, the primary focus is on troubleshooting a specific error rather than providing a comprehensive guide on installation or configuration processes. The discussion lacks detailed step-by-step instructions or broader configuration best practices, which diminishes its alignment with the category.",
     "level": "Secondary"
   },
@@ -175,40 +127,22 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T09:44:03",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses technical issues related to MS Build errors in Visual Studio, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and does not provide any depth on these topics.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T11:53:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a build error related to MS Build and specific Visual Studio solutions, without addressing the principles of code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T11:53:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to MS Build and does not focus on news or reviews relevant to Agile, DevOps, or technology updates.",
     "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-16T11:53:25",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to MS Build and does not focus on business agility principles or practices.",
     "level": "Ignored"
   },
@@ -241,19 +175,19 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T11:53:31",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical error related to MS Build and does not focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T11:53:32",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a build error related to MS Build and specific Visual Studio solutions, without any mention of the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
@@ -284,47 +218,29 @@
     "reasoning": "Content primarily discusses a technical issue related to MS Build and does not provide personal reflections or insights related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T11:53:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical error related to MS Build and does not focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T07:29:33",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses a build error related to MS Build and Team Foundation Server (TFS), which are components of Azure DevOps. However, the focus is primarily on troubleshooting a specific error rather than a broader discussion of Azure DevOps functionalities or best practices. While there are mentions of TFS and build processes, the content lacks depth in exploring Azure DevOps as a suite of tools and does not provide insights into CI/CD practices or agile project management within Azure DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T11:53:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to build errors and does not address transparency or accountability within Agile teams.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T07:29:23",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses a specific build error related to MS Build and mentions tools like TFS and SQL Server, which are relevant to the application lifecycle. However, it primarily focuses on troubleshooting a technical issue rather than providing a comprehensive discussion on the stages or practices of Application Lifecycle Management. The mention of ALM tags indicates some relevance, but the overall depth and focus on lifecycle management principles are limited.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -333,15 +249,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical error related to MS Build and does not address Systems Thinking principles or applications.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T11:53:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to MS Build and does not focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -382,13 +289,13 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T07:29:20",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a build error related to MS Build and mentions solutions for different versions of Visual Studio, which could be tangentially related to release management. However, it lacks a direct focus on release management strategies, practices, or processes. The discussion is primarily technical and does not delve into planning, scheduling, or controlling software releases, which are core themes of the category.",
     "level": "Ignored"
   },
@@ -457,13 +364,13 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:29:36",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a specific build error encountered in a software project, which is more focused on troubleshooting than on broader principles of software craftsmanship or engineering practices. While it does touch on aspects of software development, such as versioning and build configurations, it lacks a comprehensive exploration of best practices, methodologies, or principles that define technical mastery. The discussion is more about resolving a specific issue rather than advancing the understanding of software engineering excellence.",
     "level": "Ignored"
   },
@@ -485,7 +392,7 @@
     "reasoning": "Content primarily discusses a technical issue related to MS Build and solution configurations, not addressing large scale Agile principles or practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T12:36:26",
     "ai_confidence": 0,
@@ -503,24 +410,15 @@
     "reasoning": "Content primarily discusses build errors and issues related to MS Build and Visual Studio, which is not focused on Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T12:36:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical issues related to MS Build and Visual Studio solutions, without any mention or discussion of Agile Project Management principles or methodologies.",
-    "level": "Ignored"
-  },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-03-15T07:29:20",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a build error related to MS Build and Team Build, which are components of the Azure DevOps ecosystem. However, it lacks a direct focus on Azure Pipelines specifically, as it primarily addresses issues with Visual Studio solutions and MSBuild configurations. While there are mentions of build processes, the discussion does not delve into CI/CD practices, YAML configurations, or deployment strategies that are central to Azure Pipelines. Therefore, the content is relevant but not sufficiently aligned with the core themes of Azure Pipelines.",
     "level": "Ignored"
   },
@@ -535,10 +433,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T12:36:26",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a technical issue related to MS Build and TFS, which are not relevant to the dynamics or roles within a Scrum Team.",
     "level": "Ignored"
   },
@@ -686,27 +584,6 @@
     "reasoning": "Content primarily discusses an error encountered in a build process, which does not relate to estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T07:29:20",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily discusses a specific build error encountered in a software development context, which is relevant to software developers. However, it lacks explicit discussions on Agile or DevOps methodologies, best practices, or modern engineering practices. While it touches on technical issues related to software development, it does not delve into the broader themes of collaboration, productivity, or the role of developers within Agile frameworks, leading to a lower confidence score.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T12:36:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses a build error related to Visual Studio and TFS without any mention of AI or its application in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-16T12:36:26",
@@ -718,13 +595,13 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-10T13:13:10",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 30,
-    "final_score": 73.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses an error encountered during a build process related to Microsoft Build (MSBuild) and Visual Studio, which are integral to the Windows development environment. It explicitly mentions Windows-related technologies, such as SQL Server and Team Foundation Server (TFS), and addresses troubleshooting steps for a specific error message. The depth of discussion includes detailed error messages and potential solutions, indicating a strong focus on Windows. However, while the content is relevant, it does not cover broader aspects of Windows installation, configuration, or security, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
@@ -748,13 +625,13 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T18:57:05",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a specific build error encountered in a software development context, particularly related to MS Build and Visual Studio solutions. It mentions the transition between different versions of Visual Studio and SQL Server, which aligns with software development practices. However, while it touches on relevant topics, such as build configurations and troubleshooting, the discussion lacks depth in methodologies or best practices, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -765,15 +642,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses a technical error related to MS Build and solutions in Visual Studio, without any reference to Agile frameworks or principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T12:36:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a build error in MS Build and does not address any Agile scaling methodologies or frameworks.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -814,10 +682,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T12:36:26",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a technical error in a software build process and troubleshooting steps, without addressing innovation or evidence-based management principles.",
     "level": "Ignored"
   },
@@ -895,10 +763,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T12:36:26",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses build errors and issues with Visual Studio without any reference to the Definition of Done or Agile principles.",
     "level": "Ignored"
   },
@@ -913,13 +781,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T09:43:59",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 12.0,
     "ai_mentions": 5,
     "ai_alignment": 10,
     "ai_depth": 5,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses troubleshooting MS Build errors in Visual Studio, which is more focused on build issues rather than Continuous Delivery practices. While it touches on aspects of software delivery, such as updates and integration, it lacks a direct discussion of Continuous Delivery principles, automation, or cultural aspects. The mention of 'Business Intelligence projects' and 'updating GDR' does not sufficiently align with the core themes of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -934,10 +802,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T07:29:20",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
+    "final_score": 40.0,
     "reasoning": "The content discusses technical errors encountered during a software build process, but it does not focus on the characteristics of working software or best practices related to software delivery.",
     "level": "Ignored"
   },
@@ -1031,21 +899,12 @@
     "reasoning": "Content primarily discusses a technical issue related to MS Build and does not directly engage with empirical process control or Agile principles.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T12:36:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an issue with MS Build and does not relate to Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T12:36:26",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical build error related to MS Build, not the Definition of Ready in an Agile context.",
     "level": "Ignored"
   },
@@ -1078,13 +937,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:42:02",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses issues related to MS Build errors in Visual Studio, focusing on troubleshooting and solutions for specific build configurations. There is no mention of Test First Development principles, success criteria, or testing practices. The content does not align with the core themes of Test First Development, nor does it provide any depth on the subject. Overall, it is unrelated to the category.",
     "level": "Ignored"
   },
@@ -1162,15 +1021,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T07:29:28",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses a specific technical issue related to MS Build and the transition between Visual Studio versions, which reflects a practical problem-solving scenario. However, it lacks a broader discussion on Agile, Scrum, or DevOps principles, and does not provide in-depth strategies or frameworks for navigating complexity in project management. The focus is primarily on troubleshooting a specific error rather than applying pragmatic thinking in a wider context.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -1201,10 +1060,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T12:36:26",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue with build errors and related software troubleshooting, not team performance or collaboration.",
     "level": "Ignored"
   },
@@ -1228,10 +1087,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T12:36:26",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical build error and troubleshooting steps, with no relation to team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1253,36 +1112,27 @@
     "reasoning": "Content primarily focuses on a build error related to MS Build and issues with Visual Studio projects, without discussing deployment methodologies or strategies.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T12:36:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical error related to build systems in Visual Studio and Team Foundation Server, with no relevant connection to Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-10T15:10:30",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 82.0,
     "ai_mentions": 25.0,
     "ai_alignment": 40.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses a specific build error encountered in a software development context, detailing the symptoms, potential causes, and a resolution. It explicitly mentions troubleshooting steps taken, such as updating software components and references to error messages. However, while it provides a clear example of a troubleshooting scenario, the depth of discussion on methodologies or broader strategies for troubleshooting is limited, focusing instead on a singular issue.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:42:05",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses technical issues related to MS Build errors in Visual Studio, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It focuses on problem-solving within a specific software development context rather than the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
@@ -1297,10 +1147,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T12:36:26",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to MS Build and TFS without a focus on team collaboration or communication dynamics.",
     "level": "Ignored"
   },
@@ -1315,10 +1165,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T12:36:26",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to MS Build and team build processes, with no clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -1329,15 +1179,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on build errors related to Visual Studio and MS Build without discussing Test Driven Development or its methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T12:36:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily deals with a technical error related to MS Build and Visual Studio solutions, with no discussion on Scrum principles, scaling Scrum, or related frameworks.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1369,23 +1210,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T07:29:20",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a build error related to MS Build and mentions the configuration of solutions in Visual Studio, which touches on system configuration aspects. However, the primary focus is on troubleshooting a specific error rather than a comprehensive exploration of system configuration practices. The discussion lacks depth in best practices or methodologies for system configuration, leading to a lower confidence score.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T12:36:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to MS Build and does not address scaling agility or agile practices.",
     "level": "Ignored"
   },
   "Entrepreneurship": {
@@ -1399,25 +1231,25 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-15T07:29:20",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a specific build error encountered during a software build process, which is related to Continuous Integration practices. However, it primarily focuses on troubleshooting a specific issue rather than exploring the broader principles or best practices of CI. While there are mentions of build configurations and tools (like MSBuild and TFS), the discussion lacks depth in terms of CI principles, automated testing, or team collaboration. Therefore, it aligns with the category but does not provide a comprehensive exploration of CI.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:50:11",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on troubleshooting MS Build errors in Visual Studio, which is a technical issue rather than a discussion on social technologies. There are no direct mentions of collaboration, decision-making, or value delivery, and the content lacks depth in addressing any social frameworks or methodologies. It does not align with the core themes of the category.",
     "level": "Ignored"
   },
@@ -1432,91 +1264,91 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:40:45",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a build error related to MS Build and Visual Studio, with no clear focus on Internal Developer Platforms or their benefits, components, or best practices.",
     "level": "Ignored"
   },
   "Artificial Intelligence": {
     "category": "Artificial Intelligence",
-    "calculated_at": "2025-02-24T14:40:46",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a build error in Visual Studio and does not relate to AI or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:58:09",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a technical issue related to MS Build and does not mention Scrum principles, roles, events, or any related topics. There is minimal conceptual alignment with Scrum, as the focus is on troubleshooting a build error rather than project management or team dynamics.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:40:13",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a specific build error related to MS Build and does not address the Shift-Left Strategy or its principles. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any techniques, case studies, or tools related to the Shift-Left approach. The focus is on troubleshooting a technical issue rather than on software development strategies.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T09:43:47",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on troubleshooting MS Build errors in Visual Studio, which does not directly relate to Continuous Improvement principles. While there is a mention of resolving issues and updates, it lacks a clear discussion on empirical evidence, data-driven decision-making, or a culture of experimentation. The content does not provide substantial detail on Continuous Improvement strategies or frameworks, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T09:43:50",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses technical issues related to MS Build errors in Visual Studio, with no explicit mention of Common Goals or their significance in Agile or DevOps. While it touches on project management aspects, it lacks a focus on shared objectives or alignment with strategic goals, which are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T09:43:52",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses technical issues related to MS Build errors and solutions for Visual Studio, with no explicit focus on competence, continuous learning, or skill development. While it touches on problem-solving, it does not align with the core themes of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:42:00",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on troubleshooting MS Build errors in Visual Studio, with no explicit discussion of Agentic Agility or its principles. While there is a mention of resolving issues and adapting solutions, it lacks depth and does not engage with the core themes of intentionality, agency, or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }

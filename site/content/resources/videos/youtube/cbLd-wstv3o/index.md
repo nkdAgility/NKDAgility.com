@@ -32,15 +32,32 @@ sitemap:
   priority: 0.6
 tags:
 - Continuous Improvement
-- Evidence Based Management
-- Discovery and Learning
+- Decision Making
 - Evidence Based Leadership
 - Product Discovery
 - Product Validation
 - Software Development
 - Ability to Innovate
-- Decision Making
+- Evidence Based Management
 - Pragmatic Thinking
+- Customer Satisfaction
+- Working Software
+- Customer Retention
+- Product Owner
+- Product Strategy
+- Metrics and Learning
+- Agile Strategy
+- Entrepreneurship
+- Operational Practices
+- Product Backlog
+- Value Delivery
+- Agile Philosophy
+- Agile Planning
+- Agile Product Management
+- Agile Product Operating Model
+- Empirical Process Control
+- Lean Product Development
+- Market Share
 resourceTypes:
 - video
 categories:

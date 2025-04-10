@@ -30,7 +30,7 @@ videos:
 - title: How does a scrum team plan and prioritize work effectively?
   embed: https://www.youtube.com/embed/sPmUuSy7G3I
 date: 2024-09-17
-weight: 810
+weight: 790
 creator: Martin Hinshelwood
 card:
   button:
@@ -40,16 +40,21 @@ card:
 categories:
 - Scrum
 tags:
-- Scrum Product Development
 - Scrum Team
+- Agile Frameworks
 - Professional Scrum
 - Agile Planning
-- Agile Frameworks
-- Agile Project Management
 - Software Development
-- People and Process
 - Agile Product Management
 - Product Delivery
+- Team Collaboration
+- Team Performance
+- Agile Planning Tools
+- Social Technologies
+- Value Delivery
+- Pragmatic Thinking
+- Agile Transformation
+- Common Goals
 
 ---
 We will endevour to explain not just the purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) but the additional practices and understanding that are required to make it effective. We will also look at how to market the outcome and help teams to communicate their intentions and plans to stakeholders so that they can support the team in their work.

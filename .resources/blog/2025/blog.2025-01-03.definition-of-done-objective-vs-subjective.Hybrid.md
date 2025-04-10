@@ -6,7 +6,7 @@ ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-01-03
-weight: 280
+weight: 205
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -24,19 +24,42 @@ aliasesArchive:
 - /definition-of-done---objective-vs-subjective
 - /blog/definition-of-done---objective-vs-subjective
 tags:
-- Increment
 - Definition of Done
-- Scrum Product Development
+- Software Development
+- Agile Planning
+- Increment
+- Pragmatic Thinking
 - Product Delivery
 - Professional Scrum
-- Software Development
 - Working Software
-- Agile Planning
-- Agile Project Management
-- Pragmatic Thinking
+- Agile Product Management
+- Operational Practices
+- Engineering Practices
+- Technical Mastery
+- Value Delivery
+- Agile Frameworks
+- Competence
+- Team Performance
+- Empirical Process Control
+- Scrum Team
+- Technical Excellence
+- Agile Philosophy
+- Agile Values and Principles
+- Automated Testing
+- Organisational Agility
+- Product Owner
+- Common Goals
+- Agile Strategy
+- Agile Transformation
+- Continuous Improvement
+- Decision Making
+- Scrum Master
+- Team Collaboration
+- Metrics and Learning
 categories:
 - Scrum
-- Social Technologies
+- Product Management
+- Engineering Excellence
 preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
 
 ---

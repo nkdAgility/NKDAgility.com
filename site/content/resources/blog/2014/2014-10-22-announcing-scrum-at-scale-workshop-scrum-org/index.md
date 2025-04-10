@@ -9,7 +9,7 @@ ResourceImportId: 10824
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-22
-weight: 775
+weight: 750
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,16 +28,29 @@ aliasesArchive:
 - /blog/upcomming-scrum-at-scale-workshop-from-scrum-org
 - /resources/blog/announcing-scrum-at-scale-workshop-scrum-org
 tags:
-- Scaling Scrum
-- Agile Project Management
-- People and Process
-- Events and Presentations
-- Software Development
 - Agile Frameworks
 - Agile Transformation
-- Scaled Agile
+- Software Development
+- Sociotechnical Systems
 - Large Scale Agility
-- Scaling Agility
+- Evidence Based Leadership
+- Professional Scrum
+- Empirical Process Control
+- Enterprise Agility
+- Metrics and Learning
+- Organisational Agility
+- Organisational Change
+- Organisational Culture
+- Pragmatic Thinking
+- Ability to Innovate
+- Agile Planning
+- Continuous Improvement
+- Agile Leadership
+- Agile Strategy
+- Change Management
+- Operational Practices
+- Team Performance
+- Value Delivery
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-2-2.png

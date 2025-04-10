@@ -1,19 +1,10 @@
 {
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T09:46:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the need for speed and efficiency in software development, focusing on industrialisation and collaboration tools, without addressing AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:46:54",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of Team Foundation Server on the software development industry rather than providing actionable installation or configuration guidance.",
     "level": "Ignored"
   },
@@ -26,36 +17,15 @@
     "reasoning": "Content primarily discusses software development processes and industry competition, with no clear focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T07:49:51",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content touches on aspects of collaboration and communication within a large company, particularly regarding the implementation of TFS and the need for up-to-date information. However, it lacks a direct focus on team dynamics, leadership, or structured methodologies. The discussion is more centred on the speed of delivery and competition rather than the human factors or processes that enhance productivity and innovation.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:47:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses software development practices and competitive speed in the industry, without a clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-15T07:49:51",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of speed in delivering software and the need for up-to-date information to enhance competitiveness, which aligns with the concept of delivering value. However, it lacks explicit references to Agile methodologies, iterative development, or customer feedback mechanisms, resulting in a lower confidence score. The discussion is more focused on the industrialisation of software development rather than specific value delivery practices.",
     "level": "Ignored"
   },
@@ -70,27 +40,27 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T07:49:51",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content does not explicitly mention Scrum or its principles, roles, events, or artifacts. While it discusses the need for collaboration and speed in software development, it does not align with the core themes of Scrum, such as iterative progress or continuous improvement. The focus is more on industrialisation and competitive advantage rather than Scrum practices.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-03-15T07:49:51",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 45.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 40.0,
+    "final_score": 45.0,
     "reasoning": "The content discusses the importance of speed in software delivery and mentions the need for efficient processes, which aligns with the concept of flow efficiency. However, it lacks explicit discussions on specific flow efficiency techniques or metrics, and the depth of analysis on optimising throughput is moderate.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -103,46 +73,46 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T07:49:51",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions the need for solid reuse of components and the role of Team Foundation Server in facilitating collaboration on IT projects, which aligns with the principles of technical excellence. However, the discussion lacks depth and does not focus on specific engineering practices or methodologies like TDD or CI/CD. The primary focus is more on the competitive nature of the industry rather than on technical excellence itself.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T07:49:51",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content mentions Team Foundation Server (TFS), which is a component of Azure DevOps, but it does not focus on Azure DevOps as a whole. The discussion is more about the challenges and strategies in the software development industry rather than specific Azure DevOps functionalities or practices. While there is some conceptual alignment regarding collaboration and efficiency, the depth of discussion on Azure DevOps is limited.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-15T07:49:51",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content touches on aspects of organisational communication and the need for collaboration tools like Team Foundation Server, which aligns with sociotechnical systems. However, it primarily focuses on the technical aspects of software delivery and competition rather than a thorough exploration of the interplay between social and technical elements. The discussion lacks depth in addressing how these factors collectively influence team effectiveness and organisational culture.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:47:13",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the need for speed and efficiency in software development, with a focus on industrialisation and collaboration rather than metrics or learning principles.",
     "level": "Ignored"
   },
@@ -155,21 +125,12 @@
     "reasoning": "Content primarily discusses the need for speed and efficiency in software development, focusing on Team Foundation Server and its role in industrialising activities, rather than on platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:47:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the speed of software delivery and the industrialisation of processes rather than the interplay between code quality and complexity.",
-    "level": "Ignored"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T09:47:16",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the need for speed in software development and the use of Team Foundation Server, without focusing on evidence-based management principles or practices.",
     "level": "Ignored"
   },
@@ -184,13 +145,13 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-15T07:49:51",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the need for speed and efficiency in software development, which aligns with the principles of business agility. However, it primarily focuses on the implementation of Team Foundation Server and the industrialisation of activities rather than directly addressing business agility principles or practices. The mention of competition and the need for up-to-date information hints at agility but lacks depth in discussing strategies or frameworks for fostering a culture of innovation and adaptability.",
     "level": "Ignored"
   },
@@ -214,15 +175,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T07:49:53",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of speed in delivering software products and mentions the need for solid reuse of components, which aligns with product delivery principles. However, it lacks direct mentions of specific methodologies or practices related to product delivery, and the discussion is somewhat abstract and lacks depth in practical application.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Lean": {
     "category": "Lean",
@@ -233,41 +194,17 @@
     "reasoning": "Content primarily discusses software development speed and competition without a clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T07:49:57",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses the implementation of Team Foundation Server (TFS) and its implications for the software development industry, which aligns with the themes of technology updates. However, it lacks explicit references to Agile or DevOps practices and does not provide a review or analysis of tools or methodologies. The discussion is somewhat anecdotal and lacks depth in evaluating the impact of TFS on Agile or DevOps, leading to a moderate confidence score.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T07:49:59",
-    "ai_confidence": 45.0,
-    "ai_mentions": 30.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 42.0,
-    "reasoning": "The content mentions Team Foundation Server (TFS) as a tool that can facilitate collaboration and improve efficiency in software development, which aligns with the category's focus on practical techniques and tooling. However, the discussion lacks depth in terms of specific methodologies or frameworks, and it primarily revolves around general observations about the industry rather than providing detailed insights or best practices. The mention of TFS is significant but not the primary focus, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T07:50:02",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions Team Foundation Server (TFS) and touches on the need for collaboration and efficiency in software development, which are relevant to Application Lifecycle Management. However, it lacks a direct focus on the stages of the application lifecycle, best practices, or specific tools and frameworks. The discussion is more about the speed of software delivery and competitive advantage rather than a comprehensive exploration of ALM principles.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -280,49 +217,40 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-15T07:50:04",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the need for speed and efficiency in software delivery, which aligns with market adaptability principles. However, it lacks explicit mention of Agile, DevOps, or Lean methodologies, and the discussion is more focused on the challenges of communication and the importance of quick delivery rather than specific strategies or practices that enhance adaptability.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:47:32",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the need for speed and efficiency in software development, focusing on industrialisation and component reuse rather than Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:47:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses software development practices and industry competition without reference to specific events or presentations.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T09:47:35",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the need for speed in software delivery and the use of Team Foundation Server, without focusing on Agile principles, product management roles, or customer feedback integration.",
     "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T09:47:36",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses software development practices and the need for speed in the industry, without a clear focus on Value Stream Management principles.",
     "level": "Ignored"
   },
@@ -344,75 +272,45 @@
     "reasoning": "Content primarily discusses the implementation of Team Foundation Server and the competitive nature of the software industry, lacking personal reflections or insights.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:47:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the competitive nature of the software industry and the need for speed in delivering solutions, rather than focusing on discovery, learning, or innovation methodologies.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:47:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the speed of software delivery and the need for industrialisation in the software development process, with little focus on transparency or accountability within Agile teams.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-15T07:50:07",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content briefly mentions Team Foundation Server (TFS) as a tool that could facilitate collaboration in IT projects, which aligns with the category. However, the discussion lacks depth and does not provide a review or analysis of TFS or any literature related to Agile or DevOps. The focus is more on industry practices rather than specific products or books, leading to a lower confidence score.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-15T07:50:12",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 62.0,
     "ai_mentions": 3,
     "ai_alignment": 50.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the implementation of Team Foundation Server (TFS) and its implications for productivity in the software development industry, which does not directly reference Agile, Scrum, DevOps, or Lean methodologies. While it touches on themes of speed and efficiency in software delivery, it lacks a structured discussion of recognised frameworks or actionable insights. The mention of industrialisation in software development aligns with the broader context of business agility but does not delve into specific Agile principles, thus fitting the Miscellaneous category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T07:49:51",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the need for speed in software delivery and mentions Team Foundation Server (TFS) as a tool that can facilitate collaboration in IT projects. However, it lacks explicit references to core DevOps principles such as Continuous Integration (CI) or Continuous Delivery (CD). While it touches on the importance of reusing components and improving workflows, the discussion is more focused on the competitive nature of the industry rather than a comprehensive exploration of DevOps practices. Therefore, while there is some alignment with DevOps concepts, the depth and direct mentions are insufficient for a higher confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T09:47:47",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the need for speed and efficiency in software development, focusing on Team Foundation Server and its role in the industry, rather than the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-17T11:46:40",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses software development practices in general, focusing on speed and collaboration, without specifically addressing Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -445,10 +343,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T11:46:40",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses project implementation, speed in the industry, and collaboration tools without addressing the Definition of Done.",
     "level": "Ignored"
   },
@@ -463,13 +361,13 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T07:50:26",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of speed in software delivery and mentions the need for up-to-date information and component reuse, which aligns with some aspects of release management. However, it lacks explicit discussions on release planning, scheduling, or coordination between teams, which are critical to the category. The depth of discussion is moderate, focusing more on the general industry context rather than specific release management practices.",
     "level": "Ignored"
   },
@@ -480,15 +378,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the need for speed and efficiency in the software development process and mentions TFS without focusing on empirical process control, Agile practices, or decision-making based on observed evidence.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T11:46:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses industrialization and improvement of processes in software development without specific focus on Scaling Scrum principles or practices.",
     "level": "Ignored"
   },
   "Increment": {
@@ -520,34 +409,34 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-17T11:46:40",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the speed of software development and the importance of industrializing activities rather than focusing on Acceptance Test Driven Development or related topics.",
     "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-15T07:50:14",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 45.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 40.0,
+    "final_score": 45.0,
     "reasoning": "The content discusses the importance of speed in delivering software and mentions the need for up-to-date information to improve performance, which aligns with throughput concepts. However, it lacks explicit discussions on measuring throughput or specific strategies for optimisation, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-15T07:50:16",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content touches on aspects of decision-making, particularly in the context of the software development industry and the importance of timely data for management. However, it lacks explicit discussions on structured methodologies or evidence-based practices. The focus is more on the speed of delivery and competition rather than on collaborative decision-making or frameworks for evaluating options. Therefore, while there are relevant themes, they are not the primary focus, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -562,13 +451,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T07:50:29",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 45.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 42.0,
+    "final_score": 45.0,
     "reasoning": "The content discusses the importance of delivering software quickly and efficiently, which aligns with the concept of working software. However, it lacks direct mentions of Agile or Scrum principles and does not delve deeply into best practices or metrics for assessing software quality. The focus is more on the speed of delivery and the industrialisation of software development rather than on the characteristics of working software itself.",
     "level": "Tertiary"
   },
@@ -592,22 +481,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:50:19",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of speed in software delivery and mentions Team Foundation Server (TFS) as a tool for collaborative IT projects, which aligns with software development practices. However, the discussion is more focused on the business implications and competitive aspects rather than specific software development methodologies or best practices. The depth of discussion on software development concepts is moderate, but it lacks detailed exploration of methodologies or frameworks.",
     "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T11:46:40",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses organizational dynamics and the competitive speed in the mortgage industry without referencing Test First Development principles, practices, or related testing frameworks.",
     "level": "Ignored"
   },
@@ -622,10 +511,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T11:46:40",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation of TFS and industry competition, with little regard for team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -649,27 +538,27 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-15T07:50:23",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the need for speed and efficiency in software development, which aligns with the themes of digital transformation. However, it lacks explicit mentions of digital technologies or strategic initiatives related to digital transformation. The discussion is more focused on operational efficiency and competitive advantage rather than a comprehensive exploration of digital transformation strategies or frameworks.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-15T07:50:21",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of speed in software delivery and mentions the need for quick releases to stay competitive. However, it lacks explicit discussions on continuous delivery principles, automation techniques, or detailed strategies for frequent releases. The focus is more on the competitive aspect rather than the structured practices of frequent releases.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -680,21 +569,12 @@
     "reasoning": "Content discusses operational challenges and the need for speed in the software industry, but does not focus on long-term strategic goals or business agility.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T11:46:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses the need for efficiency and speed in software development but does not focus on scaling Agile practices, coordination among multiple teams, or enterprise-level strategies. The primary emphasis is on industrializing activities and technology infrastructure rather than Agile methodologies.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T11:46:40",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on software development processes, speed, and component reuse, but does not specifically address Lean principles or practices related to minimizing waste or maximizing learning in product development.",
     "level": "Ignored"
   },
@@ -709,10 +589,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T11:46:40",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of Team Foundation Server in relation to industrialization of activities and speed in software development, without focusing on team dynamics, collaboration, or Agile practices.",
     "level": "Ignored"
   },
@@ -754,24 +634,24 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T11:46:40",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses software development processes, team cooperation via technology, and industry competition, without focusing specifically on Scrum roles, collaboration practices, or team dynamics central to the Scrum framework.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-03-15T07:50:31",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of speed in software delivery and mentions the need to get software out quickly to stay competitive. However, it lacks a direct focus on deployment frequency as a primary topic and does not delve into specific strategies, metrics, or best practices related to deployment frequency. The discussion is more about general industry competitiveness and the need for efficient processes rather than a detailed exploration of deployment frequency within Agile or DevOps frameworks.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -793,10 +673,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-17T11:46:40",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses aspects of software development and collaboration but does not focus on asynchronous development principles or practices.",
     "level": "Ignored"
   },
@@ -811,10 +691,10 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T11:46:40",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses software implementation and the competitive nature of the industry rather than exploring methodologies for product discovery or understanding customer needs.",
     "level": "Ignored"
   },
@@ -856,10 +736,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T11:46:41",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the importance of speed and industrialization in software development, but does not focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -937,10 +817,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T11:46:41",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the speed and efficiency in software development and organizational challenges rather than focusing on the concept of Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -953,7 +833,7 @@
     "reasoning": "Content primarily discusses Team Foundation Server and general industry practices rather than Azure Boards specifically.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T11:46:41",
     "ai_confidence": 0,
@@ -964,10 +844,10 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-15T07:49:51",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "While there is a mention of Team Foundation Server (TFS) and some aspects of collaboration, the content primarily discusses broader themes of urgency in the software industry and the need for industrialization rather than focused modern source control practices.",
     "level": "Ignored"
   },
@@ -982,22 +862,22 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-17T11:46:41",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on software development speed, industrialization, and Team Foundation Server rather than BDD principles or practices.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-03-15T07:50:33",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of speed in software delivery and mentions the need to get software out quickly to stay competitive, which relates to Lead Time. However, it lacks explicit definitions or detailed discussions on measuring or optimising Lead Time. The focus is more on general industry speed rather than the specific metric of Lead Time.",
     "level": "Ignored"
   },
@@ -1009,18 +889,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation of Team Foundation Server and the need for quick information processing in the mortgage industry without clearly aligning with Agile principles or strategies.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T07:50:36",
-    "ai_confidence": 47.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 43.0,
-    "reasoning": "The content touches on the importance of speed in software delivery and mentions Team Foundation Server (TFS) as a tool for collaboration, which aligns with some aspects of Agile and DevOps. However, it lacks direct discussions on Agile methodologies, DevOps principles, or specific practices like TDD or CI/CD. The focus is more on the industrialisation of software development rather than the role of developers within Agile frameworks, leading to a moderate confidence score.",
-    "level": "Tertiary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1051,10 +919,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T11:46:41",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses implementation details, speed of software delivery in the mortgage industry, and the use of Team Foundation Server without clearly connecting to strategic product management principles.",
     "level": "Ignored"
   },
@@ -1076,30 +944,21 @@
     "reasoning": "Content primarily discusses software development processes and tools, with no clear focus on Scrum values.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T11:46:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses the need for speed and efficiency in software development without direct reference to Kanban principles or practices. It focuses more on TFS and component reuse rather than scaling Kanban.",
-    "level": "Ignored"
-  },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T11:46:41",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the importance of speed in product delivery and the need for solid component reuse, but does not specifically focus on validating product ideas through user engagement. The primary topic revolves around software development processes rather than product validation methodologies.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T11:46:41",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the need for speed in software development and the use of Team Foundation Server, without any mention or focus on the Product Backlog or its management within Agile frameworks.",
     "level": "Ignored"
   },
@@ -1123,24 +982,24 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T11:46:41",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the speed of software development and the use of tools for industrialized processes, without a focus on hypothesis formulation or experimentation.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T07:49:51",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the need for speed and efficiency in software delivery, which aligns with the principles of engineering excellence. However, it lacks direct mentions of specific engineering practices, such as coding standards or testing methodologies. The discussion is more focused on the competitive nature of the industry and the use of Team Foundation Server as a tool rather than a deep exploration of engineering excellence principles.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1171,25 +1030,25 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T07:50:41",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses practical aspects of software development and the need for efficient processes, which aligns with pragmatic thinking. It mentions the importance of speed and collaboration in the industry, reflecting real-world applications of Agile principles. However, it lacks direct references to Agile or Scrum methodologies and does not delve deeply into specific problem-solving strategies, which limits its overall alignment with the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-03-15T07:50:43",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of speed in the software industry and how it can lead to increased sales, particularly in the mortgage sector. However, it lacks explicit discussions on market share strategies, competitive analysis, or customer engagement. While there are mentions of competition and the need for efficiency, these are not directly tied to market share expansion methodologies or metrics, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -1222,10 +1081,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T11:46:41",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the efficiency and speed of software delivery, industrialization of activities, and collaboration tools, but does not focus on remote working practices, Agile principles, or challenges associated with distributed teams.",
     "level": "Ignored"
   },
@@ -1240,19 +1099,19 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T11:46:41",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses software development, team collaboration, and production efficiency without focusing on portfolio management or the alignment of strategy with execution.",
     "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T11:46:41",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses software development practices and project management without addressing working agreements, teamwork, or communication norms.",
     "level": "Ignored"
   },
@@ -1267,10 +1126,10 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T11:46:41",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on the speed of software delivery and aspects of industrialization rather than the principles or practices of scaling Agile methodologies across an organization.",
     "level": "Ignored"
   },
@@ -1292,33 +1151,24 @@
     "reasoning": "Content heavily discusses software development processes and Team Foundation Server, but does not mention test automation or its principles, practices, or tools.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T11:46:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses the need for speed and efficiency in software development and mentions Team Foundation Server, but does not specifically address Scrum principles, practices, or product development methodologies. It lacks a clear connection to Scrum and focuses more on general project management and industrialization of software processes.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-03-15T07:50:47",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Team Foundation Server (TFS) as a tool for collaboration in IT projects, but it lacks a detailed discussion on collaboration tools in the context of Agile methodologies. The focus is more on the speed of software delivery and the industrialisation of processes rather than on enhancing communication and coordination within Agile teams. While TFS is relevant, the overall content does not align closely with the core themes of collaboration tools.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T11:46:41",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content mainly discusses the implementation of TFS and the speed of software delivery in the context of the mortgage industry, without a focus on change management principles or strategies.",
     "level": "Ignored"
   },
@@ -1333,50 +1183,32 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T07:50:45",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the need for speed and efficiency in software delivery, which aligns with operational practices. However, it lacks direct mentions of specific methodologies like Agile or Lean, and the discussion is more anecdotal than detailed in terms of practical strategies or techniques for operational improvement.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T11:46:41",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on implementation details and operational efficiency rather than product strategy and vision.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T11:46:41",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the need for speed and efficiency in software development without a clear focus on measuring or enhancing innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T11:46:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses primarily on industrialization in software development and mentions Team Foundation Server without clear emphasis on scaling agile practices across an organization.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T11:46:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the need for speed and efficiency in software development and the use of Team Foundation Server for collaboration, without addressing agile principles, frameworks, or practices.",
+    "reasoning": "Content primarily discusses the need for speed and efficiency in software development without a clear focus on measuring or enhancing innovation capabilities.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -1399,13 +1231,13 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-15T07:50:39",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the need for collaboration in IT projects through Team Foundation Server, but it primarily focuses on the speed of software delivery and the competitive nature of the industry. While there are mentions of collaboration, they are not the primary focus, and the discussion lacks depth regarding team dynamics or specific strategies for enhancing collaboration within Agile or DevOps frameworks.",
     "level": "Ignored"
   },
@@ -1427,15 +1259,6 @@
     "reasoning": "Content is focused on software development speed, competition, and infrastructure rather than Value Stream Mapping or Lean principles.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T11:46:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses software development and project management tools but does not mention AI or its application in Agile, DevOps, or software development processes.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-17T11:46:41",
@@ -1447,10 +1270,10 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T11:46:41",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on software development processes and teamwork dynamics rather than specific responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
@@ -1474,10 +1297,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:55:05",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the need for efficient software development processes and mentions Team Foundation Server as a tool that could facilitate collaboration and component reuse, which are relevant to Internal Developer Platforms. However, the primary focus is on the broader context of software development and industry competition rather than specifically on IDPs.",
     "level": "Tertiary"
   },
@@ -1492,13 +1315,13 @@
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:52:04",
+    "calculated_at": "2025-04-10T15:57:17",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the need for speed in software delivery and the use of Team Foundation Server (TFS) for collaboration, but it does not explicitly mention the Shift-Left Strategy or its principles. While there are references to testing and component reuse, these are not explored in the context of integrating them earlier in the development lifecycle. The focus is more on competitive advantage and industrialisation rather than on proactive quality measures, which diminishes its alignment with the Shift-Left Strategy.",
     "level": "Ignored"
   }

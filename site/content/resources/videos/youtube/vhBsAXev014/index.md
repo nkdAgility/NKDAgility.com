@@ -2,7 +2,7 @@
 title: 7 Harbingers of the Agile apocalypse - Chaos
 description: "Master agile transformation! \U0001F31F Join Martin as he uncovers chaos pitfalls and the vital role of communication, direction, and alignment. \U0001F680"
 date: 2023-10-23T07:00:21Z
-weight: 700
+weight: 665
 ResourceId: vhBsAXev014
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -32,16 +32,33 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Transformation
 - Agile Strategy
 - Software Development
-- Agile Project Management
-- People and Process
+- Agile Transformation
 - Organisational Agility
 - Pragmatic Thinking
-- Agile Product Management
-- Agile Values and Principles
+- Enterprise Agility
 - Strategic Goals
+- Agile Product Management
+- Agile Leadership
+- Agile Philosophy
+- Agile Values and Principles
+- Business Agility
+- Common Goals
+- Complexity Thinking
+- Organisational Change
+- Agile Frameworks
+- Agile Planning
+- Digital Transformation
+- Market Adaptability
+- Organisational Culture
+- Social Technologies
+- Sociotechnical Systems
+- Systems Thinking
+- Team Collaboration
+- Team Motivation
+- Change Management
+- Product Delivery
 resourceTypes:
 - video
 categories:

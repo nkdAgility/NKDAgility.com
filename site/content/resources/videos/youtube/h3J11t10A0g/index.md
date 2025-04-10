@@ -2,7 +2,7 @@
 title: 'Navigating the Unpredictability of Software Development: Embrace Agile for Success'
 description: Navigate the complexities of software development with insights on technical leadership and Agile principles. Discover how to turn challenges into opportunities!
 date: 2024-12-02T06:00:00Z
-weight: 285
+weight: 220
 ResourceId: h3J11t10A0g
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -27,22 +27,34 @@ duration: 169
 isShort: false
 tags:
 - Software Development
-- Agile Project Management
-- Software Developers
 - Pragmatic Thinking
-- Agile Product Management
-- Technical Leadership
-- Working Software
 - Agile Frameworks
+- Value Delivery
+- Agile Product Management
 - Agile Transformation
+- Complexity Thinking
+- Organisational Agility
+- Working Software
 - Product Delivery
+- Agile Philosophy
+- Agile Strategy
+- Agile Values and Principles
+- Agile Planning
+- Business Agility
+- Engineering Practices
+- Operational Practices
+- Continuous Delivery
+- Market Adaptability
+- Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
+- Product Development
 - Engineering Excellence
+- Technical Leadership
 
 ---
 In my experience working with various organisations, one of the most prevalent issues I encounter is the struggle with missed deadlines and budget overruns in software projects. It’s a challenge that seems to plague many, and it often feels like you’re holding onto a bag that’s slowly melting away, spilling its contents all over the street. This unpredictability is a fundamental reality of navigating complexity in software development.

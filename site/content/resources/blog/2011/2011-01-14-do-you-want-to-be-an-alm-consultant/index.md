@@ -9,7 +9,7 @@ ResourceImportId: 17
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2011-01-14
-weight: 410
+weight: 355
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,6 +30,7 @@ aliasesArchive:
 tags:
 - Software Development
 - Application Lifecycle Management
+- Technical Mastery
 categories: []
 preview: metro-visual-studio-2010-128-link-3-3.png
 

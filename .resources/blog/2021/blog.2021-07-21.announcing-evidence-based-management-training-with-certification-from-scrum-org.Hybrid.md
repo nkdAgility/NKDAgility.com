@@ -9,7 +9,7 @@ ResourceImportId: 46257
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-07-21
-weight: 770
+weight: 750
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -33,16 +33,25 @@ tags:
 - Evidence Based Leadership
 - Evidence Based Management
 - Decision Making
-- Agile Leadership
-- Agile Project Management
-- Events and Presentations
-- Metrics and Learning
-- People and Process
 - Strategic Goals
+- Agile Leadership
+- Empirical Process Control
+- Pragmatic Thinking
+- Software Development
+- Metrics and Learning
 - Value Delivery
+- Agile Frameworks
+- Ability to Innovate
+- Agile Product Management
+- Agile Strategy
+- Agile Transformation
+- Common Goals
+- Continuous Improvement
+- Operational Practices
+- Competence
 categories:
 - Leadership
-- Social Technologies
+- Product Management
 - Scrum
 preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
 

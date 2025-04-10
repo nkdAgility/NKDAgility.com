@@ -9,7 +9,7 @@ ResourceImportId: 50083
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-09-27
-weight: 650
+weight: 610
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -30,15 +30,17 @@ aliasesArchive:
 - /resources/blog/the-definition-of-done-ensuring-quality-without-compromising-value
 tags:
 - Definition of Done
-- Transparency
 - Software Development
-- Professional Scrum
 - Working Software
-- Agile Project Management
-- Scrum Product Development
+- Professional Scrum
+- Transparency
+- Empirical Process Control
+- Pragmatic Thinking
 - Product Delivery
-- Software Developers
-- Transparency and Accountability
+- Agile Product Management
+- Increment
+- Value Delivery
+- Engineering Practices
 categories:
 - Scrum
 - Engineering Excellence

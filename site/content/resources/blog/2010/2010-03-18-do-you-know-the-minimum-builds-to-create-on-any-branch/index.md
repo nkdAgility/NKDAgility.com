@@ -9,7 +9,7 @@ ResourceImportId: 60
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-18
-weight: 650
+weight: 610
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,11 +29,21 @@ aliasesArchive:
 - /resources/blog/do-you-know-the-minimum-builds-to-create-on-any-branch
 tags:
 - Software Development
-- Practical Techniques and Tooling
 - Continuous Integration
-- Modern Source Control
 - Technical Excellence
+- Modern Source Control
 - Engineering Practices
+- Azure Pipelines
+- Azure DevOps
+- Automated Testing
+- Continuous Delivery
+- Operational Practices
+- Pragmatic Thinking
+- Release Management
+- Technical Mastery
+- Working Software
+- Install and Configuration
+- Product Delivery
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
 - Engineering Excellence

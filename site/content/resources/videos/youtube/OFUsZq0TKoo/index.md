@@ -25,16 +25,32 @@ preview: https://i.ytimg.com/vi/OFUsZq0TKoo/maxresdefault.jpg
 duration: 269
 isShort: false
 tags:
-- Discovery and Learning
+- Pragmatic Thinking
 - Product Discovery
 - Value Delivery
-- Pragmatic Thinking
-- Lean Product Development
-- People and Process
 - Organisational Agility
+- Lean Product Development
+- Continuous Improvement
 - Continuous Learning
 - Hypothesis Driven Development
+- Lean Principles
 - Agile Product Management
+- Evidence Based Leadership
+- Team Collaboration
+- Ability to Innovate
+- Agile Philosophy
+- Agile Values and Principles
+- Business Agility
+- Lean Startup
+- Social Technologies
+- Experimentation
+- Metrics and Learning
+- Empirical Process Control
+- Operational Practices
+- Product Validation
+- Decision Making
+- Evidence Based Management
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,6 +59,7 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Lean
 
 ---
 As I reflect on my journey in product development, I can’t help but think about the transformative power of structured learning. Recently, I had the opportunity to delve into a course that promises to change the game for anyone involved in product development. I want to share my insights on how this course can significantly enhance your approach to creating user value, reducing waste, and fostering collaboration.

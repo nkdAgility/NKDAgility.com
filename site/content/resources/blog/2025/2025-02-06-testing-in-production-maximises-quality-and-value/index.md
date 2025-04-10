@@ -6,7 +6,7 @@ ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-02-13T09:00:00
-weight: 320
+weight: 255
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -26,18 +26,43 @@ aliasesArchive:
 - /blog/testing-in-production-maximises-quality-and-value
 tags:
 - Software Development
+- Organisational Agility
+- Technical Mastery
 - Value Delivery
 - Working Software
 - Deployment Strategies
-- Azure DevOps
-- Continuous Delivery
-- Product Delivery
-- Organisational Agility
-- Technical Mastery
 - Frequent Releases
+- Pragmatic Thinking
+- Release Management
+- Azure DevOps
+- Operational Practices
+- Technical Excellence
+- Market Adaptability
+- Continuous Delivery
+- Deployment Frequency
+- Product Delivery
+- Engineering Practices
+- Continuous Improvement
+- Digital Transformation
+- Shift-Left Strategy
+- Business Agility
+- Customer Feedback Loops
+- Experimentation
+- Metrics and Learning
+- Ability to Innovate
+- Azure Pipelines
+- Agile Strategy
+- Empirical Process Control
+- Enterprise Agility
+- Flow Efficiency
+- Product Validation
+- Trend Analysis
+- Increment
+- Time to Market
 categories:
-- DevOps
+- Product Development
 - Engineering Excellence
+- DevOps
 preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
 marketing: []
 

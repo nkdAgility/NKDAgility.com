@@ -9,7 +9,7 @@ ResourceImportId: 49510
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-08-10
-weight: 720
+weight: 690
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -26,15 +26,22 @@ aliasesArchive:
 - /resources/blog/navigating-the-future-with-a-fine-tuned-product-backlog
 tags:
 - Professional Scrum
+- Agile Planning
 - Agile Product Management
 - Backlog Refinement
-- Scrum Product Development
+- Software Development
 - Product Backlog
-- Agile Planning
-- Agile Project Management
 - Product Delivery
 - Product Owner
 - Value Delivery
+- Agile Planning Tools
+- Pragmatic Thinking
+- Agile Frameworks
+- Transparency
+- Agile Strategy
+- Common Goals
+- Working Software
+- Agile Transformation
 categories:
 - Scrum
 - Product Management

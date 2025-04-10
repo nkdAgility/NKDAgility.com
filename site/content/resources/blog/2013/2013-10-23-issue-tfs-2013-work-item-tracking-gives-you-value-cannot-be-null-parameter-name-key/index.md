@@ -9,7 +9,7 @@ ResourceImportId: 10221
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-10-23
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,6 +31,10 @@ tags:
 - Troubleshooting
 - Software Development
 - Pragmatic Thinking
+- Azure DevOps
+- Azure Boards
+- Working Software
+- System Configuration
 categories: []
 
 ---

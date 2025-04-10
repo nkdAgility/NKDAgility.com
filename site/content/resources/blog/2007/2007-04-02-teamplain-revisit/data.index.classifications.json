@@ -1,24 +1,15 @@
 {
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T09:17:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a workaround for project name issues in a specific software context, with no mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-15T07:48:46",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 42.0,
     "ai_mentions": 10,
     "ai_alignment": 25,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses a workaround for a specific issue encountered during the use of TeamPlain, which relates to configuration challenges. However, it lacks a comprehensive step-by-step installation guide or detailed configuration best practices. The mention of JavaScript code provides some technical insight, but the overall focus is more on a specific problem rather than a broader discussion on installation and configuration processes.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -27,24 +18,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical workaround for project name issues in a software context, with no focus on decision-making processes or related theories.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:17:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical workaround for a project naming issue, with no significant focus on team dynamics, collaboration, or process methodologies.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:17:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a technical workaround for a project naming issue without addressing organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -94,13 +67,13 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T07:48:46",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a workaround related to project names in a TeamPlain context, which is tangentially related to Azure DevOps. However, it lacks explicit references to Azure DevOps services or methodologies, and the focus is more on a specific issue rather than a broader discussion of Azure DevOps functionalities or best practices.",
     "level": "Ignored"
   },
@@ -115,10 +88,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:17:57",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical workaround for project name issues and does not focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -131,27 +104,15 @@
     "reasoning": "Content primarily discusses a workaround for project name issues in a specific tool, lacking a focus on platform engineering principles or internal developer platforms.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T07:48:46",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10,
-    "ai_alignment": 25,
-    "ai_depth": 15,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses a specific coding workaround related to project name handling in a dropdown list, which touches on code quality and maintainability. However, it lacks a broader discussion on complexity theory or best practices in software development. The focus is primarily on a tactical solution rather than an exploration of the interplay between code quality and complexity, resulting in a low confidence score.",
-    "level": "Ignored"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-04-08T21:23:32",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a technical workaround for project management in TeamPlain, focusing on JavaScript code rather than any evidence-based management principles. There are no direct mentions of EBM concepts, and the discussion lacks depth in relation to data-informed decision-making or metrics relevant to EBM.",
     "level": "Ignored"
   },
@@ -209,36 +170,15 @@
     "reasoning": "Content primarily discusses a technical workaround for project naming issues and does not address Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:18:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical workaround for a specific issue in TeamPlain, lacking broader industry news or reviews.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T10:53:31",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses a specific workaround for a project management tool, which aligns with practical techniques. However, it lacks depth in exploring broader methodologies or frameworks, and the focus is primarily on a single tactical solution rather than a comprehensive discussion of tooling or Agile/DevOps practices.",
-    "level": "Tertiary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T07:48:46",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions ALM in the tags but primarily focuses on a specific technical workaround related to project naming in a software tool. It does not discuss the broader aspects of Application Lifecycle Management, such as methodologies, governance, or lifecycle stages, which are essential for a higher confidence score.",
     "level": "Ignored"
   },
@@ -262,23 +202,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-04-08T21:23:29",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a workaround for project naming issues in TeamPlain, focusing on a JavaScript solution rather than any principles or practices related to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management, or the core themes of APOM, leading to a very low confidence score.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:18:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical workaround for project naming issues and includes code, with no reference to events or presentations.",
     "level": "Ignored"
   },
   "Agile Product Management": {
@@ -317,54 +248,27 @@
     "reasoning": "Content primarily discusses a technical workaround for a project naming issue and includes code, lacking personal reflections or insights related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:18:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical workaround for a specific project issue without focusing on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:18:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical workaround for project name issues and does not address transparency or accountability within Agile teams.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:18:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical workaround for a specific software issue, without focusing on products, books, or Agile methodologies.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-11T15:21:19",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 72.0,
     "ai_mentions": 10.0,
     "ai_alignment": 60.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses a workaround for a technical issue related to project naming in a software tool, which does not directly reference Agile, Scrum, DevOps, or Lean methodologies. While it provides a specific coding solution, it lacks a broader context or actionable insights related to recognised Agile practices. The discussion is anecdotal and focuses on personal experience rather than established frameworks, aligning it with the Miscellaneous category.",
     "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-04-08T21:23:15",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a workaround for project name issues in TeamPlain, which is more related to project management and JavaScript coding than to DevOps principles. There are no direct mentions of DevOps concepts, and the discussion lacks depth in terms of collaboration, automation, or shared accountability, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
@@ -415,22 +319,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T16:38:16",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a workaround for project naming issues and includes JavaScript code, which is not related to the Definition of Done.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-04-08T21:23:37",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a workaround for project name issues in TeamPlain, focusing on a JavaScript solution. It does not address Continuous Delivery principles, practices, or related topics, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
@@ -450,15 +354,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical workaround related to project names, with no mention of empirical process control principles or Agile practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T16:38:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical workaround related to project naming in a software application, and does not address Scaling Scrum practices or any related topics.",
     "level": "Ignored"
   },
   "Increment": {
@@ -481,13 +376,13 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T07:48:46",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a workaround for a specific issue related to project naming in a system, which touches on configuration aspects. However, it lacks a comprehensive exploration of system configuration principles, best practices, or detailed methodologies. The focus is more on a tactical solution rather than a broader discussion on system configuration, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -529,13 +424,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T07:48:51",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a workaround for a specific software issue related to project naming in a dropdown list, which touches on the functionality of software. However, it lacks a broader discussion on working software principles, quality assurance, or customer feedback, making it only tangentially related to the category.",
     "level": "Ignored"
   },
@@ -559,43 +454,43 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:48:52",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses a specific workaround related to project naming in a software context, which aligns with software development practices. However, it lacks a broader discussion on methodologies or best practices, and the depth of technical detail is limited to a specific code snippet without extensive explanation.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T21:23:34",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a workaround for project name issues in TeamPlain and provides a JavaScript solution. It does not mention Test First Development, success criteria, or any related testing practices. The focus is on a tactical coding solution rather than any principles or practices associated with Test First Development.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T16:38:16",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical workaround involving JavaScript and project naming issues, rather than organisational change strategies or methodologies.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T16:38:16",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical workarounds and coding solutions without addressing team dynamics or motivation strategies.",
     "level": "Ignored"
   },
@@ -644,15 +539,6 @@
     "reasoning": "Content focuses on a tactical workaround for a specific project naming issue rather than discussing long-term strategic goals or business agility.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T16:38:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a specific coding issue and workaround related to project naming in a software tool, without reference to Agile practices or scaling Agile across teams.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-17T16:38:16",
@@ -673,10 +559,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T16:38:16",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is mainly a technical description of a workaround involving project naming conventions and JavaScript code, with no focus on team performance, collaboration, or Agile principles.",
     "level": "Ignored"
   },
@@ -709,22 +595,22 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T07:48:48",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a specific problem encountered with long project names and provides a workaround using JavaScript. This aligns with troubleshooting as it identifies a technical issue and offers a practical solution. However, the discussion lacks depth in terms of broader troubleshooting techniques or methodologies, focusing instead on a singular workaround without exploring other potential solutions or diagnostic strategies.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T16:38:16",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not discuss Scrum roles, dynamics, or collaboration; it is focused on a technical workaround related to project naming and JavaScript coding.",
     "level": "Ignored"
   },
@@ -748,13 +634,13 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:48:54",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a specific workaround for a technical issue related to project naming in a software context, which touches on aspects of software craftsmanship. However, it lacks a broader discussion on best practices, principles, or methodologies that would elevate it to a higher level of technical mastery. The focus is primarily on a tactical solution rather than a comprehensive exploration of software engineering excellence.",
     "level": "Ignored"
   },
@@ -823,10 +709,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:38:16",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on a specific technical workaround related to project name handling and does not discuss Agile values or principles.",
     "level": "Ignored"
   },
@@ -841,13 +727,13 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-03-15T07:48:56",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a workaround for a specific problem related to project naming conventions, which hints at a tactical approach to addressing a short-term issue. However, it lacks a comprehensive discussion on technical debt concepts, such as its impact on long-term maintainability or strategies for remediation. The focus is primarily on a specific coding solution rather than a broader examination of technical debt management.",
     "level": "Ignored"
   },
@@ -907,10 +793,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T16:38:16",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on troubleshooting a software issue and providing a workaround, with no mention of Definition of Ready concepts or Agile practices.",
     "level": "Ignored"
   },
@@ -923,7 +809,7 @@
     "reasoning": "The content discusses a workaround related to project names in TeamPlain, which is not directly about Azure Boards, Agile project management, or its functionalities.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T16:38:16",
     "ai_confidence": 0,
@@ -975,18 +861,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical workaround related to project names and does not align with Agile Strategy principles or discussions.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T07:49:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses a specific coding workaround related to project names in a software context, which is relevant to software developers. However, it lacks explicit references to Agile or DevOps methodologies, and the discussion is primarily focused on a tactical solution rather than broader practices or principles that enhance productivity or collaboration. The depth of the technical solution is moderate, but it does not explore the implications for team dynamics or developer practices in a significant way.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -1041,15 +915,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on a technical workaround for project name issues and includes JavaScript code, without relevant discussion of Scrum values.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T16:38:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific coding workaround for project naming issues in TeamPlain, which is unrelated to Kanban principles or scaling practices.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -1135,13 +1000,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T07:48:58",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a practical workaround for a specific problem encountered in a project management context, demonstrating pragmatic thinking. It mentions the challenges of long project names and provides a JavaScript solution, which aligns with the category's focus on practical problem-solving strategies. However, the discussion lacks depth in terms of broader Agile or Scrum principles and does not provide extensive detail on navigating complexity or uncertainty, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -1253,15 +1118,6 @@
     "reasoning": "Content mainly discusses a workaround for UI issues in project names and includes JavaScript code, which is not focused on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T16:38:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a technical workaround for project naming issues in a software project management system, with no clear connection to Scrum principles or product development practices.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
     "calculated_at": "2025-02-17T16:38:17",
@@ -1273,22 +1129,22 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T16:38:17",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical workaround for issues with project names and does not address change management principles or practices.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T21:23:40",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a technical workaround for project management in TeamPlain, with no direct mention of Scrum Master responsibilities or related concepts. While it touches on project management, it lacks any discussion of Scrum principles, team dynamics, or the role of a Scrum Master, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
@@ -1319,24 +1175,6 @@
     "reasoning": "Content mainly discusses a tactical workaround for a specific project name issue and does not focus on the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T16:38:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a specific technical workaround for project naming issues and does not discuss scaling agile practices or frameworks.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T16:38:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical workaround related to project naming issues, with no clear focus on Agile methodologies or principles.",
-    "level": "Ignored"
-  },
   "Trend Analysis": {
     "category": "Trend Analysis",
     "calculated_at": "2025-02-17T16:38:17",
@@ -1357,10 +1195,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T16:38:17",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a technical workaround for project naming issues and JavaScript code implementation, without discussing team collaboration or dynamics.",
     "level": "Ignored"
   },
@@ -1380,15 +1218,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses a workaround for project naming in a software context, with no relevance to Value Stream Mapping or Lean principles.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T16:38:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses a workaround for project name issues in project management software, with no focus on AI or its integration into Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1411,13 +1240,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-04-08T21:23:18",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a technical workaround for a project management tool, specifically addressing a JavaScript solution for long project names. It lacks direct mentions of social technologies, collaboration, or decision-making frameworks. While it touches on project management, it does not align with the core themes of social technologies, such as self-organisation or collective intelligence. The depth of discussion is minimal, focusing solely on a tactical coding solution without exploring broader implications for team dynamics or organisational culture.",
     "level": "Ignored"
   },
@@ -1450,73 +1279,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:22:30",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily discusses a technical workaround related to project naming in a software context, with no explicit mention of Scrum principles, roles, or events. It lacks alignment with Scrum's core themes and does not provide any depth on Scrum practices or frameworks.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:51:03",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a workaround for a specific technical issue related to project naming in a software tool, without any mention or discussion of integrating testing, security, or compliance earlier in the development process. It lacks alignment with the core themes of the Shift-Left Strategy and does not provide any depth on the topic.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-04-08T21:23:20",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a technical workaround for a specific project management issue, lacking any explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on project management, it does not align with the core themes of shared objectives or strategic alignment, and the depth of discussion is minimal, focusing instead on a tactical solution.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-04-08T21:23:22",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on a technical workaround for a specific project management issue, lacking direct discussions on competence, continuous learning, or skill development. While it demonstrates a practical solution, it does not align with the core themes of competence in Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-04-08T21:23:24",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a specific workaround for a technical issue related to project names in TeamPlain. While it does touch on problem-solving, it lacks a broader discussion on Continuous Improvement principles, such as empirical evidence, team effectiveness, or a culture of experimentation. The mention of a 'tactical workaround' suggests a short-term fix rather than a commitment to ongoing improvement, which is a key aspect of the Continuous Improvement category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T21:23:27",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 10.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on a workaround for a technical issue in project management software, lacking any explicit discussion of Agentic Agility principles. While it demonstrates some adaptability in problem-solving, it does not engage with the core themes of intentionality, accountability, or the interplay between human and AI capabilities. The discussion is more about tactical solutions rather than a transformative capacity or proactive intervention.",
     "level": "Ignored"
   }

@@ -9,7 +9,7 @@ ResourceImportId: 10446
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-03-20
-weight: 495
+weight: 440
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,16 +28,31 @@ aliasesArchive:
 - /blog/what-my-father-taught-me-about-evidence-based-management-(34-years-before-it-was-invented-)
 - /resources/blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
 tags:
-- Evidence Based Management
-- Evidence Based Leadership
 - Decision Making
+- Evidence Based Leadership
+- Evidence Based Management
+- Pragmatic Thinking
 - Metrics and Learning
 - Value Delivery
-- Pragmatic Thinking
-- People and Process
+- Ability to Innovate
+- Continuous Improvement
+- Empirical Process Control
 - Organisational Agility
 - Software Development
-- Ability to Innovate
+- Operational Practices
+- Agile Strategy
+- Customer Satisfaction
+- Organisational Change
+- Sociotechnical Systems
+- Agile Product Management
+- Agile Transformation
+- Enterprise Agility
+- Lead Time
+- Social Technologies
+- Competence
+- Sensemaking
+- Business Agility
+- Change Management
 categories:
 - Product Management
 - Scrum

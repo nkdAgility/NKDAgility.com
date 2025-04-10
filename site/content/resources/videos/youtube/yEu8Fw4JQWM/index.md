@@ -2,7 +2,7 @@
 title: In WIP, less is more.  Why?
 description: "Unlock productivity with 'Less is More' in Agile! Discover how minimalism transforms workflows and boosts efficiency. Watch now! \U0001F680"
 date: 2023-05-09T07:00:19Z
-weight: 850
+weight: 840
 ResourceId: yEu8Fw4JQWM
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,16 +29,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Flow Efficiency
 - Operational Practices
-- Agile Project Management
+- Flow Efficiency
 - Throughput
 - Pragmatic Thinking
 - Agile Frameworks
+- Software Development
 - Agile Transformation
 - Lean Thinking
-- Software Development
 - Lean Principles
+- Organisational Agility
+- Agile Planning
+- Lean Product Development
+- Value Delivery
+- Product Delivery
 resourceTypes:
 - video
 categories:

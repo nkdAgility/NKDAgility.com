@@ -30,16 +30,31 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Evidence Based Leadership
 - Decision Making
 - Evidence Based Management
-- Evidence Based Leadership
 - Continuous Improvement
 - Ability to Innovate
-- Discovery and Learning
 - Pragmatic Thinking
 - Operational Practices
+- Metrics and Learning
 - Customer Satisfaction
 - Value Delivery
+- Decision Theory
+- Software Development
+- Empirical Process Control
+- Sensemaking
+- Revenue per Employee
+- Agile Product Management
+- Agile Strategy
+- Organisational Agility
+- Organisational Change
+- Social Technologies
+- Working Software
+- Business Agility
+- Product Validation
+- Customer Retention
+- Strategic Goals
 resourceTypes:
 - video
 layout: video

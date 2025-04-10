@@ -9,7 +9,7 @@ ResourceImportId: 258
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-31
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,9 +24,9 @@ aliasesArchive:
 - /new-event-handlers
 - /resources/blog/new-event-handlers
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
 - Software Development
+- System Configuration
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

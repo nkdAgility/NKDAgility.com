@@ -23,7 +23,8 @@ aliasesArchive:
 - /blog/rtm-confusion
 - /rtm-confusion
 - /resources/blog/rtm-confusion
-tags: []
+tags:
+- Miscellaneous
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

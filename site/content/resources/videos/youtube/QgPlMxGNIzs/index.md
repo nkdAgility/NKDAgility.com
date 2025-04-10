@@ -2,7 +2,7 @@
 title: How do you think Agile is evolving since its inception in 2001?
 description: "Discover the evolution of Agile since 2001, its challenges, and the future of work in dynamic environments. Join Martin on this insightful journey! \U0001F310\U0001F680"
 date: 2023-02-15T07:00:07Z
-weight: 695
+weight: 665
 ResourceId: QgPlMxGNIzs
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -31,18 +31,29 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
-- Agile Values and Principles
-- Agile Project Management
-- People and Process
 - Agile Transformation
-- Agile Philosophy
 - Organisational Agility
+- Agile Philosophy
+- Agile Values and Principles
+- Enterprise Agility
 - Agile Frameworks
 - Agile Leadership
 - Agile Strategy
+- Organisational Change
+- Sociotechnical Systems
+- Business Agility
+- Organisational Culture
+- Agile Planning
+- Agile Product Management
+- Pragmatic Thinking
+- Product Delivery
+- Social Technologies
+- Market Adaptability
+- Beta Codex
 resourceTypes:
 - video
-categories: []
+categories:
+- Leadership
 
 ---
 How do you think Agile is evolving since its inception in 2001?

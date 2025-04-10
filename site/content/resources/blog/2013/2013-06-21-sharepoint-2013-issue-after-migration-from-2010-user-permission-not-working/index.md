@@ -9,7 +9,7 @@ ResourceImportId: 9906
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-21
-weight: 890
+weight: 875
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -33,7 +33,8 @@ tags:
 - Troubleshooting
 - Install and Configuration
 - System Configuration
-- Practical Techniques and Tooling
+- Technical Mastery
+- Software Development
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

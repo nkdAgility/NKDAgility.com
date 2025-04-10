@@ -29,7 +29,8 @@ aliasesArchive:
 - /visual-studio-2010-overview---introduction
 - /blog/visual-studio-2010-overview---introduction
 - /resources/blog/visual-studio-2010-overview-introduction
-tags: []
+tags:
+- Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories: []
 

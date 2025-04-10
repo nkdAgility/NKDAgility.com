@@ -9,7 +9,7 @@ ResourceImportId: 11456
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2017-11-10
-weight: 300
+weight: 230
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -29,16 +29,24 @@ aliasesArchive:
 - /blog/getting-started-with-a-modern-source-control-system-and-devops
 - /resources/blog/getting-started-with-modern-source-control-system-and-devops
 tags:
+- Technical Mastery
 - Operational Practices
 - Software Development
 - Engineering Practices
-- Software Developers
-- Practical Techniques and Tooling
-- Technical Mastery
 - Modern Source Control
 - Pragmatic Thinking
-- Test First Development
 - Value Delivery
+- Azure DevOps
+- Continuous Delivery
+- Technical Excellence
+- Test First Development
+- Working Software
+- Product Delivery
+- Application Lifecycle Management
+- Frequent Releases
+- Release Management
+- Deployment Frequency
+- Market Adaptability
 categories:
 - Engineering Excellence
 - DevOps

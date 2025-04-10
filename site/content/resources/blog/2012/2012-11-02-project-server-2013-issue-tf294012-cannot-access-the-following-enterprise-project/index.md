@@ -32,6 +32,9 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Install and Configuration
+- Pragmatic Thinking
+- Windows
+- System Configuration
 categories: []
 preview: metro-problem-icon-8-8.png
 

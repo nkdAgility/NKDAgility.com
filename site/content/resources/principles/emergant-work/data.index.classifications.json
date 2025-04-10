@@ -64,10 +64,10 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-12T21:03:44",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on updating work based on user feedback, which does not clearly align with evidence-based leadership principles or practices.",
     "level": "Ignored"
   },
@@ -82,13 +82,13 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-14T17:59:22",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions user feedback, which is relevant to product management, but lacks depth and does not explicitly discuss strategic alignment or methodologies. The focus on timelines is too vague to provide substantial insight into product management practices.",
     "level": "Ignored"
   },
@@ -130,15 +130,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-14T17:59:40",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 45.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 40.0,
+    "final_score": 45.0,
     "reasoning": "The content briefly mentions user feedback, which is relevant to working software, but lacks explicit discussion on the characteristics or delivery of functional software. The alignment with core themes is minimal, focusing only on timelines without elaborating on quality or customer value. The depth of discussion is very limited, providing no detailed insights or examples.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -169,13 +169,13 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-03-14T17:59:48",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 35.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 32.0,
+    "final_score": 35.0,
     "reasoning": "The content briefly mentions user feedback, which aligns with the Lean principle of incorporating customer insights for product iterations. However, it lacks a detailed discussion on Lean principles, waste reduction, or specific techniques, resulting in a low confidence score. The focus on timelines does not sufficiently connect to the broader themes of Lean Product Development.",
     "level": "Ignored"
   },
@@ -190,13 +190,13 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-03-14T17:59:50",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 45.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 42.0,
+    "final_score": 45.0,
     "reasoning": "The content briefly mentions user feedback, indicating some level of engagement with customer feedback loops. However, it lacks detailed discussion on mechanisms for collecting or integrating feedback into the product development process. The focus on updating work based on feedback suggests a recognition of its importance, but does not explore the broader practices or strategies associated with effective feedback loops.",
     "level": "Tertiary"
   },
@@ -238,13 +238,13 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-03-14T17:59:35",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions updating work based on user feedback, which aligns with the concept of gathering user insights. However, it lacks depth and does not explore broader strategies for customer retention or engagement. The focus is too narrow to warrant a higher confidence score.",
     "level": "Ignored"
   },
@@ -284,15 +284,6 @@
     "reasoning": "Content does not discuss Agile frameworks or their principles; it focuses on updating work based on user feedback without reference to any specific Agile methodology.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T21:04:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on updating work based on user feedback, which is more related to team-level agile practices rather than scaling agility across an organisation.",
-    "level": "Ignored"
-  },
   "Team Collaboration": {
     "category": "Team Collaboration",
     "calculated_at": "2025-02-12T21:04:20",
@@ -304,13 +295,13 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-03-14T17:59:45",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 35.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 32.0,
+    "final_score": 35.0,
     "reasoning": "The content briefly mentions user feedback, which relates to customer satisfaction, but does not provide a comprehensive discussion on the principles or practices of measuring or enhancing customer happiness. The focus is more on updating work rather than exploring customer satisfaction in depth, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -442,27 +433,27 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-14T17:59:22",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 35.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 32.0,
+    "final_score": 35.0,
     "reasoning": "The content briefly mentions updating work based on user feedback, which aligns with the concept of adaptation in empirical process control. However, it lacks explicit discussion of transparency, inspection, or detailed practices related to empirical process control, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-03-14T17:59:22",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 45.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 40.0,
+    "final_score": 45.0,
     "reasoning": "The content briefly mentions updating work based on user feedback, which aligns with the concept of customer feedback loops. However, it lacks depth and does not explore methodologies or practices related to product validation in detail. The primary focus is not clearly established, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -482,36 +473,27 @@
     "reasoning": "Content primarily discusses updating work based on user feedback and does not address revenue per employee or related financial metrics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-12T21:04:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide sufficient detail or focus on the role of software developers within Agile or DevOps contexts; it only mentions user feedback and timelines without discussing relevant practices or methodologies.",
-    "level": "Ignored"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:44:17",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content briefly touches on the concept of adapting work based on user feedback, which could relate to iterative development practices. However, it does not explicitly mention Test First Development principles, success criteria, or any testing methodologies. The focus is more on emergent work rather than a structured approach to testing and development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-14T17:59:31",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 35.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 32.0,
+    "final_score": 35.0,
     "reasoning": "The content briefly mentions updating work based on user feedback, which aligns with the concept of frequent releases. However, it lacks explicit discussion on the principles of continuous delivery or deployment, and does not provide sufficient depth or detail on strategies, techniques, or best practices related to frequent releases. The focus is more on user feedback rather than the broader context of release frequency.",
     "level": "Ignored"
   },
@@ -569,15 +551,6 @@
     "reasoning": "Content briefly mentions timelines but does not focus on Lead Time as a primary topic or provide relevant discussions on its measurement or importance.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T21:04:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on updating work based on user feedback, which does not relate to scaling Agile practices or coordination among multiple teams.",
-    "level": "Ignored"
-  },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
     "calculated_at": "2025-02-12T21:05:01",
@@ -589,23 +562,14 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-03-14T17:59:22",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly mentions updating work based on user feedback, which implies a connection to deployment frequency. However, it lacks explicit discussion on deployment intervals, strategies for increasing frequency, or detailed insights into Agile and DevOps practices. The mention of timelines suggests a focus on responsiveness rather than a comprehensive exploration of deployment frequency.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T21:05:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content briefly mentions updating work based on user feedback, which is a general concept and does not specifically address agile methodologies or principles.",
     "level": "Ignored"
   },
   "Continuous Integration": {
@@ -628,13 +592,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T17:05:22",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 35.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 32.0,
+    "final_score": 35.0,
     "reasoning": "The content briefly mentions updating work based on user feedback, which aligns with the rapid feedback aspect of Continuous Delivery. However, it lacks explicit discussion of Continuous Delivery principles, automation, or detailed strategies for incremental improvements. The focus appears more on general work processes rather than a dedicated exploration of Continuous Delivery.",
     "level": "Ignored"
   },
@@ -681,24 +645,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss team dynamics, collaboration, or Agile methodologies; it focuses on updating work based on user feedback.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T21:05:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on updating work based on user feedback, which does not relate to AI or its application in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T21:05:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Kanban principles or scaling; it focuses on updating work based on user feedback.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -773,18 +719,6 @@
     "reasoning": "Content discusses user feedback and timelines, which are not related to test automation principles or practices.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-14T17:59:37",
-    "ai_confidence": 35.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
-    "ai_depth": 5.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions updating work based on user feedback, which aligns with the importance of customer feedback in Scrum. However, it lacks explicit references to Scrum roles, processes, or detailed discussions on product development methodologies, resulting in a low confidence score.",
-    "level": "Ignored"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
     "calculated_at": "2025-02-12T21:05:36",
@@ -796,13 +730,13 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:05:27",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 24.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly touches on the concept of updating work based on user feedback, which aligns with the idea of empirical decision-making. However, it lacks explicit discussion of Evidence-Based Management principles, key metrics, or a detailed exploration of how data informs decisions. The focus is more on the emergence of work rather than a structured approach to management based on evidence.",
     "level": "Ignored"
   },
@@ -815,24 +749,15 @@
     "reasoning": "Content does not discuss backlog refinement or related Agile practices; it focuses on updating work based on user feedback.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T21:05:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scaling Scrum principles, frameworks, or practices; it focuses on user feedback and timelines, which are not central to the category.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T15:44:14",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly touches on the concept of work emerging through user feedback, which aligns with agile principles but lacks explicit discussion of the Scrum Master role or responsibilities. It does not provide sufficient depth or detail related to the Scrum Master, making it a secondary mention rather than a primary focus.",
     "level": "Ignored"
   },
@@ -865,25 +790,25 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-03-14T17:59:28",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 35.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 32.0,
+    "final_score": 35.0,
     "reasoning": "The content briefly mentions user feedback, which is relevant to product discovery, but lacks depth and does not explore methodologies or practices in detail. The focus on timelines does not align closely with the core themes of understanding customer needs or defining product features.",
     "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-03-14T17:59:24",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly mentions updating work based on user feedback, which aligns with the Lean Startup principle of iterating based on customer input. However, it lacks explicit references to key concepts such as MVP, the Build-Measure-Learn loop, or validated learning. The discussion is too vague and does not provide sufficient detail to strongly support the Lean Startup methodology.",
     "level": "Ignored"
   },
@@ -905,7 +830,7 @@
     "reasoning": "Content does not discuss accountability, ownership, or team dynamics in Agile; it focuses on updating work based on user feedback.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T21:06:00",
     "ai_confidence": 0,
@@ -1085,15 +1010,6 @@
     "reasoning": "Content primarily discusses user feedback and timelines, which are not central to Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T21:02:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses updating work based on user feedback, which does not directly address organisational resilience or change management strategies.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
     "calculated_at": "2025-02-12T21:02:52",
@@ -1101,15 +1017,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on updating work based on user feedback, which does not relate to installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T21:02:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses user feedback and timelines, which are not related to software code quality or complexity.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1121,26 +1028,17 @@
     "reasoning": "Content does not discuss flow efficiency principles, techniques, or metrics; it focuses on updating work based on user feedback.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T21:02:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss AI or automation in Agile practices; it focuses on updating work based on user feedback.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-14T17:59:22",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 45.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 40.0,
+    "final_score": 45.0,
     "reasoning": "The content briefly mentions updating work based on user feedback, which aligns with the iterative development aspect of product delivery. However, it lacks explicit discussion of methodologies, practices, or detailed processes involved in product delivery, resulting in a low confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1149,18 +1047,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content briefly mentions user feedback but does not provide substantial discussion on Agile Product Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-14T17:59:42",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content briefly mentions user feedback, which aligns with the category's emphasis on integrating user insights into the development cycle. However, it lacks a detailed discussion on methodologies or processes that foster learning and innovation, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Systems Thinking": {
@@ -1181,42 +1067,15 @@
     "reasoning": "Content does not discuss complexity science or its principles; it focuses on user feedback and timelines, which are not central to the topic of Complexity Thinking.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T21:03:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on updating work based on user feedback, which does not directly address transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T21:03:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss specific tools, methodologies, or frameworks related to Agile and DevOps practices; it only mentions updating work based on user feedback.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T21:03:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on updating work based on user feedback and does not discuss any events, presentations, or related topics.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-14T17:59:33",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions updating work based on user feedback, which aligns with the concept of responsiveness to market demands. However, it lacks explicit discussions on Agile methodologies, DevOps practices, or detailed strategies for enhancing market adaptability. The mention of timelines suggests a focus on agility, but the overall depth and clarity are insufficient for a higher confidence score.",
     "level": "Ignored"
   },
@@ -1231,13 +1090,13 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T11:13:14",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the concept of updating work based on user feedback, which aligns with the DevOps principle of feedback loops. However, it lacks explicit mentions of DevOps as a philosophy or detailed discussion on its core themes, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -1248,15 +1107,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not specifically mention Azure DevOps or its functionalities; it focuses on user feedback and timelines, which are not central to Azure DevOps discussions.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T21:03:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss any specific products, books, or relevant methodologies; it focuses on user feedback and timelines.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -1279,13 +1129,13 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-14T17:59:43",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions updating work based on user feedback, which aligns with the concept of iterating based on customer needs. However, it lacks depth and does not explore methodologies or strategies for value delivery in detail, nor does it discuss broader Agile or DevOps practices. The focus is too narrow to warrant a higher confidence score.",
     "level": "Ignored"
   },
@@ -1300,13 +1150,13 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-14T17:59:26",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 35.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 32.0,
+    "final_score": 35.0,
     "reasoning": "The content briefly mentions updating work based on user feedback, which aligns with the concept of integrating customer feedback into product development. However, it lacks a detailed discussion on agile methodologies, leadership roles, or broader strategies for organisational agility, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -1319,15 +1169,6 @@
     "reasoning": "Content focuses on updating work based on user feedback, lacking personal reflections or experiences related to Agile methodologies.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-12T21:03:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on updating work based on user feedback, which does not clearly address team dynamics, collaboration, or structured methodologies in technology and product development.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-12T21:03:26",
@@ -1335,15 +1176,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on updating work based on user feedback, which does not address the interplay between technology and organisational structures or the integration of social and technical aspects within organisations.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T21:03:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on updating work based on user feedback, lacking relevance to industry news or reviews in Agile or DevOps.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
@@ -1393,13 +1225,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:48:38",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the concept of emergent work, which aligns with the idea of adaptability and iterative processes in social technologies. However, it lacks explicit discussions on collaboration, decision-making, or value delivery, and does not provide sufficient depth or detail on these themes.",
     "level": "Ignored"
   },
@@ -1414,13 +1246,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T11:13:16",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly touches on the concept of emerging work and user feedback, which aligns with agile principles of responsiveness and iterative delivery. However, it lacks explicit discussion of the Agile Product Operating Model, its core principles, or detailed exploration of product management practices. The focus is too vague and does not provide sufficient depth or direct mentions to warrant a higher confidence score.",
     "level": "Ignored"
   },
@@ -1453,85 +1285,85 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T17:59:22",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content briefly touches on the concept of updating work based on user feedback, which aligns with the Agile principle of responding to change. However, it lacks explicit mentions of Scrum roles, events, or artifacts, and does not provide any detailed discussion on Scrum practices or frameworks. Therefore, while there is a minimal connection to Scrum principles, the overall focus is insufficient for a strong classification.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:41:02",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content briefly touches on updating work based on user feedback, which could imply a focus on iterative improvement, but it does not explicitly mention or align with the principles of the Shift-Left Strategy. There is no discussion of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. Overall, the content is too vague and unrelated to the core themes of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:05:13",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions updating work based on user feedback, which aligns with the concept of Continuous Improvement. However, it lacks a detailed discussion on the principles, techniques, or strategies associated with Continuous Improvement, making it a secondary focus rather than a primary one.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:05:16",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the idea of updating work based on user feedback, which could relate to aligning efforts with goals. However, it lacks explicit discussion of Common Goals, their significance, or how they connect to Agile and DevOps principles. The mention of timelines suggests a tactical approach but does not delve into the strategic alignment or ownership aspects that are central to the category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:05:18",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly touches on the idea of updating work based on user feedback, which implies a level of responsiveness and adaptability. However, it lacks explicit discussions on competence, continuous learning, or skill development. The mention of 'emerging work' suggests a process but does not delve into the foundational principles of competence as defined in Agile and DevOps contexts.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:05:20",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content briefly touches on the concept of updating work based on user feedback, which could relate to improving processes, but it lacks explicit discussion of the One Engineering System framework or its principles. The mention of timelines suggests a focus on efficiency, but it does not provide sufficient detail or context to align with the core themes of 1ES.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T15:44:11",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content briefly touches on the idea of adapting work based on user feedback, which hints at some level of responsiveness and adaptability. However, it lacks explicit discussions on intentional shaping of outcomes, the distinction between human and AI capabilities, or any depth regarding the principles of Agentic Agility. Overall, it does not sufficiently engage with the core themes of the category.",
     "level": "Ignored"
   }

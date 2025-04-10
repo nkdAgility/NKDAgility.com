@@ -2,7 +2,7 @@
 title: Overview of the 'scaling with portfolio Kanban' course
 description: Unlock organisational efficiency with our "Applying Scaling Portfolio Kanban" course! Learn to manage project portfolios effectively and enhance value delivery.
 date: 2024-02-22T07:00:26Z
-weight: 775
+weight: 750
 ResourceId: kOj-O99mUZE
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -31,19 +31,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scaling Kanban
 - Operational Practices
-- Portfolio Management
 - Agile Frameworks
-- Agile Project Management
-- Value Delivery
-- Large Scale Agility
-- Product Delivery
+- Portfolio Management
 - Flow Efficiency
+- Value Delivery
+- Enterprise Agility
 - Agile Strategy
+- Large Scale Agility
+- Pragmatic Thinking
+- Product Delivery
+- Organisational Physics
+- Throughput
+- Organisational Agility
+- Software Development
+- Systems Thinking
+- Forecasting
 resourceTypes:
 - video
-categories: []
+categories:
+- Kanban
 
 ---
 ### Scaling Portfolio Kanban: Enhancing Flow and Predictability at the Organizational Level

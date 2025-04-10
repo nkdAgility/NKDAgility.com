@@ -30,8 +30,6 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
-- Agile Project Management
-- Products and Books
 resourceTypes:
 - video
 categories:

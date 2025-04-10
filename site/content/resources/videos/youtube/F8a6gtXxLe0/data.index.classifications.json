@@ -1,25 +1,25 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T21:14:26",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Scrum, which is a framework within Agile methodologies, rather than focusing on DevOps principles. While it touches on collaboration and process improvement, it lacks direct references to key DevOps concepts such as automation, shared accountability, or continuous delivery. The discussion is more about Scrum's role in enhancing team workflows than about the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:23:04",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of understanding Scrum processes and how this understanding fosters collaboration and improves value delivery. While it does mention key aspects of social technologies, such as enhanced collaboration and empowered teams, the primary focus is on Scrum as a framework rather than on broader social technologies. The depth of discussion on social frameworks is moderate, but it does not fully explore the underlying principles of self-organisation or collective intelligence in a comprehensive manner.",
     "level": "Secondary"
   },
@@ -34,13 +34,13 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-15T03:42:53",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a developer's personal experience with Scrum and process improvement rather than on leadership practices. While there are mentions of the importance of understanding processes and delivering value, the discussion lacks explicit references to leadership roles, strategies, or frameworks. The content does not delve deeply into how leadership influences team dynamics or organisational performance, which are key aspects of the leadership category.",
     "level": "Ignored"
   },
@@ -73,10 +73,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T11:35:51",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the experience of training individuals and a personal story related to opposition rather than metrics, data analysis, or continuous improvement methodologies.",
     "level": "Ignored"
   },
@@ -96,24 +96,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses a personal experience related to training individuals at Healthgrades, with no clear focus on Agile frameworks or their principles.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is about a personal experience with training and does not discuss Scrum principles, roles, or product development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content mainly discusses a personal experience related to resistance towards training, with no focus on structured events, presentations, or discussions about Agile or DevOps practices.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -190,10 +172,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T11:35:51",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on training and personal opinions related to an interview, without any relevant discussion on the Definition of Done.",
     "level": "Ignored"
   },
@@ -244,13 +226,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T21:14:48",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Scrum and Agile methodologies, focusing on process improvement rather than Continuous Delivery specifically. While it touches on themes of delivering value and improving collaboration, it lacks a direct focus on Continuous Delivery principles, such as automation, rapid feedback, and incremental improvements. The discussion is more about understanding processes than about the practices and tools that enable Continuous Delivery.",
     "level": "Ignored"
   },
@@ -452,15 +434,6 @@
     "reasoning": "Content focuses on personal opinions and experiences related to training and team dynamics, not on technical practices or software craftsmanship.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on personal experiences related to training individuals rather than discussing software developers' roles within Agile or DevOps frameworks.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T11:35:51",
@@ -468,15 +441,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses an individual's resistance to training in a specific context, but does not address Lean Product Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses training and team dynamics, which are not related to software code quality or complexity.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -508,13 +472,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T17:33:51",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of understanding Scrum processes and their impact on team dynamics and collaboration, which aligns well with the responsibilities of a Scrum Master. It highlights the transformative power of Scrum and the need for process awareness, which are key themes in the Scrum Master role. However, while it touches on the Scrum framework and its benefits, it does not delve deeply into the specific responsibilities or techniques of a Scrum Master, leading to a slightly lower depth score.",
     "level": "Secondary"
   },
@@ -590,15 +554,6 @@
     "reasoning": "Content focuses on personal experiences and reactions related to training rather than on structured frameworks or methodologies for organisational change.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a personal experience relating to training individuals at Healthgrades and does not discuss scaling Agile practices or any related frameworks or strategies.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "calculated_at": "2025-02-18T11:35:51",
@@ -607,18 +562,6 @@
     "final_score": 0.0,
     "reasoning": "Content focuses on individual experiences related to training in a corporate setting, with no clear discussion on Lean principles or practices.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-07T14:32:48",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 32.0,
-    "non_ai_confidence": 20,
-    "final_score": 76.0,
-    "reasoning": "The content discusses the transformation of a developer's mindset regarding Scrum and the importance of understanding processes in software development. It highlights team dynamics, the necessity of process awareness among all team members, and the impact of these factors on delivering valuable products. While it does not delve deeply into specific methodologies or leadership roles, it aligns well with the core themes of the category, particularly in terms of collaboration and process improvement.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -667,10 +610,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T11:35:51",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not discuss the Definition of Ready or any related concepts; it focuses on personal experiences regarding training at Healthgrades.",
     "level": "Ignored"
   },
@@ -683,7 +626,7 @@
     "reasoning": "Content is about a personal experience related to a training event and does not address Lead Time or its related themes.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T11:35:51",
     "ai_confidence": 0,
@@ -699,15 +642,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on a specific individual’s experience and opposition to training, without addressing Agile leadership principles or the role of leaders in guiding teams or fostering an Agile culture.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses training and personal experiences at Healthgrades, without any mention of AI, automation, or Agile practices.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -755,15 +689,6 @@
     "reasoning": "The content primarily discusses an individual's experience with training at Healthgrades and does not focus on strategies or methodologies that enhance market adaptability.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on training individuals at Healthgrades and personal opinions rather than AI applications in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Working Software": {
     "category": "Working Software",
     "calculated_at": "2025-02-18T11:35:51",
@@ -809,15 +734,6 @@
     "reasoning": "Content focuses on a personal experience regarding training at Healthgrades and does not address any aspects of the Product Backlog or Agile practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on an individual's training experience at Healthgrades and does not discuss agile project management principles, methodologies, or frameworks.",
-    "level": "Ignored"
-  },
   "Psychological Safety": {
     "category": "Psychological Safety",
     "calculated_at": "2025-02-18T11:35:51",
@@ -836,24 +752,6 @@
     "reasoning": "Content primarily discusses training experiences and interpersonal dynamics rather than identifying or resolving technical issues.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about training experiences and individual opinions rather than discussing specific products, books, or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a personal account of training experiences and anecdotal events, lacking a clear connection to industry news or reviews relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
     "calculated_at": "2025-02-18T11:35:51",
@@ -865,24 +763,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-10T14:39:02",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content provides a personal narrative from Dave Fresh, detailing his initial resistance to Scrum and how his perspective changed through a course. This aligns well with the Personal category as it shares individual reflections and insights on the impact of Scrum on his mindset and work processes. The direct mention of personal experiences and the challenges faced in adopting Scrum practices contribute significantly to the confidence score. However, while the content is rich in personal anecdotes, it also includes some technical aspects of Scrum, which slightly detracts from the overall focus on personal insights.",
     "level": "Secondary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses an individual's experience with training personnel and does not focus on Scaling Scrum principles, frameworks, or practices.",
-    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -922,25 +811,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:33:48",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Scrum and process improvement rather than Test First Development. While it touches on collaboration and delivery, it lacks explicit references to success criteria, automated testing, or Test-Driven Development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-15T03:42:53",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 12.0,
     "ai_mentions": 5,
     "ai_alignment": 10,
     "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses Scrum principles and practices, detailing a personal experience with Scrum training and its impact on the author's mindset. It explicitly references Scrum and its processes, which directly ties it to Agile methodologies, thus not aligning with the Miscellaneous category. The discussion is focused on specific frameworks and actionable insights related to Scrum, which are strictly excluded from this category.",
     "level": "Ignored"
   },
@@ -1016,15 +905,6 @@
     "reasoning": "Content primarily discusses an individual's experience with training at Healthgrades, not directly related to product delivery methodologies or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on individual training experiences and personal opinions rather than on scaling agile practices across the organization.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
     "calculated_at": "2025-02-18T11:35:51",
@@ -1052,24 +932,6 @@
     "reasoning": "Content focuses on individual training experiences and personal opinions rather than on portfolio management topics.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the resistance to training and a personal anecdote, without focusing on organisational resilience or change management strategies.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses a personal experience related to training and resistance to it, without focusing on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
     "calculated_at": "2025-02-18T11:35:51",
@@ -1086,15 +948,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on training individuals at Healthgrades and does not discuss software delivery, release frequency, or related themes.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on a personal experience related to training individuals rather than discussing specific tools, methodologies, or practices relevant to Agile and DevOps.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1144,24 +997,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T21:14:42",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily discusses Scrum and its processes, which are part of Agile methodologies, but it does not explicitly address the Agile Product Operating Model or its principles. While it touches on themes of collaboration and process improvement, it lacks a direct focus on product management aspects and the broader framework of APOM. The depth of discussion on Scrum processes is significant, but it does not sufficiently align with the core topics of the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on interpersonal dynamics and resistance to training rather than on discovery, learning processes, or methodologies related to innovation in product development.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1188,15 +1032,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on a personal story about training and team dynamics, with no mention of automated testing principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on an individual's experience with training and does not address Kanban principles, practices, or scaling in any meaningful way.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
@@ -1273,10 +1108,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T11:35:51",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a training experience and personal reactions, without a focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -1354,31 +1189,31 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T21:14:44",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Scrum and Agile methodologies, focusing on process improvement and team dynamics rather than empirical evidence or data-informed decision-making. While it touches on the importance of understanding processes and delivering value, it lacks a strong emphasis on metrics or evidence-based practices that are central to Evidence-Based Management.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T11:35:51",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on personal experiences related to training and team dynamics rather than installation and configuration topics.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T11:35:51",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses training and resistance to change rather than measuring or enhancing innovation capabilities.",
     "level": "Ignored"
   },
@@ -1411,85 +1246,85 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:33:42",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 78.0,
     "ai_mentions": 70.0,
     "ai_alignment": 80.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 75.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly discusses Scrum principles and their impact on the author's mindset and team performance. It mentions the importance of understanding Scrum processes and how they lead to delivering valuable software in sprints. The discussion aligns well with key Scrum topics such as iterative progress and the need for a structured approach to project management. The depth of the discussion is significant, as it reflects on personal experiences and the transformation in mindset regarding Scrum practices.",
     "level": "Secondary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:14:21",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Scrum and process improvement rather than explicitly addressing the Shift-Left Strategy. While it touches on the importance of understanding processes and collaboration, it does not delve into integrating testing, security, or compliance earlier in the development lifecycle, which are core aspects of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T21:14:29",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of understanding and refining processes within the Scrum framework, which aligns well with the principles of Continuous Improvement. It highlights the transformation in mindset regarding process awareness and its impact on team collaboration and delivery. The discussion is detailed, providing insights into the benefits of process awareness and the necessity of embracing process improvement, which are core themes of Continuous Improvement. However, while it touches on these topics, it does not delve deeply into empirical evidence or specific Continuous Improvement frameworks, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T21:14:32",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of understanding Scrum processes and how this awareness can enhance collaboration and delivery. However, it primarily focuses on personal experiences and insights rather than explicitly addressing the concept of Common Goals. While there are mentions of teamwork and process improvement, the discussion lacks a direct connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T21:14:35",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of understanding processes in Scrum, which aligns with the principles of competence by emphasising continuous learning and skill development. It highlights the transformation in mindset regarding process awareness, which is crucial for delivering quality outcomes and maintaining trust within teams. The depth of discussion is substantial, providing insights into how process awareness can enhance collaboration and improve delivery, thus fostering a culture of competence. However, while competence is a significant theme, the primary focus is more on process improvement rather than competence itself, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T21:14:38",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Scrum, which is a specific Agile methodology, rather than the broader principles of the One Engineering System (1ES). While it touches on process improvement and collaboration, it does not explicitly mention 1ES or its components. The focus is on individual experiences and insights related to Scrum, which does not align closely with the core themes of 1ES, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T17:33:46",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Scrum and process improvement, with a focus on individual experiences rather than the intentional shaping of outcomes through agency. While it touches on themes of collaboration and understanding processes, it lacks a clear distinction between Human and AI Agentic Agility and does not delve into the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }

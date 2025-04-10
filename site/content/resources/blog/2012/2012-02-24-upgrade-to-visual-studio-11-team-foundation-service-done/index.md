@@ -9,7 +9,7 @@ ResourceImportId: 4573
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-24
-weight: 810
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,9 +30,14 @@ aliasesArchive:
 - /blog/upgrade-to-visual-studio-11-team-foundation-service---done
 - /resources/blog/upgrade-to-visual-studio-11-team-foundation-service-done
 tags:
-- Practical Techniques and Tooling
-- Install and Configuration
 - Software Development
+- Install and Configuration
+- Azure DevOps
+- Application Lifecycle Management
+- Frequent Releases
+- Pragmatic Thinking
+- Working Software
+- Modern Source Control
 categories: []
 
 ---

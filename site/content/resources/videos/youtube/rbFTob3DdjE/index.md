@@ -27,20 +27,22 @@ duration: 39
 isShort: true
 tags:
 - Team Collaboration
-- Practical Techniques and Tooling
 - Remote Working
+- Pragmatic Thinking
 - Scrum Master
 - Scrum Team
-- Products and Books
-- Pragmatic Thinking
+- Social Technologies
+- Agile Product Management
+- Collaboration Tools
+- Software Development
+- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 As a Scrum Master, I’ve developed a fondness for digital whiteboards. It’s a love that transcends the specific platform; whether it’s Mural, Miro, Lucid Spark, or even Microsoft Whiteboards, the essence remains the same. These tools have become indispensable in my toolkit, enabling me to create compelling interactive experiences for teams, workshops, and even our daily scrums.

@@ -1,26 +1,14 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-15T04:49:29",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses Scrum training courses and their benefits, which is related to Agile methodologies. However, it lacks a direct focus on Agile Product Management principles such as product backlog prioritisation, stakeholder engagement, or customer feedback integration. While it mentions the importance of understanding Scrum for teams adopting Agile, it does not delve into product management strategies or practices that maximise product value.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T04:49:16",
-    "ai_confidence": 68.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 60.0,
-    "non_ai_confidence": 20,
-    "final_score": 63.0,
-    "reasoning": "The content discusses various Scrum courses and their relevance to Agile practices, which aligns with the category's focus on practical techniques and tooling. It mentions specific training programmes and their benefits for team performance and understanding of Scrum, indicating a direct application of methodologies. However, while it provides some depth on the courses, it lacks extensive detail on the tools and frameworks that enhance Agile and DevOps practices, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -44,36 +32,6 @@
     "reasoning": "The content primarily focuses on Scrum training and courses, with no explicit discussion of Evidence-Based Management principles or metrics. While it mentions the importance of a consistent understanding of Scrum, it does not provide empirical evidence or data-informed decision-making related to EBM. The content lacks depth in discussing any of the key topics associated with Evidence-Based Management.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T11:49:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum training and courses, with no clear focus on code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-15T04:49:07",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on promoting Scrum training courses and their benefits, with limited direct discussion on discovery and learning processes. While it mentions the importance of a common understanding of Scrum and the potential for team members to learn from the courses, it lacks a deeper exploration of methodologies that foster innovation or continuous learning. The emphasis is more on the mechanics of Scrum rather than on the learning and discovery aspects that are central to the category.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T11:49:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Scrum training and courses without any mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Lean": {
     "category": "Lean",
     "calculated_at": "2025-02-15T11:49:15",
@@ -85,20 +43,11 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T11:49:16",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum training courses and their benefits, rather than installation or configuration of tools or software.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T11:49:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum training courses and their benefits, without a clear focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -112,34 +61,25 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-15T04:49:20",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum training courses and their mechanics, with limited discussion on the interplay between technology and organisational structures. While it mentions the importance of a common understanding within teams and the role of training in fostering collaboration, it lacks a deeper exploration of sociotechnical interactions or organisational culture. The emphasis is more on technical training rather than the broader sociotechnical implications.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum training and its role in fostering a common understanding and adoption of agile practices, which can contribute to organisational resilience and adaptability. However, the primary focus is on the training courses rather than a comprehensive discussion on resilience and change.",
-    "level": "Tertiary"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T07:34:59",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum training and methodologies, which are not aligned with the core principles of DevOps. While there are mentions of team collaboration and agile adoption, these concepts are framed within the context of Scrum rather than the broader DevOps philosophy. The discussion lacks depth regarding DevOps practices, automation, or shared accountability, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -161,18 +101,6 @@
     "reasoning": "Content primarily discusses Scrum training courses and their benefits, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-07T14:55:28",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content primarily discusses the Professional Scrum Foundations course, which is a training event. It mentions the course details, target audience, and the benefits of attending, aligning well with the category of events and presentations. However, while it provides some depth about the courses, it lacks explicit references to specific events or presentations beyond the course descriptions, which slightly lowers the confidence score.",
-    "level": "Secondary"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T11:49:31",
@@ -182,45 +110,33 @@
     "reasoning": "Content primarily discusses Scrum training courses and their benefits, without a clear focus on flow efficiency principles or optimisation of work throughput.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-10T12:44:26",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses various Scrum courses and their impact on team dynamics and understanding of the Scrum framework. It highlights the importance of collaboration among different roles within an organisation and how training can catalyse adoption and improve communication. The mention of personal experiences and the need for coaching further aligns with the human factors influencing processes. However, while it touches on these themes, the primary focus remains on the courses themselves rather than a deeper exploration of the interplay between people and processes.",
-    "level": "Secondary"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-15T04:49:18",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum training courses and their benefits for teams, which is more aligned with team-level agile practices rather than enterprise-level agility. While it mentions the importance of a common understanding of Scrum across the organisation, it lacks a broader discussion on organisational structures, leadership roles, or strategies for fostering a culture of agility. The depth of discussion on Scrum practices is significant, but it does not adequately address the key topics of enterprise agility.",
     "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-15T11:49:36",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum training courses and their mechanics, rather than focusing on the principles and practices of business agility.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T11:49:37",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum training courses and their benefits, without a focus on metrics, data utilisation, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -262,22 +178,22 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T04:49:31",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15,
     "ai_alignment": 25,
     "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses various Scrum courses and their relevance to Agile methodologies, which are integral to product delivery. It highlights the importance of consistent training and understanding of Scrum principles, which aligns with the core themes of product delivery. However, the focus is more on training and less on the end-to-end delivery process, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-15T11:49:46",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum training and courses, which are focused on traditional agile practices rather than the principles of BetaCodex.",
     "level": "Ignored"
   },
@@ -290,27 +206,15 @@
     "reasoning": "Content heavily discusses Scrum training and methodologies, which are not directly related to Value Stream Management.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-10T14:47:08",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content primarily discusses various Professional Scrum courses offered by Scrum.org, which aligns well with the category of 'Products and Books' as it provides insights into training resources that enhance understanding and implementation of Agile principles. The mention of specific courses, their target audiences, and the benefits they provide indicates a strong focus on products related to Agile methodologies. However, while the content is detailed, it lacks a broader analysis or review of the methodologies themselves, which slightly lowers the depth score.",
-    "level": "Secondary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-15T04:49:22",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Scrum training and its importance in fostering a common understanding of the framework, which indirectly relates to value delivery. However, it lacks explicit discussions on value management strategies, customer feedback alignment, or continuous delivery practices. The focus is more on training and course offerings rather than on delivering value to customers.",
     "level": "Ignored"
   },
@@ -325,10 +229,10 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:08:53",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content includes personal anecdotes about experiences with Scrum training and reflections on the impact of courses, but it primarily focuses on promoting Scrum courses and their benefits.",
     "level": "Tertiary"
   },
@@ -343,45 +247,36 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T11:49:56",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum training and courses, which are not related to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T07:35:12",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum training and courses, which are related to agile practices but do not specifically address the Agile Product Operating Model. While it mentions the importance of understanding Scrum within organisations, it lacks a direct discussion on transitioning to a product-oriented mindset or the core principles of the Agile Product Operating Model. The depth of discussion is limited to training offerings rather than a comprehensive exploration of APOM concepts.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-15T04:49:40",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on Scrum training courses and their benefits, which are related to Agile methodologies. However, it lacks a direct discussion on organisational agility as a primary focus. While it mentions the importance of understanding Scrum across various roles in an organisation, it does not delve deeply into the broader strategies or cultural shifts necessary for enhancing organisational agility. The discussion is more about training and certification rather than the principles and practices that enable an organisation to respond swiftly to changes.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses upcoming Professional Scrum courses and their relevance to Scrum adoption, which aligns with industry updates. However, it primarily focuses on course details rather than broader news or reviews.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -394,19 +289,19 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-15T17:51:37",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Professional Scrum training and courses rather than the Daily Scrum event or its specific practices.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T17:51:37",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on Scrum training courses and their benefits, with no direct discussion of the Definition of Done.",
     "level": "Ignored"
   },
@@ -430,13 +325,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T07:35:18",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum training and methodologies, with no direct discussion of Continuous Delivery principles or practices. While it touches on aspects of agile adoption, it does not delve into the automation, incremental improvements, or rapid feedback that are central to Continuous Delivery. Therefore, it lacks the necessary depth and alignment with the category.",
     "level": "Ignored"
   },
@@ -451,31 +346,31 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T17:51:37",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Professional Scrum training courses and their benefits, without focusing on the concept of Lead Time or its measurement.",
     "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-03-15T04:48:59",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum training courses and their mechanics rather than discussing organisational culture directly. While it mentions the importance of a common understanding of Scrum and the role of training in fostering adoption, it lacks a deep exploration of how organisational culture influences agility or team dynamics. The references to culture are secondary and do not provide substantial insights into the key topics outlined for the category.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T17:51:37",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Scrum training courses and the role of trainers, not on the Definition of Ready or criteria for backlog item readiness.",
     "level": "Ignored"
   },
@@ -499,15 +394,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-15T04:49:44",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses Scrum training courses and their benefits, which are related to Agile methodologies. However, it lacks a direct focus on Agile Planning principles, techniques, or strategies. While it mentions the importance of understanding Scrum for effective team collaboration, it does not delve into planning practices or iterative processes that are central to Agile Planning.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -529,46 +424,46 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T04:49:01",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Scrum training courses and their benefits, which are related to operational practices in a broad sense. However, it lacks a focused discussion on specific operational efficiency techniques, metrics, or strategies that are central to the category. While it mentions the importance of a common understanding of Scrum and the role of training in adoption, it does not delve deeply into process optimisation or continuous improvement strategies, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-15T04:49:14",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses various Scrum courses and their relevance to different roles within a Scrum Team, such as Scrum Masters and Development Team members. However, it primarily focuses on training and certification rather than the dynamics, collaboration, and practices of a Scrum Team. While it mentions roles and the importance of a common understanding of Scrum, it lacks in-depth discussion on team dynamics, collaboration techniques, or continuous improvement practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T09:08:53",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily discusses Professional Scrum training and courses, but it also touches on the values and principles of Scrum that contribute to agile adoption, indicating a secondary theme related to Agile Philosophy.",
     "level": "Tertiary"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-15T04:49:53",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the promotion of Scrum training courses and their benefits rather than discussing strategic approaches within Agile, Scrum, or DevOps frameworks. While it mentions the importance of a common understanding of Scrum and the role of training in adoption, it lacks a detailed exploration of strategic alignment, value-driven approaches, or techniques for optimising delivery. The discussion is more about the mechanics of Scrum and training rather than strategic formulation or execution.",
     "level": "Ignored"
   },
@@ -583,27 +478,27 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-11T10:27:05",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses Scrum training courses and their benefits, which are relevant to Agile practices. However, it lacks a broader discussion on Agile transformation strategies, change management, or leadership roles, which are critical for a comprehensive understanding of Agile transformation. While it mentions the importance of instilling Agile values and principles, it does not delve deeply into the methodologies or frameworks for transformation, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-03-15T04:49:57",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on Scrum training courses and their benefits, with only a brief mention of the role of coaching and mentoring in the context of Scrum adoption. While it touches on the importance of having a coach to help teams adhere to Agile principles, it lacks detailed discussions on mentoring techniques, strategies for developing leadership skills, or fostering a culture of continuous learning, which are key aspects of the mentoring category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -616,15 +511,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-15T04:49:33",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses Scrum training and its importance in fostering a common understanding of the framework among team members, which aligns with the category's focus on enhancing team dynamics and collaboration. However, it primarily serves as promotional material for courses rather than a deep exploration of team performance strategies or methodologies. The mention of the impact of training on team cohesion and understanding is relevant but lacks depth and direct discussion of performance metrics or specific team dynamics.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Increment": {
     "category": "Increment",
@@ -637,36 +532,24 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T17:51:37",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum training and roles without a focus on Acceptance Test Driven Development or acceptance criteria.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T14:57:46",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on Professional Scrum training, which is a key aspect of Agile methodologies in software development. It discusses various Scrum courses, their objectives, and the benefits of adopting Scrum practices within teams. The mention of Scrum roles, the importance of consistent training, and the impact of these courses on software development processes demonstrate a strong alignment with the core themes of software development. The depth of discussion regarding the courses and their relevance to software engineering practices further supports a high confidence score.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-10T18:36:31",
-    "ai_confidence": 82.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content extensively discusses various Scrum courses, their purposes, and the importance of understanding the Scrum framework within an organisation. It highlights the roles of Scrum Masters and the collaborative nature of Scrum training, aligning well with agile principles. The depth of discussion on training and adoption strategies indicates a strong focus on Agile Project Management.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -682,13 +565,13 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-11T11:52:35",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on Professional Scrum training courses, detailing the Professional Scrum Foundations, Scrum Master, and Developer courses. It discusses the importance of these courses in fostering a common understanding of Scrum principles and practices, which aligns well with the core themes of the category. The depth of discussion includes specific course details and personal anecdotes that illustrate the impact of training on Scrum adoption. However, while it mentions Scrum roles and principles, it does not delve deeply into the theoretical foundations or broader Scrum practices beyond the training context.",
     "level": "Secondary"
   },
@@ -703,27 +586,27 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-15T04:49:49",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on promoting Scrum training courses and the benefits of standardised training. While it mentions Scrum and the importance of understanding the framework, it lacks a direct discussion on empirical process control principles such as transparency, inspection, and adaptation. The content does not provide in-depth analysis or case studies related to empirical process control, which diminishes its relevance to the category.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-03-15T04:49:09",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses Scrum training and courses, which indirectly relates to Scrum Values by mentioning the importance of instilling values and principles in teams. However, it lacks direct references to the specific Scrum Values such as Commitment, Courage, Focus, Openness, and Respect. The discussion is more focused on the mechanics of Scrum and the benefits of training rather than a deep exploration of the values themselves.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -736,22 +619,22 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T17:51:38",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training courses and does not discuss collaboration tools or their specific impact on Agile teams.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-15T04:48:56",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Scrum training courses and their benefits, which are related to Agile methodologies. While it touches on the importance of understanding Scrum within an organisation, it lacks a focused discussion on broader organisational change strategies, frameworks, or leadership roles in driving change. The mention of Scrum as an adoption catalyst hints at organisational change but does not delve into the processes or methodologies that facilitate effective change management.",
     "level": "Ignored"
   },
@@ -782,21 +665,12 @@
     "reasoning": "Content primarily discusses Scrum training courses and their benefits rather than customer satisfaction principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-03-15T04:48:49",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "Content discusses Scrum courses and training which indicates a focus on Scrum but does not primarily address scaling practices or frameworks for large organizations.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-15T17:51:38",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on Scrum courses and training, with no clear emphasis on evidence-based leadership practices or empirical decision-making.",
     "level": "Ignored"
   },
@@ -809,27 +683,15 @@
     "reasoning": "Content heavily discusses Scrum courses and training, not focusing on psychological safety.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-03-15T04:49:47",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on Scrum training courses and their benefits for individual teams rather than discussing strategies for scaling agility across an organisation. While it mentions the importance of a common understanding of Scrum within an organisation, it lacks a detailed exploration of frameworks, leadership roles, or organisational structures that are essential for scaling agility. The discussion is more about team-level practices and training rather than enterprise-level agility.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T04:48:49",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Scrum training and its benefits for team alignment and understanding of the framework. While it touches on aspects of software development practices, such as the importance of consistent training and the role of Scrum in fostering collaboration, it lacks a direct focus on engineering excellence principles like coding standards, quality assurance, or CI/CD practices. The discussion is more about Scrum methodology than about high standards in software craftsmanship.",
     "level": "Ignored"
   },
@@ -844,19 +706,19 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-15T17:51:38",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on Scrum training courses and does not discuss asynchronous development practices or principles.",
     "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T09:08:53",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the Professional Scrum Foundations course and its role in creating a common understanding of the Scrum framework within organisations, which relates to organisational dynamics and teamwork, albeit with a primary focus on Scrum training.",
     "level": "Tertiary"
   },
@@ -871,15 +733,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T04:49:38",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on promoting Scrum training courses and their benefits, with limited discussion on practical problem-solving strategies or real-world applications of Agile principles. While it mentions the importance of a common understanding of Scrum and provides a case study of a participant's transformation, it lacks depth in exploring pragmatic thinking techniques or evidence-based management practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -892,32 +754,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T17:51:38",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum training, courses, and their impact on team understanding and collaboration, with no clear focus on measuring or enhancing the ability to innovate within organizations.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-11T17:59:34",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
-    "non_ai_confidence": 20,
-    "final_score": 63.0,
-    "reasoning": "The content discusses various Scrum training courses and their relevance to understanding Scrum principles, which aligns with the category. However, it primarily focuses on training rather than the application of Scrum in product development, leading to a moderate confidence score.",
-    "level": "Secondary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T17:51:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses individual Scrum training courses and experiences without addressing the scaling of Agile practices across multiple teams or at an enterprise level.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -958,22 +799,22 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T04:48:52",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 65.0,
     "ai_mentions": 70.0,
     "ai_alignment": 60.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 20,
-    "final_score": 60.0,
+    "final_score": 65.0,
     "reasoning": "The content discusses various Scrum courses and their relevance to understanding and implementing Scrum practices, which indirectly relates to the delivery of working software. However, it primarily focuses on training and education rather than directly addressing the characteristics or delivery of functional software. While it mentions the importance of delivering high-quality software, the discussion lacks depth in terms of practical examples or metrics related to working software.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T17:51:38",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum training courses and their benefits rather than focusing on Agile Planning Tools.",
     "level": "Ignored"
   },
@@ -997,10 +838,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T09:08:53",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum training and courses which are relevant to Agile adoption but primarily focuses on the mechanics rather than the leadership roles and practices associated with Agile Leadership.",
     "level": "Tertiary"
   },
@@ -1024,28 +865,28 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-15T17:51:38",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Professional Scrum training and courses without mentioning hypothesis formulation, experimentation, or data-driven decision-making.",
     "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-15T17:51:38",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Professional Scrum courses and their structure, rather than focusing on decision-making processes or methodologies.",
     "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-15T17:51:38",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum training and roles, with no clear focus on Lean Principles.",
     "level": "Ignored"
   },
@@ -1069,10 +910,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T17:51:38",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training courses and does not discuss Cycle Time or its measurement.",
     "level": "Ignored"
   },
@@ -1096,31 +937,31 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T09:08:53",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum training and its role in organizational change and adaptation to Agile methodologies, which aligns with change management principles, albeit it primarily focuses on the mechanics of Scrum rather than a comprehensive exploration of change management strategies.",
     "level": "Tertiary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-15T04:49:35",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Professional Scrum Foundations course and its role in fostering a common understanding of Scrum within teams, which aligns with the themes of team collaboration. It highlights the importance of shared knowledge and the impact of training on team dynamics. However, the focus is primarily on the course details rather than in-depth strategies for improving collaboration or team dynamics, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-15T17:51:38",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum courses and training offerings, which is unrelated to Behaviour Driven Development.",
     "level": "Ignored"
   },
@@ -1133,22 +974,13 @@
     "reasoning": "Content primarily discusses Scrum training courses, roles, and processes without a central focus on the strategic adoption of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T17:51:38",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Professional Scrum training and courses rather than the concept of Minimum Viable Product or its associated themes.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T17:51:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum training and courses, with no mention of AI or its integration into Agile methodologies.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1171,15 +1003,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-15T04:49:42",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses Scrum training and its importance in fostering a common understanding of the framework among teams, which aligns with the principles of technical leadership. However, it primarily focuses on the courses and their benefits rather than providing in-depth discussions on mentoring, coaching, or specific leadership strategies. The mention of the need for a coach to help teams adhere to agile principles hints at technical leadership but lacks detailed exploration of the role itself.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -1192,22 +1024,22 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-17T09:08:53",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum training and the importance of having diverse team members involved in the training, which aligns with the theme of cross-functional teams, but it is primarily focused on the training courses offered and not deeply exploring cross-functional teams as a central topic.",
     "level": "Tertiary"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:52:47",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum training and courses, with no direct mention or discussion of Test First Development principles. While it touches on roles within Scrum, it does not address success criteria, testing practices, or the importance of automated testing, which are central to Test First Development.",
     "level": "Ignored"
   },
@@ -1222,51 +1054,51 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-15T17:51:38",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training and education, with no clear discussion on deployment strategies or methodologies.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-15T17:51:38",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses individual Scrum courses and frameworks without a focus on large-scale Agile scaling or organizational transformation.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T09:08:53",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily discusses Scrum training and course offerings, but it touches upon concepts that could relate to team engagement and collaborative understanding, indicating that team motivation is a secondary theme.",
     "level": "Tertiary"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T17:51:38",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on Scrum training courses and their structure, with no discussion on remote working practices or challenges.",
     "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-15T04:49:59",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses Scrum training and courses, which indirectly relates to continuous learning through the promotion of a common understanding of Scrum principles. However, it lacks a strong focus on the growth mindset, knowledge sharing, or feedback loops that are central to the Continuous Learning category. The depth of discussion on these key topics is limited, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1288,64 +1120,52 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T17:52:49",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses various Scrum courses, including the Professional Scrum Master course, which is directly relevant to the role of a Scrum Master. However, while it mentions the importance of understanding Scrum and the role of Scrum Masters, the primary focus is on promoting training courses rather than an in-depth exploration of the Scrum Master's responsibilities or impact. The discussion lacks detailed insights into the Scrum Master's influence on team dynamics or organisational change, which limits the depth of the content.",
     "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-15T17:51:38",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum training courses and their structure rather than focusing on transparency in Agile processes.",
     "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T17:51:38",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on the promotion of Scrum training courses and their benefits rather than on establishing or discussing working agreements among teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T04:48:54",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 75.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses Professional Scrum training, which is directly relevant to software developers, particularly in the context of Agile methodologies. It mentions specific courses aimed at developers and highlights the importance of understanding Scrum for effective software delivery. The alignment with the category is strong due to the focus on training that enhances developer skills and practices. However, while it provides substantial detail about the courses and their benefits, it lacks a deeper exploration of how these practices specifically impact developer productivity and collaboration within Agile teams.",
-    "level": "Secondary"
-  },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-15T04:49:11",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 65.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses various Scrum courses and their benefits, which indirectly relates to coaching by emphasising the importance of understanding Scrum principles and values. However, it primarily focuses on course offerings rather than in-depth coaching techniques or the role of a coach. The mention of needing a coach to anchor values and principles indicates some alignment with coaching, but the overall depth and direct discussion of coaching practices are limited.",
     "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-15T17:51:38",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum training and its benefits, rather than specific engineering practices or methodologies related to software development.",
     "level": "Ignored"
   },
@@ -1360,10 +1180,10 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-15T17:51:38",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Professional Scrum Foundations courses and general Scrum training, without specific discussion on Sprint Reviews.",
     "level": "Ignored"
   },
@@ -1378,37 +1198,37 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-03-15T04:49:05",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on promoting Scrum training courses and their benefits, with only brief mentions of self-organisation principles. While it discusses the importance of a common understanding of Scrum and the role of training in fostering team alignment, it lacks a deep exploration of self-organisation concepts, techniques, or case studies. The discussion is more about the mechanics of Scrum rather than the empowerment and autonomy that self-organisation entails.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-11T16:47:46",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on the Professional Scrum Foundations course and its relevance to Scrum, which is a key Agile framework. It discusses the importance of consistent training and understanding of Scrum principles, aligning well with the core themes of Agile frameworks. The depth of discussion includes specific courses and their impact on organisational agility, but it lacks a broader exploration of other Agile frameworks or comparative analysis, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-15T04:49:27",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum training courses and their mechanics rather than discussing Agile strategy as a whole. While it mentions the importance of understanding Scrum principles and values, it lacks a broader discussion on organisational vision alignment, strategic planning, or adaptability in business environments. The depth of discussion on Agile strategy is limited, focusing more on training specifics than on strategic implementation.",
     "level": "Ignored"
   },
@@ -1432,10 +1252,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T17:51:38",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum training and course offerings, with no clear focus on Lean principles or Lean Product Development.",
     "level": "Ignored"
   },
@@ -1457,15 +1277,6 @@
     "reasoning": "Content is primarily focused on Scrum courses and training logistics, with no clear discussion on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T17:51:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content predominantly discusses Scrum training and courses, with no clear focus on Kanban or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T17:51:38",
@@ -1477,43 +1288,43 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T17:51:38",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum training and practices, lacking any focus on Test Driven Development principles or methodologies.",
     "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-15T04:48:49",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum training courses and their structure rather than on leadership practices. While it briefly touches on the importance of understanding roles within Scrum teams, it lacks a direct discussion on leadership strategies, decision-making processes, or team dynamics. The mention of a warehouse supervisor becoming an evangelist for the process hints at leadership influence but does not delve into leadership frameworks or methods. Overall, the content does not align closely with the core themes of leadership in Agile or DevOps.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:29:42",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on promoting Scrum training courses, which are related to Agile methodologies. While it mentions aspects of collaboration and team dynamics, it lacks a deeper exploration of social technologies as frameworks for enhancing decision-making and value delivery. The discussion is more about the mechanics of Scrum rather than the underlying social frameworks that drive collaboration and continuous improvement.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:16:37",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -1528,63 +1339,63 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:38:45",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 34,
     "non_ai_confidence": 50,
-    "final_score": 83.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses various Scrum courses, their purposes, and the importance of understanding the Scrum framework. It mentions key roles such as Scrum Master and the significance of training in adopting Scrum principles. The depth of discussion includes specific courses and their target audiences, indicating a strong focus on Scrum. However, while it aligns well with Scrum principles, it does not delve deeply into the empirical process control or team dynamics, which slightly lowers the overall confidence score.",
     "level": "Primary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:20:37",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum training and courses, with no explicit discussion of the Shift-Left Strategy. While it mentions roles such as testers and coders, it does not address integrating testing or security earlier in the development process, which is central to the Shift-Left concept. The content lacks depth in discussing the principles, benefits, or techniques related to the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T07:35:02",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on promoting Scrum training courses rather than discussing Continuous Improvement principles. While it mentions the importance of consistent training and the role of Scrum in fostering understanding and adoption, it lacks a direct focus on Continuous Improvement as a practice. The discussion is more about the mechanics of Scrum and its implementation rather than the ongoing process of reflection and adaptation that defines Continuous Improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T07:35:05",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on promoting Scrum training courses rather than discussing Common Goals. While it mentions the importance of a common understanding of Scrum within teams, it lacks a detailed exploration of how these goals align with Agile and DevOps principles. The discussion is more about the mechanics of Scrum and training rather than the strategic alignment and shared objectives that define Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T07:35:09",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the Professional Scrum Foundations course and its role in enhancing understanding of Scrum, which indirectly relates to competence through skill development. However, it primarily focuses on course promotion rather than a deep exploration of competence as a foundational principle in Agile methodologies. The mention of consistent quality in training and the importance of a common understanding among team members aligns with the concept of competence, but the depth of discussion is limited and lacks a thorough examination of continuous learning or strategies for fostering a culture of competence.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",

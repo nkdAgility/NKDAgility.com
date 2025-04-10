@@ -2,7 +2,7 @@
 title: How critical is a Product Owner in developing a great Product Backlog?
 description: "Unlock the secrets of a successful product backlog! Join Martin as he highlights the crucial role of the Product Owner in Scrum. \U0001F680\U0001F3AF"
 date: 2023-05-31T07:00:05Z
-weight: 800
+weight: 790
 ResourceId: 6cczVAbOMao
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,21 +29,25 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
-- Scrum Product Development
-- Product Backlog
-- Agile Project Management
 - Software Development
 - Agile Product Management
+- Product Backlog
 - Professional Scrum
 - Product Delivery
-- Scrum Team
 - Agile Planning
+- Scrum Team
+- Agile Frameworks
+- Agile Transformation
+- Backlog Refinement
+- Pragmatic Thinking
+- Value Delivery
+- Agile Planning Tools
 resourceTypes:
 - video
 layout: video
 categories:
-- Scrum
 - Product Management
+- Scrum
 
 ---
 ## The Pivotal Role of a Product Owner in Cultivating a Stellar Product Backlog

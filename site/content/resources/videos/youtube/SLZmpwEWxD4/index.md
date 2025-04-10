@@ -31,16 +31,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Performance
-- Practical Techniques and Tooling
-- Agile Project Management
-- Operational Practices
 - Software Development
+- Operational Practices
+- Team Performance
 - Agile Frameworks
 - Pragmatic Thinking
-- Transparency and Accountability
-- People and Process
 - Agile Product Management
+- Agile Planning
+- Agile Transformation
+- Collaboration Tools
+- Team Collaboration
+- Product Delivery
+- Transparency
+- Value Delivery
+- Agile Planning Tools
+- Organisational Agility
+- Social Technologies
+- Throughput
+- Working Software
+- Agile Strategy
+- Common Goals
+- Flow Efficiency
+- Lean Thinking
 resourceTypes:
 - video
 categories:

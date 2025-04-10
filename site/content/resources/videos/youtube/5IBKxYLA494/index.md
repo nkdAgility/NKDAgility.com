@@ -2,7 +2,7 @@
 title: 'Maximise Your Scrum Process: Leveraging Azure DevOps for Agile Success'
 description: Unlock the potential of Azure DevOps to supercharge your Scrum process! Discover custom setups, backlog management, and agile practices for success.
 date: 2024-04-03T17:21:43Z
-weight: 670
+weight: 640
 ResourceId: 5IBKxYLA494
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -25,16 +25,27 @@ preview: https://i.ytimg.com/vi/5IBKxYLA494/maxresdefault.jpg
 duration: 2504
 isShort: false
 tags:
-- Agile Project Management
-- Practical Techniques and Tooling
 - Software Development
-- People and Process
-- Agile Product Management
 - Scrum Team
 - Azure DevOps
+- Pragmatic Thinking
 - Agile Planning
+- Agile Product Management
 - Professional Scrum
-- Scrum Product Development
+- Agile Frameworks
+- Product Delivery
+- Team Performance
+- Backlog Refinement
+- Team Collaboration
+- Working Software
+- Agile Transformation
+- Agile Planning Tools
+- Scrum Master
+- Product Backlog
+- Value Delivery
+- Operational Practices
+- Azure Boards
+- Continuous Improvement
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -44,6 +55,8 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Management
+- Technical Leadership
 
 ---
 As your DevOps was built for agile teams by agile teams, there are numerous ways to leverage it to support your agile practices. Today, I want to share how to use Azure DevOps to enhance your Scrum process, drawing insights from Scrum.org and the teams at Microsoft who developed it. My focus will be on integrating the Scrum framework with value-focused, hypothesis-driven, flow-based practices.

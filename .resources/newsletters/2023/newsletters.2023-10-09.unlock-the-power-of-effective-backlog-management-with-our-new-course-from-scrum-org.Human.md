@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: newsletters
 ResourceContentOrigin: Human
 date: 2023-10-09
-weight: 810
+weight: 790
 preview: NKDAgility-technically-DOD-Not-AC-3-2.jpg
 author: MrHinsh
 resourceTypes: newsletter
@@ -21,17 +21,20 @@ aliasesArchive:
 - /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
 categories:
 - Scrum
+- Product Management
 tags:
 - Agile Product Management
-- Agile Project Management
-- Scrum Product Development
 - Product Backlog
 - Software Development
-- Professional Scrum
 - Agile Frameworks
+- Professional Scrum
 - Product Owner
-- Product Delivery
 - Agile Planning Tools
+- Agile Planning
+- Product Delivery
+- Pragmatic Thinking
+- Value Delivery
+- Agile Transformation
 
 ---
 Dive deep into the world of **Scrum's Product Backlog Management** with our meticulously crafted course. Master the nuances of understanding your product's core, engaging with stakeholders, and making data-driven decisions. Elevate your Scrum journey with insights from seasoned Professional Scrum Trainers. 🚀

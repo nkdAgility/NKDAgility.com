@@ -29,18 +29,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Evidence Based Management
 - Metrics and Learning
 - Evidence Based Leadership
+- Evidence Based Management
 - Decision Making
-- People and Process
 - Decision Theory
 - Pragmatic Thinking
+- Ability to Innovate
+- Continuous Improvement
+- Empirical Process Control
+- Operational Practices
 - Personal
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Product Management
 
 ---
 ## **What Is Traditional Management?**

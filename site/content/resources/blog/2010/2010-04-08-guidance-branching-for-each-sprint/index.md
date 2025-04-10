@@ -9,7 +9,7 @@ ResourceImportId: 56
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-08
-weight: 395
+weight: 330
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,16 +31,18 @@ aliasesArchive:
 - /resources/blog/guidance-branching-for-each-sprint
 categories:
 - Scrum
+- Engineering Excellence
 tags:
 - Software Development
 - Modern Source Control
-- Software Developers
-- Practical Techniques and Tooling
-- Scrum Product Development
 - Operational Practices
-- Agile Project Management
 - Technical Excellence
 - Pragmatic Thinking
+- Agile Frameworks
+- Azure Repos
+- Working Software
+- Product Delivery
+- Technical Mastery
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

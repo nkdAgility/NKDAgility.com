@@ -9,7 +9,7 @@ ResourceImportId: 294
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-11-09
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,8 +28,8 @@ aliasesArchive:
 - /blog/where-am-i-
 - /resources/blog/where-am-i
 tags:
-- Windows
 - Software Development
+- Windows
 categories: []
 preview: metro-merilllynch-128-link-5-1.png
 

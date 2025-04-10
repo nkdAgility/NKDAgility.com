@@ -29,7 +29,9 @@ aliasesArchive:
 - /resources/blog/fun-with-virgin
 categories: []
 preview: nakedalm-logo-128-link-3-3.png
-tags: []
+tags:
+- Troubleshooting
+- Miscellaneous
 
 ---
 We are getting a new carpet tomorrow… my wife is 8 and a half months pregnant and she’s nesting…

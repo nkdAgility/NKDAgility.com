@@ -9,7 +9,7 @@ ResourceImportId: 9487
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-05-15
-weight: 585
+weight: 540
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,14 +26,36 @@ aliasesArchive:
 tags:
 - Continuous Delivery
 - Software Development
-- Application Lifecycle Management
 - Continuous Improvement
+- Engineering Practices
 - Frequent Releases
 - Release Management
+- Shift-Left Strategy
+- Technical Excellence
 - Value Delivery
+- Application Lifecycle Management
 - Working Software
+- Operational Practices
 - Product Delivery
+- Pragmatic Thinking
+- Technical Mastery
 - Acceptance Test Driven Development
+- Automated Testing
+- Agile Strategy
+- Continuous Integration
+- Cycle Time
+- Digital Transformation
+- Test First Development
+- Competence
+- Deployment Frequency
+- Test Automation
+- Azure DevOps
+- Ability to Innovate
+- Agile Philosophy
+- Behaviour Driven Development
+- Business Agility
+- Metrics and Learning
+- Organisational Agility
 categories:
 - Engineering Excellence
 - DevOps

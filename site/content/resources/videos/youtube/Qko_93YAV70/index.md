@@ -26,9 +26,13 @@ preview: https://i.ytimg.com/vi/Qko_93YAV70/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
-- Transparency
 - Operational Practices
+- Transparency
 - Pragmatic Thinking
+- Agile Frameworks
+- Continuous Improvement
+- Social Technologies
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

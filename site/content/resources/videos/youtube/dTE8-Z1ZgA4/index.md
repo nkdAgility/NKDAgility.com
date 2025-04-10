@@ -26,8 +26,11 @@ preview: https://i.ytimg.com/vi/dTE8-Z1ZgA4/maxresdefault.jpg
 duration: 49
 isShort: true
 tags:
-- Discovery and Learning
 - Pragmatic Thinking
+- Coaching
+- Sociotechnical Systems
+- Social Technologies
+- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

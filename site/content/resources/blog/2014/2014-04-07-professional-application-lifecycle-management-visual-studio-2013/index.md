@@ -9,7 +9,7 @@ ResourceImportId: 10482
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-04-07
-weight: 810
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,7 +28,6 @@ aliasesArchive:
 - /blog/professional-application-lifecycle-management-with-visual-studio-2013
 - /resources/blog/professional-application-lifecycle-management-visual-studio-2013
 tags:
-- Products and Books
 - Application Lifecycle Management
 - Software Development
 categories: []

@@ -29,14 +29,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Backlog
 - Software Development
-- Agile Product Management
+- Product Backlog
 - Product Owner
-- Scrum Product Development
+- Agile Product Management
+- Agile Planning
+- Agile Planning Tools
+- Pragmatic Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
 
 ---
 ## The Order of Product Backlogs

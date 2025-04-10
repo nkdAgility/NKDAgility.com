@@ -9,7 +9,7 @@ ResourceImportId: 4092
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-11-29
-weight: 300
+weight: 230
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,16 +27,30 @@ tags:
 - Continuous Delivery
 - Product Delivery
 - Software Development
-- Software Developers
 - Pragmatic Thinking
-- Agile Project Management
-- Practical Techniques and Tooling
 - Technical Excellence
 - Working Software
 - Frequent Releases
+- Deployment Frequency
+- Engineering Practices
+- Operational Practices
+- Technical Mastery
+- Agile Frameworks
+- Agile Transformation
+- Continuous Improvement
+- Deployment Strategies
+- Release Management
+- Automated Testing
+- Value Delivery
+- Technical Debt
+- Agile Product Management
+- Competence
+- Market Adaptability
+- Test Automation
 categories:
 - Engineering Excellence
-- Scrum
+- DevOps
+- Technical Leadership
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

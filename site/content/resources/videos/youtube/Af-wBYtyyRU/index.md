@@ -33,14 +33,30 @@ sitemap:
 tags:
 - Evidence Based Management
 - Product Owner
+- Decision Making
 - Agile Product Management
+- Pragmatic Thinking
 - Value Delivery
 - Metrics and Learning
-- Decision Making
-- Pragmatic Thinking
-- Product Delivery
 - Ability to Innovate
 - Evidence Based Leadership
+- Software Development
+- Operational Practices
+- Product Delivery
+- Product Strategy
+- Agile Product Operating Model
+- Decision Theory
+- Working Software
+- Empirical Process Control
+- Agile Strategy
+- Competence
+- Agile Frameworks
+- Agile Planning
+- Business Agility
+- Continuous Improvement
+- Organisational Agility
+- Product Discovery
+- Throughput
 resourceTypes:
 - video
 categories:

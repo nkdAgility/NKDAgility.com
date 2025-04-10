@@ -8,95 +8,47 @@
     "reasoning": "Content primarily discusses TFS check-in failures and conflict resolution, which is not related to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:16:26",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 70.0,
-    "ai_depth": 75.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content provides a detailed walkthrough of resolving a specific issue related to TFS Integration Tools, which falls under practical techniques for tooling. It discusses the steps to troubleshoot and resolve conflicts during a TFS check-in, demonstrating the application of a specific tool in a real-world scenario. The mention of specific actions, such as deleting rules and using the command line or TFS Sidekicks, aligns well with the category's focus on practical application. However, while it is rich in detail, it lacks broader discussions on methodologies or frameworks that enhance Agile and DevOps practices, which slightly lowers the overall alignment score.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-15T19:38:47",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses TFS check-in failures and conflict resolution, which does not align with the core principles of platform engineering.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:10:20",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on troubleshooting TFS check-in failures and does not discuss Evidence-Based Management principles or metrics. It lacks any mention of data-informed decision-making or the key topics outlined in the EBM category. The discussion is technical and specific to TFS, with no alignment to the core themes of EBM.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T19:38:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific issue related to TFS check-in failures and conflict resolution, without addressing broader themes of code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T19:38:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS check-in failures and conflict resolution without focusing on learning or discovery processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T19:38:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses TFS check-in failures and conflict resolution, with no mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-15T19:38:54",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses TFS check-in failures and conflict resolution, with no reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T12:53:46",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses troubleshooting a specific issue related to TFS check-in failures, which falls under the broader category of installation and configuration. It provides detailed steps for resolving conflicts during the migration process, which aligns with the core themes of configuration best practices and troubleshooting common issues. However, while it does mention installation tools and provides some actionable insights, the focus is more on resolving specific conflicts rather than a comprehensive guide on installation or configuration processes. Therefore, the confidence score reflects a strong but not complete alignment with the category.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T19:38:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS check-in failures and conflict resolution, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content primarily discusses a technical issue related to TFS check-in failures without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T19:39:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses technical issues related to TFS check-in failures and conflict resolution without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:10:09",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on troubleshooting TFS check-in failures and does not discuss DevOps principles, practices, or cultural shifts. While it touches on aspects of version control and conflict resolution, these topics are not aligned with the core themes of DevOps, such as collaboration, automation, or shared accountability. The discussion lacks depth in relation to DevOps philosophy, making it a secondary mention at best.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily discusses technical issues related to TFS check-in failures and conflict resolution, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T19:39:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS Integration Tools and does not reference any events, presentations, or discussions relevant to Agile, DevOps, or software engineering conferences.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T19:39:08",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses TFS check-in failures and conflict resolution, which does not directly relate to optimising work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T19:39:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS check-in failures and conflict resolution without addressing human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T19:39:13",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting TFS check-in failures and conflict resolution, with no focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -220,13 +145,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T05:45:56",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a specific issue related to TFS check-in failures and conflict resolution, which is more operational than focused on broader engineering practices or methodologies that enhance technical excellence. While it touches on aspects of conflict resolution and the use of tools, it lacks a comprehensive discussion on principles like TDD, CI/CD, or modular architecture that are central to the category of Technical Excellence. The depth of the discussion is moderate, but it does not provide a strong alignment with the core themes of the category.",
     "level": "Ignored"
   },
@@ -275,15 +200,6 @@
     "reasoning": "Content primarily discusses TFS check-in failures and conflict resolution, which are not related to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T19:39:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS Integration Tools and conflict resolution, without focusing on reviews, analyses, or discussions of products or literature relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T19:39:26",
@@ -295,15 +211,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T14:53:51",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses issues related to TFS (Team Foundation Server) and its integration tools, which are part of the Azure DevOps suite. However, it lacks a comprehensive exploration of Azure DevOps functionalities, methodologies, or best practices. While it mentions TFS and conflict resolution, it does not delve into broader Azure DevOps topics such as CI/CD pipelines, Agile project management, or integration with other tools, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -325,22 +241,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T19:39:33",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses TFS check-in failures and conflict resolution, which is not related to the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:10:18",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on troubleshooting TFS check-in failures and does not discuss any principles or practices related to the Agile Product Operating Model. It lacks direct mentions of agile methodologies, product management, or the core themes outlined in the APOM definition.",
     "level": "Ignored"
   },
@@ -351,15 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to TFS check-in failures and conflict resolution, with no clear focus on organisational agility or related practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T19:39:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS check-in failures and conflict resolution, lacking a focus on industry news, updates, or reviews.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -382,22 +289,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T21:05:11",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses TFS integration tools and issues related to check-in failures, with no relevance to the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T05:46:03",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a specific technical issue related to TFS check-in failures and conflict resolution. While it does touch on aspects of software craftsmanship, such as the importance of resolving conflicts and understanding the underlying issues in version control, it lacks a broader discussion on best practices, principles, or methodologies that contribute to high-quality software development. The focus is more on troubleshooting a specific problem rather than exploring the principles of technical mastery in a comprehensive manner.",
     "level": "Ignored"
   },
@@ -412,13 +319,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:10:22",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on troubleshooting TFS check-in failures and resolving conflicts during migrations, which does not directly address Continuous Delivery principles or practices. While it touches on aspects of software integration, it lacks a clear discussion on automation, rapid feedback, or the cultural aspects of Continuous Delivery. Therefore, it only marginally aligns with the category.",
     "level": "Ignored"
   },
@@ -451,10 +358,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T21:05:11",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses issues and solutions related to TFS check-in failures and conflict resolution, which does not pertain to the concept of Definition of Ready.",
     "level": "Ignored"
   },
@@ -505,22 +412,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T05:45:58",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a specific technical issue related to TFS check-in failures and conflict resolution, which does not directly address broader operational practices or methodologies aimed at enhancing operational efficiency. While it touches on problem-solving and conflict resolution, it lacks a comprehensive exploration of techniques or strategies that align with Agile, DevOps, or Lean frameworks. The focus is more on troubleshooting rather than on improving operational processes.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T21:05:11",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on TFS check-in failures and conflict resolution, which does not involve discussions on Scrum Team dynamics, roles, or collaboration.",
     "level": "Ignored"
   },
@@ -580,10 +487,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T21:05:11",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses troubleshooting and resolving technical issues with TFS check-ins and does not relate to team performance, collaboration, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -607,31 +514,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T10:33:04",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses a specific issue related to TFS (Team Foundation Server) check-in failures, which is a part of the software development process. It provides detailed steps for resolving conflicts during version control operations, aligning with best practices in collaborative development. However, while it touches on relevant topics, the focus is more on troubleshooting a specific problem rather than broader software development methodologies or practices.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T21:05:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses TFS check-in failures and resolutions, without any focus on Agile principles or methodologies.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T21:05:11",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on TFS check-in issues and technical resolution steps, without discussing Agile values or principles.",
     "level": "Ignored"
   },
@@ -646,22 +544,22 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-10T18:42:41",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 35,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses a specific issue related to TFS (Team Foundation Server) check-in failures, which is a modern source control system. It provides detailed insights into conflict resolution, a key aspect of version control practices. The discussion includes specific error messages, steps to resolve conflicts, and the implications of different resolution strategies, aligning well with the core themes of modern source control. However, while it is focused on a source control issue, it lacks broader discussions on methodologies or best practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T21:05:11",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to TFS check-in failures and migration conflicts without reference to empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
@@ -685,19 +583,19 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T21:05:11",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on TFS Integration Tools and conflict resolution issues, which is not directly related to collaboration tools or enhancing team dynamics.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T21:05:11",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical issues and troubleshooting related to TFS check-in failures, which does not align with the themes of organisational change.",
     "level": "Ignored"
   },
@@ -728,15 +626,6 @@
     "reasoning": "Content is primarily focused on a technical issue regarding TFS check-in failures and conflict resolution. It does not address customer satisfaction principles, practices, or enhancement strategies.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T21:05:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on TFS check-in failures and conflict resolution, with no relevance to scaling Scrum practices or discussions.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T21:05:11",
@@ -755,24 +644,15 @@
     "reasoning": "Content primarily discusses technical issues related to TFS check-in failures and conflict resolution, with no mention of psychological safety or its related themes.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T21:05:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses issues and solutions related to TFS integration and check-in failures, which does not align with the principles or frameworks of scaling agility.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T05:45:51",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a specific technical issue related to TFS check-in failures and conflict resolution, which is more focused on troubleshooting than on broader engineering excellence practices. While it touches on aspects of software development, such as conflict resolution and the use of tools, it lacks a comprehensive discussion on best practices, quality assurance, or continuous improvement in engineering processes.",
     "level": "Ignored"
   },
@@ -814,15 +694,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T18:04:52",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a specific technical issue related to TFS check-in failures and provides practical steps for resolving conflicts. While it does touch on problem-solving in a real-world context, it lacks a broader discussion on Agile, Scrum, or DevOps principles. The focus is primarily on a single technical challenge rather than a comprehensive exploration of pragmatic thinking strategies.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -835,29 +715,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T21:05:11",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses issues related to TFS (Team Foundation Server) integration tools and specific troubleshooting steps, which do not focus on innovative practices or measurement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T21:05:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to TFS (Team Foundation Server) check-in failures and conflict resolution, which is unrelated to Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T21:05:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical issues related to TFS check-in failures and migration conflicts without any reference to Agile methodologies, frameworks, or scaling practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -907,19 +769,19 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T21:05:11",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on TFS check-in failures and migration issues, which are not aligned with Agile Planning Tools.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-15T21:05:11",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on troubleshooting TFS check-in failures and resolving conflicts in TFS Integration Tools rather than discussing Continuous Integration principles or practices.",
     "level": "Ignored"
   },
@@ -1033,19 +895,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T21:05:12",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to TFS check-in failures and resolutions, without any mention of change management concepts or practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T21:05:12",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily addresses a technical issue related to TFS check-in failures and conflict resolution rather than team collaboration dynamics, communication, or Agile principles.",
     "level": "Ignored"
   },
@@ -1067,7 +929,7 @@
     "reasoning": "Content primarily discusses technical issues and solutions related to TFS check-in failures, with no focus on digital transformation strategies or the integration of digital technologies for business enhancement.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T21:05:12",
     "ai_confidence": 0,
@@ -1076,24 +938,15 @@
     "reasoning": "Content primarily discusses TFS check-in failures and conflict resolution, with no focus on Minimum Viable Product principles or practices.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T21:05:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses issues related to TFS check-in failures and migration processes without any reference to AI or its applications in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T05:45:51",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a specific issue related to TFS check-in failures and conflict resolution, which is somewhat relevant to system configuration. However, it lacks a broader discussion on best practices, methodologies, or strategies for system configuration. The focus is more on troubleshooting a specific problem rather than exploring the principles of system setup and configuration. Therefore, while there are mentions of configuration issues, the overall depth and alignment with the category are limited.",
     "level": "Ignored"
   },
@@ -1135,27 +988,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:02:15",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses troubleshooting TFS check-in failures and conflict resolution, which does not relate to Test First Development principles. There are no direct mentions of success criteria, testing practices, or the importance of testing in the development process. The focus is on resolving specific technical issues rather than on the broader concepts of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T05:45:53",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses a specific issue related to TFS (Team Foundation Server) Integration Tools, which operates within the Windows environment. It provides detailed troubleshooting steps for a check-in failure, which aligns with the Windows category's focus on troubleshooting and configuration. However, while it mentions Windows indirectly through TFS, it does not explicitly cover broader Windows OS topics such as installation, updates, or general configuration settings. The depth of discussion is substantial regarding the specific issue but lacks a wider context of Windows management, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1177,10 +1030,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T21:05:12",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily about resolving technical issues related to TFS integration tools and does not discuss team dynamics or motivational strategies.",
     "level": "Ignored"
   },
@@ -1204,15 +1057,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T11:57:58",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed account of troubleshooting a specific issue related to TFS check-in failures, including steps taken to identify and resolve the problem. It discusses techniques for diagnosing the issue, such as examining logs and understanding conflict types, which aligns well with the core themes of the Troubleshooting category. The depth of discussion is significant, as it includes specific actions and outcomes, making it a primary focus on troubleshooting rather than a secondary mention.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1225,13 +1078,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:02:18",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses troubleshooting TFS check-in failures and does not mention the role or responsibilities of a Scrum Master. There are no direct references to Scrum practices, coaching, or team dynamics, which are essential for the category. The focus is entirely on technical issues related to TFS, making it largely irrelevant to the Scrum Master role.",
     "level": "Ignored"
   },
@@ -1251,18 +1104,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses TFS check-in failures and conflict resolution without mention of teamwork norms or principles related to working agreements.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T05:45:51",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily discusses a specific technical issue related to TFS check-in failures, which is a narrow aspect of software development. While it touches on the role of developers in resolving conflicts, it lacks broader discussions on Agile methodologies, DevOps principles, or modern engineering practices. The focus is more on troubleshooting a specific problem rather than exploring the role of software developers within Agile or DevOps frameworks.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1339,13 +1180,13 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-03-15T05:46:00",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses issues related to TFS (Team Foundation Server) and its integration tools, which are closely related to Azure Repos but do not explicitly focus on Azure Repos itself. While it mentions check-in failures and conflict resolution, it lacks a direct exploration of Azure Repos functionalities, best practices, or its role in source control management. The discussion is more about troubleshooting specific TFS issues rather than a comprehensive overview of Azure Repos.",
     "level": "Ignored"
   },
@@ -1385,15 +1226,6 @@
     "reasoning": "Content primarily focuses on troubleshooting a specific TFS check-in failure without discussing accountability, team dynamics, or ownership principles relevant to Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T21:05:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on TFS integration tools and conflict resolution, unrelated to Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T21:05:12",
@@ -1414,13 +1246,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:35:16",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on troubleshooting TFS check-in failures and technical aspects of migration, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. It lacks depth in addressing the core themes of social technologies, such as self-organisation or collective intelligence, and does not provide insights into organisational culture or practices that support emergent problem-solving.",
     "level": "Ignored"
   },
@@ -1435,10 +1267,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:23:01",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses TFS check-in failures and conflict resolution, which are not central to the concept of Internal Developer Platforms.",
     "level": "Ignored"
   },
@@ -1453,73 +1285,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:43:44",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses TFS (Team Foundation Server) integration issues and conflict resolution, with no direct references to Scrum principles, roles, events, or practices. While there may be a tangential connection to project management, it does not align with the core themes of Scrum, nor does it provide any depth on Scrum-related topics.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:25:58",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a specific issue related to TFS check-in failures and conflict resolution, with no mention of integrating testing, security, or compliance earlier in the software development lifecycle. It lacks any discussion on the principles, benefits, or methodologies associated with the Shift-Left Strategy, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:10:11",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to TFS check-in failures. While it discusses problem resolution, it does not engage with the principles of Continuous Improvement, such as fostering a culture of experimentation or integrating improvement strategies into processes. The discussion lacks depth in terms of continuous enhancement or empirical evidence, which are core to the Continuous Improvement category.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:10:13",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on troubleshooting TFS check-in failures and does not discuss or align with the principles of Common Goals in Agile or DevOps. It lacks explicit mentions of shared objectives, strategic alignment, or frameworks like OKRs, which are central to the category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:10:15",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to TFS check-in failures. While it does touch on the need for problem-solving skills and knowledge of TFS, it lacks a direct discussion on competence as a foundational principle in Agile or DevOps methodologies. The emphasis is on resolving a technical conflict rather than fostering a culture of competence or continuous learning.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:02:12",
+    "calculated_at": "2025-04-10T15:55:29",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on troubleshooting TFS check-in failures and does not discuss the intentional shaping of outcomes, agency, or adaptability in the context of Agentic Agility. It lacks any mention of human or AI capabilities related to agility, and the discussion is centred around technical issues rather than the principles of Agentic Agility.",
     "level": "Ignored"
   }

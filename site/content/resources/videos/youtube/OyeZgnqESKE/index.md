@@ -31,12 +31,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
 - Team Motivation
-- Continuous Improvement
-- Scrum Master
 - Competence
 - Coaching
+- Continuous Improvement
+- Scrum Master
 resourceTypes:
 - video
 categories: []

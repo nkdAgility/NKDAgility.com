@@ -33,20 +33,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Practical Techniques and Tooling
 - Operational Practices
 - Continuous Improvement
 - Cycle Time
-- Agile Project Management
-- Metrics and Learning
-- People and Process
 - Lean Thinking
 - Agile Frameworks
 - Software Development
+- Metrics and Learning
+- Continuous Learning
+- Lean Principles
+- Throughput
+- Flow Efficiency
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
 - Kanban
+- Lean
 
 ---
 ### Getting Started with Kanban: A Guide to Initiating Your First Kanban Pilot

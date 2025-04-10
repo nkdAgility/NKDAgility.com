@@ -9,7 +9,7 @@ ResourceImportId: 39960
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-10-21
-weight: 545
+weight: 500
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,16 +28,21 @@ aliasesArchive:
 - /blog/what-is-your-perspective-on-collocation-
 - /resources/blog/what-is-your-perspective-on-collocation
 tags:
-- People and Process
-- Agile Project Management
-- Events and Presentations
 - Team Collaboration
 - Team Performance
-- Scrum Team
 - Agile Frameworks
 - Agile Product Management
-- Software Development
 - Pragmatic Thinking
+- Scrum Team
+- Software Development
+- Sociotechnical Systems
+- Scrum Master
+- Operational Practices
+- Professional Scrum
+- Social Technologies
+- Team Motivation
+- Personal
+- Organisational Culture
 categories:
 - Scrum
 preview: 1026661500-1-1.jpg

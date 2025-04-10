@@ -9,7 +9,7 @@ ResourceImportId: 40
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-06-14
-weight: 675
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,17 +24,23 @@ aliasesArchive:
 - /why-you-need-to-tag-your-build-servers-in-tfs
 - /resources/blog/why-you-need-to-tag-your-build-servers-in-tfs
 tags:
-- Practical Techniques and Tooling
-- Software Development
 - Azure DevOps
+- Software Development
 - Pragmatic Thinking
-- Install and Configuration
 - Continuous Integration
 - Operational Practices
 - Technical Excellence
 - System Configuration
+- Install and Configuration
+- Azure Pipelines
+- Technical Mastery
+- Troubleshooting
+- Platform Engineering
+- Modern Source Control
 preview: metro-SSWLogo-128-link-10-10.png
-categories: []
+categories:
+- DevOps
+- Engineering Excellence
 
 ---
 ![vs2010alm](images/e6d297adc9ef_12485-vs2010alm_-4-8.png)At SSW we use gated check-in for all of our projects. The benefits are based on the number of developers you have working on your project.

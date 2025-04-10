@@ -2,7 +2,7 @@
 title: Why Pursuing Agile Certifications is Your Key to Career Advancement
 description: Unlock your career potential in Agile and Scrum! Discover why certifications matter, how they validate your skills, and the path to continuous learning.
 date: 2023-03-07T07:00:09Z
-weight: 855
+weight: 840
 ResourceId: _fFs-0GL1CA
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -27,7 +27,9 @@ isShort: false
 tags:
 - Competence
 - Continuous Learning
-- People and Process
+- Pragmatic Thinking
+- Software Development
+- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -9,7 +9,7 @@ ResourceImportId: 9714
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-11-24
-weight: 270
+weight: 200
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,17 +25,40 @@ aliasesArchive:
 - /resources/blog/release-planning-and-predictable-delivery
 tags:
 - Software Development
-- Agile Product Management
-- Scrum Product Development
 - Agile Planning
-- Agile Project Management
-- Software Developers
+- Agile Product Management
+- Pragmatic Thinking
 - Working Software
 - Product Delivery
 - Value Delivery
 - Operational Practices
+- Agile Frameworks
+- Empirical Process Control
+- Professional Scrum
+- Release Management
+- Technical Debt
+- Agile Transformation
+- Organisational Agility
+- Forecasting
+- Business Agility
+- Scrum Team
+- Increment
+- Agile Strategy
+- Estimation
+- Market Adaptability
+- Transparency
+- Scrum Master
+- Agile Planning Tools
+- Backlog Refinement
+- Continuous Improvement
+- Definition of Done
+- Enterprise Agility
+- Sociotechnical Systems
+- Competence
 categories:
 - Scrum
+- Engineering Excellence
+- Technical Leadership
 preview: nkdAgility-habits-16x9-1280-2-2.jpg
 
 ---

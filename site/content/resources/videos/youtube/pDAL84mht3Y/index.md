@@ -26,16 +26,27 @@ preview: https://i.ytimg.com/vi/pDAL84mht3Y/maxresdefault.jpg
 duration: 47
 isShort: true
 tags:
-- Agile Values and Principles
 - Agile Philosophy
-- Organisational Agility
 - Pragmatic Thinking
 - Software Development
+- Agile Values and Principles
+- Organisational Agility
 - Continuous Improvement
-- Agile Project Management
 - Business Agility
 - Agile Transformation
 - Continuous Learning
+- Team Performance
+- Agile Leadership
+- Agile Strategy
+- Organisational Change
+- Market Adaptability
+- Organisational Culture
+- Self Organisation
+- Empirical Process Control
+- Team Collaboration
+- Ability to Innovate
+- Agile Frameworks
+- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

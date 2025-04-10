@@ -29,6 +29,7 @@ aliasesArchive:
 - /resources/blog/office-2010-gotcha-2-visual-studio-2008-locks
 tags:
 - Troubleshooting
+- Windows
 preview: metro-visual-studio-2005-128-link-2-1.png
 categories: []
 

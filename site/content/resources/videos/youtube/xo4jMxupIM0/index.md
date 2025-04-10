@@ -2,7 +2,7 @@
 title: 'Unlocking the Power of Double-Loop Learning: Transform Your Scrum Master Journey with Immersive Training'
 description: Unlock your Scrum potential with immersive learning! Discover double-loop learning, diverse perspectives, and collaborative solutions in our PSM class.
 date: 2023-11-20T07:51:59Z
-weight: 775
+weight: 750
 ResourceId: xo4jMxupIM0
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -31,19 +31,28 @@ resourceTypes:
 slug: unlocking-the-power-of-double-loop-learning-transform-your-scrum-master-journey-with-immersive-training
 layout: video
 tags:
-- Discovery and Learning
-- People and Process
 - Scrum Master
-- Agile Project Management
+- Social Technologies
 - Team Collaboration
 - Team Performance
 - Continuous Learning
-- Professional Scrum
 - Pragmatic Thinking
+- Professional Scrum
+- Agile Frameworks
+- Coaching
 - Continuous Improvement
+- Competence
+- Software Development
+- Organisational Agility
+- Agile Product Management
+- Operational Practices
+- Scrum Team
+- Empirical Process Control
+- Mentoring
+- Metrics and Learning
+- Agile Transformation
 categories:
 - Scrum
-- Social Technologies
 
 ---
 In my journey as a Scrum Master, I've often found that the most profound learning experiences come not just from theory, but from the practical application of that theory in real-world scenarios. This is precisely what the Professional Scrum Master (PSM) immersive learning experience offers—a unique opportunity for double-loop learning. 

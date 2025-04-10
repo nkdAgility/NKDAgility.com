@@ -28,6 +28,14 @@ isShort: true
 tags:
 - Product Discovery
 - Product Strategy
+- Agile Philosophy
+- Customer Satisfaction
+- Decision Making
+- Product Owner
+- Customer Retention
+- Pragmatic Thinking
+- Product Validation
+- Sensemaking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

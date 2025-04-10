@@ -9,7 +9,7 @@ ResourceImportId: 3383
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-01
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,6 +25,9 @@ aliasesArchive:
 - /resources/blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 tags:
 - Software Development
+- Azure DevOps
+- Operational Practices
+- Pragmatic Thinking
 preview: metro-visual-studio-2010-128-link-4-4.png
 categories: []
 

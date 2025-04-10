@@ -32,9 +32,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
-- Metrics and Learning
 - Continuous Improvement
+- Metrics and Learning
+- Decision Theory
+- Sensemaking
 resourceTypes:
 - video
 categories: []

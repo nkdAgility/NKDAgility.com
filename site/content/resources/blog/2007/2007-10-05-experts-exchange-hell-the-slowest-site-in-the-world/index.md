@@ -27,7 +27,8 @@ aliasesArchive:
 - /experts-exchange-hell---the-slowest-site-in-the-world-
 - /blog/experts-exchange-hell---the-slowest-site-in-the-world-
 - /resources/blog/experts-exchange-hell-the-slowest-site-in-the-world
-tags: []
+tags:
+- Miscellaneous
 categories: []
 preview: nakedalm-logo-128-link-3-3.png
 

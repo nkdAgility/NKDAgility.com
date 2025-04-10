@@ -8,18 +8,6 @@
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and build controllers, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:35:53",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses a specific issue related to Team Foundation Server (TFS) and provides practical techniques for identifying and resolving ghost build controllers. It includes direct mentions of TFS and the steps taken to manage build statuses, which aligns with the category's focus on practical tooling. However, while it offers some depth in terms of the problem-solving process, it lacks broader discussions on methodologies or frameworks that enhance Agile and DevOps practices, which limits its overall alignment with the category.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-16T00:33:25",
@@ -31,72 +19,36 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:54:17",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses technical issues related to managing build controllers in Team Foundation Server (TFS) without any reference to Evidence-Based Management principles or metrics. It lacks a focus on data-informed decision-making or empirical evidence, which are central to the category.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T00:33:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to ghost build controllers in Team Foundation Server, focusing on troubleshooting and database management rather than the interplay between code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T00:33:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical issues related to Team Foundation Server and ghost build controllers without a focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T00:33:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues related to Team Foundation Server and ghost build controllers, with no mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-16T00:33:32",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Team Foundation Server and ghost build controllers, with no clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-11T18:11:12",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses troubleshooting a specific issue related to ghost build controllers in Team Foundation Server, which falls under the broader theme of installation and configuration. However, it primarily focuses on a specific problem rather than providing a comprehensive guide or step-by-step instructions for installation or configuration. While it does touch on the identification and resolution of a configuration issue, the depth of discussion is limited, and it lacks broader context or actionable insights that would typically characterise a full installation and configuration guide.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T00:33:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and ghost build controllers, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content heavily discusses technical issues related to Team Foundation Server without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T00:33:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical issues related to Team Foundation Server and ghost build controllers, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:54:06",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a specific issue related to Team Foundation Server (TFS) and ghost build controllers, which is a technical problem rather than a broader discussion on DevOps principles. While it touches on aspects of build management, it lacks a focus on the collaborative, cultural, and philosophical elements of DevOps. The mention of TFS and build controllers does not align with the core themes of DevOps, such as automation, shared accountability, or continuous improvement. Therefore, the confidence score reflects a low alignment with the DevOps category.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and ghost build controllers, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T00:33:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and ghost build controllers, with no reference to events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T00:33:44",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to ghost build controllers in Team Foundation Server, which does not directly address flow efficiency or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T00:33:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and ghost build controllers, with no significant focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T00:33:49",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to ghost build controllers in Team Foundation Server, with no clear focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -256,49 +181,40 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-16T00:33:58",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and ghost build controllers, with no relevance to BetaCodex principles or practices.",
     "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-16T00:33:59",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Team Foundation Server and ghost build controllers, with no clear focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T00:34:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and ghost build controllers, without any focus on products, books, or Agile methodologies.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-16T00:34:02",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and ghost build controllers, without a focus on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T13:04:33",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 68.0,
     "ai_mentions": 75.0,
     "ai_alignment": 60.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses issues related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. It provides specific details about troubleshooting ghost build controllers, which aligns with Azure DevOps functionalities. However, the focus is primarily on a specific problem rather than a broader discussion of Azure DevOps services or best practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -322,22 +238,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T00:34:08",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to ghost build controllers in Team Foundation Server, which is not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:54:15",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses technical issues related to Team Foundation Server (TFS) and ghost build controllers, with no direct mention or alignment to the Agile Product Operating Model. It focuses on troubleshooting and database management rather than agile methodologies or product management principles.",
     "level": "Ignored"
   },
@@ -350,24 +266,15 @@
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and ghost build controllers, with no clear focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T00:34:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Team Foundation Server without providing industry news, updates, or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T06:55:26",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses issues related to build controllers in Team Foundation Server (TFS), which is a tool used in the application lifecycle management process. However, it primarily focuses on a specific problem (ghost build controllers) rather than the broader aspects of application lifecycle management. While it touches on aspects of maintenance and troubleshooting, it lacks a comprehensive discussion on the stages of the application lifecycle, governance, or best practices. Therefore, it has a low confidence score due to its limited scope and depth.",
     "level": "Ignored"
   },
@@ -382,24 +289,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T01:18:05",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses issues related to ghost build controllers in Team Foundation Server and how to manage them, without any mention of the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T06:55:34",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses a specific issue related to Team Foundation Server (TFS) and ghost build controllers, which is a technical topic. However, it lacks a broader discussion on software craftsmanship, best practices, or methodologies that contribute to high-quality software development. While it does touch on database management and troubleshooting, it does not delve deeply into principles of clean code, testing, or architectural practices, which are central to the 'Technical Mastery' category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -412,13 +319,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:54:20",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 25.0,
     "ai_mentions": 5,
     "ai_alignment": 10,
     "ai_depth": 5,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses issues related to ghost build controllers in Team Foundation Server (TFS), which is a specific aspect of build management rather than Continuous Delivery as a whole. While it touches on the importance of maintaining a clean development environment, it lacks a broader discussion on Continuous Delivery principles, practices, or the role of automation in testing and deployment. The mention of TFS and build controllers is relevant to software delivery but does not align with the core themes of Continuous Delivery, such as rapid feedback, incremental improvements, or cultural aspects. Therefore, the confidence score reflects a low alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
@@ -433,10 +340,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T01:18:05",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to ghost build controllers in Team Foundation Server and their deletion, without addressing the concept of Lead Time or its importance.",
     "level": "Ignored"
   },
@@ -451,10 +358,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T01:18:05",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to ghost build controllers in Team Foundation Server and does not address the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -487,10 +394,10 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-16T01:18:05",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses ghost build controllers in Team Foundation Server, with no clear relation to Value Stream Mapping.",
     "level": "Ignored"
   },
@@ -505,22 +412,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T06:55:31",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the issue of ghost build controllers in Team Foundation Server, which relates to operational practices in managing build processes. However, it primarily focuses on a specific problem and its resolution rather than broader operational efficiency strategies or methodologies. While there are mentions of database management and build status, the discussion lacks depth in terms of process optimisation or continuous improvement techniques, which are key aspects of the 'Operational Practices' category.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T01:18:05",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on resolving technical issues related to build controllers in Team Foundation Server, which is unrelated to Scrum Team dynamics, roles, or collaboration.",
     "level": "Ignored"
   },
@@ -580,10 +487,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T01:18:05",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to ghost build controllers in Team Foundation Server, which does not align with team performance or collaboration strategies.",
     "level": "Ignored"
   },
@@ -607,31 +514,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T18:50:45",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses a specific issue related to Team Foundation Server (TFS), which is a tool used in software development for managing builds and projects. It provides a detailed account of troubleshooting ghost build controllers, which directly relates to version control systems and collaborative development practices. The mention of database interactions and build statuses aligns with best practices in coding and software design. The depth of the discussion is significant, as it includes specific technical details and recommendations for resolving the issue, demonstrating a strong focus on software development processes.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T01:18:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to Team Foundation Server build controllers, with no significant focus on Agile methodologies or principles.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T01:18:05",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to build controllers in Team Foundation Server, with no clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -646,15 +544,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-15T06:55:21",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 42.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses issues related to build controllers in Team Foundation Server (TFS), which is a version control system. It touches on aspects of code management and project tracking, particularly in the context of ghost build controllers and their deletion. However, the discussion is primarily anecdotal and lacks depth in best practices or methodologies related to modern source control. While it does mention specific technical details, it does not provide a comprehensive exploration of version control strategies or collaboration workflows, which are key themes in the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -728,15 +626,6 @@
     "reasoning": "Content heavily discusses technical details related to managing build controllers in Team Foundation Server without addressing customer satisfaction or related concepts.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T01:18:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses troubleshooting issues with Team Foundation Server (TFS) build controllers, which is unrelated to Scaling Scrum principles and practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T01:18:05",
@@ -755,24 +644,15 @@
     "reasoning": "Content heavily discusses technical issues related to Team Foundation Server and does not mention psychological safety nor its principles.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T01:18:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses resolving technical issues related to Team Foundation Server build controllers rather than scaling agile practices or organizational agility.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T06:55:21",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a specific technical issue related to Team Foundation Server (TFS) and ghost build controllers, which touches on aspects of software engineering. However, it primarily focuses on troubleshooting and specific actions taken rather than broader principles of engineering excellence, such as coding standards, quality assurance, or continuous improvement practices. While there are mentions of database management and build processes, the depth of discussion does not sufficiently align with the core themes of engineering excellence, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -814,15 +694,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T06:55:28",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a practical problem encountered in Team Foundation Server (TFS) regarding ghost build controllers, which aligns with pragmatic thinking in a real-world context. It provides a specific example of troubleshooting and problem-solving, demonstrating adaptability and critical thinking. However, the discussion lacks depth in terms of broader Agile or DevOps principles and does not explicitly mention these frameworks, which limits its overall alignment with the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -835,29 +715,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T01:18:05",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical details of managing build controllers in Team Foundation Server, with no discussion of innovation practices or metrics.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T01:18:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum principles, practices, or product development, but rather focuses on technical issues related to Team Foundation Server build controllers.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T01:18:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses troubleshooting build controllers in Team Foundation Server, with no focus on Agile methodologies or scaling concepts.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -916,13 +778,13 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-15T06:55:21",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses issues related to build controllers in Team Foundation Server (TFS), which is a tool associated with Continuous Integration. However, the focus is primarily on troubleshooting and specific instances of ghost build controllers rather than on broader CI principles, practices, or tools. While it touches on aspects of CI, such as managing builds and the importance of cleaning up build queues, it lacks a comprehensive exploration of CI concepts, best practices, or the role of automated testing. Therefore, it does not fully align with the core themes of Continuous Integration.",
     "level": "Ignored"
   },
@@ -1009,10 +871,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T01:18:05",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about managing ghost build controllers in Team Foundation Server, not about measuring or discussing Cycle Time.",
     "level": "Ignored"
   },
@@ -1045,10 +907,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T01:18:05",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues with build controllers in Team Foundation Server and does not focus on teamwork, communication, or collaboration.",
     "level": "Ignored"
   },
@@ -1070,7 +932,7 @@
     "reasoning": "Content primarily discusses issues related to managing build controllers in Team Foundation Server, with no clear focus on digital transformation or the strategic use of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T01:18:05",
     "ai_confidence": 0,
@@ -1079,24 +941,15 @@
     "reasoning": "Content heavily discusses issues related to Team Foundation Server and managing build controllers, which does not align with the MVP category focused on product development and validation.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T01:18:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses issues related to Team Foundation Server (TFS) and ghost build controllers, without any mention or focus on AI applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T15:09:47",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 68.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the issue of ghost build controllers in Team Foundation Server, which relates to system configuration as it involves managing and troubleshooting build controllers within a software system. The mention of database tables and the process of identifying and resolving the issue aligns with configuration management practices. However, while it touches on configuration aspects, the depth of discussion is more focused on a specific problem rather than a comprehensive exploration of system configuration principles or best practices. Therefore, while it is relevant, it does not fully meet the criteria for a primary focus on system configuration.",
     "level": "Secondary"
   },
@@ -1138,13 +991,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:20:58",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses issues related to ghost build controllers in Team Foundation Server (TFS) and does not address any principles or practices of Test First Development. There are no mentions of success criteria, testing methodologies, or the impact of testing on collaboration, which are core to the Test First Development category. The focus is on troubleshooting and managing build controllers rather than on testing practices.",
     "level": "Ignored"
   },
@@ -1177,10 +1030,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T01:18:05",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical issues related to Team Foundation Server build controllers and their management, with no relevance to team motivation strategies or dynamics.",
     "level": "Ignored"
   },
@@ -1204,15 +1057,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-10T15:02:56",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the issue of ghost build controllers in Team Foundation Server, detailing the troubleshooting process to identify and resolve the problem. It provides specific techniques for diagnosing the issue, such as checking the 'tbl_BuildQueue' table and evaluating various identifiers to confirm the ghost build's status. The depth of the discussion is significant, as it outlines both the problem and the recommended solution, emphasising the importance of not directly deleting database entries. Overall, the content aligns closely with the core themes of troubleshooting, demonstrating a clear focus on identifying and resolving a technical issue.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1225,13 +1078,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:21:00",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses technical issues related to Team Foundation Server and ghost build controllers, with no direct mention of Scrum Master responsibilities or related concepts. It lacks any discussion on Scrum principles, team dynamics, or the role of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
@@ -1251,18 +1104,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to managing build controllers in Team Foundation Server, with no mention of working agreements or teamwork norms.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T06:55:21",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses a specific technical issue related to Team Foundation Server (TFS) and ghost build controllers, which is relevant to software development practices. However, it lacks a broader discussion on Agile or DevOps methodologies, focusing instead on a particular problem-solving scenario. While it touches on aspects of software development, it does not engage with the key themes of Agile or DevOps, resulting in a lower confidence score.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1382,15 +1223,6 @@
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Server, specifically ghost build controllers, without any mention of accountability in terms of team dynamics or ownership.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T01:18:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical issues related to Team Foundation Server and build controllers, with no relevance to Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T01:18:05",
@@ -1411,13 +1243,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:42:20",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical issues related to Team Foundation Server and ghost build controllers, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it touches on problem-solving, it does not align with the core themes of social technologies or provide depth in those areas.",
     "level": "Ignored"
   },
@@ -1450,73 +1282,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:50:35",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily discusses issues related to Team Foundation Server (TFS) and ghost build controllers, with no direct mention of Scrum principles, roles, events, or artifacts. While it touches on project management aspects, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is focused on a technical problem rather than Scrum practices, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:32:54",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses issues related to ghost build controllers in Team Foundation Server, focusing on troubleshooting and database management. It does not address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is centred around a specific technical problem rather than integrating testing, security, or compliance earlier in the software development lifecycle.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:54:09",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on troubleshooting and resolving a specific technical issue related to ghost build controllers in Team Foundation Server. While it does touch on problem-solving and some aspects of process improvement, it lacks a broader discussion on Continuous Improvement principles, such as empirical evidence, team effectiveness, or a culture of experimentation. The content does not align with the key topics outlined for Continuous Improvement, making it a secondary focus rather than a primary one.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:54:11",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on troubleshooting ghost build controllers in Team Foundation Server (TFS) and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth regarding the significance of Common Goals in team collaboration or performance.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:54:13",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on troubleshooting ghost build controllers in Team Foundation Server, which is a technical issue rather than a discussion on competence. While there are mentions of problem-solving and technical skills, these are not explicitly tied to the principles of competence in Agile or DevOps. The discussion lacks depth in terms of continuous learning or fostering a culture of competence, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:20:56",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses technical issues related to ghost build controllers in Team Foundation Server, focusing on troubleshooting and database management. It does not address the principles of Agentic Agility, such as intentional shaping of outcomes, autonomy, or adaptability. There are no explicit mentions of human or AI agency, nor does it explore the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }

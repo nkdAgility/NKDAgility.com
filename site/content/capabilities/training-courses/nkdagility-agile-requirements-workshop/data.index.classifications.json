@@ -1,15 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-21T11:29:30",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on agile requirements management and backlog planning, which are important aspects of Agile methodologies. However, it lacks explicit discussions on social technologies, self-organisation, or collective intelligence. While it touches on team dynamics and planning practices, it does not delve deeply into the underlying social frameworks or methodologies that promote collaboration and decision-making. Therefore, while there is some relevance, the primary focus remains on technical aspects of Agile rather than the broader category of Social Technologies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -22,22 +22,22 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T11:29:32",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on agile requirements management and planning practices, which are not directly related to DevOps principles. While there may be some overlap in terms of collaboration and efficiency, the core themes of DevOps, such as automation, shared accountability, and continuous improvement, are not addressed. The discussion is centred around agile methodologies rather than the DevOps philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T00:34:14",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile requirements management, which is relevant to product management, particularly in the context of backlog management and planning. However, it primarily focuses on a workshop format rather than strategic product management discussions.",
     "level": "Tertiary"
   },
@@ -52,10 +52,10 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T00:34:17",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions 'business-agility' in the tags and discusses agile requirements management, which is related to adapting and responding to customer needs, but it primarily focuses on a specific workshop rather than broader principles or practices of business agility.",
     "level": "Tertiary"
   },
@@ -88,32 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T15:08:58",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 24.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on agile requirements management and planning practices, which are not directly aligned with Evidence-Based Management principles. While there is a mention of backlog management, it lacks explicit discussions on empirical evidence, metrics, or data-informed decision-making that are central to EBM. The depth of discussion is also limited, focusing more on agile practices rather than the strategic approach of EBM.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T00:34:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on agile requirements management and does not address software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T00:34:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on agile requirements management and does not discuss Kanban principles or scaling Kanban practices.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -127,10 +109,10 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T00:34:28",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on agile requirements management, which is a significant aspect of Agile frameworks, but does not delve deeply into specific frameworks or their principles.",
     "level": "Tertiary"
   },
@@ -159,15 +141,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on an Agile requirements workshop, discussing backlog management and planning rather than trend analysis in Agile, DevOps, or business agility.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T00:34:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on agile requirements management and backlog planning, without reference to scaling Agile practices across multiple teams or enterprise-level initiatives.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -235,21 +208,12 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T00:34:44",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on agile requirements management, which is a significant aspect of product delivery, particularly in planning and backlog management. However, it does not delve deeply into the broader methodologies or practices of product delivery.",
     "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T00:34:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses agile requirements management without any mention of AI or its applications in Agile or DevOps.",
-    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -260,15 +224,6 @@
     "reasoning": "Content primarily focuses on agile requirements management and training, without a clear emphasis on digital transformation or the strategic use of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T00:34:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an Agile workshop aimed at teams and product owners, which implies a focus on collaboration and process improvement, but it primarily centres on tools and techniques rather than the human factors involved.",
-    "level": "Tertiary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-18T00:34:49",
@@ -277,15 +232,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on agile requirements management and does not discuss Test Driven Development principles or practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T00:34:51",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily focuses on agile requirements management, backlog management, and planning, which are central themes in Agile Project Management.",
-    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -303,15 +249,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on agile requirements management and does not discuss accountability or team dynamics.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T00:34:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on agile requirements management and workshop details, with no clear discussion on transparency or accountability.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -352,40 +289,40 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T00:35:04",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile requirements management and backlog management, which are relevant to Agile Planning Tools, but the primary focus is on a workshop rather than the tools themselves.",
     "level": "Tertiary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T17:52:40",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on agile requirements management and backlog planning, which are relevant to Scrum but do not explicitly discuss the role or responsibilities of a Scrum Master. While it touches on practices that could be facilitated by a Scrum Master, it lacks direct mentions of the Scrum Master role and does not delve into the broader impact or influence of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T00:35:07",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile requirements management and backlog enhancement, which are relevant to Agile Planning, but it is primarily focused on a workshop format rather than a comprehensive exploration of Agile Planning principles.",
     "level": "Tertiary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T00:35:08",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on agile requirements management and backlog planning, without a clear emphasis on Agile values or principles.",
     "level": "Ignored"
   },
@@ -400,13 +337,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:52:42",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on agile requirements management and backlog planning, with only a brief mention of testable items. It does not explicitly discuss Test First Development principles or practices, nor does it provide substantial detail on success criteria or testing methodologies related to Test First Development.",
     "level": "Ignored"
   },
@@ -457,28 +394,28 @@
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-18T00:35:29",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions breaking down backlogs and enhancing planning, which relates to backlog refinement, but it is primarily focused on a workshop format rather than a detailed discussion of backlog refinement practices.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T00:35:30",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on agile requirements management and does not address the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T00:35:35",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on agile requirements management and backlog management, which are relevant to Agile practices, but it does not primarily discuss Agile transformation strategies or methodologies.",
     "level": "Tertiary"
   },
@@ -509,24 +446,6 @@
     "reasoning": "Content primarily focuses on agile requirements management and does not discuss Scrum values.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T00:35:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on agile requirements management and does not address organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T00:35:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a workshop focused on agile requirements management, which implies practical techniques related to backlog management and planning. However, it does not delve deeply into specific tools or methodologies, making it a secondary theme.",
-    "level": "Tertiary"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
     "calculated_at": "2025-02-18T00:35:44",
@@ -538,10 +457,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-18T00:35:46",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions backlogs and product backlog items, indicating a focus on backlog management, but it primarily centres around a workshop format rather than in-depth discussions on the Product Backlog itself.",
     "level": "Tertiary"
   },
@@ -553,15 +472,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on an Agile workshop and its structure, lacking personal reflections or experiences.",
     "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T00:35:49",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a workshop focused on Agile requirements management, which aligns with the category of events and presentations.",
-    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -590,15 +500,6 @@
     "reasoning": "Content primarily focuses on agile requirements management and does not specifically address Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T00:35:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on agile requirements management and training for teams, without discussing scaling agility or organisational-level practices.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-18T00:35:57",
@@ -619,13 +520,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T15:08:55",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on agile requirements management and planning practices, which are not directly related to Continuous Delivery. While there is a brief mention of breaking down backlogs, the discussion lacks explicit references to Continuous Delivery principles, automation, or the importance of rapid feedback and validation from users. The depth of discussion is also limited, focusing more on agile methodologies rather than the specific practices and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
@@ -674,7 +575,7 @@
     "reasoning": "Content primarily focuses on agile requirements management and does not discuss the Daily Scrum or its related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T00:36:07",
     "ai_confidence": 0,
@@ -692,15 +593,6 @@
     "reasoning": "Content primarily discusses agile requirements management and does not relate to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T00:36:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on agile requirements management and project planning, without a clear emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-18T00:36:13",
@@ -712,13 +604,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T11:29:47",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 52.0,
     "ai_mentions": 30.0,
     "ai_alignment": 40.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 48.0,
+    "final_score": 52.0,
     "reasoning": "The content discusses agile requirements management and planning practices, which are relevant to the Agile Product Operating Model. However, it primarily focuses on project aspects and backlog management rather than the broader principles of APOM. While it touches on product-oriented practices, it lacks a comprehensive exploration of the core themes of the Agile Product Operating Model, such as continuous delivery and operational stability.",
     "level": "Tertiary"
   },
@@ -742,10 +634,10 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T00:36:19",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on Agile requirements management, which is a significant aspect of enhancing market adaptability, but it primarily centres on training rather than broader strategies or methodologies for market responsiveness.",
     "level": "Tertiary"
   },
@@ -787,10 +679,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T00:36:25",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on agile requirements management and backlog planning, with no clear emphasis on metrics or learning.",
     "level": "Ignored"
   },
@@ -821,15 +713,6 @@
     "reasoning": "Content primarily focuses on agile requirements management and workshop details, with no clear emphasis on mentoring or coaching.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T00:36:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on agile requirements management and does not discuss AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-18T00:36:39",
@@ -850,19 +733,19 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T00:36:42",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on agile requirements management and backlog enhancement, which are relevant to operational practices, but it primarily serves as a promotional description for a workshop rather than a detailed discussion on operational efficiency.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T00:36:43",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a workshop for agile requirements management, which is more about tools and techniques rather than the underlying Agile philosophy.",
     "level": "Ignored"
   },
@@ -931,10 +814,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T00:36:53",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile requirements management and backlog management, which are relevant to Agile Product Management, but it is primarily focused on a workshop format rather than in-depth discussions on Agile principles.",
     "level": "Tertiary"
   },
@@ -956,15 +839,6 @@
     "reasoning": "Content primarily focuses on agile requirements management and backlog planning, which are not central to Value Stream Management.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T00:36:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on agile requirements management and does not discuss scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-18T00:36:58",
@@ -973,15 +847,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on agile requirements management and training, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T00:36:59",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a workshop focused on agile requirements management, which relates to Agile practices, but it primarily promotes a training course rather than specific products or literature.",
-    "level": "Tertiary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -1003,10 +868,10 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T00:37:03",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile requirements management and backlog management, which are relevant to practical problem-solving in Agile contexts, but it does not delve deeply into pragmatic thinking techniques or real-world applications.",
     "level": "Tertiary"
   },
@@ -1030,10 +895,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T00:37:07",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile requirements management, which is a significant aspect of delivering working software, but it primarily focuses on training rather than the delivery of functional software itself.",
     "level": "Tertiary"
   },
@@ -1075,10 +940,10 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T00:37:14",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "Content primarily focuses on Agile methodologies, specifically on managing requirements and backlogs, which are central to software development practices.",
     "level": "Secondary"
   },
@@ -1127,15 +992,6 @@
     "reasoning": "Content primarily focuses on agile requirements management and does not discuss cross-functional teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T00:37:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile requirements management, which is relevant to software developers, but it primarily focuses on a workshop format rather than the role of developers in Agile and DevOps contexts.",
-    "level": "Tertiary"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-18T00:37:27",
@@ -1156,30 +1012,21 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T00:37:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on agile requirements management and workshop training, not on installation or configuration processes.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T00:37:36",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions Product Owners as part of the delivery audience and discusses backlog management, which is relevant to the Product Owner's role, but it is primarily focused on a workshop format rather than the specific responsibilities and practices of a Product Owner.",
     "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T00:37:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a workshop for agile requirements management rather than discussing news or reviews related to Agile, DevOps, or technology.",
-    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1219,10 +1066,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T00:37:43",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on agile requirements management and backlog planning, with no clear emphasis on leadership roles or practices within Agile contexts.",
     "level": "Ignored"
   },
@@ -1264,22 +1111,22 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-21T11:29:26",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions agile practices and backlog management, which are relevant to Scrum, but it does not explicitly discuss Scrum roles, events, or principles. The focus is more on agile requirements management rather than the Scrum framework itself, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T00:37:51",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile requirements management and backlog enhancement, which are relevant to value delivery, but the primary focus is on training rather than direct value delivery strategies.",
     "level": "Tertiary"
   },
@@ -1310,15 +1157,6 @@
     "reasoning": "Content primarily focuses on agile requirements management and backlog planning, which are more related to project management than to product discovery methodologies.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T00:38:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions backlog management and product owners, which are relevant to Scrum, but the primary focus is on agile requirements management rather than Scrum practices specifically.",
-    "level": "Tertiary"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
     "calculated_at": "2025-02-18T00:38:05",
@@ -1339,10 +1177,10 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T00:38:07",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on an Agile requirements workshop, which is more about technical practices and training rather than strategic alignment or implementation of Agile methodologies at an organisational level.",
     "level": "Ignored"
   },
@@ -1366,10 +1204,10 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T00:38:11",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on agile requirements management and backlog planning, which are relevant to organisational agility, but it primarily centres on a specific workshop rather than broader organisational strategies or practices.",
     "level": "Tertiary"
   },
@@ -1393,97 +1231,97 @@
   },
   "Artificial Intelligence": {
     "category": "Artificial Intelligence",
-    "calculated_at": "2025-03-21T11:29:35",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on agile requirements management and planning practices, with no explicit mention of Artificial Intelligence or its integration within Agile methodologies. While it discusses aspects of Agile project management, it does not align with the core themes of AI's role in enhancing decision-making or automating tasks. The depth of discussion is limited to Agile practices without any reference to AI applications, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-03-21T11:29:38",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on agile requirements management and planning practices, which are not directly related to Internal Developer Platforms. There are no explicit mentions of IDPs, and the discussion does not align with the core themes of IDPs such as streamlining development processes or automation. The depth of discussion is also minimal, as it does not provide any insights into the architecture, benefits, or best practices of IDPs.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-21T11:29:45",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on agile requirements management and backlog planning, which are not directly related to the Shift-Left Strategy. While there is a mention of breaking down backlogs, it does not discuss integrating testing, security, or compliance earlier in the development process, nor does it provide any depth on the principles or benefits of the Shift-Left approach.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T15:08:37",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on agile requirements management and backlog refinement, which are important aspects of Agile methodologies. However, it does not explicitly discuss Continuous Improvement as a primary focus. While there are elements of reflection and adaptation in the context of backlog management, the content lacks a strong emphasis on empirical evidence, data-driven decision-making, or a culture of experimentation, which are core themes of Continuous Improvement. The depth of discussion is limited to practical aspects of agile planning rather than a comprehensive exploration of Continuous Improvement principles.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T15:08:46",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on agile requirements management and backlog planning, which are important aspects of Agile but do not directly address the concept of Common Goals. While there are mentions of team collaboration and planning, the discussion lacks explicit references to shared objectives or alignment with strategic goals, which are central to the Common Goals category. The depth of discussion is limited to practical techniques without connecting them to overarching organisational objectives.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T15:08:49",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses agile requirements management and planning practices, which are relevant to competence in terms of skill development and effective backlog management. However, it lacks explicit discussions on continuous learning or the broader implications of competence in Agile methodologies. The focus is more on practical application rather than a deep exploration of competence as a foundational principle.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T15:08:52",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on agile requirements management and planning practices, which are not directly related to the One Engineering System framework. While there are mentions of team collaboration and backlog management, these concepts do not align with the core principles of 1ES, such as standardisation and integration of software development practices across teams. The discussion lacks depth regarding the specific components or implementation of 1ES, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T17:52:37",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on agile requirements management and planning practices, which are not directly related to the concept of Agentic Agility. While it discusses aspects of backlog management, it lacks explicit references to intentional shaping of outcomes, autonomy, or adaptability in the context of both human and AI systems. The discussion does not delve into the principles or mechanisms of Agentic Agility, nor does it provide depth on the interplay between human judgement and AI logic.",
     "level": "Ignored"
   }

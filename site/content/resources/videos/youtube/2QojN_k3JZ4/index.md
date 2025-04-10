@@ -2,7 +2,7 @@
 title: 'Bridging the Gap: Understanding the True Meaning of "Done" in Agile Teams'
 description: Discover the true meaning of "done" in Agile. Learn how to bridge the gap between expectations and reality to enhance quality and build trust in your team.
 date: 2023-12-07T11:00:05Z
-weight: 665
+weight: 640
 ResourceId: 2QojN_k3JZ4
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -28,8 +28,9 @@ tags:
 - Software Development
 - Working Software
 - Agile Transformation
-- Organisational Culture
 - Competence
+- Organisational Culture
+- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -37,7 +38,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Technical Leadership
 
 ---
 In my experience working with various organisations, I've often noticed a significant gap between expectation and reality when it comes to the concept of "done." It’s a term that gets thrown around in Agile circles, yet its true meaning can often be lost in translation. 

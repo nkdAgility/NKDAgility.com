@@ -2,7 +2,7 @@
 title: Addressing Systemic Issues in Agile Organizations
 description: Unlock the secrets to startup success! Discover how agile techniques can transform your business and boost team performance in this must-watch video.
 date: 2024-01-24T07:00:16Z
-weight: 510
+weight: 455
 ResourceId: QBX7dnUBzo8
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -31,7 +31,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Agile Transformation
 - Continuous Improvement
 - Organisational Change
@@ -40,10 +39,28 @@ tags:
 - Change Management
 - Organisational Agility
 - Organisational Physics
+- Software Development
 - Enterprise Agility
+- Sociotechnical Systems
+- Systems Thinking
+- Agile Strategy
+- Operational Practices
+- Agile Frameworks
+- Agile Leadership
+- Business Agility
+- Metrics and Learning
+- Organisational Culture
+- Agile Product Management
+- Complexity Thinking
+- Decision Making
+- Evidence Based Leadership
+- Market Adaptability
+- Value Delivery
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
+- Leadership
 
 ---
 Organizations often struggle to address the root causes of inefficiencies, particularly when adopting Agile practices. Instead of tackling the core issues within their systems, they focus on surface-level problems. This blog post will explore these systemic issues and provide insights on how to make meaningful changes that lead to greater effectiveness and agility.

@@ -9,7 +9,7 @@ ResourceImportId: 10558
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-06-11
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,12 +24,18 @@ aliasesArchive:
 - /tfs-process-template-migration-script-updated
 - /resources/blog/tfs-process-template-migration-script-updated
 tags:
+- Azure DevOps
 - Software Development
 - Install and Configuration
-- Practical Techniques and Tooling
-- Azure DevOps
 - System Configuration
 - Pragmatic Thinking
+- Application Lifecycle Management
+- Operational Practices
+- Release Management
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
+- Working Software
 categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 

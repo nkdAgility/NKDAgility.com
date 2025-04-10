@@ -2,7 +2,7 @@
 title: "DevOps Demystified: Why It's More Than Just Tools and How to Embrace Its True Value"
 description: Discover the true essence of DevOps beyond tools. Learn how to leverage its principles for enhanced collaboration and product quality in software development.
 date: 2023-06-07T07:00:02Z
-weight: 525
+weight: 480
 ResourceId: BhGThHrOc8Y
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -28,8 +28,11 @@ duration: 243
 isShort: false
 tags:
 - Software Development
-- Software Developers
 - Pragmatic Thinking
+- Social Technologies
+- Team Collaboration
+- Value Delivery
+- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -38,7 +41,6 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- Social Technologies
 
 ---
 When I think about DevOps, I often find myself reflecting on the misconceptions that surround it. As someone who has been a Microsoft MVP in Azure DevOps for 14 years, I’ve seen firsthand how the term "DevOps" can be misinterpreted. Many people, when they mention DevOps in my presence, are actually referring to Azure DevOps—the tools that come with it. But let me be clear: the tool is not the value. The tool is merely a means to surface or leverage the value that comes from the underlying idea of DevOps.

@@ -28,11 +28,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Development
 - Software Development
-- Agile Product Management
 - Agile Planning
+- Agile Product Management
 - Product Delivery
+- Agile Planning Tools
 resourceTypes:
 - video
 layout: video

@@ -29,8 +29,9 @@ aliasesArchive:
 - /resources/blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
 tags:
 - Troubleshooting
-- Practical Techniques and Tooling
 - Software Development
+- Install and Configuration
+- Pragmatic Thinking
 categories: []
 preview: metro-problem-icon-3-3.png
 

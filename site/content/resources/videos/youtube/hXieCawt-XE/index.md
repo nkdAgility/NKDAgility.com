@@ -2,7 +2,7 @@
 title: 'Mastering Kanban: Creating a Pull-Based System for Workflow Efficiency'
 description: Unlock your team's potential with Kanban! Discover how pull-based principles enhance workflow efficiency, reduce waste, and boost productivity in this insightful video.
 date: 2024-03-05T07:00:18Z
-weight: 990
+weight: 1000
 ResourceId: hXieCawt-XE
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -34,17 +34,18 @@ tags:
 - Operational Practices
 - Continuous Improvement
 - Lean Principles
-- Flow Efficiency
 - Software Development
-- Practical Techniques and Tooling
-- Lean Thinking
+- Flow Efficiency
 - Throughput
+- Lean Thinking
+- Agile Frameworks
 - Pragmatic Thinking
-- Agile Project Management
+- Lean Product Development
 resourceTypes:
 - video
 categories:
 - Kanban
+- Lean
 
 ---
 When implementing a Kanban strategy, we're essentially creating a pull-based system of work. This methodology, which originated in lean manufacturing, offers teams a structured way to visualize, manage, and improve their workflow. If you're struggling with bottlenecks, work piling up, or inefficiencies in your process, Kanban might be exactly what you need.

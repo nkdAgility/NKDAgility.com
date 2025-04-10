@@ -28,8 +28,9 @@ aliasesArchive:
 - /blog/tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
 - /resources/blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
 tags:
-- Install and Configuration
 - Troubleshooting
+- Install and Configuration
+- System Configuration
 categories: []
 preview: metro-problem-icon-5-5.png
 

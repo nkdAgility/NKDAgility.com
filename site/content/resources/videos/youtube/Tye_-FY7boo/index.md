@@ -34,12 +34,15 @@ tags:
 - Product Owner
 - Value Delivery
 - Product Strategy
-- Product Validation
 - Product Discovery
+- Product Validation
 - Agile Strategy
 - Pragmatic Thinking
-- Agile Project Management
-- Products and Books
+- Agile Philosophy
+- Product Delivery
+- Agile Product Operating Model
+- Organisational Agility
+- Professional Scrum
 resourceTypes:
 - video
 categories:

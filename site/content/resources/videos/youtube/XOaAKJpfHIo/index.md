@@ -2,7 +2,7 @@
 title: How important is DevOps in continuous delivery of value to customers?
 description: Discover why DevOps is crucial for agile coaches in delivering continuous value to customers. Join Martin Hinshelwood for key insights!
 date: 2023-02-20T07:00:10Z
-weight: 350
+weight: 280
 ResourceId: XOaAKJpfHIo
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -32,15 +32,28 @@ tags:
 - Software Development
 - Value Delivery
 - Product Delivery
-- Software Developers
-- People and Process
-- Working Software
 - Pragmatic Thinking
 - Market Adaptability
+- Working Software
+- Agile Product Management
+- Agile Strategy
+- Common Goals
+- Continuous Improvement
+- Customer Satisfaction
+- Frequent Releases
+- Team Collaboration
+- Agile Philosophy
+- Agile Transformation
+- Continuous Delivery
+- Operational Practices
+- Organisational Agility
+- Customer Retention
 resourceTypes:
 - video
 categories:
 - DevOps
+- Technical Leadership
+- Engineering Excellence
 
 ---
 How important is DevOps in continuous delivery of value to customers?

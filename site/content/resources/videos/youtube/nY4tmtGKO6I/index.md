@@ -2,7 +2,7 @@
 title: "Mastering Scrum: Essential Insights for New Teams from a Scrum Master's Journey"
 description: Unlock your Scrum team's potential! Discover essential principles, values, and strategies for effective learning and collaboration in this insightful guide.
 date: 2023-11-28T11:00:49Z
-weight: 650
+weight: 610
 ResourceId: nY4tmtGKO6I
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -28,15 +28,20 @@ duration: 30
 isShort: true
 tags:
 - Scrum Master
-- Agile Project Management
 - Scrum Values
-- Scrum Team
 - Professional Scrum
-- Scrum Product Development
 - Agile Frameworks
+- Scrum Team
 - Software Development
 - Coaching
 - Agile Transformation
+- Competence
+- Agile Product Management
+- Agile Planning
+- Continuous Improvement
+- Mentoring
+- Social Technologies
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,7 +50,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
+- Technical Leadership
 
 ---
 As I reflect on my journey as a Scrum Master, I often find myself returning to the foundational elements that are crucial for any new Scrum team. When a team is just starting out, it’s essential to recognise that their understanding of Scrum, empiricism, and the Scrum values will significantly influence their effectiveness. 

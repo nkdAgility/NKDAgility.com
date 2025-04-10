@@ -29,6 +29,9 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
+- Organisational Agility
+- Continuous Learning
+- Empirical Process Control
 resourceTypes:
 - video
 categories: []

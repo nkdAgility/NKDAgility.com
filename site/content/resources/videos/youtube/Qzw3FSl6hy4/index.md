@@ -2,7 +2,7 @@
 title: 'Understanding Product Discovery: Why It Matters More Than Ever'
 description: Discover the vital role of product discovery in shaping successful products. Learn how it differs from traditional development and drives innovation!
 date: 2024-08-26T07:44:38Z
-weight: 995
+weight: 1000
 ResourceId: Qzw3FSl6hy4
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -31,14 +31,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Discovery and Learning
 - Product Discovery
 - Agile Product Management
 - Product Owner
-- Product Strategy
 - Pragmatic Thinking
+- Product Strategy
 - Strategic Goals
+- Value Delivery
+- Ability to Innovate
+- Agile Strategy
+- Entrepreneurship
+- Market Share
 resourceTypes:
 - video
 categories:

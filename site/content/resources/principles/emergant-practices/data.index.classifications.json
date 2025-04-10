@@ -269,15 +269,6 @@
     "reasoning": "Content does not specifically discuss Agile frameworks or their principles; it is too vague and general.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T21:00:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not specifically address scaling agility or related frameworks; it focuses on emergent practices without a clear connection to organisational-level agility.",
-    "level": "Ignored"
-  },
   "Team Collaboration": {
     "category": "Team Collaboration",
     "calculated_at": "2025-02-12T21:00:40",
@@ -316,10 +307,10 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T21:00:46",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not specifically address any core principles or methodologies of Agile engineering practices; it is too vague and does not focus on clean code, TDD, CI/CD, refactoring, automation, or pair programming.",
     "level": "Ignored"
   },
@@ -370,10 +361,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-12T21:00:53",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not explicitly discuss Agile values or principles; it focuses on the emergence of practices and tools without a clear connection to Agile's foundational beliefs.",
     "level": "Ignored"
   },
@@ -424,10 +415,10 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-14T17:59:19",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content mentions the emergence of processes and practices, which aligns loosely with the concept of adaptation in empirical process control, but it does not provide a clear, primary focus on empirical process control principles or practices.",
     "level": "Ignored"
   },
@@ -458,24 +449,15 @@
     "reasoning": "Content does not discuss revenue per employee or related financial metrics; it focuses on processes and practices without relevance to productivity analysis.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-12T21:01:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not specifically address the role of software developers within Agile or DevOps contexts; it is too vague and general.",
-    "level": "Ignored"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:44:44",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not explicitly mention Test First Development or its principles. It discusses the emergence of processes and practices but lacks any direct reference to success criteria, testing methodologies, or the importance of testing in software development.",
     "level": "Ignored"
   },
@@ -542,24 +524,15 @@
     "reasoning": "Content does not discuss Lead Time or its related concepts; it focuses on general processes and practices without specific reference to the measurement of time from work initiation to customer delivery.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T21:01:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss scaling Agile practices or frameworks; it focuses on general processes and practices without reference to multiple teams or enterprise-level initiatives.",
-    "level": "Ignored"
-  },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-14T17:59:19",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the emergence of practices and tools, which aligns with the idea of adaptability in complex environments. However, it lacks explicit discussion of Agile, Scrum, or DevOps principles and does not provide detailed practical problem-solving strategies or real-world applications, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -570,15 +543,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss deployment frequency or related practices; it focuses on general processes and practices without specific reference to Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T21:01:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not specifically address Agile Project Management principles, frameworks, or practices, and is too vague to classify as primarily relevant to the category.",
     "level": "Ignored"
   },
   "Continuous Integration": {
@@ -601,13 +565,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T17:06:15",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content briefly touches on the emergence of processes and practices but lacks explicit discussion on Continuous Delivery principles, automation, or specific strategies related to software delivery. It does not provide sufficient detail or focus on the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
@@ -654,24 +618,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not specifically address team performance or collaboration; it is too vague and general.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T21:01:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss AI or its integration within Agile methodologies, DevOps practices, or software development processes. It focuses on general processes and practices without a specific connection to AI.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T21:01:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Kanban principles or their application in large-scale environments; it is too vague and does not focus on scaling Kanban practices.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -746,33 +692,24 @@
     "reasoning": "Content does not specifically address test automation principles, practices, or tools; it discusses general processes and practices without a focus on testing.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T21:02:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not specifically address Scrum principles, roles, or product development practices; it is too vague and general.",
-    "level": "Ignored"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T21:02:09",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not provide specific techniques or strategies aimed at enhancing operational efficiency; it is too vague and does not focus on practical applications within Agile, DevOps, or Lean frameworks.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:06:18",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content briefly touches on the emergence of practices and tools but lacks any explicit mention of Evidence-Based Management principles or metrics. It does not align with the core themes of EBM, such as data-informed decision-making or empirical evidence, and provides minimal detail on the topic.",
     "level": "Ignored"
   },
@@ -785,24 +722,15 @@
     "reasoning": "Content does not specifically address backlog refinement or related Agile practices; it discusses general processes and practices without a clear focus on backlog management.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T21:02:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not specifically address Scaling Scrum principles, frameworks, or practices; it is too vague and does not focus on the central themes of scaling Scrum in large organisations.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T15:44:42",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content briefly touches on the emergence of practices and tools, which could relate to the Scrum Master's role in facilitating processes. However, it lacks explicit mentions of the Scrum Master, their responsibilities, or any detailed discussion on Scrum principles, making it only tangentially relevant.",
     "level": "Ignored"
   },
@@ -869,7 +797,7 @@
     "reasoning": "Content does not discuss accountability, ownership, or team dynamics in the context of Agile methodologies; it focuses on the emergence of practices and tools.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T21:02:25",
     "ai_confidence": 0,
@@ -880,10 +808,10 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-12T21:02:26",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not specifically discuss collaboration tools or their impact on Agile teams; it is too vague and general.",
     "level": "Ignored"
   },
@@ -970,10 +898,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-12T21:02:38",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not specifically address Agile Planning Tools or their methodologies; it is too vague and general.",
     "level": "Ignored"
   },
@@ -1049,31 +977,13 @@
     "reasoning": "Content does not specifically address Lean principles or methodologies; it focuses on general processes and practices without a clear connection to Lean.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T20:59:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not specifically address organisational resilience or change management; it focuses on emerging practices without a clear connection to the category.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T20:59:06",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on emergent practices rather than specific installation or configuration processes for tools or software.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T20:59:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses processes and practices without a clear focus on code quality or complexity in software development.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1083,15 +993,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not specifically address flow efficiency principles, techniques, or metrics; it is too vague and does not focus on optimising work throughput.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T20:59:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not discuss AI or automation in Agile practices; it focuses on general processes and practices without specific relevance to the category.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -1112,18 +1013,6 @@
     "reasoning": "Content does not specifically address Agile Product Management principles or practices; it is too vague and does not focus on any relevant topics.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-14T17:59:22",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content briefly touches on the emergence of practices and tools, which hints at a learning process. However, it lacks explicit discussions on experimentation, feedback loops, or methodologies that foster innovation. The mention of 'emerge' suggests a connection to discovery, but the overall depth and clarity of the discussion are insufficient to strongly align with the category.",
-    "level": "Ignored"
-  },
   "Systems Thinking": {
     "category": "Systems Thinking",
     "calculated_at": "2025-02-12T20:59:17",
@@ -1135,41 +1024,14 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-03-14T17:59:19",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the concept of emergence, which is a key aspect of complexity thinking. However, it lacks explicit references to complexity science or its frameworks, and the discussion is very superficial, providing minimal detail on how these emergent practices relate to complex adaptive systems or organisational dynamics.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T20:59:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not address transparency or accountability; it focuses on the emergence of practices and tools without clear relevance to the category.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T20:59:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is vague and does not specifically address practical techniques or tooling related to Agile and DevOps practices.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T20:59:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not reference any specific events, presentations, or discussions related to Agile or DevOps; it focuses on general processes and practices.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1183,25 +1045,25 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-06T13:34:52",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 62.0,
     "ai_mentions": 5,
     "ai_alignment": 25,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the emergence of practices and tools in a general sense without directly referencing specific Agile, Scrum, DevOps, or Lean frameworks. While it touches on the idea of processes evolving through work, it lacks detailed exploration or actionable insights related to recognised methodologies, aligning it more with the Miscellaneous category. However, the mention of 'practices' and 'tools' suggests a slight connection to broader Agile concepts, which prevents a lower score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T11:13:19",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly touches on the emergence of processes and practices, which could relate to DevOps principles. However, it lacks explicit mentions of DevOps concepts, does not align closely with the core themes of collaboration, automation, or shared accountability, and provides minimal detail on the subject.",
     "level": "Ignored"
   },
@@ -1212,15 +1074,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not specifically mention Azure DevOps or its functionalities; it discusses general processes and practices without a clear focus on Azure DevOps.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T20:59:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not discuss specific products, books, or relevant literature; it focuses on general processes and practices without clear ties to Agile or DevOps resources.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -1277,18 +1130,6 @@
     "reasoning": "Content does not provide personal reflections or experiences; it focuses on processes and practices without individual context.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-14T17:59:19",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content briefly mentions 'processes' and 'practices', which are relevant to the category, but lacks explicit discussion on team dynamics, leadership, or specific methodologies. The alignment with core themes is moderate, as it hints at the emergence of practices through work, suggesting a human element, but does not provide substantial detail or depth on how people interact with these processes.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-12T20:59:44",
@@ -1298,21 +1139,12 @@
     "reasoning": "Content does not address the interplay between technology and organisational structures, focusing instead on general processes and practices without a clear connection to sociotechnical systems.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T20:59:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on processes and practices without specific reference to news, updates, or reviews related to Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T20:59:46",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not focus on metrics, data utilisation, or learning processes; it discusses general practices and tools without evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -1354,13 +1186,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:47:24",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the emergence of practices and tools, which aligns with the concept of continuous improvement and adaptability in social technologies. However, it lacks explicit discussion on collaboration, decision-making, or value delivery, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -1375,13 +1207,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T11:13:22",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content briefly touches on the emergence of practices and tools, which could relate to agile methodologies, but it lacks explicit references to the Agile Product Operating Model or its core principles. There is no detailed discussion on product management or the transition from project to product ethos, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -1414,85 +1246,85 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T17:59:19",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly touches on the idea of 'emergent practices', which could relate to Scrum's emphasis on continuous improvement and adaptation. However, it lacks explicit mentions of Scrum roles, events, or artifacts, and does not provide sufficient detail or alignment with the core themes of the Scrum framework.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:40:39",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content does not explicitly mention the Shift-Left Strategy or its principles. It vaguely refers to processes and practices emerging during work, which lacks a clear connection to integrating testing, security, or compliance early in the software development lifecycle. The discussion is too general and does not provide any depth or specific techniques related to the Shift-Left approach.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:06:06",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the emergence of processes and practices, which could relate to Continuous Improvement. However, it lacks explicit discussion of Continuous Improvement principles, empirical evidence, or detailed strategies. The mention of 'emerging practices' is too vague and does not provide sufficient depth or alignment with the core themes of Continuous Improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:06:08",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content briefly touches on the emergence of processes and practices but lacks explicit discussion on Common Goals or their significance in Agile and DevOps. It does not provide any depth or detail related to aligning strategy with execution, nor does it connect individual contributions to organisational objectives.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:06:11",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly touches on the emergence of processes and practices but lacks explicit discussion on competence, continuous learning, or skill development. It does not provide sufficient detail or depth regarding the core themes of competence, making it a secondary focus rather than a primary one.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:06:13",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content briefly touches on processes and practices but lacks explicit mention of the One Engineering System framework or its principles. It does not provide sufficient detail or alignment with the core themes of 1ES, such as integration, standardisation, or best practices.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T15:44:39",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content briefly touches on the emergence of practices and tools but lacks explicit discussion on Agentic Agility, its principles, or the intentional shaping of outcomes. It does not differentiate between human and AI capabilities or provide depth on the core themes of the category.",
     "level": "Ignored"
   }

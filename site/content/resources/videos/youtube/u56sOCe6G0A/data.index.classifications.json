@@ -109,10 +109,10 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T00:46:33",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Kanban practices and workflow management, which are not related to system configuration.",
     "level": "Ignored"
   },
@@ -127,19 +127,19 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-12T00:46:36",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban practices and workflow management, without a clear focus on the delivery of functional software or customer value.",
     "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-12T00:46:37",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban practices and workflow management, without a clear focus on structured decision-making methodologies.",
     "level": "Ignored"
   },
@@ -154,24 +154,24 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-12T00:46:40",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Kanban practices and workflow management without any reference to remote working or Agile team collaboration in a distributed environment.",
     "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-03-14T19:28:40",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Kanban practices, which align with Lean principles, particularly in terms of workflow management and waste reduction. However, it does not explicitly mention Lean Product Development or its core themes, such as customer feedback or continuous improvement. The focus is primarily on Kanban rather than a broader discussion of Lean methodologies, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -211,19 +211,19 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T00:46:48",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban practices and workflow management, with no mention of the Definition of Done.",
     "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-12T00:46:49",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Kanban practices and workflow management, which are not central to product strategy.",
     "level": "Ignored"
   },
@@ -238,54 +238,45 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-12T00:46:54",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban practices and workflow management, with no clear focus on Value Stream Mapping.",
     "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-13T15:27:28",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the active management of workflows within a Kanban strategy, which aligns with strategic approaches in Agile. It explicitly mentions the importance of monitoring work in progress and addressing bottlenecks, which are key aspects of optimising delivery processes. However, while it provides practical actions and insights, it lacks a broader discussion on strategic alignment with organisational goals or the integration of Lean principles, which slightly limits its depth in the context of the Strategy category.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T00:46:58",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Kanban practices and workflow management without a focus on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-10T11:46:17",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content focuses extensively on Kanban, a specific Agile framework, discussing its core practices and the importance of actively managing work items within a workflow. It provides detailed insights into how to visualise and manage work in progress (WIP), addressing common challenges and strategies for improvement. The discussion aligns well with the principles of Agile frameworks, particularly in promoting continuous improvement and responsiveness to change. The depth of the content is significant, as it elaborates on practical applications and the implications of managing workflow effectively, making it a strong fit for the category.",
-    "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T00:47:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Kanban practices and workflow management, which are primarily team-level agile practices, rather than scaling agility across an organisation.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
@@ -307,34 +298,34 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-03-10T14:02:13",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses Kanban, a Lean tool, and emphasises the importance of actively managing workflow to enhance efficiency and minimise waste. It aligns well with Lean principles, particularly in terms of flow and waste identification. However, while it provides substantial detail on Kanban practices, it does not explicitly mention broader Lean concepts or principles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-03-14T19:28:08",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses workflow management in a Kanban strategy, which indirectly relates to Cycle Time through concepts like monitoring work in progress and addressing bottlenecks. However, it does not explicitly define or focus on Cycle Time as a primary metric, nor does it provide in-depth analysis or strategies specifically aimed at reducing Cycle Time. The discussion is more about general workflow efficiency rather than the specific measurement and implications of Cycle Time.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T00:47:08",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban practices rather than core engineering practices like clean code, TDD, or CI/CD.",
     "level": "Ignored"
   },
@@ -349,15 +340,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T17:58:10",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content focuses extensively on Kanban, a key Agile framework within software development. It discusses the active management of work items, which is central to Kanban practices, and provides detailed insights into workflow visualisation and work-in-progress (WIP) management. The depth of discussion on how to handle blockages and improve flow aligns well with core themes of software development methodologies. Overall, the content is highly relevant and provides substantial detail on a specific aspect of software development.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -370,15 +361,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-11T09:56:57",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the importance of actively managing work items within a Kanban workflow, which directly relates to throughput by addressing work in progress (WIP) and the flow of work. It highlights techniques for optimising throughput, such as reducing WIP and managing blockages, which are key strategies for improving throughput. The depth of discussion is substantial, providing insights into how to identify and resolve issues that affect the flow of work, thus aligning well with the category's focus on measuring and optimising work completion rates.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -391,10 +382,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-12T00:47:15",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Kanban practices and strategies without reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -427,10 +418,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-12T00:47:25",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban practices and workflow management, with no clear focus on change management principles or strategies.",
     "level": "Ignored"
   },
@@ -445,15 +436,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-14T19:28:16",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 42.0,
     "ai_mentions": 5,
     "ai_alignment": 30,
     "ai_depth": 7,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses active management within a Kanban strategy, which aligns with the principles of empirical process control, particularly in terms of monitoring work in progress and addressing bottlenecks. However, it primarily focuses on Kanban practices rather than explicitly discussing empirical process control or its broader implications in Agile methodologies. The depth of discussion is moderate, providing practical actions but lacking theoretical foundations or case studies related to empirical process control.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -482,27 +473,15 @@
     "reasoning": "Content heavily discusses Kanban practices and workflow management without any reference to revenue per employee metrics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-14T19:28:37",
-    "ai_confidence": 42.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Kanban practices, which are relevant to Agile methodologies, but it does not explicitly mention software developers or their roles. While it aligns with some core themes of Agile, such as workflow management and optimization, it lacks depth in discussing the specific impact on developers or their collaboration within Agile teams.",
-    "level": "Ignored"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:03:16",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 5.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses exclusively on Kanban practices and workflow management, with no mention or discussion of Test First Development principles, success criteria, or testing methodologies.",
     "level": "Ignored"
   },
@@ -526,15 +505,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-14T19:28:18",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses identifying and addressing issues within a Kanban workflow, which aligns with troubleshooting principles. It mentions specific problems like aging work items and blocked items, providing actionable strategies to resolve these issues. However, the primary focus is on workflow management rather than a dedicated troubleshooting context, which slightly lowers the confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
@@ -565,36 +544,27 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-03-14T19:28:08",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses workflow management in a Kanban strategy, focusing on optimising flow and addressing bottlenecks. However, it does not explicitly mention Lead Time or its measurement, nor does it delve into its importance or strategies for reducing it. The discussion is more about general workflow efficiency rather than the specific metric of Lead Time.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T00:47:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Kanban practices without reference to scaling Agile across multiple teams or enterprise-level initiatives.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T11:19:52",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses practical strategies for managing work items in a Kanban workflow, which aligns well with the principles of Pragmatic Thinking. It emphasises the importance of actively managing work in progress (WIP) and addressing blockages, demonstrating real-world applications of Agile principles. The depth of discussion is substantial, providing specific examples and encouraging proactive problem-solving, which is central to the category. However, while it is focused on Kanban, it does not explicitly mention Agile or Scrum, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -605,57 +575,45 @@
     "reasoning": "Content heavily discusses Kanban practices and workflow management, without a focus on deployment frequency.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-11T14:24:54",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 38.0,
-    "ai_depth": 29.0,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content focuses on Kanban, a key framework within Agile Project Management, discussing its practices and the importance of active management in workflows. It directly mentions Kanban and its principles, aligning well with agile methodologies. However, while it provides practical insights, it lacks broader discussions on agile principles or frameworks beyond Kanban, which limits its depth.",
-    "level": "Secondary"
-  },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-14T19:28:35",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on the technical practices of Kanban, such as managing work items and optimising workflow, rather than discussing Agile strategy as a whole. While it touches on aspects of continuous value delivery and workflow management, it lacks a broader discussion on organisational vision alignment or strategic planning, which are key themes of Agile Strategy.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T17:43:05",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban practices and workflow management, which are not directly related to Continuous Delivery principles. While it discusses process optimisation and active management, it does not address Continuous Delivery concepts such as automation, rapid feedback, or incremental improvements. Therefore, the confidence score reflects a minimal connection to the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-12T00:48:28",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban practices and workflow management, with no clear focus on cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T00:48:29",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban practices and workflow management, with no clear focus on the Definition of Ready.",
     "level": "Ignored"
   },
@@ -679,35 +637,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-14T19:28:32",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses active management within a Kanban strategy, which indirectly relates to team performance by addressing workflow efficiency and bottlenecks. However, it lacks explicit focus on team dynamics, collaboration, or Agile principles, which are central to the 'Team Performance' category. The discussion is primarily about process management rather than team collaboration or performance metrics.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T00:48:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Kanban practices and workflow management without any mention of AI.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-03-14T19:28:30",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on active management within a Kanban strategy, which is a fundamental aspect of Kanban but does not specifically address scaling Kanban practices in large organisations. While it discusses managing workflow and optimising processes, it lacks direct references to scaling Kanban across multiple teams or departments, which is essential for a higher confidence score in this category.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -721,36 +658,36 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-12T00:48:38",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Kanban practices and workflow management, with no focus on working agreements or team collaboration norms.",
     "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-03-11T16:14:03",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses active management within a Kanban strategy, which aligns with Lean principles of optimising workflow and reducing waste. However, it primarily focuses on Kanban practices rather than explicitly addressing Lean principles as a primary topic. The discussion on workflow management and bottleneck resolution reflects Lean concepts but lacks depth in exploring broader Lean principles such as Muda or Kaizen.",
     "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-14T19:28:23",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on Kanban, which is a framework within Agile methodologies. It discusses active management of workflows, monitoring work in progress, and addressing bottlenecks, all of which are relevant to Agile practices. However, it lacks a broader discussion on Agile transformation principles, change management strategies, or leadership roles, which are crucial for a comprehensive understanding of Agile transformation. Therefore, while it aligns with Agile concepts, it does not fully encompass the category's scope.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -772,10 +709,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-12T00:48:49",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Kanban practices and workflow management, which are primarily focused on operational efficiency rather than organisational change.",
     "level": "Ignored"
   },
@@ -788,36 +725,27 @@
     "reasoning": "Content heavily discusses Kanban practices and workflow management, with no mention of test automation or related topics.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T00:48:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban practices and does not focus on Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-11T17:26:41",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the active management of workflows within a Kanban strategy, which is a key operational practice. It provides detailed techniques for monitoring work in progress, preventing bottlenecks, and optimising flow, all of which align closely with the core themes of operational efficiency and continuous improvement. The depth of discussion is substantial, offering actionable insights and strategies that directly relate to enhancing operational practices.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:43:07",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Kanban practices and workflow management, with limited direct mention of Evidence-Based Management principles. While it discusses optimising processes and using metrics, it does not explicitly connect these practices to empirical decision-making or the core themes of EBM. The depth of discussion on EBM concepts is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -830,24 +758,15 @@
     "reasoning": "Content primarily discusses Kanban practices and workflow management, with no clear focus on backlog refinement or related Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T00:48:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban practices and does not relate to Scaling Scrum principles or frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T16:03:14",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content focuses exclusively on Kanban practices and does not mention the Scrum Master role or its responsibilities. While it discusses workflow management, it does not align with the core themes of Scrum or the impact of a Scrum Master. The discussion lacks depth regarding Scrum principles, making it irrelevant to the category.",
     "level": "Ignored"
   },
@@ -898,15 +817,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-14T19:28:11",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily discusses Kanban practices, focusing on workflow management rather than Agile Planning principles. While it touches on aspects of iterative improvement and efficiency, it lacks direct references to Agile Planning methodologies, such as user stories or sprint planning. The discussion is more about Kanban as a framework than about Agile Planning as a whole, which diminishes its relevance to the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -917,7 +836,7 @@
     "reasoning": "Content primarily discusses managing work items in a Kanban workflow, focusing on process optimisation rather than accountability or team ownership.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T00:49:12",
     "ai_confidence": 0,
@@ -1099,75 +1018,48 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-03-06T13:47:53",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 68.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses Kanban, which is a Lean tool, and emphasises the importance of actively managing work in progress (WIP) to maximise flow and value delivery. It aligns with Lean principles by addressing waste reduction and continuous improvement. However, while it touches on Lean concepts, the primary focus is on Kanban practices rather than a broader discussion of Lean methodologies, which slightly limits its depth of discussion on Lean as a whole.",
     "level": "Secondary"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T00:45:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Kanban practices and workflow management without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T00:45:23",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Kanban practices and workflow management, with no focus on installation or configuration of tools.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T00:45:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Kanban practices and workflow management, which are not directly related to software code quality or complexity.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-03-06T14:54:58",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 34,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the importance of actively managing work items within a Kanban workflow, which directly relates to flow efficiency. It highlights the need to reduce work in progress (WIP) and addresses the identification and management of bottlenecks, aligning well with the core themes of flow efficiency. The depth of discussion is substantial, providing detailed insights into practices for optimising throughput and managing blockages, which are critical for enhancing flow. Overall, the content is highly relevant to the category.",
-    "level": "Secondary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T00:45:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Kanban practices and workflow management without any mention of AI or automation.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-14T19:28:25",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses active management within a Kanban strategy, which is relevant to product delivery methodologies. It mentions key practices such as monitoring work in progress, preventing bottlenecks, and optimising workflow, aligning with the core themes of product delivery. However, it lacks a broader discussion on the integration of these practices into the overall product delivery process, which limits its depth and direct relevance.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1176,15 +1068,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban practices and workflow management, which are not directly related to Agile Product Management principles.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T00:45:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Kanban practices and workflow management without a focus on learning or discovery processes.",
     "level": "Ignored"
   },
   "Systems Thinking": {
@@ -1203,36 +1086,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban practices and workflow management without a clear focus on complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T00:45:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Kanban practices and workflow management without addressing transparency or accountability.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-06T15:48:55",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content provides a detailed exploration of the practical application of Kanban, specifically focusing on the active management of work items within a workflow. It discusses key practices such as managing work in progress (WIP) and addressing blockages, which are essential components of Kanban methodology. The discussion is rich in detail, offering insights into how teams can improve their processes and enhance delivery outcomes. The content aligns well with the category's focus on practical techniques and tooling, making it a strong fit.",
-    "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T00:45:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Kanban practices and workflow management without reference to any events, presentations, or discussions related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1255,13 +1108,13 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T17:42:50",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban, a project management methodology, rather than discussing DevOps principles or practices. While it touches on workflow management, it does not align with the core themes of DevOps such as collaboration, automation, or shared accountability. The discussion lacks depth in relation to DevOps, making it a secondary topic at best.",
     "level": "Ignored"
   },
@@ -1272,15 +1125,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Kanban practices without specific reference to Azure DevOps or its functionalities.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T00:45:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the practices of Kanban without reference to specific products or literature.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -1294,25 +1138,25 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-03-06T13:47:47",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 38,
     "ai_depth": 36,
     "non_ai_confidence": 50,
-    "final_score": 88.0,
+    "final_score": 92.0,
     "reasoning": "The content explicitly discusses key Kanban practices, particularly the active management of work items and the importance of visualising workflows. It aligns well with Kanban principles, such as limiting work in progress (WIP) and optimising flow, while providing detailed insights into managing blockages and improving efficiency. The depth of discussion is substantial, covering various aspects of Kanban methodology, which supports a high confidence score.",
     "level": "Primary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-07T13:04:34",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the active management of work items within a Kanban framework, which aligns with the principles of iterative development and maximising customer value. However, it primarily focuses on the technical aspects of managing workflow rather than explicitly addressing broader value delivery strategies or methodologies. While it touches on the importance of flow and reducing blockages, it lacks a comprehensive exploration of how these practices directly enhance customer satisfaction or business agility.",
     "level": "Secondary"
   },
@@ -1327,15 +1171,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-14T19:28:08",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on Kanban practices, which are part of Agile methodologies, but does not explicitly discuss organisational agility as a primary focus. While it touches on aspects of workflow management and optimisation, it lacks a broader discussion on cultural shifts, leadership roles, or organisational structures that enhance agility. The depth of discussion is moderate, providing practical steps for managing workflows but not addressing the overarching themes of organisational agility.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
@@ -1346,18 +1190,6 @@
     "reasoning": "Content primarily discusses technical aspects of Kanban practices without personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-14T19:28:13",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 25,
-    "ai_depth": 25,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses the active management of workflows in a Kanban strategy, which touches on process methodologies. However, it primarily focuses on the technical aspects of managing work items rather than the human factors or team dynamics involved in the process. While there are mentions of collaboration and addressing blockages, the depth of discussion on human behaviour and team interactions is limited, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-12T00:46:07",
@@ -1367,26 +1199,17 @@
     "reasoning": "Content primarily discusses Kanban practices and workflow management without addressing the interplay between social and technical systems.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T00:46:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the practices of Kanban and does not discuss news, updates, or reviews related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-14T19:28:28",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses active management within a Kanban strategy, focusing on workflow optimisation and addressing bottlenecks. While it briefly mentions the use of metrics and data for informed decision-making, the primary focus is on management practices rather than a comprehensive exploration of metrics and learning principles. The discussion lacks depth in terms of evidence-based decision-making and continuous improvement methodologies, which are central to the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -1399,15 +1222,15 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-03-14T19:28:08",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 45.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily discusses Kanban practices, focusing on workflow management and efficiency. While it touches on concepts like optimizing flow and addressing bottlenecks, which are relevant to Value Stream Management, it does not explicitly mention Value Stream Management or its principles. The discussion is more aligned with Kanban methodology rather than a strategic approach to managing value streams across an organisation.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1438,13 +1261,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T17:43:03",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban practices, which are related to agile methodologies but do not specifically address the Agile Product Operating Model. While it discusses workflow management and optimisation, it lacks direct references to product management principles, the transition from project to product ethos, or the integration of Scrum practices. Therefore, it does not align well with the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
@@ -1459,13 +1282,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:55:41",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Kanban practices and workflow management, which are more technical in nature. While it touches on aspects of optimisation and efficiency, it lacks explicit discussions on collaboration, decision-making, or the social frameworks that underpin social technologies. The depth of discussion is moderate, but it does not sufficiently align with the core themes of social technologies, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -1489,13 +1312,13 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:48:28",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses exclusively on Kanban practices and does not mention Scrum at all. It discusses workflow management and work in progress (WIP) but does not align with Scrum principles, roles, or events. The depth of discussion is also limited to Kanban, making it irrelevant to the Scrum category.",
     "level": "Ignored"
   },
@@ -1513,37 +1336,37 @@
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:42:53",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses active management within a Kanban strategy, which aligns with Continuous Improvement principles by focusing on optimising processes and addressing bottlenecks. However, it lacks explicit references to Continuous Improvement as a broader concept and does not delve deeply into empirical evidence or case studies, which limits its overall depth and alignment with the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:42:55",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on active management within a Kanban strategy, discussing workflow optimisation and bottleneck prevention. While it touches on aspects of team efficiency, it does not explicitly address Common Goals or their significance in Agile or DevOps frameworks. The discussion lacks depth regarding shared objectives or alignment with strategic goals, which are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:42:57",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 12,
     "ai_depth": 8,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses active management within a Kanban strategy, which indirectly relates to competence through the emphasis on optimising processes and addressing bottlenecks. However, it lacks a direct focus on continuous learning, skill development, or the broader implications of competence in Agile methodologies. The discussion is more about workflow management than the development of professional capabilities.",
     "level": "Ignored"
   },
@@ -1561,13 +1384,13 @@
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:03:11",
+    "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on active management within a Kanban strategy, discussing workflow optimisation and bottleneck prevention. While it touches on proactive engagement, it does not explicitly address the concept of Agentic Agility or differentiate between human and AI capabilities. The discussion lacks depth in exploring the intentional shaping of outcomes or the transformative capacity of individuals and systems, which are central to Agentic Agility.",
     "level": "Ignored"
   }

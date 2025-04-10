@@ -9,7 +9,7 @@ ResourceImportId: 3408
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-02
-weight: 710
+weight: 675
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,13 +26,13 @@ aliasesArchive:
 tags:
 - Software Development
 - Troubleshooting
-- System Configuration
-- Practical Techniques and Tooling
 - Pragmatic Thinking
+- System Configuration
 - Technical Mastery
-- Install and Configuration
-- Working Software
 - Technical Excellence
+- Working Software
+- Install and Configuration
+- Azure DevOps
 preview: metro-visual-studio-2005-128-link-4-4.png
 categories: []
 

@@ -23,7 +23,8 @@ aliasesArchive:
 - /blog/an-application-deployment
 - /an-application-deployment
 - /resources/blog/an-application-deployment
-tags: []
+tags:
+- Miscellaneous
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

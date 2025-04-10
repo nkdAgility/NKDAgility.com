@@ -1,13 +1,13 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:05:06",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a webcast about Product Ownership and Lean Product Development, which are relevant to Agile methodologies. However, it lacks explicit discussions on social technologies, collaboration, or decision-making frameworks. While it mentions actionable takeaways and real-world examples, these are not deeply tied to the principles of social technologies as defined in the category. The content is more promotional and informative rather than a discussion on the underlying social frameworks.",
     "level": "Ignored"
   },
@@ -22,25 +22,25 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T18:49:56",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Product Ownership and Lean Product Development, which are not directly related to DevOps principles. While there may be some tangential relevance to collaboration and efficiency, the core themes of DevOps, such as automation, shared accountability, and continuous improvement, are not discussed. Therefore, the confidence score reflects a very low alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T13:34:05",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on a webcast featuring experts discussing Product Ownership and Lean Product Development, which are relevant to Product Management. However, while it mentions key concepts and offers insights, it lacks in-depth exploration of methodologies or frameworks that guide product managers. The discussion is more promotional and introductory rather than a detailed analysis of strategic product management practices.",
     "level": "Secondary"
   },
@@ -55,13 +55,13 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-14T22:01:01",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a webcast about Product Ownership and Lean Product Development, which are related to agile methodologies but do not explicitly discuss the broader principles of business agility. While there are mentions of actionable strategies and real-world examples, the depth of discussion on business agility itself is limited, and the content does not address key topics such as leadership's role in promoting agility or the integration of agile practices. Therefore, the confidence score reflects a low primary focus on the category.",
     "level": "Ignored"
   },
@@ -76,15 +76,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-14T22:01:01",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on a webcast featuring discussions on Product Ownership and Lean Product Development, which are relevant to Scrum but do not explicitly delve into the core principles, roles, or events of the Scrum framework. While it mentions Product Ownership, it lacks a comprehensive exploration of Scrum roles or practices as outlined in the Scrum Guide. The depth of discussion is limited to promoting the event rather than providing in-depth insights into Scrum itself.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -107,44 +107,26 @@
     "reasoning": "The content primarily focuses on a webcast about Product Ownership and Lean Product Development, with no explicit discussion of Evidence-Based Management principles or metrics. While it mentions actionable takeaways and real-world examples, these do not directly relate to the core themes of EBM, such as empirical decision-making or current value metrics.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T17:55:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses product ownership and lean product development, with no clear focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T17:55:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Product Ownership and Lean Product Development, with no clear discussion on Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T17:55:47",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on product ownership and lean product development without discussing hypothesis formulation, experimentation, or validated learning.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-10T11:59:42",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 62.0,
     "ai_mentions": 30.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Lean Product Development, which is an Agile methodology, and mentions the importance of product ownership within Agile frameworks. However, it does not delve deeply into specific Agile frameworks like Scrum or Kanban, nor does it provide a comprehensive analysis of their principles or comparative insights. The focus is more on the event and the speakers rather than a thorough exploration of Agile frameworks.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -157,10 +139,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T17:55:52",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a webcast about Product Ownership and Lean Product Development, with no clear discussion on the Definition of Ready.",
     "level": "Ignored"
   },
@@ -171,15 +153,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on a webcast about Product Ownership and Lean Product Development, without discussing trends or their implications in Agile, DevOps, or business agility.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T17:55:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Product Ownership and Lean Product Development without discussing scaling Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -220,10 +193,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T17:56:03",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on product ownership and lean product development, with no direct discussion on team performance or collaboration strategies.",
     "level": "Ignored"
   },
@@ -247,24 +220,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-10T14:11:52",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on a webcast discussing Product Ownership and Lean Product Development, which are closely related to product delivery methodologies. It mentions actionable strategies and real-world examples, aligning well with the core themes of product delivery. However, while it provides valuable insights, the depth of discussion on specific product delivery practices is somewhat limited, focusing more on the event rather than in-depth methodologies.",
     "level": "Secondary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T17:56:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily focuses on product ownership and lean product development, with no mention of AI or its application in Agile or DevOps.",
-    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -275,48 +239,24 @@
     "reasoning": "Content primarily focuses on Product Ownership and Lean Product Development, without a clear emphasis on digital transformation strategies or technologies.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-10T18:07:48",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily promotes a webcast focused on Product Ownership and Lean Product Development, which are relevant to the category. However, while it mentions insights from experts and actionable takeaways, it lacks a deep exploration of team dynamics, leadership roles, or specific methodologies that enhance collaboration and communication. The discussion is more about the event and less about the interplay of people and processes, leading to a moderate confidence score.",
-    "level": "Secondary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-17T17:56:13",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Product Ownership and Lean Product Development, with no mention of Test Driven Development principles or practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-11T10:06:10",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 17.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content primarily focuses on a webcast discussing Product Ownership and Lean Product Development, which are relevant to Agile Project Management. However, it lacks detailed exploration of agile principles, frameworks, or methodologies. While it mentions actionable strategies and insights, it does not delve deeply into the core themes of Agile Project Management, such as Scrum roles or iterative development practices.",
-    "level": "Secondary"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-03-11T11:29:07",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content primarily focuses on a webcast discussing Product Ownership and Lean Product Development, which aligns with Lean Thinking principles. However, it does not delve deeply into specific Lean concepts or tools, and the discussion is more about the event rather than a thorough exploration of Lean principles. The mention of 'Lean Product Development' indicates some relevance, but the overall depth and direct discussion of Lean Thinking are limited.",
     "level": "Secondary"
   },
@@ -327,15 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on product ownership and lean product development, with no clear discussion on accountability or team dynamics.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T17:56:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a webcast about Product Ownership and Lean Product Development, with no clear discussion on transparency or accountability.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -376,43 +307,43 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T17:56:26",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on product ownership and lean product development, without a clear emphasis on Agile planning tools.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T16:33:09",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Product Ownership and Lean Product Development, with only a brief mention of Scrum Masters in the context of training courses. While there is some alignment with agile principles, the discussion lacks depth regarding the specific role and responsibilities of a Scrum Master, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-14T22:01:01",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a webcast about Product Ownership and Lean Product Development, which are related to Agile methodologies but do not explicitly discuss Agile Planning principles. While there are mentions of actionable strategies and insights that could be relevant to Agile practices, the content lacks a direct focus on Agile Planning techniques, frameworks, or specific discussions about planning processes. Therefore, it aligns only tangentially with the category.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T17:56:30",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a webcast about Product Ownership and Lean Product Development, without a clear emphasis on Agile values or principles.",
     "level": "Ignored"
   },
@@ -427,13 +358,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:33:12",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on Product Ownership and Lean Product Development, with no direct mention of Test First Development principles or practices. While it may touch on related themes of agile methodologies, it lacks specific discussions on success criteria, testing practices, or the role of testing in development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
@@ -493,24 +424,24 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T17:56:52",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on product ownership and lean product development, without a clear emphasis on the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-14T22:01:01",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on a webcast about Product Ownership and Lean Product Development, which are related to Agile practices but do not explicitly discuss Agile transformation as a primary focus. While there are mentions of Agile principles and methodologies, the depth of discussion on Agile transformation strategies, change management, or leadership roles is limited. The content does not provide substantial insights into the broader themes of Agile transformation, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -523,45 +454,24 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-03-13T15:13:55",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses Lean Product Development, which is a relevant aspect of Lean Principles, indicating a direct mention. It aligns with core themes of Lean thinking, such as value creation and waste reduction, but does not delve deeply into specific Lean tools or practices. The overall depth of discussion is moderate, focusing on insights and actionable takeaways without extensive exploration of Lean methodologies.",
     "level": "Secondary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T17:56:58",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a webcast about Product Ownership and Lean Product Development, with no direct discussion of Scrum Values.",
     "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T17:56:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Product Ownership and Lean Product Development, with no clear discussion on organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-13T15:35:48",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content primarily promotes a webcast focused on Product Ownership and Lean Product Development, which are relevant to Agile methodologies. However, it lacks detailed discussions on specific tools or practical techniques, making it more of an announcement than a deep exploration of the category. While it mentions actionable takeaways and real-world examples, these are not elaborated upon in a way that aligns closely with the core themes of Practical Techniques and Tooling.",
-    "level": "Tertiary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -574,10 +484,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T17:57:03",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a webcast about Product Ownership and Lean Product Development, without a clear emphasis on the Product Backlog itself.",
     "level": "Ignored"
   },
@@ -590,24 +500,12 @@
     "reasoning": "Content primarily promotes a webcast and training classes, lacking personal reflections or experiences related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-13T16:44:01",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content explicitly promotes a specific webcast featuring industry experts discussing Product Ownership and Lean Product Development, which aligns directly with the category of Events and Presentations. It includes details about the event, such as the speakers, the format (interactive Q&A), and the benefits of attending, demonstrating a strong alignment with the core themes of sharing insights and fostering community learning. The depth of discussion is substantial, providing clear expectations and actionable takeaways for attendees, which further supports its classification in this category.",
-    "level": "Secondary"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T17:57:07",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on product ownership and lean product development, with no clear discussion on working agreements or team collaboration norms.",
     "level": "Ignored"
   },
@@ -622,23 +520,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-14T22:01:01",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a webcast about Product Ownership and Lean Product Development, which are related to Agile but not specifically to Scrum Team dynamics. While it mentions roles like Product Owners and Scrum Masters, the discussion lacks depth on team collaboration, communication strategies, or Scrum-specific practices. The content is more promotional and educational rather than a detailed exploration of Scrum Team dynamics.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T17:57:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on product ownership and lean product development, without discussing scaling agility or related frameworks.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -682,10 +571,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T17:57:17",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on product ownership and lean product development, with no clear emphasis on remote working practices or challenges.",
     "level": "Ignored"
   },
@@ -700,26 +589,26 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-14T22:01:01",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a webcast about Product Ownership and Lean Product Development, which are relevant to Agile methodologies but does not explicitly discuss team collaboration or dynamics. While it mentions actionable takeaways and insights that could indirectly benefit team collaboration, the primary focus is on individual roles and methodologies rather than on enhancing teamwork or communication within teams.",
     "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-17T17:57:22",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a webcast about Product Ownership and Lean Product Development, with no clear discussion on Daily Scrum or its related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T17:57:23",
     "ai_confidence": 0,
@@ -737,18 +626,6 @@
     "reasoning": "Content primarily discusses product ownership and lean product development, with no mention of Windows operating system topics.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-14T22:01:04",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content primarily promotes a webcast focused on Product Ownership and Lean Product Development, which aligns with the themes of discovery and learning. It mentions insights from experts and actionable takeaways, indicating a focus on learning. However, the discussion lacks depth in exploring methodologies or processes that foster innovation and continuous learning, which limits its overall alignment with the category.",
-    "level": "Secondary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T17:57:27",
@@ -760,13 +637,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T18:50:12",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a webcast discussing Product Ownership and Lean Product Development, which are related to agile practices but do not explicitly address the Agile Product Operating Model. While there are mentions of product management principles, the discussion lacks depth in terms of the specific frameworks and operational aspects outlined in the APOM. The content does not provide a comprehensive exploration of the key topics associated with the Agile Product Operating Model, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -781,24 +658,24 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-17T17:57:37",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Product Ownership and Lean Product Development, with no clear discussion on Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-14T22:01:10",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on a webcast discussing Product Ownership and Lean Product Development, which are relevant to market adaptability. However, it does not explicitly mention market adaptability or directly address strategies for responding to market shifts. While Lean principles are touched upon, the discussion lacks depth in terms of Agile methodologies, continuous feedback loops, or DevOps practices, which are crucial for enhancing market adaptability.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -838,10 +715,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T17:57:45",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on product ownership and lean product development, with no clear emphasis on metrics or learning principles.",
     "level": "Ignored"
   },
@@ -856,13 +733,13 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-03-14T22:01:12",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 73.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly mentions 'Lean Product Development' in the title and discusses it as a primary focus of the webcast. However, while it hints at principles and real-world examples, it lacks in-depth exploration of Lean concepts, techniques for waste elimination, or detailed strategies for continuous improvement. The overall discussion is more promotional and less analytical, which affects the depth of the content.",
     "level": "Secondary"
   },
@@ -873,15 +750,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on a webcast about Product Ownership and Lean Product Development, with no direct discussion on mentoring or coaching techniques.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T17:57:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on Product Ownership and Lean Product Development without any mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -895,43 +763,43 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-14T22:01:16",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a webcast about Product Ownership and Lean Product Development, which are relevant to Agile methodologies. However, it does not explicitly discuss strategic alignment or the development of strategic approaches within Agile, Scrum, or DevOps frameworks. While there are mentions of practical strategies and insights, the depth of discussion on strategic concepts is limited, making it more of an informative event announcement rather than a strategic discourse.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-14T22:01:18",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily promotes a webcast focused on Product Ownership and Lean Product Development, which are relevant to operational practices. However, it lacks detailed discussions on specific operational techniques or strategies. While it mentions actionable takeaways and real-world examples, the depth of discussion on operational efficiency is minimal, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T17:57:58",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a webcast about Product Ownership and Lean Product Development, without a clear emphasis on Agile Philosophy principles or values.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-17T17:57:59",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Product Ownership and Lean Product Development, with no clear discussion on Acceptance Test Driven Development or related principles.",
     "level": "Ignored"
   },
@@ -955,15 +823,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-14T22:01:21",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily promotes a webcast focused on Product Ownership and Lean Product Development, which are relevant to Continuous Learning. However, it lacks explicit discussions on growth mindset, knowledge sharing, or feedback loops. While it mentions actionable takeaways and insights from experts, the depth of discussion on Continuous Learning principles is limited, making it a secondary focus rather than a primary one.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -994,13 +862,13 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-14T22:01:23",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 72.0,
     "ai_mentions": 60.0,
     "ai_alignment": 80.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on a webcast discussing Product Ownership and Lean Product Development, which are closely related to Agile Product Management. It mentions the role of experts in the field and promises actionable insights, aligning well with Agile principles. However, while it touches on relevant topics, it lacks in-depth discussion on specific Agile methodologies or practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -1022,15 +890,6 @@
     "reasoning": "Content primarily focuses on Product Ownership and Lean Product Development, without a clear emphasis on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T17:58:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on Product Ownership and Lean Product Development, with no clear discussion on scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-17T17:58:14",
@@ -1039,18 +898,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on a webcast about Product Ownership and Lean Product Development, without a clear emphasis on the interplay between technology and organisational structures.",
     "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-14T22:01:26",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content primarily promotes a webcast featuring experts discussing Product Ownership and Lean Product Development, which aligns with the category's focus on Agile methodologies. However, it lacks in-depth analysis or reviews of specific products or books, and while it mentions actionable takeaways, it does not provide substantial detail on literature or tools. The primary focus is on the event rather than a comprehensive discussion of products or books.",
-    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -1072,13 +919,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-14T22:01:29",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses practical strategies and real-world applications of Lean Product Development, which aligns well with the core themes of Pragmatic Thinking. It highlights insights from industry experts and promises actionable takeaways, indicating a focus on practical problem-solving. However, while it mentions relevant concepts, the depth of discussion on navigating complexity and uncertainty in project management is somewhat limited, preventing a higher confidence score.",
     "level": "Secondary"
   },
@@ -1102,13 +949,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-14T22:01:31",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily promotes a webcast focused on Product Ownership and Lean Product Development, which are relevant to the broader context of working software. However, it lacks direct discussions on the characteristics of working software, quality assurance practices, or specific methodologies like Agile and Scrum. While it mentions actionable takeaways and real-world examples, the depth of discussion on working software principles is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -1123,13 +970,13 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-03-14T22:01:33",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses Lean Product Development, which is a relevant aspect of Lean methodologies. However, while it mentions Lean, the primary focus is on product ownership and the webcast format rather than an in-depth exploration of Lean principles or methodologies. The discussion includes some alignment with Lean concepts, but lacks detailed exploration of key topics such as waste reduction techniques or continuous improvement practices.",
     "level": "Secondary"
   },
@@ -1144,34 +991,34 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-03-14T22:01:36",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on a webcast featuring experts discussing Product Ownership and Lean Product Development. While it touches on relevant themes such as actionable strategies and insights from experts, it lacks a direct discussion on product strategy methodologies, frameworks, or detailed alignment with organisational goals. The mention of Lean Product Development suggests some alignment with product strategy, but the overall depth and focus on strategic planning and market analysis are limited.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T22:01:38",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on a webcast discussing Product Ownership and Lean Product Development, which are relevant to software development methodologies. However, while it touches on important themes such as Lean methodologies and product development strategies, it lacks in-depth technical discussions or specific software engineering practices. The mention of actionable takeaways and real-world examples indicates some alignment with software development principles, but the overall depth and direct focus on software engineering practices are limited.",
     "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T17:58:34",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on product ownership and lean product development without a clear emphasis on evidence-based leadership principles or practices.",
     "level": "Ignored"
   },
@@ -1204,23 +1051,11 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-17T17:58:41",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Product Ownership and Lean Product Development, with no significant discussion on cross-functional teams.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-14T22:01:41",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content primarily focuses on a webcast about Product Ownership and Lean Product Development, which are relevant to software development but do not directly address the role of software developers in Agile and DevOps contexts. While developers are mentioned as part of the audience, the discussion is more centred on product ownership rather than the specific practices and methodologies that enhance developer productivity and collaboration. The alignment with the category is moderate, as it touches on Agile principles but lacks depth in discussing how these principles specifically impact developers.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1243,35 +1078,23 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T17:58:47",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses product ownership and lean product development, with no focus on installation or configuration processes.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-03-14T22:01:44",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 75.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
+    "final_score": 75.0,
     "reasoning": "The content primarily promotes a webcast focused on Product Ownership, featuring discussions by experts in the field. It mentions the role of the Product Owner and offers insights relevant to their responsibilities, such as Lean Product Development and practical strategies. However, the depth of discussion on specific Product Owner responsibilities and techniques is limited, as it mainly serves as an invitation rather than an in-depth exploration of the role.",
-    "level": "Secondary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-14T22:01:46",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content primarily promotes a webcast featuring experts discussing Product Ownership and Lean Product Development, which aligns with the themes of Agile methodologies. However, it lacks in-depth analysis or reviews of tools and practices, focusing more on event promotion than on providing industry news or evaluations. The direct mention of Agile concepts is present, but the overall depth of discussion is limited to the event details rather than broader industry insights.",
     "level": "Secondary"
   },
   "Azure Repos": {
@@ -1303,28 +1126,28 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-17T17:58:55",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on product ownership and lean product development, with no clear discussion on asynchronous development principles or practices.",
     "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T17:58:57",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Product Ownership and Lean Product Development, with no clear emphasis on Agile leadership roles or practices.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T17:58:58",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on product ownership and lean product development, with no clear discussion on team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1339,10 +1162,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T17:59:01",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a webcast about Product Ownership and Lean Product Development, without a clear emphasis on validating product ideas through user engagement.",
     "level": "Ignored"
   },
@@ -1357,15 +1180,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-14T22:01:48",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily promotes a webcast focused on Product Ownership and Lean Product Development, which are relevant to value delivery. However, it lacks in-depth discussions on specific strategies or methodologies for delivering value within Agile or DevOps frameworks. While it mentions actionable takeaways and real-world examples, the overall focus is more on the event itself rather than a comprehensive exploration of value delivery principles.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -1378,35 +1201,23 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T17:59:09",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Product Ownership and Lean Product Development, with no focus on deployment methodologies.",
     "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-03-14T22:01:51",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily promotes a webcast focused on Product Ownership and Lean Product Development, which are related to product discovery. However, it lacks direct discussions on methodologies for identifying customer needs or defining product features. While it mentions actionable takeaways and insights from experts, the depth of discussion on product discovery techniques is minimal, leading to a moderate confidence score.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-14T22:01:53",
-    "ai_confidence": 62.0,
-    "ai_mentions": 30.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 30,
-    "final_score": 59.0,
-    "reasoning": "The content discusses Product Ownership and Lean Product Development, which are relevant to Scrum principles. However, it does not explicitly mention Scrum roles or processes, leading to a moderate confidence score. The depth of discussion on actionable strategies and real-world examples contributes positively, but the lack of direct references to Scrum practices limits the overall alignment.",
     "level": "Tertiary"
   },
   "Organisational Change": {
@@ -1420,24 +1231,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T17:59:15",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a webcast about Product Ownership and Lean Product Development, with no mention of the Definition of Done.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-14T22:01:55",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on a webcast about Product Ownership and Lean Product Development, which are related to Agile methodologies. However, it does not explicitly discuss Agile strategy or the alignment of organisational vision with Agile principles. While it mentions actionable takeaways and real-world examples, the depth of discussion on strategic implementation and continuous value delivery is limited, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Increment": {
     "category": "Increment",
@@ -1459,15 +1270,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-14T22:01:58",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on a webcast about Product Ownership and Lean Product Development, which are related to agile methodologies. However, it does not explicitly discuss organisational agility as a primary focus. While it touches on principles of lean methodologies and offers actionable takeaways, it lacks depth in exploring how these concepts enhance organisational adaptability or responsiveness. The mention of experts and real-world examples provides some alignment, but the overall discussion remains more centred on product development rather than the broader organisational agility framework.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1480,15 +1291,15 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-03-14T22:02:01",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses Lean Product Development, which is related to Lean Startup principles, but it does not explicitly mention key concepts such as MVP or the Build-Measure-Learn feedback loop. While it provides insights and real-world examples, the depth of discussion on Lean Startup methodologies is limited, focusing more on product ownership rather than the iterative learning process central to Lean Startup.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1522,73 +1333,73 @@
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:56:06",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Product Ownership and Lean Product Development, with no explicit mention of the Shift-Left Strategy. While it discusses principles of product development, it does not address integrating testing, security, or compliance earlier in the software development lifecycle, which are core themes of the Shift-Left Strategy. The discussion lacks depth in relation to the category, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T18:50:00",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on promoting a webcast about Product Ownership and Lean Product Development, with only brief mentions of concepts related to Continuous Improvement. While it hints at actionable takeaways and real-world examples, it lacks a deep exploration of Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation. The overall emphasis is more on the event and its speakers rather than on Continuous Improvement as a primary focus.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T18:50:02",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on promoting a webcast about Product Ownership and Lean Product Development, with little direct mention of Common Goals. While it touches on themes relevant to Agile and product development, it lacks a clear discussion on aligning strategy with execution or the significance of shared objectives. The depth of discussion on Common Goals is minimal, as the content is more promotional than analytical.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T18:50:05",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily promotes a webcast focused on Product Ownership and Lean Product Development, with only brief mentions of skill improvement and actionable takeaways. While it aligns with the theme of competence through the emphasis on learning and development, it lacks depth in discussing continuous learning or strategies for fostering a culture of competence. The primary focus is on the event rather than a thorough exploration of competence as a foundational principle.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:50:08",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Product Ownership and Lean Product Development, which are not directly related to the One Engineering System framework. While there are mentions of methodologies and practices, they do not align with the core themes of 1ES, such as integration and standardisation of engineering processes. The discussion lacks depth regarding 1ES principles, components, or implementation strategies.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:33:06",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Product Ownership and Lean Product Development, with no explicit discussion of Agentic Agility or its principles. While it may touch on themes of autonomy and adaptability in product development, it lacks a clear connection to the intentional shaping of outcomes or the distinction between human and AI capabilities. The depth of discussion is minimal, primarily promoting a webcast rather than exploring the concept of Agentic Agility.",
     "level": "Ignored"
   }

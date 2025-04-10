@@ -9,7 +9,7 @@ ResourceImportId: 9338
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-03-23
-weight: 295
+weight: 230
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,17 +26,27 @@ aliasesArchive:
 tags:
 - Software Development
 - Agile Frameworks
-- Agile Project Management
-- People and Process
 - Technical Debt
 - Engineering Practices
-- Software Developers
-- Team Performance
 - Pragmatic Thinking
+- Team Performance
+- Agile Transformation
+- Scrum Master
 - Competence
+- Technical Excellence
+- Working Software
+- Technical Mastery
+- Agile Product Management
+- Continuous Improvement
+- Professional Scrum
+- Scrum Team
+- Empirical Process Control
+- Product Delivery
+- Agile Planning
 categories:
 - Engineering Excellence
 - Scrum
+- Technical Leadership
 preview: nakedalm-experts-professional-scrum-3-3.png
 
 ---

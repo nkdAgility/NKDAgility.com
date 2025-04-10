@@ -26,8 +26,9 @@ preview: https://i.ytimg.com/vi/xaLNCbr9o3Y/maxresdefault.jpg
 duration: 1162
 isShort: false
 tags:
-- Events and Presentations
 - Software Development
+- Agile Frameworks
+- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

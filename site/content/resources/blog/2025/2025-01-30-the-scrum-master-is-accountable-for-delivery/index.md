@@ -6,7 +6,7 @@ ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-01-30
-weight: 275
+weight: 205
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -29,19 +29,43 @@ aliasesArchive:
 - /the-scrum-master-is-accountable-for-delivery
 - /blog/the-scrum-master-is-accountable-for-delivery
 tags:
+- Agile Frameworks
 - Increment
-- Accountability
-- Scrum Product Development
+- Professional Scrum
 - Scrum Master
 - Software Development
 - Product Delivery
 - Scrum Team
 - Value Delivery
 - Working Software
-- Professional Scrum
+- Team Performance
+- Empirical Process Control
+- Agile Planning
+- Agile Product Management
+- Agile Transformation
+- Operational Practices
+- Competence
+- Pragmatic Thinking
+- Agile Leadership
+- Continuous Improvement
+- Team Collaboration
+- Agile Strategy
+- Common Goals
+- Agile Values and Principles
+- Social Technologies
+- Technical Excellence
+- Throughput
+- Current Value
+- Engineering Practices
+- Metrics and Learning
+- Organisational Agility
+- Technical Mastery
+- Flow Efficiency
+- Transparency
 categories:
 - Scrum
-- Leadership
+- Product Development
+- Technical Leadership
 preview: 2025-01-30-the-scrum-master-is-accountable-for-delivery.jpg
 
 ---

@@ -31,9 +31,10 @@ tags:
 - System Configuration
 - Install and Configuration
 - Release Management
-- Practical Techniques and Tooling
 - Troubleshooting
 - Windows
+- Azure DevOps
+- Software Development
 categories: []
 
 ---

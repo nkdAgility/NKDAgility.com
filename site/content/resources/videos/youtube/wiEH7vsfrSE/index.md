@@ -2,7 +2,7 @@
 title: Why Cost-Cutting During Recessions Is Counterproductive
 description: Discover how to recession-proof your business by investing in people and processes. Learn Kanban strategies to boost effectiveness and thrive, not just survive!
 date: 2024-07-04T06:45:04Z
-weight: 850
+weight: 840
 ResourceId: wiEH7vsfrSE
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -33,14 +33,26 @@ sitemap:
 tags:
 - Business Agility
 - Organisational Agility
-- People and Process
-- Resilience and Change
 - Market Adaptability
 - Continuous Improvement
 - Enterprise Agility
 - Sociotechnical Systems
 - Pragmatic Thinking
 - Continuous Learning
+- Organisational Change
+- Organisational Culture
+- Organisational Physics
+- Competence
+- Agile Strategy
+- Change Management
+- Complexity Thinking
+- Miscellaneous
+- Operational Practices
+- Social Technologies
+- Strategic Goals
+- Systems Thinking
+- Value Delivery
+- Sensemaking
 resourceTypes:
 - video
 categories:

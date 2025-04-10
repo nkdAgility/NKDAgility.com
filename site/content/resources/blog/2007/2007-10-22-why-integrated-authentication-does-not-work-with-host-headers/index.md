@@ -9,7 +9,7 @@ ResourceImportId: 296
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-10-22
-weight: 995
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,6 +30,7 @@ aliasesArchive:
 tags:
 - Windows
 - Troubleshooting
+- System Configuration
 categories: []
 
 ---

@@ -28,11 +28,14 @@ aliasesArchive:
 - /blog/merge-team-projects-into-one-in-tfs
 - /resources/blog/merge-many-team-projects-one-tfs
 tags:
-- Install and Configuration
-- Practical Techniques and Tooling
 - Software Development
+- Install and Configuration
 - System Configuration
 - Troubleshooting
+- Azure DevOps
+- Operational Practices
+- Pragmatic Thinking
+- Modern Source Control
 categories: []
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 

@@ -2,7 +2,7 @@
 title: 'Navigating Agile Transformation: Empowering Teams for Success in a Rapidly Changing Landscape'
 description: Unlock the secrets to effective Agile leadership! Discover how to empower teams, focus on value, and embrace change in a fast-paced world.
 date: 2020-04-17T18:57:11Z
-weight: 620
+weight: 590
 ResourceId: r_Af7X25IDk
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,16 +26,30 @@ preview: https://i.ytimg.com/vi/r_Af7X25IDk/maxresdefault.jpg
 duration: 3615
 isShort: false
 tags:
-- Agile Project Management
 - Organisational Agility
-- Agile Transformation
-- People and Process
-- Agile Leadership
 - Software Development
+- Agile Transformation
+- Agile Leadership
 - Pragmatic Thinking
-- Technical Leadership
+- Agile Philosophy
+- Agile Strategy
+- Business Agility
 - Change Management
-- Events and Presentations
+- Value Delivery
+- Agile Product Management
+- Agile Values and Principles
+- Market Adaptability
+- Organisational Change
+- Organisational Culture
+- Product Delivery
+- Agile Product Operating Model
+- Competence
+- Continuous Improvement
+- Continuous Learning
+- Enterprise Agility
+- Operational Practices
+- Sociotechnical Systems
+- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -44,6 +58,7 @@ resourceTypes:
 - video
 categories:
 - Leadership
+- Technical Leadership
 - Product Management
 
 ---

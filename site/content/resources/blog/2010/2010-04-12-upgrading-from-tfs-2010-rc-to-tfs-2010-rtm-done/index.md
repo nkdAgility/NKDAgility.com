@@ -9,7 +9,7 @@ ResourceImportId: 53
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-12
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,14 +25,14 @@ aliasesArchive:
 - /resources/blog/upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
 tags:
 - Install and Configuration
-- System Configuration
-- Windows
 - Software Development
-- Practical Techniques and Tooling
+- System Configuration
 - Azure DevOps
+- Windows
 - Release Management
 - Application Lifecycle Management
 - Troubleshooting
+- Modern Source Control
 preview: metro-visual-studio-2010-128-link-36-36.png
 categories: []
 

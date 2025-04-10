@@ -9,7 +9,7 @@ ResourceImportId: 9149
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-11-27
-weight: 420
+weight: 360
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,18 +24,35 @@ aliasesArchive:
 - /continuous-value-delivery-with-modern-business-applications
 - /resources/blog/continuous-value-delivery-with-modern-business-applications
 tags:
+- Frequent Releases
 - Software Development
 - Deployment Frequency
-- Frequent Releases
 - Continuous Delivery
+- Release Management
 - Value Delivery
 - Working Software
 - Product Delivery
-- Release Management
 - Pragmatic Thinking
-- Software Developers
+- Agile Strategy
+- Continuous Improvement
+- Market Adaptability
+- Operational Practices
+- Organisational Agility
+- Technical Excellence
+- Engineering Practices
+- Flow Efficiency
+- Increment
+- Agile Product Management
+- Agile Transformation
+- Business Agility
+- Continuous Integration
+- Throughput
+- Trend Analysis
+- Application Lifecycle Management
+- Technical Mastery
 categories:
 - Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

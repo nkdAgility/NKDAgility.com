@@ -2,7 +2,7 @@
 title: 'Transform Your Career: How to Become a Confident Scrum Master Through Real-World Learning and Community Support'
 description: Transform your career as a Scrum Master with hands-on training that builds confidence, fosters community, and applies Agile principles in real-time. Join us!
 date: 2023-07-13T07:41:01Z
-weight: 720
+weight: 690
 ResourceId: cb6JpfomYRU
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -27,15 +27,26 @@ duration: 353
 isShort: false
 tags:
 - Competence
-- People and Process
 - Scrum Master
-- Agile Project Management
 - Coaching
-- Discovery and Learning
-- Continuous Learning
 - Team Collaboration
+- Continuous Learning
 - Personal
 - Organisational Agility
+- Pragmatic Thinking
+- Software Development
+- Agile Frameworks
+- Agile Transformation
+- Agile Product Management
+- Mentoring
+- Professional Scrum
+- Social Technologies
+- Agile Philosophy
+- Team Performance
+- Agile Values and Principles
+- Agile Planning
+- Operational Practices
+- Scrum Team
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -44,7 +55,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 When I think about the journey of becoming a Scrum Master, I often reflect on the transformative experiences that shape our understanding and application of Agile principles. One of the most significant aspects of this journey is the immediate ability to put theory into practice. From the very first session of my training, participants are not just passive learners; they are actively engaged in identifying and addressing real issues within their organisations. 

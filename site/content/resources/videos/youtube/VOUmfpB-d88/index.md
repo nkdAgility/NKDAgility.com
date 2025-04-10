@@ -2,7 +2,7 @@
 title: 'Transforming Training: The Power of Immersive Learning in Scrum'
 description: Discover NKD Agility's unique training approach with Martin Hinshelwood, empowering the next generation of Agile practitioners to thrive in complexity.
 date: 2024-05-08T06:45:02Z
-weight: 630
+weight: 590
 ResourceId: VOUmfpB-d88
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -30,21 +30,37 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Continuous Learning
 - Agile Transformation
-- Discovery and Learning
-- Agile Project Management
 - Pragmatic Thinking
 - Agile Frameworks
+- Software Development
+- Coaching
 - Continuous Improvement
 - Team Collaboration
-- Software Development
+- Competence
+- Agile Philosophy
+- Agile Product Management
+- Agile Strategy
+- Change Management
+- Operational Practices
+- Organisational Agility
+- Organisational Change
+- Scrum Master
+- Value Delivery
+- Social Technologies
+- Team Performance
+- Ability to Innovate
+- Customer Feedback Loops
+- Organisational Culture
+- Professional Scrum
+- Scrum Team
+- Sociotechnical Systems
+- Product Delivery
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 ## **The Shift from Traditional to Immersive Learning**

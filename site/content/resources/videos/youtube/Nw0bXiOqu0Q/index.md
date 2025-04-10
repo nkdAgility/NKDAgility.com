@@ -2,7 +2,7 @@
 title: Why are recessions a great time for organizations to evaluate the opportunity of agile?
 description: Discover why recessions spark a shift towards agile methodologies, enabling organisations to adapt and thrive in turbulent times. Join Martin Hinshelwood!
 date: 2023-02-09T07:15:02Z
-weight: 625
+weight: 590
 ResourceId: Nw0bXiOqu0Q
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,16 +29,37 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Empirical Process Control
-- People and Process
-- Business Agility
 - Agile Philosophy
+- Business Agility
+- Pragmatic Thinking
+- Empirical Process Control
 - Organisational Agility
 - Value Delivery
-- Pragmatic Thinking
 - Agile Strategy
 - Software Development
 - Market Adaptability
+- Agile Transformation
+- Change Management
+- Agile Frameworks
+- Organisational Change
+- Agile Leadership
+- Continuous Improvement
+- Enterprise Agility
+- Hypothesis Driven Development
+- Agile Values and Principles
+- Continuous Learning
+- Decision Making
+- Evidence Based Leadership
+- Experimentation
+- Metrics and Learning
+- Organisational Culture
+- Sensemaking
+- Ability to Innovate
+- Customer Satisfaction
+- Social Technologies
+- Sociotechnical Systems
+- Competence
+- Organisational Physics
 resourceTypes:
 - video
 categories: []

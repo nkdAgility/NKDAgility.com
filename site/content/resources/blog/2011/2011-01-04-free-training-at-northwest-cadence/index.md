@@ -9,7 +9,7 @@ ResourceImportId: 19
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2011-01-04
-weight: 850
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,7 +24,7 @@ aliasesArchive:
 - /free-training-at-northwest-cadence
 - /resources/blog/free-training-at-northwest-cadence
 tags:
-- Events and Presentations
+- Miscellaneous
 categories: []
 preview: metro-event-128-link-3-3.png
 

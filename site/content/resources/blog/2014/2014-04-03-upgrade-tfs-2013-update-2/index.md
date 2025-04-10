@@ -9,7 +9,7 @@ ResourceImportId: 10479
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-04-03
-weight: 810
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,16 +28,19 @@ aliasesArchive:
 - /blog/should-i-upgrade-to-tfs-2013-update-2-
 - /resources/blog/upgrade-tfs-2013-update-2
 tags:
-- Windows
 - Software Development
-- Install and Configuration
-- Release Management
-- Practical Techniques and Tooling
-- News and Reviews
+- Windows
 - Azure DevOps
-- System Configuration
+- Release Management
+- Install and Configuration
 - Application Lifecycle Management
-- Products and Books
+- System Configuration
+- Pragmatic Thinking
+- Technical Excellence
+- Working Software
+- Modern Source Control
+- Product Delivery
+- Technical Mastery
 categories: []
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 

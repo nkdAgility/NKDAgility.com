@@ -9,7 +9,7 @@ ResourceImportId: 10378
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-03-04
-weight: 495
+weight: 440
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,14 +28,23 @@ aliasesArchive:
 - /blog/tfs-for-cross-team-and-cross-business-line-work-item-tracking
 - /resources/blog/tfs-cross-team-cross-business-line-work-item-tracking
 tags:
-- Practical Techniques and Tooling
-- Software Development
 - Pragmatic Thinking
 - Azure DevOps
-- Product Delivery
+- Software Development
 - Operational Practices
+- Product Delivery
 - Team Collaboration
-- Scaled Agile
+- Collaboration Tools
+- Application Lifecycle Management
+- Install and Configuration
+- Large Scale Agility
+- Social Technologies
+- Sociotechnical Systems
+- Technical Excellence
+- Technical Mastery
+- Working Software
+- Modern Source Control
+- Team Performance
 categories: []
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 

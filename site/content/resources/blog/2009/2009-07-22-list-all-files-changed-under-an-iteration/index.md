@@ -9,7 +9,7 @@ ResourceImportId: 99
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-22
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,6 +25,7 @@ aliasesArchive:
 - /resources/blog/list-all-files-changed-under-an-iteration
 tags:
 - Software Development
+- Azure DevOps
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

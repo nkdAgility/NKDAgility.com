@@ -9,7 +9,7 @@ ResourceImportId: 9741
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-31
-weight: 675
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,20 +24,39 @@ aliasesArchive:
 - /searching-for-self-organisation
 - /resources/blog/searching-for-self-organisation
 tags:
-- Self Organisation
-- People and Process
-- Organisational Agility
 - Agile Values and Principles
 - Team Collaboration
 - Team Motivation
-- Team Performance
-- Organisational Culture
-- Accountability
-- Scrum Team
-categories:
 - Social Technologies
-- Scrum
+- Self Organisation
+- Organisational Agility
+- Team Performance
+- Agile Philosophy
+- Sociotechnical Systems
+- Organisational Culture
+- Scrum Team
+- Pragmatic Thinking
+- Beta Codex
+- Agile Transformation
+- Business Agility
+- Coaching
+- Complexity Thinking
+- Organisational Change
+- Software Development
+- Agile Leadership
+- Organisational Physics
+- Organisational Psychology
+- Agile Frameworks
+- Agile Product Management
+- Agile Strategy
+- Continuous Improvement
+- Sensemaking
+- Personal
+- Employee Engagement
+categories:
 - Leadership
+- Scrum
+- Technical Leadership
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

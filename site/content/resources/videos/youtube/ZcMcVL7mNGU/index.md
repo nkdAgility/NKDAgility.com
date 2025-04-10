@@ -2,7 +2,7 @@
 title: 'Bridging the Gap: How to Align Your Organisation for Successful Agile Product Management'
 description: Transform your product management approach! Discover how to align teams, embrace agile, and maximise value delivery in software development.
 date: 2024-05-06T13:29:40Z
-weight: 625
+weight: 590
 ResourceId: ZcMcVL7mNGU
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -25,16 +25,39 @@ preview: https://i.ytimg.com/vi/ZcMcVL7mNGU/maxresdefault.jpg
 duration: 256
 isShort: false
 tags:
-- Common Goals
-- People and Process
 - Agile Strategy
+- Common Goals
 - Agile Product Management
-- Product Delivery
-- Software Development
 - Value Delivery
 - Agile Philosophy
 - Pragmatic Thinking
-- Agile Project Management
+- Product Delivery
+- Software Development
+- Business Agility
+- Organisational Agility
+- Metrics and Learning
+- Agile Product Operating Model
+- Decision Making
+- Evidence Based Leadership
+- Product Strategy
+- Social Technologies
+- Sociotechnical Systems
+- Team Collaboration
+- Enterprise Agility
+- Ability to Innovate
+- Agile Frameworks
+- Continuous Improvement
+- Customer Satisfaction
+- Evidence Based Management
+- Hypothesis Driven Development
+- Operational Practices
+- Organisational Change
+- Product Owner
+- Strategic Goals
+- Team Motivation
+- Working Software
+- Sensemaking
+- Organisational Physics
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,7 +66,6 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- Social Technologies
 
 ---
 In my journey through the world of software development, I've often encountered a significant gap in how organisations approach product management. This gap becomes glaringly obvious when companies attempt to transition from traditional project management methods—think Gantt charts and rigid milestones—to a more agile mindset. The reality is that building software products is inherently complex and dynamic, and the old ways simply don’t cut it anymore.

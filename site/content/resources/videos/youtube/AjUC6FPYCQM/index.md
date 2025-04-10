@@ -2,7 +2,7 @@
 title: 'Unlocking the True Potential of Scrum: Why Professionalism Matters in Agile Teams'
 description: Unlock the true potential of Scrum! Discover how professionalism can transform your team's approach and deliver real value. Join the journey to excellence today!
 date: 2023-04-20T07:00:06Z
-weight: 720
+weight: 690
 ResourceId: AjUC6FPYCQM
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -27,16 +27,20 @@ preview: https://i.ytimg.com/vi/AjUC6FPYCQM/maxresdefault.jpg
 duration: 369
 isShort: false
 tags:
-- Agile Project Management
-- People and Process
 - Software Development
 - Agile Frameworks
 - Competence
 - Agile Product Management
 - Professional Scrum
-- Software Developers
 - Agile Transformation
+- Pragmatic Thinking
 - Team Performance
+- Scrum Master
+- Team Collaboration
+- Scrum Team
+- Agile Planning
+- Empirical Process Control
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -44,6 +48,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Management
 
 ---
 Do teams truly grasp the power of applying Scrum professionally? This is a challenging and somewhat contentious question. In my experience, many teams I've encountered operate more like amateurs than professionals. This isn't necessarily their fault; it's often a reflection of the expectations set by their organisations. Too frequently, companies don't demand professionalism; instead, they push for speed and output, which leads us, as software engineers, to adopt shortcuts that prioritise the easy, fast, and cheap over the right way of doing things. This environment fosters unprofessional behaviour and ultimately undermines the potential of Scrum.

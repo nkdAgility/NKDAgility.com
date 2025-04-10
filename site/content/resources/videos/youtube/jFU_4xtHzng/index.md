@@ -30,11 +30,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Discovery and Learning
 - Continuous Learning
 - Continuous Improvement
 - Pragmatic Thinking
+- Competence
+- Lean Principles
+- Organisational Agility
 resourceTypes:
 - video
 categories: []

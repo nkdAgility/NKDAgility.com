@@ -9,7 +9,7 @@ ResourceImportId: 45324
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-12-28
-weight: 490
+weight: 440
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -26,18 +26,48 @@ aliasesArchive:
 - /resources/blog/there-is-no-place-like-production
 tags:
 - Product Validation
-- Increment
+- Pragmatic Thinking
 - Value Delivery
 - Working Software
-- Pragmatic Thinking
 - Agile Product Management
+- Evidence Based Management
 - Product Discovery
-- Agile Product Operating Model
-- Product Delivery
+- Increment
 - Agile Philosophy
+- Product Delivery
+- Ability to Innovate
+- Evidence Based Leadership
+- Agile Strategy
+- Business Agility
+- Continuous Improvement
+- Lean Startup
+- Organisational Agility
+- Release Management
+- Frequent Releases
+- Agile Values and Principles
+- Customer Retention
+- Decision Making
+- Empirical Process Control
+- Experimentation
+- Hypothesis Driven Development
+- Lean Product Development
+- Metrics and Learning
+- MVP
+- Product Owner
+- Agile Product Operating Model
+- Customer Satisfaction
+- Lean Principles
+- Operational Practices
+- Product Strategy
+- Value Stream Management
+- Continuous Delivery
+- Market Adaptability
+- Software Development
+- Customer Feedback Loops
+- Deployment Frequency
 categories:
 - Product Management
-- Social Technologies
+- DevOps
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg
 
 ---

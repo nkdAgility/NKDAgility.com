@@ -1,24 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T09:20:13",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of running a router on Hyper-V, with no relevance to Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T14:45:51",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 75.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content provides a detailed guide on setting up a router using Hyper-V, which directly relates to practical techniques and tooling in a technical context. It discusses specific tools (e.g., physdiskwrite, DD-WRT) and methodologies for implementing a virtual router, aligning well with the category's focus. The depth of discussion is significant, covering step-by-step instructions and considerations for configuration, which enhances its relevance to the category. However, while it is primarily focused on practical application, it does not explicitly mention Agile or DevOps practices, which slightly lowers the alignment score.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -31,41 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T07:18:35",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical instructions for setting up a router on Hyper-V, with no direct mention or discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any empirical evidence or metrics related to management practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T09:20:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses setting up a router on Hyper-V and troubleshooting network issues, with no significant focus on code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T09:20:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details of running a router on Hyper-V, with no clear emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T09:20:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses setting up a router on Hyper-V and does not relate to AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -79,24 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T12:40:37",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 82.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content provides a detailed step-by-step guide on how to set up a router using Hyper-V, which directly aligns with the 'Install and Configuration' category. It discusses the installation of a virtual hard disk (VHD) and the configuration of a virtual machine (VM) to host router firmware, which are key aspects of installation and configuration processes. The content also includes troubleshooting tips and considerations for network settings, enhancing its relevance to the category. The primary focus is on practical, actionable instructions, fulfilling the category's requirements effectively.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T09:20:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical setup and troubleshooting for running a router on Hyper-V, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,76 +68,49 @@
     "reasoning": "Content primarily discusses technical setup and configuration of a router on Hyper-V without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T09:20:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical implementation of running a router on Hyper-V, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T07:18:19",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on setting up a router on Hyper-V and does not discuss DevOps principles, practices, or cultural shifts. While it touches on technical aspects of virtual machines and networking, it lacks any mention of collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The discussion is more aligned with IT infrastructure and networking rather than DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T04:28:16",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a practical implementation of running a router on Hyper-V, which is more of a technical how-to rather than a discussion on engineering practices that enhance agility or technical excellence. While it does touch on aspects of virtualisation and network configuration, it lacks a broader discussion on methodologies like TDD, CI/CD, or modular architecture that are central to the category of Technical Excellence. The depth of technical detail is present, but it does not align closely with the core themes of the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T07:18:33",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses entirely on technical instructions for running a router on Hyper-V, with no mention of agile methodologies, product management principles, or any related concepts that align with the Agile Product Operating Model. It does not discuss transitioning from project to product ethos, nor does it touch on any of the key topics outlined in the category description.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T09:57:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical setup and troubleshooting of a router on Hyper-V, with no focus on Agile methodologies, DevOps practices, or relevant literature.",
     "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T09:57:17",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical setup and troubleshooting of a router on Hyper-V, with no relevance to Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T09:57:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical instructions for setting up a router on Hyper-V, lacking discussions on industry news, updates, or reviews related to Agile, DevOps, or technology.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -199,10 +124,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T09:57:22",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses running a router on Hyper-V and personal experiences with network configurations, which does not align with the principles of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -235,20 +160,11 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T09:57:28",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical setup and troubleshooting of a router on Hyper-V, with no focus on metrics, learning, or evidence-based decision-making.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T09:57:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical setup and configuration of a router on Hyper-V, with no focus on human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Organisational Psychology": {
@@ -323,21 +239,12 @@
     "reasoning": "Content primarily discusses technical setup and troubleshooting of a router on Hyper-V, with no relevance to enterprise agility or organisational adaptability.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T09:57:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical setup and troubleshooting for running a router on Hyper-V, with no reference to events, presentations, or discussions related to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T09:57:46",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses running a router on Hyper-V and does not relate to the management of software applications or their lifecycle.",
     "level": "Ignored"
   },
@@ -361,10 +268,10 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-15T09:57:50",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical setup and troubleshooting of a router on Hyper-V, lacking personal reflections or insights related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
@@ -379,24 +286,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T10:18:08",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical implementation details of running a router on Hyper-V and does not reference or relate to the Definition of Done in any capacity.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T04:28:16",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on a practical implementation of running a router on Hyper-V, which involves technical details and specific steps. However, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. While it does touch on technical aspects, such as VM configuration and network settings, it does not delve deeply into the principles of clean code, testing, or architectural best practices that are central to the 'Technical Mastery' category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -409,13 +316,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T07:18:38",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on setting up a router on Hyper-V and does not discuss Continuous Delivery principles, practices, or benefits. There are no direct mentions of Continuous Delivery, and the content lacks alignment with the core themes of the category, such as automation, rapid feedback, or software quality. The depth of discussion is also minimal regarding Continuous Delivery, as it is not the subject matter at all.",
     "level": "Ignored"
   },
@@ -430,10 +337,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T10:18:08",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical setup and configuration of a router in a virtual machine environment using Hyper-V, with no mention or relevant discussion of Lead Time or its implications.",
     "level": "Ignored"
   },
@@ -448,19 +355,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T10:18:08",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses running a router on Hyper-V and the technical setup involved, which is unrelated to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-15T10:18:08",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical details of setting up a virtual router using Hyper-V, without any discussion related to portfolio management or strategic alignment.",
     "level": "Ignored"
   },
@@ -592,40 +499,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T10:18:08",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses setting up a router on Hyper-V, with no mention of Acceptance Test Driven Development or related concepts.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T04:28:16",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses setting up a router in a virtual machine environment using Hyper-V, which is more focused on networking and virtualisation rather than core software development practices. While it touches on technical aspects related to software (like creating a VHD and configuring a VM), it lacks a strong emphasis on software development methodologies, coding best practices, or lifecycle management, which are central to the Software Development category.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T10:18:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses running a router on Hyper-V, networking challenges, and technical setup, with no mention of Agile Project Management principles, frameworks, or practices.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T10:18:08",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on technical details of running a router on Hyper-V, with no reference to Agile Values or Principles.",
     "level": "Ignored"
   },
@@ -640,19 +538,19 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T10:18:08",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses setting up a virtual router on Hyper-V and related networking issues, not discussing version control practices.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T10:18:08",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical setup and troubleshooting of a networking solution using Hyper-V and does not discuss empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
@@ -685,10 +583,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T10:18:08",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of setting up a router on Hyper-V and does not relate to organizational change processes or methodologies.",
     "level": "Ignored"
   },
@@ -719,21 +617,12 @@
     "reasoning": "Content primarily discusses technical setup and troubleshooting for running a router on Hyper-V, without any focus on customer satisfaction principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T10:18:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is entirely focused on technical setups involving Hyper-V and networking, with no mention of Scrum principles, frameworks, or scaling practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-15T10:18:08",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses primarily on technical aspects related to running a router on Hyper-V and does not discuss evidence-based leadership or the application of empirical evidence in leadership decision-making.",
     "level": "Ignored"
   },
@@ -744,15 +633,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical instructions for running a router on Hyper-V, which does not relate to psychological safety or team dynamics.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T10:18:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on running a router on Hyper-V and discusses technical details about setting up virtual machines and network configurations, which is unrelated to scaling agility or agile practices.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -802,13 +682,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T04:28:16",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses practical problem-solving techniques for running a router on Hyper-V, which aligns with pragmatic thinking. However, it primarily focuses on technical setup rather than broader Agile or Scrum principles, resulting in a lower confidence score.",
     "level": "Ignored"
   },
@@ -823,29 +703,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T10:18:08",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical setup and usage of a virtual router on Hyper-V. It does not focus on measured innovation capabilities or the promoting of a culture of innovation within an organization.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T10:18:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical details about running a router on Hyper-V, which is unrelated to Scrum principles or product development methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T10:18:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical instructions for configuring routers on Hyper-V and does not relate to Scaled Agile principles, practices, or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -886,10 +748,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T10:18:09",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses setting up a virtual router on Hyper-V and does not focus on the delivery of functional, high-quality software. It involves hardware configuration and networking rather than software development principles or practices.",
     "level": "Ignored"
   },
@@ -976,10 +838,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T10:18:09",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses running a router on Hyper-V, focusing on technical setup and configurations unrelated to software release management.",
     "level": "Ignored"
   },
@@ -994,10 +856,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T10:18:09",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses running a router on Hyper-V, focusing on technical setup and network configurations, which does not relate to Cycle Time or its implications.",
     "level": "Ignored"
   },
@@ -1021,10 +883,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T10:18:09",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical instructions for running a router on Hyper-V, with no relevance to change management concepts.",
     "level": "Ignored"
   },
@@ -1055,7 +917,7 @@
     "reasoning": "Content primarily discusses setting up a virtual router on Hyper-V for personal networking needs, which does not relate to the strategic adoption of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T10:18:09",
     "ai_confidence": 0,
@@ -1064,26 +926,17 @@
     "reasoning": "The content focuses primarily on technical instructions for running a router on Hyper-V, discussing networking issues and solutions rather than anything related to Minimum Viable Products or product development methodologies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T10:18:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses setting up a virtual router using Hyper-V, which is unrelated to AI or its applications in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T11:50:29",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on configuring a router within a Hyper-V environment, detailing the steps for creating a virtual hard disk (VHD) and setting up a virtual machine (VM) to host router firmware. It discusses specific configuration settings, such as network adapter types and virtual switches, which are crucial for system performance and reliability. The depth of discussion is substantial, providing detailed instructions and warnings about potential issues, which aligns well with the key topics of system configuration. However, while the content is rich in practical configuration details, it occasionally veers into personal anecdotes and broader discussions about network limitations, which slightly detracts from its strict alignment with the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1123,25 +976,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:45:32",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 5.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses setting up a router on Hyper-V and does not mention Test First Development principles, success criteria, or any related testing practices. It focuses on technical setup and troubleshooting rather than any testing methodologies.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T10:24:56",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 75.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses running a router on Hyper-V, which is a Windows feature. It includes specific instructions for creating a VHD and configuring a VM, both of which are relevant to Windows. However, while it mentions Windows and provides some technical details, the focus is more on the router setup and networking challenges rather than a comprehensive exploration of Windows itself. Therefore, while it aligns with the category, it does not delve deeply into Windows-specific topics like installation, configuration, or troubleshooting in a broader sense.",
     "level": "Secondary"
   },
@@ -1174,10 +1027,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T10:18:09",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical details of setting up a router in a virtual environment, with limited relevance to remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1192,13 +1045,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T14:55:43",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the challenges faced when trying to run a router on Hyper-V, including specific issues with network restrictions and the need for troubleshooting techniques to resolve connectivity problems. It provides a detailed account of the steps taken to set up a virtual router and highlights potential pitfalls, such as binding preferences that may lead to loss of connectivity. However, while troubleshooting is a significant aspect of the content, it is not the primary focus, as much of the text is dedicated to the setup process and personal experiences rather than systematic problem-solving methodologies.",
     "level": "Secondary"
   },
@@ -1234,20 +1087,11 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T10:18:09",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily focuses on technical setup and configuration of networking solutions rather than teamwork or collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T10:18:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses setting up a router on Hyper-V, focusing on technical issues and solutions related to networking rather than topics relevant to software developers in Agile and DevOps contexts.",
+    "reasoning": "Content heavily focuses on technical setup and configuration of networking solutions rather than teamwork or collaboration principles.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1288,10 +1132,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T10:18:09",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is focused on technical details about running a router on Hyper-V, not on product management strategies or discussions.",
     "level": "Ignored"
   },
@@ -1367,15 +1211,6 @@
     "reasoning": "The content primarily discusses technical aspects and challenges of running a router on Hyper-V, with no mention of accountability, team dynamics, or Agile principles.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T10:18:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on running a router on Hyper-V and does not discuss any aspects of Kanban, scaling practices, or related principles.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T10:18:09",
@@ -1405,22 +1240,22 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:27:19",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical aspects of setting up a router on Hyper-V, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it touches on networking challenges in corporate and hotel environments, it does not align with the core themes of social technologies or provide depth in those areas.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:13:52",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses setting up a router on Hyper-V and does not focus on Internal Developer Platforms or related concepts.",
     "level": "Ignored"
   },
@@ -1435,73 +1270,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:36:47",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses technical aspects of running a router on Hyper-V, with no direct mentions of Scrum principles, roles, events, or artifacts. It does not align with the core themes of Scrum, such as team dynamics or continuous improvement, and lacks depth in any related discussion.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:18:22",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses setting up a router on Hyper-V and does not mention or align with the principles of the Shift-Left Strategy. It focuses on technical details related to networking and virtual machines without addressing early integration of testing, security, or compliance in the software development lifecycle.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T07:18:25",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical instructions for setting up a router on Hyper-V, with minimal mention of Continuous Improvement principles. While there are hints of experimentation and problem-solving, the overall discussion lacks a structured approach to continuous improvement methodologies or a commitment to incremental advancements in processes or team effectiveness.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T07:18:27",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical instructions for setting up a router on Hyper-V, with no explicit discussion of Common Goals, Agile, or DevOps principles. While it touches on personal experiences and challenges faced in networking, it lacks any connection to shared objectives or strategic alignment within teams, which are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T07:18:29",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical instructions for setting up a router on Hyper-V, with minimal reference to competence in terms of skill development or professional growth. While there are mentions of troubleshooting and problem-solving, these do not directly align with the core themes of competence as defined in Agile and DevOps contexts.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T17:45:30",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical instructions for setting up a router on Hyper-V, with no explicit discussion of Agentic Agility or its principles. While there are mentions of problem-solving and adaptability in the context of networking, these do not align with the core themes of intentionality, agency, or the interplay between human and AI capabilities. The content lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }

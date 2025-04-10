@@ -1,24 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-16T10:59:47",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the features and capabilities of a specific software tool, with no clear focus on Agile principles or product management practices.",
     "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-07T15:48:36",
-    "ai_confidence": 82.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 20,
-    "final_score": 76.0,
-    "reasoning": "The content primarily focuses on the release of a specific software product, 'Data Dude', detailing its features, improvements, and architecture. It discusses the product's capabilities and how it integrates with SQL Server, which aligns well with the category's focus on tools and software that facilitate Agile practices and DevOps integration. The depth of discussion is significant, providing detailed insights into the product's functionalities and extensibility, thus supporting a high confidence score.",
-    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -40,13 +28,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T13:11:29",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses various technical aspects of the Visual Studio Team System Database Edition, including its architecture, extensibility, and deployment processes. While it touches on relevant topics such as tool extensibility and separation of build and deploy, it lacks a focused discussion on broader engineering practices or methodologies that enhance agility in software development. The primary focus is on the product features rather than on the principles of technical excellence, which diminishes its alignment with the category.",
     "level": "Secondary"
   },
@@ -59,43 +47,16 @@
     "reasoning": "Content primarily discusses the features and improvements of a software release, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T10:59:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and improvements of a software product, with no mention of events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T10:59:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and improvements of a software release, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T09:33:09",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the release of a specific software tool, Visual Studio Team System 2008 Database Edition, and its features. While it touches on aspects like deployment and extensibility, it does not engage with the core principles of DevOps such as collaboration, automation, or shared accountability. The discussion lacks depth in terms of DevOps philosophy and practices, making it only tangentially related to the category.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T11:00:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the release and features of a database tool, with no mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -118,27 +79,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T09:33:18",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses the features and capabilities of Visual Studio Team System 2008 Database Edition, with no direct mention of Agile methodologies or the Agile Product Operating Model. While there are elements of product development mentioned, they do not align with the core principles of APOM, such as continuous delivery or customer-centric value. The focus is on technical specifications rather than agile product management practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-10T15:08:59",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 75.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the features and improvements of the Visual Studio Team System Database Edition, focusing on practical tooling aspects such as database schema providers, tool extensibility, and deployment processes. It provides specific details about how these tools can be used to enhance database development, which aligns well with the category's focus on practical techniques and tooling. However, while it covers relevant topics, it lacks a broader discussion on methodologies or frameworks that support Agile and DevOps practices, which slightly lowers the alignment score.",
-    "level": "Secondary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -151,25 +100,25 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-03-15T07:26:55",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the capabilities and architecture of Visual Studio Team System Database Edition, touching on aspects like tool extensibility and deployment processes. However, it lacks a direct focus on the principles of Platform Engineering or Internal Developer Platforms (IDPs). While there are mentions of extensibility and automation, the overall discussion is more about a specific product rather than the broader category of Platform Engineering.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T18:55:45",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the release of a new version of a database tool, highlighting features such as a standalone deployment engine and separation of build and deploy processes. While it touches on installation aspects, such as providing links to download and setup, the primary focus is on the tool's capabilities and architecture rather than detailed installation or configuration instructions. Therefore, it aligns moderately with the category but lacks depth in actionable installation guidance.",
     "level": "Secondary"
   },
@@ -184,39 +133,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T09:33:22",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the features and capabilities of a software product, with no direct mention of Evidence-Based Management principles or metrics. While it discusses aspects of software development and deployment, it does not align with the core themes of EBM such as data-informed decision-making or value delivery metrics.",
     "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T07:27:08",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10,
-    "ai_alignment": 25,
-    "ai_depth": 15,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content discusses the release of a database tool and its architecture, touching on aspects like scalability and extensibility. However, it lacks a focused discussion on the principles of code quality, complexity management, or best practices in software development. While it mentions technical features and improvements, it does not delve into the complexities of software development processes or how these features relate to maintainability or scalability in a broader context.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-11T10:44:41",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content primarily discusses the release of a specific software tool, 'Data Dude', which aligns with the category of news as it provides an update on a product relevant to technology. However, while it mentions improvements and features, it lacks a broader analysis of trends or industry impact, which would enhance its alignment with the category. The depth of discussion is moderate, focusing on technical details rather than a comprehensive review or commentary on the implications of the release.",
-    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -256,19 +181,19 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T11:00:58",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and improvements of Visual Studio Team System 2008 Database Edition, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T11:01:00",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and capabilities of Visual Studio Team System 2008 Database Edition, with no clear focus on the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -299,15 +224,6 @@
     "reasoning": "Content primarily discusses technical features and improvements of a software release without personal reflections or experiences.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T11:01:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and improvements of a software release without focusing on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
   "Azure DevOps": {
     "category": "Azure DevOps",
     "calculated_at": "2025-02-16T11:01:07",
@@ -317,24 +233,15 @@
     "reasoning": "Content primarily discusses Visual Studio Team System and its features, without a clear focus on Azure DevOps functionalities or practices.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T11:01:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and improvements of a software release, lacking focus on transparency and accountability principles.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T07:26:50",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the release of a database tool and its features, which indirectly relates to application lifecycle management through aspects like deployment and extensibility. However, it lacks a direct focus on the broader methodologies and practices of ALM, making it a secondary topic rather than a primary discussion.",
     "level": "Secondary"
   },
@@ -345,15 +252,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and improvements of a software release, with no clear focus on Systems Thinking principles or applications.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T11:01:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and technical aspects of a software release, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -376,13 +274,13 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T07:26:57",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the release of a new product, focusing on its architecture, extensibility, and deployment processes. It mentions the separation of build and deploy, which aligns with product delivery practices. However, while it touches on relevant topics, it lacks a comprehensive exploration of methodologies or best practices in product delivery, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -397,13 +295,13 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-11T12:10:22",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the release of a new version of a software tool, highlighting improvements and features relevant to release management, such as the separation of build and deploy processes and the introduction of a standalone deployment engine. However, while it touches on aspects of release management, it lacks a comprehensive exploration of the strategies and practices involved, making it more of a product announcement than a focused discussion on release management.",
     "level": "Secondary"
   },
@@ -427,22 +325,22 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-15T07:26:53",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a specific release of a product, highlighting improvements and features, but lacks a broader discussion on the principles of frequent releases, continuous delivery, or deployment strategies. While it mentions aspects of deployment and extensibility, it does not delve into the practices or metrics associated with frequent releases, making it a secondary focus rather than a primary one.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T11:43:21",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a software release and its features without any focus on asynchronous development principles, practices, or tools.",
     "level": "Ignored"
   },
@@ -475,13 +373,13 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T15:13:40",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the release of a new database tool with a focus on its architecture, extensibility, and deployment processes, which aligns well with the principles of software craftsmanship and engineering practices. It provides detailed insights into the model-based architecture, database schema providers, and tool extensibility, demonstrating a strong understanding of technical concepts. However, while it touches on important technical aspects, it lacks a broader discussion on best practices or methodologies that would further solidify its alignment with the 'Technical Mastery' category.",
     "level": "Secondary"
   },
@@ -503,7 +401,7 @@
     "reasoning": "Content primarily discusses a specific software tool and its features, with no focus on scaling Agile methodologies or large-scale Agile principles.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T11:43:21",
     "ai_confidence": 0,
@@ -519,15 +417,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a software product release and its features related to database management, rather than principles or practices of Site Reliability Engineering.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T11:43:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content is primarily focused on the release of a product related to database development and does not discuss Agile methodologies, principles, or practices.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -550,10 +439,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T11:43:21",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses a product release related to Visual Studio Team System and its features, with no mention of Scrum roles, team dynamics, or Agile practices.",
     "level": "Ignored"
   },
@@ -658,10 +547,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-16T11:43:21",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the release of a database tool and its functionalities, with no clear connection to Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
@@ -676,22 +565,22 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T07:26:45",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the release of a software tool with a focus on its architecture, extensibility, and deployment processes. While it touches on aspects of software craftsmanship, such as the separation of build and deploy, and the extensibility of tools, it lacks a comprehensive discussion on best practices, quality assurance, or continuous improvement in engineering processes. The primary focus is on the product features rather than a broader discourse on engineering excellence.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T11:43:21",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a specific product release (Visual Studio Team System 2008 Database Edition) and its features, without addressing hypothesis formulation, experimentation, or data-driven decision-making.",
     "level": "Ignored"
   },
@@ -702,27 +591,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily a product announcement about Visual Studio Team System Database Edition and discusses its features, architecture, and deployment, with no clear focus on estimation practices.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T07:27:11",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily discusses the release of a specific software tool (Data Dude) and its features, which does not directly address the role of software developers in Agile or DevOps contexts. While it touches on aspects of tool extensibility and deployment, it lacks a focus on best practices, methodologies, or the impact of Agile and DevOps on developer productivity and collaboration. Therefore, it only marginally aligns with the category.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T11:43:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the release of Database Edition and its features, without any direct relevance to AI applications in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -736,43 +604,43 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T07:26:48",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses Visual Studio Team System Database Edition, which is a tool that operates within the Windows environment. However, it primarily focuses on database development and extensibility rather than directly addressing Windows installation, configuration, or troubleshooting. While there are mentions of deployment and setup, the overall discussion is more centred on the tool's features and capabilities rather than the Windows operating system itself. Therefore, while there is some relevance, it does not fully align with the core themes of the Windows category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-16T11:43:21",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical specifications and features of a software product rather than strategic planning or methodologies relevant to product strategy.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T11:43:21",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of a database tool and its technical features, with no mention of Behaviour Driven Development or its core principles.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T17:04:06",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the release of a database development tool, highlighting its architecture, extensibility, and deployment features. While it mentions aspects relevant to software development, such as model-based architecture and tool extensibility, the focus is more on the product announcement rather than in-depth discussions of software development methodologies or practices. The content does not explicitly engage with broader software development concepts, which limits its alignment and depth.",
     "level": "Secondary"
   },
@@ -785,21 +653,12 @@
     "reasoning": "Content discusses a software tool release and technical features related to database management, with no mention of Agile frameworks or principles.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T11:43:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a database tool and its features without any connection to Agile methodologies or scaling practices.",
-    "level": "Ignored"
-  },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-16T11:43:22",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and architecture of a software product, with no focus on the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
@@ -832,22 +691,22 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-15T07:27:06",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a new product release and its features, which implies some level of innovation. However, it lacks explicit discussions on the measurement or improvement of innovation capabilities, Evidence-Based Management principles, or a culture of innovation. The focus is more on product features and technical specifications rather than on strategic innovation practices.",
     "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-16T11:43:22",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and capabilities of the Visual Studio Team System and its database tools, without any focus on user research, customer needs, or defining product features.",
     "level": "Ignored"
   },
@@ -862,10 +721,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-16T11:43:22",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical features and improvements of a new software release, and does not focus on product validation methodologies or user testing practices.",
     "level": "Ignored"
   },
@@ -907,19 +766,19 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-16T11:43:22",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a software release and its technical features, not related to the Product Backlog or Agile frameworks.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T11:43:22",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on announcing a software release and discusses its features, rather than addressing the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
@@ -934,13 +793,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T09:33:20",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses aspects of deployment and build separation, which are relevant to Continuous Delivery. However, it lacks a comprehensive exploration of Continuous Delivery principles, automation, or user feedback, making it only tangentially related to the category.",
     "level": "Ignored"
   },
@@ -955,22 +814,22 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T07:27:00",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the release of a software tool, highlighting its features and improvements, which aligns with the concept of working software. However, it lacks a direct focus on customer needs or iterative development practices, which are key aspects of the 'Working Software' category. The depth of discussion on software quality and functionality is moderate, but it does not provide extensive insights into best practices or customer feedback mechanisms.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-16T11:43:22",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the release of a database tool and its features, but does not focus on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
@@ -985,10 +844,10 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-16T11:43:22",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the release of a software tool and its technical features, with no reference to evidence-based leadership principles or practices.",
     "level": "Ignored"
   },
@@ -1021,22 +880,22 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-16T11:43:22",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and capabilities of a specific software release, without analyzing trends or shifts in Agile, DevOps, or business agility frameworks.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T07:27:04",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the release of a software product and its features, with limited focus on operational practices. While it touches on aspects like tool extensibility and separation of build and deploy, these points are not deeply explored in the context of improving operational efficiency or applying Agile, DevOps, or Lean methodologies. The discussion lacks a clear emphasis on techniques or strategies aimed at enhancing operational performance.",
     "level": "Ignored"
   },
@@ -1058,21 +917,12 @@
     "reasoning": "The content primarily discusses the features and capabilities of a specific software tool, focusing on technical aspects rather than the principles of empirical process control in Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T11:43:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release and features of a software product, with no mention of Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T11:43:22",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the release of a software product and its technical features, without any mention or focus on Definition of Ready or its principles.",
     "level": "Ignored"
   },
@@ -1087,49 +937,49 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-16T11:43:22",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and technical aspects of a software product, without addressing strategic product management concepts.",
     "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T11:43:22",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the release of a specific toolset with detailed technical features and enhancements, primarily related to database development, rather than on Lean Product Development principles.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:37:27",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 30,
-    "final_score": 8.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses the release of a software product and its features, with no explicit mention of Test First Development principles, success criteria, or testing practices. While there are references to extensibility and deployment, these do not align with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T11:43:22",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features and improvements of a database development tool rather than version control practices.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T11:43:22",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio Team System and its new release features without reference to Acceptance Test Driven Development or its principles.",
     "level": "Ignored"
   },
@@ -1225,19 +1075,19 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T11:43:22",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on the release of a software product and technical features rather than on team dynamics, performance, or collaboration within agile teams.",
     "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-16T11:43:22",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release and features of Visual Studio Team System Database Edition, without focusing on collaboration, communication, or Agile team dynamics.",
     "level": "Ignored"
   },
@@ -1252,10 +1102,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T11:43:22",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical features and improvements of a software release without discussing team dynamics or motivation strategies.",
     "level": "Ignored"
   },
@@ -1270,24 +1120,15 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-11T18:14:37",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the separation of build and deploy processes, which is relevant to deployment strategies. It also mentions a standalone deployment engine, indicating a focus on deployment methodologies. However, the overall emphasis is more on the features and capabilities of the product rather than a detailed exploration of deployment strategies, leading to a moderate confidence score.",
     "level": "Secondary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T11:43:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses the features and capabilities of a specific software product and does not address Scrum principles, practices, or product development methodologies.",
-    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1300,34 +1141,34 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:37:29",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a software release and its features, with no direct mention of Scrum or the role of a Scrum Master. There is minimal conceptual alignment with Scrum principles, and the depth of discussion is entirely focused on technical aspects of a product rather than any Scrum-related topics.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-03-15T07:27:02",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the separation of build and deploy processes, which is relevant to deployment frequency. It mentions the deployment engine and how it facilitates deployment to various targets, indicating an understanding of deployment practices. However, the overall focus is more on the features of the product rather than a deep exploration of deployment frequency as a concept within Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T11:43:22",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the features and capabilities of a software release, lacking discussions on teamwork, communication, or collaborative principles aligned with Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
@@ -1342,29 +1183,20 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T11:43:22",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and capabilities of Visual Studio Team System Database Edition, with no clear connection to Agile values and principles.",
     "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T11:43:22",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content discusses the Visual Studio Team System 2008 Database Edition, its features, and tool extensibility, but does not focus on Test Driven Development or its principles.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T11:43:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Visual Studio Team System and its features, including database development and architecture, with no mention of Scrum principles, scaling frameworks, or any related topics.",
+    "reasoning": "The content discusses the Visual Studio Team System 2008 Database Edition, its features, and tool extensibility, but does not focus on Test Driven Development or its principles.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1396,24 +1228,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T07:27:13",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the release of a database tool and its features, including architecture, extensibility, and deployment processes. While it touches on aspects of system configuration, such as the separation of build and deploy and the standalone deployment engine, the primary focus is on the product announcement and its capabilities rather than a detailed exploration of system configuration methodologies or best practices. Therefore, it aligns with the category but lacks depth and direct mentions of configuration principles.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T11:43:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific product release (Visual Studio Team System Database Edition) and its features without addressing scaling agility or related strategies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1435,13 +1258,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:48:37",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical aspects of a software release, specifically the Visual Studio Team System 2008 Database Edition. It discusses features like scalability, extensibility, and deployment mechanisms without addressing any social frameworks, collaboration, or decision-making processes. There are no direct mentions of social technologies or their impact on team dynamics or organisational culture, leading to a very low confidence score in this category.",
     "level": "Ignored"
   },
@@ -1456,10 +1279,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:38:53",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses aspects of a development tool that could relate to an Internal Developer Platform, such as extensibility, deployment processes, and architecture. However, it primarily focuses on a specific product release rather than the broader concept of IDPs.",
     "level": "Tertiary"
   },
@@ -1474,73 +1297,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:56:31",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses the release of a software tool, focusing on its features and architecture, with no direct mentions or alignment to Scrum principles, roles, events, or practices.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:38:35",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the release of a software tool and its features, with no explicit mention of the Shift-Left Strategy or its principles. While there are references to extensibility and deployment processes, these do not align with the core themes of integrating testing, security, and compliance early in the development lifecycle.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T09:33:11",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the release of a software product and its features, with no explicit discussion of Continuous Improvement principles. While it mentions enhancements and improvements, these are not framed within the context of ongoing reflection, adaptation, or a culture of experimentation, which are central to Continuous Improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T09:33:13",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the features and capabilities of a specific software release, lacking any discussion on shared objectives, alignment, or strategic goals within Agile or DevOps frameworks. It does not address the principles of Common Goals, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T09:33:15",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the features and capabilities of a software release, with no explicit discussion on competence, continuous learning, or skill development. While it touches on extensibility and deployment, these aspects do not directly relate to the core themes of competence as defined in Agile and DevOps contexts.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:37:25",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the release of a software product and its features, with no explicit discussion of Agentic Agility or its principles. While there are mentions of extensibility and adaptability in the context of software development, these do not align with the core themes of intentional shaping of outcomes or the distinction between human and AI capabilities.",
     "level": "Ignored"
   }

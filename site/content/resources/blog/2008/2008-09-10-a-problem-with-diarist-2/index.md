@@ -27,7 +27,8 @@ aliasesArchive:
 - /a-problem-with-diarist-2-
 - /blog/a-problem-with-diarist-2-
 - /resources/blog/a-problem-with-diarist-2
-tags: []
+tags:
+- Miscellaneous
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

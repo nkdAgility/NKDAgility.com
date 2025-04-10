@@ -21,10 +21,14 @@ aliasesArchive:
 - /resources/newsletters/exclusive-webcast-with-joanna-plaskonka-ph-d-martin-hinshelwood-dive-deep-into-product-ownership-lean-product-development/
 categories:
 - Product Management
-- Social Technologies
+- Lean
 tags:
-- Events and Presentations
 - Lean Product Development
+- Product Owner
+- Agile Product Management
+- Software Development
+- Pragmatic Thinking
+- Product Delivery
 
 ---
 Join us for an enlightening 18-minute journey with two of the industry's leading experts, Dr. Joanna Płaskonka and Martin Hinshelwood, as they unravel the intricacies of Product Ownership and Lean Product Development.

@@ -32,20 +32,31 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Transformation
-- Agile Strategy
 - Organisational Change
-- People and Process
+- Agile Strategy
 - Agile Philosophy
-- Scaling Agility
 - Organisational Agility
 - Pragmatic Thinking
+- Social Technologies
 - Sociotechnical Systems
+- Agile Frameworks
+- Change Management
+- Software Development
 - Agile Values and Principles
+- Market Adaptability
+- Beta Codex
+- Enterprise Agility
+- Organisational Culture
+- Self Organisation
+- Agile Product Management
+- Large Scale Agility
+- Value Delivery
+- Business Agility
+- Organisational Physics
 resourceTypes:
 - video
 layout: video
-categories:
-- Social Technologies
+categories: []
 
 ---
 # Navigating the Agile Apocalypse: Overcoming the Alpha Organizational Structure

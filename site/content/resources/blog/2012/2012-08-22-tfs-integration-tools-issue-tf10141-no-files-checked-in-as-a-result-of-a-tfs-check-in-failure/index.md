@@ -9,7 +9,7 @@ ResourceImportId: 7402
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-22
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -33,7 +33,7 @@ tags:
 - Troubleshooting
 - Software Development
 - Modern Source Control
-- Practical Techniques and Tooling
+- Install and Configuration
 categories: []
 preview: metro-problem-icon-12-12.png
 

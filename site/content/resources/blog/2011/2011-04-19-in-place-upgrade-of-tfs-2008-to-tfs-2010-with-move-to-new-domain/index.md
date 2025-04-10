@@ -9,7 +9,7 @@ ResourceImportId: 5
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-04-19
-weight: 700
+weight: 665
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,14 +26,18 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Windows
-- System Configuration
-- Practical Techniques and Tooling
 - Software Development
 - Troubleshooting
+- System Configuration
 - Release Management
 - Azure DevOps
 - Technical Mastery
+- Application Lifecycle Management
 - Modern Source Control
+- Operational Practices
+- Technical Excellence
+- Working Software
+- Pragmatic Thinking
 preview: metro-visual-studio-2010-128-link-24-24.png
 categories: []
 

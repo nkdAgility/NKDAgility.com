@@ -31,16 +31,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
-- Metrics and Learning
 - Software Development
 - Operational Practices
+- Metrics and Learning
 - Throughput
 - Flow Efficiency
-- Practical Techniques and Tooling
 - Agile Frameworks
 - Pragmatic Thinking
 - Continuous Improvement
+- Cycle Time
+- Value Delivery
+- Product Delivery
+- Agile Transformation
+- Decision Making
+- Empirical Process Control
 resourceTypes:
 - video
 categories:

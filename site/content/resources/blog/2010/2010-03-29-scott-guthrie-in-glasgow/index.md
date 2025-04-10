@@ -23,8 +23,7 @@ aliasesArchive:
 - /blog/scott-guthrie-in-glasgow
 - /scott-guthrie-in-glasgow
 - /resources/blog/scott-guthrie-in-glasgow
-tags:
-- Events and Presentations
+tags: []
 categories: []
 preview: metro-visual-studio-2010-128-link-2-1.png
 

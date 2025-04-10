@@ -26,11 +26,13 @@ duration: 49
 isShort: true
 tags:
 - Operational Practices
-- Transparency
 - Pragmatic Thinking
 - Continuous Improvement
 - Team Collaboration
 - Team Performance
+- Social Technologies
+- Transparency
+- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,7 +41,7 @@ layout: video
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Kanban
 
 ---
 When I first encountered Caman, I was struck by its simplicity and effectiveness. It’s a framework that resonates deeply with my experiences in agile environments, and I believe it can transform the way teams operate. Today, I want to share the three core principles of Caman that have made a significant impact on my approach to workflow management.

@@ -9,7 +9,7 @@ ResourceImportId: 10356
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2017-05-16
-weight: 630
+weight: 590
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,16 +24,19 @@ aliasesArchive:
 - /choosing-a-process-template-for-your-team-project
 - /resources/blog/choosing-a-process-template-for-your-team-project
 tags:
-- Agile Project Management
-- Software Development
 - Pragmatic Thinking
-- Scrum Product Development
+- Software Development
 - Agile Frameworks
-- Practical Techniques and Tooling
-- Software Developers
-- People and Process
 - Azure Boards
 - Professional Scrum
+- Operational Practices
+- Agile Transformation
+- Product Delivery
+- Agile Planning
+- Agile Product Management
+- Azure DevOps
+- Scrum Team
+- Decision Making
 categories:
 - Scrum
 preview: IC749984-1-1.png

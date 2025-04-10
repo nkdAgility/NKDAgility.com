@@ -2,7 +2,7 @@
 title: 'Unlocking Continuous Improvement: How Metrics and Visual Tools Transform Your Workflow'
 description: Unlock the secrets of continuous improvement with Caman! Discover how metrics and visual tools can transform your workflow and drive meaningful change.
 date: 2024-08-15T07:04:39Z
-weight: 350
+weight: 280
 ResourceId: sIhG2i7frpE
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -28,14 +28,28 @@ isShort: true
 tags:
 - Continuous Improvement
 - Continuous Learning
-- Transparency
 - Operational Practices
 - Metrics and Learning
-- Practical Techniques and Tooling
-- Discovery and Learning
 - Lean Principles
 - Pragmatic Thinking
-- Transparency and Accountability
+- Transparency
+- Evidence Based Leadership
+- Organisational Agility
+- Software Development
+- Agile Philosophy
+- Decision Making
+- Social Technologies
+- Empirical Process Control
+- Lean Thinking
+- Ability to Innovate
+- Agile Strategy
+- Agile Values and Principles
+- Lean Product Development
+- Working Software
+- Competence
+- Change Management
+- Agile Transformation
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,7 +57,9 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Lean
+- Engineering Excellence
+- Kanban
 
 ---
 In my journey with Caman, I've come to realise that one of its core tenets is the relentless pursuit of improvement. It’s not just about making changes for the sake of change; it’s about implementing thoughtful adjustments to our systems and processes to genuinely enhance our outcomes. This is where metrics and visual tools come into play, serving as our guiding lights in the often murky waters of data.

@@ -55,13 +55,13 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-15T07:38:37",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions the deployment of SharePoint, which relates to installation and configuration, but lacks detailed instructions or discussions on the processes involved. The focus is more on personal experience rather than actionable guidance or technical specifics, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -76,24 +76,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-10T13:19:42",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 72.0,
     "ai_mentions": 10.0,
     "ai_alignment": 60.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on a personal experience at a new job, discussing efficiency and tasks related to SharePoint deployment. While it does not reference specific Agile, Scrum, DevOps, or Lean frameworks, it provides a narrative that aligns with the broader context of business agility through personal reflection. However, the lack of actionable insights or direct connections to established methodologies limits its relevance to the category.",
     "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T20:27:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and tasks related to a new job, with no clear focus on organisational resilience or change management.",
-    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -102,15 +93,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and tasks related to a new job, with no clear focus on complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T20:27:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on personal experiences and observations rather than practical techniques or tooling related to Agile and DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -124,10 +106,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T20:27:45",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and tasks related to starting a new job, with no focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -160,35 +142,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-04-08T20:31:52",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a personal experience at Aggreko, discussing efficiency and SharePoint deployment without any explicit mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and provides minimal depth on the topic.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-04-08T20:31:48",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal experience at Aggreko, discussing the deployment of SharePoint and the efficiency of the company. There are no direct mentions of the Agile Product Operating Model or its principles, and the discussion lacks any alignment with the core themes of APOM. The depth of discussion is minimal and does not provide any insights into agile methodologies or product management practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T20:27:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a personal experience at a new job rather than discussing industry news, updates, or reviews related to Agile, DevOps, or technology.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -216,42 +189,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on personal experiences and tasks related to SharePoint deployment, lacking a central theme on platform engineering principles or internal developer platforms.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T20:28:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and tasks related to a new job, with no clear focus on AI, automation, or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T20:28:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and tasks related to a new job, with no focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T20:28:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences on the first day at a new job, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T20:28:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and tasks related to a new job, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -322,13 +259,13 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-04-08T20:31:32",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions efficiency and deployment, which are relevant to DevOps, but lacks a direct discussion of DevOps principles or practices. The focus is more on personal experience rather than the integration of people, processes, and technology in a DevOps context.",
     "level": "Ignored"
   },
@@ -339,33 +276,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on personal experiences and observations about starting a new job, rather than discussing engineering practices or methodologies related to technical excellence.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T20:28:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on personal experiences and tasks related to a new job, with minimal emphasis on team dynamics or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T20:28:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on personal experiences and tasks related to a new job, with no clear emphasis on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T20:28:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and tasks related to a new job, with no focus on specific products, books, or Agile methodologies.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -388,22 +298,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T07:38:37",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions the setup of a SharePoint farm and the need for a plan, which relates to system configuration. However, the primary focus is on personal experiences and observations rather than a detailed discussion of configuration practices or methodologies. The mention of a 'wicked farm setup' suggests some level of configuration, but it lacks depth and does not explore best practices or troubleshooting, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T21:08:39",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on personal experience starting a new job and tasks related to Sharepoint deployment, with no clear discussion on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -432,15 +342,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses personal experience and tasks related to deploying Sharepoint but does not focus on portfolio management or aligning strategy with execution.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T21:08:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily describes the author's first day at a company and does not discuss Scrum principles, practices, or product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -472,10 +373,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T21:08:39",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal experience and job tasks related to Sharepoint, without reference to Agile values, principles, or methodologies.",
     "level": "Ignored"
   },
@@ -508,20 +409,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T21:08:39",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the author's first day at a new job and personal experiences rather than the Definition of Done in Agile or Scrum.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T21:08:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses a personal experience on the first day at a company and tasks related to SharePoint, without any reference to Agile practices or scaling methodologies.",
+    "reasoning": "Content primarily discusses the author's first day at a new job and personal experiences rather than the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -580,23 +472,14 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-03-15T07:38:37",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions SharePoint, which is a collaboration tool, but does not provide a detailed discussion on its features or its role in enhancing team communication and coordination. The focus is more on personal experiences and initial impressions rather than a thorough exploration of collaboration tools within an Agile context.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T21:08:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the author's experience on their first day at a company and their task involving Sharepoint, which does not relate to Agile, DevOps, or modern engineering practices.",
     "level": "Ignored"
   },
   "Software Development": {
@@ -635,7 +518,7 @@
     "reasoning": "Content discusses a personal experience on the first day at a new job and mentions planning for a project, but it does not address estimation techniques or Agile practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T21:08:39",
     "ai_confidence": 0,
@@ -709,13 +592,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-04-08T20:31:59",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content briefly mentions deploying SharePoint, which could relate to software delivery, but it lacks a focused discussion on Continuous Delivery principles or practices. The primary focus is on personal experiences rather than the structured practices of Continuous Delivery.",
     "level": "Ignored"
   },
@@ -748,15 +631,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-15T07:38:37",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions the efficiency of the company and the deployment of SharePoint, which relates to digital tools. However, it lacks a comprehensive discussion on digital transformation strategies, case studies, or the impact of emerging technologies. The focus is more on personal experience rather than a strategic analysis of digital transformation.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -765,15 +648,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about a personal experience on the first day at a new job, discussing efficiency and tasks unrelated to hypothesis formulation or experimentation.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T21:08:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences on the first day at a company, focusing on operational efficiency and SharePoint deployment without any mention of AI-related themes.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -949,10 +823,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T21:08:39",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about a personal experience at a new job, discussing efficiency and tasks related to SharePoint, with no focus on the Definition of Ready.",
     "level": "Ignored"
   },
@@ -976,13 +850,13 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:38:37",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions a technical task (researching and deploying SharePoint) but lacks a detailed discussion on software craftsmanship or engineering practices. The focus is more on personal experience rather than technical mastery principles.",
     "level": "Ignored"
   },
@@ -995,15 +869,6 @@
     "reasoning": "Content primarily discusses personal experiences related to a first day at a new job, including tasks and equipment setup, without focusing on remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T21:08:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on personal experiences and initial tasks at a new job, with no mention of Kanban principles or scaling.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T21:08:39",
@@ -1011,15 +876,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content mainly describes the author's first day at a new job and their tasks, with no focus on customer retention strategies or relevant themes.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T21:08:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a personal experience at a new job and does not focus on Agile Project Management concepts or methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1159,13 +1015,13 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-15T07:38:39",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 25.0,
     "ai_mentions": 15.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly mentions deploying SharePoint and hints at planning for it, but lacks detailed discussion on deployment methodologies or strategies. The focus is more on personal experiences rather than actionable insights into deployment practices.",
     "level": "Ignored"
   },
@@ -1295,15 +1151,6 @@
     "reasoning": "Content primarily focuses on the author's personal experiences on their first day at Aggreko and does not discuss asynchronous development principles, practices, or relevant topics.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T21:08:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses personal experience at a new job and does not address Scrum principles, practices, or related topics.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T21:08:39",
@@ -1340,24 +1187,15 @@
     "reasoning": "Content does not discuss Scrum principles, roles, or practices; it focuses on the author's first day at work and a project involving SharePoint.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T21:08:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on personal experiences related to a first day at a new job and specific tasks, without any mention of agile practices, scaling agility frameworks, or related discussions.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T20:31:50",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on the author's personal experience on their first day at a new job, discussing tasks related to deploying SharePoint. There are no direct mentions of the Scrum Master role or its responsibilities, and the content does not align with the core themes of Scrum or agile principles. The discussion lacks depth regarding Scrum practices or the impact of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
@@ -1381,25 +1219,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T20:31:55",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 5.0,
     "ai_mentions": 0.0,
     "ai_alignment": 0.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal experience at Aggreko, discussing the deployment of SharePoint and the efficiency of the company. There are no direct mentions of Test First Development principles, success criteria, or any related testing practices. The content does not align with the core themes of the category, nor does it provide any depth on the subject matter.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:55:22",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on the author's personal experience on their first day at Aggreko, discussing efficiency and the deployment of SharePoint. While there is a mention of efficiency, it lacks explicit discussions on collaboration, decision-making, or value delivery, which are core themes of Social Technologies. The content does not delve into methodologies or frameworks that promote these aspects, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -1432,73 +1270,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:17:26",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the author's personal experience on their first day at a new job, discussing efficiency and tasks related to SharePoint deployment. There are no direct mentions of Scrum principles, roles, events, or any related concepts. The content does not align with the core themes of Scrum, such as team dynamics or iterative progress, and lacks depth in discussing any relevant Scrum practices.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:46:00",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal experience at a new job and does not discuss any aspects of the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it provide any relevant techniques, tools, or case studies related to the category.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-04-08T20:31:36",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a personal experience at Aggreko, detailing the author's first day and tasks related to deploying SharePoint. There are no explicit discussions of Common Goals, Agile, or DevOps principles. While there is a mention of efficiency, it does not connect to the broader themes of shared objectives or strategic alignment. The content lacks depth and detail on the category, making it largely irrelevant to the concept of Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-04-08T20:31:39",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly mentions the author's first day at Aggreko and their task of deploying SharePoint, which implies a level of competence in handling technology. However, it lacks explicit discussions on continuous learning, skill development, or the importance of competence in a professional context. The focus is more on personal experience rather than a deep exploration of competence as defined in Agile and DevOps methodologies.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-04-08T20:31:42",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a personal experience at Aggreko, discussing efficiency and the deployment of SharePoint. While there is a mention of efficiency, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation. The content does not delve into the core themes of Continuous Improvement, making it only tangentially related.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T20:31:45",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a personal experience at Aggreko, discussing efficiency and the deployment of SharePoint. There are no explicit mentions of Agentic Agility or its principles, and the discussion lacks depth regarding intentional shaping of outcomes or the interplay between human and AI capabilities. The content does not align with the core themes of the category, as it does not address autonomy, adaptability, or value alignment in a socio-technical context.",
     "level": "Ignored"
   }

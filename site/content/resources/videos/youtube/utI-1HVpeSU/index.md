@@ -27,11 +27,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Social Technologies
 - Team Motivation
+- Agile Philosophy
+- Agile Values and Principles
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 ## Democracy vs. Dictatorship in Agile Leadership: Finding the Middle Ground 

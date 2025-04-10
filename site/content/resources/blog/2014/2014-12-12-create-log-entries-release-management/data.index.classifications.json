@@ -1,34 +1,22 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-14T23:30:23",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Release Management and scripting, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T14:39:21",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses practical techniques for creating log entries in Release Management, specifically focusing on PowerShell commands and their outputs. It provides a detailed exploration of the challenges faced during the implementation of a release pipeline, which aligns with the category's focus on tooling and methodologies. However, while it mentions specific tools and techniques, the overall discussion is somewhat anecdotal and lacks a broader context of Agile or DevOps practices, which slightly lowers the confidence score.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-03-15T04:10:32",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses issues related to creating log entries in Release Management, which is tangentially related to platform engineering. However, it lacks a direct focus on the principles of platform engineering or Internal Developer Platforms (IDPs). While it touches on automation and developer productivity, it does not provide a comprehensive exploration of these themes, nor does it delve into the design or construction of internal platforms. The discussion is more about troubleshooting specific scripting issues rather than a broader examination of platform engineering concepts.",
     "level": "Ignored"
   },
@@ -44,36 +32,6 @@
     "reasoning": "The content primarily focuses on technical aspects of creating log entries in Release Management using PowerShell, with no direct mention of Evidence-Based Management principles or metrics. While it discusses the importance of logging for deployment processes, it does not align with the core themes of EBM such as data-informed decision-making or outcome management. The discussion lacks depth regarding EBM concepts, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T04:10:58",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily discusses practical issues encountered while creating log entries in Release Management, focusing on specific PowerShell commands and their outputs. While it touches on aspects of code quality, such as the importance of logging and handling outputs correctly, it lacks a broader discussion on complexity theory or the principles of software code quality. The depth of discussion is moderate, but it does not sufficiently explore the interplay between code quality and complexity, which is central to the category.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-14T23:30:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details related to creating log entries in Release Management, without a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-14T23:30:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues related to creating log entries in Release Management and does not focus on AI or automation within Agile frameworks.",
-    "level": "Ignored"
-  },
   "Lean": {
     "category": "Lean",
     "calculated_at": "2025-02-14T23:30:34",
@@ -85,24 +43,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-15T04:10:29",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 65.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 60.0,
+    "final_score": 65.0,
     "reasoning": "The content discusses the process of creating log entries in Release Management, which is a part of the installation and configuration of a deployment pipeline. It provides specific examples of PowerShell commands and troubleshooting steps related to logging outputs during deployment, aligning with the category's focus on actionable instructions. However, the content also includes personal anecdotes and broader reflections that detract from its primary focus on installation and configuration, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-14T23:30:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to creating log entries in Release Management, with no clear focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -122,38 +71,29 @@
     "reasoning": "Content primarily discusses technical issues related to creating log entries in Release Management without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-14T23:30:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to creating log entries in Release Management, with no clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T21:30:31",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on creating log entries in Release Management using PowerShell, which is a specific technical task rather than a broader discussion on DevOps principles. While it touches on aspects of deployment processes, it lacks a comprehensive exploration of DevOps philosophy, practices, or cultural shifts. The mention of deployment and logging is relevant but does not align closely with the core themes of collaboration, automation, or shared accountability central to DevOps. Therefore, the confidence score reflects a low alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-15T04:10:55",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses personal experiences and challenges faced while creating log entries in Release Management, which does not directly reference Agile, Scrum, DevOps, or Lean principles. While it touches on technical aspects of deployment scripts and logging, it lacks a structured discussion on recognised methodologies or frameworks. The narrative is anecdotal and reflects personal insights rather than actionable guidance, aligning it more with the Miscellaneous category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -164,18 +104,6 @@
     "reasoning": "Content primarily discusses technical issues related to creating log entries in Release Management, with no clear focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-15T04:10:49",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content briefly mentions a demo for NDC London, which indicates a connection to an event. However, the primary focus is on technical issues related to Release Management and scripting, rather than discussing the event itself or insights from it. The depth of discussion on the event is minimal, primarily serving as a backdrop for the technical content.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-14T23:30:49",
@@ -183,15 +111,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to creating log entries in Release Management and does not focus on optimising work throughput or flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-14T23:30:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to creating log entries in Release Management, with no clear focus on human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -214,10 +133,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-14T23:30:54",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to creating log entries in Release Management and does not focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -232,13 +151,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T12:37:08",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses specific technical challenges related to creating log entries in Release Management, which touches on aspects of Continuous Integration and Continuous Delivery (CI/CD) practices. However, while it provides some insights into scripting and logging, the overall focus is more on personal experiences and troubleshooting rather than a comprehensive exploration of engineering practices or methodologies that enhance agility in software development. The discussion lacks depth in terms of broader principles of technical excellence, such as TDD or modular architecture, which diminishes its alignment with the category.",
     "level": "Secondary"
   },
@@ -262,15 +181,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T04:10:40",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the challenges faced during the creation of a release pipeline, which is a crucial aspect of product delivery. It touches on deployment scripts, logging outputs, and the importance of having both success and failure logs, aligning with the category's focus on deployment and quality assurance. However, the discussion is somewhat anecdotal and lacks a structured exploration of methodologies or best practices, which limits its depth and overall alignment with the core themes of product delivery.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -283,20 +202,11 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-14T23:31:04",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Release Management and scripting, with no clear focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-14T23:31:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and technical issues related to Release Management and PowerShell scripting, without focusing on specific products or literature relevant to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -310,25 +220,25 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T14:41:56",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 72.0,
     "ai_mentions": 80.0,
     "ai_alignment": 65.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses the challenges faced while creating log entries in Release Management, which is a component of Azure DevOps. It provides specific examples and code snippets related to the deployment process, indicating a focus on Azure DevOps functionalities. However, while it does mention Azure DevOps and its tools, the discussion is somewhat anecdotal and lacks a broader exploration of best practices or methodologies associated with Azure DevOps. Overall, the content aligns well with the category but does not fully delve into the comprehensive practices or integrations typically expected in discussions about Azure DevOps.",
     "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-15T04:10:27",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 20,
     "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content includes personal experiences related to preparing for a demo and reflections on challenges faced while working with Release Management. However, the primary focus is on technical details and troubleshooting, which detracts from the personal insights expected in the 'Personal' category. While there are mentions of personal anecdotes, they are overshadowed by the technical nature of the content.",
     "level": "Ignored"
   },
@@ -343,13 +253,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T21:30:46",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on creating log entries in Release Management using PowerShell, which is a technical topic related to deployment processes. There are no direct mentions of the Agile Product Operating Model or its principles. The discussion does not align with the core themes of APOM, such as product management practices or agile methodologies. The depth of discussion is also minimal, as it does not explore any aspects of agile product delivery or organisational effectiveness.",
     "level": "Ignored"
   },
@@ -362,24 +272,15 @@
     "reasoning": "Content primarily discusses technical issues related to creating log entries in Release Management, with no clear focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-14T23:31:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and technical issues related to creating log entries in Release Management, without providing industry news, updates, or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-10T18:32:01",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 63.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses aspects of Release Management, which is a component of Application Lifecycle Management, particularly in the context of deployment and logging. However, it lacks a comprehensive exploration of the entire application lifecycle, governance, or best practices. The focus is primarily on a specific technical issue rather than a broader discussion of ALM methodologies or tools.",
     "level": "Secondary"
   },
@@ -394,43 +295,43 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-14T23:31:32",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to creating log entries in Release Management and does not address the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T10:23:06",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses specific technical challenges related to creating log entries in Release Management, which aligns with the principles of software craftsmanship and improving code quality. However, while it provides some depth in terms of troubleshooting and scripting, it lacks a broader discussion on best practices or methodologies that would elevate it to a higher level of technical mastery. The focus is primarily on a personal experience rather than a comprehensive exploration of technical principles.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-14T23:31:35",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to Release Management and scripting, with no focus on customer needs or product feature definition.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T21:30:49",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses creating log entries in Release Management, which is tangentially related to Continuous Delivery practices. However, it lacks a direct focus on Continuous Delivery principles, such as automation, rapid feedback, or incremental improvements. The discussion is more about troubleshooting and scripting in PowerShell rather than exploring the broader concepts of Continuous Delivery.",
     "level": "Ignored"
   },
@@ -445,10 +346,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-14T23:31:38",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to creating log entries in Release Management and does not focus on Lead Time as a measurement of time from work initiation to customer delivery.",
     "level": "Ignored"
   },
@@ -463,28 +364,28 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-14T23:31:41",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to creating log entries in Release Management and does not address the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-14T23:31:42",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Release Management and scripting, with no clear focus on portfolio management or related methodologies.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-14T23:31:43",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Release Management and scripting, with no clear focus on the Product Backlog or its management in Agile frameworks.",
     "level": "Ignored"
   },
@@ -517,22 +418,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T04:10:44",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the challenges of creating log entries in Release Management, which touches on operational practices related to deployment processes. However, it lacks a broader discussion on techniques or strategies for enhancing operational efficiency. While it mentions specific commands and issues encountered, it does not provide a comprehensive exploration of operational practices within Agile, DevOps, or Lean frameworks.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-14T23:31:52",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to deployment scripts and logging, with no clear focus on Scrum roles, collaboration, or team dynamics.",
     "level": "Ignored"
   },
@@ -556,10 +457,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-14T23:31:56",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to creating log entries in Release Management, with no focus on validating product ideas or user engagement.",
     "level": "Ignored"
   },
@@ -592,10 +493,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-14T23:32:02",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to log entries in Release Management and does not focus on team dynamics, collaboration, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -619,31 +520,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T11:48:50",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses practical issues encountered while creating a release pipeline in a software development context, specifically focusing on logging outputs during deployment. It mentions specific commands and scripting practices relevant to PowerShell, which aligns with software development methodologies. However, the narrative includes personal anecdotes and experiences that detract from a purely technical focus, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-14T23:32:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Release Management and scripting, with no clear focus on Agile methodologies or principles.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-14T23:32:15",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Release Management and scripting, with no clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -737,15 +629,6 @@
     "reasoning": "Content primarily discusses technical implementation details related to Release Management and logging, with no clear focus on customer satisfaction or experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-14T23:32:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Release Management and deployment scripts, with no clear focus on Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-14T23:32:31",
@@ -764,26 +647,17 @@
     "reasoning": "Content heavily discusses technical issues related to Release Management and scripting, with no mention of psychological safety or related themes.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-14T23:32:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to creating log entries in Release Management, with no clear focus on scaling agile practices or organisational agility.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T14:39:18",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses specific technical challenges related to logging in Release Management, which touches on aspects of software craftsmanship and quality assurance. However, it lacks a broader discussion on best practices, continuous improvement, or engineering processes. The focus is primarily on a personal experience rather than a comprehensive exploration of engineering excellence principles.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -823,13 +697,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T14:53:59",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses practical problem-solving techniques related to creating log entries in Release Management, which aligns with the category's focus on real-world applications of DevOps principles. It provides specific examples of issues encountered and solutions implemented, demonstrating adaptability and critical thinking in a complex environment. However, while it touches on relevant themes, the primary focus is more on personal experiences and technical details rather than a broader discussion of pragmatic thinking strategies in Agile or Scrum contexts.",
     "level": "Secondary"
   },
@@ -844,29 +718,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-14T23:32:45",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to creating log entries in Release Management, without a clear focus on innovation capabilities or Evidence-Based Management principles.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-14T23:32:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to release management and scripting, with no clear focus on Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-14T23:32:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Release Management and scripting, with no reference to Agile methodologies or scaling practices.",
+    "reasoning": "Content primarily discusses technical issues related to creating log entries in Release Management, without a clear focus on innovation capabilities or Evidence-Based Management principles.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -907,13 +763,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T04:10:42",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the challenges faced while creating log entries in Release Management, which is related to the operational aspect of software. However, it lacks a direct focus on the broader themes of working software, such as customer value, quality assurance, or iterative development. The discussion is more about personal experiences and technical issues rather than a structured exploration of working software principles.",
     "level": "Ignored"
   },
@@ -928,13 +784,13 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-15T04:10:52",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses issues related to creating log entries in Release Management and deployment scripts, which are tangentially related to Continuous Integration practices. However, it lacks a direct focus on CI principles, best practices, or tools specifically designed for CI. The discussion does touch on aspects of logging and output management during deployment, which can be relevant to CI, but it does not delve into the broader themes of CI or provide substantial detail on its implementation or impact on collaboration and productivity.",
     "level": "Ignored"
   },
@@ -1003,70 +859,70 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-11T16:43:57",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses specific challenges and solutions related to creating log entries in the context of Release Management, which aligns with the category's focus. However, while it touches on relevant practices, such as logging during deployment, it lacks a broader discussion on release strategies, scheduling, or coordination with stakeholders, which limits its depth and overall alignment with the core themes of Release Management.",
     "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-14T23:33:13",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to Release Management and scripting, with no focus on the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-14T23:33:14",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to creating log entries in Release Management and does not focus on Cycle Time or its implications.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-03-11T17:55:54",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 75.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
+    "final_score": 75.0,
     "reasoning": "The content discusses creating log entries in Release Management, which is a component of Azure Pipelines. It provides specific examples of scripting within the context of deployment and logging, indicating a focus on the practical aspects of managing a release pipeline. While it does not cover all aspects of Azure Pipelines, it aligns well with the category's themes of configuration and management of release processes, thus justifying a moderate to high confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-14T23:33:17",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to logging during deployment processes, rather than focusing on the optimisation of deployment intervals or strategies for increasing deployment frequency.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-14T23:33:18",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to creating log entries in Release Management, with no clear focus on change management principles or practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-14T23:33:19",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to creating log entries in Release Management, with no clear focus on team collaboration or Agile principles.",
     "level": "Ignored"
   },
@@ -1088,7 +944,7 @@
     "reasoning": "Content primarily discusses technical issues related to creating log entries in Release Management, without a clear focus on digital transformation strategies or the integration of digital technologies for business enhancement.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-14T23:33:23",
     "ai_confidence": 0,
@@ -1097,33 +953,24 @@
     "reasoning": "Content primarily discusses issues related to creating log entries in Release Management and does not focus on Minimum Viable Product concepts or related methodologies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-14T23:33:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses issues related to creating log entries in Release Management and does not address AI or its applications in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-13T17:02:58",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the process of creating log entries in Release Management, which is a part of system configuration. It provides specific examples of PowerShell commands used to manage output during deployment, aligning with best practices for configuration management. However, while it touches on relevant topics, the overall focus is more on personal experiences and anecdotes rather than a structured exploration of system configuration principles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-14T23:33:27",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details related to Release Management and scripting, with no focus on product strategy or related methodologies.",
     "level": "Ignored"
   },
@@ -1156,37 +1003,37 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:40:35",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses creating log entries in Release Management using PowerShell, with no direct mention of Test First Development principles or practices. While it touches on aspects of deployment and logging, it does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices. The discussion lacks depth regarding any Test First methodologies, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T04:10:20",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 75.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses issues related to creating log entries in Release Management, which is a feature associated with Windows PowerShell and the Windows environment. It includes specific references to Windows PowerShell commands and the context of running scripts in a Windows environment. The discussion aligns well with the category's focus on troubleshooting and configuration within Windows. However, while it provides a good level of detail, it does not cover broader aspects of Windows installation or system updates, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-15T04:10:35",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses issues related to creating log entries during a deployment process, which touches on aspects of deployment strategies. However, it primarily focuses on troubleshooting specific scripting problems rather than providing a comprehensive discussion on deployment methodologies. The mention of 'release pipeline' and logging is relevant but lacks depth and broader context on deployment strategies like Blue-Green Deployments or Canary Releases.",
     "level": "Ignored"
   },
@@ -1201,19 +1048,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-14T23:33:39",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to Release Management and scripting, with no focus on team dynamics or motivation.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-14T23:33:40",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to creating log entries in Release Management, with no clear focus on remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1228,15 +1075,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T04:10:23",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on a specific issue encountered while creating log entries in Release Management, detailing the troubleshooting process and the steps taken to resolve the problem. It discusses the challenges faced, such as the failure of certain commands to produce output, and provides practical solutions, including the use of the '-verbose' command in PowerShell. While the content does not explicitly label itself as troubleshooting, it aligns well with the core themes of diagnosing and resolving technical issues, thus justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1249,13 +1096,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T17:40:38",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical aspects of creating log entries in Release Management using PowerShell, with no direct mention of Scrum Master responsibilities or related concepts. It lacks any discussion on Scrum principles, team dynamics, or the role of a Scrum Master, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
@@ -1270,23 +1117,11 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-14T23:33:48",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to creating log entries in Release Management, with no focus on working agreements or team collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T04:11:00",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses specific technical challenges related to creating log entries in Release Management, which is relevant to software development. However, it lacks a direct focus on Agile or DevOps methodologies, and does not explore broader themes such as team dynamics, collaboration, or best practices in software development. The discussion is primarily technical and does not delve into the role of software developers within Agile or DevOps frameworks, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1300,13 +1135,13 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T04:11:03",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses personal experiences and challenges faced while creating log entries in Release Management, which is not a direct discussion of engineering practices. While it touches on aspects of automation and scripting, it lacks a clear focus on the core principles of Agile engineering practices such as clean code, TDD, or CI/CD. The depth of discussion on relevant topics is minimal, and the overall content does not align closely with the key themes outlined in the category definition.",
     "level": "Ignored"
   },
@@ -1321,19 +1156,19 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-14T23:33:55",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to deployment scripts and logging in Release Management, with no mention of Sprint Reviews or related Scrum events.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-14T23:33:56",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to Release Management and scripting, with no clear focus on product management strategies or methodologies.",
     "level": "Ignored"
   },
@@ -1384,10 +1219,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-14T23:34:05",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to log entries in Release Management and does not address Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -1407,15 +1242,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to creating log entries in Release Management, with no clear focus on accountability or team dynamics.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-14T23:34:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Release Management and scripting in PowerShell, with no mention of Kanban principles or scaling practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1447,22 +1273,22 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:25:31",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical aspects of creating log entries in Release Management using PowerShell, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it touches on the importance of logging for deployment processes, it lacks depth in exploring how these practices relate to team dynamics or organisational culture, which are key themes in the Social Technologies category.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:12:02",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses aspects of Release Management and logging within a deployment context, which relates to the Internal Developer Platform, but it primarily focuses on personal experiences and specific technical issues rather than a comprehensive discussion on IDPs.",
     "level": "Tertiary"
   },
@@ -1477,85 +1303,85 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:35:19",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses technical issues related to release management and deployment scripts, with no direct mention of Scrum principles, roles, events, or artifacts. While there is a brief mention of demos, it does not align with the core themes of Scrum or provide any depth on Scrum practices.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:16:33",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses personal experiences and technical challenges related to creating log entries in Release Management, without any explicit mention or focus on the Shift-Left Strategy. It lacks alignment with the core themes of integrating testing, security, or compliance early in the development process, and does not provide depth on the principles or benefits of the Shift-Left approach.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T21:30:34",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical issues related to creating log entries in Release Management using PowerShell. While it touches on the importance of logging for deployment processes, it does not explicitly discuss Continuous Improvement principles or strategies. The discussion lacks depth in terms of empirical evidence, data-driven decision-making, or fostering a culture of experimentation, which are key aspects of Continuous Improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T21:30:37",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical issues related to creating log entries in Release Management using PowerShell. It does not discuss Common Goals, Agile, or DevOps principles. While it touches on deployment processes, it lacks any mention of shared objectives or alignment with organisational strategy, which are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T21:30:40",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on technical issues related to creating log entries in Release Management using PowerShell. While it touches on the importance of logging for deployment success, it does not explicitly discuss continuous learning, skill development, or the broader implications of competence in Agile or DevOps environments. The mention of logging could be seen as a secondary aspect of competence, but the overall discussion lacks depth and direct references to the core themes of competence as defined in the category.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T21:30:43",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on creating log entries in Release Management using PowerShell, which does not directly discuss the One Engineering System framework or its principles. While it touches on deployment processes, it lacks explicit references to integration, standardisation, or best practices related to 1ES. The discussion is more about personal experiences and technical challenges rather than a structured analysis of 1ES concepts.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T17:40:32",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical aspects of creating log entries in Release Management using PowerShell. It does not explicitly discuss Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes, autonomy, or adaptability in a socio-technical context. The discussion is more about troubleshooting and scripting rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }

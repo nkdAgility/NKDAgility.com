@@ -31,10 +31,16 @@ tags:
 - Evidence Based Management
 - Pragmatic Thinking
 - Operational Practices
-- Continuous Improvement
-- People and Process
 - Ability to Innovate
+- Continuous Improvement
 - Value Delivery
+- Organisational Agility
+- Agile Strategy
+- Empirical Process Control
+- Market Adaptability
+- Decision Theory
+- Sensemaking
+- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -30,16 +30,18 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
-- Agile Project Management
-- Accountability
-- Scrum Product Development
 - Scrum Team
-- Transparency and Accountability
-- Product Owner
 - Software Development
+- Product Owner
+- Team Collaboration
+- Agile Transformation
+- Agile Values and Principles
+- Agile Philosophy
+- Pragmatic Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
 
 ---
 ## Product Owner's Misstep

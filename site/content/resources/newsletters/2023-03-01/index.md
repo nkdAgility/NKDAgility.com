@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: newsletters
 ResourceContentOrigin: Human
 date: 2023-03-01
-weight: 855
+weight: 840
 preview: naked-agility-technically-agile-1280×720-March2023.jpg
 author: MrHinsh
 resourceTypes: newsletter
@@ -22,14 +22,13 @@ aliasesArchive:
 categories:
 - Scrum
 tags:
-- Discovery and Learning
 - Continuous Learning
 - Pragmatic Thinking
-- Professional Scrum
-- Events and Presentations
-- People and Process
 - Continuous Improvement
+- Professional Scrum
 - Competence
+- Coaching
+- Team Collaboration
 
 ---
 While all of our courses are centred around valuable learning outcomes achieved through experiential learning within a classroom environment, they are most often delivered as intense consecutive 2-day or 4-half-day experiences.

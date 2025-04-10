@@ -6,7 +6,7 @@ ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-02-24T09:00:00
-weight: 250
+weight: 175
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -25,18 +25,62 @@ aliasesArchive:
 - /stop-hiding-behind-complexity-and-start-delivering-continuously
 - /blog/stop-hiding-behind-complexity-and-start-delivering-continuously
 tags:
-- Continuous Delivery
 - Software Development
+- Continuous Delivery
 - Product Delivery
+- Digital Transformation
 - Metrics and Learning
+- Organisational Agility
+- Technical Excellence
 - Working Software
+- Continuous Improvement
 - Frequent Releases
+- Time to Market
 - Azure DevOps
+- Business Agility
 - Release Management
+- Flow Efficiency
+- Market Adaptability
+- Operational Practices
+- Pragmatic Thinking
+- Technical Mastery
+- Deployment Frequency
 - Engineering Practices
 - Value Delivery
+- Deployment Strategies
+- Technical Debt
+- Application Lifecycle Management
+- Agile Strategy
+- Enterprise Agility
+- Current Value
+- Azure Pipelines
+- Continuous Integration
+- Ability to Innovate
+- Agile Transformation
+- Evidence Based Management
+- Shift-Left Strategy
+- Modern Source Control
+- Agile Philosophy
+- Agile Product Management
+- Automated Testing
+- Competence
+- Complexity Thinking
+- Continuous Learning
+- Empirical Process Control
+- Entrepreneurship
+- Evidence Based Leadership
+- Experimentation
+- Lean Principles
+- Lean Product Development
+- Organisational Physics
+- Platform Engineering
+- Sociotechnical Systems
+- Team Performance
+- Increment
 categories:
 - DevOps
+- Engineering Excellence
+- Product Development
 preview: 2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg
 
 ---

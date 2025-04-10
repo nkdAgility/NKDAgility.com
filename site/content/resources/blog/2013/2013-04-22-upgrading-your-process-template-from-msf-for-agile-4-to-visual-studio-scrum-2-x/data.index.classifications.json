@@ -1,27 +1,15 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-15T05:15:30",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of upgrading process templates in Visual Studio Scrum, which is a specific implementation detail rather than a broader discussion on Agile Product Management principles. While it mentions Scrum and touches on aspects like work item types and process templates, it lacks a comprehensive exploration of Agile methodologies, product value maximisation, or the role of the Product Owner. The depth of technical detail is significant, but it does not align closely with the core themes of Agile Product Management.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:06:52",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 90.0,
-    "non_ai_confidence": 20,
-    "final_score": 80.0,
-    "reasoning": "The content provides a detailed guide on upgrading process templates in Visual Studio Scrum, which directly relates to practical techniques and tooling in Agile practices. It discusses specific tools (e.g., witadmin commands) and methodologies for implementing upgrades, aligning well with the category's focus. The depth of discussion is significant, covering various stages of the upgrade process and best practices, thus justifying a high confidence score.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -34,41 +22,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T07:53:14",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on upgrading process templates in Visual Studio Scrum, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on aspects of process improvement, it lacks a clear connection to data-informed decision-making or the key topics outlined in the EBM category.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T18:55:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses upgrading process templates in Visual Studio Scrum, which is more related to project management and tooling rather than the interplay between software code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T18:55:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the technical process of upgrading a process template without focusing on learning or discovery methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T18:56:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses upgrading process templates in Visual Studio Scrum, with no mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -82,24 +43,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T12:48:56",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed guide on upgrading a process template, which directly relates to installation and configuration. It includes step-by-step instructions, warnings about data loss, and specific commands for executing the upgrade, demonstrating a strong focus on practical implementation. The discussion aligns well with the key topics of the category, particularly in terms of installation procedures and configuration best practices. The depth of discussion is substantial, covering various aspects of the upgrade process, including customisation considerations and post-upgrade tasks, which enhances its relevance to the category.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T18:56:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical process of upgrading a process template in Visual Studio Scrum, with no clear focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -119,24 +71,15 @@
     "reasoning": "Content primarily focuses on technical aspects of upgrading process templates in Visual Studio Scrum, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T18:56:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses technical implementations related to upgrading process templates without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T07:52:54",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on upgrading a process template related to Scrum and Agile methodologies, which are not directly aligned with the core principles of DevOps. While there are mentions of version control and process management, the discussion lacks a strong emphasis on collaboration, automation, or shared accountability, which are central to DevOps. The content does not delve into the cultural shifts or practices necessary for effective DevOps implementation, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -158,15 +101,6 @@
     "reasoning": "Content primarily discusses the technical process of upgrading a process template in Visual Studio Scrum, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T18:56:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical process of upgrading a process template in Visual Studio, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T18:56:54",
@@ -174,15 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of upgrading a process template in Visual Studio Scrum, with no clear focus on optimising work throughput or addressing flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T18:56:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily focuses on the technical aspects of upgrading process templates and does not discuss human behaviour, team dynamics, or methodologies related to people and process.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -205,10 +130,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T18:57:00",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on upgrading process templates in Visual Studio Scrum, with no significant discussion on metrics, data utilisation, or learning methodologies.",
     "level": "Ignored"
   },
@@ -223,15 +148,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T05:15:25",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on the technical process of upgrading a process template in Visual Studio Scrum, which involves specific engineering practices. However, while it touches on aspects of technical excellence, such as version control and maintaining data integrity during migrations, it lacks a broader discussion on methodologies like TDD or CI/CD. The depth of technical detail is moderate, but the primary focus is on a specific task rather than a comprehensive exploration of technical excellence principles.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -253,13 +178,13 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T05:15:57",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily focuses on the technical process of upgrading a process template within Visual Studio Scrum, which is a specific aspect of product delivery. It discusses the steps involved in the upgrade process, including considerations for customisations and maintaining data integrity, which aligns with the methodologies of product delivery. However, while it touches on relevant practices, it lacks broader discussions on Agile methodologies, iterative development, or deployment strategies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -281,15 +206,6 @@
     "reasoning": "Content primarily discusses upgrading process templates in Visual Studio Scrum, which is not directly related to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T18:57:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical process of upgrading a process template in Visual Studio Scrum, without focusing on specific products or literature related to Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T18:57:12",
@@ -301,13 +217,13 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T14:50:34",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 72.0,
     "ai_mentions": 80.0,
     "ai_alignment": 65.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on upgrading process templates within the context of Azure DevOps, specifically discussing the migration from MSF for Agile to Visual Studio Scrum templates. It provides detailed steps and considerations for the upgrade process, which aligns well with Azure DevOps functionalities. However, while it mentions Azure DevOps indirectly through references to Team Foundation Server (TFS) and process templates, it does not explicitly cover broader Azure DevOps services or methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -331,22 +247,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T18:57:18",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on upgrading process templates related to Visual Studio Scrum, which does not align with the core principles of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T07:53:10",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 15.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on upgrading process templates within Visual Studio Scrum, which is more aligned with traditional project management practices rather than the Agile Product Operating Model. While it mentions Scrum, it does not discuss the core principles of APOM, such as transitioning to a product-oriented mindset or continuous delivery. The discussion lacks depth in terms of Agile product management principles and does not provide insights into operational stability, governance, or evidence-based management, which are key topics of the APOM framework.",
     "level": "Ignored"
   },
@@ -359,75 +275,66 @@
     "reasoning": "Content primarily focuses on the technical process of upgrading a process template in Visual Studio Scrum, rather than discussing organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T18:57:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on a technical tutorial for upgrading process templates in Visual Studio Scrum, lacking discussions on industry news, updates, or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T05:15:54",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on upgrading process templates within Visual Studio Scrum, which is a specific aspect of software development rather than a comprehensive discussion on Application Lifecycle Management (ALM). While it touches on some relevant topics such as version control and migration processes, it lacks a broader exploration of the entire application lifecycle stages, governance, or integration of ALM principles. The discussion is more technical and procedural, which does not fully align with the key themes of ALM.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-15T19:59:53",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily about upgrading process templates in Visual Studio Scrum and does not focus on Daily Scrum discussions or relevant practices.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T19:59:53",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of upgrading a process template in Visual Studio Scrum, with no clear focus on the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T05:15:27",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on the technical process of upgrading a process template in Visual Studio Scrum, which involves specific commands and considerations for maintaining data integrity. While it touches on aspects of software craftsmanship, such as version control and customisation management, it lacks a broader discussion on best practices, principles of clean code, or methodologies that contribute to high-quality software development. The technical details provided are useful but do not delve deeply into the overarching themes of technical mastery.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T19:59:53",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses upgrading a process template from MSF to Visual Studio Scrum, focusing on technical implementation details rather than product discovery methodologies.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T07:53:18",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on upgrading process templates within Visual Studio Scrum, which is more about process management than Continuous Delivery. While it touches on aspects of version control and migration, it lacks a direct discussion on Continuous Delivery principles, automation in deployment, or rapid feedback mechanisms. The content does not explore the core themes of Continuous Delivery, such as delivering small, incremental improvements or enhancing software quality, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -460,10 +367,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T19:59:53",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses upgrading process templates in Visual Studio and does not focus on the criteria or practices related to the Definition of Ready.",
     "level": "Ignored"
   },
@@ -478,25 +385,25 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-03-15T05:15:44",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses upgrading process templates in Visual Studio Scrum, which includes references to work item types like 'Product Backlog Item'. However, the primary focus is on the technical aspects of migration and template management rather than on the broader concepts of the Product Backlog itself. While there are mentions of backlog-related terms, the depth and alignment with the core themes of backlog management are limited.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-15T05:15:51",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of upgrading process templates in Visual Studio Scrum, which is a specific implementation detail rather than a broader discussion on Agile Planning principles. While it mentions Scrum and touches on aspects like work item types and configurations, it lacks a comprehensive exploration of Agile Planning methodologies, techniques, or best practices. The discussion is more about the migration process than about planning or executing Agile projects effectively.",
     "level": "Ignored"
   },
@@ -520,31 +427,31 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-11T18:02:04",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on the technical steps involved in upgrading a process template within a specific software environment. While it does touch on aspects of process management and customisation, it lacks a broader discussion on operational efficiency or strategies that enhance delivery within Agile or DevOps frameworks. The details provided are more procedural than strategic, which limits its alignment with the core themes of operational practices.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T19:59:53",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on upgrading process templates in Visual Studio and does not discuss Scrum Team dynamics, roles, or collaboration practices.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-15T19:59:53",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical details of upgrading process templates in Visual Studio Scrum and does not address foundational principles, values, or broader implications of Agile philosophy.",
     "level": "Ignored"
   },
@@ -559,24 +466,24 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T19:59:53",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on upgrading process templates in Visual Studio Scrum, discussing technical details and procedures rather than methodologies or practices related to testing product ideas with users or validating market needs.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-11T10:30:06",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on the technical aspects of upgrading process templates within Visual Studio Scrum, which is a specific implementation of Agile practices. While it mentions Scrum and touches on Agile concepts, it lacks a broader discussion on Agile transformation strategies, principles, or cultural shifts. The depth of discussion is limited to technical steps without exploring the underlying Agile principles or change management strategies, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -598,10 +505,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T19:59:53",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses mainly on the technical aspects of upgrading process templates in Visual Studio and does not discuss team dynamics, performance measurement, or collaborative practices.",
     "level": "Ignored"
   },
@@ -625,106 +532,94 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T16:50:21",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed guide on upgrading process templates within the context of Agile and Scrum methodologies, which are core aspects of software development practices. It discusses specific steps, commands, and considerations for maintaining data integrity during the upgrade process, demonstrating a strong alignment with best practices in software development. The depth of discussion is significant, covering various technical aspects and potential pitfalls, which reinforces its primary focus on software development.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-15T05:15:22",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content primarily focuses on the technical aspects of upgrading process templates related to Scrum in Visual Studio, which is a specific application of Agile methodologies. While it mentions Scrum and touches on aspects of Agile project management, such as work item types and configurations, it lacks a broader discussion on Agile principles, frameworks, or practices. The depth of discussion is more technical than strategic, which limits its alignment with the core themes of Agile Project Management.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T19:59:53",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical aspects of upgrading process templates in a Visual Studio environment, specifically related to Scrum, without discussing Agile values or principles.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-15T05:15:47",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of upgrading process templates in Visual Studio Scrum, with limited direct discussion of Scrum principles, roles, or events. While it mentions Scrum in the context of process templates, it lacks a thorough exploration of Scrum's theoretical foundations or practical implementations, which are essential for a higher confidence score in the 'Professional Scrum' category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-15T05:15:34",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses upgrading process templates in Team Foundation Server (TFS) and mentions keeping process templates under source control, which aligns with modern source control practices. However, the primary focus is on process template management rather than broader version control strategies or methodologies. While it touches on version control aspects, it does not delve deeply into core themes like branching strategies or collaboration workflows, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T19:59:53",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on technical aspects of upgrading process templates in Visual Studio Scrum, rather than discussing principles or practices of empirical process control.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-15T19:59:53",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on upgrading process templates in Visual Studio Scrum, not on Scrum Values, principles, or team interactions.",
     "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-03-11T11:55:09",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily discusses the process of upgrading process templates within the context of Visual Studio Scrum, which is related to Azure Boards. It mentions work item types and customisation, aligning with Azure Boards' functionalities. However, the focus is more on the technical aspects of migration rather than a comprehensive exploration of Azure Boards' features or best practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T19:59:53",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses upgrading process templates in Visual Studio Scrum, which is not focused on collaboration tools or enhancing team dynamics.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T19:59:53",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses process template upgrades in Visual Studio Scrum, which focuses on technical details and not on organisational change strategies or frameworks.",
     "level": "Ignored"
   },
@@ -755,15 +650,6 @@
     "reasoning": "Content heavily discusses technical steps in upgrading software process templates without addressing customer satisfaction or experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T19:59:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on upgrading a process template from MSF for Agile to Visual Studio Scrum, which primarily deals with migration steps and technical details rather than discussing the scaling of Scrum practices in large organizations.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T19:59:53",
@@ -782,24 +668,15 @@
     "reasoning": "Content heavily discusses process template upgrading in Visual Studio Scrum and related technical tasks, which do not relate to psychological safety.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T19:59:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of upgrading a process template in Visual Studio Scrum and does not focus on scaling agile principles or methodologies across an organization.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T05:15:18",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on upgrading a process template in Visual Studio Scrum, which is more aligned with project management and specific tooling rather than broader engineering excellence practices. While it touches on aspects of process improvement and version control, it lacks a comprehensive discussion on software craftsmanship, coding standards, or quality assurance principles that are central to the category of Engineering Excellence.",
     "level": "Ignored"
   },
@@ -841,53 +718,32 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T05:15:20",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content provides a detailed, step-by-step guide on upgrading process templates within Agile and Scrum contexts, demonstrating practical problem-solving strategies. It discusses real-world applications of DevOps principles, such as version control and data preservation during migrations, which aligns well with the core themes of pragmatic thinking. The depth of discussion is significant, covering various aspects of the upgrade process, including potential pitfalls and necessary considerations, which showcases experience-based decision-making. Overall, the content is highly relevant to the category, focusing on practical applications rather than theoretical concepts.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-15T19:59:53",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses upgrading process templates in Visual Studio and does not focus on backlog refinement practices or principles.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T19:59:53",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily describes a technical process for upgrading software templates, which does not focus on measuring or enhancing innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-15T05:15:32",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses upgrading process templates related to Scrum in Visual Studio, which indicates a connection to Scrum practices. However, it primarily focuses on technical aspects of migration rather than the broader principles of Scrum product development, such as roles, iterative processes, or customer feedback. While it mentions Scrum templates and work item types, it lacks a detailed exploration of Scrum methodologies or product development strategies.",
-    "level": "Tertiary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T19:59:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on upgrading a process template related to Scrum and Visual Studio without addressing the coordination and scaling of Agile practices at an enterprise level.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -928,27 +784,27 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T05:15:42",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content primarily focuses on the technical process of upgrading a process template in Visual Studio Scrum, which is a specific implementation detail rather than a broader discussion on working software principles. While it touches on aspects of maintaining functionality and customisation, it lacks a comprehensive exploration of working software characteristics, customer value delivery, or best practices for ensuring software quality. The discussion is more about the mechanics of template migration than about delivering high-quality, functional software that meets user needs.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-03-15T05:15:39",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on the technical process of upgrading a process template in Visual Studio Scrum, which is related to Agile methodologies. However, it lacks a direct discussion on Agile Planning Tools as a category. While it mentions aspects of process templates and work item types, it does not delve into the broader themes of Agile planning tools, such as backlog management or team collaboration strategies. The depth of discussion is more technical and procedural rather than strategic or conceptual, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -970,10 +826,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-15T19:59:53",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on technical processes involved in upgrading a process template and does not address leadership roles or practices within Agile contexts.",
     "level": "Ignored"
   },
@@ -1033,10 +889,10 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-15T19:59:53",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses upgrading process templates in Visual Studio Scrum and technical implementation details, not focusing on the Product Owner role or responsibilities.",
     "level": "Ignored"
   },
@@ -1069,19 +925,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T19:59:53",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses upgrading process templates in Visual Studio Scrum without a focus on effective change management strategies or principles.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T19:59:53",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical steps and processes involved in upgrading a process template in Visual Studio Scrum, rather than focusing on teamwork, communication, or collaborative practices within an Agile or Scrum context.",
     "level": "Ignored"
   },
@@ -1103,7 +959,7 @@
     "reasoning": "Content heavily discusses upgrading process templates in Visual Studio Scrum but does not address digital transformation initiatives, strategies, or the strategic use of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T19:59:53",
     "ai_confidence": 0,
@@ -1112,33 +968,24 @@
     "reasoning": "Content primarily discusses technical steps for upgrading process templates in Visual Studio Scrum rather than focusing on Minimum Viable Product concepts, principles, or practices.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T19:59:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses primarily on upgrading process templates in Visual Studio Scrum and does not mention or relate to AI applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T15:00:12",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on the process of upgrading a process template in Visual Studio, which involves detailed steps for configuration management, including setting up, completing the upgrade, and considerations for customisations. It discusses best practices for maintaining data integrity during the upgrade, which aligns well with system configuration principles. However, while it provides substantial detail on the upgrade process, it does not delve deeply into broader system optimisation strategies or security considerations, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T19:59:53",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details about upgrading process templates in Visual Studio Scrum, without addressing product strategy concepts such as vision formulation or market alignment.",
     "level": "Ignored"
   },
@@ -1162,10 +1009,10 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-15T19:59:53",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on upgrading process templates for Agile methodologies and Visual Studio Scrum, without discussing cross-functional teams or related topics.",
     "level": "Ignored"
   },
@@ -1210,10 +1057,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T19:59:53",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on the technical aspects of upgrading process templates in Visual Studio Scrum, with no discussions on team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1237,15 +1084,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T05:15:49",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on the process of upgrading a process template in Visual Studio, which includes some elements of troubleshooting, such as warnings about data loss and the need to identify customisations. However, it lacks a strong emphasis on systematic problem-solving techniques or detailed methodologies for diagnosing and resolving issues, which are central to the Troubleshooting category. The discussion is more about procedural steps rather than in-depth troubleshooting strategies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1286,18 +1133,6 @@
     "reasoning": "Content primarily discusses upgrading process templates and technical steps related to Visual Studio Scrum, without focusing on working agreements or team collaboration principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-10T18:39:44",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 80.0,
-    "non_ai_confidence": 0,
-    "final_score": 70.0,
-    "reasoning": "The content primarily focuses on the process of upgrading a process template within the context of Agile methodologies, specifically Visual Studio Scrum. It discusses best practices for managing process templates, which aligns well with the role of software developers in Agile environments. The depth of discussion is significant, providing detailed steps and considerations for developers undertaking this task. However, while it is relevant to software developers, it does not explicitly discuss broader Agile or DevOps principles, which slightly lowers the confidence score.",
-    "level": "Secondary"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-15T19:59:53",
@@ -1309,13 +1144,13 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T05:15:59",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on upgrading process templates within Visual Studio Scrum, which is more aligned with project management and tooling rather than core engineering practices like clean code, TDD, or CI/CD. While it touches on aspects of version control and process management, it lacks a direct discussion of Agile engineering principles and methodologies. The depth of discussion is limited to procedural steps without delving into the underlying engineering practices that enhance software quality.",
     "level": "Ignored"
   },
@@ -1339,10 +1174,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T19:59:53",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical implementation details of upgrading process templates in Visual Studio Scrum, which falls outside the strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1357,22 +1192,22 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-15T05:15:37",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 62.0,
     "ai_mentions": 75.0,
     "ai_alignment": 55.0,
     "ai_depth": 65.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on upgrading a process template related to Visual Studio Scrum, which is an Agile framework. It discusses specific steps and considerations for migrating from one version of a Scrum template to another, indicating a direct mention of Agile frameworks. However, while it provides practical guidance, the depth of discussion on Agile principles and broader implications for organisational agility is limited. The content is more technical and procedural, which affects its overall alignment with the core themes of Agile frameworks.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-15T05:15:18",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
+    "final_score": 30.0,
     "reasoning": "The content primarily focuses on technical aspects of upgrading process templates for Scrum methodologies, rather than discussing the strategic alignment or implementation of Agile practices at an organizational level.",
     "level": "Ignored"
   },
@@ -1396,10 +1231,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T19:59:53",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses upgrading process templates and does not focus on Lean principles, waste reduction, or customer feedback in product development.",
     "level": "Ignored"
   },
@@ -1419,15 +1254,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical processes and procedures for upgrading Visual Studio Scrum templates, with no clear focus on accountability, team ownership, or responsibility. There is no discussion of team dynamics or the principle of accountability in Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T19:59:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses upgrading a process template for Scrum, with no focus on Kanban principles or scaling practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1459,13 +1285,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:32:25",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical aspects of upgrading process templates in Visual Studio Scrum, with minimal discussion on collaboration, decision-making, or value delivery. While it mentions team projects and some aspects of configuration, it lacks a clear emphasis on social technologies or their impact on team dynamics and organisational culture.",
     "level": "Ignored"
   },
@@ -1489,37 +1315,37 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:41:20",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on the technical aspects of upgrading process templates related to Visual Studio Scrum, which includes specific references to Scrum terminology such as 'Product Backlog Item' and 'Impediment'. However, while it mentions Scrum, the discussion is more about the migration process rather than the principles, roles, or events of Scrum itself. Therefore, while there is a clear connection to Scrum, the depth and breadth of the discussion do not fully align with the core themes of the Scrum category.",
     "level": "Secondary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:23:16",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on upgrading process templates in Visual Studio Scrum and does not explicitly discuss the Shift-Left Strategy. While there are mentions of process management and configuration, these do not align with the core themes of integrating testing, security, and compliance earlier in the software development lifecycle. The discussion lacks depth on the principles, benefits, or techniques related to the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T07:52:57",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical process of upgrading a process template in Visual Studio Scrum, with minimal reference to Continuous Improvement principles. While it discusses aspects of maintaining and adapting templates, it lacks a broader discussion on the culture of experimentation, learning, or strategic business agility that characterises Continuous Improvement. The content does not provide empirical evidence or case studies, nor does it explore the impact on team effectiveness or organisational processes.",
     "level": "Ignored"
   },
@@ -1537,25 +1363,25 @@
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T07:53:07",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on the technical process of upgrading a process template in Visual Studio, with limited direct discussion on competence. While it touches on the importance of careful execution and maintaining data integrity, it lacks a deeper exploration of continuous learning, skill development, or fostering a culture of competence, which are central to the category. The mention of ensuring proper setup and understanding of customisations hints at competence but does not delve into the broader implications of professional development or quality delivery.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T18:54:30",
+    "calculated_at": "2025-04-10T15:55:17",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the technical process of upgrading a process template in Visual Studio Scrum, with no explicit discussion of Agentic Agility or its principles. While it touches on aspects of adaptability in the context of upgrading templates, it lacks depth and does not address the intentional shaping of outcomes, human versus AI capabilities, or the transformative capacity of individuals and systems.",
     "level": "Ignored"
   }

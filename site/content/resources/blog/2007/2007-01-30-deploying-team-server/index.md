@@ -9,7 +9,7 @@ ResourceImportId: 440
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-30
-weight: 665
+weight: 630
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,9 +25,10 @@ aliasesArchive:
 - /resources/blog/deploying-team-server
 tags:
 - Software Development
+- Application Lifecycle Management
+- Pragmatic Thinking
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- DevOps
+categories: []
 
 ---
 Sorry that I have not posted on this subject in a while, but I am lazy. After that last elongated post I am in the mood to write again...

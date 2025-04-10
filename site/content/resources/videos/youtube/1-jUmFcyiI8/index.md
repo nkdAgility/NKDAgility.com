@@ -2,7 +2,7 @@
 title: 'Maximising Deployment Frequency: The Key to Faster Time to Market and Business Success'
 description: Unlock the secrets to efficient software delivery! Discover how deployment frequency, stability, and learning time can transform your team's success.
 date: 2025-01-22T14:16:54Z
-weight: 305
+weight: 230
 ResourceId: 1-jUmFcyiI8
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,16 +26,35 @@ preview: https://i.ytimg.com/vi/1-jUmFcyiI8/maxresdefault.jpg
 duration: 551
 isShort: false
 tags:
-- Deployment Frequency
-- Value Delivery
-- Metrics and Learning
-- Product Delivery
-- Market Adaptability
-- Software Development
 - Frequent Releases
 - Organisational Agility
 - Operational Practices
+- Deployment Frequency
+- Product Delivery
+- Market Adaptability
+- Value Delivery
+- Metrics and Learning
+- Software Development
+- Time to Market
+- Technical Excellence
+- Flow Efficiency
 - Continuous Delivery
+- Pragmatic Thinking
+- Working Software
+- Continuous Learning
+- Business Agility
+- Continuous Improvement
+- Release Management
+- Enterprise Agility
+- Agile Product Management
+- Agile Strategy
+- Application Lifecycle Management
+- Deployment Strategies
+- Engineering Practices
+- Evidence Based Management
+- Lean Product Development
+- Sociotechnical Systems
+- Evidence Based Leadership
 resourceTypes:
 - video
 sitemap:
@@ -43,7 +62,7 @@ sitemap:
   priority: 0.6
 categories:
 - Engineering Excellence
-- Product Management
+- Product Development
 - DevOps
 
 ---

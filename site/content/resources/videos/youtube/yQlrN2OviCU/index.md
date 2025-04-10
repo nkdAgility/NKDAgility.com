@@ -32,19 +32,21 @@ sitemap:
   priority: 0.6
 tags:
 - Continuous Learning
-- Team Collaboration
 - Pragmatic Thinking
-- Discovery and Learning
-- Team Performance
+- Team Collaboration
 - Coaching
-- People and Process
-- Scrum Master
+- Team Performance
 - Continuous Improvement
+- Social Technologies
 - Team Motivation
+- Scrum Master
+- Competence
+- Mentoring
+- Customer Feedback Loops
+- Miscellaneous
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 In the world of Scrum and Agile training, **immersive learning** is a game-changer. It transforms the way we absorb information, moving away from traditional lecture-based approaches to more practical, hands-on experiences. One of the standout aspects of this learning style is the **peer feedback** loop, which not only accelerates learning but also encourages real-world application.

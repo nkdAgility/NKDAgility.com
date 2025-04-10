@@ -2,7 +2,7 @@
 title: 'Rethinking Software Estimation: Embrace Probabilistic Forecasting for Agile Success'
 description: Unlock the secrets of effective software project management! Discover how probabilistic forecasting can replace traditional estimation for better outcomes.
 date: 2024-12-05T06:30:00Z
-weight: 810
+weight: 790
 ResourceId: mZvRMHFUarM
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -28,20 +28,33 @@ isShort: false
 tags:
 - Estimation
 - Forecasting
-- Software Development
 - Pragmatic Thinking
-- Agile Project Management
+- Software Development
 - Decision Theory
-- People and Process
+- Organisational Agility
 - Agile Philosophy
-- Software Developers
+- Business Agility
 - Agile Strategy
+- Project Management
+- Agile Planning
+- Complexity Thinking
+- Metrics and Learning
+- Value Delivery
+- Agile Product Management
+- Empirical Process Control
+- Operational Practices
+- Agile Values and Principles
+- Agile Transformation
+- Decision Making
+- Product Delivery
+- Sensemaking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 One of the most significant challenges I encounter in the realm of software projects is the perennial struggle with estimation. It’s a topic that seems to generate endless debate and confusion. Many organisations feel compelled to engage in some form of estimation, whether that’s through absolute estimation—which often leads to errors—or by employing relative estimation tools. The reality, however, is that we often feel we need these estimates to chart our course forward. But do we really?

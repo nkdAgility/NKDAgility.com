@@ -2,7 +2,7 @@
 title: 'Unlocking Naked Agility: How Happy Teams Drive Exceptional Products'
 description: Unlock the secret to exceptional products by fostering happy, engaged teams. Discover how autonomy, mastery, and purpose drive success in your organisation!
 date: 2024-05-10T06:45:01Z
-weight: 700
+weight: 665
 ResourceId: yCyjGBNaRqI
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,15 +26,32 @@ duration: 174
 isShort: false
 tags:
 - Team Motivation
-- People and Process
+- Employee Engagement
 - Organisational Culture
 - Team Performance
-- Employee Engagement
-- Team Collaboration
 - Agile Leadership
 - Agile Philosophy
 - Organisational Psychology
+- Team Collaboration
 - Self Organisation
+- Agile Values and Principles
+- Coaching
+- Organisational Agility
+- Pragmatic Thinking
+- Sociotechnical Systems
+- Competence
+- Continuous Learning
+- Personal
+- Social Technologies
+- Agile Product Management
+- Agile Strategy
+- Business Agility
+- Customer Satisfaction
+- Organisational Change
+- Agentic Agility
+- Value Delivery
+- Psychological Safety
+- Beta Codex
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,7 +60,6 @@ resourceTypes:
 - video
 categories:
 - Leadership
-- Social Technologies
 
 ---
 Creating great teams is at the heart of what I call "naked agility." It’s a straightforward concept, yet it’s often overlooked in the hustle and bustle of organisational life. If we have unhappy, disengaged people, we can’t expect to produce exceptional work or build outstanding products. As customers and users, we deserve better than mediocre offerings; we deserve products that enhance our experiences and help us achieve our goals.

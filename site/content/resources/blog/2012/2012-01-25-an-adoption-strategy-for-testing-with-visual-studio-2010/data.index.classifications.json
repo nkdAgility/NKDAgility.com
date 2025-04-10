@@ -1,27 +1,15 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-15T06:13:27",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions agile practices and Scrum training, but the primary focus is on testing tools and strategies rather than on Agile Product Management principles. While there is some alignment with Agile concepts, the depth of discussion on product management specifically is limited.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:25:20",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses specific tools like Microsoft Test Manager and Visual Studio 2010, providing an overview and hands-on lab opportunities, which aligns well with the category's focus on practical techniques and tooling. It also mentions Agile practices and training, indicating a strong connection to methodologies that enhance team performance. However, while it provides useful insights, the depth of discussion on metrics or case studies is somewhat limited, preventing a higher score.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -34,44 +22,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:30:47",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on adoption strategies for Microsoft Test Manager and the collaboration between developers and testers. While it mentions agile practices, it does not discuss Evidence-Based Management principles or metrics related to current value, time to market, or empirical decision-making. The discussion lacks depth in relation to the core themes of EBM, making it only tangentially related.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T21:36:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses testing tools and agile practices, with no clear focus on code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-15T06:13:10",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on tools and training related to Visual Studio and testing practices, with some mention of agile practices. However, it lacks a strong emphasis on the processes of discovery and learning, as it mainly discusses technical implementation and project management aspects without delving into methodologies that foster innovation or continuous learning.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T21:36:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses testing tools and Agile practices without a focus on AI or automation technologies.",
     "level": "Ignored"
   },
   "Lean": {
@@ -85,61 +43,43 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses tools and training related to Visual Studio and Microsoft Test Manager, which implies some aspects of installation and configuration, but the primary focus is on adoption strategies and agile practices rather than detailed installation procedures.",
     "level": "Tertiary"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T21:36:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses tools and training for developers and testers, with no clear focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile practices and their role in improving team collaboration and effectiveness, which is relevant to market adaptability, but the primary focus is on testing tools and training rather than directly addressing market responsiveness.",
     "level": "Tertiary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-15T06:13:15",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the challenges developers and testers face in collaboration, which touches on the social aspects of software development. It mentions tools that facilitate teamwork, hinting at the interplay between technology and team dynamics. However, the primary focus is on specific tools and training rather than a comprehensive exploration of sociotechnical systems. The depth of discussion on the integration of social and technical elements is limited, leading to a moderate confidence score.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T21:37:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses testing tools and training for developers and testers, with no clear focus on organisational resilience or change management.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:30:31",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on testing strategies and tools related to Visual Studio 2010, with a brief mention of collaboration between developers and testers. While it touches on aspects of teamwork and agile practices, it lacks a direct discussion of DevOps principles such as automation, shared accountability, or continuous improvement. The emphasis is more on specific tools and methodologies rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
@@ -161,18 +101,6 @@
     "reasoning": "Content primarily discusses tools and training related to Visual Studio and Agile practices, without a focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-10T12:58:41",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses various training sessions and hands-on labs related to Visual Studio 2010, which aligns with the category of events and presentations. It explicitly mentions a hands-on lab and training course, indicating a focus on structured learning experiences. However, the primary focus is on the tools and practices rather than the events themselves, leading to a moderate confidence score.",
-    "level": "Secondary"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T21:37:10",
@@ -182,48 +110,36 @@
     "reasoning": "Content primarily discusses testing tools and training for developers and testers, with no clear focus on optimising work throughput or flow efficiency.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-10T14:58:06",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 25,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the challenges developers and testers face in collaboration, highlighting the importance of tools like Microsoft Test Manager to improve team dynamics. It mentions agile practices and training, which align with the category's focus on team collaboration and process improvement. However, the primary focus remains on tools and methodologies rather than a deep exploration of human behaviour or team dynamics, leading to a moderately high confidence score.",
-    "level": "Secondary"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-15T06:13:12",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on tools and practices for developers and testers, with a brief mention of agile practices. However, it lacks a comprehensive discussion on enterprise-level agility, organisational structures, or cultural aspects of agility. The emphasis is on team-level practices rather than broader organisational implications.",
     "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-15T06:13:36",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions agile practices and Scrum, which are related to business agility, but the primary focus is on testing tools and training rather than on the principles and practices of business agility itself. The discussion lacks depth in exploring how these practices contribute to organisational adaptability and innovation.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T21:37:16",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses tools and training for developers and testers, without a clear focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -238,13 +154,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T06:13:44",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 52.0,
     "ai_mentions": 30.0,
     "ai_alignment": 40.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 47.0,
+    "final_score": 52.0,
     "reasoning": "The content discusses tools and training related to testing and Agile practices, which are relevant to technical excellence. However, the primary focus is on the adoption of Microsoft Test Manager and Agile methodologies rather than deep technical practices like TDD or CI/CD. While it mentions Agile practices and their benefits, it does not delve into specific engineering methodologies or principles that enhance technical excellence, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
@@ -268,15 +184,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T06:12:55",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses tools and training related to testing and agile practices, which are relevant to product delivery. However, it primarily focuses on specific tools (Visual Studio and Microsoft Test Manager) and training courses rather than the broader methodologies and practices of product delivery. While there are mentions of agile practices and team collaboration, the depth of discussion on product delivery principles is limited.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -296,27 +212,15 @@
     "reasoning": "Content primarily discusses testing strategies and tools related to Visual Studio, with a focus on Agile practices, rather than Value Stream Management principles.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-10T18:46:18",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses tools like Microsoft Test Manager and training courses related to Agile practices, which aligns with the category. However, while it mentions specific products and training, the focus is more on the experiences and strategies rather than in-depth reviews or analyses of the products themselves. The references to books and training materials are present but not the primary focus, leading to a moderate confidence score.",
-    "level": "Secondary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-15T06:13:17",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses tools and training related to Visual Studio and Agile practices, but it primarily focuses on technical implementation and personal experiences rather than on strategies for delivering value to customers. While Agile practices are mentioned, the discussion lacks depth in value delivery concepts and does not provide a clear framework for iterative and continuous delivery of value.",
     "level": "Ignored"
   },
@@ -349,87 +253,78 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T21:37:36",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses testing tools and agile practices, with a focus on Visual Studio and Scrum, rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:30:41",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions agile practices and Professional Scrum Developer training, but it primarily focuses on testing strategies and tools within Visual Studio 2010. While there is some alignment with agile principles, the discussion lacks depth regarding the Agile Product Operating Model and does not address key topics such as product management or continuous delivery.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-15T06:13:52",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions agile practices and the Professional Scrum Developer training, which aligns with the principles of agility. However, it primarily focuses on tools and training for testing with Visual Studio, lacking a deeper exploration of organisational agility strategies or cultural shifts. The discussion does not sufficiently address the broader themes of adaptability, leadership, or continuous improvement within an organisation.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses tools and training related to Visual Studio and Agile practices, which are relevant to the themes of technology updates and industry practices, but it primarily focuses on practical applications rather than news or reviews.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T06:13:49",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses tools and practices related to testing within the context of Visual Studio, which is relevant to the application lifecycle. However, it primarily focuses on testing and agile practices rather than the broader scope of Application Lifecycle Management. While there are mentions of ALM and agile methodologies, the depth of discussion on the entire lifecycle stages and governance practices is limited.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-15T21:37:59",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses testing tools and training strategies, with no clear focus on Daily Scrum or its related topics.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T21:38:00",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses testing tools and training strategies, with no clear focus on the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T06:13:30",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses tools and training related to Visual Studio and testing practices, which aligns with technical mastery. However, the primary focus is on the adoption of tools and agile practices rather than deep technical principles or methodologies. While there are mentions of improving collaboration between developers and testers, the discussion lacks depth in software craftsmanship and engineering excellence.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -442,13 +337,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:30:44",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses adoption strategies for Microsoft Test Manager and the collaboration between developers and testers, which is more focused on testing practices rather than Continuous Delivery principles. While there are brief mentions of agile practices, the core themes of Continuous Delivery, such as automation in deployment and rapid feedback, are not adequately addressed. The depth of discussion is limited to tools and training without exploring Continuous Delivery's broader implications.",
     "level": "Ignored"
   },
@@ -481,10 +376,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T21:38:11",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses testing tools and training for developers and testers, with no clear focus on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -508,15 +403,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-15T06:14:01",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 42.0,
     "ai_mentions": 30.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses Agile practices and mentions Scrum, which aligns with Agile Planning principles. However, the primary focus is on testing tools and training rather than on Agile Planning methodologies or practices. While there is some relevant content, it does not delve deeply into Agile Planning concepts, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -538,34 +433,34 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T06:13:02",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses tools and training related to Visual Studio and Agile practices, but it primarily focuses on the adoption of specific tools rather than operational efficiency techniques. While there are mentions of Agile practices and team collaboration, the depth of discussion on operational practices is limited, and the content does not provide substantial insights into process optimisation or continuous improvement strategies.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-15T06:12:50",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Scrum in the context of agile practices and training but does not focus on the dynamics, roles, or collaboration within a Scrum Team. The discussion is more centred on tools and training rather than the specific interactions and responsibilities of Scrum roles.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the adoption of agile practices and mentions the Professional Scrum Developer training, indicating a focus on agile principles, but it primarily revolves around specific tools and training rather than a deep exploration of Agile Philosophy.",
     "level": "Tertiary"
   },
@@ -589,10 +484,10 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the adoption of agile practices and mentions Scrum as a tool for implementing these practices, indicating a significant but secondary theme related to Agile transformation.",
     "level": "Tertiary"
   },
@@ -607,27 +502,27 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-03-15T06:13:54",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses tools like Microsoft Test Manager and Visual Studio 2010, which are related to testing, but it primarily focuses on the collaboration between developers and testers rather than on automated testing principles or methodologies. While there are mentions of testing tools, the discussion lacks depth in automated testing practices, types of tests, or CI/CD integration, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-15T06:13:32",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 62.0,
     "ai_mentions": 3,
     "ai_alignment": 70.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of collaboration between developers and testers, which aligns with the core themes of team dynamics and communication. It mentions agile practices and training that can enhance team performance, indicating a focus on methodologies aimed at improving team effectiveness. However, the discussion lacks depth in specific strategies or metrics for measuring team performance, which slightly lowers the overall confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
@@ -640,55 +535,43 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T21:38:33",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses tools and training related to Visual Studio and Agile practices, without a clear focus on Acceptance Test Driven Development or its principles.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T10:36:36",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 78.0,
     "ai_mentions": 70.0,
     "ai_alignment": 80.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the integration of testing tools within the software development process, specifically focusing on Visual Studio 2010 and its testing capabilities. It mentions Agile practices and Scrum training, which are directly related to software development methodologies. The depth of discussion includes practical training and hands-on labs, indicating a strong alignment with best practices in software development. Overall, the content is well-aligned with the category, providing both conceptual and practical insights.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-15T06:13:34",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content briefly mentions agile practices and the Professional Scrum Developer training, indicating some relevance to Agile Project Management. However, the primary focus is on testing tools and strategies rather than a comprehensive discussion of agile methodologies or principles. The depth of discussion on agile concepts is limited, and while there is a mention of Scrum, it does not delve into its roles or ceremonies, which are key topics in the category.",
-    "level": "Tertiary"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the adoption of agile practices and mentions Scrum as a tool for implementing these practices, indicating a secondary theme related to Agile values and principles.",
     "level": "Tertiary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-15T06:13:08",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions 'Professional Scrum Developer' training and discusses agile practices, but it primarily focuses on Visual Studio testing tools and does not delve deeply into Scrum principles, roles, or practices. The connection to Scrum is secondary and lacks substantial detail.",
     "level": "Ignored"
   },
@@ -712,10 +595,10 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-15T21:38:43",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses tools and training related to Visual Studio and testing practices, with only a brief mention of agile practices without a clear focus on Scrum Values.",
     "level": "Ignored"
   },
@@ -730,15 +613,15 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-03-15T06:13:00",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the challenges developers and testers face in collaboration and mentions Microsoft Test Manager as a tool to improve this relationship. However, the primary focus is on Visual Studio and testing strategies rather than a comprehensive exploration of collaboration tools. While there are elements of collaboration mentioned, they are not the main focus, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -776,15 +659,6 @@
     "reasoning": "Content primarily discusses testing tools and training for developers and testers, with no clear focus on customer satisfaction or related metrics.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T21:38:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses testing tools and practices, with only a brief mention of agile practices and Scrum, which is not central to the topic.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T21:38:58",
@@ -803,29 +677,17 @@
     "reasoning": "Content primarily discusses tools and training for developers and testers, with no clear focus on psychological safety or its impact on team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-03-15T06:14:03",
-    "ai_confidence": 32.0,
-    "ai_mentions": 20.0,
-    "ai_alignment": 30.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content briefly mentions agile practices and the Professional Scrum Developer training, which suggests an awareness of agile methodologies. However, it primarily focuses on tools and team-level interactions rather than discussing strategies for scaling agility across an organisation. The depth of discussion on scaling agility is limited, and the content does not address key topics such as frameworks for scaling, leadership roles, or organisational structure, which are essential for a higher confidence score.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:25:15",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses tools and training related to testing and agile practices, which are relevant to engineering excellence. However, it primarily focuses on the adoption of specific tools and training rather than a comprehensive discussion on engineering practices or principles. The mention of agile practices and collaboration hints at engineering excellence, but the depth of discussion is limited, focusing more on tool usage than on broader engineering standards or quality assurance principles.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -865,13 +727,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T06:13:38",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses practical tools and strategies for improving collaboration between developers and testers, which aligns with pragmatic thinking in Agile contexts. It mentions the importance of hands-on experience with Visual Studio tools and the integration of Agile practices, indicating a focus on real-world applications. However, while it touches on relevant themes, the depth of discussion on navigating complexity and uncertainty in project management is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -895,10 +757,10 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile practices and the importance of collaboration between developers and testers, which aligns with the theme of Engineering Practices as it mentions Scrum and agile methods, but the focus is not predominantly on core engineering practices such as clean code or test-driven development.",
     "level": "Tertiary"
   },
@@ -913,13 +775,13 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-03-15T06:12:53",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on tools and training related to Visual Studio and testing practices, with only brief mentions of Agile practices. While it touches on team collaboration and the adoption of Agile methodologies, it lacks a comprehensive discussion on change management principles, strategies, or the role of leadership in guiding transformation. The depth of discussion is limited to practical training and tool usage rather than exploring the broader implications of change management in an organisational context.",
     "level": "Ignored"
   },
@@ -943,10 +805,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile practices and training aimed at improving team collaboration and dynamics, though it primarily focuses on technical implementation and tools rather than motivational strategies.",
     "level": "Tertiary"
   },
@@ -988,24 +850,24 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T22:41:44",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on testing tools and Agile practices without a clear emphasis on innovation measurement or improvement.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-15T06:13:25",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses Agile practices and their integration into team dynamics, particularly in the context of using Visual Studio tools. While it mentions Agile methodologies and training, the primary focus is on technical practices and tools rather than a strategic discussion on Agile alignment or implementation at an organisational level. The mention of Agile practices is present but not deeply explored, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1054,10 +916,10 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses team dynamics and agile practices, highlighting the importance of collaboration between developers and testers, which aligns with the concept of cross-functional teams. However, it primarily focuses on the tools and strategies for testing rather than being a dedicated exploration of cross-functional teams.",
     "level": "Tertiary"
   },
@@ -1126,15 +988,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-03-15T06:13:22",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses Microsoft Test Manager and Visual Studio tools, which are related to test automation. However, the primary focus is on the challenges of collaboration between developers and testers, rather than on the principles or practices of test automation itself. While there are mentions of tools and training related to testing, the depth of discussion on automation principles and frameworks is limited, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1147,43 +1009,43 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "While the content primarily discusses testing with Visual Studio and Agile practices, it mentions delivering a course remotely, which is a significant aspect of remote working. However, the main focus is not on remote working practices themselves.",
     "level": "Tertiary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-03-15T06:13:06",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions agile practices and Scrum training, which are related to self-organisation, but it primarily focuses on tools and training for testing with Visual Studio. The discussion lacks depth on self-organisation principles and does not explore team autonomy or collaboration in detail.",
     "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses training and adoption of agile practices which suggests an emphasis on learning and team collaboration, but the primary focus is on specific tools and testing strategies, making Continuous Learning a secondary theme.",
     "level": "Tertiary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-15T06:12:50",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on tools and technical practices related to Visual Studio and testing, with only brief mentions of Agile practices. While it touches on the importance of team collaboration and mentions Scrum, it lacks a substantial discussion on leadership roles or strategies within an Agile context, which are critical for the Agile Leadership category.",
     "level": "Ignored"
   },
@@ -1207,10 +1069,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T22:41:44",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio testing tools and training, with a brief mention of Agile practices but not focusing on Agile Planning Tools specifically.",
     "level": "Ignored"
   },
@@ -1221,15 +1083,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses tools and strategies for testing and team collaboration rather than focusing on deployment frequency or related Agile/DevOps practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T22:41:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on testing tools and practices, mentioning agile practices but not addressing scaling Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -1252,15 +1105,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T06:13:46",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses Visual Studio 2010 and its testing tools, which are part of the Windows ecosystem. However, it does not focus on the Windows operating system itself, such as installation, configuration, or troubleshooting. While there are mentions of Microsoft Test Manager and Visual Studio, the discussion is more about software development practices rather than the Windows environment. Therefore, the confidence score reflects a moderate alignment with the Windows category, but it lacks depth and direct focus on Windows OS specifics.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1273,13 +1126,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:10:56",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Scrum in the context of agile practices and training but does not focus on the role or responsibilities of a Scrum Master. The discussion is primarily centred around testing tools and collaboration between developers and testers, lacking depth in Scrum Master-specific topics such as facilitation, coaching, or team dynamics.",
     "level": "Ignored"
   },
@@ -1294,27 +1147,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:10:53",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses tools and strategies for testing within Visual Studio 2010, but it does not explicitly focus on Test First Development principles. While it mentions collaboration between developers and testers, it lacks a clear emphasis on defining success criteria before implementation or the specific practices of Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). The discussion is more about general testing strategies and agile practices rather than a focused exploration of Test First Development.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-11T12:01:43",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the challenges developers face when collaborating with testers and highlights tools like Microsoft Test Manager that can improve this relationship. It mentions Agile practices and the Professional Scrum Developer training, which aligns with the category's focus on enhancing developer productivity and collaboration. However, the primary focus is on testing tools rather than a deep exploration of Agile or DevOps methodologies, leading to a moderate confidence score.",
-    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1336,74 +1177,56 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-15T06:13:59",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on agile practices and mentions the Professional Scrum Developer training, which aligns with the category. However, it primarily focuses on tools and testing strategies rather than providing in-depth discussions on technical leadership principles, mentoring, or team dynamics.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-15T06:13:04",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 47.0,
     "ai_mentions": 30.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 43.0,
+    "final_score": 47.0,
     "reasoning": "The content briefly mentions Agile practices and the Professional Scrum Developer training, indicating some relevance to Agile frameworks. However, the primary focus is on testing tools and Visual Studio, with Agile frameworks being a secondary topic. The discussion lacks depth in exploring Agile principles or frameworks in detail, which diminishes its alignment with the category.",
     "level": "Tertiary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T22:41:44",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses testing tools and strategies rather than working agreements or team collaboration.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T22:41:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio tools and agile practices, with a focus on Scrum rather than Scaling Kanban.",
+    "reasoning": "Content primarily discusses testing tools and strategies rather than working agreements or team collaboration.",
     "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T22:41:44",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Microsoft Test Manager and agile practices, rather than focusing on the principles or practices of Test Driven Development (TDD).",
     "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T22:41:44",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the tools and training related to testing in Visual Studio, focusing on implementation and Agile practices, rather than strategic planning or product vision.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T22:41:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses testing strategies and Agile practices without any reference to AI applications.",
-    "level": "Ignored"
-  },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T22:41:44",
     "ai_confidence": 0,
@@ -1430,27 +1253,15 @@
     "reasoning": "Content primarily focuses on tools and training related to Visual Studio and testing practices, lacking a clear emphasis on structured decision-making processes.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-15T06:13:40",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content briefly mentions Scrum in the context of agile practices and training but lacks a focused discussion on Scrum principles, roles, or product development processes. It primarily centres around Visual Studio tools and testing strategies, which are not directly aligned with Scrum product development.",
-    "level": "Ignored"
-  },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-11T15:06:10",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the challenges developers and testers face in collaborating, highlighting tools like Microsoft Test Manager that can help bridge these gaps. It mentions the importance of agile practices and training to enhance teamwork, which aligns with the category's focus on improving team dynamics. However, the primary focus is on tools and training rather than in-depth discussions of team collaboration techniques or culture, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1465,15 +1276,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T06:12:57",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses tools and training related to testing and Agile practices, which are relevant to working software. However, it primarily focuses on the adoption of testing tools and training rather than delivering functional software directly. While there are mentions of Agile practices and team collaboration, the depth of discussion on working software itself is limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1486,15 +1297,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:38:36",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses collaboration between developers and testers, which aligns with the principles of social technologies. However, the primary focus is on specific tools and training related to Visual Studio 2010, rather than a broader discussion on frameworks or methodologies that promote collaboration and decision-making. While there are mentions of agile practices, the depth of discussion on social technologies is limited, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1507,10 +1318,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:27:12",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses testing tools and Agile practices, with no clear focus on Internal Developer Platforms.",
     "level": "Ignored"
   },
@@ -1525,73 +1336,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:46:48",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 55.0,
     "ai_mentions": 30.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 54.0,
+    "final_score": 55.0,
     "reasoning": "The content briefly mentions Scrum in the context of agile practices and training, indicating some relevance to the Scrum category. However, the primary focus is on testing tools and Visual Studio, with Scrum being a secondary topic. The discussion lacks depth regarding Scrum roles, events, or artifacts, which are central to the category. Therefore, while there is some alignment, it does not meet the criteria for a primary focus on Scrum.",
     "level": "Tertiary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:29:16",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses tools and training related to testing and collaboration between developers and testers, which aligns with some aspects of the Shift-Left Strategy. However, it lacks a direct focus on integrating testing and security earlier in the development lifecycle, and does not provide in-depth discussion on the principles or benefits of the Shift-Left approach. The mention of agile practices is also too general and does not specifically address the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:30:33",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses adoption strategies for Microsoft Test Manager and mentions agile practices, but it primarily focuses on tools and training rather than the principles of Continuous Improvement. While there are elements of collaboration and team effectiveness, the discussion lacks depth in continuous reflection, empirical evidence, and measurable advancements, which are core to the Continuous Improvement category.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:30:35",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses collaboration between developers and testers, which touches on the importance of teamwork and shared objectives. However, it primarily focuses on tools and training rather than explicitly addressing Common Goals within Agile and DevOps frameworks. The mention of agile practices is brief and lacks depth in connecting to strategic alignment or organisational performance.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:30:38",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of training and hands-on experience with Visual Studio tools, which aligns with the concept of competence in terms of skill development. However, it primarily focuses on tools and adoption strategies rather than a deep exploration of competence as a foundational principle in Agile or DevOps. The mention of agile practices and team collaboration hints at competence but lacks a thorough examination of continuous learning or mastery.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:10:51",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on adoption strategies for Microsoft Test Manager and agile practices in software development. While it mentions collaboration and the importance of working together, it does not explicitly discuss Agentic Agility or its principles. The content lacks a clear distinction between human and AI capabilities, and does not delve into the intentional shaping of outcomes, which are key aspects of Agentic Agility.",
     "level": "Ignored"
   }

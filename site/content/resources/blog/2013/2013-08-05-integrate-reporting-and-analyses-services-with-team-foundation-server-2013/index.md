@@ -25,9 +25,9 @@ aliasesArchive:
 - /resources/blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
 - Software Development
+- Troubleshooting
 categories: []
 
 ---

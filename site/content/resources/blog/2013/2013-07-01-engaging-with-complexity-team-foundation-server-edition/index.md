@@ -9,7 +9,7 @@ ResourceImportId: 9703
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-01
-weight: 700
+weight: 665
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,16 +30,21 @@ aliasesArchive:
 - /blog/engaging-with-complexity---team-foundation-server-edition
 - /resources/blog/engaging-with-complexity-team-foundation-server-edition
 tags:
-- Install and Configuration
 - Software Development
-- System Configuration
-- Practical Techniques and Tooling
 - Pragmatic Thinking
+- Install and Configuration
+- System Configuration
 - Azure DevOps
 - Troubleshooting
 - Operational Practices
-- Code and Complexity
 - Release Management
+- Technical Excellence
+- Technical Mastery
+- Complexity Thinking
+- Working Software
+- Application Lifecycle Management
+- Modern Source Control
+- Product Delivery
 categories: []
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 

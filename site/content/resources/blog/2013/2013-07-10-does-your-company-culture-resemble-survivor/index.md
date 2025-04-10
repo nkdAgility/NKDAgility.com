@@ -9,7 +9,7 @@ ResourceImportId: 9716
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-10
-weight: 480
+weight: 430
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,18 +29,41 @@ aliasesArchive:
 - /resources/blog/does-your-company-culture-resemble-survivor
 tags:
 - Team Collaboration
-- People and Process
+- Sociotechnical Systems
 - Organisational Culture
 - Team Performance
-- Sociotechnical Systems
-- Software Developers
-- Software Development
 - Business Agility
 - Organisational Agility
+- Social Technologies
 - Team Motivation
+- Agile Philosophy
+- Pragmatic Thinking
+- Software Development
+- Agile Transformation
+- Change Management
+- Continuous Improvement
+- Enterprise Agility
+- Organisational Change
+- Scrum Team
+- Agile Leadership
+- Agile Strategy
+- Agile Values and Principles
+- Scrum Values
+- Agile Frameworks
+- Agile Product Management
+- Cross Functional Teams
+- Operational Practices
+- Market Adaptability
+- Organisational Physics
+- Product Delivery
+- Self Organisation
+- Value Delivery
+- Organisational Psychology
+- Employee Engagement
 categories:
 - Leadership
-- Social Technologies
+- Technical Leadership
+- Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

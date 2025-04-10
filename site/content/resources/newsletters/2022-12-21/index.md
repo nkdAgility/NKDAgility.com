@@ -22,7 +22,7 @@ aliasesArchive:
 categories:
 - Scrum
 tags:
-- News and Reviews
+- Software Development
 - Competence
 
 ---

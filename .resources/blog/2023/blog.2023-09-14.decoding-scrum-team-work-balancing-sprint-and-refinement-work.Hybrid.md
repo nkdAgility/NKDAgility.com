@@ -9,7 +9,7 @@ ResourceImportId: 49783
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-09-14
-weight: 720
+weight: 690
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -30,18 +30,30 @@ aliasesArchive:
 - /resources/blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
 tags:
 - Agile Product Management
-- Agile Project Management
-- Scrum Product Development
-- Scrum Team
 - Professional Scrum
-- Team Performance
 - Software Development
+- Scrum Team
 - Agile Frameworks
-- Software Developers
-- Practical Techniques and Tooling
+- Team Performance
+- Agile Planning
+- Pragmatic Thinking
+- Product Delivery
+- Team Collaboration
+- Operational Practices
+- Product Backlog
+- Working Software
+- Backlog Refinement
+- Increment
+- Scrum Master
+- Value Delivery
+- Azure DevOps
+- Agile Planning Tools
+- Agile Transformation
+- Azure Boards
+- Transparency
 categories:
-- Social Technologies
 - Scrum
+- Product Management
 preview: NKDAgility-technically-SprintRefignementBallance-6-6.jpg
 
 ---

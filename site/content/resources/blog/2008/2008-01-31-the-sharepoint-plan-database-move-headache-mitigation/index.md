@@ -27,7 +27,9 @@ aliasesArchive:
 - /the-sharepoint-plan--database-move-headache-mitigation
 - /blog/the-sharepoint-plan--database-move-headache-mitigation
 - /resources/blog/the-sharepoint-plan-database-move-headache-mitigation
-tags: []
+tags:
+- System Configuration
+- Troubleshooting
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

@@ -30,20 +30,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Software Development
 - Flow Efficiency
 - Operational Practices
-- Software Development
 - Continuous Improvement
-- Practical Techniques and Tooling
 - Agile Frameworks
-- Agile Project Management
 - Lean Thinking
 - Pragmatic Thinking
+- Lean Principles
+- Throughput
 - Value Delivery
+- Value Stream Management
+- Metrics and Learning
 resourceTypes:
 - video
 categories:
 - Kanban
+- Lean
 
 ---
 ### Improving Your Workflow in a Kanban Strategy

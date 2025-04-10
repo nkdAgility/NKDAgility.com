@@ -2,7 +2,7 @@
 title: 'Navigating the TFS to Azure DevOps Migration: Overcoming Compatibility Concerns with Confidence'
 description: Migrating from TFS to Azure DevOps? Discover essential tips to ensure compatibility, safeguard your code, and navigate customisations for a smooth transition!
 date: 2024-11-06T05:45:03Z
-weight: 855
+weight: 840
 ResourceId: qpo4Ru1VVZE
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,8 +26,9 @@ duration: 174
 isShort: false
 tags:
 - Azure DevOps
-- Software Development
 - Pragmatic Thinking
+- Software Development
+- Install and Configuration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

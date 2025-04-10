@@ -23,7 +23,8 @@ aliasesArchive:
 - /blog/first-day-at-aggreko
 - /first-day-at-aggreko
 - /resources/blog/first-day-at-aggreko
-tags: []
+tags:
+- Miscellaneous
 categories: []
 preview: metro-aggreko-128-link-1-1.png
 

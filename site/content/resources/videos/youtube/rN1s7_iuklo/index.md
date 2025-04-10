@@ -2,7 +2,7 @@
 title: Empowering Teams to Maximize Value and Return on Investment
 description: "Unlock your team's potential! Discover how empowering Agile teams boosts innovation, adaptability, and ROI in this insightful video. Click to learn more! \U0001F4BC\U0001F4C8"
 date: 2024-07-24T06:45:04Z
-weight: 405
+weight: 340
 ResourceId: rN1s7_iuklo
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -33,19 +33,38 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
-- Continuous Improvement
-- Continuous Learning
-- Discovery and Learning
 - Agile Philosophy
+- Business Agility
+- Continuous Improvement
+- Software Development
 - Team Motivation
 - Value Delivery
-- Agile Project Management
+- Self Organisation
+- Organisational Agility
 - Agile Leadership
+- Continuous Learning
 - Team Performance
+- Social Technologies
+- Organisational Culture
+- Agile Frameworks
+- Agile Planning
+- Agile Strategy
+- Agile Transformation
+- Agile Values and Principles
+- Operational Practices
+- Team Collaboration
+- Sociotechnical Systems
+- Empirical Process Control
+- Personal
+- Product Delivery
+- Competence
+- Organisational Change
+- Change Management
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Technical Leadership
+- Leadership
 
 ---
 In the fast-paced world of Agile, the key to success lies in the ability of teams to adapt and evolve. But are your teams truly empowered to change their processes based on what they learn? If they aren't, then they might not be as agile as you think. 🚀

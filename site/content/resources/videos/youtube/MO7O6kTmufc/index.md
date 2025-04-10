@@ -26,13 +26,17 @@ preview: https://i.ytimg.com/vi/MO7O6kTmufc/maxresdefault.jpg
 duration: 36
 isShort: true
 tags:
-- Evidence Based Management
 - Evidence Based Leadership
 - Decision Making
+- Evidence Based Management
 - Pragmatic Thinking
 - Metrics and Learning
 - Ability to Innovate
 - Operational Practices
+- Continuous Improvement
+- Software Development
+- Value Delivery
+- Empirical Process Control
 sitemap:
   filename: sitemap.xml
   priority: 0.6

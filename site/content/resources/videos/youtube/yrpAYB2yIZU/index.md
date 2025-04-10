@@ -28,8 +28,8 @@ duration: 922
 isShort: false
 tags:
 - Windows
-- Install and Configuration
 - System Configuration
+- Install and Configuration
 - Troubleshooting
 sitemap:
   filename: sitemap.xml

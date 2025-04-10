@@ -9,7 +9,7 @@ ResourceImportId: 152
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-12-15
-weight: 650
+weight: 610
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,11 +29,13 @@ aliasesArchive:
 - /resources/blog/does-test-driven-development-speed-up-development
 tags:
 - Software Development
-- Test Driven Development
 - Engineering Practices
 - Technical Excellence
-- Software Developers
+- Test Driven Development
 - Technical Mastery
+- Test First Development
+- Pragmatic Thinking
+- Flow Efficiency
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-2-2.png

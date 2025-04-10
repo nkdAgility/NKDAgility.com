@@ -9,7 +9,7 @@ ResourceImportId: 45392
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-01-18
-weight: 995
+weight: 1000
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -33,20 +33,36 @@ aliasesArchive:
 - /blog/what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
 - /resources/blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
 tags:
-- People and Process
-- Sociotechnical Systems
 - Organisational Physics
+- Sociotechnical Systems
 - Organisational Culture
-- Complexity Thinking
 - Agile Philosophy
-- Pragmatic Thinking
-- Lean
+- Complexity Thinking
 - Organisational Psychology
+- Pragmatic Thinking
+- Organisational Change
 - Employee Engagement
-categories:
-- Leadership
+- Lean Thinking
+- Ability to Innovate
+- Agile Frameworks
+- Agile Leadership
+- Agile Strategy
+- Agile Transformation
+- Beta Codex
+- Enterprise Agility
+- Evidence Based Leadership
+- Evidence Based Management
+- Lean Principles
+- Organisational Agility
 - Social Technologies
-- Product Management
+- Software Development
+- Systems Thinking
+- Value Delivery
+- Continuous Improvement
+- Team Motivation
+categories:
+- Lean
+- Leadership
 preview: naked-agility-with-martin-hinshelwood-iceberg-11-10.jpg
 
 ---

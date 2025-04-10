@@ -37,10 +37,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T21:29:32",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses social and business networking systems, with no clear focus on the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T21:29:35",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses social networking systems and their integration, without focusing on installation or configuration processes.",
     "level": "Ignored"
   },
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses social and business networking without any direct reference to Agile, Scrum, DevOps, Lean, or Evidence-Based Management principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T21:29:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses social networking systems and their integration, with no clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T21:29:40",
@@ -96,15 +87,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses social networking systems and their integration, without reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T21:29:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses social networking and the need for a centralised system, without a focus on Agile or DevOps tools, methodologies, or frameworks.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +100,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T21:29:43",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses social and business networking systems, their setup, and potential pricing models, with no focus on metrics or learning principles.",
     "level": "Ignored"
   },
@@ -154,35 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-04-08T20:54:00",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses social and business networking solutions without any explicit reference to Evidence-Based Management principles. It lacks direct mentions of empirical decision-making, metrics, or data-informed strategies that are central to EBM. The focus is on networking systems and their functionalities rather than on enhancing organisational capacity through evidence-based practices.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-04-08T20:53:56",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses social and business networking solutions without any reference to agile methodologies, product management principles, or the Agile Product Operating Model. It lacks direct mentions of the category and does not align with its core themes, focusing instead on technical solutions for networking rather than product delivery or agile practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T21:29:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses social networking systems and their challenges, without any focus on Agile, DevOps, or relevant industry news and reviews.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -212,48 +185,12 @@
     "reasoning": "Content primarily discusses social networking systems and their integration, with no clear focus on platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T21:29:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses social networking and the need for a centralised contact system, with no mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T21:29:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses social networking and business networking concepts, with no clear focus on code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T21:29:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses social networking systems and their functionalities, with no clear focus on events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T21:30:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses social networking systems and their integration, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-16T21:30:05",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses social networking systems and their integration, with no clear focus on business agility principles or practices.",
     "level": "Ignored"
   },
@@ -313,13 +250,13 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-04-08T20:53:40",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses social and business networking solutions, focusing on the integration of various platforms and user authentication. It does not mention DevOps principles, practices, or cultural shifts, nor does it align with the core themes of collaboration, automation, or shared accountability that are central to DevOps. The discussion lacks depth regarding any DevOps-related topics, resulting in a very low confidence score.",
     "level": "Ignored"
   },
@@ -330,33 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses social networking and business strategies, lacking a clear focus on engineering practices or methodologies that enhance software development.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T21:30:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses social networking systems and technical solutions without a focus on human behaviour or structured methodologies in technology and product development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T21:30:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses social networking systems and their implementation, with minimal focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T21:30:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses social networking systems and their functionalities, with no clear focus on Agile methodologies, DevOps practices, or relevant literature.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -379,19 +289,19 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T08:18:16",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on social networking and connecting systems, not on system configuration or related technical processes.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T08:18:16",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses social networking systems and proposes a central solution, but does not focus on the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
@@ -420,15 +330,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses social networking systems and proposals for community foundations, with no relevant connections to portfolio management or its associated themes.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T08:18:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses social and business networking, with no clear connection to Scrum practices or product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +361,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T08:18:16",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses social networking and a proposed community foundation, which are unrelated to Agile values and principles.",
     "level": "Ignored"
   },
@@ -496,20 +397,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T08:18:16",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses social and business networking concepts, which are unrelated to the Definition of Done in Agile and Scrum.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T08:18:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on social and business networking systems and frameworks, with no relevant discussion of Scaled Agile, frameworks, or enterprise-level practices.",
+    "reasoning": "Content discusses social and business networking concepts, which are unrelated to the Definition of Done in Agile and Scrum.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -575,33 +467,24 @@
     "reasoning": "Content primarily discusses social networking sites and general networking concepts rather than specific collaboration tools or their application within Agile teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T08:18:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to social networking systems and a community foundation project, which are not central to the role of software developers in Agile and DevOps contexts.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:42:22",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content discusses the concept of a centralised system for social networking sites, which touches on software development ideas like frameworks and user authentication. However, it lacks a direct focus on software development methodologies or practices, and the discussion is more about business networking than software engineering. The depth of technical detail is limited, and while there are mentions of a community foundation and potential frameworks, these are not explored in a way that aligns closely with the core themes of software development.",
     "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-17T08:18:16",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses social networking concepts and the need for a central system but does not relate to Site Reliability Engineering principles.",
     "level": "Ignored"
   },
@@ -623,7 +506,7 @@
     "reasoning": "Content discusses social networking and business connectivity without any reference to estimation practices within Agile or Scrum frameworks.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T08:18:16",
     "ai_confidence": 0,
@@ -697,22 +580,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-04-08T20:54:05",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses social and business networking solutions, with no direct mention of Continuous Delivery principles or practices. While there is a brief mention of a central system for improving service delivery, it does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or software quality. The discussion lacks depth and detail on Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T08:18:16",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses social networking systems, community frameworks, and pricing models, with no focus on Lead Time or related measurement metrics.",
     "level": "Ignored"
   },
@@ -750,15 +633,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on networking systems and business models, with no discussion of hypothesis formulation, experimentation, or validated learning.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T08:18:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is primarily about social networking and community services, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -853,10 +727,10 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T08:18:16",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on social and business networking systems, with no relevance to version control practices or methodologies.",
     "level": "Ignored"
   },
@@ -934,10 +808,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T08:18:16",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses social and business networking without any relevance to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -970,20 +844,11 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T08:18:16",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses social networking and the challenges related to integrating different networking platforms, with no clear focus on remote working or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T08:18:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily focused on social networking and the development of a centralized system for managing contacts across platforms, with no mention or relevance to Kanban principles or scaling.",
+    "reasoning": "Content primarily discusses social networking and the challenges related to integrating different networking platforms, with no clear focus on remote working or Agile methodologies.",
     "level": "Ignored"
   },
   "Customer Retention": {
@@ -993,15 +858,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses social networking systems and a proposed central contact linking service, without focusing on strategies or methodologies relevant to customer retention.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T08:18:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses social and business networking, which is unrelated to Agile Project Management and does not mention agile methodologies or principles.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1024,10 +880,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T08:18:16",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses social networking systems and does not mention Cycle Time or its relevance to workflow efficiency.",
     "level": "Ignored"
   },
@@ -1123,15 +979,15 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-03-15T07:42:22",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 45.0,
     "ai_mentions": 5,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 40.0,
+    "final_score": 45.0,
     "reasoning": "The content discusses the concept of networking and proposes a centralised system for managing contacts across various social networking sites. While it touches on aspects of innovation and the entrepreneurial process, such as creating a new service and considering a pricing model, the primary focus is on the technical implementation of networking solutions rather than the broader principles of entrepreneurship. The discussion lacks depth in exploring the entrepreneurial mindset or strategies for business growth, which diminishes its alignment with the core themes of the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1144,10 +1000,10 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T08:18:16",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about social networking systems and their challenges, not related to software deployment strategies.",
     "level": "Ignored"
   },
@@ -1189,19 +1045,19 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T08:18:16",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses social networking and the need for a unified system, which is unrelated to teamwork or working agreements.",
     "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T08:18:16",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses social and business networking, lacking a focus on working software or Agile principles.",
     "level": "Ignored"
   },
@@ -1261,10 +1117,10 @@
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-17T08:18:16",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses networking systems and a pricing model for community services without addressing revenue per employee metrics.",
     "level": "Ignored"
   },
@@ -1275,15 +1131,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses social networking systems and their operational challenges, with no clear focus on asynchronous development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T08:18:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about social networking and does not discuss scaling Scrum or related Agile methodologies.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1322,24 +1169,15 @@
     "reasoning": "The content primarily discusses social networking systems and does not mention Scrum principles, roles, or practices central to the Professional Scrum category.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T08:18:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses social and business networking, focusing on creating a central contact and linking system, without addressing agile principles or frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T20:53:58",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses social and business networking solutions, with no direct mention of Scrum or the role of a Scrum Master. While there is a brief mention of community and collaboration, it does not align with the core themes of the Scrum Master category, such as facilitating Scrum teams or promoting agile principles. The depth of discussion is focused on technical solutions rather than the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
@@ -1363,27 +1201,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T20:54:02",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses social and business networking solutions without any reference to Test First Development principles, success criteria, or testing methodologies. It lacks any relevant detail or focus on the category, making it largely irrelevant.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-04-08T20:53:43",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses social networking and proposes a centralised system for enhancing collaboration across platforms. While it touches on themes of collaboration and connectivity, it lacks a deep exploration of self-organisation, decision-making, or value delivery principles central to Social Technologies. The focus is more on technical solutions rather than the underlying social frameworks, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1414,73 +1252,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:19:37",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses social and business networking, with no direct mentions of Scrum principles, roles, events, or practices. While there is a brief mention of a framework for community sites, it does not align with Scrum's core themes or provide any depth on Scrum-related topics.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:48:08",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses social and business networking, with no direct mention of the Shift-Left Strategy or its principles. While there are references to security and data management, these are not framed within the context of software development processes or the proactive integration of testing and compliance. The discussion lacks depth and relevance to the Shift-Left Strategy, making it largely unrelated to the category.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-04-08T20:53:45",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses social and business networking solutions without any explicit reference to Common Goals, Agile, or DevOps principles. While it touches on collaboration, it lacks a clear connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-04-08T20:53:47",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses social and business networking solutions without a focus on competence, continuous learning, or skill development. While there are mentions of learning and development in the context of creating a community foundation, these are not the main focus and lack depth in relation to the principles of competence as defined in Agile and DevOps methodologies.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-04-08T20:53:50",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on social and business networking solutions rather than Continuous Improvement. While it touches on the need for a centralised system and mentions learning from past experiences, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation. The overall depth of discussion regarding Continuous Improvement is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T20:53:53",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses social and business networking solutions without any explicit mention of Agentic Agility or its principles. While it touches on themes of collaboration and system integration, it lacks a focus on intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI agency.",
     "level": "Ignored"
   }

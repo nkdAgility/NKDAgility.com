@@ -6,7 +6,7 @@ ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-02-10T09:00:00
-weight: 255
+weight: 175
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -20,20 +20,74 @@ aliasesArchive:
 - /without-delivery--there-is-no-value
 - /blog/without-delivery--there-is-no-value
 tags:
-- Increment
-- Scrum Product Development
+- Deployment Frequency
 - Frequent Releases
+- Increment
 - Value Delivery
 - Product Delivery
-- Working Software
 - Software Development
+- Time to Market
+- Continuous Delivery
+- Empirical Process Control
+- Operational Practices
 - Release Management
+- Working Software
+- Agile Values and Principles
+- Agile Philosophy
+- Agile Planning
+- Agile Strategy
+- Agile Transformation
+- Business Agility
+- Evidence Based Leadership
+- Lean Product Development
+- Metrics and Learning
+- MVP
 - Transparency
-- Deployment Frequency
-categories:
-- Scrum
+- Agile Product Management
+- Product Validation
+- Continuous Improvement
+- Evidence Based Management
+- Current Value
+- Flow Efficiency
+- Market Adaptability
+- Pragmatic Thinking
+- Customer Feedback Loops
+- Lead Time
+- Team Performance
+- Agile Frameworks
+- Lean Startup
+- Technical Excellence
+- Engineering Practices
+- Hypothesis Driven Development
+- Decision Making
+- Experimentation
+- Organisational Agility
+- Value Stream Management
+- Lean Principles
+- Agile Product Operating Model
+- Professional Scrum
+- Deployment Strategies
+- Project Management
+- Application Lifecycle Management
+- Common Goals
+- Customer Retention
+- Digital Transformation
+- Enterprise Agility
+- Product Owner
 - Social Technologies
-- DevOps
+- Team Collaboration
+- Technical Mastery
+- Throughput
+- Unrealised Value
+- Competence
+- Cycle Time
+- Entrepreneurship
+- Forecasting
+- Lean Thinking
+categories:
+- Product Development
+- Engineering Excellence
+- Scrum
 preview: 2025-02-10-without-delivery-no-value.jpg
 marketing: []
 

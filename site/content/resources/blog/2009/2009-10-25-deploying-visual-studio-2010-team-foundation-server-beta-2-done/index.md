@@ -9,7 +9,7 @@ ResourceImportId: 81
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-10-25
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,6 +29,8 @@ aliasesArchive:
 - /resources/blog/deploying-visual-studio-2010-team-foundation-server-beta-2-done
 tags:
 - Install and Configuration
+- Software Development
+- System Configuration
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories: []
 

@@ -24,8 +24,9 @@ aliasesArchive:
 - /tfs-sticky-buddy-codeplex-project
 - /resources/blog/tfs-sticky-buddy-codeplex-project
 tags:
-- Practical Techniques and Tooling
 - Software Development
+- Collaboration Tools
+- Transparency
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

@@ -1,13 +1,13 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T07:47:22",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions ALM in the tags but primarily focuses on a specific feature request related to source control in TFS. It does not discuss the broader aspects of Application Lifecycle Management, such as lifecycle stages, governance, or best practices, which are essential for a higher confidence score.",
     "level": "Ignored"
   },
@@ -40,10 +40,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T22:15:49",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a feature wish for a TFS add-in related to source control, which does not align with the core principles of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -58,10 +58,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T22:15:51",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a feature wish for a TFS add-in rather than installation or configuration processes.",
     "level": "Ignored"
   },
@@ -76,24 +76,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-10T13:24:44",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 72.0,
     "ai_mentions": 10.0,
     "ai_alignment": 60.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a specific feature wish for a tool related to source control, which does not directly reference Agile, Scrum, DevOps, or Lean methodologies. While it touches on a common issue in software development, it lacks a structured discussion of recognised frameworks or actionable insights. The focus is primarily on a personal opinion regarding a tool enhancement, aligning it more with the Miscellaneous category.",
     "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T22:15:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a feature request for a source control tool, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -103,18 +94,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a feature request for a source control tool, focusing on user notifications and file access, without reference to complexity science or its principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T17:10:06",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses a specific tool (TFS Checkin Notifier) and its potential application to improve source control processes, which aligns with the category's focus on practical techniques and tooling. However, the discussion lacks depth and does not provide extensive detail on methodologies or frameworks, resulting in a moderate confidence score.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -127,10 +106,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T22:16:01",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a feature request for a TFS add-in related to file access and notifications, which does not align with the core principles of metrics and learning.",
     "level": "Ignored"
   },
@@ -163,35 +142,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-04-08T21:13:53",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a specific tool (TFS Checkin Notifier) aimed at improving collaboration in source control, which does not directly relate to Evidence-Based Management principles. There are no explicit mentions of empirical decision-making or metrics that assess value delivery, and the discussion lacks depth in terms of EBM concepts.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-04-08T21:13:48",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a specific tool for source control and collaboration, which does not directly relate to the Agile Product Operating Model. While it touches on collaboration, it lacks a focus on agile principles, product management, or the core themes outlined in the APOM framework.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T22:16:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a feature wish for a specific tool (TFS) rather than providing news or reviews related to Agile, DevOps, or technology updates.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -219,42 +189,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a feature wish for a source control tool, which does not align with the core principles of platform engineering.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T22:16:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a feature wish for a source control tool without any mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T22:16:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a feature wish for a TFS add-in related to source control, without addressing code quality or complexity issues.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T22:16:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a feature wish for a source control tool and does not relate to events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T22:16:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a feature request for a tool to manage file access in source control, without addressing transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -322,13 +256,13 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-04-08T21:13:34",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly mentions collaboration in source control, which is a peripheral aspect of DevOps, but does not delve into the core principles or practices of DevOps. The focus is primarily on a specific tool (TFS Checkin Notifier) rather than the broader philosophy of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -339,33 +273,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a feature wish for a source control tool, lacking a focus on engineering practices or methodologies that enhance agility in software development.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T22:16:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical feature related to source control without a clear focus on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T22:16:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a feature request for a tool related to source control, without a focus on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T22:16:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a feature wish for a specific tool (TFS) rather than providing reviews, analyses, or discussions on products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -397,10 +304,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T08:19:05",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific feature request for a tool rather than frameworks, metrics, or strategies related to the measurement and improvement of innovation capabilities.",
     "level": "Ignored"
   },
@@ -415,15 +322,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-03-15T07:47:25",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses a feature wish related to Team Foundation Server (TFS), which is relevant to Azure Repos as it involves source control management. However, the focus is primarily on a specific feature request rather than a comprehensive exploration of Azure Repos functionalities. While it touches on source control issues, it lacks depth in discussing broader topics like branching strategies, pull requests, or CI/CD integration, which are key themes of the Azure Repos category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -432,15 +339,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on a specific feature related to Team Foundation Server and source control, with no relevant discussion on portfolio management or project alignment.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T08:19:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a feature wish for Team Foundation Server (TFS) and its functionalities rather than on Scrum principles or practices related to product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -472,10 +370,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T08:19:05",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a specific feature wish related to TFS and source control, not discussing Agile values or principles.",
     "level": "Ignored"
   },
@@ -508,20 +406,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T08:19:05",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on a feature wish related to Source Control and TFS, and does not discuss the Definition of Done or its principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T08:19:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses a specific feature wish related to source control in Team Foundation Server (TFS), with no relevance to scaling Agile practices or frameworks.",
+    "reasoning": "Content is focused on a feature wish related to Source Control and TFS, and does not discuss the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -580,37 +469,25 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-03-15T07:47:20",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses a specific feature wish for a Team Foundation Server (TFS) add-in that aims to improve collaboration by notifying users about file access. While it touches on the need for better communication and coordination among team members, it lacks a broader discussion on various collaboration tools or their integration with Agile methodologies. The focus is primarily on a single feature rather than a comprehensive overview or best practices, leading to a moderate confidence score.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T07:47:20",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses a specific feature wish related to source control in the context of Team Foundation Server (TFS), which is relevant to software developers. However, it does not explicitly mention Agile or DevOps methodologies, nor does it explore best practices or principles associated with these frameworks. The discussion is more focused on a specific tool and its functionality rather than the broader role of software developers within Agile or DevOps contexts. Therefore, while there is some relevance, the overall alignment and depth of discussion are limited.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:47:26",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses a specific feature wish related to source control in software development, which aligns with version control systems. However, it lacks depth in discussing broader software development methodologies or practices, focusing instead on a singular feature request without extensive detail on its implications or integration into the development lifecycle.",
     "level": "Secondary"
   },
@@ -641,7 +518,7 @@
     "reasoning": "Content discusses a feature request for a Team Foundation Server add-in related to file access management, which does not pertain to estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T08:19:05",
     "ai_confidence": 0,
@@ -715,13 +592,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-04-08T21:13:59",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily discusses a specific tool (TFS Checkin Notifier) aimed at improving collaboration in source control, which is tangentially related to software delivery but does not explicitly address Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion lacks depth in terms of the category's core themes such as automation, incremental improvements, or rapid feedback.",
     "level": "Ignored"
   },
@@ -768,15 +645,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a feature request for Team Explorer without focus on hypothesis formation, experimentation, or validated learning.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T08:19:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses a feature wish related to source control and Team Explorer, but does not mention AI or its application in Agile or DevOps practices.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -871,15 +739,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T12:17:46",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a specific feature related to source control, particularly in the context of Team Foundation Server (TFS). While it mentions the challenges of file access in source control, it does not delve deeply into broader best practices or methodologies associated with modern source control systems. The focus is more on a specific user experience rather than comprehensive strategies or practices, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
@@ -901,10 +769,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T08:19:06",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a feature request related to source control and file access, rather than focusing on team dynamics, collaboration, or performance within Agile or Scrum frameworks.",
     "level": "Ignored"
   },
@@ -946,22 +814,22 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-15T07:47:20",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the challenges of collaboration in a source control context, specifically regarding file access among team members. However, it lacks a comprehensive discussion on team dynamics, shared ownership, or strategies for improving communication and collaboration. The focus is more on a specific tool suggestion rather than a broader exploration of team collaboration principles within Agile or DevOps frameworks.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T08:19:06",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about a TFS feature request related to source control and does not address the Definition of Ready.",
     "level": "Ignored"
   },
@@ -1001,15 +869,6 @@
     "reasoning": "Content discusses a feature wish for source control in a non-Agile context and does not focus on remote working practices or challenges.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T08:19:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a feature request related to source control management and does not address any principles or practices of Scaling Kanban.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-17T08:19:06",
@@ -1017,15 +876,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on a feature request for a code management tool and does not address any strategies or methodologies related to customer retention or engagement.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T08:19:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses a specific feature related to Source-Control and TFS, which does not align with agile project management principles or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1219,13 +1069,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T07:47:20",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a feature wish for a TFS add-in that aims to improve user collaboration and access to files, which indirectly relates to working software by addressing user needs. However, it lacks explicit discussion on software quality, functionality, or Agile principles, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -1240,19 +1090,19 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T08:19:06",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a feature wish for a source-control system, which is not related to Scrum Teams or their dynamics.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T08:19:06",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a technical feature request related to source control without addressing team dynamics or motivations.",
     "level": "Ignored"
   },
@@ -1301,15 +1151,6 @@
     "reasoning": "Content primarily discusses a feature wish related to source control and file check-in processes, which does not align with the principles of asynchronous development.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T08:19:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a feature request for source control related to Team Foundation Server, which is not relevant to scaling Scrum or its principles.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-17T08:19:06",
@@ -1346,24 +1187,15 @@
     "reasoning": "Content discusses issues related to source control in Team Foundation Server (TFS) and is not focused on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T08:19:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a feature wish for a tool to improve source control and not related to scaling agile practices or methodologies.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T21:13:51",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a technical feature related to source control and collaboration tools, with no direct mention of Scrum Master responsibilities or concepts. It lacks alignment with the core themes of the Scrum Master role, such as facilitation, coaching, or team dynamics. The depth of discussion is minimal and does not provide any insights into Scrum practices or the impact of a Scrum Master.",
     "level": "Ignored"
   },
@@ -1387,27 +1219,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T21:13:56",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a feature for managing file access in source control, which does not relate to Test First Development principles. There are no direct mentions of testing practices, success criteria, or any related concepts. The focus is on collaboration and file management rather than testing methodologies.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-04-08T21:13:36",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses a specific tool aimed at enhancing collaboration in source control, which aligns with the category's focus on fostering collaboration and improving decision-making. However, it lacks a broader discussion on social technologies or frameworks, and the depth of exploration into the implications for team dynamics or organisational culture is limited.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1438,73 +1270,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T07:47:20",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a feature request related to source control in Team Foundation Server (TFS) and does not explicitly mention Scrum principles, roles, events, or artifacts. While it touches on collaboration, it lacks depth in discussing Scrum's framework or its implementation, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:50:09",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a feature request for a source control tool, focusing on user access and notifications rather than integrating testing, security, or compliance earlier in the software development lifecycle. There are no direct mentions of the Shift-Left Strategy, and the discussion does not align with its core themes or provide any depth on the topic.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-04-08T21:13:39",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly mentions collaboration in source control, which is a peripheral aspect of Common Goals, but does not explicitly discuss shared objectives or alignment within Agile or DevOps frameworks. The focus is primarily on a specific tool and its functionality rather than on the foundational principles of Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-04-08T21:13:40",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily discusses a tool for improving collaboration in source control, which does not directly address the principles of competence in Agile or DevOps. While it touches on the need for better access to files, it lacks explicit discussions on continuous learning, skill development, or the importance of competence in delivering quality outcomes.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-04-08T21:13:44",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily discusses a specific feature request for a TFS add-in, focusing on improving file access and collaboration in source control. While it hints at enhancing processes, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or a culture of experimentation. The mention of streamlining access does not align with the broader themes of Continuous Improvement, and the depth of discussion is minimal, focusing instead on a singular feature rather than a comprehensive approach to improvement.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T21:13:46",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a tool for improving collaboration in source control, which does not explicitly address the principles of Agentic Agility. While it touches on aspects of autonomy and adaptability in the context of file access, it lacks a focus on intentional shaping of outcomes or the interplay between human and AI capabilities. The discussion is more about a practical solution rather than a theoretical exploration of Agentic Agility.",
     "level": "Ignored"
   }

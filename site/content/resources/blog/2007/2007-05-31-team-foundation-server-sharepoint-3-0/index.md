@@ -9,7 +9,7 @@ ResourceImportId: 391
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-31
-weight: 995
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,6 +30,7 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - System Configuration
+- Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

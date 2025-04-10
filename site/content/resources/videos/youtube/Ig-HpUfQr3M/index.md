@@ -2,7 +2,7 @@
 title: 'Maximising Product Value: The Power of Hypothesis-Driven Engineering'
 description: Transform your product investment strategy with hypothesis-driven engineering. Learn to maximise value, minimise waste, and adapt swiftly to customer needs.
 date: 2024-12-11T06:30:00Z
-weight: 440
+weight: 390
 ResourceId: Ig-HpUfQr3M
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,16 +26,37 @@ preview: https://i9.ytimg.com/vi/Ig-HpUfQr3M/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 501
 isShort: false
 tags:
-- Experimentation
-- Discovery and Learning
-- Hypothesis Driven Development
 - Value Delivery
+- Experimentation
+- Hypothesis Driven Development
 - Pragmatic Thinking
-- People and Process
+- Agile Product Management
+- Organisational Agility
+- Business Agility
+- Product Discovery
 - Product Validation
 - Metrics and Learning
-- Agile Product Management
-- Product Discovery
+- Ability to Innovate
+- Agile Strategy
+- Continuous Improvement
+- Decision Theory
+- Enterprise Agility
+- Lean Startup
+- Market Adaptability
+- Continuous Learning
+- Decision Making
+- Evidence Based Leadership
+- Product Delivery
+- Evidence Based Management
+- Lean Product Development
+- MVP
+- Product Strategy
+- Agile Philosophy
+- Operational Practices
+- Sociotechnical Systems
+- Software Development
+- Value Stream Management
+- Portfolio Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,6 +64,8 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Product Development
+- Engineering Excellence
 
 ---
 When it comes to managing product investments, I’ve shifted my perspective significantly over the years. The phrase "stay within budget" doesn’t resonate with me anymore. Instead, I view it as having a pool of money that I can allocate strategically to maximise value. This approach requires a solid understanding of the data at hand and a clear vision of what we aim to achieve.

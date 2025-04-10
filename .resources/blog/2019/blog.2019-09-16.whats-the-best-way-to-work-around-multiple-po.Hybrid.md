@@ -9,7 +9,7 @@ ResourceImportId: 39853
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-09-16
-weight: 675
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,18 +28,28 @@ aliasesArchive:
 - /blog/what's-the-best-way-to-work-around-multiple-po-
 - /resources/blog/whats-the-best-way-to-work-around-multiple-po
 tags:
-- Agile Project Management
 - Agile Product Management
 - Product Owner
-- Scrum Product Development
-- People and Process
+- Agile Frameworks
 - Professional Scrum
 - Scrum Team
+- Pragmatic Thinking
 - Product Backlog
-- Events and Presentations
+- Software Development
 - Product Delivery
+- Agile Product Operating Model
+- Agile Planning
+- Agile Strategy
+- Agile Transformation
+- Competence
+- Decision Making
+- Social Technologies
+- Team Performance
+- Value Delivery
 categories:
 - Scrum
+- Product Management
+- Leadership
 preview: 495173592-1-1.jpg
 
 ---

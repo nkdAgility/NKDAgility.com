@@ -2,7 +2,7 @@
 title: How do you decide whether to pivot or stay the course? (Nokia story)
 description: "Explore the pivotal choices in product management: when to pivot, persevere, or walk away. Join us for insights and real-world examples! \U0001F680"
 date: 2023-09-13T13:59:54Z
-weight: 720
+weight: 690
 ResourceId: B12n_52H48U
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -32,20 +32,33 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
 - Pragmatic Thinking
 - Software Development
-- Discovery and Learning
-- Product Owner
 - Agile Product Management
 - Agile Strategy
 - Business Agility
 - Decision Making
 - Decision Theory
+- Product Delivery
+- Agile Planning
+- Product Owner
+- Empirical Process Control
+- Organisational Agility
+- Agile Frameworks
+- Continuous Improvement
+- Market Adaptability
+- Scrum Team
+- Strategic Goals
+- Sensemaking
+- Value Delivery
+- Change Management
+- Social Technologies
+- Team Collaboration
 resourceTypes:
 - video
 categories:
 - Product Management
+- Scrum
 
 ---
 ## The Role of the Product Owner: Navigating the Agile Seas 🌊 

@@ -27,15 +27,30 @@ duration: 46
 isShort: true
 tags:
 - Beta Codex
-- People and Process
+- Social Technologies
 - Team Motivation
 - Organisational Culture
 - Pragmatic Thinking
-- Value Delivery
-- Team Collaboration
 - Organisational Agility
 - Organisational Change
+- Value Delivery
+- Team Collaboration
+- Agile Leadership
+- Agile Philosophy
 - Business Agility
+- Sociotechnical Systems
+- Self Organisation
+- Employee Engagement
+- Enterprise Agility
+- Ability to Innovate
+- Agile Values and Principles
+- Agile Transformation
+- Decision Making
+- Entrepreneurship
+- Market Adaptability
+- Operational Practices
+- Organisational Physics
+- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,7 +58,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Leadership
 
 ---

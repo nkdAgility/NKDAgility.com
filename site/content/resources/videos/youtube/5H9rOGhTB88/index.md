@@ -2,7 +2,7 @@
 title: 'Empowering Teams to Tailor Their Processes: A Path to True Agility'
 description: Empower your teams to adapt processes for greater value! Discover how to break down silos and foster innovation in this Agile reality check.
 date: 2024-07-26T06:45:00Z
-weight: 385
+weight: 330
 ResourceId: 5H9rOGhTB88
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -30,22 +30,51 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Values and Principles
-- Agile Leadership
-- Team Performance
-- People and Process
-- Agile Project Management
 - Agile Strategy
 - Agile Transformation
 - Organisational Agility
 - Agile Philosophy
+- Self Organisation
 - Team Motivation
+- Pragmatic Thinking
+- Agile Values and Principles
+- Agile Leadership
+- Operational Practices
+- Organisational Culture
+- Team Performance
+- Business Agility
+- Continuous Improvement
+- Organisational Change
+- Software Development
+- Continuous Learning
+- Beta Codex
+- Ability to Innovate
+- Agile Planning
+- Change Management
+- Lean Principles
+- Social Technologies
+- Sociotechnical Systems
+- Team Collaboration
+- Value Delivery
+- Agile Frameworks
+- Personal
+- Competence
+- Lean Thinking
+- Agile Product Management
+- Coaching
+- Empirical Process Control
+- Enterprise Agility
+- Lean Product Development
+- Organisational Physics
+- Value Stream Management
+- Market Adaptability
 resourceTypes:
 - video
 layout: video
 categories:
 - Leadership
-- Social Technologies
+- Lean
+- Technical Leadership
 
 ---
 In today's fast-paced and ever-changing business environment, agility is more than just a buzzword—it's a necessity. Yet, many organizations fall into the trap of enforcing rigid, one-size-fits-all processes that stifle creativity, innovation, and efficiency. Let's explore why it's crucial to empower teams to tailor their processes to their unique contexts, even if it means deviating from company-wide standards.

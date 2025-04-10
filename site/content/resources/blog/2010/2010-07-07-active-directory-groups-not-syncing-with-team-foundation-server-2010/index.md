@@ -9,7 +9,7 @@ ResourceImportId: 32
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-07-07
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,6 +29,8 @@ tags:
 - Windows
 - Install and Configuration
 - System Configuration
+- Azure DevOps
+- Pragmatic Thinking
 preview: metro-SSWLogo-128-link-7-7.png
 categories: []
 

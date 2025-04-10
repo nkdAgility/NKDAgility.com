@@ -2,7 +2,7 @@
 title: How does a Scrum team decide on a Sprint goal?
 description: "Unlock the secrets of effective Sprint goal setting in Scrum! Join Martin as he clarifies myths and enhances team collaboration for impactful planning. \U0001F3AF"
 date: 2023-06-02T07:00:09Z
-weight: 670
+weight: 640
 ResourceId: Srwxg7Etnr0
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,21 +29,33 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
-- Scrum Product Development
 - Scrum Team
 - Agile Planning
 - Team Performance
 - Product Delivery
 - Pragmatic Thinking
-- Common Goals
-- People and Process
 - Software Development
+- Common Goals
+- Agile Frameworks
+- Agile Product Management
+- Product Owner
+- Professional Scrum
+- Working Software
+- Agile Strategy
+- Agile Transformation
+- Decision Making
+- Social Technologies
+- Empirical Process Control
+- Scrum Master
+- Strategic Goals
+- Team Collaboration
+- Value Delivery
+- Self Organisation
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
+- Technical Leadership
 
 ---
 ## Deciphering the Sprint Goal Enigma **🎯**  

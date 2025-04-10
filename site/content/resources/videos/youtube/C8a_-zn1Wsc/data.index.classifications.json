@@ -10,19 +10,19 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T13:34:09",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning and cognitive bias rather than metrics, data utilisation, or evidence-based decision-making.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T13:34:11",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses immersive learning and cognitive bias in Agile training, with no focus on installation or configuration processes.",
     "level": "Ignored"
   },
@@ -37,27 +37,27 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:49:44",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on immersive learning within Agile and Scrum, discussing cognitive biases and the importance of practical application. While it touches on continuous improvement and learning, it does not explicitly address Evidence-Based Management principles or metrics. The discussion lacks a strong connection to empirical decision-making or the specific key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-06T13:50:13",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses personal experiences related to immersive learning in Agile, specifically addressing cognitive bias and the Dunning-Kruger effect. While it does not explicitly share a personal anecdote, it reflects on the common experiences of practitioners in Agile training, which aligns with the themes of personal insights and challenges in adopting Agile methodologies. However, the discussion is somewhat general and lacks depth in personal context, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -77,47 +77,17 @@
     "reasoning": "Content primarily discusses immersive learning and cognitive bias in the context of Agile and Scrum, without a clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T13:34:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning and cognitive bias in the context of Agile training, with no clear focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T13:34:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning and cognitive bias in Agile training, without a clear focus on transparency or accountability.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-14T19:42:26",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on Agile training and the importance of continuous learning, which can relate to market adaptability. However, it lacks explicit discussions on strategies or methodologies that enhance an organisation's ability to respond to market shifts. The focus is more on cognitive bias in learning rather than on adaptability principles, resulting in a low confidence score.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-07T13:06:23",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the impact of cognitive bias on practitioners in Agile training, highlighting the importance of immersive learning to enhance understanding and reduce misconceptions. While it touches on human behaviour and learning processes, it does not delve deeply into team dynamics, leadership, or structured methodologies. The mention of Agile and Scrum indicates some relevance, but the focus is more on individual learning rather than collective processes or team collaboration.",
-    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -157,24 +127,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-10T11:47:16",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content briefly mentions Agile and Scrum in the context of immersive learning and cognitive bias, but it does not delve into specific Agile Product Management practices or principles. While it touches on the importance of understanding Agile concepts, it lacks a detailed discussion on product management roles, backlog prioritisation, or stakeholder engagement, which are crucial for a higher confidence score.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T13:34:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning and cognitive bias in Agile training, without a clear focus on organisational resilience or change management.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -187,36 +148,27 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-10T14:03:06",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content briefly mentions agile training and the importance of understanding agile principles, which aligns with the category's focus on enhancing adaptability. However, it lacks a comprehensive discussion on organisational agility strategies, leadership roles, or structural alignment, resulting in a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T13:34:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses immersive learning and cognitive bias in Agile training, with no clear focus on AI or automation.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-03-10T17:59:05",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses cognitive bias, specifically the Dunning-Kruger effect, which is relevant to decision-making processes. It highlights how immersive learning can help practitioners recognise their limitations and improve their decision-making capabilities. However, while it touches on decision theory concepts, the primary focus is on Agile training rather than a comprehensive exploration of decision theory itself.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -225,15 +177,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile and Scrum without reference to Lean principles.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T13:34:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning and cognitive bias in Agile training, lacking a focus on news, updates, or reviews.",
     "level": "Ignored"
   },
   "Organisational Psychology": {
@@ -247,45 +190,27 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-14T19:42:26",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly touches on agile training and cognitive bias, which are relevant to business agility, but it lacks a comprehensive discussion on the principles, strategies, or leadership roles that define business agility. The focus is more on immersive learning rather than directly addressing the core themes of business agility.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T13:35:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses cognitive bias in learning rather than specific tools, methodologies, or practical techniques related to Agile and DevOps.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T13:35:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning and cognitive bias in Agile training, without reference to specific events or presentations.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-14T19:42:26",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions agile training and the importance of understanding agile principles, which aligns with product delivery methodologies. However, it primarily focuses on cognitive bias and immersive learning rather than the end-to-end process of delivering software products. The discussion lacks depth in practical application related to product delivery, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -294,15 +219,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses immersive learning and cognitive bias in the context of agile training, without addressing broader organisational agility or its implications.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T13:35:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning and cognitive bias in Agile training, without focusing on specific products or literature.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -325,39 +241,27 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T17:49:37",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on immersive learning within the context of Agile and Scrum, discussing cognitive biases and the importance of continuous improvement. While it touches on Agile principles, it does not explicitly address the Agile Product Operating Model or its key topics, such as transitioning to a product ethos or integrating product management practices. The discussion is more centred on personal development and training rather than the broader organisational framework of APOM.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T17:49:19",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Agile and Scrum methodologies, discussing immersive learning and cognitive biases within that context. While it touches on themes of continuous improvement and learning, which are relevant to DevOps, it does not explicitly address DevOps principles or practices. The discussion lacks depth in relation to DevOps, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-11T14:25:48",
-    "ai_confidence": 92.0,
-    "ai_mentions": 18,
-    "ai_alignment": 36,
-    "ai_depth": 38,
-    "non_ai_confidence": 20,
-    "final_score": 85.0,
-    "reasoning": "The content extensively discusses immersive learning as a method for overcoming cognitive biases in Agile practices, aligning closely with the core themes of continuous learning and innovation. It provides detailed insights into how immersive learning fosters a culture of experimentation and feedback, emphasising the importance of practical application and reflection. The depth of discussion is significant, with personal examples and actionable recommendations that reinforce the principles of discovery and learning.",
-    "level": "Primary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -377,15 +281,6 @@
     "reasoning": "Content primarily discusses immersive learning in Agile and Scrum, with no clear focus on Kanban principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T13:35:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning in Agile and Scrum, with no clear focus on Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
     "calculated_at": "2025-02-17T13:35:31",
@@ -395,26 +290,17 @@
     "reasoning": "Content heavily discusses immersive learning and cognitive bias in Agile training, which is unrelated to system configuration.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T13:35:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning and cognitive bias in Agile training, without a clear focus on scaling Agile practices or frameworks.",
-    "level": "Ignored"
-  },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-11T16:14:58",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content extensively discusses the importance of immersive learning in Agile, directly referencing the Agile Manifesto and core principles. It aligns well with the Agile Philosophy by emphasising continuous improvement, the role of teams, and the need for adaptability. The depth of discussion is significant, providing practical examples and personal experiences that illustrate the philosophy in action. However, the focus on specific practices like Scrum slightly detracts from a purely philosophical discussion.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Change Management": {
     "category": "Change Management",
@@ -454,13 +340,13 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-11T17:27:42",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses Agile and Scrum principles, particularly focusing on immersive learning and its impact on understanding Scrum. While it touches on key Scrum concepts and the role of Scrum trainers, it does not delve deeply into the specific Scrum roles, events, or artifacts as outlined in the Scrum Guide. The emphasis on cognitive biases and personal experiences, while relevant, detracts from a strict focus on Professional Scrum principles.",
     "level": "Secondary"
   },
@@ -475,10 +361,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T13:35:43",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning and cognitive bias in Agile training, with no clear focus on the Definition of Ready.",
     "level": "Ignored"
   },
@@ -565,24 +451,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-13T15:05:52",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 34,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses immersive learning as a method for continuous improvement in Agile, directly addressing the importance of a growth mindset and the need for ongoing education. It highlights techniques for effective knowledge sharing, the role of feedback loops, and learning from both failures and successes. The depth of discussion is significant, providing practical examples and recommendations for fostering a culture of continuous learning within Agile teams.",
-    "level": "Secondary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T13:36:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning and cognitive bias in Agile training, with no clear focus on scaling Scrum principles or practices.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -613,13 +490,13 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-13T15:28:31",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses immersive learning in Agile, which indirectly relates to empirical process control through the emphasis on continuous feedback and adaptation. However, it does not explicitly mention empirical process control or its key principles, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -643,13 +520,13 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-13T16:36:20",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on immersive learning techniques within Agile and Scrum contexts, which indirectly relates to Agile leadership by discussing the role of Scrum trainers in facilitating learning. However, it lacks a direct emphasis on leadership strategies or the broader implications of Agile leadership principles. While it touches on continuous improvement and the importance of creating a safe learning environment, it does not delve deeply into the leadership aspects that guide teams through change or empowerment.",
     "level": "Secondary"
   },
@@ -691,15 +568,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-14T19:42:26",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly touches on Agile and Scrum, which are relevant to product management, but primarily focuses on cognitive bias in learning rather than strategic product management practices. While it mentions immersive learning in the context of Agile training, it lacks a detailed exploration of product management methodologies or frameworks, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -757,33 +634,33 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T13:36:36",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning and cognitive bias in Agile training, with only a brief mention of Scrum, making it not central to the topic of Scrum Teams.",
     "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-17T13:36:37",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning and cognitive bias in Agile training, with no clear focus on the Daily Scrum or its specific practices.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-14T14:54:06",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses Agile principles, particularly through the lens of immersive learning, which is crucial for Agile transformation. It directly addresses common pitfalls in Agile knowledge, emphasises continuous improvement, and highlights the role of Scrum trainers in facilitating learning. The depth of discussion on cognitive biases and practical applications aligns well with the core themes of Agile transformation, making it a strong fit for the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -814,15 +691,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:56:37",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 67.0,
     "ai_mentions": 3,
     "ai_alignment": 75.0,
     "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses immersive learning in Agile, which indirectly relates to social technologies by promoting collaboration and continuous improvement. However, it primarily focuses on individual learning experiences rather than broader organisational frameworks or methodologies. While it mentions the importance of community engagement and collaboration, the depth of discussion on social technologies as a primary focus is limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -842,7 +719,7 @@
     "reasoning": "Content primarily discusses immersive learning and cognitive biases rather than mentoring practices or the role of mentors in Agile environments.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T15:05:37",
     "ai_confidence": 0,
@@ -862,10 +739,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T15:05:37",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning and cognitive bias in Agile, with no clear focus on the Definition of Done.",
     "level": "Ignored"
   },
@@ -934,26 +811,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-14T19:42:46",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses immersive learning as a method to enhance understanding of Agile principles, which aligns with the category's focus on continuous value delivery and adaptability. However, it primarily centres on the learning process rather than strategic implementation or organisational alignment, leading to a moderate confidence score.",
-    "level": "Secondary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-14T19:42:51",
-    "ai_confidence": 87.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 90.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 0,
-    "final_score": 78.0,
-    "reasoning": "The content extensively discusses Agile methodologies and the role of immersive learning in enhancing the skills of Agile practitioners, which directly relates to software developers. It highlights the importance of continuous improvement, practical application, and the Dunning-Kruger effect, all of which are relevant to the development community. The depth of discussion on how immersive learning can improve understanding and application of Agile principles indicates a strong alignment with the category's focus.",
     "level": "Secondary"
   },
   "Engineering Practices": {
@@ -976,15 +841,15 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-03-14T19:42:43",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 62.0,
     "ai_mentions": 3,
     "ai_alignment": 50.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of continuous improvement and focus, which are aligned with Scrum Values. However, it primarily centres on immersive learning and cognitive biases rather than directly addressing the Scrum Values themselves. While there are mentions of focus and the role of a Scrum trainer, the discussion lacks a comprehensive exploration of all Scrum Values, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -1024,10 +889,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T15:05:37",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on immersive learning and cognitive bias in Agile training rather than on measuring or enhancing innovation capabilities.",
     "level": "Ignored"
   },
@@ -1042,25 +907,25 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-14T19:42:39",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content extensively discusses Agile and Scrum, focusing on immersive learning as a method to deepen understanding of Agile principles. It directly references the Agile Manifesto and Scrum practices, demonstrating a strong alignment with the core themes of Agile frameworks. The depth of discussion is significant, providing practical applications and personal experiences that illustrate the importance of continuous improvement and learning in Agile contexts.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-14T19:42:54",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses immersive learning as a method to enhance understanding of Agile and Scrum principles, which indirectly relates to team performance by emphasising continuous improvement and practical application. It mentions the role of Scrum trainers in facilitating learning, which aligns with leadership support for high-performing teams. However, the primary focus is on individual learning rather than direct team dynamics or performance metrics, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1102,20 +967,11 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T15:05:37",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning and cognitive bias in Agile, with no clear focus on Agile planning tools.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T15:05:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses immersive learning and cognitive bias in the context of Agile training, without a clear focus on Scrum product development principles or practices.",
     "level": "Ignored"
   },
   "Azure Boards": {
@@ -1129,15 +985,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-03-14T19:42:26",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses immersive learning and its impact on Agile practitioners, touching on themes of continuous improvement and the role of trainers in fostering a learning environment. However, it primarily focuses on individual learning experiences and cognitive biases rather than explicitly addressing organisational culture or its influence on team dynamics and collaboration. While there are relevant elements, they are not the primary focus, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -1153,15 +1009,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-14T19:42:33",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses cognitive biases, particularly the Dunning-Kruger effect, which directly relates to decision-making processes in Agile environments. It emphasises the importance of continuous learning and reflection, which are crucial for informed decision-making. However, while it touches on these themes, the primary focus is on immersive learning rather than structured decision-making methodologies, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1210,25 +1066,25 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-14T19:42:41",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the role of a Scrum trainer in facilitating immersive learning, which aligns with coaching principles. It emphasises continuous improvement, creating safe learning environments, and the importance of feedback, all of which are key aspects of effective coaching. However, while coaching is a significant theme, the primary focus is on immersive learning techniques rather than coaching itself, leading to a slightly lower confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-14T19:42:31",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses Agile principles and the importance of continuous learning and improvement, which aligns with Agile Planning. However, it primarily focuses on immersive learning and cognitive biases rather than specific Agile planning methodologies or practices. While it mentions the Agile Manifesto and Scrum, these are not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1279,15 +1135,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-14T19:42:36",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 30,
-    "final_score": 77.0,
+    "final_score": 82.0,
     "reasoning": "The content extensively discusses the importance of immersive learning in understanding Agile principles, directly referencing the Agile Manifesto and the need for continuous improvement. It aligns well with Agile values such as collaboration, customer-centricity, and the significance of self-organising teams. The depth of discussion is substantial, providing personal examples and practical applications that reinforce the core themes of Agile methodologies.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1325,15 +1181,6 @@
     "reasoning": "Content primarily discusses immersive learning and cognitive bias in Agile training, without a clear focus on strategic approaches or alignment within Agile, Scrum, or DevOps frameworks.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T15:05:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses immersive learning and cognitive bias in Agile training without any reference to AI or its applications.",
-    "level": "Ignored"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
     "calculated_at": "2025-02-17T15:05:37",
@@ -1363,13 +1210,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:06:06",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on immersive learning within Agile and Scrum practices, discussing cognitive biases and the importance of continuous improvement. While it touches on learning by doing, it does not explicitly mention Test First Development principles, success criteria, or testing methodologies, which are central to the category.",
     "level": "Ignored"
   },
@@ -1384,15 +1231,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-14T19:42:57",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the practical application of immersive learning within Agile and Scrum contexts, directly addressing the importance of real-world experience in overcoming cognitive biases. It aligns well with the core themes of pragmatic thinking by emphasising continuous improvement, practical problem-solving, and the necessity of adapting learning strategies to enhance understanding. The depth of discussion is significant, providing personal examples and actionable recommendations that illustrate the application of these concepts in real-world scenarios.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1412,37 +1259,16 @@
     "reasoning": "Content primarily discusses immersive learning in Agile and cognitive bias, without a clear focus on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T15:05:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses immersive learning and cognitive bias in agile training, with a focus on individual practitioners rather than scaling agile practices at an organizational level.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T16:06:11",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses immersive learning in the context of Agile and Scrum, highlighting the role of Scrum practitioners, including Scrum Masters. While it mentions Scrum Masters and their importance in the learning process, the primary focus is on immersive learning techniques rather than the specific responsibilities and impact of the Scrum Master role. The discussion aligns with some core themes, such as continuous improvement and the need for practical application, but lacks depth in exploring the distinct responsibilities and influence of Scrum Masters within a Scrum Team.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-14T19:42:29",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content extensively discusses Agile principles, particularly focusing on immersive learning as a method to enhance understanding of Agile and Scrum. It directly references the Agile Manifesto and the role of Scrum trainers, aligning well with the core themes of Agile Project Management. The depth of discussion is significant, providing practical insights and personal experiences that reinforce the importance of continuous learning and iterative improvement in Agile practices.",
     "level": "Secondary"
   },
   "Team Collaboration": {
@@ -1456,15 +1282,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T19:42:48",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on Agile methodologies and immersive learning, which are central to software development practices. It discusses the Dunning-Kruger effect in the context of Agile, emphasising the importance of continuous learning and practical application, which aligns well with the core themes of the Software Development category. The depth of discussion on immersive learning techniques and their application in Agile training further supports a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1486,61 +1312,61 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:49:40",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 61.0,
+    "final_score": 62.0,
     "reasoning": "The content briefly mentions Scrum in the context of agile training and cognitive bias, indicating some relevance to the Scrum category. However, it lacks a detailed discussion of Scrum principles, roles, or events, which limits its depth and alignment with the core themes of Scrum. The focus is more on the learning process rather than the Scrum framework itself.",
     "level": "Secondary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:47:49",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on immersive learning within Agile and Scrum, discussing cognitive biases and the importance of continuous improvement. While it touches on themes of learning and doing, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is more aligned with Agile methodologies rather than the proactive integration of testing, security, and compliance earlier in the software development lifecycle.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:49:22",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses continuous improvement as a key aspect of Agile and immersive learning, highlighting the importance of ongoing reflection and adaptation. It provides practical strategies for fostering a culture of learning and improvement, aligning well with the principles of Continuous Improvement. However, while it mentions continuous improvement, the primary focus is on immersive learning and cognitive biases, which slightly detracts from its alignment with the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:49:26",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on immersive learning and cognitive biases in Agile and Scrum, with only brief mentions of continuous improvement and learning by doing. While it touches on themes relevant to Agile practices, it lacks a direct discussion on Common Goals, their significance, or how they align with strategic objectives. The depth of discussion on Common Goals is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:49:28",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 32,
     "non_ai_confidence": 30,
-    "final_score": 81.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of continuous learning and skill development in Agile and Scrum, particularly through immersive learning. It highlights the Dunning-Kruger effect, emphasising the need for practitioners to confront their knowledge gaps, which aligns closely with the core themes of competence. The depth of discussion is significant, providing practical examples and strategies for fostering a culture of competence, such as setting clear goals and engaging with the community. Overall, the content is highly relevant to the category of competence.",
     "level": "Primary"
   },
@@ -1558,13 +1384,13 @@
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:06:03",
+    "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on immersive learning within Agile and Scrum practices, discussing cognitive biases and the importance of continuous improvement. While it touches on themes of learning and adaptability, it does not explicitly address the concept of Agentic Agility or differentiate between human and AI capabilities. The discussion lacks depth in exploring intentional shaping of outcomes, which is central to the category.",
     "level": "Ignored"
   }

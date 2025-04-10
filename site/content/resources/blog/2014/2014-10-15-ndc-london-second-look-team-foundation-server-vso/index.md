@@ -9,7 +9,7 @@ ResourceImportId: 10811
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-15
-weight: 470
+weight: 410
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -33,15 +33,27 @@ aliasesArchive:
 - /resources/blog/ndc-london-second-look-team-foundation-server-vso
 tags:
 - Application Lifecycle Management
-- Events and Presentations
-- Practical Techniques and Tooling
 - Software Development
 - Release Management
 - Product Delivery
-- News and Reviews
 - Azure DevOps
-- Scrum Product Development
+- Pragmatic Thinking
 - Working Software
+- Customer Feedback Loops
+- Test Driven Development
+- Agile Planning
+- Continuous Integration
+- Automated Testing
+- Azure Pipelines
+- Agile Product Management
+- Continuous Delivery
+- Operational Practices
+- Technical Excellence
+- Technical Mastery
+- Test Automation
+- Test First Development
+- Engineering Practices
+- Modern Source Control
 categories: []
 preview: metro-event-icon-7-7.png
 

@@ -28,14 +28,20 @@ isShort: true
 tags:
 - Agile Transformation
 - Working Software
-- Agile Project Management
+- Software Development
 - Agile Philosophy
 - Pragmatic Thinking
-- Software Developers
-- Software Development
-- Agile Values and Principles
 - Agile Planning
+- Agile Values and Principles
+- Continuous Improvement
+- Agile Strategy
 - Increment
+- Operational Practices
+- Agile Frameworks
+- Agile Product Management
+- Product Delivery
+- Empirical Process Control
+- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

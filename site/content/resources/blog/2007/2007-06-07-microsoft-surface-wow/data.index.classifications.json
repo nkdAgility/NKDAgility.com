@@ -37,10 +37,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T22:01:07",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on personal opinions about Microsoft Surface technology and does not discuss the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T22:01:10",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily expresses excitement about a product without discussing installation or configuration processes.",
     "level": "Ignored"
   },
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses personal excitement about a technology product, with no connection to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T22:01:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses excitement about a new technology product and does not address organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T22:01:15",
@@ -96,15 +87,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal excitement about a product and does not reference complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T22:01:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal excitement about a product rather than practical techniques or tooling related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +100,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T22:01:19",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on personal excitement about a product and does not discuss metrics, learning, or related themes.",
     "level": "Ignored"
   },
@@ -154,38 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-04-08T21:08:01",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the excitement and personal opinion regarding Microsoft Surface technology, with no direct mentions or discussions related to Evidence-Based Management principles or metrics. It lacks any empirical evidence or data-informed decision-making aspects, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-04-08T21:07:55",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses on the excitement surrounding Microsoft Surface technology and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related topics. The content is primarily promotional and lacks any depth or alignment with the core themes of the category.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T07:46:07",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content briefly mentions a new Microsoft product, which aligns with the category of news. However, it lacks detailed analysis or evaluation of the product, focusing instead on personal excitement and vision rather than industry relevance or practical implications. The discussion does not delve into Agile or DevOps themes, which are central to the category, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -213,42 +183,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on personal excitement about a consumer product, with no relevance to platform engineering or developer productivity.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T22:01:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content is primarily focused on personal excitement about a product and does not discuss AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T22:01:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on personal excitement about a product and does not discuss software code or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T22:01:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal excitement about a product rather than any events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T22:01:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on personal excitement about a product and does not address transparency or accountability in Agile teams.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -316,13 +250,13 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-04-08T21:07:41",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses entirely on Microsoft Surface technology and its potential impact on entertainment, with no mention of DevOps principles, practices, or cultural shifts. It does not discuss collaboration, automation, or any other key topics related to DevOps, indicating a very low relevance to the category.",
     "level": "Ignored"
   },
@@ -333,33 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on personal excitement about a product rather than engineering practices or methodologies.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T22:01:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a product and personal excitement about technology, with no focus on human behaviour or structured methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T22:01:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily expresses excitement about a product without discussing processes or methodologies related to discovery and learning.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T22:01:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily expresses excitement about a product without providing reviews, analyses, or discussions relevant to Agile methodologies or DevOps practices.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -391,10 +298,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T08:18:47",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily expresses excitement over a specific product and its technology without discussing the broader themes of innovation capabilities or practices in organizations.",
     "level": "Ignored"
   },
@@ -423,15 +330,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on a personal opinion about Microsoft Surface technology and does not relate to portfolio management or strategic alignment of projects.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T08:18:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal reaction to a product launch and does not engage with Scrum practices or product development methodologies.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -463,10 +361,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T08:18:47",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on a product review and personal excitement about technology, with no clear connection to Agile values or principles.",
     "level": "Ignored"
   },
@@ -504,15 +402,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about admiration for Microsoft Surface technology and doesn't discuss the Definition of Done in any capacity.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T08:18:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a personal reaction to a technology product and does not relate to Scaled Agile methodologies, frameworks, or practices.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -578,15 +467,6 @@
     "reasoning": "Content focuses on personal reactions to the Microsoft Surface device and its potential in entertainment, with no discussion on collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T08:18:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal excitement about a hardware product and technology, with no central focus on software development practices or methodologies related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
     "calculated_at": "2025-02-17T08:18:47",
@@ -598,10 +478,10 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-17T08:18:47",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a Microsoft Surface device and personal impressions without any relation to Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
@@ -623,7 +503,7 @@
     "reasoning": "Content is primarily about excitement for a new technology and does not address any estimation topics relevant to Agile or Scrum practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T08:18:47",
     "ai_confidence": 0,
@@ -697,13 +577,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-04-08T21:08:06",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses on the excitement surrounding Microsoft Surface technology and does not discuss Continuous Delivery principles, practices, or related topics. There are no direct mentions of Continuous Delivery, and the content lacks any alignment with the core themes of the category, such as automation, incremental improvements, or software quality. The discussion is entirely unrelated to software delivery practices.",
     "level": "Ignored"
   },
@@ -750,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on personal excitement about a product launch and does not discuss hypothesis formulation, experimentation, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T08:18:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is primarily focused on the Microsoft Surface technology and does not discuss AI, Agile methodologies, or DevOps practices.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -977,15 +848,6 @@
     "reasoning": "Content discusses a technology product and personal excitement about it, with no relation to remote working or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T08:18:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on personal excitement about the Microsoft Surface technology, with no relation to Kanban or its scaling.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-17T08:18:47",
@@ -993,15 +855,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses personal enthusiasm for a product without addressing any strategies or methodologies related to customer retention.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T08:18:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on expressing excitement about the Microsoft Surface technology and does not discuss Agile Project Management or its methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1274,15 +1127,6 @@
     "reasoning": "Content is focused on a personal reaction to a gadget and does not discuss asynchronous development or related topics.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T08:18:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a Microsoft Surface product and technology, with no mention of Scrum or its scaling practices.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-17T08:18:47",
@@ -1319,24 +1163,15 @@
     "reasoning": "Content does not discuss Scrum principles, roles, practices, or any related topics; it focuses on a product review of Microsoft Surface.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T08:18:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about Microsoft Surface technology and does not discuss scaling agility or related topics.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T21:07:57",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses entirely on Microsoft Surface technology and does not mention the Scrum Master role or any related concepts. There is no discussion of Scrum principles, responsibilities, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
@@ -1360,25 +1195,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T21:08:03",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses entirely on the excitement surrounding Microsoft Surface technology and does not mention or align with any principles of Test First Development. There are no discussions on success criteria, testing practices, or any related topics, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-04-08T21:07:43",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the excitement surrounding Microsoft Surface technology and its potential impact on entertainment, with no direct discussion of social technologies, collaboration, or decision-making frameworks. It lacks any depth or alignment with the core themes of the category, making it largely irrelevant.",
     "level": "Ignored"
   },
@@ -1411,13 +1246,13 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:20:47",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not mention Scrum or any related concepts. It focuses on a product review of Microsoft Surface, which is unrelated to Scrum principles, practices, or frameworks.",
     "level": "Ignored"
   },
@@ -1435,49 +1270,49 @@
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-04-08T21:07:45",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 0.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on personal excitement and opinions regarding Microsoft Surface technology, lacking any discussion of Common Goals, Agile, or DevOps principles. It does not address shared objectives or strategic alignment, which are central to the category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-04-08T21:07:47",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the excitement and personal desire for Microsoft Surface technology, with no direct mentions or discussions related to competence, continuous learning, or skill development. It lacks alignment with the core themes of the category and does not provide any depth on the subject matter.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-04-08T21:07:50",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the excitement and personal desire for Microsoft Surface technology, with no explicit discussion of Continuous Improvement principles or practices. It lacks any mention of empirical evidence, data-driven decision-making, or strategies for enhancing processes or team effectiveness, which are core themes of Continuous Improvement.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T21:07:53",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the excitement surrounding Microsoft Surface technology and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion lacks any depth or alignment with the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }

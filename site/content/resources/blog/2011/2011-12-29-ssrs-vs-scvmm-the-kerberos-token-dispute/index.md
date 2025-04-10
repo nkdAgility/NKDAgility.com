@@ -28,10 +28,13 @@ aliasesArchive:
 - /blog/ssrs-vs-scvmm---the-kerberos-token-dispute
 - /resources/blog/ssrs-vs-scvmm-the-kerberos-token-dispute
 tags:
+- Troubleshooting
 - System Configuration
 - Install and Configuration
-- Troubleshooting
 - Windows
+- Pragmatic Thinking
+- Software Development
+- Technical Mastery
 categories: []
 
 ---

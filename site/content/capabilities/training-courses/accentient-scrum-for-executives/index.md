@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: course
 ResourceContentOrigin: human
 date: 2020-08-31
-weight: 775
+weight: 750
 creator: Martin Hinshelwood
 type: course
 slug: scrum-for-executives-training
@@ -31,13 +31,11 @@ delivery-audiences:
 - Executives
 tags:
 - Agile Frameworks
-- Agile Project Management
-- Professional Scrum
 - Agile Transformation
-- Events and Presentations
 - Organisational Agility
-- People and Process
+- Professional Scrum
 - Software Development
+- Agile Product Management
 categories:
 - Scrum
 preview: 

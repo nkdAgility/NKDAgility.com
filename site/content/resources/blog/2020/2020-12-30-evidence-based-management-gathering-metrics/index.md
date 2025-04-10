@@ -9,7 +9,7 @@ ResourceImportId: 10528
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-12-30
-weight: 420
+weight: 360
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -33,12 +33,41 @@ tags:
 - Metrics and Learning
 - Ability to Innovate
 - Agile Product Management
-- Agile Project Management
-- Software Development
-- Value Delivery
+- Continuous Improvement
 - Operational Practices
 - Evidence Based Leadership
+- Software Development
+- Value Delivery
 - Decision Making
+- Pragmatic Thinking
+- Agile Frameworks
+- Empirical Process Control
+- Product Delivery
+- Organisational Agility
+- Working Software
+- Trend Analysis
+- Agile Transformation
+- Business Agility
+- Customer Satisfaction
+- Enterprise Agility
+- Flow Efficiency
+- Team Performance
+- Throughput
+- Agile Strategy
+- Revenue per Employee
+- Cycle Time
+- Agile Product Operating Model
+- Deployment Frequency
+- Digital Transformation
+- Frequent Releases
+- Market Adaptability
+- Organisational Change
+- Professional Scrum
+- Social Technologies
+- Sociotechnical Systems
+- Competence
+- Agile Planning
+- Release Management
 categories:
 - Product Management
 - Scrum

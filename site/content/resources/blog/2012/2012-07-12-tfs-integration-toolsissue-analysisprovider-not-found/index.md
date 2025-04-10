@@ -29,8 +29,10 @@ aliasesArchive:
 - /resources/blog/tfs-integration-toolsissue-analysisprovider-not-found
 tags:
 - Troubleshooting
-- Install and Configuration
 - Software Development
+- Install and Configuration
+- Windows
+- System Configuration
 categories: []
 preview: metro-problem-icon-3-3.png
 

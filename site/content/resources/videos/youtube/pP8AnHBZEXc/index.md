@@ -27,11 +27,9 @@ duration: 1906
 isShort: false
 tags:
 - Software Development
-- Agile Project Management
-- Events and Presentations
-- People and Process
-- Software Developers
 - Agile Transformation
+- Scrum Master
+- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

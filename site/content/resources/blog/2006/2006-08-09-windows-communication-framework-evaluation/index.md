@@ -9,7 +9,7 @@ ResourceImportId: 464
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-08-09
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,7 +23,8 @@ aliasesArchive:
 - /blog/windows-communication-framework-evaluation
 - /windows-communication-framework-evaluation
 - /resources/blog/windows-communication-framework-evaluation
-tags: []
+tags:
+- Software Development
 preview: metro-binary-vb-128-link-1-1.png
 categories: []
 

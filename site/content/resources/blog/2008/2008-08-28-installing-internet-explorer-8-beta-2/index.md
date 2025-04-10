@@ -25,6 +25,8 @@ aliasesArchive:
 - /resources/blog/installing-internet-explorer-8-beta-2
 tags:
 - Windows
+- Miscellaneous
+- Install and Configuration
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

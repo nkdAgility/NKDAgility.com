@@ -22,6 +22,10 @@ aliasesArchive:
 categories: []
 tags:
 - Competence
+- Business Agility
+- Continuous Learning
+- Pragmatic Thinking
+- Organisational Agility
 
 ---
 As a fellow agilist, you’ll know that agility is critical to success in the volatile, uncertain, complex and ambiguous 21st-century marketplace.

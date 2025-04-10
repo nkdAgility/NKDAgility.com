@@ -27,7 +27,8 @@ aliasesArchive:
 - /would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
 - /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
 - /resources/blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
-tags: []
+tags:
+- Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

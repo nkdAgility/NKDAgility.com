@@ -27,13 +27,17 @@ duration: 205
 isShort: false
 tags:
 - Agile Product Management
-- Agile Project Management
 - Agile Frameworks
-- People and Process
-- Agile Philosophy
-- Value Delivery
 - Pragmatic Thinking
+- Agile Philosophy
 - Software Development
+- Value Delivery
+- Agile Transformation
+- Continuous Improvement
+- Professional Scrum
+- Scrum Master
+- Social Technologies
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

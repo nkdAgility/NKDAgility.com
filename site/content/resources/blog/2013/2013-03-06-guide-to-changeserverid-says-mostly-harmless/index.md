@@ -28,6 +28,8 @@ tags:
 - Install and Configuration
 - System Configuration
 - Software Development
+- Pragmatic Thinking
+- Windows
 categories: []
 
 ---

@@ -9,7 +9,7 @@ ResourceImportId: 9989
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-08-27
-weight: 850
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,7 +25,7 @@ aliasesArchive:
 - /resources/blog/the-great-team-foundation-server-2013-upgrade-weekend
 tags:
 - Install and Configuration
-- Events and Presentations
+- Windows
 categories: []
 
 ---

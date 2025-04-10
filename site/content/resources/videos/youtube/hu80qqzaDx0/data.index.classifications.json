@@ -10,25 +10,25 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-06T13:36:04",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the influence of measurement on behaviour within an organisation, which aligns with the category's focus on metrics. However, it lacks explicit references to Agile or DevOps practices and does not delve deeply into techniques for collecting or analysing performance data. The discussion is somewhat general and does not provide substantial detail on continuous improvement methodologies or evidence-based management principles.",
     "level": "Secondary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-03-06T14:47:45",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses how measurement influences behaviour within an organisation, which touches on themes of employee engagement and motivation. However, it lacks explicit references to established psychological theories or a deeper exploration of the psychological principles at play. The discussion is somewhat relevant but does not provide sufficient depth or direct mentions of core organisational psychology concepts.",
     "level": "Secondary"
   },
@@ -59,33 +59,24 @@
     "reasoning": "Content primarily discusses measurement and behaviour in organisations, without a clear focus on Kanban principles or practices.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T12:13:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses measurement and behaviour in organisational contexts, with no clear focus on software code quality or complexity.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T11:13:43",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses team dynamics and the influence of metrics on behaviour, which can relate to collaboration in a DevOps context. However, it does not explicitly mention DevOps principles or practices, and the focus is more on general team engagement rather than the specific cultural and operational aspects of DevOps.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T12:13:51",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses measurement and its impact on behaviour within teams, which is not related to installation or configuration processes.",
     "level": "Ignored"
   },
@@ -98,59 +89,29 @@
     "reasoning": "Content primarily discusses measurement and behaviour within an organisation, lacking a direct focus on market adaptability strategies or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T12:13:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses measurement and behaviour in organisations, lacking a focus on Agile, DevOps, or technology news and reviews.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T11:13:46",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the influence of metrics on team behaviour and collaboration, which is relevant to organisational effectiveness. However, it does not explicitly mention the Agile Product Operating Model or its core principles. The focus is more on team dynamics and measurement rather than the product-oriented mindset and continuous delivery aspects of APOM.",
     "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-03-14T18:08:05",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses how measurement influences behaviour within an organisation, which touches on decision-making processes. However, it lacks explicit references to decision theory concepts such as heuristics, biases, or frameworks. The discussion is somewhat aligned with the category but does not delve deeply into decision-making strategies or models.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-10T11:40:21",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses how measurement influences individual behaviour within an organisation, which directly relates to human factors and team dynamics. It highlights the impact of organisational metrics on engagement and collaboration, aligning well with the core themes of the category. However, while it touches on important aspects of people and process, it lacks extensive detail and broader discussions on methodologies like Agile or Scrum, which slightly limits its depth.",
-    "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T12:14:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses measurement and behaviour within organisations, without a clear focus on resilience or change management.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -190,13 +151,13 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-03-14T18:08:05",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the influence of measurement on behaviour within an organisation, which hints at interconnectedness but lacks a comprehensive discussion on Systems Thinking principles. It does not explicitly mention Systems Thinking or delve into its foundational concepts, techniques, or frameworks, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -218,15 +179,6 @@
     "reasoning": "Content primarily discusses measurement and behaviour in organisations, without a clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T12:14:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses measurement and behaviour in organisations, without reference to specific events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
     "calculated_at": "2025-02-17T12:14:17",
@@ -238,13 +190,13 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-14T18:08:05",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content touches on personal observations regarding measurement and behaviour in organisational contexts, which aligns with the Personal category's focus on individual insights. However, it lacks explicit personal anecdotes or reflections, resulting in a lower confidence score.",
     "level": "Ignored"
   },
@@ -255,15 +207,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses measurement and behaviour in organisational contexts, with no clear focus on platform engineering or related topics.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T12:14:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the impact of measurement on behaviour within an organisation, without specific reference to practical techniques or tooling related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -277,91 +220,49 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-11T00:20:46",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 62.0,
     "ai_mentions": 5,
     "ai_alignment": 25,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the impact of measurement on behaviour within organisations, which aligns with broader themes of business agility but does not reference specific Agile, Scrum, DevOps, or Lean frameworks. While it touches on concepts relevant to engagement and collaboration, it lacks direct mentions of recognised methodologies or actionable insights, placing it firmly in the Miscellaneous category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-11T09:52:20",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the impact of measurement on behaviour within an organisation, which touches on the theme of organisational agility by implying that metrics can influence engagement and collaboration. However, it lacks explicit references to agile methodologies, leadership roles, or cultural shifts necessary for fostering agility. The discussion is somewhat relevant but does not delve deeply into the core principles of organisational agility, resulting in a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-14T18:08:05",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content touches on the impact of measurement on behaviour, which indirectly relates to accountability, but it lacks explicit discussions on transparency or clear communication. The focus is more on individual behaviour influenced by metrics rather than fostering an environment of openness and shared responsibility. Therefore, while there are relevant themes, they are not the primary focus.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-14T18:08:05",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content touches on the influence of measurement on behaviour within teams, which can relate to learning and adapting practices. However, it lacks explicit discussions on methodologies for fostering innovation or continuous learning, making it a secondary focus rather than a primary one.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:16:08",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the impact of metrics on team behaviour and engagement, which aligns with the principles of Evidence-Based Management. It highlights the importance of reviewing metrics and focusing on outcomes rather than outputs, which are key themes in EBM. However, while it touches on these concepts, it does not explicitly mention Evidence-Based Management or provide in-depth empirical analysis, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T12:14:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses measurement and behaviour in organisations, without a clear focus on AI or automation within Agile frameworks.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T12:14:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses measurement and behaviour in organisations, without reference to specific products, books, or Agile methodologies.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-11T16:09:22",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the interplay between measurement, behaviour, and team dynamics, which aligns well with the sociotechnical systems category. It explicitly mentions how metrics influence individual and team behaviour, reflecting on organisational culture and collaboration. The depth of discussion is substantial, providing insights into how to align metrics with desired behaviours to enhance team effectiveness. However, while it touches on sociotechnical themes, it does not delve deeply into the technical aspects or frameworks, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -376,48 +277,39 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-11T17:22:30",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the impact of measurement on team dynamics and collaboration, which touches on aspects of organisational culture and behaviour. However, it primarily focuses on team-level practices and individual metrics rather than broader enterprise agility concepts such as organisational structures, frameworks for scaling agility, or leadership roles in driving agility. While there are relevant insights, the lack of explicit discussion on enterprise-level agility and the emphasis on team dynamics limits its alignment with the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-14T18:08:05",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content touches on the influence of measurement on behaviour within an organisation, which can relate to leadership in terms of understanding team dynamics and fostering engagement. However, it lacks explicit discussions on leadership practices or strategies, making it a secondary focus rather than a primary one.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:51:31",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the impact of measurement on team behaviour and collaboration, which aligns with the principles of social technologies. It highlights the importance of metrics in fostering a collaborative environment and encourages open dialogue, which are key themes in social technologies. However, while it touches on these concepts, it does not delve deeply into specific frameworks or methodologies, resulting in a moderate confidence score.",
     "level": "Secondary"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T15:05:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on measurement and individual behavior within organizations, without specific reference to Kanban principles or scaling practices.",
-    "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -426,15 +318,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses measurement and behavior in organizational settings, which does not relate to system configuration.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T15:05:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on measuring individual behavior and its impact on engagement and collaboration, without reference to scaling Agile methodologies or coordinating multiple teams.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -448,10 +331,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-03-14T18:08:05",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "While the content discusses measurement and its influence on behavior within organizations, it does not specifically address strategies, principles, or practices of change management. The focus is more on individual behavior and metrics rather than on change management processes or principles.",
     "level": "Ignored"
   },
@@ -475,15 +358,15 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-03-13T16:31:17",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses how measurement influences team dynamics and individual behaviour, which directly relates to team motivation. It explores the impact of metrics on collaboration and engagement, aligning well with the core themes of fostering team engagement and building trust. The depth of discussion is substantial, providing specific strategies for improving team dynamics through better measurement practices.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -568,10 +451,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T15:05:35",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses organizational measurement and its influence on behavior, without a clear focus on working software or its characteristics.",
     "level": "Ignored"
   },
@@ -586,13 +469,13 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-14T18:08:20",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses how measurement influences behaviour within organisations, which is relevant to organisational change. It highlights the importance of aligning metrics with desired behaviours to foster collaboration and engagement, a key aspect of organisational transformation. However, while it touches on themes of culture and metrics, it lacks explicit frameworks or methodologies for implementing change, which slightly reduces its alignment and depth scores.",
     "level": "Secondary"
   },
@@ -605,24 +488,15 @@
     "reasoning": "Content primarily discusses the impact of measurement on behavior and engagement, with no clear focus on Continuous Learning principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T15:05:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses measurement and behavior in organizations without a clear focus on scaling Scrum principles, practices, roles, or frameworks.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-03-13T15:23:08",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the impact of metrics on team behaviour and engagement, which aligns with evidence-based leadership principles. It highlights the importance of data-driven decision-making and the need to review metrics to foster collaboration. However, while it provides personal insights and examples, it lacks a broader discussion on established evidence-based practices or frameworks, which slightly limits its depth.",
     "level": "Secondary"
   },
@@ -637,24 +511,24 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T15:05:35",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on measurement and behavior in organizational settings, without specific reference to remote working or Agile practices.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-14T18:08:17",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the influence of metrics on team behaviour and collaboration, which aligns with the principles of empirical process control, particularly in terms of transparency and adaptation. However, it lacks direct references to Agile methodologies or specific practices related to empirical process control, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -748,10 +622,10 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T15:05:35",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on measurement and its influence on behavior, with no specific discussions on self-organisation principles or practices.",
     "level": "Ignored"
   },
@@ -784,10 +658,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T15:05:35",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses organizational measurement and individual behavior, which does not focus specifically on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -811,13 +685,13 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-14T18:08:15",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the impact of measurement on team behaviour and collaboration, which aligns with operational practices in terms of metrics and performance evaluation. However, it lacks a direct focus on specific operational methodologies like Agile or Lean, and while it touches on metrics, it does not delve deeply into process optimisation or continuous improvement strategies.",
     "level": "Secondary"
   },
@@ -832,10 +706,10 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T15:05:35",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of measurement on behavior and engagement without addressing working agreements or teamwork principles.",
     "level": "Ignored"
   },
@@ -846,15 +720,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses measurement and behavior in an organizational context, without a clear focus on Agile methodologies or strategic alignment.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T15:05:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses measurement and behavior in organizations without direct reference to software development or Agile/DevOps practices.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -895,10 +760,10 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T15:05:35",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses measurement and behavior in organizations, without focusing on specific collaboration tools or methods within Agile teams.",
     "level": "Ignored"
   },
@@ -940,10 +805,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T15:05:35",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on measurement of individual behavior and engagement within an organization, not directly discussing innovation capabilities or Evidence-Based Management principles.",
     "level": "Ignored"
   },
@@ -967,15 +832,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-14T18:08:22",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses the impact of measurement on team dynamics and collaboration, which aligns closely with the core themes of team performance. It provides detailed insights into how metrics can influence behaviour, the importance of aligning measures with desired outcomes, and personal experiences that illustrate these points. The depth of discussion on fostering collaboration and the role of metrics in team dynamics supports a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1006,24 +871,15 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-03-14T18:08:25",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the impact of measurement on employee behaviour, which is directly related to employee engagement. It explores how metrics can influence motivation, collaboration, and overall team dynamics, aligning well with the core themes of the category. The depth of discussion is substantial, providing specific strategies for fostering engagement through alignment of metrics and encouraging open dialogue. However, while the focus is strong, it does not delve deeply into all aspects of employee engagement, such as leadership styles or recognition practices, which slightly lowers the confidence score.",
     "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T15:05:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on measurement and behavior within organizations, without clear reference to agile principles, methodologies, or project management practices.",
-    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -1045,13 +901,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T17:16:05",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses team dynamics and the influence of metrics on behaviour, which does not directly relate to Continuous Delivery principles. While it touches on collaboration and performance metrics, it lacks explicit references to Continuous Delivery practices, automation, or software delivery cycles. The focus is more on organisational culture and engagement rather than the specific methodologies and tools associated with Continuous Delivery.",
     "level": "Ignored"
   },
@@ -1075,13 +931,13 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-03-14T14:49:36",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses how measurement influences behaviour within teams, which is a critical aspect of organisational culture. It explicitly mentions the impact of metrics on collaboration and engagement, aligning well with the category's focus on cultural elements that affect Agile practices. The depth of discussion is substantial, providing insights into how metrics can drive behaviour and the importance of aligning them with desired cultural outcomes. Overall, the content is primarily focused on organisational culture, justifying a high confidence score.",
     "level": "Secondary"
   },
@@ -1096,15 +952,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-14T18:08:08",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses how measurement influences behaviour and decision-making within teams, which aligns with the principles of evidence-based management. It highlights the importance of metrics in guiding team dynamics and fostering collaboration, but it primarily focuses on personal experiences and insights rather than structured methodologies or empirical evidence. While it touches on decision-making aspects, it lacks a comprehensive exploration of frameworks or techniques that would strengthen its alignment with the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
@@ -1133,15 +989,6 @@
     "reasoning": "Content primarily discusses measurement and behavior in organizations, which is unrelated to Product Backlog management.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T15:05:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on measurement and organizational behavior rather than Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-17T15:05:35",
@@ -1153,24 +1000,24 @@
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-03-14T18:08:05",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "While the content touches on engagement and behavior in teams, it primarily discusses measurement and metrics, rather than focusing directly on psychological safety.",
     "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-03-14T15:09:38",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses how measurement influences team dynamics and engagement, which relates to sensemaking in understanding complex organisational behaviours. It mentions the importance of metrics and alignment with desired behaviours, indicating a grasp of the principles of sensemaking. However, it lacks explicit frameworks or models and does not delve deeply into the complexities of decision-making processes, which limits its overall alignment with the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -1228,10 +1075,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T15:05:35",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses organizational behavior and measurement, not directly related to Agile values or principles.",
     "level": "Ignored"
   },
@@ -1246,13 +1093,13 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-03-13T16:23:09",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the influence of measurement on behaviour within teams, which aligns with the principles of systems thinking and organisational dynamics. However, while it touches on organisational culture and team dynamics, it does not explicitly delve into systems thinking or the broader organisational structures and processes. The depth of discussion on how metrics affect collaboration and engagement is substantial, but it lacks a comprehensive exploration of organisational physics as a whole.",
     "level": "Secondary"
   },
@@ -1267,24 +1114,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-13T15:00:22",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the impact of metrics on team behaviour and engagement, which aligns with strategic alignment and optimisation of team performance. It provides insights into how measurement influences collaboration and offers practical suggestions for aligning metrics with desired behaviours. However, while it touches on strategic concepts, it does not delve deeply into Agile, Scrum, or DevOps frameworks specifically, which slightly lowers the confidence score.",
     "level": "Secondary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T15:05:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content focuses on organizational measurement and behavior rather than the application of AI in Agile, DevOps, or software development.",
-    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1315,13 +1153,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:50:01",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the impact of measurement on team behaviour and collaboration, which does not directly relate to Test First Development principles. While it touches on metrics and team dynamics, it lacks explicit references to success criteria, testing practices, or the Test First approach, resulting in a very low confidence score.",
     "level": "Ignored"
   },
@@ -1345,13 +1183,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-14T18:08:10",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses practical strategies for improving team dynamics through measurement, which aligns well with pragmatic thinking. It directly addresses how metrics influence behaviour and collaboration, demonstrating a clear understanding of real-world applications in team settings. The depth of discussion on aligning metrics with desired behaviours and sharing personal experiences further supports its relevance to the category.",
     "level": "Secondary"
   },
@@ -1366,31 +1204,22 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-14T18:08:05",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
+    "final_score": 40.0,
     "reasoning": "The content discusses organizational measurement and behavior, but does not focus primarily on coaching techniques or the supportive nature of coaching.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T15:05:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on individual measurement and behavior within organizations rather than scaling agile practices across teams or the organization.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T15:50:03",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses team dynamics and the influence of metrics on behaviour, which are relevant to the Scrum Master's role in fostering collaboration and engagement. However, it does not explicitly mention the Scrum Master or delve into specific responsibilities or techniques associated with the role, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -1421,7 +1250,7 @@
     "reasoning": "Content heavily discusses measurement of individual behavior and its influence on engagement, not related to the delivery of software increments.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T15:05:35",
     "ai_confidence": 0,
@@ -1441,22 +1270,22 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-14T18:08:12",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the impact of measurement on team dynamics and collaboration, which aligns with the category's focus on improving team communication and fostering a culture of trust. However, it primarily centres on individual performance metrics rather than direct team collaboration techniques, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-17T15:05:35",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses how measurement influences behavior in organizations, without any clear focus on Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1480,86 +1309,86 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T18:08:05",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly touches on team dynamics and measurement, which can relate to Scrum principles, but it lacks explicit discussion of Scrum roles, events, or artifacts. The focus is more on organisational behaviour rather than Scrum-specific practices.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:42:34",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the impact of measurement on team dynamics and collaboration, which does not directly relate to the Shift-Left Strategy. While it touches on metrics and behaviours, it lacks explicit references to integrating testing, security, or compliance early in the software development lifecycle, which are core to the Shift-Left concept.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:15:52",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the impact of measurement on team behaviour and engagement, which aligns with the principles of Continuous Improvement. It highlights the importance of aligning metrics with desired behaviours and fostering a culture of collaboration, reflecting a commitment to enhancing team effectiveness. However, while it touches on relevant themes, it does not delve deeply into Continuous Improvement methodologies or frameworks, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:15:55",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of aligning metrics with desired behaviours, which relates to the concept of Common Goals. It highlights how metrics can influence team dynamics and collaboration, touching on the need for shared objectives. However, the focus is more on measurement and individual behaviour rather than explicitly defining or deeply exploring Common Goals within Agile or DevOps frameworks. The personal anecdotes and general observations dilute the primary focus on Common Goals, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:15:57",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses how metrics influence team behaviour and engagement, which indirectly relates to competence by highlighting the importance of aligning measurements with desired behaviours. However, it primarily focuses on team dynamics and measurement rather than directly addressing competence as a foundational principle in Agile or DevOps. The discussion lacks depth in exploring continuous learning or skill development, which are key aspects of competence.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:16:01",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the influence of metrics on team behaviour and collaboration, which is tangentially related to the principles of the One Engineering System. However, it does not explicitly mention 1ES or its components, nor does it focus on standardising engineering practices or integrating tools across teams. The discussion is more about general team dynamics and measurement rather than the specific framework of 1ES.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T15:49:58",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses how metrics influence team behaviour and engagement, which touches on the concept of intentional shaping of outcomes. However, it lacks explicit references to Agentic Agility and does not differentiate between human and AI capabilities. The focus is more on measurement and collaboration rather than the principles of Agentic Agility, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   }
 }

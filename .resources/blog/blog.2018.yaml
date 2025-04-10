@@ -9,7 +9,7 @@
     ResourceImportSource: Wordpress
     ResourceImportOriginalSource: Wordpress
     date: 2018-05-01
-    weight: 425
+    weight: 360
     creator: Martin Hinshelwood
     layout: blog
     resourceTypes: blog
@@ -25,18 +25,41 @@
     - /resources/blog/dod-has-made-it-illegal-to-do-waterfall
     tags:
     - Business Agility
-    - Software Development
-    - Working Software
-    - Agile Project Management
     - Organisational Agility
     - Pragmatic Thinking
+    - Software Development
     - Value Delivery
-    - News and Reviews
+    - Working Software
+    - Operational Practices
     - Agile Transformation
     - Product Delivery
-    categories:
+    - Agile Philosophy
+    - Agile Product Management
+    - Digital Transformation
+    - Continuous Improvement
+    - Agile Frameworks
+    - Agile Planning
+    - Agile Strategy
+    - Trend Analysis
+    - Market Adaptability
+    - Agile Values and Principles
+    - Enterprise Agility
+    - Empirical Process Control
+    - Frequent Releases
+    - Lean Principles
+    - Organisational Change
+    - Increment
+    - Change Management
+    - Large Scale Agility
+    - Lean Product Development
     - Social Technologies
+    - Sociotechnical Systems
+    - Technical Excellence
+    - Agile Product Operating Model
+    - Deployment Frequency
+    categories:
     - Engineering Excellence
+    - Product Management
     - Scrum
     preview: nkdAgility-dod-change-procurement-agile-wide-15-15.jpg
   BodyContent: |
@@ -145,7 +168,7 @@
     ResourceImportSource: Wordpress
     ResourceImportOriginalSource: Wordpress
     date: 2018-02-26
-    weight: 620
+    weight: 580
     creator: Martin Hinshelwood
     layout: blog
     resourceTypes: blog
@@ -164,20 +187,17 @@
     - /blog/introducing-kanban-for-professional-scrum-teams
     - /resources/blog/introducing-kanban-professional-scrum-teams
     tags:
-    - Agile Project Management
     - Software Development
-    - Practical Techniques and Tooling
     - Agile Frameworks
     - Operational Practices
     - Throughput
-    - Products and Books
-    - Events and Presentations
-    - News and Reviews
     - Flow Efficiency
+    - Agile Transformation
+    - Metrics and Learning
+    - Pragmatic Thinking
+    - Value Delivery
     categories:
-    - Social Technologies
     - Kanban
-    - Scrum
     preview: nkdagility-scrum-and-kanban-1900-2-1.png
   BodyContent: |
     A few weeks ago I was in Boston to visit the Scrum.org offices and learn to teach the [Professional Scrum with Kanban (PSK)](https://nkdagility.com/training/courses/professional-scrum-with-kanban-psk/) training class co-taught by Steve Porter and [Daniel Vacanti](https://www.linkedin.com/in/danielvacanti/). This is a new Professional Scrum training course created by Ken Schwaber, Scrum.org, the Professional Scrum Trainer Community and Daniel Vacanti who helped to develop the Kanban Method for knowledge work. The new class was [just announced by Ken & Scrum.org](https://www.scrum.org/resources/scrumorg-introduces-scrum-kanban-course-enabling-greater-transparency-among-development) and includes a [Kanban Guide for Scrum Teams](https://www.scrum.org/resources/kanban-guide-scrum-teams) that describes Kanban within the context of the [Scrum Framework](http://scrumguides.org).
@@ -238,7 +258,7 @@
     ResourceImportSource: Wordpress
     ResourceImportOriginalSource: Wordpress
     date: 2018-01-30
-    weight: 445
+    weight: 390
     AudioNative: true
     creator: Martin Hinshelwood
     layout: blog
@@ -259,19 +279,32 @@
     - /resources/blog/work-can-flow-across-sprint-boundary
     tags:
     - Software Development
-    - Transparency
-    - Increment
     - Empirical Process Control
-    - Scrum Product Development
     - Professional Scrum
+    - Transparency
     - Working Software
-    - Software Developers
-    - Agile Project Management
+    - Increment
+    - Operational Practices
+    - Pragmatic Thinking
+    - Agile Frameworks
+    - Agile Product Management
+    - Agile Planning
+    - Flow Efficiency
     - Product Delivery
+    - Value Delivery
+    - Agile Transformation
+    - Scrum Master
+    - Scrum Team
+    - Continuous Delivery
+    - Engineering Practices
+    - Throughput
+    - Team Performance
+    - Sprint Review
+    - Continuous Improvement
+    - Definition of Done
     categories:
-    - Social Technologies
-    - Scrum
     - Engineering Excellence
+    - Scrum
     preview: nkdagility-cross-sprint-boundary-2-1.png
   BodyContent: |
     There is nothing in the Scrum Guide that says that you can't have workflow across the Sprint boundary. I'm going to suggest that not only can you, but you should as long as you don't endanger the Sprint Goal.
@@ -339,7 +372,7 @@
     ResourceImportSource: Wordpress
     ResourceImportOriginalSource: Wordpress
     date: 2018-01-16
-    weight: 480
+    weight: 430
     AudioNative: true
     creator: Martin Hinshelwood
     layout: blog
@@ -361,17 +394,46 @@
     tags:
     - Agile Product Management
     - Professional Scrum
-    - Agile Project Management
-    - People and Process
-    - Organisational Agility
+    - Social Technologies
+    - Pragmatic Thinking
     - Agile Transformation
     - Software Development
-    - Pragmatic Thinking
+    - Organisational Agility
     - Sociotechnical Systems
+    - Agile Leadership
+    - Team Collaboration
+    - Value Delivery
+    - Working Software
+    - Empirical Process Control
+    - Change Management
+    - Organisational Change
+    - Team Performance
+    - Product Delivery
+    - Agile Frameworks
+    - Agile Strategy
+    - Coaching
+    - Self Organisation
     - Transparency
+    - Enterprise Agility
+    - Agile Planning
+    - Business Agility
+    - Continuous Improvement
+    - Continuous Learning
+    - Market Adaptability
+    - Operational Practices
+    - Team Motivation
+    - Organisational Physics
+    - Scrum Master
+    - Organisational Culture
+    - Agile Philosophy
+    - Common Goals
+    - Digital Transformation
+    - Competence
+    - Personal
     categories:
-    - Social Technologies
     - Scrum
+    - Technical Leadership
+    - Leadership
     preview: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg
   BodyContent: |
     Recently I worked with a new customer in Denver to help them move towards a greater degree of Scrum in their software development. The idea that Scrum is for everyone in your organisation is kind of new, but it reflects the modern understanding of the way people work, and the rejection of Taylorism and command and control. You [cant use someone else approaches to get to agility](https://nkdagility.com/organisational-change-create-path/), but you can learn from it.
@@ -441,7 +503,7 @@
     ResourceImportSource: Wordpress
     ResourceImportOriginalSource: Wordpress
     date: 2018-01-11
-    weight: 350
+    weight: 290
     creator: Martin Hinshelwood
     layout: blog
     resourceTypes: blog
@@ -462,18 +524,47 @@
     tags:
     - Business Agility
     - Enterprise Agility
-    - Resilience and Change
+    - Digital Transformation
+    - Operational Practices
     - Organisational Change
     - Value Delivery
+    - Agile Transformation
     - Organisational Agility
+    - Continuous Improvement
     - Software Development
     - Agile Leadership
+    - Change Management
+    - Pragmatic Thinking
     - Organisational Culture
-    - People and Process
+    - Agile Planning
+    - Social Technologies
+    - Agile Philosophy
+    - Market Adaptability
+    - Sociotechnical Systems
+    - Agile Frameworks
+    - Agile Strategy
+    - Continuous Learning
+    - Large Scale Agility
+    - Agile Product Management
+    - Strategic Goals
+    - Organisational Physics
+    - Decision Making
+    - Empirical Process Control
+    - Evidence Based Leadership
+    - Evidence Based Management
+    - Metrics and Learning
+    - Product Delivery
+    - Ability to Innovate
+    - Professional Scrum
+    - Scrum Master
+    - Team Collaboration
+    - Agile Product Operating Model
+    - Competence
+    - Team Performance
     categories:
     - Scrum
     - Leadership
-    - Social Technologies
+    - Technical Leadership
     preview: nkdagility-create-your-own-path-to-agility-3-3.jpg
   BodyContent: |
     Other scaled agile frameworks employ a cookie-cutter approach to organisational agility. While I accept that they may have worked somewhere once, the likelihood that the same approach will work in your organisation is small. They were created to get a unique company from their existing state to their personal vision of where they wanted to be. To increase the likelihood of success you need a framework that guides you to change your organisation in an incremental and custom fashion towards your own vision. Cookie-cutter approaches will not work for you.

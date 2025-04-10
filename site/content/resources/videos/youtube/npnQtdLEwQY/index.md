@@ -2,7 +2,7 @@
 title: 'Navigating Technical Debt: How to Transform Challenges into Opportunities for Quality and Efficiency'
 description: Discover the true cost of technical debt and poor quality in product development. Learn how to manage them for sustainable success and happier users!
 date: 2024-12-19T06:00:00Z
-weight: 275
+weight: 205
 ResourceId: npnQtdLEwQY
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -27,13 +27,14 @@ duration: 668
 isShort: false
 tags:
 - Technical Debt
-- Code and Complexity
-- Technical Mastery
 - Pragmatic Thinking
 - Software Development
+- Technical Mastery
 - Engineering Practices
 - Continuous Improvement
 - Technical Excellence
+- Decision Making
+- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -41,6 +42,8 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
+- Product Development
+- Technical Leadership
 
 ---
 Technical debt is a term that often gets thrown around in our industry, but I want to clarify what it really means and how it impacts our products and processes. From my experience, technical debt is not just a buzzword; it represents a significant cost that can accumulate over time if not managed properly. 

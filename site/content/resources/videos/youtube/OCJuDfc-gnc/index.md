@@ -26,7 +26,7 @@ preview: https://i.ytimg.com/vi/OCJuDfc-gnc/maxresdefault.jpg
 duration: 592
 isShort: false
 tags:
-- Events and Presentations
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

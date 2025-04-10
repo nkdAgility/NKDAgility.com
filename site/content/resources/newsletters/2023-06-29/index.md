@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: newsletters
 ResourceContentOrigin: Human
 date: 2023-06-29
-weight: 530
+weight: 480
 author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
@@ -21,14 +21,20 @@ aliasesArchive:
 categories:
 - Scrum
 tags:
-- Competence
 - Continuous Learning
-- Discovery and Learning
-- Events and Presentations
-- People and Process
+- Competence
 - Organisational Agility
 - Agile Transformation
-- Agile Project Management
+- Agile Frameworks
+- Agile Product Management
+- Business Agility
+- Coaching
+- Social Technologies
+- Team Collaboration
+- Market Adaptability
+- Agile Strategy
+- Pragmatic Thinking
+- Software Development
 
 ---
 Dear NKD Agilists!

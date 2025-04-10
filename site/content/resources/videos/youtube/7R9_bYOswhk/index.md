@@ -2,7 +2,7 @@
 title: Why is the Professional Agile Leadership - Essentials course a natural evolution for an experienced Scrum Master?
 description: Discover why the Professional Agile Leadership Essentials course is the next step for Scrum Masters and Agile coaches in their leadership journey.
 date: 2023-07-27T07:00:04Z
-weight: 665
+weight: 640
 ResourceId: 7R9_bYOswhk
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -31,15 +31,22 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
-- People and Process
 - Agile Leadership
-- Agile Project Management
+- Agile Strategy
+- Continuous Learning
+- Organisational Agility
+- Pragmatic Thinking
+- Software Development
+- Agile Transformation
+- Personal
+- Mentoring
 resourceTypes:
 - video
 layout: video
 categories:
 - Leadership
 - Scrum
+- Technical Leadership
 
 ---
 ## Ascending the Leadership Ladder

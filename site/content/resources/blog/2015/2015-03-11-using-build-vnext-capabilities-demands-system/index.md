@@ -9,7 +9,7 @@ ResourceImportId: 11081
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-03-11
-weight: 805
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,13 +29,12 @@ aliasesArchive:
 - /resources/blog/using-build-vnext-capabilities-demands-system
 tags:
 - Azure Pipelines
-- Install and Configuration
-- Azure DevOps
-- Practical Techniques and Tooling
 - Software Development
+- Azure DevOps
+- Install and Configuration
+- Continuous Integration
 - System Configuration
 - Windows
-- Continuous Integration
 categories: []
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 

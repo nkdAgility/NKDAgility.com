@@ -9,7 +9,7 @@ ResourceImportId: 10321
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-01-10
-weight: 910
+weight: 900
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,11 +29,14 @@ aliasesArchive:
 - /resources/blog/installing-release-management-client-visual-studio-2013
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Software Development
 - System Configuration
 - Release Management
 - Azure DevOps
+- Azure Pipelines
+- Application Lifecycle Management
+- Troubleshooting
+- Windows
 categories: []
 
 ---

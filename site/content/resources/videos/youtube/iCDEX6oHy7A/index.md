@@ -26,12 +26,12 @@ preview: https://i.ytimg.com/vi/iCDEX6oHy7A/maxresdefault.jpg
 duration: 5071
 isShort: false
 tags:
-- Software Development
-- People and Process
 - Agile Transformation
-- Agile Project Management
+- Software Development
 - Agile Frameworks
 - Competence
+- Continuous Improvement
+- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

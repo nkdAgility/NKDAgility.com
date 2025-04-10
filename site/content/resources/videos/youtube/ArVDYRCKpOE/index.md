@@ -28,7 +28,9 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Competence
+- Miscellaneous
 resourceTypes:
 - video
 categories: []

@@ -9,7 +9,7 @@ ResourceImportId: 8803
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-09-22
-weight: 665
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,15 +26,25 @@ aliasesArchive:
 tags:
 - Software Development
 - Application Lifecycle Management
-- Practical Techniques and Tooling
 - Pragmatic Thinking
 - Internal Developer Platform
 - Automated Testing
-- Product Delivery
 - Operational Practices
+- Product Delivery
 - Windows
+- Azure DevOps
+- Continuous Delivery
+- Digital Transformation
+- Frequent Releases
+- Release Management
+- Test Automation
+- Working Software
+- Technical Excellence
+- Platform Engineering
+- Technical Mastery
 categories:
 - DevOps
+- Engineering Excellence
 preview: metro-lab-5-5.png
 
 ---

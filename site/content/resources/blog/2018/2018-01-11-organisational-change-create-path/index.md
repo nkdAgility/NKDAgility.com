@@ -9,7 +9,7 @@ ResourceImportId: 11214
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2018-01-11
-weight: 350
+weight: 290
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,18 +30,47 @@ aliasesArchive:
 tags:
 - Business Agility
 - Enterprise Agility
-- Resilience and Change
+- Digital Transformation
+- Operational Practices
 - Organisational Change
 - Value Delivery
+- Agile Transformation
 - Organisational Agility
 - Continuous Improvement
 - Software Development
 - Agile Leadership
+- Change Management
+- Pragmatic Thinking
 - Organisational Culture
+- Agile Planning
+- Social Technologies
+- Agile Philosophy
+- Market Adaptability
+- Sociotechnical Systems
+- Agile Frameworks
+- Agile Strategy
+- Continuous Learning
+- Large Scale Agility
+- Agile Product Management
+- Strategic Goals
+- Organisational Physics
+- Decision Making
+- Empirical Process Control
+- Evidence Based Leadership
+- Evidence Based Management
+- Metrics and Learning
+- Product Delivery
+- Ability to Innovate
+- Professional Scrum
+- Scrum Master
+- Team Collaboration
+- Agile Product Operating Model
+- Competence
+- Team Performance
 categories:
 - Scrum
 - Leadership
-- Social Technologies
+- Technical Leadership
 preview: nkdagility-create-your-own-path-to-agility-3-3.jpg
 
 ---

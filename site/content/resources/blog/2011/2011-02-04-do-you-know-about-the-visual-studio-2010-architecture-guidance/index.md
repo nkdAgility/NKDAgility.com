@@ -9,7 +9,7 @@ ResourceImportId: 16
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2011-02-04
-weight: 810
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,8 +28,7 @@ aliasesArchive:
 - /blog/do-you-know-about-the-visual-studio-2010-architecture-guidance-
 - /resources/blog/do-you-know-about-the-visual-studio-2010-architecture-guidance
 tags:
-- Products and Books
-- Practical Techniques and Tooling
+- Software Development
 preview: metro-visual-studio-2010-128-link-4-4.png
 categories: []
 

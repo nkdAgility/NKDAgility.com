@@ -9,7 +9,7 @@ ResourceImportId: 11286
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-04-30
-weight: 850
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,7 +28,6 @@ tags:
 - Windows
 - System Configuration
 - Software Development
-- Practical Techniques and Tooling
 categories: []
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 

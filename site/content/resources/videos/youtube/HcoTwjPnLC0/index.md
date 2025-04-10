@@ -35,7 +35,8 @@ tags:
 - Product Owner
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
 
 ---
 ## Defining Roles in Agile

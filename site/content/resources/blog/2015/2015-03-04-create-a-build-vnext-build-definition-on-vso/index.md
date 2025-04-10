@@ -9,7 +9,7 @@ ResourceImportId: 11047
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-03-04
-weight: 670
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,15 +30,25 @@ aliasesArchive:
 tags:
 - Software Development
 - Azure Pipelines
-- Install and Configuration
-- Practical Techniques and Tooling
-- Windows
 - Azure DevOps
 - Continuous Integration
-- Modern Source Control
+- Install and Configuration
 - Azure Repos
+- Modern Source Control
+- Windows
 - Internal Developer Platform
-categories: []
+- Release Management
+- Technical Excellence
+- Working Software
+- System Configuration
+- Application Lifecycle Management
+- Continuous Delivery
+- Operational Practices
+- Platform Engineering
+- Product Delivery
+- Technical Mastery
+categories:
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-26-26.png
 
 ---

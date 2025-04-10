@@ -1,5 +1,6 @@
 ---
 title: Agile Product Management
+abstract: Agile Product Management is a methodology that prioritises maximising product value by aligning organisational strategy with customer needs through iterative and incremental delivery processes. Originating from Agile principles, this approach allows teams to swiftly adapt to changing market demands while ensuring that product development is informed by real user feedback. Unlike Agile Project Management, which focuses on project execution within Agile frameworks, Agile Product Management encompasses the entire product lifecycle, from discovery to delivery, fostering a culture of collaboration among cross-functional teams. This systemic approach to value delivery emphasises not only immediate outputs but also the long-term evolution of products to meet shifting user requirements. By enabling organisations to maintain a competitive edge and adapt to disruptions, Agile Product Management is essential for driving sustained growth and innovation. It enhances organisational agility and resilience, empowering teams to thrive in dynamic environments and ultimately leading to improved customer satisfaction and retention.
 ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false

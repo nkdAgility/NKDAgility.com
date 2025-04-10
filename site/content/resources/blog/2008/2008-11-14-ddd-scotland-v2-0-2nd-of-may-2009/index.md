@@ -29,7 +29,8 @@ aliasesArchive:
 - /resources/blog/ddd-scotland-v2-0-2nd-of-may-2009
 categories: []
 preview: nakedalm-logo-128-link-2-2.png
-tags: []
+tags:
+- Miscellaneous
 
 ---
 It seams that the event of the year is back! [Developer Day Scotland](http://developerdayscotland.com/) returns for a second year as [posted](http://idunno.org/archive/2008/11/12/hoots-mon-ddd-scotland-isnae-deed.aspx) by [Barry Dorrans](http://twitter.com/blowdart) in Glaswegien :)

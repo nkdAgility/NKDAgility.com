@@ -2,7 +2,7 @@
 title: "Product Ownership vs. Product Management: Busting the Myth That They're Separate Roles"
 description: "Unlock the secrets of the Product Owner's role in Scrum! Discover how they maximise value and drive Agile success. Watch now for key insights! \U0001F680"
 date: 2024-08-01T06:45:01Z
-weight: 775
+weight: 750
 ResourceId: XF-yQmPdUME
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -32,15 +32,24 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
-- People and Process
-- Agile Project Management
-- Scrum Product Development
+- Pragmatic Thinking
+- Professional Scrum
+- Agile Frameworks
+- Software Development
 - Product Owner
 - Product Delivery
 - Value Delivery
-- Professional Scrum
-- Agile Frameworks
-- Pragmatic Thinking
+- Agile Planning
+- Organisational Agility
+- Agile Strategy
+- Scrum Team
+- Agile Transformation
+- Market Adaptability
+- Agile Product Operating Model
+- Business Agility
+- Common Goals
+- Strategic Goals
+- Working Software
 resourceTypes:
 - video
 categories:

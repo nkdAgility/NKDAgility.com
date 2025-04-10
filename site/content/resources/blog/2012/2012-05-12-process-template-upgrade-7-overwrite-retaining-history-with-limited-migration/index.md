@@ -9,7 +9,7 @@ ResourceImportId: 5277
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-05-12
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,12 +28,16 @@ aliasesArchive:
 - /blog/process-template-upgrade--7-–-rename-work-items-and-import-new-ones
 - /resources/blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
 tags:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Troubleshooting
 - Software Development
-- System Configuration
+- Install and Configuration
 - Azure DevOps
+- Troubleshooting
+- System Configuration
+- Azure Boards
+- Application Lifecycle Management
+- Operational Practices
+- Pragmatic Thinking
+- Release Management
 categories: []
 
 ---

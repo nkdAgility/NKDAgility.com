@@ -9,7 +9,7 @@ ResourceImportId: 233
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-04-30
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,7 +23,9 @@ aliasesArchive:
 - /blog/major-deadline
 - /major-deadline
 - /resources/blog/major-deadline
-tags: []
+tags:
+- Pragmatic Thinking
+- Software Development
 categories: []
 preview: metro-sharepoint-128-link-5-5.png
 

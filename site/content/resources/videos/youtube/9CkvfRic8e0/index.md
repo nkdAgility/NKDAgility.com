@@ -27,10 +27,10 @@ isShort: false
 tags:
 - Install and Configuration
 - System Configuration
-- Practical Techniques and Tooling
-- Troubleshooting
 - Software Development
 - Release Management
+- Troubleshooting
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

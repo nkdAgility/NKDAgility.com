@@ -109,27 +109,27 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T09:49:29",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses cloud migration, which involves system configuration aspects such as planning, data transfer, and the use of specific tools for migration. However, while it touches on configuration-related topics, the primary focus is on the migration process itself rather than the detailed methodologies of system configuration. The discussion includes some relevant points about system performance and the need for planning, but it lacks depth in exploring configuration management tools or optimisation strategies, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-11T16:06:43",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses cloud migration, which is a component of digital transformation, but it primarily focuses on the technical aspects of the migration process rather than the strategic adoption of digital technologies for business transformation. While it touches on planning and tools, it lacks a broader discussion on how these migrations enhance business agility or foster innovation.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Working Software": {
     "category": "Working Software",
@@ -142,13 +142,13 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-14T17:18:55",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of planning and communication in the context of cloud migration, which touches on decision-making aspects. However, it lacks a structured, evidence-based approach to decision-making and does not delve into empirical methodologies or frameworks that are central to the category. The focus is more on practical advice rather than a thorough exploration of decision-making principles.",
     "level": "Ignored"
   },
@@ -199,10 +199,10 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-12T20:16:12",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration processes and challenges related to Azure DevOps, but does not focus on Azure Repos or its functionalities.",
     "level": "Ignored"
   },
@@ -217,10 +217,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T20:16:16",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges and considerations of cloud migrations, with no focus on the Definition of Done or its principles.",
     "level": "Ignored"
   },
@@ -262,11 +262,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T20:16:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:32:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects and challenges of cloud migrations, without a focus on innovation capabilities or Evidence-Based Management.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on cloud migration processes and addressing concerns about data transfer, with no explicit discussion on innovation or related metrics. While it touches on planning and structured processes, these aspects do not align with the core themes of innovation as defined in the category.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -278,21 +281,12 @@
     "reasoning": "Content primarily discusses the challenges and considerations of cloud migrations, particularly with Microsoft tools, without any focus on Agile frameworks or principles.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T20:16:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects and challenges of cloud migration, with no clear focus on scaling agile practices or principles.",
-    "level": "Ignored"
-  },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-12T20:16:27",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of DevOps migrations and the challenges associated with them, rather than focusing on team collaboration or dynamics.",
     "level": "Ignored"
   },
@@ -316,10 +310,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-12T20:16:30",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges and considerations of cloud migrations, with no focus on Cycle Time or its implications.",
     "level": "Ignored"
   },
@@ -343,13 +337,13 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-13T14:57:47",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses cloud migration, which is a relevant aspect of software development, particularly in the context of DevOps and deployment practices. However, while it touches on planning and tools related to migration, it lacks a deeper exploration of software development methodologies or practices. The focus is more on the migration process itself rather than broader software development principles.",
     "level": "Secondary"
   },
@@ -364,28 +358,31 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T20:16:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:43:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges and considerations of cloud migrations, rather than focusing on the measurement or optimisation of work completion rates.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on cloud migration processes and concerns about data integrity, with no direct discussion of throughput as a delivery metric. While it touches on planning and potential issues during migration, it does not analyse or visualise throughput, nor does it provide insights into team delivery capacity or flow-based systems. Therefore, it does not align with the key topics associated with throughput.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-12T20:16:38",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration concerns and processes related to Azure DevOps, but does not focus on Azure Pipelines specifically.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-12T20:16:39",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of DevOps migrations and cloud considerations, with no clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -454,10 +451,10 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-12T20:16:51",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration processes and challenges related to Azure DevOps, without focusing on Azure Boards or Agile project management functionalities.",
     "level": "Ignored"
   },
@@ -470,27 +467,15 @@
     "reasoning": "Content heavily discusses migration processes and challenges in cloud environments, with no mention of revenue per employee or related financial metrics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-14T17:18:55",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily discusses cloud migration and the associated challenges, which is not directly related to the role of software developers within Agile or DevOps frameworks. While it touches on tools like Azure DevOps, the focus is more on migration processes rather than best practices in software development or collaboration methodologies. The discussion lacks depth in Agile or DevOps principles, resulting in a low confidence score.",
-    "level": "Ignored"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:40:28",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on cloud migration strategies and does not discuss Test First Development principles, success criteria, or testing practices. While it mentions planning and communication, these are not specific to Test First Development, leading to a very low confidence score.",
     "level": "Ignored"
   },
@@ -514,13 +499,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-06T14:42:54",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the challenges and considerations involved in cloud migration, particularly addressing fears of incomplete data transfers and the need for planning to avoid issues. It mentions specific troubleshooting steps, such as consulting with Microsoft support when problems arise, which aligns well with the troubleshooting category. However, while it touches on troubleshooting aspects, the primary focus is on migration strategies rather than a systematic approach to diagnosing and resolving technical issues, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
@@ -535,13 +520,13 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-14T17:18:55",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses cloud migration and the use of Microsoft's tools, which implies a connection to Windows through Azure DevOps. However, the primary focus is on cloud migration rather than Windows-specific topics such as installation, configuration, or troubleshooting of the Windows operating system. While there are mentions of Microsoft tools, they are not explored in the context of Windows OS management, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -556,33 +541,24 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T20:17:10",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges and considerations of cloud migrations, with no clear focus on Lead Time or its measurement.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T20:17:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects of cloud migration and data management, with no clear focus on Agile methodologies or scaling practices.",
+    "reasoning": "Content primarily discusses the challenges and considerations of cloud migrations, with no clear focus on Lead Time or its measurement.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-06T15:43:39",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses practical strategies for cloud migration, emphasising real-world applications and problem-solving techniques. It highlights the importance of planning and communication with Microsoft support, which aligns well with the core themes of Pragmatic Thinking. The author shares personal experiences and insights, demonstrating adaptability and critical thinking in navigating migration challenges. The depth of discussion is substantial, providing specific examples and considerations that reflect a pragmatic approach to complex environments.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -591,15 +567,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges and considerations of cloud migrations rather than focusing on deployment frequency or related practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T20:17:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses DevOps migration processes and challenges, with no clear focus on Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Continuous Integration": {
@@ -622,13 +589,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T16:58:34",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on cloud migration strategies and concerns, particularly regarding data integrity during the transition to Azure DevOps. While it touches on planning and structured processes, which are relevant to Continuous Delivery, it does not explicitly discuss Continuous Delivery principles, automation, or rapid feedback mechanisms. The discussion is more about migration challenges than the Continuous Delivery practices themselves.",
     "level": "Ignored"
   },
@@ -643,10 +610,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T20:17:27",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges and considerations of cloud migrations, rather than the criteria for backlog item readiness in Agile practices.",
     "level": "Ignored"
   },
@@ -661,38 +628,20 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-12T20:17:30",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of DevOps migration and does not address team dynamics or motivation.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-12T20:17:31",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the technical aspects of DevOps migration and cloud performance issues, with no clear focus on team dynamics or collaboration.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T20:17:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the challenges and considerations of cloud migrations, particularly with Azure DevOps, without any mention of AI or its applications in Agile or DevOps practices.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T20:17:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps migration and related challenges, with no clear focus on Kanban principles or scaling practices.",
+    "reasoning": "Content primarily discusses the technical aspects of DevOps migration and cloud performance issues, with no clear focus on team dynamics or collaboration.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -758,36 +707,27 @@
     "reasoning": "Content primarily discusses migration processes and challenges related to cloud environments, with no focus on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T20:18:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps migration processes and challenges, with no clear focus on Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-14T17:18:55",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses cloud migration processes and the importance of planning to avoid incomplete data transfers, which touches on operational practices. However, it lacks a direct focus on methodologies like Agile, DevOps, or Lean, and does not provide detailed strategies for improving operational efficiency. The discussion is more about personal experiences and specific tools rather than broader operational practices.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T16:58:37",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on cloud migration processes and practical tips for ensuring data integrity during the transition to Azure DevOps. While it touches on planning and structured processes, it does not explicitly discuss Evidence-Based Management principles or metrics related to value delivery, innovation, or empirical decision-making. The discussion lacks depth in relation to the core themes of EBM, making it only tangentially related.",
     "level": "Ignored"
   },
@@ -800,24 +740,15 @@
     "reasoning": "Content primarily discusses DevOps migration processes and challenges, with no clear focus on backlog refinement or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T20:18:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps migration and related challenges, with no clear focus on Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T15:40:25",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on cloud migration strategies and does not discuss the role or responsibilities of a Scrum Master. While it touches on planning and communication, which are relevant to agile practices, it lacks direct references to Scrum principles or the Scrum Master's influence on team dynamics and organisational change.",
     "level": "Ignored"
   },
@@ -868,10 +799,10 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-12T20:18:37",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges and considerations of cloud migration rather than Agile Planning principles or methodologies.",
     "level": "Ignored"
   },
@@ -884,7 +815,7 @@
     "reasoning": "Content primarily discusses the technical aspects of DevOps migrations and does not focus on accountability, team dynamics, or ownership within Agile methodologies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T20:18:41",
     "ai_confidence": 0,
@@ -913,36 +844,36 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-14T17:18:55",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses cloud migration rather than specific deployment strategies. While it touches on planning and preparation, which are relevant to deployment, it lacks a direct focus on methodologies like Blue-Green Deployments or Canary Releases. The discussion is more about overcoming fears and ensuring data integrity during migration, which is secondary to the core themes of deployment strategies.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-12T20:18:49",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps migration processes and challenges, with no clear focus on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-14T17:18:55",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses cloud migration and the technical considerations involved, such as data transfer and the use of Microsoft's tools. However, it primarily focuses on the practical aspects of migration rather than delving into broader software craftsmanship principles or best practices. While there are mentions of technical tools and processes, the discussion lacks depth in areas like software design, architecture, or code quality, which are central to the 'Technical Mastery' category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -991,10 +922,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-12T20:18:59",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration processes and challenges related to cloud environments, with no focus on Agile planning tools or methodologies.",
     "level": "Ignored"
   },
@@ -1079,35 +1010,17 @@
     "reasoning": "Content primarily discusses DevOps migration processes and challenges, with no clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T20:14:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of cloud migration and data management, with no clear focus on organisational resilience or change management strategies.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-11T00:17:54",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 45.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 42.0,
+    "final_score": 45.0,
     "reasoning": "The content discusses aspects of cloud migration, including tools and considerations for data transfer, which relates to installation and configuration. However, it primarily focuses on the challenges and planning of migrations rather than providing detailed installation or configuration instructions. While there are mentions of tools and processes, the depth of actionable guidance is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T20:14:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process and challenges of data migration to the cloud, without addressing software code quality or complexity theory.",
-    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1118,24 +1031,15 @@
     "reasoning": "Content primarily discusses the challenges and considerations of cloud migrations, rather than optimising work throughput or flow efficiency.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T20:14:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses migration processes and challenges related to cloud environments, with no clear focus on AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-14T17:18:55",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses aspects of cloud migration, which is tangentially related to product delivery, particularly in the context of planning and execution. However, it lacks a direct focus on methodologies or practices that encompass the end-to-end process of delivering software products. While it touches on planning and the importance of understanding data transfer, it does not delve into broader product delivery concepts such as Agile methodologies, iterative development, or deployment strategies.",
     "level": "Ignored"
   },
@@ -1146,15 +1050,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps migration processes and challenges, with no clear focus on Agile Product Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T20:14:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of DevOps migrations and the challenges associated with them, without a focus on learning or discovery processes.",
     "level": "Ignored"
   },
   "Systems Thinking": {
@@ -1173,36 +1068,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the practical aspects of cloud migration and the tools involved, without a focus on complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T20:14:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of DevOps migrations and the challenges associated with them, rather than focusing on transparency and accountability within Agile teams.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-06T13:29:10",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses practical aspects of cloud migration, specifically using Microsoft's database import tool and Azure DevOps. It mentions the importance of planning and understanding the limitations of cloud versus on-premises environments, which aligns with the category's focus on practical techniques and tooling. However, while it touches on relevant tools and methodologies, the discussion lacks depth in exploring broader Agile and DevOps practices, resulting in a moderate confidence score.",
-    "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T20:15:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of cloud migrations and does not reference any events, presentations, or discussions related to Agile, DevOps, or software engineering conferences.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1225,36 +1090,27 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T10:41:14",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 59.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses cloud migration and the use of Azure DevOps, which is relevant to DevOps practices. However, it primarily focuses on the technical aspects of migration rather than the broader DevOps philosophy, principles, or cultural shifts. While it touches on planning and communication, it lacks depth in discussing collaboration, automation, or shared accountability, which are core to DevOps. Therefore, while there is some alignment, it is not the primary focus.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-14T17:18:55",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses cloud migration and mentions Azure DevOps in the context of planning and executing migrations. However, it primarily focuses on the migration process and challenges rather than the specific functionalities or best practices of Azure DevOps itself. While there are relevant points about Microsoft's tools and support, the discussion lacks depth in Azure DevOps services and methodologies, leading to a moderate confidence score.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T20:15:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges and considerations of cloud migrations, particularly with Microsoft's tools, rather than focusing on specific products or literature related to Agile or DevOps methodologies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1285,13 +1141,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-14T17:18:55",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses cloud migration and the technical aspects involved, such as data transfer and the use of Microsoft's tools. However, it primarily focuses on the practicalities and challenges of migration rather than on engineering practices or methodologies that enhance agility in software development. While there are mentions of technical tools and processes, the discussion lacks depth in areas like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
     "level": "Ignored"
   },
@@ -1313,15 +1169,6 @@
     "reasoning": "Content primarily discusses technical aspects of DevOps migrations and does not include personal experiences or reflections.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-12T20:15:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical aspects of cloud migration and data management, with minimal focus on human behaviour or team processes.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-12T20:15:26",
@@ -1331,33 +1178,24 @@
     "reasoning": "Content primarily discusses technical aspects of cloud migration and data management without addressing the interplay between social and technical systems or organisational structures.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T20:15:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects and challenges of cloud migrations, particularly with Microsoft's tools, rather than providing news or reviews related to Agile, DevOps, or technology updates.",
-    "level": "Ignored"
-  },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T20:15:29",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges and considerations of cloud migrations, rather than focusing on metrics, data analysis, or continuous improvement methodologies.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-14T17:18:55",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on cloud migration processes and concerns, which are tangentially related to Application Lifecycle Management. While it discusses planning and execution aspects that could be part of the application lifecycle, it lacks a direct focus on the broader ALM principles, such as governance, compliance, or integration of Agile and DevOps. The discussion is more about migration specifics rather than the overall management of the application lifecycle.",
     "level": "Ignored"
   },
@@ -1399,13 +1237,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T10:41:16",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on cloud migration strategies and does not discuss the Agile Product Operating Model or its principles. While it mentions planning and communication, these are not specific to agile methodologies or product management, leading to a very low confidence score.",
     "level": "Ignored"
   },
@@ -1420,13 +1258,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:46:02",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on cloud migration processes and technical considerations, with minimal reference to social technologies or collaborative frameworks. While it mentions communication and planning, these aspects are not explored in the context of enhancing collaboration or decision-making within teams, which are central to the category of Social Technologies.",
     "level": "Ignored"
   },
@@ -1450,37 +1288,37 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:40:52",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses cloud migration and data transfer issues, with no direct references to Scrum principles, roles, or practices. While it touches on planning and communication, which are relevant to project management, it does not align with the core themes of Scrum or provide any depth on Scrum-related topics.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:39:25",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on cloud migration processes and does not explicitly discuss the Shift-Left Strategy. While it touches on planning and preparation, which are relevant to early integration of processes, it lacks a direct connection to testing, security, or compliance in the software development lifecycle. The discussion is more about migration logistics rather than proactive quality assurance or early-stage integration of critical processes.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T16:58:25",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on cloud migration strategies and addressing concerns about data loss, which does not directly discuss Continuous Improvement principles. While it touches on planning and structured processes, it lacks a strong emphasis on empirical evidence, experimentation, or a culture of learning that characterises Continuous Improvement. The discussion is more operational than strategic, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -1498,13 +1336,13 @@
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T16:58:29",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses cloud migration processes and the importance of planning and communication, which are related to competence in ensuring successful outcomes. However, it does not explicitly focus on continuous learning or skill development, which are key aspects of the competence category. The discussion is more practical and operational rather than deeply exploring the principles of competence in a professional context.",
     "level": "Ignored"
   },
@@ -1522,14 +1360,170 @@
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T15:40:22",
+    "calculated_at": "2025-04-10T13:42:55",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on cloud migration processes and does not explicitly discuss Agentic Agility or its principles. While it touches on planning and communication, these aspects do not align with the core themes of intentional shaping of outcomes or the distinction between human and AI capabilities in agility.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T13:42:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on cloud migration processes and technical considerations rather than product development methodologies. While it touches on planning and communication, which are relevant to product development, it lacks a strong emphasis on iterative learning, customer feedback, or continuous improvement practices central to the category. The discussion is more about technical implementation than product strategy or development lifecycle.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T14:32:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on cloud migration processes and concerns about data integrity, with no explicit discussion on Time to Market or its associated metrics. While it touches on planning and execution, these aspects do not directly relate to optimising the speed of delivering value to customers, which is the core of the Time to Market category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T13:43:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 67.0,
+    "reasoning": "The content discusses planning and execution strategies for cloud migration, which aligns with project management principles. It mentions the importance of assessing data, engaging stakeholders, and preparing for contingencies, all of which are relevant to project management. However, the focus is primarily on cloud migration rather than broader project management methodologies or frameworks, which slightly limits its depth in the category.",
+    "level": "Secondary"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T14:32:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on cloud migration processes and addressing concerns about incomplete data transfers. It does not discuss Unrealised Value or its indicators, strategies, or relevance to Evidence-Based Management. While it touches on planning and preparation, these aspects do not align with the core themes of Unrealised Value, which is about identifying untapped opportunities and potential improvements.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T13:43:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on cloud migration and does not discuss Hybrid Agile methodologies or their implications. There are no direct mentions of Hybrid Agile, and the themes of the content do not align with the core topics outlined for this category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T14:32:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on cloud migration processes and strategies, with no explicit discussion of Current Value or its metrics. While it touches on planning and communication, it does not align with the core themes of Evidence-Based Management or provide insights into customer satisfaction or revenue impact.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T13:43:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on cloud migration processes and concerns related to data transfer, which does not align with the core themes of scaling Agile practices or frameworks. While it touches on planning and communication, these aspects are not discussed in the context of scaling methodologies or cross-team collaboration, which are essential for the 'Scaling' category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T13:43:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses cloud migration to Azure DevOps, with no direct mention of GitHub or its functionalities. While it touches on related topics like planning and data management, it does not align with GitHub's core themes or provide any depth on GitHub services, making it largely irrelevant to the GitHub category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T14:32:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on cloud migration processes and does not mention Agnostic Agile principles or discuss agile methodologies. It lacks any reference to the core themes of Agnostic Agile, such as ethical agility, context-driven practices, or comparisons with traditional frameworks.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T14:32:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on cloud migration strategies and technical considerations, with no direct mention of treating the organisation as a product or integrating customer feedback into organisational design. While it discusses planning and communication, these aspects do not align with the core themes of CaaP, which emphasises organisational strategy and customer-centric approaches.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T14:32:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on cloud migration and data transfer issues, with no direct mention or relevant discussion of Cell Structure Design or its principles. It does not align with the core themes of decentralised organisational structures or the Beta Codex.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T14:32:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on cloud migration strategies and does not mention or align with the principles or techniques of Liberating Structures. It discusses technical aspects of data transfer and planning without reference to facilitation techniques or group dynamics.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T14:32:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on cloud migration and does not discuss Open Space Agile principles or practices. While it touches on planning and communication, these are not aligned with the core themes of Open Space Agile, which emphasises collective participation and psychological safety in organisational change.",
     "level": "Ignored"
   }
 }

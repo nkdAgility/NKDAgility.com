@@ -2,7 +2,7 @@
 title: How to Achieve Predictability in Business through Agile Principles
 description: "Unlock business predictability with Agile! Join Martin Hinshelwood as he explores strategies to overcome challenges and drive consistent success. \U0001F31F"
 date: 2024-10-08T10:33:32Z
-weight: 625
+weight: 590
 ResourceId: G1BQG2tsbYg
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -31,19 +31,38 @@ sitemap:
   priority: 0.6
 tags:
 - Business Agility
+- Pragmatic Thinking
 - Agile Planning
-- Market Adaptability
-- People and Process
-- Agile Project Management
 - Agile Strategy
 - Organisational Agility
-- Pragmatic Thinking
-- Agile Values and Principles
+- Market Adaptability
 - Agile Transformation
+- Agile Values and Principles
+- Operational Practices
+- Organisational Physics
+- Agile Philosophy
+- Enterprise Agility
+- Agile Frameworks
+- Agile Product Management
+- Common Goals
+- Metrics and Learning
+- Organisational Change
+- Value Delivery
+- Product Delivery
+- Trend Analysis
+- Agile Leadership
+- Continuous Improvement
+- Decision Making
+- Social Technologies
+- Sociotechnical Systems
+- Software Development
+- Strategic Goals
+- Team Collaboration
 resourceTypes:
 - video
 categories:
 - Product Management
+- Product Development
 - Leadership
 
 ---

@@ -2,7 +2,7 @@
 title: The Importance of Patience and Trust in Building Agile Organizations
 description: "Unlock Agile success with patience! Discover how this vital virtue builds trust, navigates setbacks, and fosters a non-blame culture. Watch now! \U0001F31F"
 date: 2023-12-08T07:00:06Z
-weight: 700
+weight: 665
 ResourceId: 9VHasQBlQc8
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -30,20 +30,37 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
 - Agile Transformation
 - Empirical Process Control
 - Agile Philosophy
 - Organisational Agility
-- People and Process
+- Pragmatic Thinking
+- Social Technologies
 - Agile Strategy
 - Business Agility
-- Pragmatic Thinking
 - Psychological Safety
+- Agile Frameworks
+- Agile Leadership
+- Agile Product Management
+- Agile Values and Principles
+- Coaching
+- Organisational Change
+- Sociotechnical Systems
+- Software Development
+- Team Motivation
+- Self Organisation
+- Organisational Culture
+- Organisational Psychology
+- Scrum Values
+- Mentoring
+- Team Collaboration
+- Personal
+- Change Management
+- Continuous Learning
+- Team Performance
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Leadership
 
 ---

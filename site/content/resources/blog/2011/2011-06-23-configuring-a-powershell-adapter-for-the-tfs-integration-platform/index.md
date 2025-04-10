@@ -9,7 +9,7 @@ ResourceImportId: 3652
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-23
-weight: 810
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,10 +25,13 @@ aliasesArchive:
 - /resources/blog/configuring-a-powershell-adapter-for-the-tfs-integration-platform
 tags:
 - Install and Configuration
-- System Configuration
-- Practical Techniques and Tooling
 - Software Development
+- System Configuration
 - Pragmatic Thinking
+- Modern Source Control
+- Technical Excellence
+- Windows
+- Technical Mastery
 categories: []
 
 ---

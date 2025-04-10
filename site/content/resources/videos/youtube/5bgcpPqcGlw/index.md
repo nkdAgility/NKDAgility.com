@@ -2,7 +2,7 @@
 title: 'Mastering Site Reliability: Insights from Azure DevOps on Building a Resilient Live Site Culture'
 description: Discover how the Azure DevOps team at Microsoft balances reliability and agility in software development. Learn key SRE practices to enhance your team's performance!
 date: 2020-06-04T02:05:28Z
-weight: 235
+weight: 165
 ResourceId: 5bgcpPqcGlw
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -27,14 +27,37 @@ isShort: false
 tags:
 - Operational Practices
 - Pragmatic Thinking
-- Site Reliability Engineering
 - Azure DevOps
+- Site Reliability Engineering
 - Software Development
-- People and Process
-- Agile Project Management
 - Organisational Agility
-- Practical Techniques and Tooling
+- Technical Mastery
+- Cross Functional Teams
+- Deployment Frequency
+- Frequent Releases
+- Market Adaptability
+- Product Delivery
+- Sociotechnical Systems
+- Technical Debt
+- Technical Excellence
 - Transparency
+- Working Software
+- Increment
+- Continuous Delivery
+- Continuous Improvement
+- Value Delivery
+- Engineering Practices
+- Metrics and Learning
+- Agile Transformation
+- Enterprise Agility
+- Troubleshooting
+- Competence
+- Agile Frameworks
+- Business Agility
+- Continuous Learning
+- Customer Satisfaction
+- Digital Transformation
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,7 +68,7 @@ resourceTypes:
 categories:
 - DevOps
 - Engineering Excellence
-- Scrum
+- Technical Leadership
 
 ---
 In my journey through the world of software development and site reliability engineering, I've come to appreciate the delicate balance between engineering and operations. Today, I want to share insights from my experiences with the Azure DevOps team at Microsoft, particularly how they foster a live site culture that prioritises reliability while delivering value to customers.

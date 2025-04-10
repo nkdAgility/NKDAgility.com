@@ -9,7 +9,7 @@ ResourceImportId: 10990
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-01-07
-weight: 675
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,13 +29,18 @@ aliasesArchive:
 - /resources/blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso
 tags:
 - Application Lifecycle Management
-- Practical Techniques and Tooling
 - Software Development
-- Working Software
-- Products and Books
 - Pragmatic Thinking
+- Working Software
 - Product Delivery
-categories: []
+- Azure DevOps
+- Decision Making
+- Operational Practices
+- Release Management
+- Technical Excellence
+- Technical Mastery
+categories:
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

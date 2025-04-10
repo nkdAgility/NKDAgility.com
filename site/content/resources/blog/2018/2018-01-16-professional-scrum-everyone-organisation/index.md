@@ -9,7 +9,7 @@ ResourceImportId: 38287
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2018-01-16
-weight: 480
+weight: 430
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -31,17 +31,46 @@ aliasesArchive:
 tags:
 - Agile Product Management
 - Professional Scrum
-- Agile Project Management
-- People and Process
-- Organisational Agility
+- Social Technologies
+- Pragmatic Thinking
 - Agile Transformation
 - Software Development
-- Pragmatic Thinking
+- Organisational Agility
 - Sociotechnical Systems
+- Agile Leadership
+- Team Collaboration
+- Value Delivery
+- Working Software
+- Empirical Process Control
+- Change Management
+- Organisational Change
+- Team Performance
+- Product Delivery
+- Agile Frameworks
+- Agile Strategy
+- Coaching
+- Self Organisation
 - Transparency
+- Enterprise Agility
+- Agile Planning
+- Business Agility
+- Continuous Improvement
+- Continuous Learning
+- Market Adaptability
+- Operational Practices
+- Team Motivation
+- Organisational Physics
+- Scrum Master
+- Organisational Culture
+- Agile Philosophy
+- Common Goals
+- Digital Transformation
+- Competence
+- Personal
 categories:
 - Scrum
-- Social Technologies
+- Technical Leadership
+- Leadership
 preview: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg
 
 ---

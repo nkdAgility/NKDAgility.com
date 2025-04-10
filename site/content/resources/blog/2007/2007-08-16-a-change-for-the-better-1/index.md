@@ -27,7 +27,8 @@ aliasesArchive:
 - /a-change-for-the-better--1---merrill-lynch-to-aggreko
 - /blog/a-change-for-the-better--1---merrill-lynch-to-aggreko
 - /resources/blog/a-change-for-the-better-1
-tags: []
+tags:
+- Miscellaneous
 categories: []
 preview: metro-aggreko-128-link-1-1.png
 

@@ -10,10 +10,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T12:40:09",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on visualising workflows in Kanban rather than discussing metrics, data analysis, or learning mechanisms.",
     "level": "Ignored"
   },
@@ -46,43 +46,34 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-03-06T13:42:56",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 85.0,
     "ai_mentions": 90.0,
     "ai_alignment": 80.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 50,
-    "final_score": 82.0,
+    "final_score": 85.0,
     "reasoning": "The content explicitly discusses the use of a Kanban board, which is a central aspect of the Kanban methodology. It focuses on visualising work processes and the flow of tasks, aligning well with the core themes of Kanban. The depth of discussion is substantial, as it addresses the practical implementation of a Kanban board and the concept of single piece flow, which are critical to optimising work processes. Overall, the content is highly relevant to the Kanban category.",
     "level": "Primary"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T12:40:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Kanban boards and workflow visualisation, which are not directly related to software code quality or complexity.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T17:31:12",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on Kanban as a workflow management tool, which is not directly aligned with the core principles of DevOps. While it touches on collaboration and efficiency, it lacks explicit discussions on DevOps philosophy, automation, or shared accountability among teams. The depth of discussion is limited to practical advice on Kanban boards without connecting to broader DevOps concepts.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T12:40:27",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the conceptual aspects of Kanban boards and workflow visualisation, rather than installation or configuration processes.",
     "level": "Ignored"
   },
@@ -95,24 +86,15 @@
     "reasoning": "Content primarily focuses on Kanban board visualisation and workflow management, lacking a direct emphasis on market adaptability strategies or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T12:40:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on practical guidance for using Kanban boards rather than discussing news or reviews related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T17:31:23",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban as a workflow visualisation tool, which is more aligned with agile practices rather than the specific principles of the Agile Product Operating Model. While it touches on collaboration and efficiency, it does not discuss product management principles, governance, or the transition from project to product ethos, which are core to the APOM framework.",
     "level": "Ignored"
   },
@@ -123,24 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Kanban board visualisation and workflow management, with no clear emphasis on decision-making processes or theories.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T12:40:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the technical aspects of Kanban boards and workflow visualisation, without addressing human behaviour or team dynamics.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T12:40:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Kanban boards and workflow visualisation, with no clear focus on organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -172,25 +136,25 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-03-06T13:43:00",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the use of a Kanban board, which is a visual management tool that aligns with flow efficiency principles. It mentions the concept of single piece flow, which is directly related to optimising throughput. However, the discussion lacks depth in exploring techniques for eliminating bottlenecks or measuring flow efficiency metrics. Overall, while the topic is relevant, it does not provide a comprehensive exploration of flow efficiency, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-03-14T18:54:05",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the concept of visualising workflows and understanding how work moves through a system, which aligns with Systems Thinking principles. However, it lacks explicit discussions on foundational principles, feedback loops, or holistic analysis. The focus is primarily on Kanban methodology rather than a comprehensive exploration of Systems Thinking.",
     "level": "Ignored"
   },
@@ -205,24 +169,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-03-07T13:00:05",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Kanban, which is a Lean tool, and touches on visualising workflows and optimising processes. However, it lacks a broader discussion on Lean principles, such as waste reduction or continuous improvement, which limits its depth and alignment with the Lean category.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T12:40:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on practical guidance for using Kanban boards rather than discussing events or presentations related to Agile or DevOps.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -251,27 +206,15 @@
     "reasoning": "Content heavily discusses Kanban methodology and visualising workflows, which are not directly related to platform engineering principles.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-10T11:43:43",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content explicitly discusses the use of a Kanban board, which is a practical tool for visualising workflows. It aligns with the category by focusing on a specific methodology (Kanban) and its application in improving workflow efficiency. However, while it provides some detail on the concept of single piece flow and the need to adapt the board to current systems, it lacks comprehensive depth in exploring various tools or methodologies beyond the Kanban board itself.",
-    "level": "Secondary"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-14T18:54:05",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the use of a Kanban board, which is a tool related to workflow visualisation in product delivery. However, it primarily focuses on the mechanics of setting up a Kanban board rather than the broader methodologies and practices involved in delivering software products. While it touches on aspects of workflow and efficiency, it lacks depth in discussing key topics such as Agile methodologies, iterative development, or deployment strategies, which are central to the category of Product Delivery.",
     "level": "Ignored"
   },
@@ -293,52 +236,16 @@
     "reasoning": "Content primarily focuses on Kanban boards and visualising workflows, which are specific practices rather than broader organisational agility strategies.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T12:41:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Kanban boards and workflow visualisation, with no focus on transparency or accountability.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:41:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the practical implementation of Kanban boards and workflow visualisation, without a clear emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:31:28",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban boards and workflow visualisation, which are not directly related to Evidence-Based Management. While there are elements of process improvement and efficiency, the discussion lacks explicit references to empirical evidence, data-informed decision-making, or the specific metrics outlined in the EBM category. The content does not engage with the core themes of current value, time to market, or outcome management, leading to a low confidence score.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T12:41:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on Kanban boards and visualising workflows, with no mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T12:41:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the practical application of Kanban boards rather than specific products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
@@ -379,41 +286,23 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:54:03",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 67.0,
     "ai_mentions": 3,
     "ai_alignment": 4,
     "ai_depth": 3,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses enhancing collaboration and communication through the use of a Kanban board, which aligns with the principles of social technologies. It mentions the importance of visualisation for team collaboration and identifying bottlenecks, which are key aspects of optimising value delivery. However, while it touches on these themes, the primary focus is on the technical aspects of Kanban rather than a deeper exploration of social frameworks or methodologies. Therefore, the confidence score reflects a moderate alignment with the category.",
-    "level": "Tertiary"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T13:55:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on visualising work with Kanban boards and does not discuss scaling Kanban practices or principles relevant to large organisations.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T13:55:55",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Kanban methodologies and visualizing workflows, which are unrelated to system configuration.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T13:55:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban and workflow visualization without addressing scaling Agile practices or coordination among multiple teams.",
+    "reasoning": "Content heavily discusses Kanban methodologies and visualizing workflows, which are unrelated to system configuration.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -445,10 +334,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T13:55:55",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses mainly on the use of a Kanban board and visualizing workflows, without directly discussing Lead Time or its measurement and impact.",
     "level": "Ignored"
   },
@@ -481,10 +370,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T13:55:55",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Kanban boards and visualizing workflows, with no discussion on the Definition of Ready concepts.",
     "level": "Ignored"
   },
@@ -526,13 +415,13 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-03-11T14:23:13",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on the use of Kanban boards, which is a Lean tool for visualising workflows. It discusses the importance of understanding workflow, identifying bottlenecks, and enhancing team collaboration, all of which align with Lean principles. The mention of single piece flow and continuous improvement further strengthens its connection to Lean Thinking. However, while it covers relevant topics, it does not delve deeply into all aspects of Lean principles, such as waste identification or value stream mapping, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
@@ -581,15 +470,6 @@
     "reasoning": "Content primarily focuses on visualizing workflows in Kanban and optimizing board layout rather than discussing principles of continuous learning, knowledge sharing, or growth mindset.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T13:55:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on Kanban practices and boards, which are not related to scaling Scrum principles, roles, or frameworks.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-17T13:55:55",
@@ -619,13 +499,13 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-14T18:54:05",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Kanban and visualising workflows, which are related to empirical process control but do not explicitly discuss its principles such as transparency, inspection, and adaptation. While it touches on the importance of understanding work flow and adapting to reality, it lacks a direct discussion of empirical process control concepts and does not delve deeply into Agile methodologies or their theoretical foundations.",
     "level": "Ignored"
   },
@@ -712,15 +592,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-03-13T15:25:38",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the use of a Kanban board to visualise workflows, which aligns with Lean principles of efficiency and continuous improvement. However, it primarily focuses on Kanban practices rather than explicitly addressing Lean Product Development concepts. While it touches on aspects like identifying bottlenecks and enhancing team collaboration, it lacks a direct discussion on Lean principles or waste reduction techniques, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -778,27 +658,27 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-14T15:12:16",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on Kanban, a framework within Agile methodologies, discussing its implementation and visualisation techniques. While it touches on aspects of Agile transformation, such as workflow optimisation and team collaboration, it lacks a broader discussion on Agile principles, change management, or leadership roles in Agile transformations. Therefore, it aligns with the category but does not delve deeply into the overarching themes of Agile transformation.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-14T18:54:08",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 87.0,
     "ai_mentions": 18.0,
     "ai_alignment": 42.0,
     "ai_depth": 27.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content focuses extensively on the practical application of Kanban systems, which is a key operational practice. It discusses techniques for visualising workflows, identifying bottlenecks, and enhancing team collaboration, all of which align with the core themes of operational efficiency. The depth of discussion is substantial, providing actionable insights and recommendations for optimising Kanban boards. However, while it is detailed, it does not cover metrics or KPIs, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -825,15 +705,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban boards and workflows without addressing strategic alignment or implementation of Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T13:55:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Kanban boards and workflow visualization, which are not centered on the role of software developers in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -919,10 +790,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T13:55:55",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on the practical application of Kanban techniques and visualising workflows, which does not address the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
@@ -937,13 +808,13 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-11T16:12:09",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on the Kanban framework, discussing its implementation and practical aspects in detail. It directly mentions Kanban multiple times and explores its principles, such as visualising workflows and enhancing team collaboration. The discussion aligns well with the core themes of Agile frameworks, particularly in terms of continuous improvement and adapting processes. However, while it provides substantial depth on Kanban, it does not cover a broader range of Agile frameworks, which slightly limits its overall alignment with the category.",
     "level": "Secondary"
   },
@@ -958,13 +829,13 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-14T14:51:43",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of visualising workflows and mentions limiting work in progress, which aligns with throughput concepts. However, it lacks explicit discussions on measuring throughput or detailed strategies for optimisation, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -995,18 +866,6 @@
     "reasoning": "Content heavily discusses Kanban boards and workflow visualization, which are unrelated to employee engagement.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-11T13:12:43",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 0,
-    "final_score": 65.0,
-    "reasoning": "The content primarily focuses on the Kanban framework, discussing the importance of visualising workflows and optimising the Kanban board. While it directly mentions Kanban, it does not delve deeply into broader Agile principles or methodologies. The discussion aligns with Agile Project Management concepts, particularly around iterative processes and workflow visualisation, but lacks comprehensive coverage of other key topics such as team collaboration or metrics for success.",
-    "level": "Secondary"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
     "calculated_at": "2025-02-17T13:55:55",
@@ -1018,10 +877,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-03-14T18:54:05",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses Kanban boards, which are a tool used in Agile methodologies, but it primarily focuses on visualizing workflows rather than planning tools or methodologies specifically.",
     "level": "Ignored"
   },
@@ -1048,10 +907,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T13:55:55",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Kanban boards and workflow visualization, not on the Definition of Done.",
     "level": "Ignored"
   },
@@ -1084,15 +943,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T18:54:11",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content focuses extensively on the Kanban methodology, which is a key aspect of Agile frameworks in software development. It discusses practical steps for visualising workflows, enhancing team collaboration, and identifying bottlenecks, all of which are crucial for effective software development practices. The depth of discussion on customising Kanban boards and the importance of visualisation further solidifies its relevance to the Software Development category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1112,26 +971,17 @@
     "reasoning": "Content is primarily about visualizing workflows using Kanban, not focused on the Product Backlog.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T13:55:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Kanban and workflows, with no clear emphasis on Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-03-11T11:18:06",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the use of a Kanban board, which is a Lean tool, and touches on concepts like single piece flow and workflow visualisation. However, it lacks a comprehensive exploration of Lean principles such as waste reduction or continuous improvement, making it more of a practical guide than a deep discussion on Lean principles.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -1153,15 +1003,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-13T16:33:48",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on the use of a Kanban board, which is a tool within Agile methodologies, particularly relevant to Agile Planning. It discusses visualising workflows, enhancing team collaboration, and identifying bottlenecks, which align with Agile principles. However, it lacks explicit references to broader Agile Planning concepts such as user stories, backlogs, or iterative planning, which limits its depth in the context of Agile Planning. Overall, while it touches on relevant themes, it does not fully explore the category's core topics.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -1210,10 +1060,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T13:55:55",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the Kanban framework and its practical application, without focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -1253,15 +1103,6 @@
     "reasoning": "Content primarily discusses the practical implementation of Kanban boards and visualizing workflows, rather than strategic development or refinement within Agile frameworks.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T13:55:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Kanban boards and workflows without any mention of AI integration or applications in Agile methodologies or DevOps practices.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-17T13:55:55",
@@ -1291,13 +1132,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:57:50",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban boards and workflow visualisation, with no direct mention of Test First Development principles or practices. While it discusses aspects of workflow management that could tangentially relate to testing processes, it does not address success criteria, automated testing, or the core themes of Test First Development. Therefore, the confidence score reflects a very low alignment with the category.",
     "level": "Ignored"
   },
@@ -1321,13 +1162,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T17:56:09",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses practical aspects of using a Kanban board, which aligns with pragmatic thinking by focusing on real-world applications of workflow visualisation. It mentions the importance of adapting to the current system rather than adhering to an idealised process, reflecting the adaptability and critical thinking aspects of the category. However, it lacks direct references to Agile or Scrum frameworks and does not delve deeply into problem-solving strategies or case studies, which limits its overall depth and alignment with the category.",
     "level": "Secondary"
   },
@@ -1349,48 +1190,39 @@
     "reasoning": "Content primarily discusses Kanban and workflow visualization without focus on coaching, mentoring, or team development.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T13:55:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Kanban workflows and board management but does not address scaling agile practices or organisational agility.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T15:57:52",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban methodology and visualising workflows, with no direct mention of the Scrum Master role or its responsibilities. While it touches on concepts like team collaboration and continuous improvement, these are not specific to the Scrum framework or the Scrum Master's influence. Therefore, the content does not align well with the category.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-03-14T18:54:05",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of visualising workflows using a Kanban board, which indirectly relates to Cycle Time by addressing workflow efficiency and bottlenecks. However, it does not explicitly mention Cycle Time or provide detailed methods for measuring it, nor does it delve deeply into strategies for reducing Cycle Time. The focus is more on visualisation and workflow management rather than on Cycle Time as a primary metric.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-03-14T18:54:05",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Kanban boards and visualising workflows, which are related to Lean principles but do not explicitly discuss Value Stream Mapping. While it touches on concepts like workflow visualisation and identifying bottlenecks, it lacks a direct mention of VSM and does not delve into the specific steps or techniques associated with creating a Value Stream Map. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
@@ -1403,7 +1235,7 @@
     "reasoning": "Content heavily discusses Kanban boards and workflows, with no focus on Increment or Agile delivery of software increments.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T13:55:55",
     "ai_confidence": 0,
@@ -1459,85 +1291,85 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:46:36",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on Kanban, discussing its principles and practices without any mention of Scrum roles, events, or artifacts. There is no alignment with Scrum's core themes, and the depth of discussion is limited to Kanban concepts, which are explicitly excluded from the Scrum category.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:45:11",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban and workflow visualisation, with no direct mention of the Shift-Left Strategy or its principles. While it discusses improving processes and team collaboration, it does not address integrating testing, security, or compliance earlier in the development lifecycle, which are core aspects of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:31:15",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of visualising workflows and adapting Kanban boards, which aligns with the principles of Continuous Improvement. It mentions assessing and adjusting processes, which reflects a commitment to incremental enhancements. However, the primary focus is on Kanban methodology rather than a broader discussion of Continuous Improvement principles, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:31:17",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the practical aspects of using a Kanban board to visualise workflows, which does not directly address the concept of Common Goals. While it mentions enhancing collaboration and improving efficiency, these points are more about workflow management than aligning team efforts with overarching strategic objectives. The discussion lacks explicit references to shared objectives or the relationship between strategic and tactical goals, which are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:31:18",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of visualising workflows and adapting Kanban boards, which indirectly relates to competence through the lens of continuous improvement and efficiency. However, it lacks a direct focus on skill development or the professional growth aspects of competence, making it a secondary theme rather than a primary one.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:31:21",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban methodology and visualising workflows, which are not directly related to the One Engineering System framework. While it touches on collaboration and efficiency, it does not discuss the principles, components, or implementation of 1ES, nor does it provide insights into integration across teams or methodologies. Therefore, the confidence score reflects a minimal connection to the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T15:57:47",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban boards and workflow visualisation, which does not directly address the principles of Agentic Agility. While there are elements of adaptability and efficiency, the discussion lacks explicit references to intentional shaping of outcomes, the distinction between human and AI capabilities, or the transformative capacity of individuals and systems. Overall, the content does not align well with the core themes of Agentic Agility.",
     "level": "Ignored"
   }

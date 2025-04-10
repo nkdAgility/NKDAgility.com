@@ -2,7 +2,7 @@
 title: 'The Ghosts of Agile Past: Why Burndown Charts Might Be Holding You Back'
 description: "Uncover the truth behind burndown charts in Agile! Join Martin from NKDAgility as he debunks myths and explores better alternatives. \U0001F4CA\U0001F4A1"
 date: 2024-01-01T07:00:20Z
-weight: 995
+weight: 1000
 ResourceId: ymKlRonlUX0
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -30,15 +30,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Software Development
 - Empirical Process Control
+- Agile Philosophy
 - Agile Planning
 - Agile Values and Principles
-- Agile Philosophy
 - Pragmatic Thinking
-- Software Development
-- Agile Project Management
-- People and Process
 - Agile Frameworks
+- Organisational Agility
+- Agile Product Management
+- Agile Strategy
+- Agile Transformation
+- Flow Efficiency
+- Personal
+- Product Delivery
+- Value Delivery
 resourceTypes:
 - video
 categories: []

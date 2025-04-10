@@ -2,7 +2,7 @@
 title: 'Say-Do Metrics: Avoiding Agile Banditry in Your Organization'
 description: "Uncover the truth behind say-do metrics in Agile! Join Martin as he reveals pitfalls and shares insights for genuine outcomes. \U0001F680\U0001F4CA #Agile #Transparency"
 date: 2024-01-05T07:00:28Z
-weight: 525
+weight: 480
 ResourceId: oKZ9bbESCok
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -31,19 +31,40 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Transparency
-- Agile Project Management
 - Agile Philosophy
 - Value Delivery
+- Transparency
 - Metrics and Learning
+- Software Development
+- Agile Strategy
+- Agile Transformation
 - Agile Values and Principles
 - Psychological Safety
 - Evidence Based Management
-- Agile Strategy
-- Agile Transformation
+- Team Performance
+- Pragmatic Thinking
+- Continuous Improvement
+- Decision Making
+- Empirical Process Control
+- Evidence Based Leadership
+- Operational Practices
+- Competence
+- Agile Frameworks
+- Agile Planning
+- Agile Product Management
+- Business Agility
+- Organisational Agility
+- Organisational Culture
+- Social Technologies
+- Team Collaboration
+- Team Motivation
+- Organisational Psychology
+- Product Delivery
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
+- Technical Leadership
 
 ---
 In Agile environments, there’s often a temptation to rely on metrics that seem to offer clarity and control over a project’s progress. One such metric is the "say-do" metric, which measures what a team says they will do versus what they actually accomplish. While this may appear useful on the surface, it's often a slippery slope that leads to vanity metrics, reduced psychological safety, and, ultimately, a focus on outputs rather than outcomes.

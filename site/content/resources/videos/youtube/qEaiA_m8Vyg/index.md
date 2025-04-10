@@ -27,15 +27,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
 - Continuous Learning
-- People and Process
+- Coaching
+- Continuous Improvement
 - Customer Feedback Loops
 - Metrics and Learning
 - Empirical Process Control
-- Continuous Improvement
-- Coaching
 - Personal
+- Competence
+- Miscellaneous
+- Pragmatic Thinking
+- Team Collaboration
 resourceTypes:
 - video
 categories: []

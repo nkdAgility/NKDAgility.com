@@ -8,18 +8,6 @@
     "reasoning": "Content primarily discusses technical steps for creating a VHD from a Windows image, with no relevance to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:41:24",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 80.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content provides a detailed, step-by-step guide on converting a Windows Image file to a Virtual Hard Disk (VHD), which directly relates to practical techniques and tooling in IT. It discusses specific tools (e.g., WinRar, imageX) and methodologies for achieving the task, aligning well with the category's focus. The depth of discussion is significant, as it covers multiple steps and considerations in the process, demonstrating practical application. However, it lacks broader context on Agile or DevOps practices, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-16T01:45:27",
@@ -31,72 +19,36 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T09:06:02",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses on technical instructions for creating a VHD from a Windows 7 image disk, with no discussion or mention of Evidence-Based Management principles or metrics. It lacks any alignment with the core themes of EBM, such as data-informed decision-making or value delivery.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T01:45:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of creating a VHD from a Windows 7 image, focusing on practical steps rather than the interplay between code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T01:45:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details for creating a VHD from a Windows 7 image, with no significant discussion on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T01:45:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the process of creating a VHD from a Windows 7 image, with no mention of AI, automation, or Agile methodologies.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-16T01:45:33",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical steps for creating a VHD from a Windows image, with no reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:07:37",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed step-by-step guide on creating a VHD from a Windows 7 image disk, which directly aligns with the 'Install and Configuration' category. It explicitly discusses installation procedures, including copying files, using specific tools (like WinRar and imageX), and configuring the boot list for the new VHD. The depth of discussion is significant, as it covers multiple steps and includes troubleshooting notes, which enhances its practical value. The content is primarily focused on the technical aspects of installation and configuration, making it a strong fit for the category.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T01:45:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical steps for creating a VHD from a Windows 7 image, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content primarily focuses on technical steps for creating a VHD from a Windows image, with no discussion of sociotechnical interactions or organisational context.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T01:45:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical steps for creating a VHD from a Windows image, with no discussion on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T09:05:48",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on creating a VHD from a Windows 7 image disk, which is a technical task related to system setup rather than DevOps principles. There are no explicit discussions on collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The content lacks depth in discussing any DevOps-related concepts, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily discusses technical steps for creating a VHD from a Windows 7 image, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T01:45:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical steps for creating a VHD from a Windows image, with no reference to events, presentations, or discussions related to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T01:45:48",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of creating a VHD from a Windows image, with no focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T01:45:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical steps for creating a VHD from a Windows image, with no significant discussion on team dynamics, collaboration, or human factors in processes.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T01:45:53",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical steps for creating a VHD from a Windows 7 image, with no discussion on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -272,15 +197,6 @@
     "reasoning": "Content primarily discusses technical steps for creating a VHD from a Windows image, with no relevance to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T01:46:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of creating a VHD from a Windows 7 image, with no focus on products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-16T01:46:07",
@@ -301,13 +217,13 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-15T07:18:34",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 12.0,
     "ai_mentions": 5,
     "ai_alignment": 10,
     "ai_depth": 5,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical instructions for creating a VHD from a Windows image, with minimal personal reflection or insights related to Agile, Scrum, or DevOps. While there are brief mentions of the author's personal situation (waiting for a laptop, using a family member's device), these do not provide substantial personal anecdotes or insights relevant to the category. The technical nature of the content overshadows any personal context, leading to a low confidence score for alignment with the 'Personal' category.",
     "level": "Ignored"
   },
@@ -331,13 +247,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T09:05:59",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses entirely on technical instructions for creating a VHD from a Windows 7 image disk, with no mention or discussion of agile methodologies, product management principles, or the Agile Product Operating Model. It does not align with any of the key topics outlined in the category definition.",
     "level": "Ignored"
   },
@@ -348,15 +264,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical steps for creating a VHD from a Windows 7 image, with no discussion of organisational agility or related themes.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T01:46:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical tutorial for creating a VHD from a Windows 7 image, lacking relevance to industry news or reviews.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -379,24 +286,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T02:22:59",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a technical process of creating a VHD from a Windows 7 image disk, with no relevance to the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:18:34",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on a practical guide to converting a Windows image to a VHD, which involves technical steps and tools. However, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. While it does provide detailed instructions and some technical insights, it does not delve into the underlying principles of technical mastery, such as clean code or architectural considerations.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -409,13 +316,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T09:06:05",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on creating a VHD from a Windows 7 image disk, which is a technical task related to system setup rather than Continuous Delivery. There are no direct mentions of Continuous Delivery principles, practices, or automation. The discussion lacks alignment with the core themes of Continuous Delivery, such as rapid feedback, incremental improvements, or cultural aspects. Overall, the content does not provide any depth on Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
@@ -430,10 +337,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T02:22:59",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the process of creating a VHD from a Windows 7 Image disk and personal experiences while waiting for equipment, rather than focusing on Lead Time as a metric or its implications.",
     "level": "Ignored"
   },
@@ -448,10 +355,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T02:22:59",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the process of creating a virtual hard disk from a Windows image file, with no mention or relevance to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -565,10 +472,10 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-16T02:23:00",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses creating a VHD from a Windows 7 image disk, with no focus on automated testing principles or methodologies.",
     "level": "Ignored"
   },
@@ -601,31 +508,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T15:11:29",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on a practical guide for converting a Windows Image file to a Virtual Hard Disk (VHD), which is a technical task related to software deployment. While it does touch on aspects of software development, such as the use of tools and processes for installation, it lacks a broader discussion on methodologies or best practices in software development. The depth of discussion is limited to specific steps without delving into underlying principles or frameworks, resulting in a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T02:23:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on technical steps for creating a VHD from a Windows image, with no relation to agile methodologies or project management practices.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T02:23:00",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical instructions for creating a VHD from a Windows 7 image disk, which is unrelated to Agile values and principles.",
     "level": "Ignored"
   },
@@ -719,15 +617,6 @@
     "reasoning": "Content focuses entirely on technical steps for creating a VHD from a Windows image and does not discuss customer satisfaction or related concepts.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T02:23:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is entirely focused on creating a VHD from a Windows image and does not mention Scrum, Agile practices, or scaling methodologies.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T02:23:00",
@@ -744,15 +633,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses entirely on technical instructions for creating a VHD from a Windows 7 image disk, with no mention of psychological safety or related themes.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T02:23:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses creating a virtual hard disk from a Windows image and troubleshooting related processes, which are unrelated to scaling agility or agile practices.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -820,29 +700,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T02:23:00",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical steps for converting a Windows image, with no focus on innovation capabilities, frameworks, or evidence-based management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T02:23:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily about technical steps to create a VHD from a Windows 7 image disk, with no discussion of Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T02:23:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is entirely focused on converting a Windows image file to a VHD and does not discuss any Scaled Agile principles, frameworks, or practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -883,10 +745,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-16T02:23:00",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical steps to create a VHD from a Windows 7 image, lacking discussions on functional software delivery, user requirements, or Agile principles.",
     "level": "Ignored"
   },
@@ -991,10 +853,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T02:23:00",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on creating a VHD from a Windows 7 image and does not discuss the concept or measurement of Cycle Time.",
     "level": "Ignored"
   },
@@ -1052,7 +914,7 @@
     "reasoning": "Content primarily focuses on technical steps to create a virtual hard disk from a Windows Image file, with no discussion of strategic digital transformation topics or the adoption of digital technologies for business innovation or efficiency.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T02:23:00",
     "ai_confidence": 0,
@@ -1061,26 +923,17 @@
     "reasoning": "Content discusses the process of creating a VHD from a Windows 7 image, which is unrelated to Minimum Viable Product development or market validation.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T02:23:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily focuses on creating a Virtual Hard Disk (VHD) from a Windows 7 image, with no discussion or mention of AI, Agile methodologies, or DevOps practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T10:42:09",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on the process of creating a VHD from a Windows 7 image, which directly relates to system configuration. It discusses specific steps involved in the configuration of a virtual hard disk, including copying files, using tools like WinRar and imageX, and modifying boot settings with bcdedit commands. The detailed procedural nature of the content aligns well with the key topics of system configuration, such as software installation and configuration, and system optimisation strategies. However, while the content is rich in practical steps, it lacks a broader discussion on best practices or troubleshooting, which slightly lowers the depth score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1120,37 +973,37 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:26:34",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 5.0,
     "ai_mentions": 0.0,
     "ai_alignment": 0.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on creating a VHD from a Windows 7 image disk, detailing a step-by-step process without any mention of Test First Development principles, success criteria, or testing practices. It lacks any discussion on automated or manual testing, making it irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-10T18:52:45",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 38,
     "ai_depth": 40,
     "non_ai_confidence": 50,
-    "final_score": 88.0,
+    "final_score": 92.0,
     "reasoning": "The content is primarily focused on creating a Virtual Hard Disk (VHD) from a Windows 7 image, which directly relates to installation and configuration aspects of the Windows operating system. It provides detailed steps and procedures, including the use of specific tools like imageX and commands for managing VHDs, aligning well with the key topics of the Windows category. The discussion is thorough, covering multiple steps and considerations, which enhances the depth of the content. Overall, the content is highly relevant to the Windows category.",
     "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-15T07:18:34",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on creating a VHD from a Windows image, which is more about installation and setup rather than deployment strategies. While it mentions 'deploying' an image, it lacks a comprehensive discussion on methodologies or practices related to deployment strategies such as Blue-Green Deployments or Canary Releases. The content does not provide actionable insights into deployment strategies, making it only tangentially related to the category.",
     "level": "Ignored"
   },
@@ -1174,10 +1027,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-16T02:23:00",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses creating a VHD from a Windows 7 image disk and does not address remote working, Agile methodologies, or associated practices.",
     "level": "Ignored"
   },
@@ -1192,13 +1045,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T12:07:43",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on the process of creating a VHD from a Windows image, which involves steps that could be seen as troubleshooting related to system setup and installation. However, it lacks explicit discussions on diagnosing or resolving specific issues, which is a key aspect of the Troubleshooting category. The content does provide some practical steps and tools, but it does not delve deeply into problem-solving methodologies or case studies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1213,13 +1066,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:26:37",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content is focused entirely on technical instructions for creating a VHD from a Windows 7 image disk, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the core themes of the Scrum Master category, nor does it provide any depth or relevant discussion on the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
@@ -1234,20 +1087,11 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-16T02:23:00",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the technical process of creating a VHD from a Windows image, with no mention of working agreements or team collaboration.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T02:23:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses personal experiences with creating a VHD from a Windows 7 image, with no focus on software development methodologies, practices, or the role of software developers in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1367,15 +1211,6 @@
     "reasoning": "Content is primarily about technical steps for converting a Windows image to a VHD and does not discuss accountability in Agile teams.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T02:23:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on creating a VHD from a Windows 7 image disk and does not discuss Kanban principles or scaling Kanban in any capacity.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T02:23:00",
@@ -1396,13 +1231,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:44:18",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical instructions for creating a VHD from a Windows 7 image disk, with no discussion of collaboration, decision-making, or value delivery. It lacks any mention of social technologies or their principles, making it irrelevant to the category.",
     "level": "Ignored"
   },
@@ -1435,73 +1270,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:52:41",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical instructions for creating a VHD from a Windows 7 image, with no direct mentions or discussions related to Scrum principles, roles, events, or practices. It lacks any alignment with the core themes of Scrum, such as team dynamics or iterative processes, and provides minimal depth on any relevant topics.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:34:48",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the technical process of creating a VHD from a Windows image, with no direct mention or discussion of the Shift-Left Strategy. It lacks alignment with the core themes of integrating testing, security, or compliance early in the software development lifecycle, and does not provide any depth on these topics.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T09:05:51",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a technical guide for creating a VHD from a Windows 7 image disk, with no explicit discussion of Continuous Improvement principles. While there is a mention of enhancing system efficiency, it lacks depth and alignment with the core themes of Continuous Improvement, such as empirical evidence, experimentation, or team effectiveness.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T09:05:54",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical instructions for creating a VHD from a Windows 7 image disk, with no explicit discussion of Common Goals, Agile, or DevOps principles. While there are mentions of efficiency and setup, these do not connect to the core themes of shared objectives or strategic alignment within teams.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T09:05:56",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a technical process for creating a VHD from a Windows 7 image disk, with no explicit discussion of competence, continuous learning, or skill development. While it may imply a level of technical competence required to perform the task, it does not delve into the principles of professionalism, quality delivery, or the importance of competence in Agile or DevOps contexts. Therefore, it aligns very minimally with the category of 'Competence'.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:26:32",
+    "calculated_at": "2025-04-10T15:56:08",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical instructions for creating a VHD from a Windows 7 image disk. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The content lacks any mention of intentional shaping of outcomes, adaptability, or alignment with values, which are core to the concept of Agentic Agility.",
     "level": "Ignored"
   }

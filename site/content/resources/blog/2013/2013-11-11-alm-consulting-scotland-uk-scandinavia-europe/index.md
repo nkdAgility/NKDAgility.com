@@ -9,7 +9,7 @@ ResourceImportId: 10226
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-11-11
-weight: 445
+weight: 390
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -34,11 +34,15 @@ aliasesArchive:
 tags:
 - Software Development
 - Application Lifecycle Management
-- Practical Techniques and Tooling
-- Product Delivery
 - Operational Practices
 - Pragmatic Thinking
-categories: []
+- Product Delivery
+- Competence
+- Continuous Delivery
+- Release Management
+- Technical Mastery
+categories:
+- Engineering Excellence
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

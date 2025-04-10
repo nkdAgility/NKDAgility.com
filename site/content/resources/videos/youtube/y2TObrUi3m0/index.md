@@ -30,12 +30,17 @@ tags:
 - Agile Values and Principles
 - Agile Philosophy
 - Software Development
-- Agile Project Management
-- Coaching
-- People and Process
 - Agile Planning
 - Agile Transformation
+- Coaching
 - Organisational Agility
+- Agile Leadership
+- Agile Product Management
+- Business Agility
+- Pragmatic Thinking
+- Agile Strategy
+- Decision Making
+- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

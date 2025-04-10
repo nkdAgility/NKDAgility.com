@@ -32,8 +32,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
 - Continuous Learning
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories: []

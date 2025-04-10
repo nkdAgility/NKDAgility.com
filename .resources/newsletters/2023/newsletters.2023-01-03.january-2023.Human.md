@@ -20,10 +20,12 @@ aliasesArchive:
 - /newsletters/january-2023/
 - /resources/newsletters/january-2023/
 categories:
-- Social Technologies
 - Scrum
-- Product Management
-tags: []
+tags:
+- Agile Transformation
+- Organisational Agility
+- Agile Frameworks
+- Software Development
 
 ---
 Welcome to this month's edition of NKDAgility.

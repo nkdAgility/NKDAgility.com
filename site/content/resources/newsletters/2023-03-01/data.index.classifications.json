@@ -1,27 +1,27 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T20:20:23",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on an Immersion Program for learning and training in Scrum methodologies, with no explicit discussion of DevOps principles or practices. While there are mentions of collaboration and retrospectives, these concepts are not framed within the context of DevOps, which emphasises continuous value delivery and shared accountability across development and operations. The content lacks depth in discussing any DevOps-related themes, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:16:04",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses an Immersion Program that promotes collaboration and practical application of learning, which aligns with the principles of social technologies. It mentions self-paced learning and retrospectives, indicating a focus on continuous improvement and collective intelligence. However, the primary focus is on the structure of the program rather than a deep exploration of social technologies as a framework, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -43,13 +43,13 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-15T01:22:21",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses an Immersion Program aimed at enhancing learning for Product Owners, which is relevant to product management. However, it primarily focuses on the educational format and delivery rather than the strategic aspects of product management. While there are mentions of Scrum and the role of Product Owners, the depth of discussion on product management methodologies and frameworks is limited, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -64,82 +64,58 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-03-15T01:23:08",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content briefly mentions the Professional Scrum Product Owner Immersion course, which relates to the Product Owner role. However, the primary focus is on the immersion program's structure and benefits rather than the specific responsibilities, skills, or practices of a Product Owner. The discussion lacks depth in addressing the core themes of the Product Owner's role, such as backlog management or stakeholder engagement.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-15T01:22:55",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses an Immersion Program that enhances learning through practical application and retrospectives, which aligns with the iterative learning cycle and continuous improvement principles. However, it lacks explicit discussions on metrics, data analysis, or evidence-based decision-making, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-15T01:23:36",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses an Immersion Program specifically designed for Professional Scrum Product Owners, highlighting the application of Scrum principles in a learning context. It mentions Scrum roles and the importance of retrospectives, which aligns with Scrum practices. However, the focus is more on the training format rather than an in-depth exploration of Scrum principles, roles, or practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-15T01:22:53",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses an Immersion Program related to Professional Scrum training, which aligns with Agile frameworks. However, the focus is primarily on the format of the training rather than a deep exploration of Agile principles or a comparative analysis of frameworks. While Scrum is mentioned, the discussion lacks depth in terms of Agile methodologies and their broader implications.",
-    "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-15T01:22:33",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 20,
     "final_score": 62.0,
-    "reasoning": "The content discusses an Immersion Program for Scrum Product Owners, which aligns with Scrum principles and practices. It mentions the role of the Professional Scrum Trainer and incorporates elements of experiential learning and retrospectives, which are relevant to Scrum. However, the primary focus is on the training format rather than detailed Scrum practices, leading to a moderate confidence score.",
-    "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-15T01:22:51",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses an Immersion Program that includes live sessions and training, which aligns with the category of Events and Presentations. However, while it mentions the format and benefits of the program, it lacks detailed discussions on specific events or presentations, leading to a moderate confidence score.",
+    "reasoning": "The content discusses an Immersion Program related to Professional Scrum training, which aligns with Agile frameworks. However, the focus is primarily on the format of the training rather than a deep exploration of Agile principles or a comparative analysis of frameworks. While Scrum is mentioned, the discussion lacks depth in terms of Agile methodologies and their broader implications.",
     "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T10:22:33",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the structure of a learning program rather than the validation of product ideas through user engagement.",
     "level": "Ignored"
   },
@@ -181,49 +157,49 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T10:22:33",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning programs and training formats rather than Application Lifecycle Management practices, stages, tools, or methodologies.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-18T10:22:33",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses immersion programs and experiential learning rather than remote working practices or Agile methodologies in a remote context.",
     "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-03-15T01:23:17",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses immersive learning experiences and the benefits of applying knowledge in real-world contexts, which aligns with Lean principles of continuous improvement and value creation. However, it primarily focuses on educational formats rather than explicitly addressing Lean concepts or waste reduction. The mention of retrospectives hints at iterative learning, but the overall discussion lacks depth in Lean-specific tools or methodologies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T10:22:33",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a new immersion program for learning, discussing training formats and benefits without addressing the Definition of Done.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-03-15T01:22:21",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses immersive learning programs for Scrum but lacks a focus on evidence-based management principles and empirical data to inform leadership decisions.",
     "level": "Ignored"
   },
@@ -247,15 +223,15 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-03-13T15:46:22",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 67.0,
     "ai_mentions": 3,
     "ai_alignment": 75.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Immersion Program, which promotes self-paced learning and real-world application, aligning with self-organisation principles. It mentions retrospectives and collaboration, which are key aspects of self-organising teams. However, the focus is more on the learning format rather than on self-organisation as a primary theme, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -325,70 +301,70 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T01:22:26",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses an Immersion Program for Scrum training, which relates to Agile methodologies in software development. However, the focus is primarily on the learning format and benefits rather than on software engineering practices or methodologies themselves. While it mentions Scrum, it lacks in-depth discussion of software development processes, making it a secondary mention rather than a primary focus.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-15T01:22:48",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 30,
-    "final_score": 68.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses an Immersion Program that emphasises experiential learning and practical application, which aligns with coaching principles. However, it primarily focuses on course structure and delivery rather than the coaching process itself. While there are mentions of collaboration and engagement, the depth of discussion on coaching techniques and the role of a coach is limited.",
     "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-15T01:23:05",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses an Immersion Program that incorporates elements of experiential learning and retrospectives, which are relevant to Agile principles. However, it primarily focuses on the format of training rather than Agile Planning methodologies, making Agile Planning a secondary theme rather than a primary focus.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-15T01:22:30",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses an Immersion Program that incorporates Agile principles, such as retrospectives and real-world application of learning, which aligns with the Agile Strategy category. However, the primary focus is on the learning format rather than a strategic discussion of Agile methodologies or their implementation at an organisational level. While there are mentions of Agile concepts, they are not the central theme, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-15T01:22:35",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 67.0,
     "ai_mentions": 3,
     "ai_alignment": 75.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Immersion Program, which incorporates retrospectives and real-world application of learning, aligning with Agile principles. It mentions collaboration and engagement among students, which are key aspects of team dynamics. However, the focus is more on the learning format rather than directly on team performance strategies or methodologies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-18T10:22:33",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses immersive learning programs and does not focus on Lean principles, waste reduction, or continuous improvement methodologies related to Lean.",
     "level": "Ignored"
   },
@@ -421,10 +397,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-18T10:22:33",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses immersive learning programs and training formats, with no clear focus on change management strategies or practices.",
     "level": "Ignored"
   },
@@ -439,27 +415,27 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-03-15T01:23:03",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Immersion Program, which incorporates elements of experiential learning and retrospectives for improvement, aligning with the idea of applying learning in real-world contexts. However, while it mentions conducting small experiments at work, the primary focus is on the structure and benefits of the Immersion Program rather than a systematic exploration of hypothesis-driven experimentation within Agile workflows. The discussion lacks depth in terms of specific experimentation techniques or detailed analysis of results, which limits its alignment with the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-15T01:23:25",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the Immersion Program, which is designed to enhance learning through real-world application and retrospectives, aligning closely with the principles of Continuous Learning. It highlights the importance of practical experience, collaboration, and reflection, all of which are key themes in the category. The depth of discussion on how the program facilitates ongoing education and skill development further supports a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -497,34 +473,13 @@
     "reasoning": "Content primarily discusses immersive learning programs and course formats rather than technical craftsmanship, engineering practices, or software development principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T01:22:21",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses an Immersion Program aimed at enhancing learning experiences for software developers, particularly in the context of Scrum. However, it primarily focuses on the structure and benefits of the program rather than delving deeply into Agile or DevOps methodologies. While there are mentions of Scrum and the role of developers, the discussion lacks depth in terms of best practices or tools that support Agile and DevOps, which are central to the category.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-18T10:22:33",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning programs and training methodologies rather than Lean Product Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T10:22:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the structure and benefits of immersive learning programs for Scrum training, with no clear focus on software code quality or complexity.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -556,15 +511,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T17:09:38",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content briefly mentions Scrum Masters in the context of training courses aimed at improving their skills, but it primarily focuses on the Immersion Program and its benefits. While there is some alignment with the role of a Scrum Master in terms of facilitating learning and improvement, the depth of discussion on the specific responsibilities and impact of a Scrum Master is minimal. Overall, the content does not provide a comprehensive exploration of the Scrum Master role.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -577,25 +532,25 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-15T01:22:37",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Immersion Program, which focuses on experiential learning and applying knowledge in real-world contexts, aligning with the principles of iterative development and customer value. However, while it touches on aspects of value delivery, such as practical application and retrospectives, it lacks a comprehensive exploration of value management strategies or methodologies within Agile or Scrum frameworks.",
     "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-15T01:22:21",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses an Immersion Program aimed at enhancing learning through practical application and retrospectives, which aligns with some aspects of technical leadership, particularly in fostering collaboration and continuous improvement. However, it lacks a direct focus on the principles of technical leadership, such as mentoring, coaching, or agile methodologies in a leadership context. The discussion is more about course structure and benefits rather than guiding development teams or influencing team dynamics.",
     "level": "Ignored"
   },
@@ -637,23 +592,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-15T01:22:21",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses an 'Immersion Program' aimed at enhancing learning outcomes through experiential methods, which aligns with the principles of organisational change by promoting effective learning and adaptation. However, it primarily focuses on educational delivery rather than broader organisational change strategies or frameworks. The mention of applying learning to real-world contexts hints at change but lacks depth in discussing methodologies or frameworks for organisational transformation.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T10:22:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on immersive learning programs and Scrum training without discussing scaling Agile practices across multiple teams or enterprise-level initiatives.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -665,36 +611,24 @@
     "reasoning": "The content is primarily focused on experiential learning and describes an Immersion Program for Scrum training, which does not directly discuss Lean Thinking principles or the elimination of waste, continuous improvement, or Lean tools.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T01:23:11",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 30,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses the Immersion Program, which focuses on experiential learning and collaboration among students, aligning well with the themes of team dynamics and effective processes. It highlights the importance of applying learning in real-world contexts, retrospectives for improvement, and the role of trainers in facilitating this process. The depth of discussion on how these methods enhance engagement and collaboration further supports its alignment with the 'People and Process' category.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-18T10:22:33",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on immersive learning programs and training formats in Scrum, with no clear connection to platform engineering or internal developer platforms.",
     "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-15T01:23:20",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses an Immersion Program aimed at enhancing learning through practical application, which aligns with the principles of business agility. However, it primarily focuses on educational methodologies rather than directly addressing broader business agility concepts such as organisational adaptability or leadership roles in agile transformations. The discussion lacks depth in exploring how these learning methods contribute to overall business agility, resulting in a moderate confidence score.",
     "level": "Ignored"
   },
@@ -727,23 +661,23 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T10:22:33",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning programs and does not address the Definition of Ready or related concepts.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-18T10:22:33",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on immersive learning programs and course delivery methods, with no clear or significant discussion of Lead Time or its associated metrics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T10:22:33",
     "ai_confidence": 0,
@@ -754,23 +688,14 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-15T01:22:21",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the structure and benefits of an Immersion Program for learning, with limited direct discussion on Agile leadership principles. While it touches on aspects of experiential learning and collaboration, it lacks a strong emphasis on leadership roles, strategies for empowering teams, or fostering a culture aligned with Agile values. The mention of retrospectives hints at continuous improvement, but overall, the content does not delve deeply into the leadership aspects of Agile.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T10:22:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on immersive learning and training formats, with no primary discussion on AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -784,15 +709,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-15T01:23:23",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Immersion Program, which incorporates elements of experiential learning, retrospectives, and the application of knowledge in real-world contexts. While it touches on inspection and adaptation, it does not explicitly focus on empirical process control principles or Agile methodologies in depth. The mention of retrospectives aligns with the category, but the overall discussion is more about learning formats than empirical process control itself.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -805,52 +730,43 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-11T11:40:57",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses an Immersion Program that encourages collaboration among students and applies learning in real-world contexts, which aligns with team dynamics and shared ownership principles. However, the primary focus is on the learning format rather than explicit team collaboration techniques or Agile methodologies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-15T01:23:27",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses an Immersion Program that enhances learning through real-world application and retrospectives, which aligns with Agile principles of continuous improvement and adaptability. However, it lacks a direct focus on broader market adaptability strategies or methodologies like DevOps or Lean principles. The discussion is primarily centred on educational formats rather than explicit market responsiveness, leading to a moderate confidence score.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T10:22:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses immersive learning and training formats in Scrum, without any focus on AI integration in Agile or DevOps.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T10:22:33",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses an educational format for Scrum training and does not focus on working software or its delivery.",
     "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T10:22:33",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the Immersion Program and its benefits in learning, with no direct reference to the Daily Scrum or its related topics.",
     "level": "Ignored"
   },
@@ -874,24 +790,12 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-18T10:22:33",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on immersive learning programs and training formats without any mention of Product Backlog discussions or Agile principles related to backlog management.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-15T01:23:00",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses an Immersion Program that incorporates elements of Agile Project Management, particularly through the lens of Scrum training. It mentions retrospectives and practical application of learning, which align with agile principles. However, the focus is more on the learning format rather than a deep exploration of agile methodologies or project management practices, leading to a moderate confidence score.",
-    "level": "Tertiary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -911,86 +815,56 @@
     "reasoning": "Content discusses learning programs and course structures without relating to troubleshooting technical issues.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-15T01:22:28",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses an Immersion Program for Scrum training, which aligns with the category by focusing on a specific educational product. However, it lacks detailed reviews or analyses of literature or tools, and while it mentions the benefits and structure of the program, it does not delve deeply into how these resources enhance understanding of Agile or DevOps principles.",
-    "level": "Secondary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T10:22:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses a specific training program and its structure rather than providing news or reviews relevant to Agile or DevOps trends in the industry.",
-    "level": "Ignored"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-03-15T01:23:34",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Immersion Program, which enhances student engagement and motivation through practical application and collaboration. It mentions the importance of real-world application and retrospectives, aligning with team dynamics and motivation. However, the primary focus is on course structure and delivery rather than explicit team motivation strategies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-18T10:22:33",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an educational program structure and delivery methods, lacking personal reflections or experiences related to Agile, Scrum, or DevOps.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T10:22:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on immersive learning programs and course offerings rather than discussions of scaling Scrum at the organizational level or among multiple teams.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-18T10:22:33",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning programs and training formats without directly addressing cross-functional teams or their role in Agile methodologies.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T10:22:33",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on immersive learning programs for Scrum training rather than discussing Scrum Values themselves.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-15T01:22:58",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses an Immersion Program for Professional Scrum Product Owners, which relates to Agile principles and training. However, it primarily focuses on the format of the training rather than the core aspects of Agile Product Management, such as backlog prioritisation or stakeholder engagement. While there are mentions of Scrum and experiential learning, the depth of discussion on Agile Product Management practices is limited.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1024,15 +898,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-11T14:45:41",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses an Immersion Program for Scrum training, which includes elements relevant to Scrum Teams, such as practical application of learning and retrospectives. However, it lacks a detailed exploration of Scrum roles, team dynamics, or collaboration techniques, making it more of a secondary mention rather than a primary focus on Scrum Teams.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -1081,60 +955,51 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-15T01:23:30",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses immersive learning programs that incorporate elements of Agile philosophy, such as retrospectives and real-world application of learning. However, it primarily focuses on the structure and benefits of the immersion program rather than explicitly addressing the broader Agile principles or the Agile Manifesto. While there are mentions of collaboration and continuous improvement, these are secondary to the main topic of course delivery methods.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T01:22:23",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses an Immersion Program aimed at enhancing learning outcomes through practical application, which aligns with the principles of product delivery. It mentions methodologies like Scrum and the importance of real-world application, but lacks a comprehensive exploration of the end-to-end product delivery process, focusing more on educational delivery rather than software product delivery specifically.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T10:22:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Immersion Program for experiential learning within individual courses, focusing on team-level training rather than organizational-level scaling agility.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-14T15:32:47",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses an 'Immersion Program' that enhances learning through real-world application and retrospectives, which aligns with the principles of organisational agility. However, it primarily focuses on educational methodologies rather than broader organisational strategies or cultural shifts. While it mentions aspects of agility, such as applying learning and retrospectives, it lacks a comprehensive exploration of organisational agility as a primary focus.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-13T16:54:56",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses an Immersion Program that incorporates elements of Agile learning, such as retrospectives and real-world application, which aligns with Agile principles. However, it primarily focuses on the format of training rather than a comprehensive discussion on Agile transformation strategies or methodologies. The mention of Scrum roles indicates some relevance, but the overall depth and focus on Agile transformation are limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1143,27 +1008,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning programs and Scrum training, which do not directly relate to portfolio management practices or strategic alignment of projects.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-03-15T01:23:32",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the Immersion Program, which enhances learning through real-world application and retrospectives, aligning with the principles of adaptability and continuous improvement. However, it lacks a direct focus on organisational resilience or change management practices, making it a secondary theme rather than a primary focus.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T10:22:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning programs and training formats without a clear focus on transparency or accountability within Agile teams.",
     "level": "Ignored"
   },
   "Agile Planning Tools": {
@@ -1183,18 +1027,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on immersive learning programs and training formats rather than software release practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T01:22:46",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the Immersion Program as a practical learning technique that enhances the application of Scrum principles in real-world contexts. It provides insights into how this method can improve team performance and learning outcomes, aligning with the category's focus on practical techniques. However, while it mentions some tools and methodologies, the depth of discussion on specific Agile and DevOps tools is limited, and the primary focus is more on the learning format rather than a comprehensive exploration of tooling.",
-    "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -1216,10 +1048,10 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-18T10:22:33",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the details of an immersion program for Scrum training instead of focusing on product discovery methodologies or customer needs.",
     "level": "Ignored"
   },
@@ -1243,27 +1075,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T20:20:40",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses an Immersion Program that incorporates elements of experiential learning and retrospectives, which align with agile principles. However, it primarily focuses on the learning format rather than the Agile Product Operating Model itself. There are brief mentions of Scrum and product ownership, but the core discussion does not centre on the APOM framework or its key topics.",
     "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-15T01:22:43",
-    "ai_confidence": 87.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 32.0,
-    "non_ai_confidence": 20,
-    "final_score": 80.0,
-    "reasoning": "The content primarily focuses on the Immersion Program, which is designed to enhance learning through real-world application and retrospectives. It discusses the importance of experiential learning, self-paced resources, and the benefits of applying knowledge in practical contexts, aligning well with the core themes of discovery and learning. However, while it mentions these concepts, the depth of discussion on methodologies and frameworks for fostering innovation is somewhat limited, preventing a higher score.",
-    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1292,60 +1112,51 @@
     "reasoning": "Content focuses on immersive learning and training programs without any mention of automated testing principles, practices, or methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T10:22:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersion programs for experiential learning and professional Scrum training, without a focus on Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T18:20:48",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the Immersion Program, which focuses on practical application of learning in real-world contexts, aligning well with the principles of Pragmatic Thinking. It highlights experiential learning, retrospectives for improvement, and the importance of applying knowledge in a collaborative environment. The depth of discussion on how the program enhances learning through practical experience and adaptability further supports its alignment with the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-18T10:22:33",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning programs and course structures, with no clear focus on Cycle Time or its measurement within Agile or DevOps.",
     "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-18T10:22:33",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the delivery methods and benefits of an 'Immersion Program' for learning rather than structured decision-making processes or evidence-based methodologies.",
     "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-03-15T01:22:21",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
+    "final_score": 40.0,
     "reasoning": "The content discusses experiential learning and an immersion program, which relates to engagement and adaptive learning methods, but does not specifically address Beta Codex principles or decentralized organizational design.",
     "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-18T10:22:33",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses immersion programs in Scrum but does not directly address working agreements, their creation, or their implementation within teams.",
     "level": "Ignored"
   },
@@ -1369,19 +1180,19 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-18T10:22:33",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the structure and format of learning programs rather than product strategy concepts like vision formulation, roadmapping, or market analysis.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T10:22:33",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses immersive learning and retrospectives, which align with Agile principles, but predominantly focuses on course offerings and formats rather than a thorough exploration of Agile values.",
     "level": "Tertiary"
   },
@@ -1396,13 +1207,13 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-15T01:22:40",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses an Immersion Program that enhances learning through real-world application and collaboration, which aligns with sociotechnical principles. However, it primarily focuses on educational methods rather than the broader interplay between technology and organisational structures. The mention of collaboration and practical application hints at sociotechnical aspects, but the depth of discussion on organisational culture or structure is minimal.",
     "level": "Ignored"
   },
@@ -1474,37 +1285,37 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T10:22:34",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning programs and Scrum training, lacking focus on installation and configuration topics.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T10:22:34",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses innovative learning approaches through the Immersion Program, emphasizing practical application and continuous improvement, aligning it with the theme of innovation and adaptation within educational contexts.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T10:22:34",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses a new learning format (Immersion Program) that incorporates practical application and retrospectives, which align with operational practices in improving learning and applying Scrum methodologies. However, the focus is primarily on the learning experience rather than on direct techniques to enhance operational efficiency.",
     "level": "Tertiary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:02:51",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning programs and Scrum training, with no clear focus on Internal Developer Platforms or related topics.",
     "level": "Ignored"
   },
@@ -1519,85 +1330,85 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:27:11",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 75.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the Professional Scrum Product Owner Immersion program, which is directly related to Scrum principles and practices. It mentions Scrum roles, such as the Professional Scrum Trainer, and incorporates key Scrum concepts like retrospectives and real-world application of learning. The depth of discussion includes specific benefits and characteristics of the immersion program, aligning well with Scrum's focus on iterative learning and team collaboration. However, while Scrum is a significant focus, the content also includes broader educational themes, which slightly reduces the overall confidence score.",
     "level": "Secondary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:07:30",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on immersive learning programs and training methodologies rather than discussing the Shift-Left Strategy in software development. While there are elements of experiential learning that could tangentially relate to early engagement in learning, there is no explicit mention of integrating testing, security, or compliance earlier in the software development lifecycle, which is central to the Shift-Left concept.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T20:20:27",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the Immersion Program, which incorporates elements of Continuous Improvement through retrospectives and real-world application of learning. It highlights the importance of adapting learning methods to enhance effectiveness, which aligns with the principles of Continuous Improvement. However, while it touches on these themes, the primary focus is on the program's structure and benefits rather than a comprehensive exploration of Continuous Improvement as a standalone topic.",
     "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T20:20:30",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the Immersion Program and its benefits for experiential learning, which is somewhat related to the concept of aligning learning with practical application. However, it lacks explicit discussions on Common Goals within Agile and DevOps frameworks. While it touches on collaboration and engagement, it does not delve into the strategic alignment or ownership aspects that are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T20:20:33",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the Immersion Program, which focuses on practical application and continuous learning, aligning well with the principles of competence. It highlights the importance of real-world application, retrospectives for improvement, and the need for ongoing skill development. The depth of discussion on how the program enhances learning outcomes and fosters a culture of competence is significant, although it does not explicitly mention competence as a term frequently.",
     "level": "Secondary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:20:36",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on an Immersion Program for experiential learning and does not explicitly discuss the One Engineering System or its principles. While there are elements of collaboration and practical application, these are not framed within the context of 1ES. The discussion lacks depth regarding integration of tools and processes, best practices, or challenges related to a unified engineering system.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T17:09:32",
+    "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses an Immersion Program that enhances learning through real-world application and retrospectives, which aligns with the principles of Agentic Agility. However, it lacks explicit mentions of the concept and does not differentiate between human and AI capabilities. The focus is more on learning methodologies rather than the intentional shaping of outcomes, resulting in a low confidence score.",
     "level": "Ignored"
   }

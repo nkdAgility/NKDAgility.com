@@ -23,7 +23,8 @@ aliasesArchive:
 - /blog/tfs-event-handler-v1-3-released
 - /tfs-event-handler-v1-3-released
 - /resources/blog/tfs-event-handler-v1-3-released
-tags: []
+tags:
+- Software Development
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

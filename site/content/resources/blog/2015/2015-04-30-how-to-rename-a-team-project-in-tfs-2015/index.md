@@ -25,6 +25,7 @@ aliasesArchive:
 - /resources/blog/how-to-rename-a-team-project-in-tfs-2015
 tags:
 - Install and Configuration
+- Windows
 categories: []
 preview: clip_image0041-4-4.png
 

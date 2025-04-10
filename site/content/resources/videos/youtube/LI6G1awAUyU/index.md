@@ -2,7 +2,7 @@
 title: 'Unlocking Rapid Delivery: Overcoming Common DevOps Challenges for Agile Success'
 description: Unlock faster product delivery in your organisation! Discover how to streamline processes, embrace change, and enhance your DevOps practices today.
 date: 2023-04-21T07:00:06Z
-weight: 700
+weight: 665
 ResourceId: LI6G1awAUyU
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -28,14 +28,17 @@ duration: 370
 isShort: false
 tags:
 - Software Development
-- Software Developers
 - Operational Practices
 - Pragmatic Thinking
-- People and Process
-- Product Delivery
-- Value Delivery
 - Organisational Agility
 - Market Adaptability
+- Product Delivery
+- Value Delivery
+- Agile Philosophy
+- Business Agility
+- Continuous Improvement
+- Continuous Delivery
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

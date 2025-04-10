@@ -52,7 +52,7 @@ videos:
 - title: Overview of The Scrum Framework with Martin Hinshelwood
   embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
 date: 2024-09-17
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 card:
   button:
@@ -62,16 +62,32 @@ card:
 categories:
 - Scrum
 tags:
-- Transparency
 - Professional Scrum
-- Scrum Product Development
-- Empirical Process Control
-- Scrum Team
-- Software Development
-- Agile Product Management
+- Transparency
 - Agile Frameworks
-- Agile Project Management
+- Scrum Team
+- Empirical Process Control
+- Agile Product Management
+- Software Development
+- Value Delivery
+- Product Backlog
+- Scrum Master
+- Scrum Values
+- Agile Planning
+- Product Delivery
+- Team Performance
+- Sprint Review
 - Increment
+- Definition of Done
+- Agile Transformation
+- Product Owner
+- Working Software
+- Self Organisation
+- Daily Scrum
+- Cross Functional Teams
+- Team Collaboration
+- Operational Practices
+- Pragmatic Thinking
 
 ---
 The Scrum Guide is the rule book, or timber frame, of Scrum and is immutable of definition but not of implementation. If you have already read the Scrum Guide and are looking more for a Strategy Guide then head over to the Scrum Strategy Guide.

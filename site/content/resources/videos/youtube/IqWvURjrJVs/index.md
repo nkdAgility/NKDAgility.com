@@ -24,7 +24,8 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/IqWvURjrJVs/maxresdefault.jpg
 duration: 255
 isShort: false
-tags: []
+tags:
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4

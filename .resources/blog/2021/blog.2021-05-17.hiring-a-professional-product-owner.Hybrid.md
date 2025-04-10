@@ -9,7 +9,7 @@ ResourceImportId: 46138
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-05-17
-weight: 770
+weight: 750
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -41,16 +41,28 @@ aliasesArchive:
 - /resources/blog/hiring-a-professional-product-owner
 tags:
 - Product Owner
-- Agile Product Management
-- Agile Project Management
 - Professional Scrum
 - Scrum Team
-- Scrum Product Development
-- Accountability
-- Product Delivery
+- Agile Product Management
 - Software Development
+- Product Delivery
+- Value Delivery
 - Product Backlog
+- Pragmatic Thinking
+- Agile Frameworks
+- Decision Making
+- Evidence Based Leadership
+- Evidence Based Management
+- Competence
+- Agile Planning
+- Agile Strategy
+- Operational Practices
+- Strategic Goals
+- Team Collaboration
+- Transparency
+- Agile Product Operating Model
 categories:
+- Product Management
 - Scrum
 preview: image-3-3.png
 

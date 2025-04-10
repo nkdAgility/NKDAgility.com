@@ -33,12 +33,13 @@ sitemap:
 tags:
 - Continuous Improvement
 - Agile Frameworks
-- Agile Project Management
 - Software Development
-- Transparency
 - Operational Practices
+- Transparency
 - Lean Principles
 - Lean Thinking
+- Social Technologies
+- Throughput
 resourceTypes:
 - video
 categories:

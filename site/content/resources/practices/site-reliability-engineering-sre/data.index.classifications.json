@@ -1,26 +1,17 @@
 {
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-13T09:56:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Site Reliability Engineering practices and team responsibilities, with no clear focus on AI applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-14T18:02:28",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly touches on aspects of team collaboration, such as building trust and transparency, which are relevant to the category. However, it primarily focuses on the practices of Site Reliability Engineering and the responsibilities of engineering teams rather than exploring the dynamics of teamwork or communication in Agile or DevOps contexts. The discussion lacks depth in terms of specific techniques or strategies for enhancing team collaboration.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-13T09:56:33",
     "ai_confidence": 0,
@@ -103,25 +94,25 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-14T18:02:28",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 35.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 32.0,
+    "final_score": 35.0,
     "reasoning": "The content briefly mentions transparency, which is a key aspect of empirical process control, but it primarily focuses on Site Reliability Engineering practices rather than a thorough discussion of empirical process control principles. The alignment with core themes is limited, and while there is some depth in discussing practices, it does not delve into the theoretical foundations or detailed techniques related to empirical process control.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-06T13:31:53",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses practical experiences and strategies related to running a production site, which aligns with pragmatic thinking. It mentions the shift-left movement and the importance of transparency and telemetry, indicating a focus on real-world applications in a DevOps context. However, while it touches on relevant themes, the depth of discussion on specific pragmatic techniques and case studies is limited, preventing a higher confidence score.",
     "level": "Secondary"
   },
@@ -145,10 +136,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-13T09:56:55",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Site Reliability Engineering practices and the shift-left movement, without a clear focus on measuring or enhancing innovation capabilities.",
     "level": "Ignored"
   },
@@ -181,22 +172,22 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T15:44:56",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Site Reliability Engineering (SRE) and does not explicitly discuss the role or responsibilities of a Scrum Master. While there are mentions of team dynamics and practices that could tangentially relate to agile principles, the core themes of the Scrum Master role are not addressed. The discussion lacks depth regarding Scrum-specific techniques or the influence of a Scrum Master on organisational change.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-13T09:57:02",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Site Reliability Engineering practices and the responsibilities of engineering teams, rather than focusing on team performance or collaboration within Agile frameworks.",
     "level": "Ignored"
   },
@@ -229,13 +220,13 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:06:47",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses Site Reliability Engineering (SRE) and the shift-left movement, with a focus on operational practices rather than evidence-based management principles. There are no direct mentions of empirical decision-making or metrics related to current value, time to market, or other key topics of EBM. The discussion lacks depth in relation to the category, making it clear that EBM is not a primary focus.",
     "level": "Ignored"
   },
@@ -250,10 +241,10 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-13T09:57:10",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Site Reliability Engineering (SRE) practices and the Azure DevOps Services team's experiences, with no clear focus on Azure Boards or Agile project management.",
     "level": "Ignored"
   },
@@ -277,13 +268,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T17:06:45",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Site Reliability Engineering (SRE) and its practices, which are related to operational aspects of software delivery rather than the principles of Continuous Delivery. While there are mentions of practices that could support Continuous Delivery, such as transparency and telemetry, the focus is not explicitly on Continuous Delivery itself. The discussion lacks depth in terms of Continuous Delivery principles and does not provide specific techniques or case studies related to the category.",
     "level": "Ignored"
   },
@@ -343,10 +334,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-13T09:57:27",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Site Reliability Engineering practices and the responsibilities of engineering teams, without a clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -361,70 +352,49 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-13T09:57:29",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Site Reliability Engineering practices and does not address the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-13T09:57:30",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Site Reliability Engineering practices and does not focus on the Definition of Done.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-13T09:57:32",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Site Reliability Engineering practices and the experiences of a specific team, without a clear focus on cross-functional teams or their characteristics.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-14T18:02:28",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses practices related to engineering teams and their responsibilities in running a production site, which aligns with the role of software developers. However, it primarily focuses on Site Reliability Engineering (SRE) rather than Agile or DevOps methodologies specifically. While there are mentions of transparency and on-call practices, the discussion lacks depth in Agile principles and does not explicitly address the core themes of the Software Developers category.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-13T09:57:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses Site Reliability Engineering practices and the Azure DevOps Services team's experiences, with no clear focus on scaling Agile methodologies or frameworks.",
+    "reasoning": "Content primarily discusses Site Reliability Engineering practices and the experiences of a specific team, without a clear focus on cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T18:02:30",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses practices related to Site Reliability Engineering (SRE), which is closely aligned with software development methodologies, particularly in the context of DevOps. It mentions the shift-left movement, which is relevant to CI/CD practices, and touches on operational aspects that are crucial for software development. However, the discussion lacks depth in specific software development methodologies and best practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-13T09:57:39",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Site Reliability Engineering (SRE) practices and the Azure DevOps Services team's experiences, without a clear focus on Azure Repos functionalities or source control management.",
     "level": "Ignored"
   },
@@ -475,13 +445,13 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-14T14:49:18",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses practices related to running a production site and the responsibilities of engineering teams, which aligns with operational efficiency. However, it lacks explicit mentions of Agile, DevOps, or Lean methodologies and does not delve deeply into specific techniques or strategies for process optimisation or continuous improvement.",
     "level": "Secondary"
   },
@@ -514,13 +484,13 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-03-06T14:44:56",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 30,
-    "final_score": 68.0,
+    "final_score": 72.0,
     "reasoning": "The content explicitly mentions Site Reliability Engineering and discusses practices relevant to running a production site, which aligns with SRE principles. However, the focus is more on the experiences of a specific team rather than a comprehensive exploration of SRE concepts. While it touches on important aspects like transparency and on-call practices, it lacks depth in discussing SLOs, SLIs, and other core SRE metrics, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -580,20 +550,11 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-13T09:58:04",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Site Reliability Engineering (SRE) practices and the experiences of the Azure DevOps Services team, without a clear focus on Azure Pipelines or CI/CD processes.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-13T09:58:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses Site Reliability Engineering practices and the shift-left movement, with no clear focus on Agile Project Management principles or methodologies.",
+    "reasoning": "Content primarily discusses Site Reliability Engineering (SRE) practices and the experiences of the Azure DevOps Services team, without a clear focus on Azure Pipelines or CI/CD processes.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -634,10 +595,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-13T09:58:12",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical practices and responsibilities related to Site Reliability Engineering rather than team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -713,15 +674,6 @@
     "reasoning": "Content primarily discusses Site Reliability Engineering (SRE) practices and does not focus on Behaviour Driven Development principles or collaboration among stakeholders.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-13T09:58:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Site Reliability Engineering practices and does not focus on Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Product Strategy": {
     "category": "Product Strategy",
     "calculated_at": "2025-02-13T09:58:25",
@@ -742,34 +694,34 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T09:51:13",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses practices related to running a production site, which aligns with the principles of software craftsmanship and engineering excellence. However, it primarily focuses on operational aspects rather than deep technical methodologies or best practices in software design and architecture. The mention of transparency and telemetry indicates some alignment with technical mastery, but the depth of discussion on these topics is limited, preventing a higher confidence score.",
     "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-03-13T15:22:13",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 30,
-    "final_score": 64.0,
+    "final_score": 68.0,
     "reasoning": "The content briefly mentions the importance of transparency in the context of SRE practices, indicating a recognition of its role in building trust with customers. However, the discussion lacks depth and does not explore transparency in Agile methodologies or provide specific techniques or tools to promote it. The focus is more on operational practices rather than a thorough examination of transparency as a core theme.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-13T09:58:30",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Site Reliability Engineering practices and the Azure DevOps Services team's experiences, which are not directly related to Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -811,25 +763,25 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-06T14:44:54",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses practices related to running a production site, which touches on aspects of engineering excellence such as transparency and telemetry. However, it lacks a direct focus on software craftsmanship principles, coding standards, or CI/CD practices. The discussion is somewhat relevant but does not delve deeply into the core themes of engineering excellence, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-14T18:02:28",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the transition from on-premises to a SaaS solution, which aligns with digital transformation themes. However, it lacks explicit mentions of digital technologies enhancing business agility or detailed strategies for digital transformation initiatives. The focus is more on operational practices rather than a comprehensive exploration of digital transformation.",
     "level": "Ignored"
   },
@@ -849,15 +801,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Site Reliability Engineering practices and the responsibilities of engineering teams, with no clear focus on technical debt management or its implications.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-13T09:58:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Site Reliability Engineering practices and the Azure DevOps Services team's experiences, with no clear focus on scaling Scrum principles or frameworks.",
     "level": "Ignored"
   },
   "Remote Working": {
@@ -894,15 +837,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Site Reliability Engineering practices and does not focus on backlog refinement or related Agile practices.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-13T09:58:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Site Reliability Engineering practices and the shift-left movement, with no clear focus on scaling agile principles or frameworks.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -959,15 +893,6 @@
     "reasoning": "Content heavily discusses Site Reliability Engineering practices rather than validating product ideas through user engagement.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-13T09:59:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Site Reliability Engineering (SRE) practices and the Azure DevOps Services team's experiences, with no clear focus on Kanban principles or scaling Kanban methodologies.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-13T09:59:03",
@@ -1015,13 +940,13 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-13T14:59:16",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 52.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 49.0,
+    "final_score": 52.0,
     "reasoning": "The content discusses practices related to running a production site, which touches on aspects of engineering practices such as transparency and telemetry. However, it lacks a direct focus on Agile methodologies, clean code, or TDD, which are core to the category. The discussion is somewhat relevant but does not delve deeply into the principles of Agile engineering practices.",
     "level": "Tertiary"
   },
@@ -1036,13 +961,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:44:59",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses Site Reliability Engineering (SRE) and the shift-left movement, which are not directly related to Test First Development principles. There are no explicit mentions of Test First practices, success criteria, or testing methodologies. The focus is on operational practices rather than the testing-first approach, leading to a very low confidence score.",
     "level": "Ignored"
   },
@@ -1057,24 +982,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T13:56:00",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 63.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the Azure DevOps Services team and their transition to a SaaS solution, which indicates a direct mention of Azure DevOps. However, the focus is more on Site Reliability Engineering (SRE) practices rather than the specific functionalities or methodologies of Azure DevOps. While there is some alignment with the themes of collaboration and operational practices, the depth of discussion on Azure DevOps itself is limited, primarily touching on broader SRE concepts rather than detailed Azure DevOps functionalities.",
     "level": "Secondary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-13T09:55:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses practices and experiences related to Site Reliability Engineering and Azure DevOps, without a focus on specific products or literature relevant to Agile or DevOps methodologies.",
-    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1105,27 +1021,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-14T18:02:28",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the responsibilities of engineering teams and the importance of transparency and telemetry, which are relevant to sociotechnical systems. However, it lacks a direct discussion of the interplay between social and technical aspects, and does not delve deeply into organisational structures or team dynamics. The focus is more on technical practices rather than the broader sociotechnical context.",
     "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-10T17:52:19",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content briefly mentions transparency in the context of building trust with customers and discusses practices related to running a production site. However, it does not delve deeply into the principles of transparency and accountability within Agile teams, nor does it provide substantial detail on how these concepts are implemented or their impact on team dynamics. The focus is more on operational practices rather than the core themes of the category.",
-    "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -1147,13 +1051,13 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-14T18:02:28",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on concepts related to metrics, such as telemetry and transparency, which are relevant to the category. However, it primarily focuses on the operational aspects of Site Reliability Engineering (SRE) rather than a comprehensive discussion on metrics and learning. The mention of practices to cope with running a production site indicates some alignment with continuous improvement, but the depth of discussion lacks a thorough exploration of evidence-based decision-making or feedback loops, which are central to the category.",
     "level": "Ignored"
   },
@@ -1168,84 +1072,36 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-13T09:55:52",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses practices and experiences related to Site Reliability Engineering, focusing on team responsibilities and operational transparency rather than installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-13T09:55:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Site Reliability Engineering practices and the shift-left movement, which are not directly related to AI and automation in Agile frameworks.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-13T09:55:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Site Reliability Engineering practices and experiences rather than news or reviews related to Agile, DevOps, or technology updates.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T10:44:16",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 50,
-    "final_score": 66.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses Site Reliability Engineering (SRE) and its connection to the shift-left movement, which aligns with DevOps principles. However, while it touches on relevant topics such as transparency and telemetry, it lacks a comprehensive exploration of DevOps as a philosophy. The focus is more on SRE practices rather than a broader DevOps discussion, leading to a moderate confidence score.",
     "level": "Secondary"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-11T00:19:42",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the shift-left movement and its impact on engineering teams, which touches on team dynamics and the need for collaboration in a production environment. However, while it mentions practices like transparency and on-call responsibilities, it lacks a deeper exploration of human behaviour and structured methodologies. The focus is more on technical practices rather than the interplay between people and processes, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-13T16:22:17",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses practices related to running a production site, which touches on aspects of technical excellence such as transparency and telemetry. However, it lacks a direct focus on specific engineering methodologies like TDD or CI/CD, and the depth of discussion on these practices is limited. The primary emphasis seems to be on operational aspects rather than the core themes of technical excellence.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-13T09:56:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses practices and experiences related to Site Reliability Engineering, without a clear focus on events or presentations.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-13T09:56:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Site Reliability Engineering practices and team responsibilities, with no clear focus on code quality or complexity theory.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -1274,30 +1130,6 @@
     "reasoning": "Content heavily discusses Site Reliability Engineering (SRE) practices and principles, which are closely related to DevOps and do not fit the Miscellaneous category.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-03-14T18:02:28",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses practices that help engineering teams cope with running a production site, which touches on resilience in the context of operational challenges. However, it lacks a direct focus on organisational resilience and change management principles. While it mentions transparency and protecting teams from disruptions, it does not delve deeply into strategies for fostering a culture of adaptability or change management practices, leading to a moderate confidence score.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T14:19:14",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses practices related to Site Reliability Engineering (SRE) and touches on aspects like transparency and telemetry, which are relevant to tooling and methodologies in DevOps. However, it lacks explicit mentions of specific tools or frameworks, and the depth of discussion on practical techniques is limited. Overall, while it aligns with the category's themes, it does not provide sufficient detail or direct references to tools or methodologies to warrant a higher confidence score.",
-    "level": "Tertiary"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-13T09:56:16",
@@ -1318,15 +1150,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-14T18:02:28",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions the shift-left movement and touches on practices relevant to running a production site, which can relate to agility in terms of responsiveness and collaboration. However, it lacks a direct focus on enterprise agility as a primary theme, and the discussion is more centred on operational practices rather than broader organisational agility principles.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1364,15 +1196,6 @@
     "reasoning": "Content primarily discusses Site Reliability Engineering (SRE) practices and the shift-left movement, which are not central to the methodologies and practices of product delivery.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-13T09:56:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Site Reliability Engineering practices and team responsibilities without a focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-13T09:56:27",
@@ -1393,10 +1216,10 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T12:11:34",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Site Reliability Engineering (SRE) practices and experiences, which are not central to Platform Engineering.",
     "level": "Ignored"
   },
@@ -1411,13 +1234,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T10:44:19",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on Site Reliability Engineering (SRE) and the shift-left movement, which are not directly related to the Agile Product Operating Model. While there are mentions of practices that could be tangentially related to agile methodologies, the core principles and discussions around product management and the Agile Product Operating Model are absent. The content does not provide any substantial detail or direct references to the key topics outlined in the APOM framework.",
     "level": "Ignored"
   },
@@ -1432,13 +1255,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:47:10",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions transparency and the need for collaboration in the context of Site Reliability Engineering, but it primarily focuses on technical practices and the shift-left movement. While there are elements that touch on social technologies, such as building trust and protecting feature teams, the overall emphasis is on operational aspects rather than a deep exploration of social frameworks or methodologies that promote collaboration and decision-making.",
     "level": "Ignored"
   },
@@ -1462,85 +1285,85 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T18:02:28",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly mentions concepts like transparency, which aligns with Scrum principles, but it primarily focuses on Site Reliability Engineering (SRE) practices rather than Scrum itself. There are no direct mentions of Scrum roles, events, or artifacts, and the discussion lacks depth in relation to Scrum's core themes.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:40:26",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content briefly mentions the 'shift-left movement' in relation to engineering teams taking on more responsibility, which indicates a connection to the Shift-Left Strategy. However, it lacks a detailed discussion on integrating testing, security, or compliance early in the development process. The focus is more on operational practices and team dynamics rather than the core principles and benefits of the Shift-Left Strategy. Therefore, while there is some relevance, it does not provide a comprehensive exploration of the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:06:33",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on practices related to running a production site and mentions transparency and telemetry, which can relate to Continuous Improvement. However, it lacks a direct focus on the principles of Continuous Improvement, such as empirical evidence, data-driven decision-making, or a culture of experimentation. The discussion is more centred on operational practices rather than a commitment to ongoing improvement and learning.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:06:37",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the shift-left movement and the responsibilities of engineering teams, which could relate to common goals in terms of aligning team efforts with operational practices. However, it lacks explicit discussions on shared objectives, strategic alignment, or frameworks like OKRs. The focus is more on operational practices and experiences rather than the foundational principles of Common Goals in Agile and DevOps.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:06:40",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 35.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 32.0,
+    "final_score": 35.0,
     "reasoning": "The content briefly touches on the importance of practices that help engineering teams cope with running a production site, which relates to competence in terms of skill development and maintaining trust. However, it lacks a direct focus on continuous learning or the depth of discussion required to fully align with the principles of competence. The mention of transparency and telemetry hints at quality outcomes but does not delve deeply into the strategies for fostering a culture of competence.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:06:42",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 24.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses Site Reliability Engineering (SRE) and its practices, which are not directly related to the One Engineering System (1ES). While there are mentions of engineering practices and team responsibilities, the focus is on SRE principles rather than the integration and standardisation of engineering processes as outlined in the 1ES framework. The discussion lacks depth regarding 1ES and does not provide relevant examples or comparisons, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T15:44:53",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses Site Reliability Engineering and the shift-left movement, focusing on operational practices rather than the intentional shaping of outcomes through agency and adaptability. There are no explicit mentions of Agentic Agility, and the themes do not align with the core principles of the category. The depth of discussion is minimal, lacking any exploration of human or AI agency in the context of agility.",
     "level": "Ignored"
   }

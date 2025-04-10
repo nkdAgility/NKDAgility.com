@@ -31,9 +31,8 @@ aliasesArchive:
 - /resources/blog/tfs-integration-tools-issue-unable-to-find-a-unique-local-path
 tags:
 - Troubleshooting
-- Practical Techniques and Tooling
-- Install and Configuration
 - Software Development
+- Install and Configuration
 - Windows
 categories: []
 preview: puzzle-issue-problem-128-link-2-2.png

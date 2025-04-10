@@ -9,7 +9,7 @@ ResourceImportId: 68
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-04
-weight: 650
+weight: 610
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,15 +29,16 @@ aliasesArchive:
 - /resources/blog/solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
 tags:
 - Automated Testing
-- Practical Techniques and Tooling
+- Technical Mastery
 - Software Development
 - Test Automation
-- Technical Mastery
 - Pragmatic Thinking
 - Technical Excellence
 - Engineering Practices
 - Troubleshooting
 - Install and Configuration
+- Continuous Integration
+- Working Software
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
 - Engineering Excellence

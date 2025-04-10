@@ -27,15 +27,32 @@ duration: 496
 isShort: false
 tags:
 - Business Agility
+- Organisational Agility
 - Pragmatic Thinking
 - Value Delivery
-- Organisational Agility
 - Market Adaptability
-- Agile Strategy
 - Enterprise Agility
+- Agile Strategy
 - Agile Product Management
+- Agile Philosophy
 - Agile Values and Principles
-- People and Process
+- Decision Making
+- Evidence Based Management
+- Organisational Change
+- Product Delivery
+- Unrealised Value
+- Continuous Improvement
+- Decision Theory
+- Evidence Based Leadership
+- Social Technologies
+- Sociotechnical Systems
+- Strategic Goals
+- Entrepreneurship
+- Project Management
+- Ability to Innovate
+- Current Value
+- Organisational Physics
+- Portfolio Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,6 +60,7 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Product Development
 - Scrum
 
 ---

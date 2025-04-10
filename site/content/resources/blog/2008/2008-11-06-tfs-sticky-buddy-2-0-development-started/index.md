@@ -9,7 +9,7 @@ ResourceImportId: 173
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-06
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,7 +27,8 @@ aliasesArchive:
 - /tfs-sticky-buddy-2-0-development-started…
 - /blog/tfs-sticky-buddy-2-0-development-started…
 - /resources/blog/tfs-sticky-buddy-2-0-development-started
-tags: []
+tags:
+- Software Development
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

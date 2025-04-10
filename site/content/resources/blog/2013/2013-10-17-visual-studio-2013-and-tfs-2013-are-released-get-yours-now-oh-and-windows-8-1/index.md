@@ -9,7 +9,7 @@ ResourceImportId: 10214
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-10-17
-weight: 890
+weight: 875
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,7 +32,9 @@ aliasesArchive:
 - /blog/visual-studio-2013-and-tfs-2013-are-released--get-yours-now--oh-and-windows-8-1&hellip;
 - /resources/blog/visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1
 tags:
-- Products and Books
+- Application Lifecycle Management
+- Install and Configuration
+- Software Development
 - Windows
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png

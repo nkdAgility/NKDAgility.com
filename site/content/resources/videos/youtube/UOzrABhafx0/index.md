@@ -30,16 +30,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Practical Techniques and Tooling
-- Agile Project Management
-- Scrum Product Development
-- Product Backlog
 - Agile Planning
+- Pragmatic Thinking
 - Agile Planning Tools
 - Product Owner
 - Backlog Refinement
-- Pragmatic Thinking
+- Product Backlog
 - Agile Product Management
+- Software Development
+- Operational Practices
+- Competence
+- Scrum Team
+- Professional Scrum
+- Transparency
+- Agile Frameworks
+- Agile Transformation
+- Product Delivery
+- Scrum Master
+- Value Delivery
+- Working Software
+- Team Performance
 resourceTypes:
 - video
 categories:

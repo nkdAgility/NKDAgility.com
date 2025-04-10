@@ -2,7 +2,7 @@
 title: 'Navigating the Agile Apocalypse: How to Combat Judgment and Foster Team Growth'
 description: Discover how judgment in Agile can hinder team dynamics and innovation. Learn strategies to foster a supportive culture and enhance collaboration.
 date: 2023-11-01T11:30:27Z
-weight: 700
+weight: 665
 ResourceId: xk11NhTA_V8
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -27,22 +27,25 @@ duration: 72
 isShort: false
 tags:
 - Agile Leadership
-- Agile Project Management
 - Team Motivation
+- Psychological Safety
 - Team Performance
 - Agile Philosophy
 - Organisational Culture
-- People and Process
-- Psychological Safety
+- Social Technologies
 - Software Development
+- Metrics and Learning
+- Agile Transformation
+- Coaching
+- Organisational Agility
+- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 In my journey through the world of Agile, I've often encountered a troubling phenomenon that I like to call one of the seven signs of the Agile apocalypse: judgment. This isn't just a passing concern; it's a pervasive issue that can undermine the very principles of agility we strive to uphold. 

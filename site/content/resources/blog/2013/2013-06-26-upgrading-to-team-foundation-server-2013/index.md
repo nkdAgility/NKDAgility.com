@@ -9,7 +9,7 @@ ResourceImportId: 9907
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-26
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,13 +24,13 @@ aliasesArchive:
 - /upgrading-to-team-foundation-server-2013
 - /resources/blog/upgrading-to-team-foundation-server-2013
 tags:
+- Software Development
 - Install and Configuration
 - System Configuration
 - Windows
-- Software Development
-- Practical Techniques and Tooling
-- Products and Books
 - Troubleshooting
+- Azure DevOps
+- Release Management
 categories: []
 
 ---

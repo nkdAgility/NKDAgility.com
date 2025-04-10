@@ -29,8 +29,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Events and Presentations
+tags: []
 resourceTypes:
 - video
 categories: []

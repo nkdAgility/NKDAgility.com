@@ -9,7 +9,7 @@ ResourceImportId: 38238
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-12-14
-weight: 380
+weight: 315
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -29,16 +29,30 @@ aliasesArchive:
 - /blog/getting-started-with-a-definition-of-done-(dod)
 - /resources/blog/getting-started-definition-done-dod
 tags:
-- Increment
-- Definition of Done
-- Scrum Product Development
 - Working Software
+- Definition of Done
+- Increment
 - Software Development
-- Agile Project Management
-- Scrum Team
-- Team Performance
-- Software Developers
 - Professional Scrum
+- Agile Frameworks
+- Agile Product Management
+- Scrum Team
+- Operational Practices
+- Pragmatic Thinking
+- Product Delivery
+- Engineering Practices
+- Team Performance
+- Agile Planning
+- Transparency
+- Competence
+- Value Delivery
+- Continuous Improvement
+- Empirical Process Control
+- Test First Development
+- Team Collaboration
+- Decision Making
+- Scrum Master
+- Technical Mastery
 categories:
 - Scrum
 - Engineering Excellence

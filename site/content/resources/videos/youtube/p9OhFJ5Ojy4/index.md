@@ -2,7 +2,7 @@
 title: 'Embracing Change: Why Agile Evolution is the Key to Thriving in a Rapidly Shifting World'
 description: Embrace the inevitability of change! Discover how to evolve your organisation with insights on agility, experimentation, and modern management practices.
 date: 2020-07-22T10:08:06Z
-weight: 995
+weight: 1000
 ResourceId: p9OhFJ5Ojy4
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,23 +26,31 @@ preview: https://i.ytimg.com/vi/p9OhFJ5Ojy4/hqdefault.jpg
 duration: 2977
 isShort: false
 tags:
-- People and Process
-- Resilience and Change
 - Organisational Agility
 - Organisational Change
-- Events and Presentations
 - Pragmatic Thinking
-- Change Management
-- Discovery and Learning
 - Business Agility
+- Change Management
+- Agile Leadership
+- Continuous Improvement
 - Continuous Learning
+- Enterprise Agility
+- Agile Strategy
+- Organisational Culture
+- Agile Philosophy
+- Market Adaptability
+- Sociotechnical Systems
+- Software Development
+- Agile Transformation
+- Organisational Physics
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Leadership
 
 ---
 Oh hi, my name is Martin Hinshelwood, and I’m the owner of Naked Agility. As a professional Scrum trainer with Scrum.org and a Microsoft MVP, I’ve been delivering software for about 20 years and working in organisational change for over a decade. Today, I want to share some insights on the inevitability of change, a topic that resonates deeply with my experiences in various markets, particularly in Ghana and Nigeria.

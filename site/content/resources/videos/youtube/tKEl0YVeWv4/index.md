@@ -2,7 +2,7 @@
 title: 'Unlocking the Future of Software Development: Why Automation is Your Key to Success'
 description: Unlock the power of automation in software development! Discover how it boosts efficiency, reduces errors, and transforms your deployment process.
 date: 2025-01-15T06:45:00Z
-weight: 465
+weight: 405
 ResourceId: tKEl0YVeWv4
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -27,16 +27,23 @@ preview: https://i9.ytimg.com/vi/tKEl0YVeWv4/maxresdefault.jpg?sqp=CKDMmrwG&rs=A
 duration: 477
 isShort: false
 tags:
-- Software Development
-- Practical Techniques and Tooling
 - Operational Practices
 - Technical Excellence
+- Software Development
 - Automated Testing
 - Deployment Frequency
+- Engineering Practices
 - Pragmatic Thinking
 - Product Delivery
-- Engineering Practices
+- Continuous Integration
 - Test Automation
+- Continuous Delivery
+- Market Adaptability
+- Azure DevOps
+- Frequent Releases
+- Value Delivery
+- Working Software
+- Technical Mastery
 resourceTypes:
 - video
 sitemap:

@@ -9,7 +9,7 @@ ResourceImportId: 8981
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-10-26
-weight: 585
+weight: 540
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,19 +32,28 @@ aliasesArchive:
 - /blog/professional-scrum-foundations-in-alameda--california
 - /resources/blog/professional-scrum-foundations-in-alameda-california
 tags:
-- People and Process
-- Scrum Product Development
+- Agile Frameworks
 - Professional Scrum
 - Software Development
-- Agile Project Management
-- Agile Frameworks
-- Practical Techniques and Tooling
-- Product Delivery
-- Increment
 - Pragmatic Thinking
+- Product Delivery
+- Social Technologies
+- Scrum Team
+- Agile Planning
+- Agile Product Management
+- Agile Transformation
+- Team Collaboration
+- Self Organisation
+- Working Software
+- Increment
+- Team Performance
+- Empirical Process Control
+- Operational Practices
+- Scrum Master
+- Sprint Review
+- Value Delivery
 categories:
 - Scrum
-- Social Technologies
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

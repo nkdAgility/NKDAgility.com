@@ -26,6 +26,7 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Windows
+- Software Development
 preview: metro-visual-studio-2005-128-link-3-1.png
 categories: []
 

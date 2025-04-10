@@ -9,7 +9,7 @@ ResourceImportId: 10667
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-08-13
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,6 +32,7 @@ tags:
 - Software Development
 - Install and Configuration
 - Pragmatic Thinking
+- System Configuration
 categories: []
 
 ---

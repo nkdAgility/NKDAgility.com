@@ -32,7 +32,7 @@ videos:
 - title: Agile Evolution - An Enterprise transformation that shows that you can too - Martin Hinshelwood
   embed: https://www.youtube.com/embed/QA2QdBG5uLE
 date: 2024-09-17
-weight: 410
+weight: 355
 card:
   button:
     content: Learn More
@@ -43,16 +43,33 @@ categories:
 - Engineering Excellence
 - DevOps
 tags:
-- Increment
-- Transparency
 - Definition of Done
-- Scrum Product Development
-- Software Development
-- Working Software
 - Professional Scrum
+- Increment
+- Software Development
+- Transparency
+- Working Software
 - Product Delivery
-- Agile Project Management
+- Agile Frameworks
+- Value Delivery
+- Operational Practices
+- Pragmatic Thinking
 - Empirical Process Control
+- Engineering Practices
+- Scrum Team
+- Technical Mastery
+- Agile Planning
+- Agile Product Management
+- Team Collaboration
+- Team Performance
+- Continuous Improvement
+- Product Backlog
+- Agile Transformation
+- Competence
+- Release Management
+- Technical Excellence
+- Continuous Delivery
+- Test First Development
 
 ---
 Every team should define what is required, what criteria must be met, for a product increment to be considered releasable. A definition of done. If the organization has not articulated a specific standard, or set of criteria, then the team should create a definition of done that is appropriate for the product. The work produced must comply with the definition of done for it to be considered usable, and if there are multiple teams working on a single product, then those teams must agree on a definition of done and ensure that all teams honour that standard.

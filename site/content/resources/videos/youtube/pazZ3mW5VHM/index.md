@@ -32,7 +32,9 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Personal
+- Competence
 resourceTypes:
 - video
 categories: []

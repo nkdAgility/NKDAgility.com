@@ -9,7 +9,7 @@ ResourceImportId: 9239
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-02-08
-weight: 695
+weight: 665
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,10 +26,11 @@ aliasesArchive:
 tags:
 - Software Development
 - Application Lifecycle Management
-- News and Reviews
-- Practical Techniques and Tooling
-- Events and Presentations
 - Azure DevOps
+- Operational Practices
+- Technical Excellence
+- Working Software
+- Modern Source Control
 categories: []
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 

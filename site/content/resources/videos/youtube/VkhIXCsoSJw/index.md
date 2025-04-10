@@ -2,7 +2,7 @@
 title: 'Embracing Automation: The Key to Transforming Your Development Process and Boosting Confidence'
 description: Unlock the secrets of successful product development! Discover how automation transforms testing, deployment, and quality assurance for engineering teams.
 date: 2025-01-14T06:45:00Z
-weight: 375
+weight: 315
 ResourceId: VkhIXCsoSJw
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,24 +26,42 @@ preview: https://i.ytimg.com/vi/VkhIXCsoSJw/maxresdefault.jpg
 duration: 529
 isShort: false
 tags:
-- Continuous Delivery
-- Test Automation
-- Practical Techniques and Tooling
-- Software Developers
 - Software Development
 - Technical Excellence
 - Engineering Practices
+- Operational Practices
 - Product Delivery
 - Automated Testing
+- Continuous Delivery
 - Deployment Frequency
+- Pragmatic Thinking
+- Technical Mastery
+- Test Automation
+- Azure DevOps
+- Market Adaptability
+- Flow Efficiency
+- Value Delivery
+- Platform Engineering
+- Continuous Integration
+- Frequent Releases
+- Metrics and Learning
+- Technical Debt
+- Working Software
+- Cycle Time
+- Azure Pipelines
+- Continuous Improvement
+- Digital Transformation
+- Release Management
+- Shift-Left Strategy
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
+- Product Development
 
 ---
 When it comes to developing complex products, one of the most significant steps we can take as developers and engineering teams is to embrace automation. In my experience, this is not just a best practice; it’s essential for success. Alongside reducing the size of our backlog—essentially making our deliverables smaller so we can iterate more frequently—automation becomes a cornerstone of our development process.

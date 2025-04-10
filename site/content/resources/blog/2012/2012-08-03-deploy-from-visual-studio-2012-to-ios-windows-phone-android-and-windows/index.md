@@ -9,7 +9,7 @@ ResourceImportId: 6950
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-03
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -33,10 +33,11 @@ aliasesArchive:
 - /resources/blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
 tags:
 - Software Development
-- Working Software
 - Application Lifecycle Management
-- Practical Techniques and Tooling
+- Working Software
 - Windows
+- Pragmatic Thinking
+- Product Delivery
 categories: []
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 

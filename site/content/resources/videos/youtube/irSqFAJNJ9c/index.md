@@ -2,7 +2,7 @@
 title: What does a poor scrum team look, act and feel like?
 description: Discover the signs of a struggling Scrum team and learn how to harness the full potential of the Scrum framework for better productivity and success.
 date: 2023-01-27T07:00:16Z
-weight: 720
+weight: 690
 ResourceId: irSqFAJNJ9c
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,14 +29,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Software Development
-- Agile Project Management
 - Scrum Team
 - Team Performance
 - Agile Product Management
 - Pragmatic Thinking
 - Sociotechnical Systems
+- Team Motivation
+- Agile Frameworks
+- Agile Transformation
+- Product Owner
+- Scrum Master
+- Team Collaboration
+- Organisational Culture
 resourceTypes:
 - video
 categories:

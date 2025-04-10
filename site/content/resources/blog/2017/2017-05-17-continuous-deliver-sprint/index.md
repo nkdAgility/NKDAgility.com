@@ -9,7 +9,7 @@ ResourceImportId: 11885
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2017-05-17
-weight: 450
+weight: 390
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,18 +32,31 @@ aliasesArchive:
 - /blog/i-do-continuous-deliver--why-should-i-sprint-
 - /resources/blog/continuous-deliver-sprint
 tags:
-- Agile Project Management
-- Increment
-- Working Software
-- Empirical Process Control
 - Agile Planning
+- Agile Frameworks
 - Professional Scrum
-- Scrum Product Development
+- Agile Product Management
 - Software Development
 - Product Delivery
-- Software Developers
+- Working Software
+- Empirical Process Control
+- Increment
+- Scrum Master
+- Agile Transformation
+- Pragmatic Thinking
+- Value Delivery
+- Frequent Releases
+- Operational Practices
+- Team Performance
+- Deployment Frequency
+- Common Goals
+- Continuous Improvement
+- Agile Strategy
+- Continuous Delivery
+- Scrum Team
 categories:
 - Scrum
+- Engineering Excellence
 preview: Continous_Delivery_by_Jez_Humble_and_David_Farley-1-1.jpg
 
 ---

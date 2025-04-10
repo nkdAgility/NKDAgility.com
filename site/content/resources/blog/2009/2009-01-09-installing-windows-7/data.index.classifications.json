@@ -1,20 +1,11 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-16T10:40:09",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on the installation process of Windows 7 and does not discuss Agile Product Management or related methodologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T10:40:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Windows 7, which does not align with the category's focus on Agile methodologies, DevOps practices, or relevant literature.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -53,43 +44,16 @@
     "reasoning": "Content primarily discusses the installation process of Windows 7, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T10:40:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Windows 7, with no reference to events, presentations, or related discussions.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T10:40:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Windows 7, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T09:28:24",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses solely on the installation process of Windows 7 in a virtual environment, with no mention of DevOps principles, practices, or cultural shifts. It lacks any discussion on collaboration, automation, or shared accountability, which are core to the DevOps philosophy.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T10:40:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content is focused on the installation process of Windows 7 and does not discuss AI, automation, or Agile methodologies.",
     "level": "Ignored"
   },
   "Lean": {
@@ -112,23 +76,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T09:28:38",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0.0,
     "ai_mentions": 0,
     "ai_alignment": 0,
     "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses entirely on the process of installing Windows 7 in a virtual environment, with no references to agile methodologies, product management principles, or any related concepts that align with the Agile Product Operating Model. It does not discuss transitioning from project to product ethos, operational stability, or any other key topics outlined in the category description.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T10:40:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Windows 7, which does not align with Agile or DevOps practices or tooling.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -151,15 +106,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-07T15:47:26",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 82.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content provides a detailed step-by-step account of the installation process for Windows 7, including specific actions taken during the installation and the environment setup. It discusses the installation procedure, system requirements, and includes visual aids that enhance understanding. However, while it aligns well with the category, it lacks in-depth troubleshooting or configuration best practices, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -172,32 +127,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T09:28:43",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses entirely on the technical process of installing Windows 7, with no references to Evidence-Based Management principles or metrics. It does not discuss data-informed decision-making or any of the key topics outlined in the EBM category.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T10:40:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Windows 7, which is unrelated to software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T10:40:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the installation process of Windows 7, lacking relevance to Agile, DevOps, or technology news and reviews.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -238,10 +175,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T10:40:46",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Windows 7, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -281,15 +218,6 @@
     "reasoning": "Content primarily discusses the technical process of installing Windows 7, with no personal reflections or insights related to Agile, Scrum, DevOps, or business agility.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T10:40:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the installation process of Windows 7, lacking discussions on discovery, learning, or innovation methodologies.",
-    "level": "Ignored"
-  },
   "Azure DevOps": {
     "category": "Azure DevOps",
     "calculated_at": "2025-02-16T10:40:54",
@@ -297,15 +225,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on the installation process of Windows 7 and does not mention Azure DevOps or related functionalities.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T10:40:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Windows 7, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -324,15 +243,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Windows 7, with no mention of Systems Thinking principles or related topics.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T10:40:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical process of installing Windows 7 without addressing human behaviour or team dynamics.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -355,10 +265,10 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-16T10:41:02",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Windows 7, which does not align with the methodologies and practices involved in delivering usable software products.",
     "level": "Ignored"
   },
@@ -470,7 +380,7 @@
     "reasoning": "Content is focused on the installation process of Windows 7, which is unrelated to Agile methodologies or their scaling across an organization.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T11:37:10",
     "ai_confidence": 0,
@@ -486,15 +396,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses the installation process of Windows 7, which does not relate to Site Reliability Engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T11:37:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is entirely focused on the installation process of Windows 7 and does not relate to Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -668,24 +569,6 @@
     "reasoning": "Content discusses the installation process of Windows 7, which is unrelated to Agile or Scrum estimation practices.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T11:37:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content predominantly focuses on the installation process of Windows 7, which does not relate to the role of software developers in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T11:37:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is primarily about the installation process of Windows 7 and does not discuss AI or its integration in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-16T11:37:10",
@@ -697,22 +580,22 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-10T13:10:45",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 38,
     "ai_depth": 36,
     "non_ai_confidence": 50,
-    "final_score": 88.0,
+    "final_score": 92.0,
     "reasoning": "The content is primarily focused on the installation process of Windows 7, which is a key topic within the Windows category. It provides detailed descriptions of the installation steps, including system requirements, installation options, and first boot experiences. The direct mentions of Windows 7 throughout the content, along with the inclusion of images that illustrate the installation process, contribute to a high confidence score. The depth of discussion is significant, as it covers various aspects of the installation, making it highly relevant to users seeking guidance on this specific Windows version.",
     "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-16T11:37:10",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on the technical details and personal experience of installing Windows 7, without any discussion of product strategy concepts.",
     "level": "Ignored"
   },
@@ -743,30 +626,21 @@
     "reasoning": "Content discusses the installation process of Windows 7 and unrelated technical details, without any focus on Agile frameworks or principles.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T11:37:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on installing Windows 7 and does not discuss any Agile methodologies, frameworks, or scaling practices.",
-    "level": "Ignored"
-  },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-16T11:37:10",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is solely about installing Windows 7 and does not discuss the role or responsibilities of a Product Owner.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T11:37:10",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on the installation process of Windows 7 and discusses hardware specifications and personal experiences, without any clear mention of lead time as a metric.",
     "level": "Ignored"
   },
@@ -790,37 +664,37 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T11:37:10",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the installation process of Windows 7, with no discussions regarding innovation capabilities, Evidence-Based Management, or related practices.",
     "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-16T11:37:10",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily describes the installation process of Windows 7 and does not discuss product discovery methodologies, user needs, or feature definition.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T11:37:10",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of installing Windows 7, with no connection to the concept of Cycle Time or its relevance in Agile or DevOps practices.",
     "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-16T11:37:10",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about the installation process of Windows 7 and does not discuss any aspects of product validation or user testing.",
     "level": "Ignored"
   },
@@ -853,28 +727,28 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-16T11:37:10",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the installation process of Windows 7, which is unrelated to Sprint Reviews or the Scrum framework.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-16T11:37:10",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on the installation process of Windows 7 and does not discuss any aspects related to product backlogs in Agile or Scrum frameworks.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T11:37:10",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on the installation process of Windows 7 and does not discuss the Definition of Done or its principles.",
     "level": "Ignored"
   },
@@ -889,13 +763,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T09:28:41",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses solely on the installation process of Windows 7 in a virtual environment, with no mention or discussion of Continuous Delivery principles, practices, or related topics. It does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality. The content is primarily about software installation rather than delivery.",
     "level": "Ignored"
   },
@@ -1007,21 +881,12 @@
     "reasoning": "Content is primarily focused on the installation process of Windows 7 and does not address empirical process control or related Agile principles.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T11:37:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on installing Windows 7 and does not discuss any aspects of Kanban or its scaling.",
-    "level": "Ignored"
-  },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T11:37:10",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on the installation of Windows 7 and does not discuss any aspects of Agile practices or the Definition of Ready.",
     "level": "Ignored"
   },
@@ -1036,31 +901,31 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-16T11:37:10",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the process of installing Windows 7, including technical details and personal reflections, which are not related to product management or its strategic aspects.",
     "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T11:37:10",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on the installation process of Windows 7, with no discussion related to Lean Product Development principles or practices.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:35:37",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses entirely on the process of installing Windows 7 in a virtual environment, with no mention or discussion of Test First Development principles, success criteria, or testing practices. It does not align with the core themes of the category, nor does it provide any depth on related topics.",
     "level": "Ignored"
   },
@@ -1226,15 +1091,6 @@
     "reasoning": "Content is primarily focused on the process of installing Windows 7, rather than methodologies or strategies for deploying software.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T11:37:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content is focused on installing Windows 7, which is unrelated to Scrum principles, product development, or any Agile methodologies.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
     "calculated_at": "2025-02-16T11:37:10",
@@ -1285,10 +1141,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T11:37:10",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on installing Windows 7 and does not discuss Agile Values or Principles.",
     "level": "Ignored"
   },
@@ -1299,15 +1155,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on installing Windows 7 and does not discuss any principles or practices related to Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T11:37:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is about installing Windows 7 and does not mention Scrum or scaling practices at all.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1339,24 +1186,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-10T15:08:25",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on the installation process of Windows 7, which is a key aspect of system configuration. It discusses the setup of a virtual environment, hardware specifications, and the steps involved in the installation process. However, while it provides a fair amount of detail about the installation, it lacks depth in discussing broader configuration management practices, optimisation strategies, or troubleshooting common issues. Therefore, while it aligns well with the category, it does not cover all aspects comprehensively.",
     "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T11:37:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is solely focused on the installation process of Windows 7 and does not discuss any aspects of Scaling Agility.",
-    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1378,13 +1216,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:47:56",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses solely on the technical process of installing Windows 7 in a virtual environment, with no discussion of collaboration, decision-making, or value delivery. It does not align with the core themes of social technologies, nor does it provide any depth on related frameworks or methodologies.",
     "level": "Ignored"
   },
@@ -1429,61 +1267,61 @@
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:37:55",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses entirely on the installation process of Windows 7, with no discussion of software development processes, testing, security, or compliance. It does not mention the Shift-Left Strategy or its principles, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T09:28:29",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the technical process of installing Windows 7 in a virtual environment, with no direct mentions or discussions related to Continuous Improvement principles. It lacks alignment with the core themes of Continuous Improvement, such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is minimal, as it does not explore any strategies or techniques relevant to Continuous Improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T09:28:31",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses entirely on the technical process of installing Windows 7 in a virtual environment, with no mention of Agile, DevOps, or the concept of Common Goals. It lacks any discussion of shared objectives, alignment, or strategic frameworks, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T09:28:35",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the technical process of installing Windows 7 in a virtual environment, with no explicit discussion of competence, continuous learning, or skill development. While it may imply some level of technical ability, it does not engage with the core themes of competence as defined in the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:35:35",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses solely on the technical process of installing Windows 7 in a virtual environment, with no discussion of Agentic Agility, intentional shaping of outcomes, or the interplay between human and AI capabilities. It lacks any relevant themes or depth related to the category.",
     "level": "Ignored"
   }

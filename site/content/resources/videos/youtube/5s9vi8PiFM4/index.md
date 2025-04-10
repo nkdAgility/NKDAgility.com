@@ -28,11 +28,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
-- People and Process
 - Pragmatic Thinking
 - Software Development
 - Personal
+- Lean Principles
+- Agile Frameworks
+- Social Technologies
 resourceTypes:
 - video
 layout: video

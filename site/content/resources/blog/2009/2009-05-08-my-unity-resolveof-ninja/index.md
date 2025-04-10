@@ -9,7 +9,7 @@ ResourceImportId: 123
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-08
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,6 +29,7 @@ aliasesArchive:
 - /resources/blog/my-unity-resolveof-ninja
 tags:
 - Software Development
+- Technical Mastery
 categories: []
 preview: metro-binary-vb-128-link-4-1.png
 

@@ -2,7 +2,7 @@
 title: "Mastering the Art of Scaling Product Development: Why Adding More Developers Isn't the Answer"
 description: Unlock the secrets to effective product scaling! Discover how to align teams, manage technical debt, and streamline processes for seamless growth.
 date: 2025-02-18T07:08:05Z
-weight: 545
+weight: 500
 ResourceId: KWiWgLFalyA
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -35,20 +35,18 @@ sitemap:
   priority: 0.6
 tags:
 - Scaling
-- Product Development
 - Pragmatic Thinking
 - Operational Practices
 - Common Goals
-- Sociotechnical Systems
-- Systems Thinking
 - Agile Strategy
 - Business Agility
 - Organisational Agility
-- Continuous Improvement
-- Organisational Change
+- Sociotechnical Systems
+- Systems Thinking
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

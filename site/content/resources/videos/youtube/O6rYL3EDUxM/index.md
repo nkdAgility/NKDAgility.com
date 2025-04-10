@@ -2,7 +2,7 @@
 title: 'Detecting Agile BS: Lessons from the US Department of Defense'
 description: "Is your company truly Agile? \U0001F914 Discover a 6-question test inspired by the U.S. Department of Defense to assess and enhance your Agile practices!"
 date: 2024-06-28T06:45:01Z
-weight: 435
+weight: 390
 ResourceId: O6rYL3EDUxM
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -31,20 +31,44 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Values and Principles
-- Working Software
 - Agile Strategy
+- Agile Values and Principles
+- Pragmatic Thinking
 - Agile Philosophy
 - Continuous Improvement
-- Agile Project Management
 - Agile Transformation
 - Software Development
-- Pragmatic Thinking
-- People and Process
+- Working Software
+- Agile Frameworks
+- Operational Practices
+- Agile Planning
+- Product Delivery
+- Agile Leadership
+- Agile Product Management
+- Continuous Learning
+- Empirical Process Control
+- Frequent Releases
+- Organisational Agility
+- Organisational Change
+- Competence
+- Deployment Frequency
+- Organisational Culture
+- Team Performance
+- Value Delivery
+- Increment
+- Business Agility
+- Change Management
+- Continuous Delivery
+- Customer Feedback Loops
+- Decision Making
+- Enterprise Agility
+- Metrics and Learning
+- Transparency
 resourceTypes:
 - video
 categories:
 - Scrum
+- Engineering Excellence
 - Leadership
 
 ---

@@ -9,7 +9,7 @@ ResourceImportId: 301
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-10-06
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,7 +23,8 @@ aliasesArchive:
 - /blog/amusing-job-requirements
 - /amusing-job-requirements
 - /resources/blog/amusing-job-requirements
-tags: []
+tags:
+- Miscellaneous
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

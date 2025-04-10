@@ -27,10 +27,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Practical Techniques and Tooling
+- Operational Practices
 - Cycle Time
 - Flow Efficiency
-- Operational Practices
+- Agile Frameworks
+- Metrics and Learning
+- Pragmatic Thinking
+- Organisational Physics
+- Throughput
 resourceTypes:
 - video
 layout: video

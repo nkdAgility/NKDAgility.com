@@ -27,7 +27,8 @@ aliasesArchive:
 - /least-opportune-time-
 - /blog/least-opportune-time-
 - /resources/blog/least-opportune-time
-tags: []
+tags:
+- Miscellaneous
 categories: []
 preview: metro-visual-studio-2005-128-link-4-4.png
 

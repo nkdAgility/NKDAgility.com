@@ -30,16 +30,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Planning
 - Operational Practices
-- Agile Project Management
-- Agile Philosophy
-- People and Process
 - Software Development
-- Agile Values and Principles
-- Value Delivery
+- Agile Philosophy
+- Agile Planning
 - Agile Frameworks
 - Agile Transformation
+- Product Backlog
+- Value Delivery
+- Product Delivery
+- Agile Values and Principles
+- Agile Product Management
+- Agile Planning Tools
+- Agile Strategy
+- Lean Principles
+- Organisational Agility
+- Pragmatic Thinking
+- Flow Efficiency
+- Team Performance
+- Backlog Refinement
+- Personal
+- Throughput
+- Lean Thinking
+- Lean Product Development
 resourceTypes:
 - video
 categories:

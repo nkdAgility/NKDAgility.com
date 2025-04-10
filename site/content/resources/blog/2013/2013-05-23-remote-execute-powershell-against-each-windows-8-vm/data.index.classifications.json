@@ -1,24 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T18:39:37",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of executing PowerShell scripts on Windows VMs, which is unrelated to Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:06:02",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content provides a detailed exploration of using PowerShell to manage Hyper-V virtual machines, which directly aligns with practical techniques and tooling in a DevOps context. It discusses specific scripts, commands, and methodologies for automating tasks related to VM management, showcasing practical application of tooling. The depth of discussion includes code snippets, explanations of command usage, and considerations for execution policies and VM states, demonstrating a strong focus on practical implementation rather than theoretical concepts.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -31,41 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T07:49:59",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical instructions for executing PowerShell scripts on Windows VMs, with no direct mention or discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any depth in relation to EBM concepts.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T18:39:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the execution of PowerShell scripts for managing virtual machines, without a focus on code quality, complexity theory, or best practices in software development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T18:39:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on technical implementation details of a PowerShell script for managing virtual machines, with minimal emphasis on learning or discovery processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T18:39:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the use of PowerShell for managing virtual machines, with no clear relation to AI or Agile methodologies.",
     "level": "Ignored"
   },
   "Lean": {
@@ -79,24 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T12:48:07",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed guide on using PowerShell to remotely execute scripts on Windows 8 VMs, which directly relates to installation and configuration tasks. It includes step-by-step instructions for setting up the environment, executing commands, and managing VM states, aligning well with the key topics of the category. The depth of discussion is significant, covering various aspects of the process, including error handling and security considerations, which enhances its relevance to the category.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T18:39:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of executing PowerShell scripts on virtual machines, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content primarily focuses on technical aspects of executing PowerShell scripts on virtual machines, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T18:39:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on technical implementations of PowerShell scripts for managing virtual machines, with no clear discussion on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T07:49:45",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on executing PowerShell scripts for managing Windows VMs using Hyper-V. While it touches on automation, which is a key aspect of DevOps, it lacks a broader discussion on the principles, practices, and cultural shifts associated with DevOps. The content does not explicitly mention DevOps or its core themes, and the depth of discussion is more technical and task-oriented rather than strategic or philosophical.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily discusses technical implementations of PowerShell scripts for managing virtual machines, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T18:40:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical script for executing PowerShell commands on virtual machines, with no reference to events, presentations, or discussions related to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T18:40:04",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses executing PowerShell scripts on virtual machines and managing their states, with no clear focus on optimising work throughput or addressing flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T18:40:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses technical aspects of executing PowerShell scripts on virtual machines, with no focus on human behaviour, team dynamics, or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T18:40:10",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on executing PowerShell scripts for managing virtual machines, with no discussion on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -220,13 +145,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T14:49:50",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on a practical implementation of PowerShell scripts for managing virtual machines, which aligns with technical excellence in terms of automation and efficiency in software development. However, while it touches on aspects of scripting and automation, it lacks a deeper discussion on broader engineering practices such as TDD, CI/CD, or modular architecture. The mention of PowerShell scripting is relevant but does not fully encapsulate the principles of technical excellence as defined in the category. Therefore, while there is a significant focus on technical implementation, the overall depth and alignment with the core themes of the category are moderate.",
     "level": "Secondary"
   },
@@ -268,28 +193,19 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T18:40:19",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses executing PowerShell scripts on virtual machines, which is unrelated to Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T18:40:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a PowerShell script for managing virtual machines, with no focus on Agile methodologies, DevOps practices, or relevant literature.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-15T18:40:22",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical implementation details of executing PowerShell scripts on virtual machines, without discussing value delivery strategies or methodologies.",
     "level": "Ignored"
   },
@@ -304,13 +220,13 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-15T05:09:48",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical aspects of executing PowerShell scripts against virtual machines, with minimal personal reflection or insights related to Agile, Scrum, or DevOps methodologies. While there are brief mentions of personal experiences with PowerShell, they do not provide substantial personal anecdotes or subjective interpretations that align with the 'Personal' category's requirements.",
     "level": "Ignored"
   },
@@ -325,22 +241,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T18:40:28",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on executing PowerShell scripts for managing virtual machines, which does not align with the principles or discussions related to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T07:49:57",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on executing PowerShell scripts for managing Windows VMs using Hyper-V. It does not discuss any principles or practices related to the Agile Product Operating Model, nor does it mention product management or agile methodologies. The content is technical and specific to scripting and virtual machine management, which is unrelated to the Agile Product Operating Model.",
     "level": "Ignored"
   },
@@ -353,21 +269,12 @@
     "reasoning": "Content primarily focuses on executing PowerShell scripts for managing virtual machines, with no clear discussion on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T18:40:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical tutorial for executing PowerShell scripts on Windows VMs, lacking any discussion of industry news, updates, or reviews related to Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T18:40:34",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on executing PowerShell scripts for managing virtual machines, which does not align with the core principles of Application Lifecycle Management.",
     "level": "Ignored"
   },
@@ -382,22 +289,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T19:39:56",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on executing PowerShell scripts for virtual machines and does not discuss the Definition of Done or apply its principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T18:39:09",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on a practical implementation of PowerShell scripts for managing virtual machines, which aligns with technical mastery in software craftsmanship. However, while it discusses specific coding practices and problem-solving techniques, it lacks a broader discussion on best practices, principles of clean code, or methodologies that contribute to high-quality software development. The depth of discussion is moderate, providing a step-by-step guide but not delving into the underlying principles of software engineering excellence.",
     "level": "Secondary"
   },
@@ -412,13 +319,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T07:50:02",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 7.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on executing PowerShell scripts for managing Windows VMs using Hyper-V. While it discusses automation and scripting, it does not explicitly address Continuous Delivery principles, practices, or the cultural aspects associated with it. The mention of automation is too general and does not connect to the specific themes of Continuous Delivery, such as rapid feedback, incremental improvements, or software quality enhancement.",
     "level": "Ignored"
   },
@@ -433,10 +340,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T19:39:56",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the automation of tasks using PowerShell on virtual machines, focusing on remote execution and script management rather than the measurement or implications of Lead Time in process or delivery contexts.",
     "level": "Ignored"
   },
@@ -451,19 +358,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T19:39:56",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on executing PowerShell scripts for managing virtual machines, with no clear discussion or relevance to the Definition of Ready in Agile practice.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-15T19:39:57",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses executing PowerShell scripts on virtual machines, which is unrelated to the management of a portfolio of projects and does not address topics like strategic alignment, investment prioritization, or any of the specified key topics in portfolio management.",
     "level": "Ignored"
   },
@@ -487,10 +394,10 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-15T19:39:57",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on PowerShell scripting for managing virtual machines and does not discuss any topics related to Value Stream Mapping or Lean management principles.",
     "level": "Ignored"
   },
@@ -505,13 +412,13 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-11T16:49:51",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on executing PowerShell scripts to manage virtual machines, which relates to operational practices in terms of automating tasks and improving efficiency. However, it lacks a broader discussion on methodologies like Agile, DevOps, or Lean, and does not delve deeply into process optimisation or continuous improvement strategies. The practical application of automation is present, but the overall depth and alignment with the core themes of operational practices are moderate.",
     "level": "Secondary"
   },
@@ -598,40 +505,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T19:39:57",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on PowerShell scripting and managing virtual machines, without any discussion or relevance to Acceptance Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T18:01:34",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed discussion on using PowerShell for managing virtual machines in a Hyper-V environment, which directly relates to software development practices, particularly in automation and scripting. It covers specific coding techniques, error handling, and the execution of scripts, aligning well with best practices in coding and software design. The depth of the discussion is significant, as it includes code snippets, explanations of functionality, and considerations for script execution, demonstrating a strong understanding of the software development lifecycle and automation processes.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T19:39:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses scripting with PowerShell for managing virtual machines, with no mention of agile project management principles, methodologies, frameworks, or related topics.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T19:39:57",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses entirely on remote execution and scripting using PowerShell, with no mention or discussion of Agile values or principles.",
     "level": "Ignored"
   },
@@ -655,10 +553,10 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T19:39:57",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses PowerShell scripting for managing virtual machines and does not relate to empirical process control or Agile principles.",
     "level": "Ignored"
   },
@@ -691,10 +589,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T19:39:57",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on executing PowerShell scripts for managing virtual machines in Hyper-V, without any discussion of organisational change practices or strategies.",
     "level": "Ignored"
   },
@@ -725,21 +623,12 @@
     "reasoning": "Content is focused on technical implementation details regarding PowerShell scripts for managing virtual machines, with no reference to customer satisfaction or customer experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T19:39:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the use of PowerShell for managing virtual machines, which is unrelated to Scrum or its scaling practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-15T19:39:57",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical implementations and scripts for managing virtual machines using PowerShell, without any reference to leadership practices or empirical evidence in decision-making.",
     "level": "Ignored"
   },
@@ -750,15 +639,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on technical aspects of executing PowerShell scripts against virtual machines, with no discussion of psychological safety or related themes.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T19:39:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on executing PowerShell scripts for managing virtual machines and does not discuss scaling agility or related practices.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -808,13 +688,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T10:29:27",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on practical problem-solving techniques using PowerShell to manage virtual machines in a Hyper-V environment. It discusses real-world applications of scripting to automate updates and configurations, which aligns with the core themes of pragmatic thinking. However, while it touches on adaptability and experience-based solutions, it lacks a deeper exploration of Agile, Scrum, or DevOps frameworks, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -829,29 +709,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T19:39:57",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily a technical guide on executing PowerShell scripts against virtual machines, with no clear focus on measuring or enhancing innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T19:39:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on using PowerShell to manage virtual machines and automate updates, with no relation to Scrum or product development methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T19:39:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on executing PowerShell scripts for managing Windows VMs, not related to scaling Agile practices or methodologies.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -874,10 +736,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-15T19:39:57",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the execution of PowerShell scripts on virtual machines, which is more related to system administration and automation of server management rather than principles or practices of test automation in software development.",
     "level": "Ignored"
   },
@@ -964,10 +826,10 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-15T19:39:57",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on scripting and automation using PowerShell for virtual machine management, without any discussion or application of structured decision-making processes.",
     "level": "Ignored"
   },
@@ -982,10 +844,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T19:39:57",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on scripting for managing Windows VMs and executing PowerShell commands rather than on strategies and practices of software release management.",
     "level": "Ignored"
   },
@@ -1000,10 +862,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T19:39:57",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses PowerShell scripts for automating the management of virtual machines, focusing on execution steps and configurations without any mention of Cycle Time or related Agile/DevOps concepts.",
     "level": "Ignored"
   },
@@ -1027,10 +889,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T19:39:57",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on executing PowerShell scripts for managing virtual machines and does not discuss change management principles, strategies, or practices.",
     "level": "Ignored"
   },
@@ -1061,7 +923,7 @@
     "reasoning": "Content focuses primarily on technical implementation details of PowerShell scripts for managing virtual machines, without discussing broader themes of digital transformation or strategic business changes.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T19:39:57",
     "ai_confidence": 0,
@@ -1070,26 +932,17 @@
     "reasoning": "Content discusses PowerShell scripts for managing virtual machines, but does not relate to Minimum Viable Products, product development, or market validation.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T19:39:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses executing PowerShell scripts against virtual machines without any mention or application of AI principles.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T14:59:43",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on the configuration and management of virtual machines using PowerShell, which aligns closely with the System Configuration category. It discusses best practices for executing scripts remotely, managing VM states, and ensuring proper configurations for updates and installations. The depth of discussion is substantial, providing detailed code examples and explanations of the processes involved. The content does not deviate into unrelated topics, maintaining a strong focus on system configuration throughout.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1129,25 +982,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T18:53:16",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on executing PowerShell scripts for managing Windows VMs and does not discuss Test First Development principles, success criteria, or testing practices. While there are mentions of script execution and some error handling, these do not align with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T11:54:41",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 38,
     "non_ai_confidence": 50,
-    "final_score": 88.0,
+    "final_score": 92.0,
     "reasoning": "The content primarily focuses on executing PowerShell scripts against Windows 8 virtual machines using Hyper-V, which directly relates to the Windows operating system. It discusses installation and configuration of software, troubleshooting issues with elevated privileges, and managing virtual machines, all of which are key topics within the Windows category. The depth of discussion is substantial, providing detailed code examples and explanations of the processes involved, thus demonstrating a strong alignment with the core themes of the Windows category.",
     "level": "Primary"
   },
@@ -1180,31 +1033,31 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T19:39:57",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses scripting and executing PowerShell commands on virtual machines using Hyper-V, without any focus on remote work practices or Agile methodologies.",
     "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-15T05:09:43",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 20,
     "non_ai_confidence": 10,
-    "final_score": 19.0,
+    "final_score": 20.0,
     "reasoning": "The content primarily focuses on technical procedures and scripting in PowerShell for managing virtual machines, without a central theme of continuous learning or growth mindset.",
     "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T05:09:46",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on executing PowerShell scripts to manage virtual machines, which includes addressing specific issues such as running scripts with elevated privileges and handling VM states. While it does touch on troubleshooting aspects, such as dealing with errors and VM responsiveness, the overall emphasis is more on execution and automation rather than systematic problem-solving or methodologies for diagnosing issues. Therefore, while it aligns with troubleshooting, it does not do so as a primary focus.",
     "level": "Secondary"
   },
@@ -1219,13 +1072,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T18:53:19",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses entirely on executing PowerShell scripts for managing Windows VMs using Hyper-V, with no mention of Scrum, Scrum Masters, or related agile practices. It does not discuss any responsibilities, skills, or impacts of a Scrum Master, nor does it touch on team dynamics or stakeholder engagement, which are key topics in the Scrum Master category.",
     "level": "Ignored"
   },
@@ -1245,15 +1098,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about using PowerShell to manage and execute scripts on virtual machines, with no discussion of teamwork, collaboration, or working agreements.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T19:39:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on running PowerShell scripts for managing Windows virtual machines, which does not align with discussions on software developers within Agile and DevOps methodologies.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1294,10 +1138,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T19:39:57",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical implementation details related to PowerShell and Hyper-V management without any focus on strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1373,15 +1217,6 @@
     "reasoning": "Content primarily discusses the technical implementation of a PowerShell script for managing virtual machines without addressing team dynamics, ownership, or accountability concepts related to Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T19:39:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses executing PowerShell scripts on virtual machines and managing their states, which is unrelated to Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T19:39:57",
@@ -1393,10 +1228,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T19:39:57",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses remote execution of PowerShell scripts to manage virtual machines, which is unrelated to Test Driven Development principles and practices.",
     "level": "Ignored"
   },
@@ -1411,13 +1246,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:31:53",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical aspects of executing PowerShell scripts on Windows VMs, with no explicit discussion of collaboration, decision-making, or value delivery within organisations. While it touches on automation and management, it lacks alignment with the core themes of social technologies, such as self-organisation or collective intelligence. The depth of discussion is also limited to technical execution rather than exploring social frameworks or methodologies.",
     "level": "Ignored"
   },
@@ -1441,73 +1276,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:40:50",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on executing PowerShell scripts for managing virtual machines in Hyper-V, with no direct mentions or discussions related to Scrum principles, roles, events, or practices. While there is a brief mention of collaboration in the context of scripting, it does not align with the core themes of Scrum or provide any depth on Scrum-related topics.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:22:47",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on executing PowerShell scripts for managing virtual machines in Hyper-V. It does not discuss integrating testing, security, or compliance earlier in the software development lifecycle, which are core aspects of the Shift-Left Strategy. While there are mentions of automation and script execution, these do not align with the principles or benefits of the Shift-Left approach.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T07:49:47",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on executing PowerShell scripts for managing virtual machines, with no explicit discussion of Continuous Improvement principles. While there are elements of process enhancement through automation, the content lacks a commitment to incremental advancements or a culture of experimentation, which are core to Continuous Improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T07:49:50",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical instructions for executing PowerShell scripts on Windows VMs, with no explicit discussion of Common Goals, Agile, or DevOps principles. While it touches on the management of virtual machines, it lacks any connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T07:49:53",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on executing PowerShell scripts for managing virtual machines, which does not directly address the principles of competence in Agile, Scrum, DevOps, or Lean methodologies. While there are elements of skill development in using PowerShell, the discussion lacks depth on continuous learning, quality outcomes, or fostering a culture of competence. The mention of learning PowerShell is too brief and does not explore the broader implications of competence in a professional context.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T18:53:14",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on executing PowerShell scripts for managing virtual machines using Hyper-V. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. While there are elements of autonomy in script execution, the content lacks a clear connection to the intentional shaping of outcomes or the transformative capacity of individuals and systems, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }

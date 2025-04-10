@@ -27,7 +27,8 @@ aliasesArchive:
 - /if-you-had-a-choice-
 - /blog/if-you-had-a-choice-
 - /resources/blog/if-you-had-a-choice
-tags: []
+tags:
+- Miscellaneous
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

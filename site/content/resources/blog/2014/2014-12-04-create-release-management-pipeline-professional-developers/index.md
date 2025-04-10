@@ -9,7 +9,7 @@ ResourceImportId: 10970
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-12-04
-weight: 480
+weight: 430
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,19 +28,32 @@ aliasesArchive:
 - /blog/create-a-release-management-pipeline-for-professional-developers
 - /resources/blog/create-release-management-pipeline-professional-developers
 tags:
-- Azure Pipelines
 - Software Development
-- Install and Configuration
+- Azure Pipelines
+- Continuous Delivery
+- Operational Practices
+- Pragmatic Thinking
 - Azure DevOps
 - Release Management
-- Continuous Delivery
-- Practical Techniques and Tooling
-- Software Developers
 - Product Delivery
-- Operational Practices
+- Install and Configuration
+- Application Lifecycle Management
+- Deployment Strategies
+- Technical Excellence
+- Working Software
+- System Configuration
+- Technical Mastery
+- Platform Engineering
+- Internal Developer Platform
+- Azure Repos
+- Continuous Integration
+- Deployment Frequency
+- Frequent Releases
+- Engineering Practices
+- Modern Source Control
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-46-46.png
 
 ---

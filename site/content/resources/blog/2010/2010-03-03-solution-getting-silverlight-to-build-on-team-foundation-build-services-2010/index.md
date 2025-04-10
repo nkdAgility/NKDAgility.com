@@ -9,7 +9,7 @@ ResourceImportId: 69
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-03
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,10 +28,13 @@ aliasesArchive:
 - /blog/solution--getting-silverlight-to-build-on-team-foundation-build-services-2010
 - /resources/blog/solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
 tags:
-- Install and Configuration
 - Software Development
 - Troubleshooting
-- Practical Techniques and Tooling
+- Install and Configuration
+- Pragmatic Thinking
+- Technical Excellence
+- Windows
+- System Configuration
 categories: []
 preview: metro-visual-studio-2010-128-link-3-3.png
 

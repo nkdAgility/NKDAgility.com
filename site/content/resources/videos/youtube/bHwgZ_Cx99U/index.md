@@ -2,7 +2,7 @@
 title: "Why More Teams Won't Speed Up Delivery: The Truth About Scaling Effectively"
 description: Discover why adding more teams can slow down delivery. Learn how to scale effectively by minimising friction and enhancing team collaboration for better outcomes.
 date: 2025-02-21T07:59:43Z
-weight: 470
+weight: 415
 ResourceId: bHwgZ_Cx99U
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -28,15 +28,14 @@ duration: 76
 isShort: false
 tags:
 - Scaling
-- Value Delivery
 - Organisational Agility
 - Team Collaboration
-- Product Development
+- Value Delivery
+- Social Technologies
+- Project Management
 - Operational Practices
 - Pragmatic Thinking
 - Team Performance
-- Technical Debt
-- Continuous Improvement
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -44,7 +43,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
 In my experience, the common belief that "more teams mean faster delivery" is a fallacy that many organisations fall prey to. I’ve witnessed it time and again: a company decides to scale up, thinking that by simply adding more developers and teams, they’ll accelerate their release cycles. However, what often happens is the exact opposite. Instead of speeding up, everything grinds to a halt.

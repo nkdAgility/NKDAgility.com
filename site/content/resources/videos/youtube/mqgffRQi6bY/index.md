@@ -28,8 +28,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Software Development
 - Pragmatic Thinking
+- Software Development
+- Complexity Thinking
+- Sensemaking
 resourceTypes:
 - video
 categories: []

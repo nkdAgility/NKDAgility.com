@@ -29,9 +29,9 @@ tags:
 - Install and Configuration
 - Release Management
 - System Configuration
-- Practical Techniques and Tooling
 - Software Development
 - Product Delivery
+- Windows
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -33,6 +33,8 @@ sitemap:
 tags:
 - Competence
 - Scrum Master
+- Pragmatic Thinking
+- Team Collaboration
 resourceTypes:
 - video
 categories: []
