@@ -33,12 +33,6 @@ tags:
 - Coaching
 - Agile Transformation
 - Organisational Agility
-- Software Development
-- Agile Leadership
-- Agile Frameworks
-- Business Agility
-- Continuous Improvement
-- Mentoring
 resourceTypes:
 - video
 layout: video

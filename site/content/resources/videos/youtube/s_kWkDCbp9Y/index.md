@@ -31,14 +31,6 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
-- Agile Transformation
-- Competence
-- Agile Leadership
-- Agile Philosophy
-- Coaching
-- Organisational Agility
-- Pragmatic Thinking
-- Sociotechnical Systems
 resourceTypes:
 - video
 categories: []

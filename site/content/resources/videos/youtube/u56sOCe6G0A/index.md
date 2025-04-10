@@ -40,9 +40,6 @@ tags:
 - Operational Practices
 - Throughput
 - Pragmatic Thinking
-- Lean Thinking
-- Lean Principles
-- Value Delivery
 resourceTypes:
 - video
 categories:

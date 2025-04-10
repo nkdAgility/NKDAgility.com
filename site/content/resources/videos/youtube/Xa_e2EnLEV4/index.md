@@ -35,10 +35,6 @@ sitemap:
   priority: 0.6
 tags:
 - Operational Practices
-- Software Development
-- Transparency
-- Continuous Improvement
-- Personal
 resourceTypes:
 - video
 categories: []

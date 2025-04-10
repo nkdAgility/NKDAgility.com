@@ -41,11 +41,6 @@ tags:
 - Product Discovery
 - Product Validation
 - Value Delivery
-- Entrepreneurship
-- Continuous Learning
-- Evidence Based Leadership
-- MVP
-- Operational Practices
 categories:
 - Product Management
 preview: NKDAgility-Courses-PSVS-16x9-1.png

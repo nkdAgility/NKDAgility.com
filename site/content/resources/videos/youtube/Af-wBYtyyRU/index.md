@@ -43,14 +43,6 @@ tags:
 - Software Development
 - Operational Practices
 - Product Delivery
-- Product Strategy
-- Agile Product Operating Model
-- Decision Theory
-- Working Software
-- Empirical Process Control
-- Agile Strategy
-- Competence
-- Agile Frameworks
 resourceTypes:
 - video
 categories:

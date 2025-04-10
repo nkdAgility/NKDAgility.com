@@ -40,17 +40,6 @@ tags:
 - Change Management
 - Competence
 - Operational Practices
-- Agile Values and Principles
-- Business Agility
-- Coaching
-- Customer Feedback Loops
-- Social Technologies
-- Agile Strategy
-- Organisational Culture
-- Ability to Innovate
-- Agile Leadership
-- Enterprise Agility
-- Organisational Agility
 resourceTypes:
 - video
 categories: []

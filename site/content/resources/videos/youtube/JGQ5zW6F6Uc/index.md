@@ -31,14 +31,6 @@ tags:
 - Pragmatic Thinking
 - Agile Product Management
 - Team Performance
-- Agile Frameworks
-- Agile Transformation
-- Professional Scrum
-- Product Delivery
-- Agile Leadership
-- Social Technologies
-- Team Collaboration
-- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -47,7 +39,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Product Management
 
 ---
 In my journey through the world of Agile and Scrum, I've encountered a recurring challenge: what to do when the Product Owner is ineffective or, dare I say, incompetent. It’s a strong word, but I’ve met many Product Owners who fit this description, either because they lack the necessary skills or because their organisation doesn’t empower them to fulfil their role effectively. The outcomes are often the same: a team struggling to deliver value and a product that misses the mark.

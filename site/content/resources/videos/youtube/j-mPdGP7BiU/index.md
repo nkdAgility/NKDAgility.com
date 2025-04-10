@@ -35,18 +35,6 @@ tags:
 - Lean Startup
 - Product Discovery
 - Product Validation
-- Continuous Learning
-- Ability to Innovate
-- Evidence Based Management
-- Metrics and Learning
-- Decision Making
-- Pragmatic Thinking
-- Continuous Improvement
-- Evidence Based Leadership
-- Entrepreneurship
-- Product Strategy
-- Decision Theory
-- Product Delivery
 resourceTypes:
 - video
 categories:

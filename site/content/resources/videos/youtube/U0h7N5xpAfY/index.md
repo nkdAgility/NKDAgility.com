@@ -39,23 +39,10 @@ tags:
 - Professional Scrum
 - Agile Frameworks
 - Team Performance
-- Scrum Values
-- Agile Leadership
-- Operational Practices
-- Agile Transformation
-- Competence
-- Organisational Agility
-- Agile Planning
-- Agile Product Management
-- Coaching
-- Continuous Learning
-- Sociotechnical Systems
-- Team Collaboration
 resourceTypes:
 - video
 categories:
 - Scrum
-- Technical Leadership
 
 ---
 Many Scrum Masters step into their role without fully understanding what it entails. Often, the title of Scrum Master is simply handed to them by their organization, and the expectations within the organization can be quite different from the true accountability of the role within the framework of Scrum.

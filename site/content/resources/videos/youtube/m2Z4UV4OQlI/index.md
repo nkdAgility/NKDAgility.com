@@ -40,23 +40,9 @@ tags:
 - Operational Practices
 - Agile Leadership
 - Organisational Agility
-- Value Delivery
-- Agile Strategy
-- Continuous Improvement
-- Enterprise Agility
-- Transparency
-- Empirical Process Control
-- Sociotechnical Systems
-- Agile Product Management
-- Business Agility
-- Organisational Change
-- Strategic Goals
 resourceTypes:
 - video
-categories:
-- Leadership
-- Product Management
-- Technical Leadership
+categories: []
 
 ---
 In today's fast-paced world, organizations often struggle to find the right metrics that drive success. Whether you're a manager, product owner, Scrum Master, or CEO, the **Professional Agile Leadership - Evidence-Based Management (PAL-EBM)** class provides valuable insights into how to navigate this critical aspect of your leadership journey.

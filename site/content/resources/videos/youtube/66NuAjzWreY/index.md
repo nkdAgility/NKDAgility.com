@@ -36,19 +36,6 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - Value Delivery
-- Agile Product Management
-- Agile Strategy
-- Continuous Improvement
-- Organisational Agility
-- Software Development
-- Ability to Innovate
-- Empirical Process Control
-- Agile Philosophy
-- Agile Transformation
-- Enterprise Agility
-- Social Technologies
-- Sociotechnical Systems
-- Strategic Goals
 resourceTypes:
 - video
 layout: video

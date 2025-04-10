@@ -33,22 +33,9 @@ tags:
 - Agile Frameworks
 - Software Development
 - Pragmatic Thinking
-- Team Collaboration
-- Agile Product Management
-- Team Performance
-- Scrum Master
-- Scrum Team
-- Organisational Agility
-- Coaching
-- Competence
-- Metrics and Learning
-- Agile Planning
-- Working Software
-- Customer Feedback Loops
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
 ## Empowering Teams with the APS Approach: Elevating Your Scrum Journey

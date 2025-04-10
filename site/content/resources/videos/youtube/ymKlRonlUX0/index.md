@@ -36,15 +36,6 @@ tags:
 - Agile Planning
 - Agile Values and Principles
 - Pragmatic Thinking
-- Agile Frameworks
-- Organisational Agility
-- Agile Product Management
-- Agile Strategy
-- Agile Transformation
-- Flow Efficiency
-- Personal
-- Product Delivery
-- Value Delivery
 resourceTypes:
 - video
 categories: []

@@ -34,19 +34,6 @@ tags:
 - Personal
 - Sociotechnical Systems
 - Team Motivation
-- Organisational Agility
-- Organisational Psychology
-- Agile Leadership
-- Agile Philosophy
-- Organisational Change
-- Social Technologies
-- Team Collaboration
-- Team Performance
-- Agile Transformation
-- Change Management
-- Organisational Physics
-- Psychological Safety
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

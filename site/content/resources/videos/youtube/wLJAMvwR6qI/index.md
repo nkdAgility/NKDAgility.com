@@ -27,16 +27,6 @@ isShort: false
 tags:
 - Hypothesis Driven Development
 - Experimentation
-- Lean Startup
-- Product Discovery
-- Product Validation
-- Decision Making
-- Metrics and Learning
-- Pragmatic Thinking
-- Continuous Learning
-- Ability to Innovate
-- Decision Theory
-- Evidence Based Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

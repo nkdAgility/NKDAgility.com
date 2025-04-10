@@ -33,19 +33,6 @@ sitemap:
 tags:
 - Working Software
 - Product Delivery
-- Definition of Done
-- Agile Product Management
-- Pragmatic Thinking
-- Software Development
-- Value Delivery
-- Engineering Practices
-- Competence
-- Team Performance
-- Agile Frameworks
-- Agile Planning
-- Operational Practices
-- Scrum Master
-- Scrum Team
 resourceTypes:
 - video
 categories:

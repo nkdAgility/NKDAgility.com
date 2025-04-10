@@ -18,18 +18,10 @@ aliases:
 aliasesArchive:
 - /newsletters/2024-learning-journeys-and-extending-the-learning-process/
 - /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
-categories:
-- Scrum
+categories: []
 tags:
 - Continuous Learning
 - Pragmatic Thinking
-- Competence
-- Agile Transformation
-- Organisational Agility
-- Professional Scrum
-- Software Development
-- Value Delivery
-- Coaching
 
 ---
 We have already had great success with our immersive learning classes, with the 8-week Professional Scrum Product Owner gaining high acclaim not only from the students but also from their managers and leaders:

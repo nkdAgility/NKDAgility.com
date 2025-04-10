@@ -30,10 +30,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
-- Competence
-- Continuous Improvement
+tags: []
 resourceTypes:
 - video
 categories: []

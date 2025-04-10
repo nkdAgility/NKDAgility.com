@@ -28,18 +28,6 @@ isShort: false
 tags:
 - Agile Philosophy
 - Organisational Agility
-- Business Agility
-- Continuous Improvement
-- Software Development
-- Agile Transformation
-- Agile Values and Principles
-- Organisational Culture
-- Agile Leadership
-- Agile Strategy
-- Market Adaptability
-- Team Performance
-- Change Management
-- Self Organisation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

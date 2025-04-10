@@ -26,8 +26,7 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/XZ1Swam_Cx0/maxresdefault.jpg
 duration: 59
 isShort: true
-tags:
-- Competence
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6

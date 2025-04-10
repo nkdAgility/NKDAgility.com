@@ -37,16 +37,10 @@ tags:
 - Agile Frameworks
 - Lean Thinking
 - Pragmatic Thinking
-- Lean Principles
-- Throughput
-- Value Delivery
-- Value Stream Management
-- Metrics and Learning
 resourceTypes:
 - video
 categories:
 - Kanban
-- Lean
 
 ---
 ### Improving Your Workflow in a Kanban Strategy

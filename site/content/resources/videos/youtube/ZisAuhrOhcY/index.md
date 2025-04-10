@@ -37,17 +37,9 @@ tags:
 - Agile Frameworks
 - Transparency
 - Flow Efficiency
-- Agile Strategy
-- Pragmatic Thinking
-- Software Development
-- Metrics and Learning
-- Social Technologies
-- Value Delivery
-- Organisational Agility
 resourceTypes:
 - video
-categories:
-- Kanban
+categories: []
 
 ---
 ### Embracing Kanban for Enhanced Workflow and Predictability

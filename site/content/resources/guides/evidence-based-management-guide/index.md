@@ -35,8 +35,6 @@ card:
   title: The Evidence-Based Management Guide Improving Value Delivery under Conditions of Uncertainty
 categories:
 - Product Management
-- Engineering Excellence
-- Scrum
 tags:
 - Strategic Goals
 - Decision Making

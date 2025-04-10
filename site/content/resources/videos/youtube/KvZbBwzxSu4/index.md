@@ -47,9 +47,6 @@ tags:
 - Organisational Agility
 - Business Agility
 - Sensemaking
-- Ability to Innovate
-- Agile Product Management
-- Change Management
 resourceTypes:
 - video
 categories:

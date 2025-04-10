@@ -30,15 +30,6 @@ tags:
 - Lean Principles
 - Lean Thinking
 - Value Delivery
-- Entrepreneurship
-- Operational Practices
-- Pragmatic Thinking
-- Product Owner
-- Decision Making
-- Product Delivery
-- Product Discovery
-- Market Adaptability
-- Product Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -41,13 +41,6 @@ tags:
 - Coaching
 - Continuous Improvement
 - Agile Philosophy
-- Scrum Master
-- Agile Leadership
-- Agile Planning
-- Agile Strategy
-- Empirical Process Control
-- Professional Scrum
-- Team Performance
 resourceTypes:
 - video
 categories: []

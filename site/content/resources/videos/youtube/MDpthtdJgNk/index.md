@@ -30,15 +30,10 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Operational Practices
-- Pragmatic Thinking
-- Agile Frameworks
-- Flow Efficiency
+tags: []
 resourceTypes:
 - video
-categories:
-- Kanban
+categories: []
 
 ---
 ### Embracing Kanban: A Creative Approach to Workflow Optimization

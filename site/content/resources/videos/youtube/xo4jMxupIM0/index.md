@@ -38,19 +38,6 @@ tags:
 - Continuous Learning
 - Pragmatic Thinking
 - Professional Scrum
-- Agile Frameworks
-- Coaching
-- Continuous Improvement
-- Competence
-- Software Development
-- Organisational Agility
-- Agile Product Management
-- Operational Practices
-- Scrum Team
-- Empirical Process Control
-- Mentoring
-- Metrics and Learning
-- Agile Transformation
 categories:
 - Scrum
 

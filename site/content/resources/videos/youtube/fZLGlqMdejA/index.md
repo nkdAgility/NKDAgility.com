@@ -44,20 +44,9 @@ tags:
 - Agile Product Management
 - Agile Leadership
 - Organisational Agility
-- Agile Frameworks
-- Business Agility
-- Continuous Improvement
-- Continuous Learning
-- Scrum Master
-- Organisational Culture
-- Product Delivery
-- Coaching
 resourceTypes:
 - video
-categories:
-- Scrum
-- Leadership
-- Product Management
+categories: []
 
 ---
 **Overcoming Greed in Agile: A Path to Value and Efficiency** 

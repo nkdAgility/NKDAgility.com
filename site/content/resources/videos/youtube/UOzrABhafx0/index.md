@@ -39,17 +39,6 @@ tags:
 - Agile Product Management
 - Software Development
 - Operational Practices
-- Competence
-- Scrum Team
-- Professional Scrum
-- Transparency
-- Agile Frameworks
-- Agile Transformation
-- Product Delivery
-- Scrum Master
-- Value Delivery
-- Working Software
-- Team Performance
 resourceTypes:
 - video
 categories:

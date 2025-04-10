@@ -42,18 +42,6 @@ tags:
 - Agile Planning
 - Value Delivery
 - Agile Frameworks
-- Metrics and Learning
-- Cycle Time
-- Agile Transformation
-- Continuous Improvement
-- Working Software
-- Product Delivery
-- Agile Product Management
-- Professional Scrum
-- Agile Planning Tools
-- Empirical Process Control
-- Flow Efficiency
-- Product Backlog
 resourceTypes:
 - video
 categories: []

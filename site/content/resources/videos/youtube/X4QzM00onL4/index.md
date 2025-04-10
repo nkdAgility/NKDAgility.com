@@ -32,26 +32,12 @@ tags:
 - Software Development
 - Agile Strategy
 - Organisational Agility
-- Agile Product Management
-- Organisational Culture
-- Agile Leadership
-- Agile Philosophy
-- Agile Planning
-- Agile Transformation
-- Social Technologies
-- Agile Frameworks
-- Agile Values and Principles
-- Sociotechnical Systems
-- Strategic Goals
-- Business Agility
-- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Technical Leadership
+categories: []
 
 ---
 In the world of Agile, chaos is an all-too-familiar spectre that haunts many teams. I often find myself reflecting on the sheer magnitude of this chaos, which can manifest in various ways—most notably, a lack of direction and clarity. When teams are not aligned, when they don’t share a common goal, it’s no surprise that confusion reigns. 

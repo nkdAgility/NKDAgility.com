@@ -33,22 +33,10 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - Software Development
-- Value Delivery
-- Frequent Releases
-- Product Delivery
-- Continuous Delivery
-- Release Management
-- Sociotechnical Systems
-- Technical Excellence
-- Technical Mastery
-- Working Software
-- Market Adaptability
-- Deployment Frequency
 resourceTypes:
 - video
 categories:
 - DevOps
-- Engineering Excellence
 
 ---
 In the fast-evolving world of software development and operations, no two organizations are the same. Every company, every team, and every goal is unique, requiring a tailored approach to DevOps that aligns with specific needs and objectives. In this post, we’ll explore how understanding your current state, streamlining practices, and adopting the right tools can lead to higher quality, more frequent deliveries, and reduced friction in your software development process.

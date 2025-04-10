@@ -30,22 +30,6 @@ tags:
 - Agile Strategy
 - Organisational Agility
 - Value Delivery
-- Business Agility
-- Agile Product Management
-- Agile Transformation
-- Agile Values and Principles
-- Agile Philosophy
-- Enterprise Agility
-- Market Adaptability
-- Operational Practices
-- Social Technologies
-- Agile Planning
-- Sociotechnical Systems
-- Personal
-- Self Organisation
-- Decision Making
-- Flow Efficiency
-- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6

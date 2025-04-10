@@ -35,19 +35,6 @@ tags:
 - Throughput
 - Agile Philosophy
 - Metrics and Learning
-- Agile Product Management
-- Agile Transformation
-- Software Development
-- Cycle Time
-- Agile Frameworks
-- Agile Planning
-- Agile Values and Principles
-- Operational Practices
-- Value Stream Management
-- Estimation
-- Pragmatic Thinking
-- Agile Strategy
-- Product Delivery
 resourceTypes:
 - video
 categories: []

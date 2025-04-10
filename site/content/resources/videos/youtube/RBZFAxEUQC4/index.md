@@ -34,15 +34,6 @@ sitemap:
 tags:
 - Agile Philosophy
 - Agile Transformation
-- Organisational Agility
-- Organisational Culture
-- Software Development
-- Sociotechnical Systems
-- Business Agility
-- Change Management
-- Agile Frameworks
-- Agile Values and Principles
-- Market Adaptability
 resourceTypes:
 - video
 categories: []

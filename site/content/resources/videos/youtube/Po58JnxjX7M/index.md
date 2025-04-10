@@ -36,17 +36,6 @@ tags:
 - Personal
 - Agile Transformation
 - Mentoring
-- Agile Leadership
-- Organisational Agility
-- Agile Philosophy
-- Agile Frameworks
-- Agile Product Management
-- Agile Values and Principles
-- Pragmatic Thinking
-- Social Technologies
-- Team Motivation
-- Working Software
-- Product Delivery
 resourceTypes:
 - video
 categories: []

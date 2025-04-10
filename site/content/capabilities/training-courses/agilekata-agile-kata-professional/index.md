@@ -33,9 +33,6 @@ tags:
 - Organisational Agility
 - Organisational Change
 - Software Development
-- Business Agility
-- Change Management
-- Pragmatic Thinking
 categories: []
 preview: NKDAgility-Courses-AKP-16x9-1.jpg
 previewIcon: AgileKataProLevel1.png

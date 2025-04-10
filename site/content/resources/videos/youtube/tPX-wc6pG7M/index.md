@@ -39,12 +39,6 @@ tags:
 - Organisational Psychology
 - Team Motivation
 - Value Delivery
-- Agile Values and Principles
-- Business Agility
-- Team Collaboration
-- Agentic Agility
-- Agile Transformation
-- Change Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

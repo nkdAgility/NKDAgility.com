@@ -39,16 +39,6 @@ tags:
 - Team Performance
 - Pragmatic Thinking
 - Team Collaboration
-- Agile Frameworks
-- Agile Planning
-- Agile Strategy
-- Common Goals
-- Social Technologies
-- Sociotechnical Systems
-- Software Development
-- Value Delivery
-- Self Organisation
-- Team Motivation
 resourceTypes:
 - video
 categories: []

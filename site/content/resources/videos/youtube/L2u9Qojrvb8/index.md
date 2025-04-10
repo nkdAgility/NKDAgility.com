@@ -32,12 +32,6 @@ sitemap:
 tags:
 - Software Development
 - Pragmatic Thinking
-- Continuous Improvement
-- Market Adaptability
-- Competence
-- Organisational Agility
-- Operational Practices
-- Sociotechnical Systems
 resourceTypes:
 - video
 categories:

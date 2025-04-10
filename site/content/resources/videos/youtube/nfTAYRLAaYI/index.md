@@ -36,10 +36,6 @@ tags:
 - Software Development
 - Operational Practices
 - Transparency
-- Lean Principles
-- Lean Thinking
-- Social Technologies
-- Throughput
 resourceTypes:
 - video
 categories:

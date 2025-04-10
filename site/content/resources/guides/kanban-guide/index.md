@@ -38,11 +38,6 @@ tags:
 - Throughput
 - Lean Principles
 - Lean Thinking
-- Cycle Time
-- Continuous Improvement
-- Metrics and Learning
-- Transparency
-- Value Stream Management
 
 ---
 December 2020

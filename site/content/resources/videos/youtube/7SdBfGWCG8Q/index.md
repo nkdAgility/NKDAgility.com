@@ -35,16 +35,6 @@ tags:
 - Scrum Team
 - Coaching
 - Social Technologies
-- Agile Frameworks
-- Pragmatic Thinking
-- Employee Engagement
-- Organisational Culture
-- Mentoring
-- Scrum Values
-- Agile Values and Principles
-- Software Development
-- Scrum Master
-- Personal
 resourceTypes:
 - video
 layout: video

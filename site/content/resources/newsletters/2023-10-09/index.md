@@ -21,7 +21,6 @@ aliasesArchive:
 - /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
 categories:
 - Scrum
-- Product Management
 tags:
 - Agile Product Management
 - Product Backlog
@@ -29,12 +28,6 @@ tags:
 - Agile Frameworks
 - Professional Scrum
 - Product Owner
-- Agile Planning Tools
-- Agile Planning
-- Product Delivery
-- Pragmatic Thinking
-- Value Delivery
-- Agile Transformation
 
 ---
 Dive deep into the world of **Scrum's Product Backlog Management** with our meticulously crafted course. Master the nuances of understanding your product's core, engaging with stakeholders, and making data-driven decisions. Elevate your Scrum journey with insights from seasoned Professional Scrum Trainers. 🚀

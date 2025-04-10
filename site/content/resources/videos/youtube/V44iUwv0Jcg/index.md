@@ -31,16 +31,6 @@ tags:
 - Continuous Learning
 - Operational Practices
 - Lean Thinking
-- Organisational Agility
-- Competence
-- Agile Philosophy
-- Pragmatic Thinking
-- Team Performance
-- Agile Frameworks
-- Software Development
-- Ability to Innovate
-- Social Technologies
-- Change Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

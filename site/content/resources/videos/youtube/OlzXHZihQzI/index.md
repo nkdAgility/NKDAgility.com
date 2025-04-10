@@ -38,19 +38,6 @@ tags:
 - Agile Philosophy
 - Pragmatic Thinking
 - Agile Values and Principles
-- Competence
-- Agile Frameworks
-- Business Agility
-- Coaching
-- Agile Strategy
-- Agile Leadership
-- Agile Planning
-- Change Management
-- Operational Practices
-- Organisational Change
-- Organisational Culture
-- Scrum Master
-- Social Technologies
 resourceTypes:
 - video
 categories: []

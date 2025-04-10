@@ -26,8 +26,6 @@ aliasesArchive:
 - /resources/blog/pragmatism-crushes-dogma-in-the-wild
 categories:
 - Scrum
-- Technical Leadership
-- Product Management
 preview: NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg
 tags:
 - Agile Planning
@@ -44,12 +42,6 @@ tags:
 - Scrum Master
 - Agile Philosophy
 - Market Adaptability
-- Scrum Team
-- Continuous Learning
-- Self Organisation
-- Team Collaboration
-- Complexity Thinking
-- Value Delivery
 
 ---
 In my journey of delivering an immersive [Product Development Mentor Program](https://nkdagility.com/global-consultancy-services/product-development-mentoring-program/) over the last eight weeks, a compelling narrative unfolded that beautifully illustrates the essence and true strength of Scrum. This story, rooted in the practical application of Scrum through Minecraft, unveils the depth of adaptability and resilience that Scrum can foster within a team.

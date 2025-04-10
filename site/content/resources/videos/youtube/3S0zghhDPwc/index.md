@@ -36,17 +36,6 @@ tags:
 - Competence
 - Agile Values and Principles
 - Product Delivery
-- Agile Product Management
-- Agile Frameworks
-- Agile Strategy
-- Organisational Agility
-- Value Delivery
-- Working Software
-- Agile Leadership
-- Agile Philosophy
-- Agile Planning
-- Continuous Improvement
-- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video

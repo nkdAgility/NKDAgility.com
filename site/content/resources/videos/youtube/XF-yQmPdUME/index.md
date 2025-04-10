@@ -42,14 +42,6 @@ tags:
 - Agile Planning
 - Organisational Agility
 - Agile Strategy
-- Scrum Team
-- Agile Transformation
-- Market Adaptability
-- Agile Product Operating Model
-- Business Agility
-- Common Goals
-- Strategic Goals
-- Working Software
 resourceTypes:
 - video
 categories:

@@ -34,13 +34,6 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Personal
-- Operational Practices
-- Technical Mastery
-- Competence
-- Digital Transformation
-- Working Software
-- Modern Source Control
-- Product Delivery
 resourceTypes:
 - video
 categories:

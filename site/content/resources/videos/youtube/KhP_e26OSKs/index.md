@@ -32,20 +32,6 @@ tags:
 - Pragmatic Thinking
 - Agile Product Management
 - Software Development
-- Agile Planning
-- Customer Feedback Loops
-- Professional Scrum
-- Scrum Team
-- Working Software
-- Product Delivery
-- Social Technologies
-- Team Motivation
-- Team Performance
-- Agile Frameworks
-- Agile Philosophy
-- Agile Transformation
-- Change Management
-- Customer Satisfaction
 sitemap:
   filename: sitemap.xml
   priority: 0.6

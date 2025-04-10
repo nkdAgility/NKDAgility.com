@@ -39,18 +39,9 @@ tags:
 - Agile Product Management
 - Software Development
 - Agile Strategy
-- Organisational Agility
-- Sociotechnical Systems
-- Product Delivery
-- Market Adaptability
-- Agile Frameworks
-- Agile Planning
-- Empirical Process Control
-- Social Technologies
 resourceTypes:
 - video
-categories:
-- Product Management
+categories: []
 
 ---
 There’s a quote from Ken Schwaber, one of the co-creators of Scrum, that goes:

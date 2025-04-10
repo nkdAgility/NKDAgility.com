@@ -42,19 +42,10 @@ tags:
 - Product Delivery
 - Pragmatic Thinking
 - Product Strategy
-- Ability to Innovate
-- Agile Product Management
-- Lean Startup
-- Product Owner
-- Entrepreneurship
-- Agile Strategy
-- Continuous Improvement
-- Decision Theory
 resourceTypes:
 - video
 categories:
 - Product Management
-- Engineering Excellence
 
 ---
 When you're developing a product, it's natural to assume that the features you're adding will deliver value to your customers and your business. But how do you truly know that these features are providing the expected value? Recently, I've been working with a client facing a common issue—sales-driven features are fragmenting their product, making it harder to use. This issue stems from prioritizing short-term gains over long-term value. In this blog post, we'll explore the pitfalls of this approach and how shifting focus towards value-driven development can lead to more sustainable success.

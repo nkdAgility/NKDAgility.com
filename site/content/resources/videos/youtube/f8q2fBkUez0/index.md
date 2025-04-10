@@ -25,8 +25,7 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/f8q2fBkUez0/maxresdefault.jpg
 duration: 4859
 isShort: false
-tags:
-- Organisational Change
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6

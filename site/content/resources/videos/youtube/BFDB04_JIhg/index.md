@@ -38,13 +38,6 @@ tags:
 - Agile Frameworks
 - Flow Efficiency
 - Pragmatic Thinking
-- Continuous Learning
-- Lean Principles
-- Throughput
-- Lean Thinking
-- Empirical Process Control
-- Social Technologies
-- Agile Transformation
 resourceTypes:
 - video
 categories:

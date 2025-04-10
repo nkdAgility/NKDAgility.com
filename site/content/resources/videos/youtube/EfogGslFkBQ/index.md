@@ -39,18 +39,6 @@ tags:
 - Team Performance
 - Flow Efficiency
 - Agile Philosophy
-- Agile Planning
-- Agile Values and Principles
-- Agile Transformation
-- Cycle Time
-- Metrics and Learning
-- Product Delivery
-- Working Software
-- Agile Strategy
-- Continuous Improvement
-- Empirical Process Control
-- Evidence Based Management
-- Organisational Agility
 resourceTypes:
 - video
 categories: []

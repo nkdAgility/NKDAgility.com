@@ -36,14 +36,6 @@ tags:
 - Team Collaboration
 - Coaching
 - Team Performance
-- Continuous Improvement
-- Social Technologies
-- Team Motivation
-- Scrum Master
-- Competence
-- Mentoring
-- Customer Feedback Loops
-- Miscellaneous
 resourceTypes:
 - video
 categories: []

@@ -42,19 +42,9 @@ tags:
 - Agile Transformation
 - Lean Thinking
 - Organisational Agility
-- Agile Values and Principles
-- Scrum Master
-- Social Technologies
-- Competence
-- Change Management
-- Lean Product Development
-- Agile Philosophy
-- Agile Strategy
-- Empirical Process Control
 resourceTypes:
 - video
-categories:
-- Technical Leadership
+categories: []
 
 ---
 In the world of Scrum, Agile, and Kanban, we often borrow terms from other languages to express important principles. One such term is **Kaizen** – a Japanese word that signifies continuous improvement. While we may not always use the word exactly as intended in its native language, the underlying concept is something we should all embrace in our professional lives.

@@ -39,24 +39,10 @@ tags:
 - Product Delivery
 - Product Backlog
 - Team Performance
-- Lean Thinking
-- Value Delivery
-- Agile Frameworks
-- Agile Planning Tools
-- Agile Strategy
-- Lean Principles
-- Metrics and Learning
-- Organisational Agility
-- Product Owner
-- Working Software
-- Flow Efficiency
-- Backlog Refinement
 resourceTypes:
 - video
 layout: video
-categories:
-- Scrum
-- Product Management
+categories: []
 
 ---
 ## Mastering Agility: Steering Clear of the Gluttony Trap in Agile and Scrum 🌟 

@@ -32,26 +32,13 @@ tags:
 - Throughput
 - Team Performance
 - Pragmatic Thinking
-- Continuous Improvement
-- Cycle Time
-- Empirical Process Control
-- Agile Transformation
-- Flow Efficiency
-- Operational Practices
-- Social Technologies
-- Agile Planning
-- Evidence Based Management
-- Agile Frameworks
-- Agile Strategy
-- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Technical Leadership
+categories: []
 
 ---
 In my journey through the world of Agile, I've encountered a recurring theme that I can only describe as "agile banditry." This term might sound a bit dramatic, but it perfectly encapsulates the misuse of certain Agile practices that can undermine the very principles we strive to uphold. One of the most common culprits? The infamous story points and velocity metrics.

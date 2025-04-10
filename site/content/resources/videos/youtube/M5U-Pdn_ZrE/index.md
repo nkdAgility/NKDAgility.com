@@ -27,13 +27,6 @@ duration: 39
 isShort: true
 tags:
 - Product Owner
-- Team Performance
-- Scrum Team
-- Coaching
-- Social Technologies
-- Psychological Safety
-- Sensemaking
-- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

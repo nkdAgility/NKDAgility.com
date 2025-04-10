@@ -31,11 +31,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Continuous Improvement
-- Metrics and Learning
-- Decision Theory
-- Sensemaking
+tags: []
 resourceTypes:
 - video
 categories: []

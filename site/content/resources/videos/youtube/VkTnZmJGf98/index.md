@@ -44,13 +44,6 @@ tags:
 - Value Delivery
 - Agile Transformation
 - Enterprise Agility
-- Ability to Innovate
-- Agile Product Management
-- Continuous Improvement
-- Digital Transformation
-- Operational Practices
-- Strategic Goals
-- Change Management
 resourceTypes:
 - video
 categories:

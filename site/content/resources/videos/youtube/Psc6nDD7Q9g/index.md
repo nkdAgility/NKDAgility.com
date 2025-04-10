@@ -40,17 +40,6 @@ tags:
 - Throughput
 - Organisational Agility
 - Transparency
-- Continuous Delivery
-- Cycle Time
-- Metrics and Learning
-- Empirical Process Control
-- Product Delivery
-- Ability to Innovate
-- Agile Strategy
-- Complexity Thinking
-- Flow Efficiency
-- Value Delivery
-- Team Collaboration
 resourceTypes:
 - video
 categories:

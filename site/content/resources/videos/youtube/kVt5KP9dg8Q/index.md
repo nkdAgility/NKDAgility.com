@@ -39,22 +39,9 @@ tags:
 - Agile Transformation
 - Software Development
 - Agile Strategy
-- Agile Product Management
-- Organisational Change
-- Technical Excellence
-- Working Software
-- Deployment Frequency
-- Organisational Agility
-- Product Delivery
-- Competence
-- Business Agility
-- Digital Transformation
-- Enterprise Agility
-- Large Scale Agility
 resourceTypes:
 - video
-categories:
-- Engineering Excellence
+categories: []
 
 ---
 In the realm of Agile, there's a common trap that many organizations fall into: the belief that implementing Agile development practices is enough to achieve true agility. However, as the Department of Defense's "Detecting Agile BS" guide reveals, Agile development alone isn't sufficient if the rest of the system operates in a traditional, bureaucratic manner. This blog post delves into the insights provided by the guide, exploring why a fully Agile ecosystem is essential and offering practical advice for organizations striving to eliminate Agile BS.

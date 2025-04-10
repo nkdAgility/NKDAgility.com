@@ -44,12 +44,6 @@ tags:
 - Ability to Innovate
 - Empirical Process Control
 - Working Software
-- Business Agility
-- Market Adaptability
-- Agile Frameworks
-- Agile Strategy
-- Customer Satisfaction
-- Product Strategy
 resourceTypes:
 - video
 categories:

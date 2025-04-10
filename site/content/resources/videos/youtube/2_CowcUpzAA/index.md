@@ -33,19 +33,6 @@ tags:
 - Agile Product Management
 - Pragmatic Thinking
 - Software Development
-- Competence
-- Continuous Learning
-- Professional Scrum
-- Scrum Team
-- Product Delivery
-- Value Delivery
-- Agile Frameworks
-- Agile Planning
-- Agile Product Operating Model
-- Agile Strategy
-- Agile Transformation
-- Organisational Agility
-- Decision Making
 resourceTypes:
 - video
 layout: video

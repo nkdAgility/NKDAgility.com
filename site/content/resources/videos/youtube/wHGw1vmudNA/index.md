@@ -36,23 +36,9 @@ tags:
 - Agile Leadership
 - Organisational Agility
 - Social Technologies
-- Agile Transformation
-- Agile Strategy
-- Agile Values and Principles
-- Team Motivation
-- Software Development
-- Agile Frameworks
-- Business Agility
-- Continuous Improvement
-- Sociotechnical Systems
-- Organisational Culture
-- Change Management
-- Organisational Physics
-- Psychological Safety
 resourceTypes:
 - video
-categories:
-- Technical Leadership
+categories: []
 
 ---
 # Navigating the Treacherous Waters of Conflict: The Second Harbinger of the Agile Apocalypse

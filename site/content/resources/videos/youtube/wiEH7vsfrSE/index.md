@@ -38,19 +38,6 @@ tags:
 - Enterprise Agility
 - Sociotechnical Systems
 - Pragmatic Thinking
-- Continuous Learning
-- Organisational Change
-- Organisational Culture
-- Organisational Physics
-- Competence
-- Agile Strategy
-- Change Management
-- Complexity Thinking
-- Miscellaneous
-- Operational Practices
-- Social Technologies
-- Strategic Goals
-- Systems Thinking
 resourceTypes:
 - video
 categories:

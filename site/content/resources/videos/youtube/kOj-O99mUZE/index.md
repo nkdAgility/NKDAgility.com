@@ -34,23 +34,9 @@ tags:
 - Operational Practices
 - Agile Frameworks
 - Portfolio Management
-- Flow Efficiency
-- Value Delivery
-- Enterprise Agility
-- Agile Strategy
-- Large Scale Agility
-- Pragmatic Thinking
-- Product Delivery
-- Organisational Physics
-- Throughput
-- Organisational Agility
-- Software Development
-- Systems Thinking
-- Forecasting
 resourceTypes:
 - video
-categories:
-- Kanban
+categories: []
 
 ---
 ### Scaling Portfolio Kanban: Enhancing Flow and Predictability at the Organizational Level

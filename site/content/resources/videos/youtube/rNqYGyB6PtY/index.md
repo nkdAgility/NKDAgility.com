@@ -30,13 +30,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Product Owner
-- Competence
-- Agile Product Management
-- Pragmatic Thinking
-- Software Development
-- Personal
+tags: []
 resourceTypes:
 - video
 categories: []

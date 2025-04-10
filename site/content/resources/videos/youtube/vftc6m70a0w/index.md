@@ -24,18 +24,7 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/vftc6m70a0w/maxresdefault.jpg
 duration: 142
 isShort: false
-tags:
-- Organisational Agility
-- Agile Philosophy
-- Organisational Change
-- Sociotechnical Systems
-- Agile Transformation
-- Organisational Culture
-- Agile Leadership
-- Agile Strategy
-- Agile Values and Principles
-- Social Technologies
-- Change Management
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -35,17 +35,6 @@ tags:
 - Agile Frameworks
 - Software Development
 - Agile Transformation
-- Agile Philosophy
-- Change Management
-- Sociotechnical Systems
-- Enterprise Agility
-- Organisational Agility
-- Agile Product Management
-- Continuous Improvement
-- Professional Scrum
-- Scrum Master
-- Organisational Culture
-- Value Delivery
 resourceTypes:
 - video
 categories: []

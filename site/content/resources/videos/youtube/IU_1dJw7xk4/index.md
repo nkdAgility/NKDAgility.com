@@ -36,12 +36,6 @@ tags:
 - Software Development
 - Metrics and Learning
 - Pragmatic Thinking
-- Agile Transformation
-- Continuous Improvement
-- Flow Efficiency
-- Agile Strategy
-- Decision Making
-- Evidence Based Leadership
 resourceTypes:
 - video
 categories:

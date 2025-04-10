@@ -56,13 +56,6 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Transparency
-- Operational Practices
-- Scrum Master
-- Common Goals
-- Working Software
-- Agile Transformation
-- Flow Efficiency
-- Value Delivery
 
 ---
 The Daily Scrum is an essential event in the Scrum framework. It offers the

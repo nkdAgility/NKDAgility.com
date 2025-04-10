@@ -33,12 +33,6 @@ tags:
 - Azure DevOps
 - Software Development
 - Install and Configuration
-- Digital Transformation
-- Operational Practices
-- Troubleshooting
-- Azure Repos
-- Pragmatic Thinking
-- Product Delivery
 resourceTypes:
 - video
 categories:

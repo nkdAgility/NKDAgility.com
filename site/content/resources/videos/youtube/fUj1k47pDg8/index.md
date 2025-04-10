@@ -27,24 +27,6 @@ isShort: false
 tags:
 - Product Discovery
 - Product Validation
-- Ability to Innovate
-- Agile Product Management
-- Value Delivery
-- Agile Philosophy
-- Complexity Thinking
-- Continuous Improvement
-- Continuous Learning
-- Hypothesis Driven Development
-- Pragmatic Thinking
-- Evidence Based Leadership
-- Experimentation
-- Sensemaking
-- Empirical Process Control
-- Product Delivery
-- Agile Strategy
-- Lean Product Development
-- Lean Startup
-- Metrics and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

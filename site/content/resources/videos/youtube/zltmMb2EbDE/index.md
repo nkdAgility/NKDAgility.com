@@ -38,17 +38,9 @@ tags:
 - Flow Efficiency
 - Agile Frameworks
 - Pragmatic Thinking
-- Continuous Improvement
-- Cycle Time
-- Value Delivery
-- Product Delivery
-- Agile Transformation
-- Decision Making
-- Empirical Process Control
 resourceTypes:
 - video
-categories:
-- Kanban
+categories: []
 
 ---
 ### Integrating Kanban with Scrum: Enhancing Your Workflow

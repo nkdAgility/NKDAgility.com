@@ -39,21 +39,9 @@ tags:
 - Organisational Culture
 - Psychological Safety
 - Team Motivation
-- Organisational Agility
-- Agile Values and Principles
-- Personal
-- Continuous Improvement
-- Pragmatic Thinking
-- Software Development
-- Organisational Psychology
-- Agile Strategy
-- Social Technologies
-- Agile Frameworks
-- Agile Product Management
 resourceTypes:
 - video
-categories:
-- Technical Leadership
+categories: []
 
 ---
 **Addressing Wrath in Agile Teams: From Blame to Accountability 🌪️🛠️** 

@@ -42,19 +42,9 @@ tags:
 - Scrum Team
 - Team Performance
 - Technical Mastery
-- Engineering Practices
-- Operational Practices
-- Product Delivery
-- Agile Leadership
-- Agile Planning
-- Continuous Improvement
-- Continuous Learning
-- Metrics and Learning
-- Technical Excellence
 categories:
 - Scrum
 - Technical Leadership
-- Engineering Excellence
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
 
 ---

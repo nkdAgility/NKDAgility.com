@@ -25,15 +25,7 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/zro-li2QIMM/maxresdefault.jpg
 duration: 50
 isShort: true
-tags:
-- Coaching
-- Team Motivation
-- Organisational Agility
-- Agile Philosophy
-- Social Technologies
-- Sociotechnical Systems
-- Agile Leadership
-- Organisational Culture
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6

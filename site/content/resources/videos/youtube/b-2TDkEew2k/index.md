@@ -33,15 +33,6 @@ tags:
 - Agile Planning
 - Agile Transformation
 - Agile Values and Principles
-- Agile Strategy
-- Agile Frameworks
-- Team Performance
-- Agile Product Management
-- Continuous Improvement
-- Empirical Process Control
-- Flow Efficiency
-- Product Delivery
-- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6

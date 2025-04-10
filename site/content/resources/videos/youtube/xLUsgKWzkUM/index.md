@@ -30,24 +30,13 @@ tags:
 - Agile Product Management
 - Product Delivery
 - Value Delivery
-- Product Strategy
-- Working Software
-- Decision Making
-- Product Backlog
-- Agile Planning
-- Agile Planning Tools
-- Backlog Refinement
-- Scrum Team
-- Portfolio Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Management
-- Scrum
+categories: []
 
 ---
 As a Product Owner, I often find myself reflecting on the immense responsibility that comes with the role. It’s not just about managing a backlog or prioritising tasks; it’s about being accountable for spending the money wisely. This accountability is a cornerstone of effective product ownership, and it’s something I take very seriously.

@@ -32,14 +32,9 @@ tags:
 - Software Development
 - Agile Frameworks
 - Professional Scrum
-- Value Delivery
-- Agile Transformation
-- Agile Product Management
-- Pragmatic Thinking
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
 ## "Don't scale scrum" - A Common Refrain 

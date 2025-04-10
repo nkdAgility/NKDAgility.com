@@ -32,18 +32,9 @@ tags:
 - Continuous Improvement
 - Operational Practices
 - Lean Principles
-- Agile Frameworks
-- Continuous Learning
-- Metrics and Learning
-- Flow Efficiency
-- Software Development
-- Lean Thinking
-- Pragmatic Thinking
 resourceTypes:
 - video
-categories:
-- Lean
-- Kanban
+categories: []
 
 ---
 ### Demystifying Kanban: A Strategy for Continuous Improvement

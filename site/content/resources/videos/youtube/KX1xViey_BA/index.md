@@ -31,10 +31,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Continuous Improvement
-- Social Technologies
-- Sociotechnical Systems
+tags: []
 resourceTypes:
 - video
 categories: []

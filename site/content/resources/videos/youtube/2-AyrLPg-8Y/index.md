@@ -35,16 +35,6 @@ tags:
 - Competence
 - Agile Leadership
 - Operational Practices
-- Agile Transformation
-- Ability to Innovate
-- Agile Strategy
-- Empirical Process Control
-- Software Development
-- Agile Frameworks
-- Organisational Change
-- Social Technologies
-- Enterprise Agility
-- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6

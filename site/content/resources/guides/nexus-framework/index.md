@@ -39,7 +39,6 @@ card:
   title: Nexus Guide
 categories:
 - Scrum
-- Product Management
 tags:
 - Professional Scrum
 - Agile Frameworks

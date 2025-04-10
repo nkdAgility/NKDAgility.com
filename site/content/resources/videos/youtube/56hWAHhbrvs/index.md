@@ -39,18 +39,6 @@ tags:
 - Pragmatic Thinking
 - Social Technologies
 - Sociotechnical Systems
-- Agile Frameworks
-- Change Management
-- Software Development
-- Agile Values and Principles
-- Market Adaptability
-- Beta Codex
-- Enterprise Agility
-- Organisational Culture
-- Self Organisation
-- Agile Product Management
-- Large Scale Agility
-- Value Delivery
 resourceTypes:
 - video
 layout: video

@@ -36,10 +36,6 @@ tags:
 - Agile Frameworks
 - Operational Practices
 - Software Development
-- Agile Transformation
-- Continuous Improvement
-- Throughput
-- Lean Thinking
 resourceTypes:
 - video
 categories: []

@@ -35,11 +35,6 @@ tags:
 - Software Development
 - Competence
 - Pragmatic Thinking
-- Coaching
-- Continuous Improvement
-- Social Technologies
-- Agile Values and Principles
-- Mentoring
 resourceTypes:
 - video
 categories: []

@@ -36,26 +36,9 @@ tags:
 - Pragmatic Thinking
 - Organisational Culture
 - Beta Codex
-- Organisational Agility
-- Organisational Change
-- Sociotechnical Systems
-- Software Development
-- Agile Philosophy
-- Agile Strategy
-- Team Motivation
-- Team Collaboration
-- Self Organisation
-- Competence
-- Agile Frameworks
-- Agile Product Management
-- Business Agility
-- Continuous Improvement
-- Decision Theory
-- Enterprise Agility
 resourceTypes:
 - video
-categories:
-- Leadership
+categories: []
 
 ---
 # Conquering Famine in Agile Organizations: A Blueprint for Success 🚀

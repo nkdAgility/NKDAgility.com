@@ -32,16 +32,6 @@ tags:
 - Empirical Process Control
 - Agile Transformation
 - Transparency
-- Agile Frameworks
-- Agile Product Management
-- Professional Scrum
-- Agile Planning
-- Scrum Master
-- Social Technologies
-- Team Collaboration
-- Sensemaking
-- Team Performance
-- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

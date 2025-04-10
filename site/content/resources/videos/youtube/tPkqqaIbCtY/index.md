@@ -27,10 +27,6 @@ duration: 48
 isShort: true
 tags:
 - Customer Satisfaction
-- Product Discovery
-- Continuous Improvement
-- Product Strategy
-- Customer Feedback Loops
 sitemap:
   filename: sitemap.xml
   priority: 0.6

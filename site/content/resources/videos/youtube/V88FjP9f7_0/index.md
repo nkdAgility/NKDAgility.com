@@ -38,13 +38,6 @@ tags:
 - Value Delivery
 - Agile Frameworks
 - Agile Transformation
-- Organisational Agility
-- Working Software
-- Product Delivery
-- Continuous Improvement
-- Flow Efficiency
-- Lean Thinking
-- Lean Product Development
 resourceTypes:
 - video
 categories: []

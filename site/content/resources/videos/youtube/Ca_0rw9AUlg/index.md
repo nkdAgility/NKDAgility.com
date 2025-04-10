@@ -37,17 +37,6 @@ tags:
 - Organisational Agility
 - Sociotechnical Systems
 - Agile Philosophy
-- Software Development
-- Pragmatic Thinking
-- Agile Leadership
-- Agile Strategy
-- Agile Transformation
-- Business Agility
-- Complexity Thinking
-- Continuous Improvement
-- Enterprise Agility
-- Change Management
-- Decision Making
 resourceTypes:
 - video
 categories: []

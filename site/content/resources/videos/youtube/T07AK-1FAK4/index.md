@@ -27,7 +27,6 @@ duration: 42
 isShort: true
 tags:
 - Competence
-- Continuous Improvement
 sitemap:
   filename: sitemap.xml
   priority: 0.6

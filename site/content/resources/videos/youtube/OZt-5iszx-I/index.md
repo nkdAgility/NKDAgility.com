@@ -48,14 +48,9 @@ tags:
 - Agile Philosophy
 - Agile Planning
 - Product Owner
-- Lead Time
-- Agile Frameworks
-- Agile Product Management
-- Agile Product Operating Model
 resourceTypes:
 - video
-categories:
-- Product Management
+categories: []
 
 ---
 In the fast-paced world of Agile development, one of the most critical aspects of delivering value is how effectively we turn user feedback into concrete work items. It’s not just about listening to what our users have to say; it's about taking that feedback and quickly transforming it into actions that improve our product. If your feedback loop is slow, your product’s value might be diminishing. Let's explore how to shorten that timeline, ensuring that user feedback fuels continuous improvement and high-value delivery.

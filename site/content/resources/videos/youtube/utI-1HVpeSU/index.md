@@ -26,11 +26,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Social Technologies
-- Team Motivation
-- Agile Philosophy
-- Agile Values and Principles
+tags: []
 resourceTypes:
 - video
 categories: []

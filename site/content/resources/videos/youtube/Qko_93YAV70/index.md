@@ -27,12 +27,6 @@ duration: 50
 isShort: true
 tags:
 - Operational Practices
-- Transparency
-- Pragmatic Thinking
-- Agile Frameworks
-- Continuous Improvement
-- Social Technologies
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

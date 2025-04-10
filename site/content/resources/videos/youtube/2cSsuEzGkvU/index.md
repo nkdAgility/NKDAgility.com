@@ -34,14 +34,6 @@ tags:
 - Agile Leadership
 - Coaching
 - Social Technologies
-- Agile Transformation
-- Employee Engagement
-- Mentoring
-- Psychological Safety
-- Scrum Values
-- Agile Strategy
-- Personal
-- Business Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

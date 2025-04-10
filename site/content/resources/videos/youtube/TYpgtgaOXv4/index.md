@@ -35,26 +35,9 @@ tags:
 - Agile Planning
 - Agile Planning Tools
 - Operational Practices
-- Agile Product Management
-- Product Backlog
-- Software Development
-- Product Owner
-- Product Delivery
-- Agile Frameworks
-- Agile Transformation
-- Professional Scrum
-- Working Software
-- Transparency
-- Value Delivery
-- Agile Philosophy
-- Agile Product Operating Model
-- Agile Strategy
-- Empirical Process Control
 resourceTypes:
 - video
-categories:
-- Product Management
-- Scrum
+categories: []
 
 ---
 Product backlog management is gaining a lot of attention in the Agile community right now—and for good reason. From my experience working with organizations across various industries, one of the most significant areas where I see teams struggle is in managing their product backlogs effectively.

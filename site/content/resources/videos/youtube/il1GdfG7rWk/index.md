@@ -41,15 +41,6 @@ tags:
 - Pragmatic Thinking
 - Agile Planning Tools
 - Software Development
-- Competence
-- Working Software
-- Operational Practices
-- Agile Frameworks
-- Agile Philosophy
-- Agile Product Operating Model
-- Continuous Improvement
-- Continuous Learning
-- Definition of Ready
 resourceTypes:
 - video
 categories:

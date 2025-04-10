@@ -33,14 +33,8 @@ tags:
 - Azure DevOps
 - Software Development
 - Transparency
-- Azure Boards
-- Pragmatic Thinking
-- Agile Frameworks
-- Lean Thinking
-- Throughput
 categories:
 - Kanban
-- Lean
 preview: NKDAgility-technically-BlockedColumns-7-7.jpg
 
 ---

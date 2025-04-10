@@ -33,19 +33,6 @@ tags:
 - Business Agility
 - Organisational Agility
 - Pragmatic Thinking
-- Agile Philosophy
-- Enterprise Agility
-- Organisational Change
-- Entrepreneurship
-- Market Adaptability
-- Agile Strategy
-- Agile Values and Principles
-- Change Management
-- Continuous Improvement
-- Miscellaneous
-- Organisational Culture
-- Organisational Physics
-- Sensemaking
 resourceTypes:
 - video
 categories: []

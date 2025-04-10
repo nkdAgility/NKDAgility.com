@@ -40,10 +40,6 @@ tags:
 - Flow Efficiency
 - Lean Principles
 - Lean Thinking
-- Working Software
-- Continuous Improvement
-- Lean Product Development
-- Product Delivery
 resourceTypes:
 - video
 categories:

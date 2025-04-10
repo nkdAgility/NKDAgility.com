@@ -36,14 +36,6 @@ tags:
 - Transparency
 - Agile Transformation
 - Pragmatic Thinking
-- Product Delivery
-- Team Performance
-- Self Organisation
-- Organisational Agility
-- Scrum Team
-- Decision Making
-- Scrum Master
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

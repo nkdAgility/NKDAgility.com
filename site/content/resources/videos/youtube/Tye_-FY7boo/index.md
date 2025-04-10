@@ -38,11 +38,6 @@ tags:
 - Product Validation
 - Agile Strategy
 - Pragmatic Thinking
-- Agile Philosophy
-- Product Delivery
-- Agile Product Operating Model
-- Organisational Agility
-- Professional Scrum
 resourceTypes:
 - video
 categories:

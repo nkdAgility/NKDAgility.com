@@ -50,13 +50,10 @@ tags:
 - Agile Transformation
 - Agile Values and Principles
 - Increment
-- Agile Product Operating Model
 resourceTypes:
 - video
 layout: video
-categories:
-- Product Management
-- Scrum
+categories: []
 
 ---
 In the ever-evolving world of Agile, the ability to deliver working software to real users every iteration, including the very first one, is crucial. If your team isn't doing that, you may not be as Agile as you think. The heart of Agile lies in closing feedback loops and fostering tight interactions with customers. In this blog post, we'll dive into why delivering working software early and often is essential for true agility, how it impacts your product's success, and practical advice to help your team excel in this area.

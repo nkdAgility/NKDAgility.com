@@ -32,9 +32,6 @@ sitemap:
   priority: 0.6
 tags:
 - Competence
-- Scrum Master
-- Pragmatic Thinking
-- Team Collaboration
 resourceTypes:
 - video
 categories: []

@@ -33,20 +33,9 @@ tags:
 - Operational Practices
 - Forecasting
 - Software Development
-- Agile Frameworks
-- Throughput
-- Flow Efficiency
-- Product Delivery
-- Pragmatic Thinking
-- Value Delivery
-- Estimation
-- Agile Planning
-- Agile Strategy
-- Decision Making
 resourceTypes:
 - video
-categories:
-- Kanban
+categories: []
 
 ---
 ### Enhancing Team Predictability with Kanban: The "Applying Metrics for Predictability" Course

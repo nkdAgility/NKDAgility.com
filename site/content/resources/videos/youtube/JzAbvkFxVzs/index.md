@@ -37,24 +37,9 @@ tags:
 - Agile Transformation
 - Agile Product Management
 - Software Development
-- Agile Philosophy
-- Agile Strategy
-- Scrum Master
-- Scrum Team
-- Team Collaboration
-- Working Software
-- Product Delivery
-- Scrum Values
-- Daily Scrum
-- Professional Scrum
-- Agile Values and Principles
-- Continuous Improvement
-- Organisational Agility
 resourceTypes:
 - video
-categories:
-- Scrum
-- Technical Leadership
+categories: []
 
 ---
 In the world of Agile, we often hear about the famous "three questions" used during the daily Scrum or retrospective sessions:

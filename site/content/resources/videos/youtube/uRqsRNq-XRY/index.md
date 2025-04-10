@@ -29,19 +29,6 @@ tags:
 - Agile Philosophy
 - Organisational Culture
 - Team Performance
-- Continuous Improvement
-- Organisational Agility
-- Social Technologies
-- Agile Leadership
-- Agile Values and Principles
-- Pragmatic Thinking
-- Psychological Safety
-- Software Development
-- Team Collaboration
-- Metrics and Learning
-- Agile Frameworks
-- Business Agility
-- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

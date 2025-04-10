@@ -34,18 +34,10 @@ tags:
 - Software Development
 - Agile Philosophy
 - Organisational Agility
-- Agile Frameworks
-- Agile Product Management
-- Personal
-- Coaching
-- Scrum Master
-- Pragmatic Thinking
-- Value Delivery
 resourceTypes:
 - video
 layout: video
-categories:
-- Scrum
+categories: []
 
 ---
 In the world of Agile, one ghost that haunts us is dogma. If you've been in Agile long enough, you've probably encountered those dogmatic individuals who cling to a rigid set of beliefs, refusing to adapt or consider the actual data, feedback, or experiences of the people around them. These folks? They need to be shown the door 🚪. Agile is about flexibility, adaptation, and collaboration—dogma has no place here.

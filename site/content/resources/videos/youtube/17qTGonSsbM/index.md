@@ -31,25 +31,6 @@ sitemap:
   priority: 0.6
 tags:
 - Continuous Improvement
-- Agile Product Management
-- Product Owner
-- Agile Philosophy
-- Agile Strategy
-- Agile Values and Principles
-- Business Agility
-- Software Development
-- Market Adaptability
-- Personal
-- Product Discovery
-- Agile Leadership
-- Change Management
-- Continuous Learning
-- Empirical Process Control
-- Enterprise Agility
-- Evidence Based Leadership
-- Organisational Agility
-- Pragmatic Thinking
-- Strategic Goals
 resourceTypes:
 - video
 layout: video

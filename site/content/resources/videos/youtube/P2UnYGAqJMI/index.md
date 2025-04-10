@@ -38,9 +38,6 @@ tags:
 - Agile Frameworks
 - Agile Values and Principles
 - Continuous Improvement
-- Empirical Process Control
-- Team Performance
-- Operational Practices
 resourceTypes:
 - video
 categories: []

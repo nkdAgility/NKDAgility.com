@@ -37,20 +37,6 @@ tags:
 - Scrum Master
 - Team Performance
 - Team Collaboration
-- Agile Frameworks
-- Scrum Team
-- Agile Transformation
-- Coaching
-- Software Development
-- Value Delivery
-- Definition of Done
-- Agile Product Management
-- Continuous Improvement
-- Operational Practices
-- Organisational Agility
-- Professional Scrum
-- Social Technologies
-- Customer Feedback Loops
 resourceTypes:
 - video
 categories:

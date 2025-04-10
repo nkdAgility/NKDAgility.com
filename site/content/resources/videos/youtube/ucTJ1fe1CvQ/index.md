@@ -33,23 +33,6 @@ tags:
 - Product Discovery
 - Pragmatic Thinking
 - Continuous Learning
-- Product Owner
-- Ability to Innovate
-- Sensemaking
-- Agile Philosophy
-- Agile Product Management
-- Agile Strategy
-- Complexity Thinking
-- Continuous Improvement
-- Hypothesis Driven Development
-- Lean Product Development
-- Lean Startup
-- Organisational Agility
-- Value Delivery
-- Empirical Process Control
-- Product Strategy
-- Product Validation
-- Metrics and Learning
 resourceTypes:
 - video
 categories:

@@ -31,22 +31,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Product Management
-- Empirical Process Control
-- Agile Philosophy
-- Agile Planning
-- Software Development
-- Agile Transformation
-- Pragmatic Thinking
-- Professional Scrum
-- Social Technologies
-- Value Delivery
-- Estimation
-- Scrum Master
-- Team Collaboration
-- Product Backlog
-- Team Performance
+tags: []
 resourceTypes:
 - video
 categories: []

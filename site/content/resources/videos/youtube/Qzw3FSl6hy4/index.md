@@ -36,12 +36,6 @@ tags:
 - Product Owner
 - Pragmatic Thinking
 - Product Strategy
-- Strategic Goals
-- Value Delivery
-- Ability to Innovate
-- Agile Strategy
-- Entrepreneurship
-- Market Share
 resourceTypes:
 - video
 categories:

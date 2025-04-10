@@ -37,14 +37,6 @@ tags:
 - Agile Product Management
 - Product Backlog
 - Team Collaboration
-- Agile Transformation
-- Definition of Done
-- Working Software
-- Product Delivery
-- Agile Planning Tools
-- Professional Scrum
-- Scrum Master
-- Backlog Refinement
 sitemap:
   filename: sitemap.xml
   priority: 0.6

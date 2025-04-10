@@ -36,17 +36,6 @@ tags:
 - Agile Transformation
 - Organisational Agility
 - Business Agility
-- Competence
-- Agile Product Management
-- Coaching
-- Sociotechnical Systems
-- Agile Frameworks
-- Agile Philosophy
-- Change Management
-- Digital Transformation
-- Large Scale Agility
-- Market Adaptability
-- Organisational Culture
 resourceTypes:
 - video
 categories:

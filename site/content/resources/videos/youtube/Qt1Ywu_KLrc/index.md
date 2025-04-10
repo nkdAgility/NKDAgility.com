@@ -28,19 +28,13 @@ tags:
 - Azure DevOps
 - Install and Configuration
 - Software Development
-- Pragmatic Thinking
-- Windows
-- Operational Practices
-- Troubleshooting
-- System Configuration
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- DevOps
+categories: []
 
 ---
 When it comes to migrating projects within Azure DevOps, I often find that the process can seem daunting, especially for those who are new to the platform. However, I’m here to share my personal experience and guide you through a straightforward migration using the Azure DevOps migration tools. I’ll also address some common exceptions and issues that may arise along the way. So, let’s dive in!
