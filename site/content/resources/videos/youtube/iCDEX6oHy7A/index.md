@@ -30,8 +30,6 @@ tags:
 - Software Development
 - Agile Frameworks
 - Competence
-- Continuous Improvement
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

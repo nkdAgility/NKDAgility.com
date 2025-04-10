@@ -36,12 +36,6 @@ tags:
 - Agile Values and Principles
 - Team Performance
 - Agile Frameworks
-- Business Agility
-- Professional Scrum
-- Social Technologies
-- Organisational Agility
-- Organisational Culture
-- Product Delivery
 categories:
 - Scrum
 preview: naked-agility-technically-agile-1280×720-19-1-1.jpg

@@ -27,8 +27,7 @@ aliasesArchive:
 - /blog/tfs-sticky-buddy-layout-fun---
 - /tfs-sticky-buddy-layout-fun
 - /resources/blog/tfs-sticky-buddy-layout-fun
-tags:
-- Windows
+tags: []
 categories: []
 preview: metro-binary-vb-128-link-3-1.png
 

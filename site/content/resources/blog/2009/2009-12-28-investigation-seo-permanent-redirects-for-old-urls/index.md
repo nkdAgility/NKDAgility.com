@@ -31,8 +31,6 @@ tags:
 - Software Development
 - Troubleshooting
 - Windows
-- Pragmatic Thinking
-- Install and Configuration
 categories: []
 preview: metro-sharepoint-128-link-4-4.png
 

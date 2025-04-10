@@ -38,16 +38,6 @@ tags:
 - Empirical Process Control
 - Professional Scrum
 - Team Performance
-- Sprint Review
-- Agile Philosophy
-- Agile Strategy
-- Psychological Safety
-- Social Technologies
-- Team Collaboration
-- Value Delivery
-- Agile Planning
-- Agile Values and Principles
-- Competence
 resourceTypes:
 - video
 categories:

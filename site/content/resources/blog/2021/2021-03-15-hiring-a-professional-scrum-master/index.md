@@ -34,12 +34,6 @@ tags:
 - Coaching
 - Competence
 - Agile Leadership
-- Agile Planning
-- Empirical Process Control
-- Self Organisation
-- Team Collaboration
-- Product Delivery
-- Mentoring
 categories:
 - Scrum
 - Technical Leadership

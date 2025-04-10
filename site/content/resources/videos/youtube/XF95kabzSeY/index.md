@@ -28,6 +28,7 @@ duration: 67
 isShort: false
 tags:
 - Product Owner
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

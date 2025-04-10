@@ -27,7 +27,11 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/FquWl26Uc8Y/maxresdefault.jpg
 duration: 58
 isShort: true
-tags: []
+tags:
+- Technical Debt
+- Continuous Improvement
+- Technical Mastery
+- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

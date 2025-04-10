@@ -25,16 +25,6 @@ tags:
 - Competence
 - Organisational Agility
 - Agile Transformation
-- Agile Frameworks
-- Agile Product Management
-- Business Agility
-- Coaching
-- Social Technologies
-- Team Collaboration
-- Market Adaptability
-- Agile Strategy
-- Pragmatic Thinking
-- Software Development
 
 ---
 Dear NKD Agilists!

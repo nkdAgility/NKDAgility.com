@@ -35,25 +35,10 @@ tags:
 - Pragmatic Thinking
 - Market Adaptability
 - Working Software
-- Agile Product Management
-- Agile Strategy
-- Common Goals
-- Continuous Improvement
-- Customer Satisfaction
-- Frequent Releases
-- Team Collaboration
-- Agile Philosophy
-- Agile Transformation
-- Continuous Delivery
-- Operational Practices
-- Organisational Agility
-- Customer Retention
 resourceTypes:
 - video
 categories:
 - DevOps
-- Technical Leadership
-- Engineering Excellence
 
 ---
 How important is DevOps in continuous delivery of value to customers?

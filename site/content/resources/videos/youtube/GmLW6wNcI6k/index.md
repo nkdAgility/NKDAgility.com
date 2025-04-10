@@ -35,15 +35,6 @@ tags:
 - Pragmatic Thinking
 - Complexity Thinking
 - Continuous Learning
-- Agile Philosophy
-- Agile Strategy
-- Agile Values and Principles
-- Business Agility
-- Continuous Improvement
-- Empirical Process Control
-- Market Adaptability
-- Organisational Agility
-- Personal
 resourceTypes:
 - video
 categories: []

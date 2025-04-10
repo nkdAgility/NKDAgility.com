@@ -31,7 +31,6 @@ tags:
 - Troubleshooting
 - Software Development
 - Install and Configuration
-- Pragmatic Thinking
 categories: []
 preview: metro-problem-icon-3-3.png
 

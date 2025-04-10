@@ -34,9 +34,6 @@ sitemap:
   priority: 0.6
 tags:
 - Continuous Learning
-- Coaching
-- Social Technologies
-- Team Collaboration
 resourceTypes:
 - video
 categories: []

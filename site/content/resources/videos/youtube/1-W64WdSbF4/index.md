@@ -44,9 +44,6 @@ tags:
 - Software Development
 - Sprint Review
 - Professional Scrum
-- Team Performance
-- Continuous Improvement
-- Empirical Process Control
 resourceTypes:
 - video
 layout: video

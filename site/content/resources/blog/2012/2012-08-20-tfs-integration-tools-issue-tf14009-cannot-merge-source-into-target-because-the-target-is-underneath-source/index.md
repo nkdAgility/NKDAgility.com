@@ -35,9 +35,6 @@ tags:
 - Modern Source Control
 - Install and Configuration
 - Azure Repos
-- Azure DevOps
-- Pragmatic Thinking
-- System Configuration
 categories: []
 preview: metro-problem-icon-5-5.png
 

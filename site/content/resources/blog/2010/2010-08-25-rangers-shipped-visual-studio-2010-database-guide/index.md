@@ -27,13 +27,6 @@ tags:
 - Software Development
 - Application Lifecycle Management
 - Install and Configuration
-- Modern Source Control
-- Pragmatic Thinking
-- Release Management
-- Technical Excellence
-- Technical Mastery
-- Working Software
-- Product Delivery
 categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 

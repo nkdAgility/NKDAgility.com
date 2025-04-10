@@ -45,8 +45,6 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Throughput
-- Agile Planning Tools
-- Cycle Time
 categories:
 - Kanban
 card:

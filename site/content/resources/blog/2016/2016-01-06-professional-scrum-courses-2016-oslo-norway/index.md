@@ -35,7 +35,6 @@ tags:
 - Software Development
 - Professional Scrum
 - Scrum Master
-- Product Delivery
 categories:
 - Scrum
 preview: clip_image001-1-1.jpg

@@ -37,14 +37,6 @@ tags:
 - Metrics and Learning
 - Agile Transformation
 - Team Performance
-- Operational Practices
-- Agile Frameworks
-- Customer Feedback Loops
-- Agile Philosophy
-- Agile Planning
-- Scrum Team
-- Competence
-- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -54,7 +46,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Technical Leadership
 
 ---
 When it comes to enhancing your team's agility, the question often arises: is the EPS immersive learning experience akin to having a hands-on Scrum coach? My answer? Not quite, but it’s pretty close. Let me explain why I believe this immersive approach can be a game-changer for your organisation.

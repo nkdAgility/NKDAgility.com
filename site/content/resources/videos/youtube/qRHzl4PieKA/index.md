@@ -51,6 +51,7 @@ tags:
 - Agile Philosophy
 - Agile Values and Principles
 - Pragmatic Thinking
+- Agile Product Operating Model
 resourceTypes:
 - video
 categories: []

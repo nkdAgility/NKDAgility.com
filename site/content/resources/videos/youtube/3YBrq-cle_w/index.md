@@ -37,11 +37,6 @@ tags:
 - Team Motivation
 - Agile Transformation
 - Competence
-- Team Performance
-- Mentoring
-- Pragmatic Thinking
-- Social Technologies
-- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -43,14 +43,10 @@ tags:
 - Pragmatic Thinking
 - Product Owner
 - Value Delivery
-- Working Software
-- Scrum Master
-- Social Technologies
 resourceTypes:
 - video
 categories:
 - Scrum
-- Product Management
 
 ---
 ## Unleashing the Power of Stakeholder Engagement in Sprint Reviews 💡**🔍** 

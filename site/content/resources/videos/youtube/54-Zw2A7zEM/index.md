@@ -30,7 +30,6 @@ sitemap:
 tags:
 - Software Development
 - Agile Transformation
-- Agile Frameworks
 resourceTypes:
 - video
 layout: video

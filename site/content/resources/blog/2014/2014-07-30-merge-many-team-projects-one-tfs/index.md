@@ -32,10 +32,6 @@ tags:
 - Install and Configuration
 - System Configuration
 - Troubleshooting
-- Azure DevOps
-- Operational Practices
-- Pragmatic Thinking
-- Modern Source Control
 categories: []
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 

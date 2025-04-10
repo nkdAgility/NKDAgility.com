@@ -39,11 +39,6 @@ tags:
 - Team Performance
 - Agile Transformation
 - Social Technologies
-- Scrum Team
-- Working Software
-- Product Backlog
-- Product Owner
-- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

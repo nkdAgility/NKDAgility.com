@@ -30,6 +30,11 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Team Performance
+- Scrum Team
+- Social Technologies
+- Agile Transformation
+- Team Collaboration
+- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.6

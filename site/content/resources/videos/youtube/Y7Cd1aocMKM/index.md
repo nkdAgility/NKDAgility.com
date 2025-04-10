@@ -32,8 +32,6 @@ tags:
 - Remote Working
 - Pragmatic Thinking
 - Team Collaboration
-- Agile Transformation
-- Competence
 resourceTypes:
 - video
 categories: []

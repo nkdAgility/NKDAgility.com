@@ -45,16 +45,10 @@ tags:
 - Pragmatic Thinking
 - Sociotechnical Systems
 - Team Performance
-- Agile Planning
-- Professional Scrum
-- Team Motivation
-- Agile Strategy
-- Organisational Culture
 resourceTypes:
 - video
 categories:
 - Scrum
-- Leadership
 
 ---
 **Would you recommend the APS course to a newbie scrum team, and Why?**

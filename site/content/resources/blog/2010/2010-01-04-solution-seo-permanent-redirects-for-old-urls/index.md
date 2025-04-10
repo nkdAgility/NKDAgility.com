@@ -33,8 +33,6 @@ tags:
 - Pragmatic Thinking
 - Troubleshooting
 - Technical Mastery
-- Technical Excellence
-- System Configuration
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

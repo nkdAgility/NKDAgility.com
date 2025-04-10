@@ -32,10 +32,6 @@ tags:
 - Software Development
 - Agile Philosophy
 - Pragmatic Thinking
-- Agile Transformation
-- Agile Strategy
-- Personal
-- Competence
 resourceTypes:
 - video
 categories: []

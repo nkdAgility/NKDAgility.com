@@ -43,15 +43,9 @@ tags:
 - Sociotechnical Systems
 - Working Software
 - Increment
-- Agile Product Operating Model
-- Enterprise Agility
-- Product Delivery
-- Value Delivery
-- Decision Making
 resourceTypes:
 - video
-categories:
-- Product Management
+categories: []
 
 ---
 How is agile product development different to waterfall project management?

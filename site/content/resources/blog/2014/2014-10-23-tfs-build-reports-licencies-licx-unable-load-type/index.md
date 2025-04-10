@@ -34,11 +34,6 @@ tags:
 - Windows
 - Install and Configuration
 - System Configuration
-- Continuous Integration
-- Operational Practices
-- Release Management
-- Technical Mastery
-- Working Software
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 

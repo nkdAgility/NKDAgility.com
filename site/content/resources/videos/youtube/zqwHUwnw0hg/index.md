@@ -41,14 +41,6 @@ tags:
 - Team Performance
 - Pragmatic Thinking
 - Agile Planning
-- Agile Strategy
-- Organisational Agility
-- Sociotechnical Systems
-- Transparency
-- Competence
-- Team Collaboration
-- Value Delivery
-- Product Delivery
 resourceTypes:
 - video
 categories:

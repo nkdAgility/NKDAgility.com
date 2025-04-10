@@ -33,17 +33,6 @@ tags:
 - Technical Excellence
 - Modern Source Control
 - Engineering Practices
-- Azure Pipelines
-- Azure DevOps
-- Automated Testing
-- Continuous Delivery
-- Operational Practices
-- Pragmatic Thinking
-- Release Management
-- Technical Mastery
-- Working Software
-- Install and Configuration
-- Product Delivery
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
 - Engineering Excellence

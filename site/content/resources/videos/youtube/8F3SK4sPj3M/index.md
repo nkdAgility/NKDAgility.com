@@ -31,8 +31,6 @@ sitemap:
 tags:
 - Product Owner
 - Agile Product Management
-- Competence
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories: []

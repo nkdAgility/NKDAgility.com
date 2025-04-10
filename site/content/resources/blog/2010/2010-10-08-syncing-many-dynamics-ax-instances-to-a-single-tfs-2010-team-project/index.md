@@ -29,12 +29,6 @@ tags:
 - System Configuration
 - Modern Source Control
 - Pragmatic Thinking
-- Application Lifecycle Management
-- Operational Practices
-- Technical Excellence
-- Troubleshooting
-- Working Software
-- Technical Mastery
 categories: []
 
 ---

@@ -38,12 +38,6 @@ tags:
 - Agile Philosophy
 - Agile Strategy
 - Strategic Goals
-- Agile Transformation
-- Digital Transformation
-- Organisational Physics
-- Personal
-- Entrepreneurship
-- Organisational Culture
 categories: []
 preview: naked-agility-technically-survivalisoptional-1-1.jpg
 

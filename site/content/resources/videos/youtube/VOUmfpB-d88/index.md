@@ -39,6 +39,17 @@ tags:
 - Continuous Improvement
 - Team Collaboration
 - Competence
+- Agile Philosophy
+- Agile Product Management
+- Agile Strategy
+- Change Management
+- Operational Practices
+- Organisational Agility
+- Organisational Change
+- Scrum Master
+- Value Delivery
+- Social Technologies
+- Team Performance
 resourceTypes:
 - video
 categories:

@@ -31,8 +31,6 @@ tags:
 - Troubleshooting
 - Software Development
 - Install and Configuration
-- Pragmatic Thinking
-- Modern Source Control
 preview: image-1.png
 categories: []
 

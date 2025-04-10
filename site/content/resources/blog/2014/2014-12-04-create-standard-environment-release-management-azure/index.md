@@ -35,15 +35,7 @@ tags:
 - Release Management
 - Application Lifecycle Management
 - Product Delivery
-- Continuous Delivery
-- Operational Practices
-- Pragmatic Thinking
-- Technical Excellence
-- Technical Mastery
-- Working Software
-categories:
-- DevOps
-- Engineering Excellence
+categories: []
 preview: nakedalm-windows-logo-16-16.png
 
 ---

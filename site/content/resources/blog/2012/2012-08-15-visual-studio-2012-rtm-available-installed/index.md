@@ -30,7 +30,6 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Software Development
-- System Configuration
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 

@@ -27,10 +27,6 @@ duration: 49
 isShort: true
 tags:
 - Pragmatic Thinking
-- Coaching
-- Sociotechnical Systems
-- Social Technologies
-- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

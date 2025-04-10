@@ -29,11 +29,7 @@ tags:
 - Software Development
 - Agile Philosophy
 - Competence
-- Pragmatic Thinking
-- Organisational Culture
-categories:
-- Leadership
-- Engineering Excellence
+categories: []
 preview: clip_image001-2-2.png
 
 ---

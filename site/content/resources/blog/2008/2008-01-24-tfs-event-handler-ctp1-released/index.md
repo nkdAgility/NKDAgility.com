@@ -23,8 +23,7 @@ aliasesArchive:
 - /blog/tfs-event-handler-ctp1-released
 - /tfs-event-handler-ctp1-released
 - /resources/blog/tfs-event-handler-ctp1-released
-tags:
-- Software Development
+tags: []
 categories: []
 preview: metro-visual-studio-2005-128-link-4-1.png
 

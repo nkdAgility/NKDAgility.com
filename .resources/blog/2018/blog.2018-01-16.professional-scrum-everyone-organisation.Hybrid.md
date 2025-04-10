@@ -51,8 +51,6 @@ tags:
 - Coaching
 categories:
 - Scrum
-- Technical Leadership
-- Leadership
 preview: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg
 
 ---

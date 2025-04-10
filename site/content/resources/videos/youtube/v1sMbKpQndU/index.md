@@ -51,8 +51,6 @@ tags:
 - Self Organisation
 - Sociotechnical Systems
 - Mentoring
-- Competence
-- Agile Frameworks
 resourceTypes:
 - video
 categories:

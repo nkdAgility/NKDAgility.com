@@ -39,15 +39,6 @@ tags:
 - Market Adaptability
 - Product Delivery
 - Value Delivery
-- Competence
-- Organisational Agility
-- Sociotechnical Systems
-- Technical Excellence
-- Working Software
-- Agile Strategy
-- Social Technologies
-- Deployment Frequency
-- Technical Mastery
 resourceTypes:
 - video
 categories:

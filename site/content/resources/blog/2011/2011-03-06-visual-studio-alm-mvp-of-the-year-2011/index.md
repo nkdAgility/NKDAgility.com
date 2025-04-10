@@ -23,8 +23,7 @@ aliasesArchive:
 - /blog/visual-studio-alm-mvp-of-the-year-2011
 - /visual-studio-alm-mvp-of-the-year-2011
 - /resources/blog/visual-studio-alm-mvp-of-the-year-2011
-tags:
-- Miscellaneous
+tags: []
 categories: []
 preview: metro-award-link-2-2.png
 

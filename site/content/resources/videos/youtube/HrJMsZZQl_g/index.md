@@ -33,6 +33,10 @@ tags:
 - Agile Frameworks
 - Software Development
 - Pragmatic Thinking
+- Team Collaboration
+- Agile Product Management
+- Team Performance
+- Scrum Master
 resourceTypes:
 - video
 categories: []

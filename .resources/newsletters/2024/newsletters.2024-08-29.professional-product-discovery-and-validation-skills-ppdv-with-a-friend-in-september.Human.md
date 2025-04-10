@@ -20,17 +20,12 @@ aliasesArchive:
 - /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
 categories:
 - Product Management
-- Scrum
 tags:
 - Product Validation
 - Product Discovery
 - Agile Product Management
 - Product Owner
 - Product Delivery
-- Customer Satisfaction
-- MVP
-- Team Collaboration
-- Value Delivery
 
 ---
 **Dear Innovators and Product Enthusiasts,**

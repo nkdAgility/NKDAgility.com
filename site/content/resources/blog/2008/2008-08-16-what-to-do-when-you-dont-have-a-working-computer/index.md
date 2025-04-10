@@ -27,8 +27,7 @@ aliasesArchive:
 - /what-to-do-when-you-dont-have-a-working-computer-
 - /blog/what-to-do-when-you-dont-have-a-working-computer-
 - /resources/blog/what-to-do-when-you-dont-have-a-working-computer
-tags:
-- Miscellaneous
+tags: []
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

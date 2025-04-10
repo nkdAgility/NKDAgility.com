@@ -34,10 +34,6 @@ tags:
 - Competence
 - Personal
 - Team Performance
-- Agile Product Management
-- Coaching
-- Continuous Improvement
-- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

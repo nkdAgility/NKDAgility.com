@@ -30,15 +30,6 @@ tags:
 - Pragmatic Thinking
 - Agile Philosophy
 - Continuous Learning
-- Agile Transformation
-- Agile Frameworks
-- Coaching
-- Team Collaboration
-- Business Agility
-- Change Management
-- Personal
-- Social Technologies
-- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

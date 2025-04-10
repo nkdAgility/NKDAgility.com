@@ -35,15 +35,8 @@ tags:
 - Pragmatic Thinking
 - Engineering Practices
 - Product Delivery
-- Agile Frameworks
-- Azure Repos
-- Working Software
-- Agile Planning
-- Application Lifecycle Management
-- Increment
 categories:
 - Scrum
-- Engineering Excellence
 preview: metro-visual-studio-2010-128-link-18-18.png
 
 ---

@@ -37,13 +37,6 @@ tags:
 - Hypothesis Driven Development
 - Agile Strategy
 - Pragmatic Thinking
-- Scrum Team
-- Product Discovery
-- Social Technologies
-- Empirical Process Control
-- Experimentation
-- Product Validation
-- Decision Making
 categories:
 - Product Management
 - Scrum

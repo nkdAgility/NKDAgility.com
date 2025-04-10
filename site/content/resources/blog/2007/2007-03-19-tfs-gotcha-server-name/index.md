@@ -34,7 +34,6 @@ tags:
 - Install and Configuration
 - Windows
 - System Configuration
-- Software Development
 
 ---
 If you are installing TFS in a large network that utilises proxy servers, especialy those that strip network credentials for what it thinks are internet sites, then you may run into problems..

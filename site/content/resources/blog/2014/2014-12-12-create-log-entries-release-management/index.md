@@ -32,9 +32,6 @@ tags:
 - Software Development
 - Windows
 - Azure Pipelines
-- Azure DevOps
-- Pragmatic Thinking
-- Release Management
 categories: []
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 

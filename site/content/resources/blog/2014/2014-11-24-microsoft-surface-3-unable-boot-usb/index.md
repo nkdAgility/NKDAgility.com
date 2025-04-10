@@ -32,7 +32,6 @@ tags:
 - Windows
 - System Configuration
 - Install and Configuration
-- Pragmatic Thinking
 categories: []
 preview: nakedalm-windows-logo-5-5.png
 

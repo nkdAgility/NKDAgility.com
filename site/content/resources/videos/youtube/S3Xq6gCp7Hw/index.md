@@ -46,15 +46,10 @@ tags:
 - Agile Strategy
 - Product Delivery
 - Product Strategy
-- Agile Philosophy
-- Ability to Innovate
-- Agile Product Operating Model
 resourceTypes:
 - video
 categories:
 - Product Management
-- Scrum
-- Leadership
 
 ---
 In my opinion, it’s the whole ball game.

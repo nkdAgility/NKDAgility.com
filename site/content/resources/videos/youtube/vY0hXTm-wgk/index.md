@@ -30,12 +30,6 @@ tags:
 - Continuous Improvement
 - Organisational Culture
 - Team Motivation
-- Agile Philosophy
-- Organisational Agility
-- Agile Leadership
-- Social Technologies
-- Competence
-- Employee Engagement
 sitemap:
   filename: sitemap.xml
   priority: 0.6

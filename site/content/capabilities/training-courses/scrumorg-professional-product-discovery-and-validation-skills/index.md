@@ -41,6 +41,7 @@ tags:
 - Product Discovery
 - Product Validation
 - Value Delivery
+- Entrepreneurship
 categories:
 - Product Management
 preview: NKDAgility-Courses-PSVS-16x9-1.png

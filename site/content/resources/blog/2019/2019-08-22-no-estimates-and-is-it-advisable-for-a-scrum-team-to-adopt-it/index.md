@@ -41,13 +41,6 @@ tags:
 - Team Performance
 - Estimation
 - Pragmatic Thinking
-- Agile Planning
-- Agile Transformation
-- Continuous Learning
-- Empirical Process Control
-- Professional Scrum
-- Team Collaboration
-- Value Delivery
 categories:
 - Scrum
 preview: iStock-847664136-1-1.jpg

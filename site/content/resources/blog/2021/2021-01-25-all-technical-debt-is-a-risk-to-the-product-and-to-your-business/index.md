@@ -34,7 +34,6 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Product Delivery
-- Value Delivery
 categories:
 - Engineering Excellence
 preview: All-technical-debt-is-risk-to-the-product-and-to-your-business-2-2.jpg

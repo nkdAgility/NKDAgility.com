@@ -34,8 +34,6 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
-- Agile Transformation
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories: []

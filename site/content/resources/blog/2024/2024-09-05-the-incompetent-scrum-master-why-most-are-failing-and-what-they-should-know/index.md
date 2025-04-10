@@ -42,9 +42,13 @@ tags:
 - Scrum Team
 - Team Performance
 - Technical Mastery
+- Engineering Practices
+- Operational Practices
+- Product Delivery
 categories:
 - Scrum
 - Technical Leadership
+- Engineering Excellence
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
 
 ---

@@ -25,8 +25,6 @@ aliasesArchive:
 - /resources/blog/vsts-sync-migration-tools
 tags:
 - Software Development
-- Azure DevOps
-- Install and Configuration
 categories: []
 preview: image_thumb-1-1.png
 

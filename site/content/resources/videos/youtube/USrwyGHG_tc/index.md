@@ -51,8 +51,6 @@ tags:
 - Agile Values and Principles
 - Mentoring
 - Employee Engagement
-- Psychological Safety
-- Social Technologies
 resourceTypes:
 - video
 categories:

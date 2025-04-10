@@ -34,14 +34,10 @@ sitemap:
 tags:
 - Product Owner
 - Agile Product Management
-- Agile Product Operating Model
-- Agile Strategy
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
 - Product Management
-- Leadership
 
 ---
 **How good is the APSPO course in helping leaders determine product direction and Why?**

@@ -42,8 +42,6 @@ tags:
 - Technical Mastery
 - Value Delivery
 - Working Software
-- Deployment Frequency
-- Pragmatic Thinking
 categories:
 - Engineering Excellence
 preview: pipelines-icon-80.png

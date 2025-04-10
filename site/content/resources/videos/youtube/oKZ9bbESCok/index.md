@@ -43,6 +43,11 @@ tags:
 - Evidence Based Management
 - Team Performance
 - Pragmatic Thinking
+- Continuous Improvement
+- Decision Making
+- Empirical Process Control
+- Evidence Based Leadership
+- Operational Practices
 resourceTypes:
 - video
 categories: []

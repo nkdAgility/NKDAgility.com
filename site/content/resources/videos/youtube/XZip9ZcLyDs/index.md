@@ -34,7 +34,6 @@ resourceTypes:
 - video
 categories:
 - Leadership
-- Scrum
 
 ---
 **Why is becoming a Scrum Master a great career option?**

@@ -49,9 +49,7 @@ tags:
 - Continuous Delivery
 - Engineering Practices
 - Throughput
-categories:
-- Engineering Excellence
-- Scrum
+categories: []
 preview: nkdagility-cross-sprint-boundary-2-1.png
 
 ---

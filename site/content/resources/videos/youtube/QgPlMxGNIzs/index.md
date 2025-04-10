@@ -43,17 +43,9 @@ tags:
 - Sociotechnical Systems
 - Business Agility
 - Organisational Culture
-- Agile Planning
-- Agile Product Management
-- Pragmatic Thinking
-- Product Delivery
-- Social Technologies
-- Market Adaptability
-- Beta Codex
 resourceTypes:
 - video
-categories:
-- Leadership
+categories: []
 
 ---
 How do you think Agile is evolving since its inception in 2001?

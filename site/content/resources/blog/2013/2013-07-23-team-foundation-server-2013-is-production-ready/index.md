@@ -29,12 +29,7 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Working Software
-- Organisational Agility
-- Technical Mastery
-- Transparency
-- Product Delivery
-categories:
-- Engineering Excellence
+categories: []
 
 ---
 Did you know that Team Foundation Server 2013 is production ready?

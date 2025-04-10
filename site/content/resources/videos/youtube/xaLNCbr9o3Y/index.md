@@ -27,8 +27,6 @@ duration: 1162
 isShort: false
 tags:
 - Software Development
-- Agile Frameworks
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

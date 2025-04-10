@@ -30,6 +30,9 @@ tags:
 - Agile Product Management
 - Product Delivery
 - Value Delivery
+- Product Strategy
+- Working Software
+- Decision Making
 sitemap:
   filename: sitemap.xml
   priority: 0.6

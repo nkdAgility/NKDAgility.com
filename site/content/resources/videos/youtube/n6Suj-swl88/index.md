@@ -42,8 +42,6 @@ tags:
 - Agile Transformation
 - Team Performance
 - Product Backlog
-- Empirical Process Control
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

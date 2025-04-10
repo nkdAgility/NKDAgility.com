@@ -32,14 +32,6 @@ aliasesArchive:
 tags:
 - Application Lifecycle Management
 - Mentoring
-- Agile Transformation
-- Agile Planning
-- Agile Strategy
-- Coaching
-- Operational Practices
-- Organisational Agility
-- Pragmatic Thinking
-- Personal
 categories: []
 preview: nakedalm-logo-128-link-4-4.png
 

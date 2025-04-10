@@ -27,10 +27,7 @@ aliasesArchive:
 - /what-about-hosting-the-tfs-automation-platform
 - /blog/what-about-hosting-the-tfs-automation-platform
 - /resources/blog/what-about-hosting-the-tfs-automation-platform-2
-tags:
-- Miscellaneous
-- Software Development
-- System Configuration
+tags: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories: []
 

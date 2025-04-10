@@ -37,9 +37,6 @@ tags:
 - Continuous Learning
 - Pragmatic Thinking
 - Competence
-- Agile Philosophy
-- Organisational Agility
-- Software Development
 resourceTypes:
 - video
 categories: []

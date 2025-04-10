@@ -28,6 +28,7 @@ tags:
 - Azure DevOps
 - Install and Configuration
 - Software Development
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

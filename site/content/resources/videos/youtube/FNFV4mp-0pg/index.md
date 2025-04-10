@@ -43,10 +43,6 @@ tags:
 - Agile Philosophy
 - Agile Transformation
 - Agile Product Management
-- Agile Values and Principles
-- Organisational Agility
-- Scrum Values
-- Organisational Culture
 resourceTypes:
 - video
 categories:

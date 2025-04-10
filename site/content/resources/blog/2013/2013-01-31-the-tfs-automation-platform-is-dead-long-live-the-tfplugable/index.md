@@ -34,9 +34,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Install and Configuration
-- Azure DevOps
-- Application Lifecycle Management
-- Pragmatic Thinking
 categories: []
 preview: nakedalm-logo-128-link-3-3.png
 

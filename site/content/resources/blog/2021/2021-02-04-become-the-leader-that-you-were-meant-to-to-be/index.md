@@ -27,15 +27,8 @@ aliasesArchive:
 tags:
 - Agile Leadership
 - Scrum Master
-- Agile Frameworks
-- Professional Scrum
-- Scrum Team
-- Team Motivation
-- Organisational Agility
 categories:
 - Leadership
-- Technical Leadership
-- Scrum
 preview: image-2-2.png
 
 ---

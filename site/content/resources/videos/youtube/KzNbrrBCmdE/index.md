@@ -25,7 +25,9 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/KzNbrrBCmdE/maxresdefault.jpg
 duration: 52
 isShort: true
-tags: []
+tags:
+- Software Development
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

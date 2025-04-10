@@ -38,6 +38,10 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Agile Frameworks
+- Agile Transformation
+- Continuous Learning
+- Agile Product Management
+- Team Performance
 resourceTypes:
 - video
 categories:

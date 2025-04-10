@@ -24,9 +24,6 @@ tags:
 - Software Development
 - Agile Product Management
 - Agile Transformation
-- Agile Frameworks
-- Organisational Agility
-- Pragmatic Thinking
 
 ---
 The new year is now fully underway, and the immersive 8-week PSPO, PSM, and PAL are all running... we have a full house! next up is the set of complimentary Skills classes from Scrum.org as well as the new Agile Kata class and we have them all.

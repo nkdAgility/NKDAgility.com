@@ -28,14 +28,10 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Product Management
-- Common Goals
-- Product Strategy
+tags: []
 resourceTypes:
 - video
-categories:
-- Product Management
+categories: []
 
 ---
 ## The essence of a Product is 'The Vision'

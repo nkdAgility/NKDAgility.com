@@ -45,8 +45,6 @@ tags:
 - Large Scale Agility
 - Professional Scrum
 - Software Development
-- Competence
-- Social Technologies
 categories:
 - Scrum
 preview: naked-agility-Professional-Scrum-SPS-1600x900-1.jpg

@@ -41,6 +41,9 @@ tags:
 - Agile Transformation
 - Agile Planning Tools
 - Scrum Master
+- Product Backlog
+- Value Delivery
+- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

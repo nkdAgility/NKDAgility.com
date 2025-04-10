@@ -30,9 +30,6 @@ tags:
 - Pragmatic Thinking
 - Continuous Learning
 - Competence
-- Coaching
-- Continuous Improvement
-- Continuous Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

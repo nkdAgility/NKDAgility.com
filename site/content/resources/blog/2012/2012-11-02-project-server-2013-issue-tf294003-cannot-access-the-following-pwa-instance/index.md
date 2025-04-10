@@ -34,8 +34,6 @@ tags:
 - Install and Configuration
 - System Configuration
 - Windows
-- Software Development
-- Pragmatic Thinking
 categories: []
 preview: metro-problem-icon-6-6.png
 

@@ -44,8 +44,6 @@ tags:
 - Pragmatic Thinking
 - Competence
 - Continuous Learning
-- Software Development
-- Value Delivery
 categories:
 - Kanban
 preview: NKDAgility-Courses-APK-16x9-1.jpg

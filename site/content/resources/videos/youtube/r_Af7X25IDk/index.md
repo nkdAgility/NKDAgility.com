@@ -42,10 +42,6 @@ tags:
 - Organisational Change
 - Organisational Culture
 - Product Delivery
-- Agile Product Operating Model
-- Competence
-- Continuous Improvement
-- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

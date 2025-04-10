@@ -32,12 +32,6 @@ tags:
 - Azure DevOps
 - Release Management
 - Troubleshooting
-- Application Lifecycle Management
-- Continuous Delivery
-- Install and Configuration
-- Pragmatic Thinking
-- Windows
-- Product Delivery
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 

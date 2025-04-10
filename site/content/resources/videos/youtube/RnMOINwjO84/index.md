@@ -33,6 +33,12 @@ tags:
 - Organisational Agility
 - Organisational Physics
 - Decision Theory
+- Agile Philosophy
+- Agile Product Management
+- Agile Strategy
+- Continuous Learning
+- Sensemaking
+- Beta Codex
 sitemap:
   filename: sitemap.xml
   priority: 0.6

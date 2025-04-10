@@ -37,11 +37,6 @@ tags:
 - Product Delivery
 - Application Lifecycle Management
 - Technical Debt
-- Azure DevOps
-- Continuous Integration
-- Pragmatic Thinking
-- Shift-Left Strategy
-- Value Delivery
 categories:
 - Engineering Excellence
 preview: metro-automated-test-icon-4-4.png

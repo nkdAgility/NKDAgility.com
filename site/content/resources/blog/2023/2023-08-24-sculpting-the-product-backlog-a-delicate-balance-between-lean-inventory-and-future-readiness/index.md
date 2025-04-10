@@ -45,8 +45,6 @@ tags:
 - Value Delivery
 - Backlog Refinement
 - Lean Thinking
-- Operational Practices
-- Agile Strategy
 categories:
 - Product Management
 - Lean

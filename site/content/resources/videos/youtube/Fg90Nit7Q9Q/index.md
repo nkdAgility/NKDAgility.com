@@ -31,14 +31,6 @@ tags:
 - Agile Transformation
 - Pragmatic Thinking
 - Team Collaboration
-- Agile Frameworks
-- Product Delivery
-- Agile Planning
-- Agile Product Management
-- Social Technologies
-- Transparency
-- Value Delivery
-- Working Software
 resourceTypes:
 - video
 categories: []

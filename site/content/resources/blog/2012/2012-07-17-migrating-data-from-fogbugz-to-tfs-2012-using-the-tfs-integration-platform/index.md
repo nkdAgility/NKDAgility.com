@@ -32,7 +32,6 @@ tags:
 - Pragmatic Thinking
 - Troubleshooting
 - System Configuration
-- Technical Excellence
 categories: []
 
 ---

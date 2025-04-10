@@ -28,9 +28,6 @@ isShort: false
 tags:
 - Continuous Learning
 - Value Delivery
-- Competence
-- Pragmatic Thinking
-- Coaching
 sitemap:
   filename: sitemap.xml
   priority: 0.6

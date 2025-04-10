@@ -28,8 +28,6 @@ tags:
 - Software Development
 - System Configuration
 - Azure DevOps
-- Troubleshooting
-- Windows
 preview: metro-SSWLogo-128-link-6-6.png
 categories: []
 

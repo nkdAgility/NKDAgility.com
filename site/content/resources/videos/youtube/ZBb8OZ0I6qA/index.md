@@ -37,13 +37,23 @@ tags:
 - Azure DevOps
 - Organisational Agility
 - Product Delivery
+- Agile Frameworks
+- Agile Strategy
+- Agile Transformation
+- Azure Boards
+- Backlog Refinement
+- Business Agility
+- Product Owner
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
+- Scrum
 
 ---
 In my journey as a professional Scrum trainer and Kanban coach, I've often encountered a common misconception: the belief that a hierarchy is essential for effective backlog management. Today, I want to share my insights on why this approach can be detrimental and how we can rethink our backlogs to enhance our agility and focus on delivering value.

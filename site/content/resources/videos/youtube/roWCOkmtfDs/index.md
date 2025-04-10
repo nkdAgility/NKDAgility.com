@@ -42,6 +42,11 @@ tags:
 - Product Delivery
 - Pragmatic Thinking
 - Product Strategy
+- Ability to Innovate
+- Agile Product Management
+- Lean Startup
+- Product Owner
+- Entrepreneurship
 resourceTypes:
 - video
 categories:

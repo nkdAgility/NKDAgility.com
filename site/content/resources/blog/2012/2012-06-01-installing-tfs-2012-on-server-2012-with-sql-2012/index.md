@@ -28,7 +28,6 @@ tags:
 - Windows
 - System Configuration
 - Software Development
-- Troubleshooting
 categories: []
 preview: nakedalm-experts-visual-studio-alm-31-31.png
 

@@ -26,8 +26,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Software Development
+tags: []
 resourceTypes:
 - video
 categories: []

@@ -33,11 +33,6 @@ tags:
 - Scrum Team
 - Software Development
 - Product Owner
-- Team Collaboration
-- Agile Transformation
-- Agile Values and Principles
-- Agile Philosophy
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

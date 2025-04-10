@@ -32,8 +32,6 @@ tags:
 - Software Development
 - System Configuration
 - Install and Configuration
-- Pragmatic Thinking
-- Technical Mastery
 categories: []
 preview: puzzle-issue-problem-128-link-2-2.png
 

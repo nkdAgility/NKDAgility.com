@@ -38,6 +38,9 @@ tags:
 - Value Delivery
 - Agile Frameworks
 - Agile Transformation
+- Organisational Agility
+- Working Software
+- Product Delivery
 resourceTypes:
 - video
 categories: []

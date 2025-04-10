@@ -27,8 +27,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Agile Frameworks
-- Operational Practices
-- Pragmatic Thinking
 categories:
 - Kanban
 preview: applying-professional-kanban-background-logo-2-2.jpg

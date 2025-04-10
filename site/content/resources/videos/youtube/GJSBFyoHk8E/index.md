@@ -36,10 +36,6 @@ tags:
 - Agile Frameworks
 - Pragmatic Thinking
 - Professional Scrum
-- Product Delivery
-- Value Delivery
-- Product Backlog
-- Scrum Master
 resourceTypes:
 - video
 categories:

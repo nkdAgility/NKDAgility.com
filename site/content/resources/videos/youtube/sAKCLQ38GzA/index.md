@@ -32,6 +32,16 @@ tags:
 - Team Motivation
 - Agile Philosophy
 - Organisational Agility
+- Agile Product Management
+- Common Goals
+- Employee Engagement
+- Pragmatic Thinking
+- Agile Transformation
+- Organisational Culture
+- Organisational Psychology
+- Agile Leadership
+- Agile Values and Principles
+- Software Development
 resourceTypes:
 - video
 categories: []

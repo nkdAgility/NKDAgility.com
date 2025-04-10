@@ -27,7 +27,6 @@ tags:
 - Windows
 - Install and Configuration
 - System Configuration
-- Troubleshooting
 categories: []
 preview: metro-server-instances-7-7.png
 

@@ -45,9 +45,16 @@ tags:
 - Customer Retention
 - Product Owner
 - Product Strategy
+- Metrics and Learning
+- Agile Strategy
+- Entrepreneurship
+- Operational Practices
+- Product Backlog
+- Value Delivery
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
 
 ---
 When developing a product, it’s natural to focus on delivering value as efficiently as possible. But have you ever wondered what additional value you could be achieving but haven’t yet? How do you uncover those hidden opportunities to take your product to the next level? That’s where Evidence-Based Management (EBM) comes into play.

@@ -45,15 +45,10 @@ tags:
 - Agile Transformation
 - Decision Making
 - Social Technologies
-- Empirical Process Control
-- Scrum Master
-- Strategic Goals
-- Team Collaboration
 resourceTypes:
 - video
 categories:
 - Scrum
-- Technical Leadership
 
 ---
 ## Deciphering the Sprint Goal Enigma **🎯**  

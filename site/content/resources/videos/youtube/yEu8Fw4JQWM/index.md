@@ -38,11 +38,6 @@ tags:
 - Agile Transformation
 - Lean Thinking
 - Lean Principles
-- Organisational Agility
-- Agile Planning
-- Lean Product Development
-- Value Delivery
-- Product Delivery
 resourceTypes:
 - video
 categories:

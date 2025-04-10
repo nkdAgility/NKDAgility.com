@@ -32,11 +32,6 @@ tags:
 - Windows
 - Azure DevOps
 - Install and Configuration
-- Technical Mastery
-- Troubleshooting
-- Modern Source Control
-- Pragmatic Thinking
-- System Configuration
 categories: []
 preview: metro-binary-vb-128-link-5-5.png
 

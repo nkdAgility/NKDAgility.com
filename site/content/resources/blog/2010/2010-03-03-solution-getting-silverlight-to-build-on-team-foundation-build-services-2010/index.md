@@ -31,10 +31,6 @@ tags:
 - Software Development
 - Troubleshooting
 - Install and Configuration
-- Pragmatic Thinking
-- Technical Excellence
-- Windows
-- System Configuration
 categories: []
 preview: metro-visual-studio-2010-128-link-3-3.png
 

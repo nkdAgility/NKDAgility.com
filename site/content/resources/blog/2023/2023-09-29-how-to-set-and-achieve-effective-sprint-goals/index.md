@@ -39,8 +39,12 @@ tags:
 - Value Delivery
 - Pragmatic Thinking
 - Working Software
+- Agile Transformation
+- Common Goals
+- Scrum Master
 categories:
 - Scrum
+- Product Management
 preview: NKDAgility-technically-SetEffectiveSprintGoals-1-1.jpg
 
 ---

@@ -38,9 +38,22 @@ tags:
 - Product Validation
 - Continuous Learning
 - Lean Product Development
+- Ability to Innovate
+- Agile Product Management
+- Agile Strategy
+- Lean Principles
+- Lean Startup
+- Operational Practices
+- Social Technologies
+- Team Collaboration
+- Working Software
+- Hypothesis Driven Development
+- Organisational Agility
+- Experimentation
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
 
 ---
 In today’s fast-paced, ever-evolving market, understanding user needs and maximizing value are crucial for successful product development. The right approach can not only boost user satisfaction but also significantly improve your return on investment (ROI). This course is designed to equip you with the tools, techniques, and mindset needed to revolutionize your product development process.

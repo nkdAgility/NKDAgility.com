@@ -36,14 +36,6 @@ tags:
 - Continuous Improvement
 - Customer Feedback Loops
 - Competence
-- Ability to Innovate
-- Customer Satisfaction
-- Organisational Agility
-- Pragmatic Thinking
-- Social Technologies
-- Miscellaneous
-- Personal
-- Customer Retention
 resourceTypes:
 - video
 layout: video

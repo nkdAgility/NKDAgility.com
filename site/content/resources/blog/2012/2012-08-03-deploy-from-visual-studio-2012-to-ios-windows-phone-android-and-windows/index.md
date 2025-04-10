@@ -35,9 +35,6 @@ tags:
 - Software Development
 - Application Lifecycle Management
 - Working Software
-- Windows
-- Pragmatic Thinking
-- Product Delivery
 categories: []
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 

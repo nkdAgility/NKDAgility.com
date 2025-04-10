@@ -35,16 +35,6 @@ tags:
 - Agile Frameworks
 - Agile Transformation
 - Agile Leadership
-- Agile Product Management
-- Agile Planning
-- Coaching
-- Organisational Agility
-- Social Technologies
-- Team Collaboration
-- Competence
-- Pragmatic Thinking
-- Product Delivery
-- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

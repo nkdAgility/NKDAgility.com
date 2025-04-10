@@ -46,15 +46,12 @@ tags:
 - Digital Transformation
 - Social Technologies
 - Product Delivery
-- Competence
-- Ability to Innovate
 resourceTypes:
 - video
 layout: video
 categories:
 - Product Management
 - Leadership
-- Technical Leadership
 
 ---
 When discussing the impactful role of Product Owners in Agile development, we often cite examples of those who've significantly turned the tide in their organisations. I'm talking about not just fulfilling roles but altering the very fabric of product management - these are the MVPs who redefine the game. 🌟 

@@ -27,11 +27,6 @@ tags:
 - Enterprise Agility
 - Organisational Change
 - Software Development
-- Agile Strategy
-- Business Agility
-- Change Management
-- Digital Transformation
-- Organisational Culture
 
 ---
 **🌟 Exclusive Webcast #2: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟**

@@ -40,15 +40,6 @@ tags:
 - Software Development
 - Metrics and Learning
 - Value Delivery
-- Agile Frameworks
-- Ability to Innovate
-- Agile Product Management
-- Agile Strategy
-- Agile Transformation
-- Common Goals
-- Continuous Improvement
-- Operational Practices
-- Competence
 categories:
 - Leadership
 - Product Management

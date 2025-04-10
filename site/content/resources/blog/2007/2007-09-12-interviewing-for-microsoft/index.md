@@ -25,8 +25,6 @@ aliasesArchive:
 - /resources/blog/interviewing-for-microsoft
 tags:
 - Personal
-- Miscellaneous
-- Windows
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

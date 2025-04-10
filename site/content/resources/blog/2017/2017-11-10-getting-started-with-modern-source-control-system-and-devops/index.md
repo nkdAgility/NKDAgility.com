@@ -42,11 +42,6 @@ tags:
 - Test First Development
 - Working Software
 - Product Delivery
-- Application Lifecycle Management
-- Frequent Releases
-- Release Management
-- Deployment Frequency
-- Market Adaptability
 categories:
 - Engineering Excellence
 - DevOps

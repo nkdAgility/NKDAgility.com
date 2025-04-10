@@ -35,10 +35,6 @@ tags:
 - Scrum Values
 - Team Performance
 - Transparency
-- Pragmatic Thinking
-- Empirical Process Control
-- Scrum Master
-- Team Collaboration
 categories:
 - Scrum
 preview: naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg

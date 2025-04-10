@@ -30,6 +30,11 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Operational Practices
+- Agile Planning
+- Agile Transformation
+- Azure Boards
+- Troubleshooting
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6

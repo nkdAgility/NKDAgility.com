@@ -28,8 +28,6 @@ tags:
 - Install and Configuration
 - Windows
 - System Configuration
-- Pragmatic Thinking
-- Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

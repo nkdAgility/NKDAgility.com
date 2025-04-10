@@ -25,8 +25,6 @@ aliasesArchive:
 - /resources/blog/deploying-team-server
 tags:
 - Software Development
-- Application Lifecycle Management
-- Pragmatic Thinking
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

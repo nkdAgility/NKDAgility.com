@@ -33,7 +33,6 @@ aliasesArchive:
 - /resources/blog/outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo
 tags:
 - Install and Configuration
-- Troubleshooting
 preview: metro-office-128-link-7-7.png
 categories: []
 

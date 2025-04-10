@@ -35,9 +35,6 @@ tags:
 - Social Technologies
 - Software Development
 - Team Motivation
-- Agile Transformation
-- Continuous Improvement
-- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

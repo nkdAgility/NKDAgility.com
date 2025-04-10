@@ -29,11 +29,6 @@ tags:
 - Entrepreneurship
 - Value Delivery
 - Agile Product Management
-- Pragmatic Thinking
-- Product Discovery
-- Product Owner
-- Product Delivery
-- Product Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

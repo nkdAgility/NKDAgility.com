@@ -33,12 +33,7 @@ tags:
 - Operational Practices
 - Throughput
 - Flow Efficiency
-- Agile Transformation
-- Metrics and Learning
-- Pragmatic Thinking
-- Value Delivery
-categories:
-- Kanban
+categories: []
 preview: nkdagility-scrum-and-kanban-1900-2-1.png
 
 ---

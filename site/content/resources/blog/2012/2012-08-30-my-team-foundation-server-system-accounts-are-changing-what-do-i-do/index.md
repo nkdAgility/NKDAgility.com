@@ -32,7 +32,6 @@ tags:
 - Install and Configuration
 - System Configuration
 - Windows
-- Software Development
 categories: []
 
 ---

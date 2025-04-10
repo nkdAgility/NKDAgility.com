@@ -33,9 +33,6 @@ sitemap:
   priority: 0.6
 tags:
 - Coaching
-- Continuous Learning
-- Pragmatic Thinking
-- Personal
 resourceTypes:
 - video
 categories: []

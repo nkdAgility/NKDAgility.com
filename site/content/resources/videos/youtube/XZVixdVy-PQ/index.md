@@ -39,6 +39,10 @@ tags:
 - Agile Product Management
 - Software Development
 - Agile Strategy
+- Organisational Agility
+- Sociotechnical Systems
+- Product Delivery
+- Market Adaptability
 resourceTypes:
 - video
 categories: []

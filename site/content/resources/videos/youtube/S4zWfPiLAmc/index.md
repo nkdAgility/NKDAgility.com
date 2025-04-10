@@ -38,9 +38,17 @@ tags:
 - Throughput
 - Operational Practices
 - Metrics and Learning
+- Agile Frameworks
+- Cycle Time
+- Continuous Improvement
+- Evidence Based Leadership
+- Flow Efficiency
+- Pragmatic Thinking
+- Transparency
 resourceTypes:
 - video
-categories: []
+categories:
+- Kanban
 
 ---
 ### Avoiding Common Mistakes in Your Kanban Strategy

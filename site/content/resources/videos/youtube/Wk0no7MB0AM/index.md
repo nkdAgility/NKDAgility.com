@@ -29,6 +29,9 @@ isShort: true
 tags:
 - Scrum Master
 - Scrum Team
+- Agile Frameworks
+- Agile Product Management
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

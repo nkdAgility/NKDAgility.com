@@ -38,8 +38,6 @@ tags:
 - Scrum Master
 - Scrum Team
 - Software Development
-- Pragmatic Thinking
-- Team Performance
 resourceTypes:
 - video
 categories:

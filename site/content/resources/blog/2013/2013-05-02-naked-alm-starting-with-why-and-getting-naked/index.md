@@ -35,20 +35,7 @@ tags:
 - Deployment Frequency
 - Personal
 - Value Delivery
-- Customer Feedback Loops
-- Agile Strategy
-- Application Lifecycle Management
-- Business Agility
-- Continuous Delivery
-- Continuous Improvement
-- Customer Satisfaction
-- Organisational Change
-- Product Discovery
-- Software Development
-- Product Delivery
-categories:
-- DevOps
-- Leadership
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -30,8 +30,6 @@ aliasesArchive:
 - /resources/blog/you-cant-stop-the-signal-but-you-can-ignore-it
 categories:
 - Scrum
-- Leadership
-- Product Management
 preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
 tags:
 - Agile Frameworks

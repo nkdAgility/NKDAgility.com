@@ -28,13 +28,6 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Transformation
-- Agile Philosophy
-- Organisational Agility
-- Software Development
-- Agile Strategy
-- Scrum Values
-- Team Motivation
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories: []

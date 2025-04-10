@@ -47,7 +47,6 @@ tags:
 - Product Delivery
 - Mentoring
 - Team Motivation
-- Organisational Agility
 categories:
 - Scrum
 - Technical Leadership

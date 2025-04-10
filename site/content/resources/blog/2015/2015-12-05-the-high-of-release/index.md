@@ -31,12 +31,8 @@ tags:
 - Frequent Releases
 - Operational Practices
 - Product Delivery
-- Pragmatic Thinking
-- Technical Excellence
-- Technical Mastery
 categories:
 - DevOps
-- Engineering Excellence
 preview: 2016-01-04_15-52-31-1-1.png
 
 ---

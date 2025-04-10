@@ -31,12 +31,7 @@ tags:
 - Release Management
 - Modern Source Control
 - Pragmatic Thinking
-- Working Software
-- Operational Practices
-- Technical Excellence
-- Technical Mastery
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-visual-studio-2010-128-link-30-30.png
 
 ---

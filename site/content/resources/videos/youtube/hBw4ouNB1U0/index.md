@@ -30,6 +30,11 @@ tags:
 - Operational Practices
 - Metrics and Learning
 - Continuous Learning
+- Organisational Agility
+- Lean Principles
+- Evidence Based Leadership
+- Pragmatic Thinking
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

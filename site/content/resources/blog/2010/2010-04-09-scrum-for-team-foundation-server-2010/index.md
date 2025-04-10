@@ -26,11 +26,7 @@ aliasesArchive:
 tags:
 - Software Development
 - Agile Frameworks
-- Agile Planning
-- Application Lifecycle Management
-- Product Delivery
-categories:
-- Scrum
+categories: []
 preview: metro-visual-studio-2010-128-link-2-1.png
 
 ---

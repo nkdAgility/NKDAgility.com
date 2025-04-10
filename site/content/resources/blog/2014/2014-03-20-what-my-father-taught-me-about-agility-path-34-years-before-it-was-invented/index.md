@@ -44,13 +44,8 @@ tags:
 - Customer Satisfaction
 - Organisational Change
 - Sociotechnical Systems
-- Agile Product Management
-- Agile Transformation
-- Enterprise Agility
-- Lead Time
 categories:
 - Product Management
-- Scrum
 preview: nakedalm-agility-index-7-7.png
 
 ---

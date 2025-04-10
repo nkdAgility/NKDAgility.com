@@ -34,10 +34,6 @@ tags:
 - System Configuration
 - Software Development
 - Troubleshooting
-- Release Management
-- Working Software
-- Pragmatic Thinking
-- Windows
 categories: []
 preview: nakedalm-experts-visual-studio-alm-22-22.png
 

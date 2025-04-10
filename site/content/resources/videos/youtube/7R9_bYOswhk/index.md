@@ -32,21 +32,12 @@ sitemap:
 tags:
 - Scrum Master
 - Agile Leadership
-- Agile Strategy
-- Continuous Learning
-- Organisational Agility
-- Pragmatic Thinking
-- Software Development
-- Agile Transformation
-- Personal
-- Mentoring
 resourceTypes:
 - video
 layout: video
 categories:
 - Leadership
 - Scrum
-- Technical Leadership
 
 ---
 ## Ascending the Leadership Ladder

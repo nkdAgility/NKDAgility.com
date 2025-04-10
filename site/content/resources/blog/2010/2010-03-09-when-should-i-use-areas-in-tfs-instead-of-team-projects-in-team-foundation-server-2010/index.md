@@ -28,10 +28,6 @@ tags:
 - Software Development
 - Operational Practices
 - Pragmatic Thinking
-- Azure DevOps
-- Modern Source Control
-- System Configuration
-- Install and Configuration
 preview: metro-visual-studio-2010-128-link-8-8.png
 categories: []
 

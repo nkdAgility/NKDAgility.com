@@ -32,11 +32,6 @@ tags:
 - Azure DevOps
 - Internal Developer Platform
 - Pragmatic Thinking
-- Deployment Strategies
-- Operational Practices
-- Technical Mastery
-- Platform Engineering
-- Product Delivery
 categories: []
 preview: nakedalm-experts-visual-studio-alm-42-42.png
 

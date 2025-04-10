@@ -38,11 +38,6 @@ tags:
 - Organisational Culture
 - Organisational Physics
 - Organisational Change
-- Miscellaneous
-- Agile Philosophy
-- Enterprise Agility
-- Pragmatic Thinking
-- Organisational Psychology
 resourceTypes:
 - video
 categories: []

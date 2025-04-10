@@ -35,15 +35,10 @@ tags:
 - Scrum Master
 - Competence
 - Pragmatic Thinking
-- Agile Frameworks
-- Agile Transformation
-- Continuous Learning
-- Personal
 resourceTypes:
 - video
 categories:
 - Scrum
-- Leadership
 
 ---
 **What is your best advice for becoming a Scrum Master outside software engineering?**

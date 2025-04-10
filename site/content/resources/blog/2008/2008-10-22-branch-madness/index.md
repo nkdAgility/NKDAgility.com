@@ -30,11 +30,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Troubleshooting
-- Application Lifecycle Management
-- Miscellaneous
-- Pragmatic Thinking
-- Install and Configuration
-- Modern Source Control
 preview: nakedalm-logo-128-link-2-1.png
 categories: []
 

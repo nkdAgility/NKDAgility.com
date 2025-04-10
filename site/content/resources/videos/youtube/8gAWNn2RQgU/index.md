@@ -36,9 +36,6 @@ tags:
 - Pragmatic Thinking
 - Scrum Master
 - Agile Leadership
-- Agile Strategy
-- Competence
-- Organisational Agility
 resourceTypes:
 - video
 categories:

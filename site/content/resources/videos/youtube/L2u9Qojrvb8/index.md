@@ -32,6 +32,8 @@ sitemap:
 tags:
 - Software Development
 - Pragmatic Thinking
+- Continuous Improvement
+- Market Adaptability
 resourceTypes:
 - video
 categories:

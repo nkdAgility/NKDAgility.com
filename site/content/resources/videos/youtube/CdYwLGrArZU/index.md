@@ -32,15 +32,9 @@ sitemap:
 tags:
 - Product Owner
 - Agile Product Management
-- Competence
-- Pragmatic Thinking
-- Professional Scrum
-- Scrum Team
-- Personal
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
 ## Common Comments from the PSPO Course

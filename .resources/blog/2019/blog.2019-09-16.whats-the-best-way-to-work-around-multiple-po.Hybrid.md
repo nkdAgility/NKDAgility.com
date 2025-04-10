@@ -37,19 +37,9 @@ tags:
 - Product Backlog
 - Software Development
 - Product Delivery
-- Agile Product Operating Model
-- Agile Planning
-- Agile Strategy
-- Agile Transformation
-- Competence
-- Decision Making
-- Social Technologies
-- Team Performance
-- Value Delivery
 categories:
 - Scrum
 - Product Management
-- Leadership
 preview: 495173592-1-1.jpg
 
 ---

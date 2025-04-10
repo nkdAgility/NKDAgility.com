@@ -27,6 +27,9 @@ isShort: true
 tags:
 - Software Development
 - Working Software
+- Agile Transformation
+- Competence
+- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -30,7 +30,6 @@ tags:
 - Software Development
 - System Configuration
 - Azure Pipelines
-- Azure DevOps
 categories: []
 
 ---

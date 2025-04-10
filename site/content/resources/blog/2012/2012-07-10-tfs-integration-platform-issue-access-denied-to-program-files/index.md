@@ -32,7 +32,6 @@ tags:
 - Software Development
 - Windows
 - Install and Configuration
-- System Configuration
 categories: []
 preview: metro-problem-icon-1-1.png
 

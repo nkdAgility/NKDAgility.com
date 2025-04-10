@@ -43,16 +43,9 @@ tags:
 - Change Management
 - Organisational Culture
 - Market Adaptability
-- Agile Frameworks
-- Agile Values and Principles
-- Complexity Thinking
-- Social Technologies
-- Organisational Physics
-- Sensemaking
 resourceTypes:
 - video
-categories:
-- Leadership
+categories: []
 
 ---
 What would be an example of a great agile consulting outcome for a client?

@@ -26,8 +26,6 @@ aliasesArchive:
 - /resources/blog/pragmatism-crushes-dogma-in-the-wild
 categories:
 - Scrum
-- Technical Leadership
-- Product Management
 preview: NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg
 tags:
 - Agile Planning

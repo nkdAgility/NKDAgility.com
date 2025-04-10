@@ -38,6 +38,11 @@ tags:
 - Agile Philosophy
 - Pragmatic Thinking
 - Agile Values and Principles
+- Competence
+- Agile Frameworks
+- Business Agility
+- Coaching
+- Agile Strategy
 resourceTypes:
 - video
 categories: []

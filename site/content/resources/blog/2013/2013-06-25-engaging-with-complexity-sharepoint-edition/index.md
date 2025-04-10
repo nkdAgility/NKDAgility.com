@@ -34,8 +34,6 @@ tags:
 - System Configuration
 - Software Development
 - Troubleshooting
-- Pragmatic Thinking
-- Technical Mastery
 categories: []
 preview: metro-sharepoint-128-link-2-2.png
 

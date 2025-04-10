@@ -50,6 +50,7 @@ tags:
 - Agile Transformation
 - Agile Values and Principles
 - Increment
+- Agile Product Operating Model
 resourceTypes:
 - video
 layout: video

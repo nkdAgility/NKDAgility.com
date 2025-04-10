@@ -34,6 +34,15 @@ tags:
 - Organisational Psychology
 - Team Collaboration
 - Self Organisation
+- Agile Values and Principles
+- Coaching
+- Organisational Agility
+- Pragmatic Thinking
+- Sociotechnical Systems
+- Competence
+- Continuous Learning
+- Personal
+- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

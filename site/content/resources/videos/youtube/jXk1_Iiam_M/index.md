@@ -37,6 +37,13 @@ tags:
 - Scrum Master
 - Team Performance
 - Team Collaboration
+- Agile Frameworks
+- Scrum Team
+- Agile Transformation
+- Coaching
+- Software Development
+- Value Delivery
+- Definition of Done
 resourceTypes:
 - video
 categories:

@@ -42,9 +42,6 @@ tags:
 - Product Delivery
 - Acceptance Test Driven Development
 - Product Validation
-- Continuous Delivery
-- Continuous Improvement
-- Empirical Process Control
 categories:
 - Engineering Excellence
 preview: nkdAgility-PSD-Krakow-0-1-1.jpg

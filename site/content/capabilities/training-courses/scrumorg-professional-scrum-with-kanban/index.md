@@ -44,7 +44,6 @@ tags:
 - Professional Scrum
 - Software Development
 - Transparency
-- Agile Product Management
 categories: []
 preview: naked-agility-Professional-Scrum-PSK-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PSK-400x.png

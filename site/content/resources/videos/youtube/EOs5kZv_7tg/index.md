@@ -29,9 +29,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Transformation
-- Agile Leadership
+tags: []
 resourceTypes:
 - video
 categories: []

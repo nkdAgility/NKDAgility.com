@@ -32,6 +32,10 @@ tags:
 - Continuous Improvement
 - Operational Practices
 - Lean Principles
+- Agile Frameworks
+- Continuous Learning
+- Metrics and Learning
+- Flow Efficiency
 resourceTypes:
 - video
 categories: []

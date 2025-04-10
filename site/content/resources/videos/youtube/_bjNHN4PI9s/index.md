@@ -26,7 +26,6 @@ isShort: false
 tags:
 - Collaboration Tools
 - Remote Working
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

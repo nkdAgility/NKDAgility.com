@@ -29,8 +29,6 @@ tags:
 - Install and Configuration
 - Continuous Integration
 - System Configuration
-- Pragmatic Thinking
-- Technical Mastery
 categories: []
 preview: naked-alm-jenkins-logo-7-7.png
 

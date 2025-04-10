@@ -30,8 +30,6 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Install and Configuration
-- Software Development
-- Windows
 categories: []
 preview: puzzle-issue-problem-128-link-3-3.png
 

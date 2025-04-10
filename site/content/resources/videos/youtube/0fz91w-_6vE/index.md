@@ -31,15 +31,6 @@ tags:
 - Operational Practices
 - Product Delivery
 - Continuous Improvement
-- Change Management
-- Enterprise Agility
-- Lean Principles
-- Social Technologies
-- Value Stream Management
-- Continuous Learning
-- Market Adaptability
-- Flow Efficiency
-- Throughput
 sitemap:
   filename: sitemap.xml
   priority: 0.6

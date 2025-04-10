@@ -43,9 +43,6 @@ tags:
 - Working Software
 - Increment
 - Product Delivery
-- Social Technologies
-- Empirical Process Control
-- Self Organisation
 categories:
 - Scrum
 preview: metro-SSWLogo-128-link-1-1.png

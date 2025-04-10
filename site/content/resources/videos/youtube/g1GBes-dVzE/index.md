@@ -32,8 +32,6 @@ sitemap:
 tags:
 - Coaching
 - Software Development
-- Agile Transformation
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories: []

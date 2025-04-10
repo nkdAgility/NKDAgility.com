@@ -40,6 +40,7 @@ tags:
 - Operational Practices
 - Throughput
 - Pragmatic Thinking
+- Lean Thinking
 resourceTypes:
 - video
 categories:

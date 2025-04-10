@@ -28,7 +28,6 @@ tags:
 - Install and Configuration
 - Azure DevOps
 - Azure Pipelines
-- Technical Excellence
 categories: []
 
 ---

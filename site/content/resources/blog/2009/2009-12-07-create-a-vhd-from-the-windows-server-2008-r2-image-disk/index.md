@@ -27,7 +27,6 @@ tags:
 - Windows
 - Install and Configuration
 - System Configuration
-- Troubleshooting
 preview: metro-SSWLogo-128-link-10-10.png
 categories: []
 

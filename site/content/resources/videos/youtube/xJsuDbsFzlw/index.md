@@ -36,15 +36,6 @@ tags:
 - Team Performance
 - Agile Transformation
 - Product Delivery
-- Professional Scrum
-- Organisational Agility
-- Agile Frameworks
-- Scrum Team
-- Social Technologies
-- Working Software
-- Scrum Master
-- Continuous Learning
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

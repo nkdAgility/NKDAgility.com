@@ -27,12 +27,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Organisational Agility
-- Software Development
-- Agile Transformation
-- Coaching
-- Pragmatic Thinking
+tags: []
 resourceTypes:
 - video
 categories: []

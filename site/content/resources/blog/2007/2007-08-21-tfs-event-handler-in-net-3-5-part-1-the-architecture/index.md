@@ -31,10 +31,6 @@ tags:
 - Software Development
 - Technical Mastery
 - System Configuration
-- Application Lifecycle Management
-- Install and Configuration
-- Technical Excellence
-- Windows
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

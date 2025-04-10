@@ -43,17 +43,10 @@ tags:
 - Working Software
 - Product Owner
 - Team Performance
-- Value Delivery
-- Decision Making
-- Agile Strategy
-- Product Backlog
-- Social Technologies
 resourceTypes:
 - video
 categories:
 - Scrum
-- Technical Leadership
-- Product Management
 
 ---
 ## Navigating Sprint Backlog Selection

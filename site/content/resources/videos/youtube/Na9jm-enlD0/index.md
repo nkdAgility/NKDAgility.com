@@ -35,17 +35,11 @@ tags:
 - Agile Product Management
 - Agile Leadership
 - Decision Making
-- Complexity Thinking
-- Product Owner
-- Pragmatic Thinking
-- Team Collaboration
-- Social Technologies
 resourceTypes:
 - video
 categories:
 - Product Management
 - Leadership
-- Scrum
 
 ---
 ## Understanding the Dynamics of Consensus 🤔 

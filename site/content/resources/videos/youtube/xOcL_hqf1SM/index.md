@@ -28,6 +28,8 @@ tags:
 - Agile Frameworks
 - Software Development
 - Agile Transformation
+- Coaching
+- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

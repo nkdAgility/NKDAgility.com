@@ -38,11 +38,6 @@ tags:
 - Windows
 - System Configuration
 - Continuous Integration
-- Operational Practices
-- Platform Engineering
-- Technical Excellence
-- Technical Mastery
-- Modern Source Control
 categories: []
 preview: clip_image004-4-4.png
 

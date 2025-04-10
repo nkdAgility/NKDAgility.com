@@ -50,7 +50,6 @@ tags:
 - Value Delivery
 - Product Backlog
 - Scrum Master
-- Competence
 categories:
 - Scrum
 preview: NKDAgility-Courses-AFMS-16x9-1.jpg

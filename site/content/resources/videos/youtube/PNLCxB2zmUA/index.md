@@ -35,7 +35,9 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Continuous Improvement
+- Software Development
 resourceTypes:
 - video
 categories: []

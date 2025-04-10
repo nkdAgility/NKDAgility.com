@@ -29,7 +29,6 @@ aliasesArchive:
 - /resources/blog/how-to-display-your-outlook-calendar-on-youre-my-site
 tags:
 - Install and Configuration
-- System Configuration
 preview: metro-sharepoint-128-link-6-6.png
 categories: []
 

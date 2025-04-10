@@ -31,9 +31,7 @@ aliasesArchive:
 - /not-just-happy--but-ecstatic
 - /blog/not-just-happy--but-ecstatic
 - /resources/blog/not-just-happy-but-ecstatic
-tags:
-- Operational Practices
-- Pragmatic Thinking
+tags: []
 categories: []
 
 ---

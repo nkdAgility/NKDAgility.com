@@ -36,9 +36,6 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Scrum Master
-- Agile Product Management
-- Agile Philosophy
-- Team Performance
 resourceTypes:
 - video
 categories:

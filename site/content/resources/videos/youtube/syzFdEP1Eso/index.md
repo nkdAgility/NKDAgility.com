@@ -33,6 +33,12 @@ sitemap:
 tags:
 - Working Software
 - Product Delivery
+- Definition of Done
+- Agile Product Management
+- Pragmatic Thinking
+- Software Development
+- Value Delivery
+- Engineering Practices
 resourceTypes:
 - video
 categories:

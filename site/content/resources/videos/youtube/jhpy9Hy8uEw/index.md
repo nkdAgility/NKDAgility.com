@@ -36,12 +36,6 @@ tags:
 - Continuous Improvement
 - Competence
 - Personal
-- Agile Frameworks
-- Scrum Values
-- Agile Philosophy
-- Continuous Learning
-- Pragmatic Thinking
-- Team Collaboration
 resourceTypes:
 - video
 categories:

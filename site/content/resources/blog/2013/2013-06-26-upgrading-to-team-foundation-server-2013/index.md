@@ -29,8 +29,6 @@ tags:
 - System Configuration
 - Windows
 - Troubleshooting
-- Azure DevOps
-- Release Management
 categories: []
 
 ---

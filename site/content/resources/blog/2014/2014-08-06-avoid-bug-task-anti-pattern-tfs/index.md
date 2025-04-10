@@ -37,14 +37,7 @@ tags:
 - Product Owner
 - Working Software
 - Operational Practices
-- Technical Debt
-- Technical Excellence
-- Test First Development
-- Technical Mastery
-- Engineering Practices
-- Product Delivery
-categories:
-- Engineering Excellence
+categories: []
 preview: NKDAgility-technically-BugAsATask-5-5.jpg
 
 ---

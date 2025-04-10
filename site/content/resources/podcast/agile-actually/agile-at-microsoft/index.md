@@ -14,7 +14,8 @@ layout: podcast
 slug: agile-at-microsoft
 aliases:
 - /resources/U_pzYjx6qk6
-tags: []
+tags:
+- Transparency
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2024/04/37154808-1713453740943-610b708628f26.jpg)

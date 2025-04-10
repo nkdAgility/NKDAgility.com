@@ -26,11 +26,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Azure DevOps
-- Operational Practices
-- Modern Source Control
-- Pragmatic Thinking
-- Product Delivery
-- Technical Mastery
 categories: []
 preview: metro-visual-studio-2010-128-link-8-8.png
 

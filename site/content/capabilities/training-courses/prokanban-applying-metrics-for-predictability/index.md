@@ -39,6 +39,7 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - Throughput
+- Estimation
 categories: []
 preview: NKDAgility-Courses-AMP-16x9-1.jpg
 previewIcon: Course-logo-AMP@1x.png

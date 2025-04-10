@@ -35,6 +35,8 @@ sitemap:
   priority: 0.6
 tags:
 - Operational Practices
+- Software Development
+- Transparency
 resourceTypes:
 - video
 categories: []

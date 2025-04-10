@@ -31,12 +31,6 @@ tags:
 - Software Development
 - Product Delivery
 - Application Lifecycle Management
-- Agile Strategy
-- Market Adaptability
-- Organisational Agility
-- Pragmatic Thinking
-- Working Software
-- Technical Mastery
 categories:
 - Engineering Excellence
 preview: nakedalm-logo-128-link-1-1.png

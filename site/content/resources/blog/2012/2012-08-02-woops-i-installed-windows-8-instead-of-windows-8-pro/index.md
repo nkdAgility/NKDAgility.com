@@ -30,7 +30,6 @@ aliasesArchive:
 tags:
 - Windows
 - Troubleshooting
-- Install and Configuration
 preview: nakedalm-windows-logo-7-7.png
 categories: []
 

@@ -24,7 +24,8 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/tzmbqdEULUY/maxresdefault.jpg
 duration: 218
 isShort: false
-tags: []
+tags:
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

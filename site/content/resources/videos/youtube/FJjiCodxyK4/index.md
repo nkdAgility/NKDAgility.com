@@ -31,14 +31,6 @@ sitemap:
 tags:
 - Agile Leadership
 - Agile Transformation
-- Agile Strategy
-- Business Agility
-- Pragmatic Thinking
-- Software Development
-- Self Organisation
-- Organisational Culture
-- Organisational Agility
-- Organisational Change
 resourceTypes:
 - video
 categories:

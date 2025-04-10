@@ -31,10 +31,6 @@ tags:
 - Software Development
 - Application Lifecycle Management
 - Azure DevOps
-- Agile Planning Tools
-- Agile Planning
-- Pragmatic Thinking
-- Product Delivery
 categories: []
 preview: metro-requirements-icon-14-14.png
 

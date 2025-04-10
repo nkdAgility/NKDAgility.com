@@ -30,7 +30,6 @@ tags:
 - Software Development
 - Release Management
 - Troubleshooting
-- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

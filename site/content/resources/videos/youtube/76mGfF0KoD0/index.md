@@ -39,11 +39,6 @@ tags:
 - Team Collaboration
 - Team Motivation
 - Pragmatic Thinking
-- Mentoring
-- Organisational Agility
-- Personal
-- Product Delivery
-- Self Organisation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -53,7 +48,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Technical Leadership
 
 ---
 When it comes to the role of a Scrum Master, I often find myself reflecting on the dynamics within a team. Recently, I was asked whether I would recommend an Agile Process Simulation (APS) workshop or an agile consultant if a Scrum Master was struggling with their team. My immediate thought was, “Perhaps we need to consider a new Scrum Master.” After all, if a Scrum Master is battling with their team, it raises some serious questions about their effectiveness and understanding of their role.

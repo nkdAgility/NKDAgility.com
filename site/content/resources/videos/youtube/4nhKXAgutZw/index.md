@@ -33,6 +33,15 @@ tags:
 - Team Collaboration
 - Agile Values and Principles
 - Organisational Culture
+- Organisational Agility
+- Agile Transformation
+- Social Technologies
+- Value Delivery
+- Customer Retention
+- Team Performance
+- Customer Satisfaction
+- Personal
+- Team Motivation
 resourceTypes:
 - video
 layout: video

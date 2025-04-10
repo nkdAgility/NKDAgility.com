@@ -38,6 +38,11 @@ tags:
 - Continuous Learning
 - Pragmatic Thinking
 - Professional Scrum
+- Agile Frameworks
+- Coaching
+- Continuous Improvement
+- Competence
+- Software Development
 categories:
 - Scrum
 

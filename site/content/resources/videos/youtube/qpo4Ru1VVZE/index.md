@@ -24,7 +24,10 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/qpo4Ru1VVZE/maxresdefault.jpg
 duration: 174
 isShort: false
-tags: []
+tags:
+- Azure DevOps
+- Pragmatic Thinking
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

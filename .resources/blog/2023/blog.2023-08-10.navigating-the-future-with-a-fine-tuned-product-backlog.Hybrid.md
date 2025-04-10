@@ -38,10 +38,6 @@ tags:
 - Pragmatic Thinking
 - Agile Frameworks
 - Transparency
-- Agile Strategy
-- Common Goals
-- Working Software
-- Agile Transformation
 categories:
 - Scrum
 - Product Management

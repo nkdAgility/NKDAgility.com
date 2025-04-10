@@ -33,8 +33,6 @@ tags:
 - Software Development
 - System Configuration
 - Azure DevOps
-- Pragmatic Thinking
-- Windows
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 

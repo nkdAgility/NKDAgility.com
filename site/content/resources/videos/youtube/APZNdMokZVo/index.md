@@ -35,6 +35,11 @@ tags:
 - Professional Scrum
 - Transparency
 - Agile Frameworks
+- Agile Planning
+- Agile Transformation
+- Empirical Process Control
+- Value Delivery
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

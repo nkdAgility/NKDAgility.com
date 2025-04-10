@@ -42,13 +42,6 @@ tags:
 - Professional Scrum
 - Social Technologies
 - Sociotechnical Systems
-- Agile Product Management
-- Cross Functional Teams
-- Self Organisation
-- Team Motivation
-- Value Delivery
-- Personal
-- Product Delivery
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-6-6.png

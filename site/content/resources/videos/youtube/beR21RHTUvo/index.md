@@ -35,6 +35,10 @@ tags:
 - Throughput
 - Agile Philosophy
 - Metrics and Learning
+- Agile Product Management
+- Agile Transformation
+- Software Development
+- Cycle Time
 resourceTypes:
 - video
 categories: []

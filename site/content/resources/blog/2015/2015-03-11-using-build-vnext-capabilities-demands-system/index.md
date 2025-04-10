@@ -34,7 +34,6 @@ tags:
 - Install and Configuration
 - Continuous Integration
 - System Configuration
-- Windows
 categories: []
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 

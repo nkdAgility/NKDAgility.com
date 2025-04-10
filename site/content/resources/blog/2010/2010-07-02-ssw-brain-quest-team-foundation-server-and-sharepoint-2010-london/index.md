@@ -31,10 +31,6 @@ tags:
 - Software Development
 - Application Lifecycle Management
 - Product Delivery
-- Collaboration Tools
-- Operational Practices
-- Pragmatic Thinking
-- Working Software
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

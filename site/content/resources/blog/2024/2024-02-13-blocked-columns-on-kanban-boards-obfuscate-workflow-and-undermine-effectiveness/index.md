@@ -33,6 +33,8 @@ tags:
 - Azure DevOps
 - Software Development
 - Transparency
+- Azure Boards
+- Pragmatic Thinking
 categories:
 - Kanban
 preview: NKDAgility-technically-BlockedColumns-7-7.jpg

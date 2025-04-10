@@ -34,7 +34,6 @@ tags:
 - Azure DevOps
 - Software Development
 - Technical Excellence
-- Test Automation
 categories:
 - Engineering Excellence
 preview: 

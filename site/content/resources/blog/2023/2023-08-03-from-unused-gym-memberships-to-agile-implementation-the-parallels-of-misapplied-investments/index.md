@@ -31,14 +31,6 @@ tags:
 - Agile Transformation
 - Agile Values and Principles
 - Pragmatic Thinking
-- Agile Product Management
-- Continuous Improvement
-- Agile Frameworks
-- Agile Strategy
-- Business Agility
-- Competence
-- Value Delivery
-- Product Delivery
 categories: []
 preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg
 

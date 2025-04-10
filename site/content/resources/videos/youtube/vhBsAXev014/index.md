@@ -37,10 +37,21 @@ tags:
 - Agile Transformation
 - Organisational Agility
 - Pragmatic Thinking
+- Enterprise Agility
+- Strategic Goals
+- Agile Product Management
+- Agile Leadership
+- Agile Philosophy
+- Agile Values and Principles
+- Business Agility
+- Common Goals
+- Complexity Thinking
+- Organisational Change
 resourceTypes:
 - video
 categories:
 - Product Management
+- Leadership
 
 ---
 # Steering Through the Agile Apocalypse: Navigating Chaos 🌪️

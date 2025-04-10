@@ -23,8 +23,7 @@ aliasesArchive:
 - /blog/twitter-with-style
 - /twitter-with-style
 - /resources/blog/twitter-with-style
-tags:
-- Miscellaneous
+tags: []
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

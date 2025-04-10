@@ -27,8 +27,7 @@ aliasesArchive:
 - /tfs-sticky-buddy-2-0-development-started…
 - /blog/tfs-sticky-buddy-2-0-development-started…
 - /resources/blog/tfs-sticky-buddy-2-0-development-started
-tags:
-- Software Development
+tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

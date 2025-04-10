@@ -37,11 +37,6 @@ tags:
 - Market Adaptability
 - Pragmatic Thinking
 - Sociotechnical Systems
-- Agile Philosophy
-- Beta Codex
-- Continuous Improvement
-- Social Technologies
-- Organisational Physics
 categories:
 - Leadership
 preview: image-3-3-3.png

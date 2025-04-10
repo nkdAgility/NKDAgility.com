@@ -33,6 +33,11 @@ tags:
 - Business Agility
 - Organisational Agility
 - Pragmatic Thinking
+- Agile Philosophy
+- Enterprise Agility
+- Organisational Change
+- Entrepreneurship
+- Market Adaptability
 resourceTypes:
 - video
 categories: []

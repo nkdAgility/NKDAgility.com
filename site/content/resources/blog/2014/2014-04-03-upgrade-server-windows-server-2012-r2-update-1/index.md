@@ -31,7 +31,6 @@ tags:
 - Windows
 - Install and Configuration
 - System Configuration
-- Troubleshooting
 categories: []
 preview: nakedalm-windows-logo-6-6.png
 

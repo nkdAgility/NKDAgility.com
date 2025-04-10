@@ -42,11 +42,8 @@ tags:
 - Engineering Practices
 - Flow Efficiency
 - Increment
-- Agile Product Management
-- Agile Transformation
 categories:
 - Engineering Excellence
-- DevOps
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

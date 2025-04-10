@@ -33,12 +33,6 @@ tags:
 - Pragmatic Thinking
 - Agile Product Management
 - Agile Transformation
-- Operational Practices
-- Team Collaboration
-- Agile Strategy
-- Team Performance
-- Agile Planning
-- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -47,7 +41,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Technical Leadership
 
 ---
 Scaling Scrum: Overcoming Challenges with the Scaled Professional Scrum Course

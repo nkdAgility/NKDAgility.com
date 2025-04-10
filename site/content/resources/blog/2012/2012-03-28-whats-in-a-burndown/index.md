@@ -40,12 +40,6 @@ tags:
 - Metrics and Learning
 - Scrum Team
 - Forecasting
-- Agile Planning Tools
-- Agile Transformation
-- Operational Practices
-- Scrum Master
-- Team Collaboration
-- Estimation
 categories:
 - Scrum
 preview: nakedalm-logo-128-link-1-1.png

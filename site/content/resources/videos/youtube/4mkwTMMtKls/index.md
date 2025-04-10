@@ -32,6 +32,11 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
+- Agile Transformation
+- Organisational Agility
+- Personal
+- Pragmatic Thinking
+- Agile Values and Principles
 resourceTypes:
 - video
 layout: video

@@ -35,12 +35,6 @@ tags:
 - Team Collaboration
 - Personal
 - Team Performance
-- Coaching
-- Continuous Learning
-- Organisational Agility
-- Scrum Team
-- Scrum Master
-- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

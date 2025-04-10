@@ -29,13 +29,6 @@ tags:
 - Agile Product Management
 - Agile Transformation
 - Competence
-- Social Technologies
-- Agile Planning
-- Continuous Improvement
-- Team Collaboration
-- Transparency
-- Scrum Master
-- Team Performance
 
 ---
 Learning about scrum is important, but growing your capability to deploy and implement scrum effectively is way more important.

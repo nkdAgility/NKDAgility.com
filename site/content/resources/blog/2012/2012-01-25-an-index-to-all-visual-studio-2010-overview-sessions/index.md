@@ -29,7 +29,6 @@ aliasesArchive:
 - /resources/blog/an-index-to-all-visual-studio-2010-overview-sessions
 tags:
 - Application Lifecycle Management
-- Software Development
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories: []
 

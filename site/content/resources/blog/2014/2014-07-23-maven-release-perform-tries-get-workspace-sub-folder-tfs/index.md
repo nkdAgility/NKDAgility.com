@@ -31,8 +31,6 @@ tags:
 - Troubleshooting
 - Software Development
 - Pragmatic Thinking
-- Install and Configuration
-- System Configuration
 categories: []
 preview: naked-alm-jenkins-logo-2-2.png
 

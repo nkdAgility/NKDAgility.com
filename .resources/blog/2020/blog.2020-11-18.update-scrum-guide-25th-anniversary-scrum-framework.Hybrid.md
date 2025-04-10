@@ -38,8 +38,6 @@ tags:
 - Self Organisation
 - Team Performance
 - Increment
-- Value Delivery
-- Product Delivery
 categories:
 - Scrum
 preview: naked-Agility-Scrum-Framework-3-2.jpg

@@ -38,11 +38,6 @@ tags:
 - Product Owner
 - Sociotechnical Systems
 - Value Delivery
-- Agile Strategy
-- Continuous Improvement
-- Empirical Process Control
-- Professional Scrum
-- Team Collaboration
 resourceTypes:
 - video
 categories:

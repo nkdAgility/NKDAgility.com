@@ -26,7 +26,6 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - System Configuration
-- Software Development
 categories: []
 
 ---

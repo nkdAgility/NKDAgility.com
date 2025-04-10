@@ -30,11 +30,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Pragmatic Thinking
-- Agile Planning Tools
-- Azure DevOps
-- Agile Planning
-- Operational Practices
-- Product Delivery
 categories: []
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 

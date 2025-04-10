@@ -43,11 +43,6 @@ tags:
 - Organisational Agility
 - Product Delivery
 - Team Performance
-- Agile Strategy
-- Continuous Improvement
-- Continuous Learning
-- Social Technologies
-- Team Collaboration
 resourceTypes:
 - video
 layout: video

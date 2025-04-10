@@ -27,6 +27,8 @@ duration: 50
 isShort: true
 tags:
 - Operational Practices
+- Transparency
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

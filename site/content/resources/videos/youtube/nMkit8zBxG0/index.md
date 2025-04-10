@@ -37,11 +37,6 @@ tags:
 - Product Delivery
 - Agile Planning Tools
 - Pragmatic Thinking
-- Agile Transformation
-- Scrum Team
-- Operational Practices
-- Working Software
-- Team Performance
 resourceTypes:
 - video
 categories:

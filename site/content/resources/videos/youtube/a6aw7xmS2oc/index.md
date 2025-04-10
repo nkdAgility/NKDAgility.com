@@ -34,14 +34,6 @@ tags:
 - Metrics and Learning
 - Pragmatic Thinking
 - Decision Making
-- Agile Philosophy
-- Agile Planning
-- Agile Product Operating Model
-- Common Goals
-- Software Development
-- Product Delivery
-- Product Strategy
-- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -50,7 +42,6 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- Scrum
 
 ---
 As a product owner, adopting an entrepreneurial stance is crucial for steering your team towards success. I often think of this stance as embodying the visionary who gazes into the future, shaping the product backlog with insights and foresight. However, there are two key aspects that I believe every product owner must keep in mind to truly harness this entrepreneurial spirit.

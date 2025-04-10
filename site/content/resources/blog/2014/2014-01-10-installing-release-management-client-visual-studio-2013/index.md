@@ -34,9 +34,6 @@ tags:
 - Release Management
 - Azure DevOps
 - Azure Pipelines
-- Application Lifecycle Management
-- Troubleshooting
-- Windows
 categories: []
 
 ---

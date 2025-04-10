@@ -26,7 +26,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Install and Configuration
-- Modern Source Control
 categories: []
 
 ---

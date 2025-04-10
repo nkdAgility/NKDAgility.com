@@ -32,11 +32,6 @@ tags:
 - Operational Practices
 - Agile Transformation
 - Product Delivery
-- Agile Planning
-- Agile Product Management
-- Azure DevOps
-- Scrum Team
-- Decision Making
 categories:
 - Scrum
 preview: IC749984-1-1.png

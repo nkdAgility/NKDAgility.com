@@ -40,12 +40,6 @@ tags:
 - Agile Strategy
 - Market Adaptability
 - Organisational Agility
-- Agile Values and Principles
-- Business Agility
-- Continuous Improvement
-- Evidence Based Leadership
-- Metrics and Learning
-- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -54,7 +48,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Product Management
 
 ---
 In the world of Agile, the statistics speak volumes. According to the Standish Group's Chaos Report, small projects with fewer than 50 participants are 30% more likely to succeed when employing Agile practices. Even more striking, larger projects with over 50 people see a staggering 200% increase in their chances of success. This data underscores the transformative power of Agile methodologies, and today, I want to delve into the key differences that make this possible.

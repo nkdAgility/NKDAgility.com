@@ -37,11 +37,6 @@ tags:
 - Digital Transformation
 - Enterprise Agility
 - Frequent Releases
-- Continuous Delivery
-- Deployment Frequency
-- Working Software
-- Product Delivery
-- Market Adaptability
 categories: []
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 

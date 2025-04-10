@@ -20,7 +20,6 @@ aliasesArchive:
 - /resources/newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
 categories:
 - Product Management
-- Scrum
 tags:
 - Product Discovery
 - Product Validation
@@ -31,17 +30,6 @@ tags:
 - MVP
 - Product Owner
 - Experimentation
-- Ability to Innovate
-- Agile Transformation
-- Customer Feedback Loops
-- Hypothesis Driven Development
-- Lean Startup
-- Organisational Agility
-- Software Development
-- Team Collaboration
-- Working Software
-- Pragmatic Thinking
-- Product Strategy
 
 ---
 **Dear Innovators and Product Enthusiasts,**

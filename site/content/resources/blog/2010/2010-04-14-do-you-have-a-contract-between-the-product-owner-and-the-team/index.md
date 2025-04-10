@@ -35,16 +35,8 @@ tags:
 - Agile Product Management
 - Scrum Team
 - Product Delivery
-- Team Collaboration
-- Team Performance
-- Working Software
-- Pragmatic Thinking
-- Social Technologies
-- Working Agreements
-- Product Owner
 categories:
 - Scrum
-- Product Management
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

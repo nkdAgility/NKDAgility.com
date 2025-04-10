@@ -48,6 +48,7 @@ tags:
 - Pragmatic Thinking
 - Agile Leadership
 - Continuous Improvement
+- Team Collaboration
 categories:
 - Scrum
 - Product Development

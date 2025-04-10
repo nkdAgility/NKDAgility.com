@@ -28,7 +28,6 @@ card:
 categories:
 - Product Management
 - Engineering Excellence
-- Kanban
 tags:
 - Operational Practices
 - Metrics and Learning
@@ -47,9 +46,6 @@ tags:
 - Throughput
 - Cycle Time
 - Deployment Frequency
-- Ability to Innovate
-- Agile Product Management
-- Agile Product Operating Model
 
 ---
 In order to understand how your team is doing we need to have metrics that we can monitor across all of [Company]. There are two focuses of this work, first is the Product/Project/Organisation focus and second is the Team focus.

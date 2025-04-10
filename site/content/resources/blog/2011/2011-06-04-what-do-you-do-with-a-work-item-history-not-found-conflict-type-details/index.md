@@ -28,11 +28,6 @@ tags:
 - Software Development
 - Azure DevOps
 - Install and Configuration
-- Application Lifecycle Management
-- Modern Source Control
-- Pragmatic Thinking
-- System Configuration
-- Windows
 categories: []
 preview: metro-binary-vb-128-link-4-4.png
 

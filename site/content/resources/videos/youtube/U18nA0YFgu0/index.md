@@ -39,6 +39,9 @@ tags:
 - Organisational Culture
 - Psychological Safety
 - Team Motivation
+- Organisational Agility
+- Agile Values and Principles
+- Personal
 resourceTypes:
 - video
 categories: []

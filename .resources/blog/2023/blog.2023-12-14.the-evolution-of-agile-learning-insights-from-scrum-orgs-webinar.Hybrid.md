@@ -32,15 +32,7 @@ tags:
 - Continuous Learning
 - Pragmatic Thinking
 - Competence
-- Agile Transformation
-- Coaching
-- Continuous Improvement
-- Organisational Agility
-- Social Technologies
-- Software Development
-- Agile Frameworks
-categories:
-- Scrum
+categories: []
 preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg
 
 ---

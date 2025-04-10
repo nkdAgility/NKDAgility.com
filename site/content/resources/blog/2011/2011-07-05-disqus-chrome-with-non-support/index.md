@@ -29,7 +29,6 @@ aliasesArchive:
 - /resources/blog/disqus-chrome-with-non-support
 tags:
 - Troubleshooting
-- Miscellaneous
 categories: []
 preview: nakedalm-logo-128-link-7-7.png
 

@@ -31,9 +31,6 @@ sitemap:
 tags:
 - Pragmatic Thinking
 - Software Development
-- Azure DevOps
-- Operational Practices
-- Sociotechnical Systems
 resourceTypes:
 - video
 categories:

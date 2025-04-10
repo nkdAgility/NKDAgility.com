@@ -40,9 +40,7 @@ tags:
 - Pragmatic Thinking
 resourceTypes:
 - video
-categories:
-- Product Management
-- Scrum
+categories: []
 
 ---
 ## What's a Sprint Goal and Why Does It Matter?

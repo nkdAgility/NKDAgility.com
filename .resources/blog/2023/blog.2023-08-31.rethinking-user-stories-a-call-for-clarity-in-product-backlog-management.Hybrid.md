@@ -36,10 +36,8 @@ tags:
 - Transparency
 - Product Owner
 - Agile Product Management
-- Agile Planning
 categories:
 - Product Management
-- Scrum
 preview: naked-agility-technically-rethinkinguserstories-1-1-1.jpg
 
 ---

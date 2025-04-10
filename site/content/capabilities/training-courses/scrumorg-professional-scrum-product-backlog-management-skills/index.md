@@ -47,10 +47,6 @@ tags:
 - Value Delivery
 - Decision Making
 - Product Strategy
-- Competence
-- Continuous Improvement
-- Evidence Based Management
-- Product Discovery
 categories:
 - Scrum
 - Product Management

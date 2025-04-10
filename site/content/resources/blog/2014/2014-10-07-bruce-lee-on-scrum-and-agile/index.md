@@ -27,13 +27,6 @@ tags:
 - Agile Philosophy
 - Organisational Agility
 - Agile Transformation
-- Agile Planning
-- Software Development
-- Agile Frameworks
-- Agile Strategy
-- Pragmatic Thinking
-- Self Organisation
-- Agile Values and Principles
 categories: []
 preview: nakedalm-experts-professional-scrum-2-2.png
 

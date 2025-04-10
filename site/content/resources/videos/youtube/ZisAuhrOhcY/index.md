@@ -37,6 +37,10 @@ tags:
 - Agile Frameworks
 - Transparency
 - Flow Efficiency
+- Agile Strategy
+- Pragmatic Thinking
+- Software Development
+- Metrics and Learning
 resourceTypes:
 - video
 categories: []

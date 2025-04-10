@@ -32,9 +32,6 @@ tags:
 - Scrum Master
 - Agile Frameworks
 - Professional Scrum
-- Scrum Team
-- Agile Transformation
-- Pragmatic Thinking
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-6-6.png

@@ -36,6 +36,18 @@ tags:
 - Agile Philosophy
 - Agile Values and Principles
 - Metrics and Learning
+- Agile Planning
+- Agile Product Management
+- Continuous Learning
+- Experimentation
+- Frequent Releases
+- Hypothesis Driven Development
+- Lean Principles
+- Lean Startup
+- Operational Practices
+- Pragmatic Thinking
+- Value Delivery
+- Continuous Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

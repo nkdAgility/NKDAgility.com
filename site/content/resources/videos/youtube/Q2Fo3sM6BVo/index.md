@@ -35,9 +35,6 @@ tags:
 - Scrum Master
 - Social Technologies
 - Team Collaboration
-- Value Delivery
-- Agile Transformation
-- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

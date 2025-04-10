@@ -40,14 +40,8 @@ tags:
 - Evidence Based Management
 - Operational Practices
 - Product Delivery
-- Ability to Innovate
-- Agile Strategy
-- Continuous Improvement
-- Forecasting
-- Value Stream Management
 categories:
 - Product Management
-- Scrum
 preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 
 ---

@@ -52,8 +52,7 @@ tags:
 - Strategic Goals
 resourceTypes:
 - video
-categories:
-- Leadership
+categories: []
 
 ---
 ## The Agile Imperative: How Traditional Organisations Can Embrace Change 

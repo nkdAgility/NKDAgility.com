@@ -43,11 +43,6 @@ tags:
 - Product Delivery
 - Agile Product Management
 - Continuous Improvement
-- Competence
-- Operational Practices
-- Technical Mastery
-- Transparency
-- Value Delivery
 categories:
 - Scrum
 - Engineering Excellence

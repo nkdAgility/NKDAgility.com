@@ -50,6 +50,8 @@ tags:
 - Flow Efficiency
 - Customer Feedback Loops
 - Team Performance
+- Lead Time
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

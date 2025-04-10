@@ -34,6 +34,9 @@ sitemap:
 tags:
 - Agile Philosophy
 - Agile Transformation
+- Organisational Agility
+- Organisational Culture
+- Software Development
 resourceTypes:
 - video
 categories: []

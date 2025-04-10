@@ -41,9 +41,6 @@ tags:
 - Install and Configuration
 - Technical Mastery
 - Value Delivery
-- Azure DevOps
-- Automated Testing
-- Continuous Improvement
 categories:
 - Engineering Excellence
 - DevOps

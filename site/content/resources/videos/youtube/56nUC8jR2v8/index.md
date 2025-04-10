@@ -24,8 +24,7 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/56nUC8jR2v8/maxresdefault.jpg
 duration: 51
 isShort: true
-tags:
-- Social Technologies
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6

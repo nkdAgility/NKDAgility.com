@@ -29,13 +29,6 @@ tags:
 - Install and Configuration
 - System Configuration
 - Pragmatic Thinking
-- Application Lifecycle Management
-- Operational Practices
-- Release Management
-- Technical Excellence
-- Technical Mastery
-- Troubleshooting
-- Working Software
 categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 

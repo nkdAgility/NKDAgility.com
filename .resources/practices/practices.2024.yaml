@@ -28,7 +28,6 @@
     categories:
     - Product Management
     - Engineering Excellence
-    - Kanban
     tags:
     - Operational Practices
     - Metrics and Learning
@@ -47,9 +46,6 @@
     - Throughput
     - Cycle Time
     - Deployment Frequency
-    - Ability to Innovate
-    - Agile Product Management
-    - Agile Product Operating Model
   BodyContent: |
     In order to understand how your team is doing we need to have metrics that we can monitor across all of [Company]. There are two focuses of this work, first is the Product/Project/Organisation focus and second is the Team focus.
 
@@ -128,12 +124,6 @@
     - Estimation
     - Pragmatic Thinking
     - Transparency
-    - Agile Planning
-    - Agile Product Management
-    - Value Delivery
-    - Working Software
-    - Product Delivery
-    - Team Performance
   BodyContent: |
     A service level expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the Scrum Team's Workflow. The Scrum Team uses its SLE to find active flow issues and to inspect and adapt in cases of falling below those expectations.
 
@@ -201,12 +191,6 @@
     - Product Delivery
     - Team Collaboration
     - Team Performance
-    - Agile Planning Tools
-    - Social Technologies
-    - Value Delivery
-    - Pragmatic Thinking
-    - Agile Transformation
-    - Common Goals
   BodyContent: |
     We will endevour to explain not just the purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) but the additional practices and understanding that are required to make it effective. We will also look at how to market the outcome and help teams to communicate their intentions and plans to stakeholders so that they can support the team in their work.
 
@@ -382,7 +366,6 @@
     categories:
     - Scrum
     - Engineering Excellence
-    - DevOps
     tags:
     - Definition of Done
     - Professional Scrum
@@ -403,7 +386,6 @@
     - Agile Product Management
     - Team Collaboration
     - Team Performance
-    - Continuous Improvement
   BodyContent: |
     Every team should define what is required, what criteria must be met, for a product increment to be considered releasable. A definition of done. If the organization has not articulated a specific standard, or set of criteria, then the team should create a definition of done that is appropriate for the product. The work produced must comply with the definition of done for it to be considered usable, and if there are multiple teams working on a single product, then those teams must agree on a definition of done and ensure that all teams honour that standard.
     {: .lead}
@@ -616,11 +598,8 @@
         content: Learn More
       content: Discover more about Accountabilities for the Scrum Team and how it can help you in your Agile journey!
       title: Accountabilities for the Scrum Team
-    categories:
-    - Scrum
-    tags:
-    - Scrum Team
-    - Software Development
+    categories: []
+    tags: []
   BodyContent: |
     While we have an overview of the [accountabilities](/Project-Management/Agile-Ways-of-Working/Core-Practices/Accountabilities) for the organisation it is worth diving into some of the accountabilities specifically.
 
@@ -659,10 +638,7 @@
       content: Discover more about Site Reliability Engineering (SRE) and how it can help you in your Agile journey!
       title: Site Reliability Engineering (SRE)
     categories: []
-    tags:
-    - Pragmatic Thinking
-    - Site Reliability Engineering
-    - Software Development
+    tags: []
   BodyContent: |
     With the shift-left movement pushing more responsibility to the engineering teams what practices will help them cope with running a production site. These are the experience of the Azure DevOps Services team and their journey from on premises to a fully fledged SAAS solution and way they need to do to run it and build trust with their customers.
 

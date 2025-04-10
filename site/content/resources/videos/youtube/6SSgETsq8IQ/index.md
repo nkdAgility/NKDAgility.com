@@ -33,13 +33,6 @@ tags:
 - Software Development
 - Value Delivery
 - Product Delivery
-- Agile Frameworks
-- Agile Planning
-- Organisational Agility
-- Pragmatic Thinking
-- Scrum Team
-- Agile Strategy
-- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

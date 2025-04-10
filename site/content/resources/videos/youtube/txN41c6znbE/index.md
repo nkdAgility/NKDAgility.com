@@ -42,10 +42,17 @@ tags:
 - Agile Philosophy
 - Pragmatic Thinking
 - Team Performance
+- Agile Transformation
+- Continuous Improvement
+- Scrum Team
+- Organisational Agility
+- Organisational Physics
 resourceTypes:
 - video
 categories:
 - Product Development
+- Leadership
+- Technical Leadership
 
 ---
 Agile was supposed to revolutionize the way we build and deliver products, but it veered off track surprisingly early. The seeds of these challenges were planted during the creation of the Agile Manifesto itself. At Snowbird, a group of experienced and capable practitioners crafted a vision for agility in software development. However, they made some assumptions that have come to haunt us.

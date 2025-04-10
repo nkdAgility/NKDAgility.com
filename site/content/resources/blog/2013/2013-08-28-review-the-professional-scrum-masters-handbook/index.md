@@ -30,9 +30,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Agile Frameworks
-- Scrum Team
-- Pragmatic Thinking
-- Scrum Master
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png

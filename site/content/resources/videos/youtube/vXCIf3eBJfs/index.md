@@ -32,6 +32,10 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Transformation
+- Agile Frameworks
+- Software Development
+- Competence
+- Organisational Agility
 resourceTypes:
 - video
 categories: []

@@ -30,9 +30,6 @@ aliasesArchive:
 tags:
 - Windows
 - Install and Configuration
-- Troubleshooting
-- Software Development
-- System Configuration
 categories: []
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 

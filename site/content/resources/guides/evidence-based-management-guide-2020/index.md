@@ -38,6 +38,7 @@ aliases:
 - /resources/Rv0ZjvwYVy5
 categories:
 - Product Management
+- Engineering Excellence
 tags:
 - Evidence Based Management
 - Ability to Innovate

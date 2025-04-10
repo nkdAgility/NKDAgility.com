@@ -32,9 +32,6 @@ tags:
 - Frequent Releases
 - Continuous Delivery
 - Deployment Frequency
-- Install and Configuration
-- Market Adaptability
-- Product Delivery
 categories: []
 preview: nakedalm-windows-logo-12-12.png
 

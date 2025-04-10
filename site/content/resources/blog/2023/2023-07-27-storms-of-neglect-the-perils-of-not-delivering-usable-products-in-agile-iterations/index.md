@@ -43,12 +43,9 @@ tags:
 - Competence
 - Team Performance
 - Technical Debt
-- Agile Frameworks
-- Business Agility
 categories:
 - Scrum
 - Product Management
-- Engineering Excellence
 preview: image-1.jpg
 
 ---

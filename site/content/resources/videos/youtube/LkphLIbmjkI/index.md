@@ -31,14 +31,9 @@ sitemap:
 tags:
 - Software Development
 - Agile Frameworks
-- Agile Transformation
-- Pragmatic Thinking
-- Team Collaboration
-- Mentoring
 resourceTypes:
 - video
-categories:
-- Engineering Excellence
+categories: []
 
 ---
 ## Limits of Professional Coaching

@@ -35,8 +35,6 @@ tags:
 - Software Development
 - Agile Frameworks
 - Professional Scrum
-- Agile Transformation
-- Scrum Master
 categories:
 - Scrum
 preview: PSF_Badges-2-2.png

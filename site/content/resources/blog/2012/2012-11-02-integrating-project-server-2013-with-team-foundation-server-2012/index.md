@@ -27,9 +27,6 @@ tags:
 - Install and Configuration
 - System Configuration
 - Troubleshooting
-- Windows
-- Pragmatic Thinking
-- Software Development
 categories: []
 preview: metro-sharepoint-128-link-23-23.png
 

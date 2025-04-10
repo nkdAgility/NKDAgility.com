@@ -30,7 +30,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Modern Source Control
-- Install and Configuration
 categories: []
 
 ---

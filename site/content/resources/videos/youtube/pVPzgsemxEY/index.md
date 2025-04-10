@@ -42,6 +42,10 @@ tags:
 - Agile Transformation
 - Lean Thinking
 - Organisational Agility
+- Agile Values and Principles
+- Scrum Master
+- Social Technologies
+- Competence
 resourceTypes:
 - video
 categories: []

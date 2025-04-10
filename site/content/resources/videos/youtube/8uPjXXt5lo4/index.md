@@ -34,13 +34,6 @@ tags:
 - Agile Transformation
 - Pragmatic Thinking
 - Personal
-- Agile Product Management
-- Agile Strategy
-- Coaching
-- Empirical Process Control
-- Organisational Agility
-- Team Collaboration
-- Scrum Master
 resourceTypes:
 - video
 categories: []

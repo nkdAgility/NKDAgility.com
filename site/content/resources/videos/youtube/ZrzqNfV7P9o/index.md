@@ -31,10 +31,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Pragmatic Thinking
-- Software Development
-- Team Collaboration
+tags: []
 resourceTypes:
 - video
 categories: []

@@ -29,8 +29,7 @@ aliasesArchive:
 - /resources/blog/my-first-alm-and-second-vsts-presentaton
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
-tags:
-- Miscellaneous
+tags: []
 
 ---
 It seams as if they went well! The plan of under preparing and over delivering worked a treat... Because I know the topics the lack of a prepared script allowed me to concentrate more on emparting knowlage and less on keeping to a set of arbitrary notes the go to pot as soon as the first question is asked.

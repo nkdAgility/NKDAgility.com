@@ -28,8 +28,6 @@ tags:
 - Social Technologies
 - Continuous Improvement
 - Personal
-- Competence
-- Scrum Master
 sitemap:
   filename: sitemap.xml
   priority: 0.6

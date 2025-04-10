@@ -36,6 +36,9 @@ tags:
 - Software Development
 - Metrics and Learning
 - Pragmatic Thinking
+- Agile Transformation
+- Continuous Improvement
+- Flow Efficiency
 resourceTypes:
 - video
 categories:

@@ -27,11 +27,7 @@ tags:
 - Software Development
 - Install and Configuration
 - Pragmatic Thinking
-- Azure DevOps
-- Operational Practices
-- System Configuration
-categories:
-- Scrum
+categories: []
 
 ---
 Upgrading your process template from MSF for Agile 4 to Visual Studio Scrum 2.x can be a daunting and scary task. While you do need to be careful it is relatively simple to achieve safely.

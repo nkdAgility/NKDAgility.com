@@ -42,6 +42,10 @@ tags:
 - Flow Efficiency
 - Value Delivery
 - Platform Engineering
+- Continuous Integration
+- Frequent Releases
+- Metrics and Learning
+- Technical Debt
 resourceTypes:
 - video
 sitemap:
@@ -50,6 +54,7 @@ sitemap:
 categories:
 - Engineering Excellence
 - DevOps
+- Product Development
 
 ---
 When it comes to developing complex products, one of the most significant steps we can take as developers and engineering teams is to embrace automation. In my experience, this is not just a best practice; it’s essential for success. Alongside reducing the size of our backlog—essentially making our deliverables smaller so we can iterate more frequently—automation becomes a cornerstone of our development process.

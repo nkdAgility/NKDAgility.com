@@ -28,10 +28,6 @@ tags:
 - System Configuration
 - Software Development
 - Internal Developer Platform
-- Azure DevOps
-- Technical Excellence
-- Platform Engineering
-- Technical Mastery
 categories: []
 
 ---

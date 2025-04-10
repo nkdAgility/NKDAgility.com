@@ -36,6 +36,15 @@ tags:
 - Agile Philosophy
 - Competence
 - Social Technologies
+- Software Development
+- Organisational Agility
+- Agile Leadership
+- Agile Transformation
+- Agile Values and Principles
+- Continuous Improvement
+- Organisational Culture
+- Team Motivation
+- Value Delivery
 resourceTypes:
 - video
 categories: []

@@ -35,20 +35,10 @@ tags:
 - Agile Transformation
 - Agile Leadership
 - Competence
-- Agile Strategy
-- Business Agility
-- Continuous Improvement
-- Organisational Change
-- Organisational Physics
-- Social Technologies
-- Sociotechnical Systems
-- Organisational Culture
-- Agile Frameworks
 resourceTypes:
 - video
 categories:
 - Leadership
-- Technical Leadership
 
 ---
 In what circumstances is agile consulting appropriate?

@@ -35,10 +35,6 @@ tags:
 - Agile Product Management
 - Agile Transformation
 - Product Delivery
-- Team Collaboration
-- Team Performance
-- Professional Scrum
-- Pragmatic Thinking
 categories:
 - Scrum
 preview: metro-SSWLogo-128-link-1-1.png

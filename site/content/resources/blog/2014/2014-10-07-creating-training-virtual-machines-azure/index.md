@@ -30,8 +30,6 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - System Configuration
-- Software Development
-- Windows
 categories: []
 preview: nakedalm-windows-logo-16-16.png
 

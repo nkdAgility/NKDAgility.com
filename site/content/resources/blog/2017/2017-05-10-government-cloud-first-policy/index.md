@@ -25,7 +25,6 @@ aliasesArchive:
 - /resources/blog/government-cloud-first-policy
 tags:
 - Digital Transformation
-- Pragmatic Thinking
 categories: []
 preview: government-cloud-640x400-1-1.png
 

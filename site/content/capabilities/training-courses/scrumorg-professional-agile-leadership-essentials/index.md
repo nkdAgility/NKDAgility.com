@@ -46,10 +46,6 @@ tags:
 - Organisational Change
 - Value Delivery
 - Social Technologies
-- Common Goals
-- Competence
-- Change Management
-- Software Development
 categories:
 - Leadership
 - Technical Leadership

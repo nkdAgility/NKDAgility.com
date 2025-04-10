@@ -49,7 +49,6 @@ tags:
 - Product Delivery
 - Team Collaboration
 - Value Delivery
-- Continuous Improvement
 resourceTypes:
 - video
 categories:

@@ -36,6 +36,7 @@ tags:
 - Agile Planning
 - Agile Values and Principles
 - Pragmatic Thinking
+- Agile Frameworks
 resourceTypes:
 - video
 categories: []

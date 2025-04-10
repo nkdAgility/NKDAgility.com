@@ -32,7 +32,6 @@ tags:
 - Scrum Team
 - Agile Planning Tools
 - Agile Transformation
-- Transparency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

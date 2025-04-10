@@ -37,7 +37,6 @@ tags:
 - Scrum Master
 - Continuous Learning
 - Software Development
-- Mentoring
 resourceTypes:
 - video
 categories: []

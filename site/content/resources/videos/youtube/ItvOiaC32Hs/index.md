@@ -31,6 +31,15 @@ tags:
 - Agile Strategy
 - Organisational Agility
 - Team Performance
+- Common Goals
+- Agile Leadership
+- Agile Planning
+- Agile Product Management
+- Social Technologies
+- Sociotechnical Systems
+- Team Motivation
+- Agile Transformation
+- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -42,11 +42,6 @@ tags:
 - Scrum Team
 - Mentoring
 - Software Development
-- Agile Product Management
-- Agile Transformation
-- Team Collaboration
-- Team Performance
-- Continuous Improvement
 resourceTypes:
 - video
 categories:

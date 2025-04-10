@@ -29,8 +29,6 @@ tags:
 - Install and Configuration
 - Pragmatic Thinking
 - System Configuration
-- Technical Excellence
-- Technical Mastery
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

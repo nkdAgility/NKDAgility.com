@@ -37,10 +37,6 @@ tags:
 - Empirical Process Control
 - Pragmatic Thinking
 - Product Delivery
-- Agile Product Management
-- Increment
-- Value Delivery
-- Engineering Practices
 categories:
 - Scrum
 - Engineering Excellence

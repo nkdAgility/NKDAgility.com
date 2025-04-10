@@ -35,7 +35,6 @@ tags:
 - Windows
 - Software Development
 - Install and Configuration
-- Azure DevOps
 categories: []
 preview: puzzle-issue-problem-128-link-3-3.png
 

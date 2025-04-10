@@ -36,17 +36,10 @@ tags:
 - Personal
 - Scrum Values
 - Pragmatic Thinking
-- Agile Frameworks
-- Agile Transformation
-- Coaching
-- Mentoring
-- Professional Scrum
-- Transparency
 resourceTypes:
 - video
 categories:
 - Scrum
-- Leadership
 
 ---
 ## My Professional Scrum Trainer Legacy: What Matters Most to Me?

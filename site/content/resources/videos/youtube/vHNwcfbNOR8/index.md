@@ -34,14 +34,6 @@ tags:
 - Coaching
 - Personal
 - Agile Transformation
-- Agile Philosophy
-- Organisational Agility
-- Pragmatic Thinking
-- Software Development
-- Organisational Culture
-- Team Collaboration
-- Team Motivation
-- Competence
 resourceTypes:
 - video
 categories: []

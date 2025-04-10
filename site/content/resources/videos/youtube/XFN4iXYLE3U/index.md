@@ -40,6 +40,7 @@ tags:
 - Flow Efficiency
 - Lean Principles
 - Lean Thinking
+- Working Software
 resourceTypes:
 - video
 categories:

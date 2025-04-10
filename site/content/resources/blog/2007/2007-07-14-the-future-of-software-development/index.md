@@ -26,7 +26,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Pragmatic Thinking
-- Product Delivery
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

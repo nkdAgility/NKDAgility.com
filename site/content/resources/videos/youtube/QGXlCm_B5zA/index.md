@@ -34,14 +34,6 @@ tags:
 - Agile Frameworks
 - Continuous Learning
 - Scrum Team
-- Value Delivery
-- Agile Transformation
-- Organisational Agility
-- Agile Leadership
-- Competence
-- Coaching
-- Product Delivery
-- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

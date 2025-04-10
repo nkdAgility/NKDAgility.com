@@ -25,7 +25,6 @@ aliasesArchive:
 - /resources/blog/creating-your-own-event-handler
 tags:
 - Software Development
-- Azure DevOps
 categories: []
 preview: metro-binary-vb-128-link-2-2.png
 

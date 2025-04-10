@@ -37,6 +37,8 @@ tags:
 - Organisational Agility
 - Sociotechnical Systems
 - Agile Philosophy
+- Software Development
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories: []

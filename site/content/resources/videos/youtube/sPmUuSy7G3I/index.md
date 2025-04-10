@@ -37,16 +37,6 @@ tags:
 - Software Development
 - Product Backlog
 - Product Owner
-- Agile Strategy
-- Agile Transformation
-- Backlog Refinement
-- Common Goals
-- Decision Making
-- Professional Scrum
-- Scrum Team
-- Team Performance
-- Working Software
-- Scrum Master
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -41,13 +41,6 @@ tags:
 - Team Collaboration
 - Frequent Releases
 - Self Organisation
-- Agile Strategy
-- Continuous Improvement
-- Customer Satisfaction
-- Empirical Process Control
-- Market Adaptability
-- Social Technologies
-- Team Motivation
 
 ---
 We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:

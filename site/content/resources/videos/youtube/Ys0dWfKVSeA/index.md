@@ -50,9 +50,6 @@ tags:
 - Continuous Improvement
 - Social Technologies
 - Product Delivery
-- Scrum Master
-- Common Goals
-- Organisational Change
 resourceTypes:
 - video
 categories:

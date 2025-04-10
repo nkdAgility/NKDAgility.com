@@ -39,6 +39,13 @@ tags:
 - Team Performance
 - Flow Efficiency
 - Agile Philosophy
+- Agile Planning
+- Agile Values and Principles
+- Agile Transformation
+- Cycle Time
+- Metrics and Learning
+- Product Delivery
+- Working Software
 resourceTypes:
 - video
 categories: []

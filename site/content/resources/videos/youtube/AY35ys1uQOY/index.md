@@ -32,9 +32,6 @@ tags:
 - Software Development
 - Agile Product Management
 - Agile Planning
-- Agile Transformation
-- Pragmatic Thinking
-- Scrum Master
 resourceTypes:
 - video
 categories:

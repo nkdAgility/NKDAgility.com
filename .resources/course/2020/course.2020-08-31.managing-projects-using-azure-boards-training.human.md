@@ -41,9 +41,6 @@ tags:
 - Product Backlog
 - Product Delivery
 - Software Development
-- Agile Frameworks
-- Agile Product Management
-- Team Performance
 categories: []
 preview: naked-agility-Accentient-MPAB-1600x900-1.jpg
 previewIcon: A-MPAB.png

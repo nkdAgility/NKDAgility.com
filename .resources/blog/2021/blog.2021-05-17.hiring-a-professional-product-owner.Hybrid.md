@@ -53,13 +53,6 @@ tags:
 - Decision Making
 - Evidence Based Leadership
 - Evidence Based Management
-- Competence
-- Agile Planning
-- Agile Strategy
-- Operational Practices
-- Strategic Goals
-- Team Collaboration
-- Transparency
 categories:
 - Product Management
 - Scrum

@@ -36,6 +36,8 @@ tags:
 - Transparency
 - Agile Transformation
 - Pragmatic Thinking
+- Product Delivery
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

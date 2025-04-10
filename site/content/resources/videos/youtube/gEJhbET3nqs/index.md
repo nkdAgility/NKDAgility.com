@@ -39,12 +39,6 @@ tags:
 - Organisational Culture
 - Team Performance
 - Mentoring
-- Agile Product Management
-- Change Management
-- Coaching
-- Common Goals
-- Digital Transformation
-- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

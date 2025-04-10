@@ -30,6 +30,12 @@ tags:
 - Operational Practices
 - Lean Principles
 - Lean Thinking
+- Continuous Improvement
+- Pragmatic Thinking
+- Software Development
+- Throughput
+- Product Delivery
+- Value Delivery
 
 ---
 ## Duration

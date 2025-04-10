@@ -59,7 +59,6 @@ tags:
 - Team Collaboration
 - Team Performance
 - Scrum Master
-- Empirical Process Control
 categories:
 - Scrum
 preview: naked-agility-Professional-Scrum-APS-Minecraft-1600x900-1.jpg

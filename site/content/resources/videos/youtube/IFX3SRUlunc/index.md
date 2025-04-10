@@ -30,6 +30,9 @@ tags:
 - Lean Principles
 - Lean Thinking
 - Value Delivery
+- Entrepreneurship
+- Operational Practices
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -34,7 +34,6 @@ tags:
 - Install and Configuration
 - System Configuration
 - Software Development
-- Pragmatic Thinking
 categories: []
 preview: puzzle-issue-problem-128-link-5-5.png
 

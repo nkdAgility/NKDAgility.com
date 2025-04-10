@@ -40,7 +40,6 @@ tags:
 - Pragmatic Thinking
 - Throughput
 - Estimation
-- Software Development
 categories: []
 preview: NKDAgility-Courses-AMP-16x9-1.jpg
 previewIcon: Course-logo-AMP@1x.png

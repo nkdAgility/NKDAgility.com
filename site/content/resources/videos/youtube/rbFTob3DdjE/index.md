@@ -32,10 +32,6 @@ tags:
 - Scrum Master
 - Scrum Team
 - Social Technologies
-- Agile Product Management
-- Collaboration Tools
-- Software Development
-- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

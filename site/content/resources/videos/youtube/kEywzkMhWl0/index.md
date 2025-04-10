@@ -43,18 +43,9 @@ tags:
 - Change Management
 - Competence
 - Mentoring
-- Agile Planning
-- Organisational Agility
-- Agile Product Management
-- Coaching
-- Agile Philosophy
-- Agile Strategy
-- Continuous Learning
-- Team Motivation
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
 **1 critical skill for a Scrum Master and why?**

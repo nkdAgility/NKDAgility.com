@@ -29,10 +29,6 @@ tags:
 - Windows
 - System Configuration
 - Azure DevOps
-- Pragmatic Thinking
-- Release Management
-- Working Software
-- Troubleshooting
 categories: []
 
 ---

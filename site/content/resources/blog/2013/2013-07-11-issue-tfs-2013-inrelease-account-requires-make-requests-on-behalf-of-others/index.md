@@ -32,10 +32,6 @@ tags:
 - Install and Configuration
 - Software Development
 - System Configuration
-- Azure DevOps
-- Azure Repos
-- Pragmatic Thinking
-- Windows
 categories: []
 preview: puzzle-issue-problem-128-link-5-5.png
 

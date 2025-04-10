@@ -30,10 +30,6 @@ tags:
 - Scrum Values
 - Pragmatic Thinking
 - Social Technologies
-- Collaboration Tools
-- Miscellaneous
-- Sociotechnical Systems
-- Team Performance
 categories: []
 preview: image-21-3-3.png
 

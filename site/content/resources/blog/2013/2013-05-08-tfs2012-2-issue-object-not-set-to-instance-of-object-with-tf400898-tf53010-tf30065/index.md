@@ -38,8 +38,6 @@ tags:
 - Software Development
 - Install and Configuration
 - Windows
-- Azure DevOps
-- System Configuration
 categories: []
 preview: puzzle-issue-problem-128-link-4-4.png
 

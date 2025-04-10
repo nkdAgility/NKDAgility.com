@@ -41,19 +41,11 @@ tags:
 - Agile Transformation
 - Continuous Improvement
 - Professional Scrum
-- Coaching
-- Empirical Process Control
-- Operational Practices
-- Team Collaboration
-- Working Software
-- Competence
-- Product Delivery
 resourceTypes:
 - video
 layout: video
 categories:
 - Scrum
-- Technical Leadership
 
 ---
 What would you advise a scrum team to do in their first 4 weeks?

@@ -42,12 +42,6 @@ tags:
 - Engineering Practices
 - Technical Mastery
 - Team Performance
-- Agile Planning
-- Mentoring
-- Organisational Agility
-- Sociotechnical Systems
-- Product Delivery
-- Value Delivery
 categories:
 - Scrum
 - Technical Leadership

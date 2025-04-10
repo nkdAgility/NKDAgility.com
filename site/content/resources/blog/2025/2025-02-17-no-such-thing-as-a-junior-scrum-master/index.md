@@ -38,6 +38,11 @@ tags:
 - Team Collaboration
 - Agile Product Management
 - Product Delivery
+- Value Delivery
+- Self Organisation
+- Sociotechnical Systems
+- Working Software
+- Agile Planning
 categories:
 - Scrum
 - Technical Leadership

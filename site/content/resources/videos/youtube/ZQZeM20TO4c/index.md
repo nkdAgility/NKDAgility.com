@@ -34,11 +34,6 @@ tags:
 - Agile Philosophy
 - Organisational Agility
 - Organisational Change
-- Agile Transformation
-- Enterprise Agility
-- Agile Strategy
-- Business Agility
-- Organisational Culture
 resourceTypes:
 - video
 categories:

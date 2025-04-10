@@ -37,6 +37,10 @@ tags:
 - Agile Product Management
 - Product Backlog
 - Team Collaboration
+- Agile Transformation
+- Definition of Done
+- Working Software
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

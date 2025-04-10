@@ -36,12 +36,6 @@ tags:
 - Pragmatic Thinking
 - System Configuration
 - Operational Practices
-- Azure DevOps
-- One Engineering System (1ES)
-- Working Software
-- Product Delivery
-- Application Lifecycle Management
-- Modern Source Control
 categories: []
 preview: nakedalm-experts-visual-studio-alm-10-10.png
 

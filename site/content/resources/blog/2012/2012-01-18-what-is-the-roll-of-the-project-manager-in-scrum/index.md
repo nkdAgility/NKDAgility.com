@@ -31,10 +31,6 @@ tags:
 - Software Development
 - Agile Frameworks
 - Scrum Team
-- Agile Product Management
-- Agile Transformation
-- Professional Scrum
-- Pragmatic Thinking
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png

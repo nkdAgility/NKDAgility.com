@@ -35,11 +35,7 @@ tags:
 - Pragmatic Thinking
 - Working Software
 - Product Delivery
-- Agile Strategy
-- Digital Transformation
-- Technical Mastery
-categories:
-- Engineering Excellence
+categories: []
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

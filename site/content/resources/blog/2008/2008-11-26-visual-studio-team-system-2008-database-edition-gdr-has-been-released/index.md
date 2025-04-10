@@ -29,9 +29,6 @@ aliasesArchive:
 - /resources/blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
 tags:
 - Software Development
-- Release Management
-- Technical Excellence
-- Technical Mastery
 categories: []
 
 ---

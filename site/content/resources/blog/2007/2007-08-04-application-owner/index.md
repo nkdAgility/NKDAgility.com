@@ -23,9 +23,7 @@ aliasesArchive:
 - /blog/application-owner
 - /application-owner
 - /resources/blog/application-owner
-tags:
-- Application Lifecycle Management
-- Pragmatic Thinking
+tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

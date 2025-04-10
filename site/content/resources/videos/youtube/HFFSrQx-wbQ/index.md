@@ -28,6 +28,12 @@ isShort: false
 tags:
 - Agile Philosophy
 - Organisational Agility
+- Business Agility
+- Continuous Improvement
+- Software Development
+- Agile Transformation
+- Agile Values and Principles
+- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6

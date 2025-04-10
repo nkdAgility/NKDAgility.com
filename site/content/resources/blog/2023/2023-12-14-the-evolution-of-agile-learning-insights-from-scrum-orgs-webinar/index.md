@@ -31,6 +31,7 @@ aliasesArchive:
 tags:
 - Continuous Learning
 - Pragmatic Thinking
+- Competence
 categories: []
 preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg
 

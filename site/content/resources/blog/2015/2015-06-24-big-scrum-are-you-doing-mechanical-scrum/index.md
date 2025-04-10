@@ -33,9 +33,6 @@ tags:
 - Professional Scrum
 - Agile Product Management
 - Agile Transformation
-- Pragmatic Thinking
-- Product Delivery
-- Team Performance
 categories:
 - Scrum
 preview: clip_image001-1-1.png

@@ -37,6 +37,13 @@ tags:
 - Continuous Improvement
 - Organisational Culture
 - Team Motivation
+- Enterprise Agility
+- Organisational Agility
+- Agile Leadership
+- Organisational Psychology
+- Sociotechnical Systems
+- Team Performance
+- Personal
 categories:
 - Leadership
 

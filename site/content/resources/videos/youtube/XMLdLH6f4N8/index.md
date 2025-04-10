@@ -29,8 +29,6 @@ tags:
 - Organisational Culture
 - Organisational Agility
 - Continuous Improvement
-- Agile Transformation
-- Common Goals
 sitemap:
   filename: sitemap.xml
   priority: 0.6

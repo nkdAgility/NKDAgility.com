@@ -29,15 +29,11 @@ aliasesArchive:
 - /visual-studio-2010-overview---code-management-and-build
 - /blog/visual-studio-2010-overview---code-management-and-build
 - /resources/blog/visual-studio-2010-overview-code-management-build
-categories:
-- Engineering Excellence
+categories: []
 tags:
 - Software Development
 - Application Lifecycle Management
 - Modern Source Control
-- Engineering Practices
-- Technical Excellence
-- Technical Mastery
 
 ---
 code-management-and-build

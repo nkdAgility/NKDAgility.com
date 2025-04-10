@@ -47,11 +47,8 @@ tags:
 - Scrum Master
 - Value Delivery
 - Azure DevOps
-- Agile Planning Tools
-- Agile Transformation
 categories:
 - Scrum
-- Product Management
 preview: NKDAgility-technically-SprintRefignementBallance-6-6.jpg
 
 ---

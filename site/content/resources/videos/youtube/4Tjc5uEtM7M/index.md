@@ -26,6 +26,9 @@ isShort: false
 tags:
 - Azure DevOps
 - Pragmatic Thinking
+- Software Development
+- Troubleshooting
+- Install and Configuration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -23,8 +23,7 @@ aliasesArchive:
 - /blog/rddotnet
 - /rddotnet
 - /resources/blog/rddotnet
-tags:
-- Miscellaneous
+tags: []
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

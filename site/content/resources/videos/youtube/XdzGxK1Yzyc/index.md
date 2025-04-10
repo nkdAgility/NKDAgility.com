@@ -39,16 +39,11 @@ tags:
 - Product Delivery
 - Common Goals
 - Value Delivery
-- Agile Frameworks
-- Pragmatic Thinking
-- Software Development
-- Product Strategy
 resourceTypes:
 - video
 categories:
 - Scrum
 - Product Management
-- Leadership
 
 ---
 ## Decoding the Role of the Product Owner

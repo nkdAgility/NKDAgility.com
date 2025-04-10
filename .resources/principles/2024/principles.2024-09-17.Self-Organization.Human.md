@@ -30,9 +30,6 @@ tags:
 - Scrum Team
 - Software Development
 - Team Collaboration
-- Agile Frameworks
-- Scrum Master
-- Team Performance
 
 ---
 Self-Organization: Scrum teams are self-organizing, which means they have the autonomy to determine how to achieve their goals. The team members collaborate and make decisions together, and the Scrum Master helps to facilitate and guide the process

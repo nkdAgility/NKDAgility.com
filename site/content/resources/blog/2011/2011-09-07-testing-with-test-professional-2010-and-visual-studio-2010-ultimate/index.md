@@ -23,9 +23,7 @@ aliasesArchive:
 - /blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 - /testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 - /resources/blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
-tags:
-- Application Lifecycle Management
-- Software Development
+tags: []
 categories: []
 
 ---

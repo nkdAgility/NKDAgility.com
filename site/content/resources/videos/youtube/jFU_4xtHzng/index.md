@@ -33,9 +33,6 @@ tags:
 - Continuous Learning
 - Continuous Improvement
 - Pragmatic Thinking
-- Competence
-- Lean Principles
-- Organisational Agility
 resourceTypes:
 - video
 categories: []

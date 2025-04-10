@@ -34,9 +34,6 @@ tags:
 - Agile Planning
 - Agile Product Management
 - Agile Transformation
-- Scrum Team
-- Pragmatic Thinking
-- Product Delivery
 categories:
 - Scrum
 preview: metro-event-128-link-2-2.png

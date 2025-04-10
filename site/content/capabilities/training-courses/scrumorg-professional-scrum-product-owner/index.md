@@ -58,8 +58,6 @@ tags:
 - Scrum Team
 - Software Development
 - Value Delivery
-- Decision Making
-- Evidence Based Leadership
 categories:
 - Product Management
 - Scrum

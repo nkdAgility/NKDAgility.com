@@ -18,14 +18,10 @@ aliases:
 aliasesArchive:
 - /newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
 - /resources/newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
-categories:
-- Scrum
+categories: []
 tags:
 - Continuous Learning
 - Competence
-- Software Development
-- Organisational Agility
-- Agile Transformation
 
 ---
 The world is spinning faster than ever, with more players than ever.

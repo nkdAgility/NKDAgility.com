@@ -33,8 +33,6 @@ sitemap:
 tags:
 - Software Development
 - Pragmatic Thinking
-- Value Delivery
-- Continuous Delivery
 resourceTypes:
 - video
 categories:

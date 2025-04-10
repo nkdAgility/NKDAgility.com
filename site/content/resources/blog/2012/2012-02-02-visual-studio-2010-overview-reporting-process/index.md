@@ -29,10 +29,7 @@ aliasesArchive:
 - /visual-studio-2010-overview---reporting-&-process
 - /blog/visual-studio-2010-overview---reporting-&-process
 - /resources/blog/visual-studio-2010-overview-reporting-process
-tags:
-- Application Lifecycle Management
-- Operational Practices
-- Software Development
+tags: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories: []
 

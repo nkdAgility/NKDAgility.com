@@ -35,11 +35,6 @@ tags:
 - Organisational Agility
 - Social Technologies
 - Competence
-- Agile Philosophy
-- Agile Product Management
-- Mentoring
-- Metrics and Learning
-- Software Development
 resourceTypes:
 - video
 categories: []

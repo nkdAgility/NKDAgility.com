@@ -31,11 +31,6 @@ tags:
 - Automated Testing
 - Troubleshooting
 - Test Driven Development
-- Azure DevOps
-- Test Automation
-- Test First Development
-- Working Software
-- Pragmatic Thinking
 categories:
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png

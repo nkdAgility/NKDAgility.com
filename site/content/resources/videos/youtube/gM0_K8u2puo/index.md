@@ -34,7 +34,10 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Product Delivery
+- Continuous Delivery
+- Time to Market
 resourceTypes:
 - video
 categories:

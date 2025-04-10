@@ -35,11 +35,6 @@ tags:
 - Personal
 - Product Owner
 - Sociotechnical Systems
-- Agile Philosophy
-- Systems Thinking
-- Enterprise Agility
-- Organisational Physics
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -48,8 +43,6 @@ resourceTypes:
 - video
 categories:
 - Leadership
-- Product Management
-- Technical Leadership
 
 ---
 As I reflect on my journey in the world of Agile, I often find myself considering the natural evolution of roles within our organisations. One role that stands out in this evolution is that of the Product Owner, particularly as they transition into more significant leadership positions. This shift is not just a change in title; it represents a deeper understanding of product management and a broader organisational perspective.

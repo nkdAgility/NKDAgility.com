@@ -30,8 +30,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Technical Mastery
-- Technical Excellence
-- Windows
 categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 

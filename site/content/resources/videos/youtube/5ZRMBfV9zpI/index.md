@@ -33,9 +33,6 @@ tags:
 - Coaching
 - Scrum Team
 - Continuous Learning
-- Agile Product Management
-- Agile Transformation
-- Mentoring
 sitemap:
   filename: sitemap.xml
   priority: 0.6

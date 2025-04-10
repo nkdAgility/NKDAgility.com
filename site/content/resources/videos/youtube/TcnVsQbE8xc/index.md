@@ -34,9 +34,6 @@ tags:
 - Competence
 - Pragmatic Thinking
 - Software Development
-- Agile Frameworks
-- Professional Scrum
-- Team Collaboration
 resourceTypes:
 - video
 categories:

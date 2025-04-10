@@ -29,6 +29,11 @@ tags:
 - Metrics and Learning
 - Pragmatic Thinking
 - Value Delivery
+- Agile Product Management
+- Continuous Improvement
+- Decision Making
+- Evidence Based Management
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -37,6 +42,7 @@ resourceTypes:
 categories:
 - Product Management
 - Product Development
+- Scrum
 
 ---
 When it comes to building products, understanding the cost associated with those products is absolutely crucial. Over the years, I've learned that the financial landscape of product development is complex, but it boils down to a few key components. The two primary costs in software development are typically hardware and, more significantly, the people involved. If you have a team of 50 people working on a product, their salaries will likely represent your largest expense. Following that, if you're deploying to the cloud, your infrastructure costs will come into play as your second biggest expense.

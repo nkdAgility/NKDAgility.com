@@ -43,10 +43,6 @@ tags:
 - Scrum Master
 - Product Delivery
 - Team Performance
-- Scrum Team
-- Agile Planning
-- Competence
-- Team Collaboration
 resourceTypes:
 - video
 categories:

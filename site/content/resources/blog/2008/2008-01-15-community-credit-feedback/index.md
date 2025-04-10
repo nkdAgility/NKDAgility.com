@@ -23,8 +23,7 @@ aliasesArchive:
 - /blog/community-credit-feedback
 - /community-credit-feedback
 - /resources/blog/community-credit-feedback
-tags:
-- Miscellaneous
+tags: []
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

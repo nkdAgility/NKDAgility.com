@@ -43,9 +43,6 @@ tags:
 - Social Technologies
 - Agile Philosophy
 - Team Performance
-- Agile Values and Principles
-- Agile Planning
-- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

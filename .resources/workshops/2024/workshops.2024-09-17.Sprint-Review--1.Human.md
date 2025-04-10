@@ -43,8 +43,6 @@ card:
   title: 'Sprint Review #1'
 categories:
 - Scrum
-- Product Management
-- Technical Leadership
 tags:
 - Sprint Review
 - Empirical Process Control

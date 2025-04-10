@@ -30,7 +30,6 @@ sitemap:
   priority: 0.6
 tags:
 - Personal
-- Competence
 resourceTypes:
 - video
 categories: []

@@ -28,7 +28,6 @@ tags:
 - Windows
 - Troubleshooting
 - System Configuration
-- Software Development
 categories: []
 
 ---

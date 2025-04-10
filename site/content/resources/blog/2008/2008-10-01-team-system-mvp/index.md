@@ -23,8 +23,7 @@ aliasesArchive:
 - /blog/team-system-mvp
 - /team-system-mvp
 - /resources/blog/team-system-mvp
-tags:
-- Miscellaneous
+tags: []
 categories: []
 preview: metro-award-link-1-1.png
 

@@ -27,8 +27,7 @@ aliasesArchive:
 - /managing-your-azure-vm's-with-your-phone
 - /blog/managing-your-azure-vm's-with-your-phone
 - /resources/blog/managing-azure-vms-phone
-tags:
-- Miscellaneous
+tags: []
 categories: []
 preview: nakedalm-windows-logo-7-7.png
 

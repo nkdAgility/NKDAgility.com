@@ -31,7 +31,6 @@ sitemap:
 tags:
 - Scrum Master
 - Software Development
-- Scrum Team
 resourceTypes:
 - video
 categories: []

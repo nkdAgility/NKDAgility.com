@@ -37,6 +37,13 @@ tags:
 - Pragmatic Thinking
 - Team Performance
 - Software Development
+- Scrum Team
+- Agile Frameworks
+- Agile Transformation
+- Team Motivation
+- Agile Planning
+- Scrum Master
+- Self Organisation
 resourceTypes:
 - video
 categories:

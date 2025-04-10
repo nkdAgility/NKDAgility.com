@@ -39,6 +39,8 @@ tags:
 - Organisational Agility
 - Organisational Culture
 - Sociotechnical Systems
+- Business Agility
+- Social Technologies
 resourceTypes:
 - video
 categories:

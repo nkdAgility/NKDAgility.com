@@ -38,13 +38,7 @@ tags:
 - Azure DevOps
 - Technical Excellence
 - Windows
-- Azure Pipelines
-- Continuous Integration
-- Working Software
-- Pragmatic Thinking
-- Engineering Practices
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-problem-icon-6-6.png
 
 ---

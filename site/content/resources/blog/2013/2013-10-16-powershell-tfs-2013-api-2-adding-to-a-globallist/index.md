@@ -32,9 +32,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Install and Configuration
-- Technical Excellence
-- Technical Mastery
-- System Configuration
 categories: []
 preview: metro-powershell-logo-1-1.png
 

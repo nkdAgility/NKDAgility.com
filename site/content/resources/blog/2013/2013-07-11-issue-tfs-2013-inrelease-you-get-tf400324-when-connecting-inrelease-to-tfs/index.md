@@ -34,7 +34,6 @@ tags:
 - System Configuration
 - Azure DevOps
 - Windows
-- Pragmatic Thinking
 categories: []
 preview: puzzle-issue-problem-128-link-3-3.png
 

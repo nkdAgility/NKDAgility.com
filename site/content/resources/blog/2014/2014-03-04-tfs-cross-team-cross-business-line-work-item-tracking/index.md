@@ -34,17 +34,6 @@ tags:
 - Operational Practices
 - Product Delivery
 - Team Collaboration
-- Collaboration Tools
-- Application Lifecycle Management
-- Install and Configuration
-- Large Scale Agility
-- Social Technologies
-- Sociotechnical Systems
-- Technical Excellence
-- Technical Mastery
-- Working Software
-- Modern Source Control
-- Team Performance
 categories: []
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 

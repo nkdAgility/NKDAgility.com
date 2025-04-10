@@ -44,8 +44,6 @@ tags:
 - Agile Values and Principles
 - Market Adaptability
 - Operational Practices
-- Competence
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

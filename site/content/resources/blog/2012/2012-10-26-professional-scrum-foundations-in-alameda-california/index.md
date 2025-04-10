@@ -47,11 +47,6 @@ tags:
 - Working Software
 - Increment
 - Team Performance
-- Empirical Process Control
-- Operational Practices
-- Scrum Master
-- Sprint Review
-- Value Delivery
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png

@@ -30,9 +30,6 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Social Technologies
-- Team Collaboration
-- Value Delivery
-- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.6

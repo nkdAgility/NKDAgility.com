@@ -31,11 +31,6 @@ tags:
 - Continuous Integration
 - Install and Configuration
 - Windows
-- Azure Repos
-- Pragmatic Thinking
-- Modern Source Control
-- Operational Practices
-- System Configuration
 preview: metro-SSWLogo-128-link-11-11.png
 categories: []
 

@@ -45,6 +45,11 @@ tags:
 - Systems Thinking
 - Agile Strategy
 - Operational Practices
+- Agile Frameworks
+- Agile Leadership
+- Business Agility
+- Metrics and Learning
+- Organisational Culture
 resourceTypes:
 - video
 categories: []

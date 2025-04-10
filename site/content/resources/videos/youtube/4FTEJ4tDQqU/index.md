@@ -32,18 +32,6 @@ tags:
 - Agile Philosophy
 - Organisational Agility
 - Organisational Culture
-- Agile Frameworks
-- Agile Leadership
-- Agile Planning
-- Agile Product Management
-- Competence
-- Self Organisation
-- Social Technologies
-- Sociotechnical Systems
-- Team Collaboration
-- Agile Strategy
-- Product Delivery
-- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -51,8 +39,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- DevOps
+categories: []
 
 ---
 When I reflect on my journey from a developer to an advocate for Agile practices, I often find myself pondering the question: why did I embrace Agile over traditional project management? The truth is, during my time as a developer, I didn’t consciously choose Agile; rather, it was a reaction to the limitations I experienced with conventional project management methods.

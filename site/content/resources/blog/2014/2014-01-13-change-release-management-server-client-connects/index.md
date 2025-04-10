@@ -33,8 +33,6 @@ tags:
 - Release Management
 - Troubleshooting
 - Windows
-- Azure DevOps
-- Software Development
 categories: []
 
 ---

@@ -32,10 +32,6 @@ tags:
 - Pragmatic Thinking
 - System Configuration
 - Windows
-- Azure Repos
-- Operational Practices
-- Technical Excellence
-- Technical Mastery
 categories: []
 preview: naked-alm-jenkins-logo-9-9.png
 

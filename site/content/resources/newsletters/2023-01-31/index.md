@@ -24,13 +24,6 @@ categories:
 tags:
 - Agile Product Management
 - Product Owner
-- Organisational Agility
-- Agile Strategy
-- Common Goals
-- Value Delivery
-- Pragmatic Thinking
-- Product Delivery
-- Product Strategy
 
 ---
 Over the past few months, we’ve seen mass layoffs from tech giants around the world. From Amazon to Meta, and heaps of smaller organizations across the board.

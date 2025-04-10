@@ -35,6 +35,12 @@ tags:
 - Agile Frameworks
 - Software Development
 - Agile Transformation
+- Agile Philosophy
+- Change Management
+- Sociotechnical Systems
+- Enterprise Agility
+- Organisational Agility
+- Agile Product Management
 resourceTypes:
 - video
 categories: []

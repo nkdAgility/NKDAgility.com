@@ -28,13 +28,6 @@ tags:
 - Working Software
 - Install and Configuration
 - Technical Mastery
-- Azure DevOps
-- Application Lifecycle Management
-- Pragmatic Thinking
-- Technical Excellence
-- Increment
-- System Configuration
-- Troubleshooting
 categories: []
 
 ---

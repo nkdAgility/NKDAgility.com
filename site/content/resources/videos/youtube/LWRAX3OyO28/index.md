@@ -37,6 +37,14 @@ tags:
 - Pragmatic Thinking
 - Value Delivery
 - Working Software
+- Automated Testing
+- Azure DevOps
+- Digital Transformation
+- Test Automation
+- Metrics and Learning
+- Market Adaptability
+- Release Management
+- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,6 +53,7 @@ resourceTypes:
 categories:
 - DevOps
 - Engineering Excellence
+- Product Development
 
 ---
 If you're venturing into the realm of continuous delivery, you might be pondering the benefits it brings to your organisation. While many tout speed as the primary advantage, I’ve come to realise that this is merely a by-product of a much deeper transformation. The true power of continuous delivery lies in the automation it necessitates within the DevOps framework. 

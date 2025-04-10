@@ -23,8 +23,7 @@ aliasesArchive:
 - /blog/head-first-design-patterns
 - /head-first-design-patterns
 - /resources/blog/head-first-design-patterns
-tags:
-- Miscellaneous
+tags: []
 categories: []
 preview: nakedalm-logo-128-link-2-2.png
 

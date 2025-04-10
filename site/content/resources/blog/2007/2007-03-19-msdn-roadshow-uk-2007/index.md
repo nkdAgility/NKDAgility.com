@@ -23,8 +23,7 @@ aliasesArchive:
 - /blog/msdn-roadshow-uk-2007
 - /msdn-roadshow-uk-2007
 - /resources/blog/msdn-roadshow-uk-2007
-tags:
-- Miscellaneous
+tags: []
 categories: []
 preview: metro-event-128-link-1-1.png
 

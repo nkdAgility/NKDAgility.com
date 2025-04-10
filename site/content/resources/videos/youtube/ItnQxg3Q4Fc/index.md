@@ -46,17 +46,10 @@ tags:
 - Sociotechnical Systems
 - Market Adaptability
 - Product Delivery
-- Large Scale Agility
-- Strategic Goals
-- Systems Thinking
-- Agile Philosophy
-- Organisational Physics
-- Digital Transformation
 resourceTypes:
 - video
 categories:
 - Leadership
-- Product Management
 
 ---
 ## Why Senior Leadership is Non-Negotiable in an Agile Consulting Journey

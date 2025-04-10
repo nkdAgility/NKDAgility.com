@@ -36,6 +36,8 @@ tags:
 - Operational Practices
 - Throughput
 - Agile Frameworks
+- Pragmatic Thinking
+- Lean Thinking
 resourceTypes:
 - video
 categories:

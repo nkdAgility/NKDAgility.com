@@ -43,10 +43,6 @@ tags:
 - Professional Scrum
 - Working Software
 - Product Delivery
-- Operational Practices
-- Team Collaboration
-- Value Delivery
-- Market Adaptability
 resourceTypes:
 - video
 categories:

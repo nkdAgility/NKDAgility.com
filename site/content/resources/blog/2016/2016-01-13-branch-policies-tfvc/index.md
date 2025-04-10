@@ -32,8 +32,6 @@ tags:
 - Azure Repos
 - Modern Source Control
 - Azure DevOps
-- Pragmatic Thinking
-- Technical Mastery
 categories: []
 preview: image-2-2-2.png
 

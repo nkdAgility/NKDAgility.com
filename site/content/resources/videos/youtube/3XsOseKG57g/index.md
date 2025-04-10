@@ -28,8 +28,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Personal
+tags: []
 resourceTypes:
 - video
 layout: video

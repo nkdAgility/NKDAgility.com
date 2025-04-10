@@ -35,9 +35,6 @@ tags:
 - Application Lifecycle Management
 - Modern Source Control
 - Operational Practices
-- Technical Excellence
-- Working Software
-- Pragmatic Thinking
 preview: metro-visual-studio-2010-128-link-24-24.png
 categories: []
 

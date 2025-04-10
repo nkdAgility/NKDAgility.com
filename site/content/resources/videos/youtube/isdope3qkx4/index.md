@@ -27,8 +27,6 @@ duration: 2351
 isShort: false
 tags:
 - Software Development
-- Continuous Improvement
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

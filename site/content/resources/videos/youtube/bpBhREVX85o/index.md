@@ -28,10 +28,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Pragmatic Thinking
-- Agile Product Management
-- Agile Transformation
+tags: []
 resourceTypes:
 - video
 categories: []

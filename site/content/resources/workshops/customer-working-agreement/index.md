@@ -25,8 +25,13 @@ card:
     content: Learn More
   content: Discover more about  and how it can help you in your Agile journey!
   title: 
-categories: []
-tags: []
+categories:
+- Scrum
+tags:
+- Common Goals
+- Working Agreements
+- Transparency
+- Agile Product Management
 
 ---
 ## Customer Working Agreement

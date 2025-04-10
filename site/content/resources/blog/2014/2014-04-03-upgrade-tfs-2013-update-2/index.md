@@ -35,12 +35,6 @@ tags:
 - Install and Configuration
 - Application Lifecycle Management
 - System Configuration
-- Pragmatic Thinking
-- Technical Excellence
-- Working Software
-- Modern Source Control
-- Product Delivery
-- Technical Mastery
 categories: []
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 

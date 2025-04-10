@@ -27,10 +27,6 @@ tags:
 - Software Development
 - Technical Excellence
 - Install and Configuration
-- Azure Pipelines
-- Continuous Integration
-- Test Automation
-- Troubleshooting
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

@@ -33,6 +33,8 @@ tags:
 - Coaching
 - Agile Transformation
 - Organisational Agility
+- Software Development
+- Agile Leadership
 resourceTypes:
 - video
 layout: video

@@ -36,6 +36,14 @@ tags:
 - Pragmatic Thinking
 - Organisational Culture
 - Beta Codex
+- Organisational Agility
+- Organisational Change
+- Sociotechnical Systems
+- Software Development
+- Agile Philosophy
+- Agile Strategy
+- Team Motivation
+- Team Collaboration
 resourceTypes:
 - video
 categories: []

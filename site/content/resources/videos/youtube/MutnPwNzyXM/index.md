@@ -30,8 +30,6 @@ tags:
 - Agile Philosophy
 - Agile Values and Principles
 - Customer Satisfaction
-- Miscellaneous
-- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

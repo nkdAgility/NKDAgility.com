@@ -40,6 +40,9 @@ tags:
 - Agile Philosophy
 - Agile Transformation
 - Working Software
+- Agile Frameworks
+- Lean Product Development
+- Empirical Process Control
 sitemap:
   filename: sitemap.xml
   priority: 0.6

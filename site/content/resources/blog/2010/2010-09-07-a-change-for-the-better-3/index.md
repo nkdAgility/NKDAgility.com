@@ -32,18 +32,8 @@ tags:
 - Application Lifecycle Management
 - Pragmatic Thinking
 - Personal
-- Engineering Practices
-- Scrum Master
-- Agile Transformation
-- Mentoring
-- Continuous Learning
-- Operational Practices
-- Product Delivery
-- Team Performance
-- Competence
 categories:
 - Scrum
-- Engineering Excellence
 preview: metro-nwc-128-link-2-2.png
 
 ---

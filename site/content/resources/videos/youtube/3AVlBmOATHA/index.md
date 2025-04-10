@@ -40,20 +40,11 @@ tags:
 - Business Agility
 - Change Management
 - Organisational Change
-- Agile Philosophy
-- Agile Planning
-- Continuous Improvement
-- Customer Satisfaction
-- Digital Transformation
-- Enterprise Agility
-- Operational Practices
-- Social Technologies
 resourceTypes:
 - video
 layout: video
 categories:
 - Leadership
-- Product Management
 
 ---
 How would you help organizations pitch the opportunity of agile internally?

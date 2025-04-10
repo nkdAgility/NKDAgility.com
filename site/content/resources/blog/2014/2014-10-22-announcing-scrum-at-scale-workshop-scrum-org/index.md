@@ -42,12 +42,6 @@ tags:
 - Organisational Change
 - Organisational Culture
 - Pragmatic Thinking
-- Ability to Innovate
-- Agile Planning
-- Continuous Improvement
-- Agile Leadership
-- Agile Strategy
-- Change Management
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-2-2.png

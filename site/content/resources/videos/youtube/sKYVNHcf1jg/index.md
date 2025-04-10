@@ -29,10 +29,6 @@ isShort: false
 tags:
 - Personal
 - Pragmatic Thinking
-- Agile Philosophy
-- Organisational Agility
-- Software Development
-- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

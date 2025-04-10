@@ -42,21 +42,10 @@ tags:
 - Product Delivery
 - Agile Planning
 - Product Owner
-- Empirical Process Control
-- Organisational Agility
-- Agile Frameworks
-- Continuous Improvement
-- Market Adaptability
-- Scrum Team
-- Strategic Goals
-- Sensemaking
-- Value Delivery
-- Change Management
 resourceTypes:
 - video
 categories:
 - Product Management
-- Scrum
 
 ---
 ## The Role of the Product Owner: Navigating the Agile Seas 🌊 

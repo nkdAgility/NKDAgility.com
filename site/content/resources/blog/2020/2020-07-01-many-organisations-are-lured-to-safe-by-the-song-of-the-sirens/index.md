@@ -31,10 +31,6 @@ tags:
 - Business Agility
 - Organisational Change
 - Organisational Culture
-- Enterprise Agility
-- Change Management
-- Agile Strategy
-- Sociotechnical Systems
 categories: []
 preview: Siren-mermaids-25084952-1378-1045-6-5.jpg
 

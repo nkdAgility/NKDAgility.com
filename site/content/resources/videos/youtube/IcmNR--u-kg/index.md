@@ -30,9 +30,6 @@ tags:
 - Continuous Learning
 - Competence
 - Pragmatic Thinking
-- Coaching
-- Social Technologies
-- Mentoring
 sitemap:
   filename: sitemap.xml
   priority: 0.6

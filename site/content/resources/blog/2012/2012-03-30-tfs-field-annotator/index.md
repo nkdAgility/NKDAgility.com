@@ -26,7 +26,6 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Troubleshooting
-- Windows
 categories: []
 preview: metro-cloud-azure-link-4-4.png
 

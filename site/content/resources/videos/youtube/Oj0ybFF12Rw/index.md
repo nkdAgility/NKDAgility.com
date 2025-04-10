@@ -34,7 +34,8 @@ tags:
 - Professional Scrum
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
 
 ---
 ## "Don't scale scrum" - A Common Refrain 

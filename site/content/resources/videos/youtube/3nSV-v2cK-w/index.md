@@ -38,13 +38,6 @@ tags:
 - Agile Values and Principles
 - Agile Strategy
 - Organisational Culture
-- Business Agility
-- Change Management
-- Continuous Improvement
-- Product Delivery
-- Sociotechnical Systems
-- Team Performance
-- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.6

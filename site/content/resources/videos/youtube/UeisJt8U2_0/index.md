@@ -36,9 +36,15 @@ tags:
 - Competence
 - Agile Transformation
 - Agile Philosophy
+- Agile Values and Principles
+- Software Development
+- Agile Leadership
+- Scrum Master
+- Personal
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
 
 ---
 # Navigating the Plague of Incompetence in Agile Coaching 🚧

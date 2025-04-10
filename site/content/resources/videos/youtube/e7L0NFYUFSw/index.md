@@ -32,12 +32,6 @@ tags:
 - Agile Philosophy
 - Software Development
 - Value Delivery
-- Agile Transformation
-- Continuous Improvement
-- Professional Scrum
-- Scrum Master
-- Social Technologies
-- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -32,11 +32,6 @@ tags:
 - Coaching
 - Team Collaboration
 - Competence
-- Agile Philosophy
-- Agile Product Management
-- Continuous Improvement
-- Social Technologies
-- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6

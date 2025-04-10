@@ -31,7 +31,6 @@ sitemap:
 tags:
 - Pragmatic Thinking
 - Personal
-- Software Development
 resourceTypes:
 - video
 categories: []

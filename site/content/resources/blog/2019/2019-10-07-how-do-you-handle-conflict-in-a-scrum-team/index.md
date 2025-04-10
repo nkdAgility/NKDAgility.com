@@ -40,13 +40,9 @@ tags:
 - Agile Transformation
 - Coaching
 - Social Technologies
-- Agile Leadership
-- Team Motivation
-- Mentoring
 categories:
 - Scrum
 - Technical Leadership
-- Leadership
 preview: 1061204442-1-1.jpg
 
 ---

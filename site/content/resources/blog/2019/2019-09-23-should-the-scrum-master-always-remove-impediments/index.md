@@ -35,12 +35,8 @@ tags:
 - Agile Frameworks
 - Pragmatic Thinking
 - Team Performance
-- Self Organisation
-- Agile Transformation
-- Team Collaboration
 categories:
 - Scrum
-- Technical Leadership
 preview: PSX_20190823_113052-1-1.jpg
 
 ---

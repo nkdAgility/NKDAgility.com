@@ -41,17 +41,6 @@ tags:
 - Working Software
 - Customer Feedback Loops
 - Test Driven Development
-- Agile Planning
-- Continuous Integration
-- Automated Testing
-- Azure Pipelines
-- Agile Product Management
-- Continuous Delivery
-- Operational Practices
-- Technical Excellence
-- Technical Mastery
-- Test Automation
-- Test First Development
 categories: []
 preview: metro-event-icon-7-7.png
 

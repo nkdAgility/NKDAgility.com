@@ -46,12 +46,8 @@ tags:
 - Systems Thinking
 - Organisational Physics
 - Product Delivery
-- Agile Frameworks
-- Agile Planning Tools
-- Agile Transformation
 categories:
 - Product Management
-- Scrum
 preview: image-1.jpg
 
 ---

@@ -38,9 +38,6 @@ tags:
 - Agile Frameworks
 - Operational Practices
 - Complexity Thinking
-- Continuous Learning
-- Empirical Process Control
-- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.6

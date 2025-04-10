@@ -28,6 +28,8 @@ duration: 40
 isShort: true
 tags:
 - Competence
+- Continuous Improvement
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -34,14 +34,6 @@ tags:
 - Agile Planning
 - Scrum Master
 - Pragmatic Thinking
-- Scrum Team
-- Agile Product Management
-- Agile Transformation
-- Empirical Process Control
-- Professional Scrum
-- Estimation
-- Product Delivery
-- Team Performance
 resourceTypes:
 - video
 categories:

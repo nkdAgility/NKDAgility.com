@@ -37,18 +37,10 @@ tags:
 - Organisational Agility
 - Pragmatic Thinking
 - Personal
-- Agile Leadership
-- Coaching
-- Continuous Learning
-- Organisational Change
-- Organisational Culture
-- Team Collaboration
-- Team Motivation
 resourceTypes:
 - video
 categories:
 - Leadership
-- Scrum
 
 ---
 **What is the most interesting outcome you have achieved as an agile consultant?**

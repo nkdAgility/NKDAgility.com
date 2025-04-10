@@ -40,6 +40,16 @@ tags:
 - Value Delivery
 - Product Delivery
 - Agile Values and Principles
+- Agile Product Management
+- Agile Planning Tools
+- Agile Strategy
+- Lean Principles
+- Organisational Agility
+- Pragmatic Thinking
+- Flow Efficiency
+- Team Performance
+- Backlog Refinement
+- Personal
 resourceTypes:
 - video
 categories: []

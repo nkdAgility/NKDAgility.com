@@ -33,13 +33,9 @@ tags:
 - Product Backlog
 - Product Owner
 - Agile Product Management
-- Agile Planning
-- Agile Planning Tools
-- Pragmatic Thinking
 resourceTypes:
 - video
-categories:
-- Product Management
+categories: []
 
 ---
 ## The Order of Product Backlogs

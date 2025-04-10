@@ -42,13 +42,7 @@ tags:
 - Agile Product Management
 - Increment
 - Market Adaptability
-- Organisational Agility
-- Transparency
-- Agile Planning
-- Empirical Process Control
-- Product Validation
-categories:
-- Product Management
+categories: []
 preview: image-1.jpg
 
 ---

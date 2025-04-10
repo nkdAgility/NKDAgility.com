@@ -41,10 +41,7 @@ tags:
 - Modern Source Control
 - Technical Mastery
 - Platform Engineering
-- Pragmatic Thinking
-- Release Management
-categories:
-- Engineering Excellence
+categories: []
 preview: nakedalm-experts-visual-studio-alm-27-27.png
 
 ---

@@ -26,10 +26,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Internal Developer Platform
-- Operational Practices
-- Platform Engineering
-- System Configuration
-- Install and Configuration
 preview: metro-visual-studio-2010-128-link-2-2.png
 categories: []
 

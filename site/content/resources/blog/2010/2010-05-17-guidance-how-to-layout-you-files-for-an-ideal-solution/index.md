@@ -31,11 +31,6 @@ tags:
 - Software Development
 - Modern Source Control
 - Release Management
-- Application Lifecycle Management
-- Pragmatic Thinking
-- Product Delivery
-- Technical Mastery
-- Engineering Practices
 categories: []
 preview: metro-visual-studio-2010-128-link-11-11.png
 

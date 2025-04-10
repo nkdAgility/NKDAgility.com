@@ -28,7 +28,6 @@ tags:
 - Install and Configuration
 - Software Development
 - System Configuration
-- Pragmatic Thinking
 categories: []
 preview: lazy1-5-5.jpg
 

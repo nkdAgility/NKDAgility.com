@@ -27,12 +27,7 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Application Lifecycle Management
-- Decision Making
-- Operational Practices
-- Technical Mastery
-- Troubleshooting
-categories:
-- Engineering Excellence
+categories: []
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

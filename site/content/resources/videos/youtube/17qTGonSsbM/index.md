@@ -31,6 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Continuous Improvement
+- Agile Product Management
+- Product Owner
+- Agile Philosophy
+- Agile Strategy
+- Agile Values and Principles
+- Business Agility
+- Software Development
+- Market Adaptability
+- Personal
 resourceTypes:
 - video
 layout: video

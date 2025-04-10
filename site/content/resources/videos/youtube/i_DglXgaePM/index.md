@@ -32,14 +32,6 @@ tags:
 - Business Agility
 - Agile Philosophy
 - Organisational Agility
-- Evidence Based Management
-- Organisational Change
-- Social Technologies
-- Competence
-- Enterprise Agility
-- Market Adaptability
-- Agile Values and Principles
-- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6

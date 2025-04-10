@@ -37,15 +37,6 @@ tags:
 - Employee Engagement
 - Pragmatic Thinking
 - Personal
-- Organisational Agility
-- Agile Values and Principles
-- Continuous Improvement
-- Organisational Culture
-- Self Organisation
-- Software Development
-- Agile Strategy
-- Mentoring
-- Team Motivation
 resourceTypes:
 - video
 categories: []

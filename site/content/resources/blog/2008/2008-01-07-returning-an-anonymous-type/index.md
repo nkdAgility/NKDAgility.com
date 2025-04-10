@@ -27,8 +27,7 @@ aliasesArchive:
 - /blog/returning-an-anonymous-type---
 - /returning-an-anonymous-type
 - /resources/blog/returning-an-anonymous-type
-tags:
-- Software Development
+tags: []
 categories: []
 preview: metro-binary-vb-128-link-2-1.png
 

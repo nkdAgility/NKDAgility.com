@@ -42,20 +42,8 @@ tags:
 - Pragmatic Thinking
 - Organisational Change
 - Employee Engagement
-- Lean Thinking
-- Ability to Innovate
-- Agile Frameworks
-- Agile Leadership
-- Agile Strategy
-- Agile Transformation
-- Beta Codex
-- Enterprise Agility
-- Evidence Based Leadership
-- Evidence Based Management
-- Lean Principles
 categories:
 - Lean
-- Leadership
 preview: naked-agility-with-martin-hinshelwood-iceberg-11-10.jpg
 
 ---

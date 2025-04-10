@@ -27,7 +27,6 @@ tags:
 - Install and Configuration
 - Software Development
 - System Configuration
-- Azure DevOps
 categories: []
 
 ---

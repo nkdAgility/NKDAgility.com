@@ -39,9 +39,6 @@ tags:
 - Pragmatic Thinking
 - Value Delivery
 - Product Delivery
-- Agile Transformation
-- Working Software
-- Team Performance
 categories:
 - Scrum
 - Product Management

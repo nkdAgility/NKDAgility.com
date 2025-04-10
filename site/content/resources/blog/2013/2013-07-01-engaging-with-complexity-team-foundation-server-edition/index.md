@@ -40,11 +40,6 @@ tags:
 - Release Management
 - Technical Excellence
 - Technical Mastery
-- Complexity Thinking
-- Working Software
-- Application Lifecycle Management
-- Modern Source Control
-- Product Delivery
 categories: []
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 

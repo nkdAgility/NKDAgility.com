@@ -37,12 +37,7 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - Product Delivery
-- Competence
-- Continuous Delivery
-- Release Management
-- Technical Mastery
-categories:
-- Engineering Excellence
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

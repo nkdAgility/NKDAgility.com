@@ -42,15 +42,8 @@ tags:
 - Empirical Process Control
 - Product Delivery
 - Transparency
-- Organisational Agility
-- Value Delivery
-- Scrum Team
-- Agile Strategy
-- Social Technologies
-- Sociotechnical Systems
 categories:
 - Scrum
-- Product Management
 preview: nakedalm-experts-professional-scrum-5-5.png
 
 ---

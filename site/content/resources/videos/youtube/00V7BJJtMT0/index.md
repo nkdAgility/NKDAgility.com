@@ -34,14 +34,6 @@ tags:
 - Market Adaptability
 - Product Delivery
 - Systems Thinking
-- Agile Values and Principles
-- Continuous Improvement
-- Operational Practices
-- Organisational Agility
-- Pragmatic Thinking
-- Sociotechnical Systems
-- Agile Strategy
-- Agile Transformation
 resourceTypes:
 - video
 layout: video

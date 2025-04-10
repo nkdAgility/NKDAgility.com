@@ -33,9 +33,6 @@ tags:
 - Pragmatic Thinking
 - Technical Mastery
 - Troubleshooting
-- Technical Excellence
-- Operational Practices
-- Continuous Delivery
 categories: []
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 

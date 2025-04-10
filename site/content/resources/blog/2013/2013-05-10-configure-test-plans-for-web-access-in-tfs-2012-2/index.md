@@ -28,8 +28,6 @@ tags:
 - Azure DevOps
 - Software Development
 - Troubleshooting
-- Technical Excellence
-- System Configuration
 categories: []
 
 ---

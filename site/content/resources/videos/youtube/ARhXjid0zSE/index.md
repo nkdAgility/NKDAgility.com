@@ -36,6 +36,16 @@ tags:
 - Team Collaboration
 - Team Performance
 - Value Delivery
+- Agile Frameworks
+- Agile Leadership
+- Agile Strategy
+- Social Technologies
+- Sociotechnical Systems
+- Working Software
+- Agile Values and Principles
+- Employee Engagement
+- Organisational Agility
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

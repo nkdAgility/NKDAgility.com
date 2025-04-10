@@ -38,12 +38,6 @@ tags:
 - Team Motivation
 - Agile Transformation
 - Software Development
-- Agile Product Management
-- Agile Values and Principles
-- Empirical Process Control
-- Organisational Culture
-- Scrum Master
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

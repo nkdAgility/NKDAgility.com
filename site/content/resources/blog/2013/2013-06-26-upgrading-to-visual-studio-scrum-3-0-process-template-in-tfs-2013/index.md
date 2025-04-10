@@ -26,10 +26,7 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Software Development
-- Agile Frameworks
-- Pragmatic Thinking
-categories:
-- Scrum
+categories: []
 
 ---
 You want to upgraded to the Visual Studio Scrum 3.0 Process Template in Team Foundation Server 2013 but you really want to upgrade your whole process template in place and not jut enable new features.

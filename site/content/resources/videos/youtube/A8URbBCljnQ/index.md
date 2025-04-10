@@ -42,9 +42,6 @@ tags:
 - Operational Practices
 - Organisational Agility
 - Sociotechnical Systems
-- Value Delivery
-- Agile Frameworks
-- Agile Planning
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -53,8 +50,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Engineering Excellence
-- Product Management
 
 ---
 Hello, I’m Martin Hinshelwood, the owner of Naked Agility based in Glasgow, Scotland. Today, I want to share some insights and experiences that have come up in recent discussions, particularly around remote working, the integration of UX in Agile practices, and the importance of team dynamics. 

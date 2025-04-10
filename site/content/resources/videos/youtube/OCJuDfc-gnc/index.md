@@ -25,16 +25,14 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/OCJuDfc-gnc/maxresdefault.jpg
 duration: 592
 isShort: false
-tags:
-- Software Development
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
 As I sit down to write this, I’m reminded of the ever-evolving landscape of work and how we, as agile practitioners, must adapt to the changes around us. Tonight, I’ll be hosting a meetup in collaboration with the British Computer Society, where I’ll delve into the intriguing topic of "Scaling Dragons." This isn’t just a whimsical title; it encapsulates the dual nature of scaling agility—what can propel us forward and what could potentially derail our efforts.

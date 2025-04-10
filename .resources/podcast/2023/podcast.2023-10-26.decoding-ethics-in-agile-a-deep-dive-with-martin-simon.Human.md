@@ -16,7 +16,6 @@ aliases:
 - /resources/SfjZtlimOCu
 tags:
 - Transparency
-- Software Development
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

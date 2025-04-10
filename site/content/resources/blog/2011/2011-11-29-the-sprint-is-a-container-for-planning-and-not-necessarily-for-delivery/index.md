@@ -42,12 +42,8 @@ tags:
 - Release Management
 - Automated Testing
 - Value Delivery
-- Technical Debt
-- Agile Product Management
 categories:
 - Engineering Excellence
-- DevOps
-- Technical Leadership
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

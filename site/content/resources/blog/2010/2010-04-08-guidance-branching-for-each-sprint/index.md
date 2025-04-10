@@ -31,18 +31,12 @@ aliasesArchive:
 - /resources/blog/guidance-branching-for-each-sprint
 categories:
 - Scrum
-- Engineering Excellence
 tags:
 - Software Development
 - Modern Source Control
 - Operational Practices
 - Technical Excellence
 - Pragmatic Thinking
-- Agile Frameworks
-- Azure Repos
-- Working Software
-- Product Delivery
-- Technical Mastery
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

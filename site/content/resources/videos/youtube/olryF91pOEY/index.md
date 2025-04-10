@@ -48,16 +48,10 @@ tags:
 - Team Motivation
 - Agile Planning
 - Product Delivery
-- Scrum Team
-- Agile Strategy
-- Competence
-- Operational Practices
 resourceTypes:
 - video
 categories:
 - Scrum
-- Leadership
-- Product Management
 
 ---
 **Can organisations run an Applying Professional Scrum workshop? How would that help them?**

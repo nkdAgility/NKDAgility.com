@@ -33,7 +33,6 @@ tags:
 - Windows
 - Troubleshooting
 - Software Development
-- Pragmatic Thinking
 categories: []
 preview: nakedalm-experts-visual-studio-alm-27-27.png
 

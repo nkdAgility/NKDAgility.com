@@ -33,8 +33,6 @@ tags:
 - Team Performance
 - Software Development
 - Agile Frameworks
-- Agile Transformation
-- Professional Scrum
 resourceTypes:
 - video
 layout: video

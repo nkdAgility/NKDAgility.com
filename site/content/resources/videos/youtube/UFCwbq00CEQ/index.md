@@ -39,6 +39,13 @@ tags:
 - Agile Leadership
 - Business Agility
 - Team Collaboration
+- Agile Frameworks
+- Coaching
+- Agile Planning
+- Organisational Culture
+- Product Delivery
+- Self Organisation
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6

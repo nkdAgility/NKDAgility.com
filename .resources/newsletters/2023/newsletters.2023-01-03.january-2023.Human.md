@@ -19,13 +19,8 @@ aliases:
 aliasesArchive:
 - /newsletters/january-2023/
 - /resources/newsletters/january-2023/
-categories:
-- Scrum
-tags:
-- Agile Transformation
-- Organisational Agility
-- Agile Frameworks
-- Software Development
+categories: []
+tags: []
 
 ---
 Welcome to this month's edition of NKDAgility.

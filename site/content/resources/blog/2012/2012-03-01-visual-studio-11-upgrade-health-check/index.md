@@ -23,8 +23,7 @@ aliasesArchive:
 - /blog/visual-studio-11-upgrade-health-check
 - /visual-studio-11-upgrade-health-check
 - /resources/blog/visual-studio-11-upgrade-health-check
-tags:
-- Software Development
+tags: []
 categories: []
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 

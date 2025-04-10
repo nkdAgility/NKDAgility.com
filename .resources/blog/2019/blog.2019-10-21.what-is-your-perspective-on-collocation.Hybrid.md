@@ -36,13 +36,6 @@ tags:
 - Scrum Team
 - Software Development
 - Sociotechnical Systems
-- Scrum Master
-- Operational Practices
-- Professional Scrum
-- Social Technologies
-- Team Motivation
-- Personal
-- Organisational Culture
 categories:
 - Scrum
 preview: 1026661500-1-1.jpg

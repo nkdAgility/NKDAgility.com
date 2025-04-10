@@ -29,7 +29,6 @@ tags:
 - Install and Configuration
 - Windows
 - Software Development
-- Pragmatic Thinking
 categories: []
 
 ---

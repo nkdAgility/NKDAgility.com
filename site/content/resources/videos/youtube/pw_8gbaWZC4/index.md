@@ -31,6 +31,9 @@ tags:
 - Operational Practices
 - Transparency
 - Pragmatic Thinking
+- Organisational Agility
+- Social Technologies
+- Flow Efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

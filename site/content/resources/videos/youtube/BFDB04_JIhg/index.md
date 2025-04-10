@@ -38,6 +38,10 @@ tags:
 - Agile Frameworks
 - Flow Efficiency
 - Pragmatic Thinking
+- Continuous Learning
+- Lean Principles
+- Throughput
+- Lean Thinking
 resourceTypes:
 - video
 categories:

@@ -46,12 +46,9 @@ tags:
 - Enterprise Agility
 - Strategic Goals
 - Organisational Psychology
-- Agile Philosophy
-- Coaching
 categories:
 - Leadership
 - Scrum
-- Technical Leadership
 preview: nkdagility-akaditi-ghana-police-scrum-board-4-3.jpg
 
 ---

@@ -39,9 +39,21 @@ tags:
 - Agile Strategy
 - Business Agility
 - Psychological Safety
+- Agile Frameworks
+- Agile Leadership
+- Agile Product Management
+- Agile Values and Principles
+- Coaching
+- Organisational Change
+- Sociotechnical Systems
+- Software Development
+- Team Motivation
+- Self Organisation
+- Organisational Culture
 resourceTypes:
 - video
-categories: []
+categories:
+- Leadership
 
 ---
 In order for organizations to succeed, they must cultivate trust. Trust doesn't happen overnight; it's built on the foundation of patience. Patience with people, processes, and, most importantly, patience with outcomes that may not always align with expectations.

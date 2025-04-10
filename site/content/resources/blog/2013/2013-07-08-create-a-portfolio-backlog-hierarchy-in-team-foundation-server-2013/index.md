@@ -34,10 +34,6 @@ tags:
 - Portfolio Management
 - Product Backlog
 - Working Software
-- Application Lifecycle Management
-- Pragmatic Thinking
-- Technical Excellence
-- Product Delivery
 categories: []
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 

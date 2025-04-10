@@ -37,6 +37,9 @@ tags:
 - Agile Frameworks
 - Lean Thinking
 - Pragmatic Thinking
+- Lean Principles
+- Throughput
+- Value Delivery
 resourceTypes:
 - video
 categories:

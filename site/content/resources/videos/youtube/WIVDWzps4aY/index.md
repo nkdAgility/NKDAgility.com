@@ -31,21 +31,13 @@ tags:
 - Product Owner
 - Value Delivery
 - Pragmatic Thinking
-- Agile Product Operating Model
-- Organisational Agility
-- Agile Strategy
-- Agile Transformation
-- Product Backlog
-- Product Discovery
-- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Management
+categories: []
 
 ---
 One of my favourite classes to teach is the Product Owner class. It used to be known as the APS class, but I felt a change was necessary. The reason for this shift is simple: I’ve observed that the most significant gap in organisations and teams today is effective product management. 

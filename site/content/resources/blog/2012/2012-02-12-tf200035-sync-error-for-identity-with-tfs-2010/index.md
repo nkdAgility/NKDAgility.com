@@ -29,7 +29,6 @@ tags:
 - Software Development
 - System Configuration
 - Install and Configuration
-- Pragmatic Thinking
 categories: []
 
 ---

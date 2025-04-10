@@ -33,6 +33,7 @@ tags:
 - Test Automation
 - Engineering Practices
 - Pragmatic Thinking
+- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -40,6 +41,7 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
+- DevOps
 
 ---
 Automation is a game changer in the world of software development. It’s not just about making things faster; it’s about creating a more standardised and efficient process. However, I must admit, I have a bit of a love-hate relationship with the term "efficiency." While it certainly fits the context, it can sometimes overshadow the human element that is so crucial in our field. 

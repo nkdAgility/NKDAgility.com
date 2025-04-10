@@ -35,11 +35,6 @@ tags:
 - Windows
 - Engineering Practices
 - Operational Practices
-- Organisational Agility
-- Metrics and Learning
-- Shift-Left Strategy
-- Team Collaboration
-- Value Delivery
 categories:
 - Engineering Excellence
 preview: metro-test-icon-7-7.png

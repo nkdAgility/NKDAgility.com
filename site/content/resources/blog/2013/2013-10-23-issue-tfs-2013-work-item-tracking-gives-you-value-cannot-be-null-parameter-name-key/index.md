@@ -31,10 +31,6 @@ tags:
 - Troubleshooting
 - Software Development
 - Pragmatic Thinking
-- Azure DevOps
-- Azure Boards
-- Working Software
-- System Configuration
 categories: []
 
 ---

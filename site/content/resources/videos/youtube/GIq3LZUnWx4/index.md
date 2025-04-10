@@ -33,14 +33,10 @@ tags:
 - Value Delivery
 - Product Owner
 - Agile Philosophy
-- Agile Values and Principles
-- Pragmatic Thinking
-- Professional Scrum
 resourceTypes:
 - video
 categories:
 - Product Management
-- Scrum
 
 ---
 ## The Core of PSPO: Unearthing the Essence of Value

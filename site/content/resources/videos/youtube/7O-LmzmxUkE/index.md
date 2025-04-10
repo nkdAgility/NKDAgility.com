@@ -38,6 +38,12 @@ tags:
 - Empirical Process Control
 - Agile Frameworks
 - Daily Scrum
+- Agile Product Management
+- Agile Transformation
+- Scrum Master
+- Transparency
+- Product Delivery
+- Team Performance
 resourceTypes:
 - video
 layout: video

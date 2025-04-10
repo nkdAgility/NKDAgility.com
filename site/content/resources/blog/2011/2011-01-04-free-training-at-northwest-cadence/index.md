@@ -23,8 +23,7 @@ aliasesArchive:
 - /blog/free-training-at-northwest-cadence
 - /free-training-at-northwest-cadence
 - /resources/blog/free-training-at-northwest-cadence
-tags:
-- Miscellaneous
+tags: []
 categories: []
 preview: metro-event-128-link-3-3.png
 

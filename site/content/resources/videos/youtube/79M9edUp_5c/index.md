@@ -27,7 +27,6 @@ isShort: true
 tags:
 - Asynchronous Development
 - Social Technologies
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

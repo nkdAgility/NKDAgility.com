@@ -27,11 +27,6 @@ duration: 196
 isShort: false
 tags:
 - Continuous Learning
-- Coaching
-- Continuous Improvement
-- Personal
-- Pragmatic Thinking
-- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

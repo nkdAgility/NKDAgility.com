@@ -30,6 +30,7 @@ aliasesArchive:
 - /resources/blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
 tags:
 - Software Development
+- Agile Philosophy
 categories: []
 preview: NKDAgility-technically-7DeadlySins-16-15.jpg
 

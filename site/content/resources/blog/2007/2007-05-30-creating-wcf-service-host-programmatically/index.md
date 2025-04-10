@@ -28,8 +28,6 @@ tags:
 - Windows
 - Technical Mastery
 - Install and Configuration
-- Technical Excellence
-- System Configuration
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

@@ -31,6 +31,8 @@ tags:
 - Software Development
 - Technical Mastery
 - Engineering Practices
+- Continuous Improvement
+- Technical Excellence
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -38,6 +40,7 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
+- Product Development
 
 ---
 Technical debt is a term that often gets thrown around in our industry, but I want to clarify what it really means and how it impacts our products and processes. From my experience, technical debt is not just a buzzword; it represents a significant cost that can accumulate over time if not managed properly. 

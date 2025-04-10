@@ -41,16 +41,6 @@ tags:
 - Continuous Learning
 - Pragmatic Thinking
 - Self Organisation
-- Agile Product Management
-- Scrum Team
-- Product Delivery
-- Agile Planning
-- Coaching
-- Competence
-- Social Technologies
-- Team Motivation
-- Working Software
-- Personal
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-8-8.png

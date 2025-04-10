@@ -26,10 +26,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Application Lifecycle Management
-- Azure DevOps
-- Pragmatic Thinking
-- Install and Configuration
-- Modern Source Control
 categories: []
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 

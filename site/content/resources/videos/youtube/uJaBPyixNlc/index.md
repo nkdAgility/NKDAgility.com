@@ -36,12 +36,6 @@ tags:
 - Competence
 - Agile Transformation
 - Software Development
-- Organisational Agility
-- Agile Frameworks
-- Coaching
-- Mentoring
-- Team Collaboration
-- Team Performance
 resourceTypes:
 - video
 categories: []

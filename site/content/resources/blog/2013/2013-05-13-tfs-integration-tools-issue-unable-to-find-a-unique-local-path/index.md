@@ -33,7 +33,6 @@ tags:
 - Troubleshooting
 - Software Development
 - Install and Configuration
-- Windows
 categories: []
 preview: puzzle-issue-problem-128-link-2-2.png
 

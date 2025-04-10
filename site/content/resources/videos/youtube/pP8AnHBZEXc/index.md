@@ -28,8 +28,6 @@ isShort: false
 tags:
 - Software Development
 - Agile Transformation
-- Scrum Master
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

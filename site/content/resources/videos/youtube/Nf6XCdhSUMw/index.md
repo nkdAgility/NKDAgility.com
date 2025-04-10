@@ -31,6 +31,9 @@ tags:
 - Evidence Based Management
 - Pragmatic Thinking
 - Operational Practices
+- Ability to Innovate
+- Continuous Improvement
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

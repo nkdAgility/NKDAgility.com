@@ -31,7 +31,9 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Continuous Improvement
+- Metrics and Learning
 resourceTypes:
 - video
 categories: []

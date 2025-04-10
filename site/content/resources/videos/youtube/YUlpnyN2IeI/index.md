@@ -43,13 +43,6 @@ tags:
 - Continuous Improvement
 - Empirical Process Control
 - Personal
-- Agile Values and Principles
-- Agile Strategy
-- Continuous Learning
-- Self Organisation
-- Sociotechnical Systems
-- Market Adaptability
-- Scrum Master
 resourceTypes:
 - video
 categories:

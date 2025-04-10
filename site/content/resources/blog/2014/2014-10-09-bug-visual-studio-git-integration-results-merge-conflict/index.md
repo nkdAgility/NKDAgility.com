@@ -32,8 +32,6 @@ tags:
 - Software Development
 - Modern Source Control
 - Pragmatic Thinking
-- Operational Practices
-- Install and Configuration
 categories: []
 preview: naked-alm-git-2-2.png
 

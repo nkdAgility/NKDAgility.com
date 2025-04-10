@@ -38,11 +38,7 @@ tags:
 - Azure Boards
 - Pragmatic Thinking
 - Troubleshooting
-- Agile Product Management
-- Working Software
-- Product Delivery
-categories:
-- Scrum
+categories: []
 preview: metro-problem-icon-8-8.png
 
 ---

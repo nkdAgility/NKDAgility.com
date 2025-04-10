@@ -42,14 +42,6 @@ tags:
 - Competence
 - Product Delivery
 - Value Delivery
-- Agile Planning
-- Business Agility
-- Enterprise Agility
-- Market Adaptability
-- Organisational Change
-- Sociotechnical Systems
-- Scrum Master
-- Team Performance
 resourceTypes:
 - video
 categories:

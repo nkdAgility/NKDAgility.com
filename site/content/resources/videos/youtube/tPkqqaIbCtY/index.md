@@ -27,6 +27,7 @@ duration: 48
 isShort: true
 tags:
 - Customer Satisfaction
+- Product Discovery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

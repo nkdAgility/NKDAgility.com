@@ -41,6 +41,9 @@ tags:
 - Pragmatic Thinking
 - Agile Planning Tools
 - Software Development
+- Competence
+- Working Software
+- Operational Practices
 resourceTypes:
 - video
 categories:

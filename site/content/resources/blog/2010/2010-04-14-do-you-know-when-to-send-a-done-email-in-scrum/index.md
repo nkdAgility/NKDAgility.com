@@ -31,12 +31,6 @@ tags:
 - Software Development
 - Scrum Team
 - Agile Frameworks
-- Team Collaboration
-- Working Software
-- Agile Product Management
-- Pragmatic Thinking
-- Team Performance
-- Product Delivery
 categories:
 - Scrum
 preview: metro-sharepoint-128-link-3-3.png

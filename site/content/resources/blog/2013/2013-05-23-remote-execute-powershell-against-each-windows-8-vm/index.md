@@ -29,10 +29,6 @@ tags:
 - System Configuration
 - Install and Configuration
 - Troubleshooting
-- Operational Practices
-- Pragmatic Thinking
-- Technical Excellence
-- Technical Mastery
 categories: []
 preview: image11-1-1.png
 

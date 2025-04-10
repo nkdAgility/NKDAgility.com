@@ -45,12 +45,8 @@ tags:
 - Personal
 - Agile Planning
 - Team Performance
-- Agile Leadership
-- Change Management
-- Coaching
 categories:
 - Scrum
-- Technical Leadership
 preview: clip_image006_thumb-3-3.jpg
 
 ---

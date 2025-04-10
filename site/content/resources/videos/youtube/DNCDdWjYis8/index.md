@@ -52,10 +52,6 @@ tags:
 - Team Performance
 - Competence
 - Mentoring
-- Agile Planning
-- Team Collaboration
-- Agile Philosophy
-- Product Delivery
 
 ---
 As I reflect on my journey in the world of Scrum, one of the most glaring issues I've encountered is the misconception surrounding the role of a Scrum Master. It’s a topic that often stirs up passionate discussions, and for good reason. The worst trait I see in unskilled Scrum Masters is their misguided belief that they are the boss of everyone. This notion is not just incorrect; it’s detrimental to the very essence of what it means to be a Scrum Master.

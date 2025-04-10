@@ -36,9 +36,14 @@ tags:
 - Operational Practices
 - Continuous Improvement
 - Cycle Time
+- Lean Thinking
+- Agile Frameworks
+- Software Development
+- Metrics and Learning
 resourceTypes:
 - video
-categories: []
+categories:
+- Kanban
 
 ---
 ### Getting Started with Kanban: A Guide to Initiating Your First Kanban Pilot

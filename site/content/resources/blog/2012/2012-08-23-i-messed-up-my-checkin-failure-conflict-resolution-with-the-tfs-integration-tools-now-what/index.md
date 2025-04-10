@@ -30,9 +30,6 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Software Development
-- Install and Configuration
-- Pragmatic Thinking
-- Modern Source Control
 categories: []
 
 ---

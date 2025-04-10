@@ -35,6 +35,9 @@ tags:
 - Software Development
 - Competence
 - Pragmatic Thinking
+- Coaching
+- Continuous Improvement
+- Social Technologies
 resourceTypes:
 - video
 categories: []

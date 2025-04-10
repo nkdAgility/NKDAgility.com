@@ -35,11 +35,6 @@ tags:
 - Troubleshooting
 - Release Management
 - Pragmatic Thinking
-- Azure DevOps
-- Working Software
-- Application Lifecycle Management
-- Operational Practices
-- Technical Mastery
 categories: []
 preview: nakedalm-experts-visual-studio-alm-15-15.png
 

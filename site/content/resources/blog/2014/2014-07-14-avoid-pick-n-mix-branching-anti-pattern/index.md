@@ -42,16 +42,8 @@ tags:
 - Continuous Delivery
 - Troubleshooting
 - Deployment Strategies
-- Application Lifecycle Management
-- Competence
-- Continuous Improvement
-- Continuous Integration
-- Frequent Releases
-- Flow Efficiency
 categories:
 - Engineering Excellence
-- DevOps
-- Technical Leadership
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

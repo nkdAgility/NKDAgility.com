@@ -32,12 +32,6 @@ tags:
 - Pragmatic Thinking
 - Empirical Process Control
 - Agile Transformation
-- Agile Frameworks
-- Agile Product Management
-- Competence
-- Software Development
-- Agile Philosophy
-- Team Performance
 resourceTypes:
 - video
 categories:

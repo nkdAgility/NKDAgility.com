@@ -26,6 +26,14 @@ isShort: false
 tags:
 - Software Development
 - Shift-Left Strategy
+- Automated Testing
+- Technical Excellence
+- Technical Mastery
+- Test Automation
+- Working Software
+- Flow Efficiency
+- Modern Source Control
+- Engineering Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -33,6 +41,7 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
+- DevOps
 
 ---
 # Rethinking Code Reviews: From Manual Checks to Pre-Reviewed Excellence

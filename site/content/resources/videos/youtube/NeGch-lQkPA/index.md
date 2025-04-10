@@ -42,6 +42,12 @@ tags:
 - Agile Planning
 - Value Delivery
 - Agile Frameworks
+- Metrics and Learning
+- Cycle Time
+- Agile Transformation
+- Continuous Improvement
+- Working Software
+- Product Delivery
 resourceTypes:
 - video
 categories: []

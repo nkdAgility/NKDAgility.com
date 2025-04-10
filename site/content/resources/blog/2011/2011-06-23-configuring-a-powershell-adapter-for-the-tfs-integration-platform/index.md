@@ -28,10 +28,6 @@ tags:
 - Software Development
 - System Configuration
 - Pragmatic Thinking
-- Modern Source Control
-- Technical Excellence
-- Windows
-- Technical Mastery
 categories: []
 
 ---

@@ -34,10 +34,6 @@ tags:
 - Software Development
 - Complexity Thinking
 - Systems Thinking
-- Agile Frameworks
-- Agile Strategy
-- Sociotechnical Systems
-- Value Delivery
 resourceTypes:
 - video
 layout: video

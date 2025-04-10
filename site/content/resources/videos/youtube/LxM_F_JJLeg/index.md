@@ -35,6 +35,13 @@ tags:
 - Organisational Agility
 - Pragmatic Thinking
 - Sociotechnical Systems
+- Agile Values and Principles
+- Change Management
+- Coaching
+- Continuous Improvement
+- Operational Practices
+- Social Technologies
+- Metrics and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

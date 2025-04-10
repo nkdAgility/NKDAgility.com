@@ -38,23 +38,13 @@ tags:
 - Organisational Culture
 - Product Delivery
 - Agile Frameworks
-- Empirical Process Control
-- Metrics and Learning
-- Pragmatic Thinking
-- Social Technologies
-- Sociotechnical Systems
-- Personal
-- Change Management
-- Enterprise Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Management
-- Scrum
+categories: []
 
 ---
 In my journey as a Scrum trainer, I’ve often encountered a startling statistic: according to Forrester Research, around 81% of development shops claim to be agile. However, the reality is that many of these organisations are not being entirely truthful about their practices. This disconnect raises an important question: how can we discern genuine agility from mere lip service? 

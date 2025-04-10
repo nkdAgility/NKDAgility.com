@@ -26,8 +26,7 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/IXmOAB5e44w/maxresdefault.jpg
 duration: 147
 isShort: false
-tags:
-- Continuous Learning
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6

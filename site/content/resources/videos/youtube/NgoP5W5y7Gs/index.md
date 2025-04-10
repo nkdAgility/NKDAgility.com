@@ -29,6 +29,11 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Product Delivery
+- Azure DevOps
+- Competence
+- Technical Excellence
+- Working Software
+- Engineering Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

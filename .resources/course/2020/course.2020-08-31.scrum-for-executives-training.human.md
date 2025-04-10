@@ -35,7 +35,6 @@ tags:
 - Organisational Agility
 - Professional Scrum
 - Software Development
-- Agile Product Management
 categories:
 - Scrum
 preview: 

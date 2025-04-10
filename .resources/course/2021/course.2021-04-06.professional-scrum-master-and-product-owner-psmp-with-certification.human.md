@@ -46,7 +46,6 @@ tags:
 - Value Delivery
 - Scrum Master
 - Team Collaboration
-- Agile Strategy
 categories:
 - Scrum
 - Product Management

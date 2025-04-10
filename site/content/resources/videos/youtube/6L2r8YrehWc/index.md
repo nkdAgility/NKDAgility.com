@@ -40,12 +40,6 @@ tags:
 - Team Collaboration
 - Pragmatic Thinking
 - Self Organisation
-- Agile Planning
-- Sociotechnical Systems
-- Agile Philosophy
-- Social Technologies
-- Mentoring
-- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

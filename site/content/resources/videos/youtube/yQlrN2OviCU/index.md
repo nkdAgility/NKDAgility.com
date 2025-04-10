@@ -36,6 +36,12 @@ tags:
 - Team Collaboration
 - Coaching
 - Team Performance
+- Continuous Improvement
+- Social Technologies
+- Team Motivation
+- Scrum Master
+- Competence
+- Mentoring
 resourceTypes:
 - video
 categories: []

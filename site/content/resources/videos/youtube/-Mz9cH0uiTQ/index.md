@@ -31,9 +31,6 @@ tags:
 - Software Development
 - Personal
 - Product Discovery
-- Organisational Agility
-- Agile Strategy
-- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

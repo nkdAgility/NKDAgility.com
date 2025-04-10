@@ -39,8 +39,6 @@ tags:
 - Agile Philosophy
 - Social Technologies
 - Software Development
-- Agile Frameworks
-- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

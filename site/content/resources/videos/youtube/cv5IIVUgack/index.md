@@ -33,14 +33,9 @@ tags:
 - Software Development
 - Competence
 - Agile Transformation
-- Agile Philosophy
-- Pragmatic Thinking
-- Product Delivery
-- Personal
 resourceTypes:
 - video
-categories:
-- Engineering Excellence
+categories: []
 
 ---
 ## From Developer to Scrum Developer: A Journey of Continuous Learning

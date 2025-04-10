@@ -29,8 +29,7 @@ aliasesArchive:
 - /visual-studio-2010-overview---architecture
 - /blog/visual-studio-2010-overview---architecture
 - /resources/blog/visual-studio-2010-overview-architecture
-tags:
-- Software Development
+tags: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories: []
 

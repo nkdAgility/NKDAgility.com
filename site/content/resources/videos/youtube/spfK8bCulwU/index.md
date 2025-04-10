@@ -32,10 +32,6 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Product Owner
-- Agile Strategy
-- Social Technologies
-- Value Delivery
-- Entrepreneurship
 sitemap:
   filename: sitemap.xml
   priority: 0.6

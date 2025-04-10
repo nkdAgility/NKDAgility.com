@@ -32,6 +32,9 @@ tags:
 - Empirical Process Control
 - Agile Transformation
 - Transparency
+- Agile Frameworks
+- Agile Product Management
+- Professional Scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6

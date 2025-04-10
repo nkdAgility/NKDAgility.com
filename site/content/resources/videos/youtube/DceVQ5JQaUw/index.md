@@ -32,14 +32,6 @@ tags:
 - Agile Leadership
 - Agile Philosophy
 - Agile Transformation
-- Business Agility
-- Coaching
-- Continuous Improvement
-- Pragmatic Thinking
-- Social Technologies
-- Sociotechnical Systems
-- Agile Strategy
-- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.6

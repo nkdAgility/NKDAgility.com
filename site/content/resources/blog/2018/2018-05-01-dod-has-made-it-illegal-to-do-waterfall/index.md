@@ -46,8 +46,6 @@ tags:
 - Enterprise Agility
 categories:
 - Engineering Excellence
-- Product Management
-- Scrum
 preview: nkdAgility-dod-change-procurement-agile-wide-15-15.jpg
 
 ---

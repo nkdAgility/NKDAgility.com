@@ -32,8 +32,6 @@ tags:
 - Agile Product Management
 - Pragmatic Thinking
 - Agile Planning
-- Common Goals
-- Professional Scrum
 resourceTypes:
 - video
 layout: video

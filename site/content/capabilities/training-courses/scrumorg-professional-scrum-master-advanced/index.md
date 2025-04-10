@@ -48,10 +48,6 @@ tags:
 - Software Development
 - Team Performance
 - Pragmatic Thinking
-- Competence
-- Agile Leadership
-- Organisational Agility
-- Team Collaboration
 categories:
 - Scrum
 - Technical Leadership

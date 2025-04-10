@@ -30,7 +30,6 @@ sitemap:
   priority: 0.6
 tags:
 - Competence
-- Continuous Learning
 resourceTypes:
 - video
 categories: []

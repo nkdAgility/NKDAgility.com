@@ -36,12 +36,6 @@ tags:
 - Agile Frameworks
 - Scrum Team
 - Software Development
-- Agile Product Management
-- Agile Transformation
-- Coaching
-- Pragmatic Thinking
-- Personal
-- Self Organisation
 resourceTypes:
 - video
 layout: video

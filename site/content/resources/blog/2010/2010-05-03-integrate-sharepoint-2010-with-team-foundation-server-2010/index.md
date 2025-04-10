@@ -27,8 +27,6 @@ tags:
 - Install and Configuration
 - System Configuration
 - Software Development
-- Troubleshooting
-- Windows
 categories: []
 preview: metro-visual-studio-2010-128-link-15-15.png
 

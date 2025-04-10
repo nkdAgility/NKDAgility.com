@@ -39,16 +39,9 @@ tags:
 - Pragmatic Thinking
 - Modern Source Control
 - Technical Mastery
-- Application Lifecycle Management
-- Azure Repos
-- Operational Practices
-- Release Management
-- Technical Excellence
-- Install and Configuration
 preview: metro-visual-studio-2010-128-link-10-10.png
 categories:
 - Engineering Excellence
-- DevOps
 
 ---
 ![BuildIcon_Large](images/114db5acbf63_EDD8-BuildIcon_Large_-1-1.png)

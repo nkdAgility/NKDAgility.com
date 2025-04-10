@@ -30,13 +30,7 @@ aliasesArchive:
 tags:
 - Remote Working
 - Pragmatic Thinking
-- Collaboration Tools
-- Digital Transformation
-- Organisational Agility
-- Sociotechnical Systems
-- Personal
-categories:
-- Scrum
+categories: []
 preview: image-1-1-1.png
 
 ---

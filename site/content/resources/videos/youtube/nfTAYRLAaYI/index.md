@@ -36,6 +36,8 @@ tags:
 - Software Development
 - Operational Practices
 - Transparency
+- Lean Principles
+- Lean Thinking
 resourceTypes:
 - video
 categories:

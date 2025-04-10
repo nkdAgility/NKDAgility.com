@@ -37,8 +37,6 @@ tags:
 - Engineering Practices
 - Troubleshooting
 - Install and Configuration
-- Continuous Integration
-- Working Software
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
 - Engineering Excellence

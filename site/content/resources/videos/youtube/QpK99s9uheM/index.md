@@ -36,14 +36,6 @@ tags:
 - Team Collaboration
 - Agile Transformation
 - Personal
-- Competence
-- Continuous Improvement
-- Sociotechnical Systems
-- Software Development
-- Agile Planning
-- Agile Strategy
-- Organisational Culture
-- Sensemaking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

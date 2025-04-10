@@ -35,6 +35,10 @@ tags:
 - Pragmatic Thinking
 - Backlog Refinement
 - Operational Practices
+- Agile Frameworks
+- Working Software
+- Agile Transformation
+- Flow Efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

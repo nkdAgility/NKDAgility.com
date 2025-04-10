@@ -31,14 +31,9 @@ sitemap:
 tags:
 - Software Development
 - Scrum Master
-- Agile Product Management
-- Competence
-- Agile Planning
-- Agile Transformation
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
 ## Unlock the Full Potential of Scrum with APS Courses

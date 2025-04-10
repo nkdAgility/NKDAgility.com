@@ -28,7 +28,6 @@ tags:
 - System Configuration
 - Troubleshooting
 - Windows
-- Software Development
 categories: []
 preview: metro-visual-studio-2005-128-link-4-4.png
 

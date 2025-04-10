@@ -40,9 +40,6 @@ tags:
 - Transparency
 - Empirical Process Control
 - Product Delivery
-- Agile Transformation
-- Working Software
-- Market Adaptability
 resourceTypes:
 - video
 categories:

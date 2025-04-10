@@ -28,9 +28,6 @@ tags:
 - Windows
 - Azure DevOps
 - Troubleshooting
-- Technical Mastery
-- Install and Configuration
-- Pragmatic Thinking
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

@@ -37,17 +37,6 @@ tags:
 - Organisational Change
 - Product Owner
 - Sociotechnical Systems
-- Agile Philosophy
-- Scrum Team
-- Agile Planning
-- Business Agility
-- Enterprise Agility
-- Agile Frameworks
-- Organisational Physics
-- Team Collaboration
-- Team Performance
-- Organisational Culture
-- Product Delivery
 categories:
 - Product Management
 - Scrum

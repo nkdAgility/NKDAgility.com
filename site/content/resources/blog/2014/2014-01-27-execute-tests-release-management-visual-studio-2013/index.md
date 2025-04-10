@@ -42,15 +42,7 @@ tags:
 - Operational Practices
 - Troubleshooting
 - Windows
-- Application Lifecycle Management
-- Continuous Integration
-- Engineering Practices
-- Frequent Releases
-- Pragmatic Thinking
-- System Configuration
-categories:
-- Engineering Excellence
-- DevOps
+categories: []
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

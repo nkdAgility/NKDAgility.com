@@ -37,6 +37,15 @@ tags:
 - Agile Transformation
 - Agile Values and Principles
 - Pragmatic Thinking
+- Self Organisation
+- Agile Planning
+- Agile Product Management
+- Product Owner
+- Social Technologies
+- Software Development
+- Team Collaboration
+- Organisational Culture
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -44,7 +53,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
 
 ---
 In my journey through the world of Agile, one question consistently arises: **Does your team truly understand the product vision and strategic goals?** This isn't just a rhetorical question; it's a fundamental aspect of fostering an agile mindset within any organisation. 

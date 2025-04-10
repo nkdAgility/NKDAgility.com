@@ -29,6 +29,13 @@ tags:
 - Organisational Culture
 - Team Collaboration
 - Team Performance
+- Organisational Agility
+- Agile Leadership
+- Agile Transformation
+- Agile Values and Principles
+- Coaching
+- Software Development
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

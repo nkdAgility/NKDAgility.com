@@ -31,7 +31,6 @@ tags:
 - System Configuration
 - Software Development
 - Product Delivery
-- Windows
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -39,10 +39,6 @@ tags:
 - Working Software
 - Product Delivery
 - Agile Product Management
-- Value Delivery
-- Product Backlog
-- Operational Practices
-- Pragmatic Thinking
 categories: []
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 

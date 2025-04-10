@@ -36,17 +36,9 @@ tags:
 - Technical Excellence
 - Working Software
 - Technical Mastery
-- Agile Product Management
-- Continuous Improvement
-- Professional Scrum
-- Scrum Team
-- Empirical Process Control
-- Product Delivery
-- Agile Planning
 categories:
 - Engineering Excellence
 - Scrum
-- Technical Leadership
 preview: nakedalm-experts-professional-scrum-3-3.png
 
 ---

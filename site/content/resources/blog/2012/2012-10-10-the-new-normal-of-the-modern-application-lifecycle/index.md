@@ -29,11 +29,6 @@ tags:
 - Business Agility
 - Digital Transformation
 - Market Adaptability
-- Agile Transformation
-- Enterprise Agility
-- Pragmatic Thinking
-- Sociotechnical Systems
-- Product Delivery
 categories: []
 preview: metro-new-normal-icon-28-28.png
 

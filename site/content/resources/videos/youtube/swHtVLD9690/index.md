@@ -35,6 +35,10 @@ tags:
 - Pragmatic Thinking
 - Customer Feedback Loops
 - Market Adaptability
+- Continuous Improvement
+- Operational Practices
+- Metrics and Learning
+- Product Delivery
 resourceTypes:
 - video
 categories:

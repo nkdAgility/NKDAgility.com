@@ -29,8 +29,6 @@ tags:
 - Windows
 - Install and Configuration
 - System Configuration
-- Azure DevOps
-- Pragmatic Thinking
 preview: metro-SSWLogo-128-link-7-7.png
 categories: []
 

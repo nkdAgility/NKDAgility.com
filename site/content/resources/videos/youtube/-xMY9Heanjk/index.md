@@ -45,9 +45,6 @@ tags:
 - Experimentation
 - Agile Philosophy
 - Competence
-- Operational Practices
-- Continuous Improvement
-- Evidence Based Leadership
 resourceTypes:
 - video
 layout: video

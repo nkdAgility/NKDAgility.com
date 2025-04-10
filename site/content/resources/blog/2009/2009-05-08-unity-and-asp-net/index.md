@@ -26,7 +26,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Technical Mastery
-- Technical Excellence
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

@@ -26,7 +26,6 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Software Development
-- System Configuration
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

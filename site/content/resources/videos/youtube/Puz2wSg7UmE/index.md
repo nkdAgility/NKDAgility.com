@@ -40,6 +40,12 @@ tags:
 - Metrics and Learning
 - Business Agility
 - Pragmatic Thinking
+- Technical Debt
+- Digital Transformation
+- Operational Practices
+- Organisational Agility
+- Value Delivery
+- Software Development
 resourceTypes:
 - video
 categories: []

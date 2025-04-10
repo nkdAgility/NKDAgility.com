@@ -33,10 +33,6 @@ tags:
 - Agile Frameworks
 - Professional Scrum
 - Pragmatic Thinking
-- Agile Transformation
-- Azure DevOps
-- Operational Practices
-- Product Delivery
 categories:
 - Scrum
 preview: Scalled-Professional-Scrum-1280-2-2.jpg

@@ -26,8 +26,7 @@ card:
   content: Discover more about  and how it can help you in your Agile journey!
   title: 
 categories: []
-tags:
-- Software Development
+tags: []
 
 ---
 # What is the Definition of Done (DoD)

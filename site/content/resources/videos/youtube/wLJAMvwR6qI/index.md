@@ -27,6 +27,12 @@ isShort: false
 tags:
 - Hypothesis Driven Development
 - Experimentation
+- Lean Startup
+- Product Discovery
+- Product Validation
+- Decision Making
+- Metrics and Learning
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

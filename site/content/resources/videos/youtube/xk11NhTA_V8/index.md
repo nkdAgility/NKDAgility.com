@@ -25,7 +25,15 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/xk11NhTA_V8/maxresdefault.jpg
 duration: 72
 isShort: false
-tags: []
+tags:
+- Agile Leadership
+- Team Motivation
+- Psychological Safety
+- Team Performance
+- Agile Philosophy
+- Organisational Culture
+- Social Technologies
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

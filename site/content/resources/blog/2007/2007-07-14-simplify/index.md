@@ -25,8 +25,7 @@ aliasesArchive:
 - /resources/blog/simplify
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
-tags:
-- Miscellaneous
+tags: []
 
 ---
 Well I just got through simplifying my blog categories! I just though they were, well... rubbish,  and there were too many of them. I have toned them down and added a full description for them all with links to the relevant Wikipedia pages...

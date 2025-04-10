@@ -33,14 +33,7 @@ tags:
 - Pragmatic Thinking
 - Working Software
 - Product Delivery
-- Azure DevOps
-- Decision Making
-- Operational Practices
-- Release Management
-- Technical Excellence
-- Technical Mastery
-categories:
-- Engineering Excellence
+categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

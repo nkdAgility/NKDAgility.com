@@ -30,17 +30,6 @@ tags:
 - Organisational Agility
 - Pragmatic Thinking
 - Product Owner
-- Agile Transformation
-- Product Delivery
-- Professional Scrum
-- Agile Frameworks
-- Social Technologies
-- Personal
-- Continuous Learning
-- Team Collaboration
-- Agile Leadership
-- Agile Strategy
-- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -49,8 +38,6 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- Leadership
-- Scrum
 
 ---
 As I reflect on the immersive learning experience of the Product Owner (PO) role, I can't help but feel that it’s a perfect fit for the eight-week programme. Why? Because there’s a significant disconnect between how we teach the breadth of what a product owner is and does, and what people are actually trying to achieve in their organisations. 

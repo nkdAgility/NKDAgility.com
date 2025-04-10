@@ -44,12 +44,8 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Team Performance
-- Large Scale Agility
-- Team Collaboration
 categories:
 - Scrum
-- Technical Leadership
-- Product Management
 preview: 146713119-1-1.jpg
 
 ---

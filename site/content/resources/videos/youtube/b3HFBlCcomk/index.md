@@ -37,6 +37,10 @@ tags:
 - Software Development
 - Organisational Agility
 - Agile Strategy
+- Agile Planning
+- Agile Product Management
+- Business Agility
+- Product Delivery
 resourceTypes:
 - video
 categories: []

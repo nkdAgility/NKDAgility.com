@@ -25,9 +25,6 @@ aliasesArchive:
 - /resources/blog/working-within-a-single-team-project-with-team-foundation-server-2012
 tags:
 - Software Development
-- Application Lifecycle Management
-- Operational Practices
-- Pragmatic Thinking
 categories: []
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 

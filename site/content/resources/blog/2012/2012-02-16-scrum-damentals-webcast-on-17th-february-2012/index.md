@@ -26,11 +26,6 @@ aliasesArchive:
 tags:
 - Agile Frameworks
 - Software Development
-- Agile Planning
-- Professional Scrum
-- Agile Product Management
-- Agile Transformation
-- Pragmatic Thinking
 categories:
 - Scrum
 preview: metro-event-128-link-1-1.png

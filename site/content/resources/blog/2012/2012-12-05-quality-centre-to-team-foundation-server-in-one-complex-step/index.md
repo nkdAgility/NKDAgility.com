@@ -28,7 +28,6 @@ tags:
 - Software Development
 - Install and Configuration
 - Pragmatic Thinking
-- Technical Mastery
 categories: []
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 

@@ -33,9 +33,6 @@ tags:
 - Technical Excellence
 - Test Driven Development
 - Technical Mastery
-- Test First Development
-- Pragmatic Thinking
-- Flow Efficiency
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-2-2.png

@@ -32,12 +32,6 @@ tags:
 - Pragmatic Thinking
 - Azure DevOps
 - Modern Source Control
-- Operational Practices
-- Application Lifecycle Management
-- Technical Excellence
-- Windows
-- Product Delivery
-- Technical Mastery
 categories: []
 
 ---

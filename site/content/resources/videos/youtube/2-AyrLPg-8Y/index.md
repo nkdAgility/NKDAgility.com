@@ -35,6 +35,11 @@ tags:
 - Competence
 - Agile Leadership
 - Operational Practices
+- Agile Transformation
+- Ability to Innovate
+- Agile Strategy
+- Empirical Process Control
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

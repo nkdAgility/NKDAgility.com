@@ -31,10 +31,6 @@ sitemap:
   priority: 0.6
 tags:
 - Personal
-- Agile Transformation
-- Organisational Agility
-- Pragmatic Thinking
-- Software Development
 resourceTypes:
 - video
 categories: []

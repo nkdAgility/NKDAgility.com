@@ -24,6 +24,8 @@ categories:
 tags:
 - Professional Scrum
 - Software Development
+- Competence
+- Agile Frameworks
 
 ---
 As we enter the promising year of 2024, it's time to turn our aspirations into actions and truly master our craft. At NKDAgility, we're committed to fueling your journey toward excellence with our immersive learning scrum training courses. It's not just about learning; it's about transforming and leading in an agile world.

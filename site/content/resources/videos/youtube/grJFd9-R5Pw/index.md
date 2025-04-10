@@ -41,15 +41,10 @@ tags:
 - Agile Product Management
 - Team Collaboration
 - Competence
-- Operational Practices
-- Scrum Team
-- Social Technologies
-- Product Delivery
 resourceTypes:
 - video
 categories:
 - Scrum
-- Technical Leadership
 
 ---
 How does the APS course help people apply scrum effectively?

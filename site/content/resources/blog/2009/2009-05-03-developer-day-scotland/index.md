@@ -28,8 +28,6 @@ tags:
 - Technical Mastery
 - Technical Excellence
 - Engineering Practices
-- Technical Debt
-- Pragmatic Thinking
 categories:
 - Engineering Excellence
 preview: metro-event-128-link-1-1.png

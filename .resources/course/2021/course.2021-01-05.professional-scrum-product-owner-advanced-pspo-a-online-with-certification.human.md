@@ -43,7 +43,6 @@ tags:
 - Software Development
 - Value Delivery
 - Product Strategy
-- Product Delivery
 categories:
 - Product Management
 - Scrum

@@ -31,20 +31,8 @@ tags:
 - Automated Testing
 - Operational Practices
 - Product Delivery
-- Windows
-- Azure DevOps
-- Continuous Delivery
-- Digital Transformation
-- Frequent Releases
-- Release Management
-- Test Automation
-- Working Software
-- Technical Excellence
-- Platform Engineering
-- Technical Mastery
 categories:
 - DevOps
-- Engineering Excellence
 preview: metro-lab-5-5.png
 
 ---

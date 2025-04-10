@@ -30,11 +30,6 @@ tags:
 - System Configuration
 - Troubleshooting
 - Application Lifecycle Management
-- Azure DevOps
-- Pragmatic Thinking
-- Release Management
-- Modern Source Control
-- Technical Mastery
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories: []
 

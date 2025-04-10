@@ -27,11 +27,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Transformation
-- Continuous Learning
-- Pragmatic Thinking
-- Software Development
+tags: []
 resourceTypes:
 - video
 categories: []

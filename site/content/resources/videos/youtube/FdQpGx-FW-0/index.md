@@ -40,9 +40,19 @@ tags:
 - Pragmatic Thinking
 - Organisational Agility
 - Beta Codex
+- Agile Frameworks
+- Agile Leadership
+- Agile Product Management
+- Enterprise Agility
+- Organisational Change
+- Team Motivation
+- Agile Strategy
+- Organisational Culture
+- Sociotechnical Systems
 resourceTypes:
 - video
-categories: []
+categories:
+- Leadership
 
 ---
 # Escaping the Judgment Trap in Agile Transformation 🚀

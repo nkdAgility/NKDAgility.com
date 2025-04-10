@@ -35,10 +35,6 @@ aliasesArchive:
 tags:
 - Value Delivery
 - Product Delivery
-- Agile Product Management
-- Agile Frameworks
-- Agile Leadership
-- Software Development
 categories:
 - Leadership
 preview: image-4-5-5.png

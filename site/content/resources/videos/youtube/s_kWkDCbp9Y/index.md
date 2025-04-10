@@ -31,6 +31,8 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
+- Agile Transformation
+- Competence
 resourceTypes:
 - video
 categories: []

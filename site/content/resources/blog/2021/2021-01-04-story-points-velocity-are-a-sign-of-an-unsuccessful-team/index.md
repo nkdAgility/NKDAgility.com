@@ -43,12 +43,6 @@ tags:
 - Product Delivery
 - Team Performance
 - Cycle Time
-- Scrum Team
-- Competence
-- Increment
-- Operational Practices
-- Value Delivery
-- Scrum Master
 categories:
 - Scrum
 preview: image-9-14-14.png

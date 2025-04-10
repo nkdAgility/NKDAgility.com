@@ -33,11 +33,6 @@ tags:
 - Azure DevOps
 - Troubleshooting
 - System Configuration
-- Azure Boards
-- Application Lifecycle Management
-- Operational Practices
-- Pragmatic Thinking
-- Release Management
 categories: []
 
 ---

@@ -32,12 +32,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Install and Configuration
-- Azure DevOps
-- Application Lifecycle Management
-- Frequent Releases
-- Pragmatic Thinking
-- Working Software
-- Modern Source Control
 categories: []
 
 ---

@@ -50,14 +50,11 @@ tags:
 - Organisational Culture
 - Agile Planning
 - Mentoring
-- Self Organisation
-- Continuous Improvement
 resourceTypes:
 - video
 categories:
 - Scrum
 - Technical Leadership
-- Leadership
 
 ---
 ## Reinvigorating Your Scrum Team: The Agile Coach's Playbook 🚀 

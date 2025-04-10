@@ -36,8 +36,6 @@ tags:
 - Pragmatic Thinking
 - Azure Pipelines
 - Operational Practices
-- Technical Excellence
-- Technical Mastery
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-14-14.png

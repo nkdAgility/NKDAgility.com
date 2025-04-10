@@ -29,8 +29,6 @@ tags:
 - Competence
 - Organisational Culture
 - Social Technologies
-- Sociotechnical Systems
-- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

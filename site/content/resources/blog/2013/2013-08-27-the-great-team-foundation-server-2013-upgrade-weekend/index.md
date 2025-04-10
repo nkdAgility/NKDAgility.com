@@ -25,7 +25,6 @@ aliasesArchive:
 - /resources/blog/the-great-team-foundation-server-2013-upgrade-weekend
 tags:
 - Install and Configuration
-- Windows
 categories: []
 
 ---

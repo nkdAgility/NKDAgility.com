@@ -38,6 +38,10 @@ tags:
 - Enterprise Agility
 - Sociotechnical Systems
 - Pragmatic Thinking
+- Continuous Learning
+- Organisational Change
+- Organisational Culture
+- Organisational Physics
 resourceTypes:
 - video
 categories:

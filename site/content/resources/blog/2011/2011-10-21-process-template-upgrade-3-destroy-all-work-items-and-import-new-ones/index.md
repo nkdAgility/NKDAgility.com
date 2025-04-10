@@ -33,13 +33,8 @@ tags:
 - Install and Configuration
 - System Configuration
 - Operational Practices
-- Application Lifecycle Management
-- Azure Boards
-- Pragmatic Thinking
-- Troubleshooting
 preview: metro-visual-studio-2005-128-link-5-5.png
-categories:
-- Scrum
+categories: []
 
 ---
 ![VisualStudioALMLogo](images/VisualStudioALMLogo-6-6.png "VisualStudioALMLogo")

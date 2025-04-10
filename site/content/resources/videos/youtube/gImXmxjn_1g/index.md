@@ -30,9 +30,6 @@ duration: 376
 isShort: false
 tags:
 - Pragmatic Thinking
-- Competence
-- Software Development
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -39,16 +39,6 @@ tags:
 - Customer Satisfaction
 - Product Delivery
 - Value Delivery
-- Evidence Based Leadership
-- Ability to Innovate
-- Agile Leadership
-- Evidence Based Management
-- Market Adaptability
-- Metrics and Learning
-- Organisational Agility
-- Sociotechnical Systems
-- Team Collaboration
-- Working Software
 resourceTypes:
 - video
 categories:

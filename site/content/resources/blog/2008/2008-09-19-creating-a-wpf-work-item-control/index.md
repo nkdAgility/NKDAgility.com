@@ -30,10 +30,6 @@ tags:
 - Technical Mastery
 - Internal Developer Platform
 - Technical Excellence
-- Application Lifecycle Management
-- Azure Boards
-- Install and Configuration
-- Working Software
 categories: []
 preview: metro-visual-studio-2005-128-link-6-6.png
 

@@ -36,15 +36,8 @@ tags:
 - Large Scale Agility
 - Agile Product Management
 - Team Performance
-- Team Collaboration
-- Value Delivery
-- Agile Strategy
-- Competence
-- Organisational Agility
-- Product Delivery
 categories:
 - Scrum
-- Technical Leadership
 preview: clip_image003-3-3.png
 
 ---

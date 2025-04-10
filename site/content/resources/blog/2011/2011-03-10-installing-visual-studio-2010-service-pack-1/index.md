@@ -26,7 +26,6 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Windows
-- System Configuration
 preview: metro-visual-studio-2010-128-link-13-13.png
 categories: []
 

@@ -38,9 +38,6 @@ tags:
 - Team Collaboration
 - Team Performance
 - Working Software
-- Agile Transformation
-- Scrum Master
-- Product Delivery
 categories:
 - Scrum
 preview: 1130646316-1-1-1.jpg

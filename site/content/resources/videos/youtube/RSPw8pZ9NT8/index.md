@@ -35,11 +35,6 @@ tags:
 - Metrics and Learning
 - Flow Efficiency
 - Pragmatic Thinking
-- Continuous Improvement
-- Forecasting
-- Lean Thinking
-- Decision Making
-- Transparency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

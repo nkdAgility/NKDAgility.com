@@ -35,12 +35,6 @@ tags:
 - Agile Transformation
 - Pragmatic Thinking
 - Working Software
-- Scrum Master
-- Scrum Team
-- Agile Planning
-- Product Delivery
-- Team Performance
-- Increment
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-3-3.png

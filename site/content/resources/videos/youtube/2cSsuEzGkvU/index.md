@@ -34,6 +34,10 @@ tags:
 - Agile Leadership
 - Coaching
 - Social Technologies
+- Agile Transformation
+- Employee Engagement
+- Mentoring
+- Psychological Safety
 sitemap:
   filename: sitemap.xml
   priority: 0.6

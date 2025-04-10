@@ -36,9 +36,6 @@ tags:
 - Windows
 - Azure DevOps
 - Install and Configuration
-- Continuous Integration
-- Pragmatic Thinking
-- Technical Excellence
 categories: []
 preview: metro-problem-icon-7-7.png
 

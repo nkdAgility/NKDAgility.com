@@ -36,14 +36,8 @@ tags:
 - Test Automation
 - Troubleshooting
 - Software Development
-- Pragmatic Thinking
-- Technical Excellence
-- Technical Mastery
-- Engineering Practices
-- System Configuration
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- Engineering Excellence
+categories: []
 
 ---
 I have been trying to get a handle on doing an automated build of our Business Intelligence solutions and I am always running into problems around the (IMO badly build) BI Packages that are installed via SQL. They do not support Test, they do not support build. There has been no thought given to how people working on them are going to build test and support them and even the project files are not written in the same schema as the rest of the Visual Studio bits. I would have thought, with Team Foundation Server in its third year and second version that this would have been rectified in SQL 2008, but no such luck.

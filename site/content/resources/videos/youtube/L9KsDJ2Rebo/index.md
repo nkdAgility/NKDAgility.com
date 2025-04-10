@@ -30,8 +30,6 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Competence
-- Coaching
-- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

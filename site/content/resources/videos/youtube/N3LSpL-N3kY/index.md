@@ -29,9 +29,6 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
-- Agile Product Management
-- Continuous Learning
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories: []

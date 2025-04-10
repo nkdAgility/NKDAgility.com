@@ -38,9 +38,6 @@ tags:
 - Pragmatic Thinking
 - Professional Scrum
 - Scrum Master
-- Agile Product Management
-- Empirical Process Control
-- Personal
 resourceTypes:
 - video
 layout: video

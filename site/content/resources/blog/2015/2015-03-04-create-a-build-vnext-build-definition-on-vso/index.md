@@ -41,14 +41,7 @@ tags:
 - Technical Excellence
 - Working Software
 - System Configuration
-- Application Lifecycle Management
-- Continuous Delivery
-- Operational Practices
-- Platform Engineering
-- Product Delivery
-- Technical Mastery
-categories:
-- Engineering Excellence
+categories: []
 preview: nakedalm-experts-visual-studio-alm-26-26.png
 
 ---

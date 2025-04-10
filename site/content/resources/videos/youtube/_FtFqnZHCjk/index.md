@@ -41,6 +41,14 @@ tags:
 - Agile Philosophy
 - Pragmatic Thinking
 - Value Delivery
+- Agile Planning
+- Business Agility
+- Continuous Delivery
+- Customer Satisfaction
+- Operational Practices
+- Organisational Agility
+- Market Adaptability
+- Deployment Frequency
 resourceTypes:
 - video
 layout: video

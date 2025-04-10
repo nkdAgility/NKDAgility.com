@@ -33,8 +33,6 @@ tags:
 - Troubleshooting
 - Software Development
 - Install and Configuration
-- System Configuration
-- Windows
 categories: []
 preview: metro-problem-icon-4-4.png
 

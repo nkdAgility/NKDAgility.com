@@ -27,6 +27,10 @@ duration: 57
 isShort: true
 tags:
 - Software Development
+- Agile Frameworks
+- Continuous Improvement
+- Operational Practices
+- Lean Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -29,11 +29,9 @@ sitemap:
 tags:
 - Agile Transformation
 - Software Development
-- Pragmatic Thinking
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
 ## Debunking the "Magic" Myth

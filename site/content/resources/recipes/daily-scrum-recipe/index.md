@@ -56,6 +56,8 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Transparency
+- Operational Practices
+- Scrum Master
 
 ---
 The Daily Scrum is an essential event in the Scrum framework. It offers the

@@ -27,7 +27,6 @@ duration: 2112
 isShort: false
 tags:
 - Software Development
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

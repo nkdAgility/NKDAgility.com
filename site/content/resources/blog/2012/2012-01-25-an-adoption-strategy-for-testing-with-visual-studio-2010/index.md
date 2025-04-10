@@ -25,7 +25,6 @@ aliasesArchive:
 - /resources/blog/an-adoption-strategy-for-testing-with-visual-studio-2010
 tags:
 - Software Development
-- Pragmatic Thinking
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 

@@ -36,14 +36,7 @@ tags:
 - Enterprise Agility
 - Organisational Culture
 - Pragmatic Thinking
-- Self Organisation
-- Large Scale Agility
-- Organisational Change
-- Market Adaptability
-- Agile Philosophy
-- Strategic Goals
-categories:
-- Leadership
+categories: []
 preview: naked-agility-technically-agile-Blog-EmbraceUniqueness-1-1-1.jpg
 
 ---

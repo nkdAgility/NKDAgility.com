@@ -26,7 +26,9 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Social Technologies
+- Team Motivation
 resourceTypes:
 - video
 categories: []

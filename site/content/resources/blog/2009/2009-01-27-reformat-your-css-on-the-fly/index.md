@@ -25,7 +25,6 @@ aliasesArchive:
 - /resources/blog/reformat-your-css-on-the-fly
 tags:
 - Software Development
-- Install and Configuration
 categories: []
 preview: metro-binary-vb-128-link-2-1.png
 

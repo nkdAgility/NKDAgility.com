@@ -34,7 +34,6 @@ tags:
 - Windows
 - Install and Configuration
 - System Configuration
-- Software Development
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

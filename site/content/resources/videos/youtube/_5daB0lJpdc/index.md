@@ -34,6 +34,9 @@ tags:
 - Software Development
 - Agile Philosophy
 - Organisational Agility
+- Agile Frameworks
+- Agile Product Management
+- Personal
 resourceTypes:
 - video
 layout: video

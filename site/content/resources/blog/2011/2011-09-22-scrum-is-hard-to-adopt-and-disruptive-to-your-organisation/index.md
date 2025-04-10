@@ -33,19 +33,9 @@ tags:
 - Change Management
 - Competence
 - Organisational Change
-- Agile Strategy
-- Mentoring
-- Organisational Agility
-- Professional Scrum
-- Sociotechnical Systems
-- Team Collaboration
-- Value Delivery
-- Scrum Master
-- Team Performance
 categories:
 - Scrum
 - Product Management
-- Technical Leadership
 preview: nakedalm-experts-professional-scrum-4-4.png
 
 ---

@@ -33,8 +33,6 @@ tags:
 - System Configuration
 - Software Development
 - Technical Mastery
-- Pragmatic Thinking
-- Technical Excellence
 categories: []
 preview: nakedalm-windows-logo-22-22.png
 

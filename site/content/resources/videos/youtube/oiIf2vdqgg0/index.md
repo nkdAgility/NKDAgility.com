@@ -30,7 +30,6 @@ sitemap:
   priority: 0.6
 tags:
 - Product Strategy
-- Strategic Goals
 resourceTypes:
 - video
 categories: []

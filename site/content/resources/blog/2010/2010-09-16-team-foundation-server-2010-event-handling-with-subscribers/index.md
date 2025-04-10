@@ -29,7 +29,6 @@ tags:
 - Technical Mastery
 - Install and Configuration
 - System Configuration
-- Technical Excellence
 categories: []
 preview: metro-binary-vb-128-link-4-4.png
 

@@ -40,9 +40,6 @@ tags:
 - Agile Philosophy
 - Agile Transformation
 - Agile Values and Principles
-- Agile Product Management
-- Organisational Agility
-- Personal
 resourceTypes:
 - video
 categories: []

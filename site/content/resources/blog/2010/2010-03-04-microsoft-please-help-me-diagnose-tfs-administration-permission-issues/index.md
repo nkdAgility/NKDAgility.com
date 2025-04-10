@@ -34,8 +34,6 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Windows
-- Install and Configuration
-- System Configuration
 preview: metro-SSWLogo-128-link-1-1.png
 categories: []
 

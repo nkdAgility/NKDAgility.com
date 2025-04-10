@@ -25,7 +25,6 @@ aliasesArchive:
 - /resources/blog/creating-a-custom-proxy-class
 tags:
 - Software Development
-- Technical Mastery
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

@@ -42,11 +42,8 @@ tags:
 - Agile Planning Tools
 - Personal
 - Product Owner
-- Operational Practices
-- Empirical Process Control
 categories:
 - Scrum
-- Product Management
 preview: nakedalm-logo-128-link-6-6.png
 
 ---

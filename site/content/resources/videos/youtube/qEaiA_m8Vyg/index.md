@@ -34,10 +34,6 @@ tags:
 - Metrics and Learning
 - Empirical Process Control
 - Personal
-- Competence
-- Miscellaneous
-- Pragmatic Thinking
-- Team Collaboration
 resourceTypes:
 - video
 categories: []

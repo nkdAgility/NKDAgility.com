@@ -32,10 +32,7 @@ tags:
 - Azure DevOps
 - Azure Boards
 - Pragmatic Thinking
-- Product Backlog
-- Working Software
-categories:
-- Scrum
+categories: []
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 
 ---

@@ -29,6 +29,13 @@ duration: 36
 isShort: true
 tags:
 - Software Development
+- Value Delivery
+- Ability to Innovate
+- Continuous Improvement
+- Operational Practices
+- Technical Debt
+- Product Delivery
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6

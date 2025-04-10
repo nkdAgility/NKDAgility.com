@@ -27,10 +27,6 @@ tags:
 - Software Development
 - Application Lifecycle Management
 - Azure DevOps
-- Operational Practices
-- Technical Excellence
-- Working Software
-- Modern Source Control
 categories: []
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 

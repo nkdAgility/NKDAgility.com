@@ -32,7 +32,6 @@ tags:
 - Troubleshooting
 - Install and Configuration
 - System Configuration
-- Software Development
 preview: metro-SSWLogo-128-link-5-5.png
 categories: []
 

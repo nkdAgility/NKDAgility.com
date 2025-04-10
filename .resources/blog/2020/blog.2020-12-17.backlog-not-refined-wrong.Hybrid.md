@@ -48,11 +48,9 @@ tags:
 - Operational Practices
 - Agile Transformation
 - Value Delivery
-- Competence
 categories:
 - Scrum
 - Product Management
-- Technical Leadership
 preview: naked-Agility-Scrum-Framework-Product-Backlog-2-1.jpg
 
 ---

@@ -31,9 +31,6 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Personal
-- Lean Principles
-- Agile Frameworks
-- Social Technologies
 resourceTypes:
 - video
 layout: video

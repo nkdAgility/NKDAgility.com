@@ -35,10 +35,6 @@ tags:
 - Pragmatic Thinking
 - Application Lifecycle Management
 - Release Management
-- Modern Source Control
-- Product Delivery
-- Technical Excellence
-- Working Software
 categories:
 - Scrum
 preview: metro-visual-studio-2005-128-link-33-33.png

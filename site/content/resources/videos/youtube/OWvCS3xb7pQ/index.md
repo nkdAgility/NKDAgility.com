@@ -35,11 +35,6 @@ tags:
 - Coaching
 - Mentoring
 - Pragmatic Thinking
-- Software Development
-- Agile Philosophy
-- Competence
-- Change Management
-- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6

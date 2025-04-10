@@ -39,8 +39,6 @@ tags:
 - Transparency
 - Social Technologies
 - Scrum Master
-- Coaching
-- Software Development
 categories:
 - Scrum
 preview: naked-agility-Professional-Scrum-PSFS-1600x900-1.jpg

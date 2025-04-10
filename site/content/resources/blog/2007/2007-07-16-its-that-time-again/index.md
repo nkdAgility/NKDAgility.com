@@ -23,9 +23,7 @@ aliasesArchive:
 - /blog/its-that-time-again
 - /its-that-time-again
 - /resources/blog/its-that-time-again
-tags:
-- Miscellaneous
-- Personal
+tags: []
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

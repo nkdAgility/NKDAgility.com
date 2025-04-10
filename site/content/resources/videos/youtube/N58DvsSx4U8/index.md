@@ -35,12 +35,10 @@ tags:
 - Software Development
 - Operational Practices
 - Azure Repos
-- Team Collaboration
 resourceTypes:
 - video
 categories:
 - DevOps
-- Engineering Excellence
 
 ---
 ## A Journey to DevOps Success

@@ -32,7 +32,6 @@ tags:
 - Install and Configuration
 - System Configuration
 - Continuous Integration
-- Modern Source Control
 categories: []
 preview: naked-alm-jenkins-logo-9-9.png
 

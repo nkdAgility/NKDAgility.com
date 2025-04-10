@@ -29,11 +29,7 @@ aliasesArchive:
 - /resources/blog/do-you-know-that-every-user-story-should-have-an-owner
 tags:
 - Software Development
-- Agile Planning
-- Agile Product Management
-- Pragmatic Thinking
-categories:
-- Scrum
+categories: []
 preview: metro-SSWLogo-128-link-4-4.png
 
 ---

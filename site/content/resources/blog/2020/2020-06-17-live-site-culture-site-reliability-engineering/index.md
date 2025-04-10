@@ -43,13 +43,6 @@ tags:
 - Market Adaptability
 - Product Delivery
 - Technical Excellence
-- Azure DevOps
-- Business Agility
-- Digital Transformation
-- Enterprise Agility
-- Working Software
-- Continuous Learning
-- Trend Analysis
 
 ---
 As more and more organisations move towards a higher degree of agility, they inevitably also move towards DevOps practices like Continuous Delivery to facilitate shortening the feedback loops.

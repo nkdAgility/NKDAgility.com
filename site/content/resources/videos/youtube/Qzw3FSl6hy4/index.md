@@ -36,6 +36,7 @@ tags:
 - Product Owner
 - Pragmatic Thinking
 - Product Strategy
+- Strategic Goals
 resourceTypes:
 - video
 categories:

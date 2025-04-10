@@ -40,9 +40,6 @@ tags:
 - Team Motivation
 - Agile Leadership
 - Agile Transformation
-- Organisational Agility
-- Agile Product Management
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

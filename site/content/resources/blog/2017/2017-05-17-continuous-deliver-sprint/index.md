@@ -49,12 +49,8 @@ tags:
 - Operational Practices
 - Team Performance
 - Deployment Frequency
-- Common Goals
-- Continuous Improvement
-- Agile Strategy
 categories:
 - Scrum
-- Engineering Excellence
 preview: Continous_Delivery_by_Jez_Humble_and_David_Farley-1-1.jpg
 
 ---

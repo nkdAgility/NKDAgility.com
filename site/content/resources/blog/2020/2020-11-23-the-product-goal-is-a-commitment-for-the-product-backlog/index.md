@@ -35,10 +35,6 @@ tags:
 - Value Delivery
 - Strategic Goals
 - Product Backlog
-- Scrum Team
-- Working Software
-- Agile Transformation
-- Pragmatic Thinking
 categories:
 - Scrum
 - Product Management

@@ -36,6 +36,14 @@ tags:
 - Agile Transformation
 - Continuous Learning
 - Team Performance
+- Agile Leadership
+- Agile Strategy
+- Organisational Change
+- Market Adaptability
+- Organisational Culture
+- Self Organisation
+- Empirical Process Control
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

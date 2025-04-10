@@ -34,6 +34,15 @@ tags:
 - Agile Leadership
 - Employee Engagement
 - Team Performance
+- Agile Philosophy
+- Team Collaboration
+- Agile Strategy
+- Agile Values and Principles
+- Team Motivation
+- Agile Transformation
+- Organisational Agility
+- Personal
+- Social Technologies
 resourceTypes:
 - video
 categories: []

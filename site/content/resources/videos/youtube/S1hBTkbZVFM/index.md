@@ -35,6 +35,11 @@ tags:
 - Coaching
 - Agile Leadership
 - Organisational Agility
+- Business Agility
+- Software Development
+- Agile Strategy
+- Competence
+- Mentoring
 resourceTypes:
 - video
 categories: []

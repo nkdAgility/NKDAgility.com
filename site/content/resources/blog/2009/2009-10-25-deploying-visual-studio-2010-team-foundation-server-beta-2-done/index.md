@@ -29,8 +29,6 @@ aliasesArchive:
 - /resources/blog/deploying-visual-studio-2010-team-foundation-server-beta-2-done
 tags:
 - Install and Configuration
-- Software Development
-- System Configuration
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories: []
 

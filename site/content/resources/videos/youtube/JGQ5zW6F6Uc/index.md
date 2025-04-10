@@ -31,6 +31,10 @@ tags:
 - Pragmatic Thinking
 - Agile Product Management
 - Team Performance
+- Agile Frameworks
+- Agile Transformation
+- Professional Scrum
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

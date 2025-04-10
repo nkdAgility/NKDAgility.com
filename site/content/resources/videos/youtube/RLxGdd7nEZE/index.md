@@ -28,14 +28,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Organisational Agility
-- Business Agility
-- Organisational Physics
-- Pragmatic Thinking
-- Sociotechnical Systems
-- Systems Thinking
-- Organisational Culture
+tags: []
 resourceTypes:
 - video
 categories: []

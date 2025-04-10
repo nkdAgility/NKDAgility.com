@@ -41,7 +41,6 @@ tags:
 - Backlog Refinement
 - Pragmatic Thinking
 - Value Delivery
-- Agile Planning Tools
 resourceTypes:
 - video
 layout: video

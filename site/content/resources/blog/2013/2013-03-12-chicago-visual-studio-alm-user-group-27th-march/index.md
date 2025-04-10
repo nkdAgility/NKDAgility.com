@@ -23,8 +23,7 @@ aliasesArchive:
 - /blog/chicago-visual-studio-alm-user-group-27th-march
 - /chicago-visual-studio-alm-user-group-27th-march
 - /resources/blog/chicago-visual-studio-alm-user-group-27th-march
-tags:
-- Software Development
+tags: []
 categories: []
 preview: metro-UserGroup-128-2-2.png
 

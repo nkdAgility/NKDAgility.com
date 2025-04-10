@@ -34,11 +34,6 @@ tags:
 - Market Adaptability
 - Product Delivery
 - Value Delivery
-- Agile Philosophy
-- Business Agility
-- Continuous Improvement
-- Continuous Delivery
-- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

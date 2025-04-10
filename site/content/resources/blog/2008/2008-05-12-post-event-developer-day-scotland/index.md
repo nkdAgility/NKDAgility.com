@@ -27,14 +27,10 @@ aliasesArchive:
 - /post-event--developer-day-scotland---
 - /blog/post-event--developer-day-scotland---
 - /resources/blog/post-event-developer-day-scotland
-categories:
-- Engineering Excellence
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 tags:
 - Software Development
-- Test Driven Development
-- Technical Excellence
-- Technical Mastery
 
 ---
 What a fantastic day... Thanks to [Colin Mackay](http://blog.colinmackay.net/) for the fantastic job he did organising this event and I hope that there will be more events like this in Glasgow in the future...

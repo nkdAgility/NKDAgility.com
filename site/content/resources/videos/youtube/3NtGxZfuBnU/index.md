@@ -34,17 +34,6 @@ tags:
 - Agile Transformation
 - Organisational Culture
 - Agile Strategy
-- Agile Frameworks
-- Agile Leadership
-- Agile Philosophy
-- Beta Codex
-- Business Agility
-- Enterprise Agility
-- Pragmatic Thinking
-- Sensemaking
-- Software Development
-- Social Technologies
-- Organisational Physics
 resourceTypes:
 - video
 layout: video

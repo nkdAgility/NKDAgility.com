@@ -31,10 +31,6 @@ tags:
 - Software Development
 - Azure DevOps
 - Install and Configuration
-- Azure Boards
-- Pragmatic Thinking
-- System Configuration
-- Operational Practices
 categories: []
 preview: nakedalm-experts-visual-studio-alm-16-16.png
 

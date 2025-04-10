@@ -42,6 +42,14 @@ tags:
 - Product Delivery
 - Self Organisation
 - Agile Product Management
+- Agile Frameworks
+- Professional Scrum
+- Scrum Team
+- Value Delivery
+- Organisational Agility
+- Personal
+- Product Owner
+- Social Technologies
 resourceTypes:
 - video
 categories: []

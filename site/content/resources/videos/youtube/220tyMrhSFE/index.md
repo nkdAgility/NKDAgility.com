@@ -27,6 +27,11 @@ isShort: true
 tags:
 - Operational Practices
 - Pragmatic Thinking
+- Continuous Improvement
+- Team Collaboration
+- Team Performance
+- Social Technologies
+- Transparency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

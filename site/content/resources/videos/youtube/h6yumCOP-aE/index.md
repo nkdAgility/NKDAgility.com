@@ -39,6 +39,7 @@ tags:
 - Team Performance
 - Pragmatic Thinking
 - Team Collaboration
+- Agile Frameworks
 resourceTypes:
 - video
 categories: []

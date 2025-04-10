@@ -35,6 +35,11 @@ tags:
 - Scrum Team
 - Coaching
 - Social Technologies
+- Agile Frameworks
+- Pragmatic Thinking
+- Employee Engagement
+- Organisational Culture
+- Mentoring
 resourceTypes:
 - video
 layout: video

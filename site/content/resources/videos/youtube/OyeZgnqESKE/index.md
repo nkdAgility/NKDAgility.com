@@ -32,6 +32,10 @@ sitemap:
   priority: 0.6
 tags:
 - Team Motivation
+- Competence
+- Coaching
+- Continuous Improvement
+- Scrum Master
 resourceTypes:
 - video
 categories: []

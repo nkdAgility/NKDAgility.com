@@ -26,10 +26,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Agile Frameworks
-- Scrum Team
-- Agile Planning
-- Team Performance
-- Pragmatic Thinking
 categories:
 - Scrum
 preview: metro-sharepoint-128-link-1-1.png

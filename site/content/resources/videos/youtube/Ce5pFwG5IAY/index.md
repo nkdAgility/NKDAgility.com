@@ -34,8 +34,6 @@ tags:
 - Social Technologies
 - Software Development
 - Pragmatic Thinking
-- Coaching
-- Agile Transformation
 resourceTypes:
 - video
 categories: []

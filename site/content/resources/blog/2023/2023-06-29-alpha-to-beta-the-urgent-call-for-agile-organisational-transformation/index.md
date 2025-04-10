@@ -48,7 +48,6 @@ tags:
 - Social Technologies
 - Agile Leadership
 - Strategic Goals
-- Agile Frameworks
 categories:
 - Leadership
 preview: 1686217267121-1-1-1.jpg

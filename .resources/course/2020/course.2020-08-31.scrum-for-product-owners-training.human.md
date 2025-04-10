@@ -39,8 +39,6 @@ tags:
 - Scrum Team
 - Software Development
 - Team Performance
-- Product Delivery
-- Team Collaboration
 categories:
 - Scrum
 - Product Management

@@ -35,7 +35,6 @@ tags:
 - Azure DevOps
 - Azure Pipelines
 - System Configuration
-- Pragmatic Thinking
 categories: []
 preview: puzzle-issue-problem-128-link-7-7.png
 

@@ -32,7 +32,6 @@ tags:
 - Release Management
 - Application Lifecycle Management
 - Troubleshooting
-- Modern Source Control
 preview: metro-visual-studio-2010-128-link-36-36.png
 categories: []
 

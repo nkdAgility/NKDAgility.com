@@ -33,6 +33,12 @@ tags:
 - Operational Practices
 - Forecasting
 - Software Development
+- Agile Frameworks
+- Throughput
+- Flow Efficiency
+- Product Delivery
+- Pragmatic Thinking
+- Value Delivery
 resourceTypes:
 - video
 categories: []

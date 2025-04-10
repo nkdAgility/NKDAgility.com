@@ -30,10 +30,6 @@ tags:
 - Social Technologies
 - Agile Transformation
 - Team Collaboration
-- Pragmatic Thinking
-- Remote Working
-- Software Development
-- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,7 +38,6 @@ resourceTypes:
 - video
 categories:
 - Leadership
-- Technical Leadership
 
 ---
 In the ever-evolving landscape of agile training and DevOps, I recently had the pleasure of collaborating with Russell Miller, a seasoned product development specialist and scrum dad, during a live virtual classroom session focused on professional agile leadership. This experience not only reinforced my belief in the power of agile methodologies but also highlighted the unique advantages of virtual training in today’s world.

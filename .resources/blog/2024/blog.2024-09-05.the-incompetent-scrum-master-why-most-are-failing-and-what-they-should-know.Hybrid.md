@@ -45,12 +45,6 @@ tags:
 - Engineering Practices
 - Operational Practices
 - Product Delivery
-- Agile Leadership
-- Agile Planning
-- Continuous Improvement
-- Continuous Learning
-- Metrics and Learning
-- Technical Excellence
 categories:
 - Scrum
 - Technical Leadership

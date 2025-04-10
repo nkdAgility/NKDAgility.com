@@ -35,13 +35,6 @@ tags:
 - Agile Product Management
 - Pragmatic Thinking
 - Sociotechnical Systems
-- Team Motivation
-- Agile Frameworks
-- Agile Transformation
-- Product Owner
-- Scrum Master
-- Team Collaboration
-- Organisational Culture
 resourceTypes:
 - video
 categories:

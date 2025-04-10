@@ -32,11 +32,6 @@ tags:
 - Working Agreements
 - Transparency
 - Agile Product Management
-- Agile Planning
-- Agile Frameworks
-- Pragmatic Thinking
-- Product Delivery
-- Software Development
 
 ---
 ## Customer Working Agreement

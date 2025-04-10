@@ -32,6 +32,10 @@ tags:
 - Employee Engagement
 - Agile Leadership
 - Organisational Culture
+- Common Goals
+- Social Technologies
+- Organisational Agility
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

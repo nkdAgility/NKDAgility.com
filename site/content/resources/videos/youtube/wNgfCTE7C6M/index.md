@@ -36,16 +36,6 @@ tags:
 - Professional Scrum
 - Team Collaboration
 - Product Delivery
-- Agile Frameworks
-- Agile Planning
-- Agile Strategy
-- Agile Transformation
-- Continuous Delivery
-- Continuous Improvement
-- Empirical Process Control
-- Organisational Agility
-- Market Adaptability
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -54,7 +44,6 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- Scrum
 
 ---
 In my journey through the world of product development, I've often found myself reflecting on the importance of making informed decisions that truly benefit our users. Recently, I had the opportunity to delve into the Professional Scrum with User Experience (PSU) course, and I can confidently say that it has profoundly shaped my understanding of effective product development. 

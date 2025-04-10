@@ -30,8 +30,6 @@ tags:
 - Windows
 - Install and Configuration
 - Pragmatic Thinking
-- Azure DevOps
-- Technical Mastery
 categories: []
 
 ---

@@ -33,7 +33,6 @@ sitemap:
   priority: 0.6
 tags:
 - Continuous Learning
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories: []
