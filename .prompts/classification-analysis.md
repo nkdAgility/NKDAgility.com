@@ -44,5 +44,5 @@ do not wrap the json in anything else, just return the json object.
 **Content:**
 
 ```
-{{content}}"
+{{content}}
 ```
