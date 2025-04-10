@@ -33,9 +33,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 concepts:
-  - Capability
----
+- Capability
 
+---
 Ability to Innovate refers to an organisation's capacity to generate, implement, and sustain innovative solutions effectively. This concept is crucial as it directly influences how teams can deliver value predictably and sustainably. By fostering a culture that prioritises innovation, organisations can adapt to changing market demands and customer needs, ensuring they remain competitive.
 
 The Ability to Innovate encompasses various measures, such as the frequency of experiments, innovation throughput, and learning cycles. These indicators provide a comprehensive view of an organisation's innovation capabilities, highlighting not just the outcomes but also the processes that enable creativity and experimentation. Unlike other concepts that may focus on specific methodologies or frameworks, the Ability to Innovate is systemic, emphasising long-term growth and adaptability.

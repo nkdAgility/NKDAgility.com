@@ -32,9 +32,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 concepts:
-  - Capability
----
+- Capability
 
+---
 Current Value represents a critical measure within Evidence-Based Management, focusing on the tangible, real-time value a product or service delivers to its users. It encompasses a range of indicators, such as customer satisfaction, revenue impact, and performance feedback, which collectively provide insights into the value being realised at any given moment. This concept is essential for teams aiming to deliver value predictably and sustainably, as it allows for continuous assessment and adjustment based on actual performance rather than assumptions.
 
 By monitoring Current Value, organisations can make informed decisions that enhance their offerings and align them more closely with customer needs. This ongoing evaluation fosters a culture of responsiveness and adaptability, enabling teams to pivot quickly in response to feedback and changing market conditions. Unlike static measures, Current Value is dynamic and systemic, reflecting the evolving nature of customer expectations and business environments. It empowers teams to focus on delivering meaningful outcomes, ensuring that their efforts contribute to long-term success and customer loyalty. This focus on real-time value delivery is what differentiates Current Value from other concepts like Value Stream Management or Customer Satisfaction, which may not capture the immediacy and breadth of value being generated.

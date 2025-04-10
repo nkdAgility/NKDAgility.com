@@ -32,9 +32,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 concepts:
-  - Capability
----
+- Capability
 
+---
 Unrealised Value refers to the potential value that an organisation has yet to capture, highlighting opportunities for improvement and innovation. It encompasses a range of indicators that assess untapped possibilities, such as latent market demand or areas ripe for enhancement. By focusing on Unrealised Value, teams can identify where they can optimise processes, innovate products, or better meet customer needs, ultimately leading to increased competitiveness and sustainability.
 
 This concept is crucial for enabling teams to deliver value predictably and sustainably, as it encourages a proactive approach to recognising and addressing gaps in performance and capability. By systematically measuring and analysing Unrealised Value, organisations can create a culture of continuous improvement, fostering an environment where teams are motivated to explore new ideas and solutions. This long-term, systemic focus not only enhances current operations but also positions the organisation to adapt to changing market conditions and customer expectations.
