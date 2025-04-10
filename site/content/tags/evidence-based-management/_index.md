@@ -33,7 +33,7 @@ aliases:
 - /learn/agile-delivery-kit/strategies/evidence-based-management/
 - /resources/dN0v6E1KsNd
 concepts:
-- Strategy
+- Principle
 sitemap:
   filename: sitemap.xml
   priority: 0.7

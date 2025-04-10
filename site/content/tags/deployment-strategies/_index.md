@@ -30,7 +30,7 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T17:00:23
 concepts:
-- Principle
+- Capability
 
 ---
 Deployment strategies refer to the systematic approaches organisations use to release software into production while balancing risk and speed. These strategies are crucial for ensuring that teams can deliver value predictably and sustainably, allowing for rapid iterations and continuous feedback. By employing various deployment techniques—such as blue-green deployments, canary releases, and rolling updates—teams can mitigate the impact of potential failures, enabling them to respond swiftly to issues without significant disruption to users.

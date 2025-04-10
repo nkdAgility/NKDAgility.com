@@ -32,7 +32,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 concepts:
-- Principle
+- Discipline
 
 ---
 Competence is the foundation for professional effectiveness. It requires individuals and organisations to actively develop, demonstrate, and apply the skills, knowledge, and judgement necessary to deliver quality outcomes. Without competence, no framework, process, or tool can succeed.

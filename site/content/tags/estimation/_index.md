@@ -35,7 +35,7 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T16:50:17
 concepts:
-- Practice
+- Method
 
 ---
 Estimation is a critical practice in Agile and Scrum that enables teams to forecast the effort and time required to complete tasks or deliver features. By employing empirical data and collaborative techniques, estimation helps manage uncertainty and align stakeholder expectations, fostering a shared understanding of project scope and timelines. This practice is not merely about assigning numbers; it involves engaging the entire team in discussions that leverage collective knowledge and experience, which enhances accuracy and buy-in.

@@ -30,7 +30,7 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T17:04:41
 concepts:
-- Principle
+- Capability
 
 ---
 Decision making involves applying structured, evidence-based approaches to make informed business choices that drive organisational success. This concept is crucial as it empowers teams to evaluate options systematically, ensuring that decisions are not based on intuition alone but on data, analysis, and collective insights. By fostering a culture of informed decision making, organisations can enhance their ability to deliver value predictably and sustainably.

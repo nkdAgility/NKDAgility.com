@@ -33,7 +33,7 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T16:42:59
 concepts:
-- Principle
+- Artifact
 
 ---
 **Increment** refers to the **tangible, usable output** produced at the end of each iteration, especially in frameworks like **Scrum** and **Agile**. It represents the sum of all **completed work** during a Sprint, ensuring that the product is always potentially shippable and adds measurable value.

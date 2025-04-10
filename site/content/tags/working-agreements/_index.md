@@ -29,7 +29,7 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T12:55:36
 concepts:
-- Principle
+- Discipline
 
 ---
 Working agreements are essential norms and principles established by teams to enhance collaboration and effectiveness in their work. These agreements define how team members interact, communicate, and make decisions, fostering a shared understanding of expectations and responsibilities. By creating a clear framework for behaviour and engagement, working agreements enable teams to operate more cohesively, reducing misunderstandings and conflicts.

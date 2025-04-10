@@ -30,7 +30,7 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T13:48:15
 concepts:
-- Practice
+- Capability
 
 ---
 Technical debt refers to the implied cost of additional rework caused by choosing an easy, limited solution now instead of a better, more comprehensive approach that would take longer. It arises from various factors, including rushed development, lack of documentation, or outdated technology. Recognising and managing technical debt is crucial for teams aiming to deliver value predictably and sustainably. When technical debt accumulates, it can hinder a team's ability to innovate and respond to changing market demands, ultimately affecting product quality and delivery speed.

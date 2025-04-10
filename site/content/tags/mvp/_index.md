@@ -1,5 +1,5 @@
 ---
-title: MVP
+title: Minimum Viable Product
 ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false

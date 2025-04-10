@@ -30,7 +30,7 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T16:51:05
 concepts:
-- Principle
+- Capability
 
 ---
 Entrepreneurship within an organisational knowledge taxonomy embodies the spirit of innovation, risk-taking, and value-driven decision-making essential for thriving in dynamic markets. It empowers teams to identify opportunities, experiment with new ideas, and pivot quickly in response to feedback and changing conditions. This proactive mindset fosters a culture where creativity is encouraged, enabling teams to develop solutions that meet customer needs effectively.

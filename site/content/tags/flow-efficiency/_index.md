@@ -31,7 +31,7 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T16:46:33
 concepts:
-- Practice
+- Capability
 
 ---
 Flow efficiency refers to the optimisation of work throughput across the value stream, focusing on minimising waste and reducing bottlenecks. This concept is crucial for organisations aiming to deliver value predictably and sustainably, as it directly impacts the speed at which teams can respond to customer needs and market changes. By analysing and improving flow efficiency, teams can identify areas where delays occur, allowing for targeted interventions that enhance overall performance.

@@ -31,7 +31,7 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T13:09:42
 concepts:
-- Practice
+- Framework
 
 ---
 The Sprint Review is a critical event in the Scrum framework, designed to inspect the increment of work completed during the sprint and adapt the product backlog based on stakeholder feedback. This collaborative session involves the Scrum Team and key stakeholders, fostering transparency and open dialogue about the product's progress and direction. By showcasing the increment, teams can validate their work against the sprint goal, ensuring alignment with customer needs and expectations.

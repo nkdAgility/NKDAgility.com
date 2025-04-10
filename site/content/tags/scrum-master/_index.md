@@ -30,7 +30,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 concepts:
-- Accountability
+- Discipline
 
 ---
 The Scrum Master is an accountability in Scrum.
