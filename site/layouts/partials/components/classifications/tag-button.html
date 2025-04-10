@@ -2,8 +2,15 @@
 {{- $jsonData := .jsonData -}}
 {{- $class := default "btn btn-sm btn-secondary me-1" .buttonClass -}}
 {{- $categoryData := index $jsonData $term -}}
+{{ $termPage := false }}
+{{ range $taxonomy, $terms := site.Taxonomies }}
+  {{ $candidate := site.GetPage (printf "%s/%s" $taxonomy (urlize $term)) }}
+  {{ if and (not $termPage) $candidate }}
+    {{ $termPage = $candidate }}
+  {{ end }}
+{{ end }}
 {{- if $categoryData -}}
-  <a href="{{ printf "/resources/%s" ($term | urlize) | relURL }}" class="{{ $class }}" title="{{ $categoryData.reasoning }}&#10;&#10;Confidence: {{ $categoryData.final_score }}%&#10;Level: {{ $categoryData.level }}">
+  <a href="{{ printf "/resources/%s" ($term | urlize) | relURL }}" class="{{ $class }}" title="Classification: {{ $term }} {{ $termPage.Params.concepts }}&#10;&#10;Reason: {{ $categoryData.reasoning }}&#10;&#10;Confidence: {{ $categoryData.final_score }}%&#10;Level: {{ $categoryData.level }}">
     {{ $term }}
   </a>
 {{- else -}}
