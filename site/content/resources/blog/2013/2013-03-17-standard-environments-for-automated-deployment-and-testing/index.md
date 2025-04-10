@@ -44,10 +44,6 @@ tags:
 - Working Software
 - Platform Engineering
 - Deployment Strategies
-- Azure Pipelines
-- Frequent Releases
-- Windows
-- Deployment Frequency
 categories:
 - DevOps
 - Engineering Excellence

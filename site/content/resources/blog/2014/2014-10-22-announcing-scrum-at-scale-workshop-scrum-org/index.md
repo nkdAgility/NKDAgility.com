@@ -48,9 +48,6 @@ tags:
 - Agile Leadership
 - Agile Strategy
 - Change Management
-- Operational Practices
-- Team Performance
-- Value Delivery
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-2-2.png

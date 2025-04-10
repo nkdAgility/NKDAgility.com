@@ -48,15 +48,6 @@ tags:
 - Agile Leadership
 - Change Management
 - Coaching
-- Competence
-- Continuous Improvement
-- Continuous Learning
-- Operational Practices
-- Sociotechnical Systems
-- Value Delivery
-- Increment
-- Self Organisation
-- Product Delivery
 categories:
 - Scrum
 - Technical Leadership

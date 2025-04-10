@@ -48,8 +48,6 @@ tags:
 - Agile Strategy
 - Social Technologies
 - Sociotechnical Systems
-- Estimation
-- Team Performance
 categories:
 - Scrum
 - Product Management

@@ -41,11 +41,6 @@ tags:
 - Continuous Delivery
 - Pragmatic Thinking
 - Working Software
-- Continuous Learning
-- Business Agility
-- Continuous Improvement
-- Release Management
-- Enterprise Agility
 resourceTypes:
 - video
 sitemap:

@@ -48,16 +48,6 @@ tags:
 - Continuous Improvement
 - Azure Pipelines
 - Market Adaptability
-- Organisational Agility
-- Azure DevOps
-- Automated Testing
-- Business Agility
-- Digital Transformation
-- Enterprise Agility
-- Test Automation
-- Flow Efficiency
-- Throughput
-- Internal Developer Platform
 categories:
 - DevOps
 - Engineering Excellence

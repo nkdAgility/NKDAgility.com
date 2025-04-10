@@ -29,18 +29,6 @@ duration: 36
 isShort: true
 tags:
 - Software Development
-- Value Delivery
-- Ability to Innovate
-- Continuous Improvement
-- Operational Practices
-- Technical Debt
-- Product Delivery
-- Working Software
-- Organisational Agility
-- Agile Philosophy
-- Business Agility
-- Digital Transformation
-- Unrealised Value
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -48,8 +36,6 @@ resourceTypes:
 - video
 categories:
 - Product Development
-- Engineering Excellence
-- Technical Leadership
 
 ---
 Technical debt is often viewed through a narrow lens, primarily as a cost that accumulates over time. However, I believe it’s crucial to shift our perspective and recognise it as a missed opportunity. Every moment we allow technical debt to linger, we’re essentially leaving money on the table. This isn’t just about the financial implications; it’s about the potential innovations and improvements we forgo because we haven’t addressed those underlying issues.

@@ -30,22 +30,6 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Value Delivery
-- Organisational Agility
-- Software Development
-- Social Technologies
-- Team Collaboration
-- Sociotechnical Systems
-- Team Performance
-- Agile Frameworks
-- Agile Philosophy
-- Agile Product Management
-- Agile Strategy
-- Business Agility
-- Continuous Improvement
-- Operational Practices
-- Project Management
-- Working Software
-- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -53,8 +37,6 @@ resourceTypes:
 - video
 categories:
 - Product Development
-- Product Management
-- Technical Leadership
 
 ---
 Building a high-performance delivery engine within an organisation is no small feat. From my experience, it requires a deep understanding of various contexts and a level of competence that is often underestimated. Many organisations focus primarily on technical skills, but to truly excel in software delivery, we need to broaden our perspective.

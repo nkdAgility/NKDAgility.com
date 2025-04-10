@@ -33,13 +33,6 @@ sitemap:
   priority: 0.6
 tags:
 - Scaling
-- Enterprise Agility
-- Large Scale Agility
-- Operational Practices
-- Organisational Agility
-- Pragmatic Thinking
-- Social Technologies
-- Software Development
 resourceTypes:
 - video
 categories:

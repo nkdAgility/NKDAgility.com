@@ -31,14 +31,6 @@ tags:
 - Working Software
 - Engineering Practices
 - Product Delivery
-- Modern Source Control
-- Experimentation
-- Operational Practices
-- Organisational Agility
-- Pragmatic Thinking
-- Shift-Left Strategy
-- Technical Mastery
-- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -46,7 +38,6 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
-- DevOps
 
 ---
 # Code reviews for quality assurance | Martin Hinshelwood  

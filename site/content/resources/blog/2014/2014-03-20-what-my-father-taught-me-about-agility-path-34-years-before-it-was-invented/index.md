@@ -48,11 +48,6 @@ tags:
 - Agile Transformation
 - Enterprise Agility
 - Lead Time
-- Social Technologies
-- Competence
-- Sensemaking
-- Business Agility
-- Change Management
 categories:
 - Product Management
 - Scrum

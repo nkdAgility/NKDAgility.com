@@ -52,8 +52,6 @@ tags:
 - Technical Mastery
 - Test Automation
 - Test First Development
-- Engineering Practices
-- Modern Source Control
 categories: []
 preview: metro-event-icon-7-7.png
 

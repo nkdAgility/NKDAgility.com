@@ -44,12 +44,6 @@ tags:
 - Increment
 - Agile Product Management
 - Agile Transformation
-- Business Agility
-- Continuous Integration
-- Throughput
-- Trend Analysis
-- Application Lifecycle Management
-- Technical Mastery
 categories:
 - Engineering Excellence
 - DevOps

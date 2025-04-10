@@ -44,10 +44,6 @@ tags:
 - Product Owner
 - Operational Practices
 - Empirical Process Control
-- Value Delivery
-- Backlog Refinement
-- Competence
-- Social Technologies
 categories:
 - Scrum
 - Product Management

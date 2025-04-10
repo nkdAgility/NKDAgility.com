@@ -47,8 +47,6 @@ tags:
 - Product Discovery
 - Product Validation
 - Value Delivery
-- Lean Startup
-- MVP
 resourceTypes:
 - video
 categories:

@@ -33,17 +33,6 @@ tags:
 - Value Delivery
 - Working Software
 - Azure Pipelines
-- Automated Testing
-- Azure DevOps
-- Pragmatic Thinking
-- Sociotechnical Systems
-- Technical Mastery
-- Application Lifecycle Management
-- Competence
-- Operational Practices
-- Agile Philosophy
-- Continuous Delivery
-- Continuous Improvement
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -51,8 +40,6 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
-- Technical Leadership
-- Product Development
 
 ---
 # Building a culture of quality | Martin Hinshelwood  

@@ -29,30 +29,11 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Ability to Innovate
-- Agile Philosophy
-- Agile Strategy
-- Organisational Agility
-- Pragmatic Thinking
-- Business Agility
-- Scaling
-- Social Technologies
-- Agile Transformation
-- Agile Values and Principles
-- Beta Codex
-- Enterprise Agility
-- Organisational Change
-- Organisational Culture
-- Self Organisation
-- Sociotechnical Systems
-- Value Delivery
-- Market Adaptability
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Product Development
+categories: []
 
 ---
 When I think about scaling teams, I often hear the sentiment that more teams should equate to more innovation. It seems logical, doesn’t it? However, in my experience, the reality is often quite different. Instead of fostering creativity and agility, scaling can lead to a quagmire of processes, endless meetings, and frustrating bottlenecks. Before you know it, you’re drowning in bureaucracy, and the very essence of innovation is stifled.

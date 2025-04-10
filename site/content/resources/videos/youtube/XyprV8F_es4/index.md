@@ -39,16 +39,6 @@ tags:
 - Organisational Culture
 - Sociotechnical Systems
 - Value Delivery
-- Continuous Delivery
-- Competence
-- Continuous Improvement
-- Digital Transformation
-- Social Technologies
-- Frequent Releases
-- Operational Practices
-- Organisational Physics
-- Team Collaboration
-- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -57,8 +47,6 @@ resourceTypes:
 - video
 categories:
 - Leadership
-- DevOps
-- Product Development
 
 ---
 In my journey through various organisations, I've come to realise that leadership plays a pivotal role in driving cultural and organisational change. This change is essential for supporting frequent and reliable deployments across multiple teams. Today, I want to share some insights on how leaders can effectively facilitate this transformation, drawing from my experiences and observations.

@@ -30,10 +30,6 @@ tags:
 - Technical Debt
 - Pragmatic Thinking
 - Software Development
-- Scaling
-- Operational Practices
-- Technical Excellence
-- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,8 +38,6 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
-- DevOps
-- Technical Leadership
 
 ---
 Scaling without managing technical debt is a recipe for disaster. I’ve seen it time and again in my journey through various organisations. Technical debt can be a silent killer, gradually slowing everything down until it becomes a major blocker. Every quick fix or shortcut we take may seem harmless at first, but as we scale, those seemingly minor decisions can snowball into significant issues. 

@@ -48,18 +48,6 @@ tags:
 - Agile Leadership
 - Agile Strategy
 - Agile Values and Principles
-- Scrum Values
-- Agile Frameworks
-- Agile Product Management
-- Cross Functional Teams
-- Operational Practices
-- Market Adaptability
-- Organisational Physics
-- Product Delivery
-- Self Organisation
-- Value Delivery
-- Organisational Psychology
-- Employee Engagement
 categories:
 - Leadership
 - Technical Leadership

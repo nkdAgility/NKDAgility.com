@@ -44,7 +44,6 @@ tags:
 - Azure DevOps
 - Automated Testing
 - Continuous Improvement
-- Increment
 categories:
 - Engineering Excellence
 - DevOps

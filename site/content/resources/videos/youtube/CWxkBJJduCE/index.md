@@ -31,18 +31,13 @@ tags:
 - Technical Mastery
 - Test Driven Development
 - Technical Excellence
-- Test First Development
-- Pragmatic Thinking
-- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Engineering Excellence
-- Product Development
+categories: []
 
 ---
 When I reflect on my journey through software development, one principle stands out: test-driven development (TDD) is not merely about writing better code; it’s fundamentally about crafting superior architectures. This distinction is crucial, and I want to share my insights on how TDD and pair programming can transform our approach to software design.

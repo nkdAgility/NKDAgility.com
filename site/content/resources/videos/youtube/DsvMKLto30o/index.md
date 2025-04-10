@@ -34,19 +34,6 @@ tags:
 - Frequent Releases
 - Operational Practices
 - Product Delivery
-- Azure DevOps
-- Business Agility
-- Digital Transformation
-- Organisational Agility
-- Value Delivery
-- Working Software
-- Deployment Frequency
-- Flow Efficiency
-- Market Adaptability
-- Technical Debt
-- Technical Mastery
-- Agile Philosophy
-- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -55,7 +42,6 @@ resourceTypes:
 categories:
 - Engineering Excellence
 - Product Development
-- DevOps
 
 ---
 I recently penned a post titled "Stop Hiding Behind Complexity and Start Delivering Continuously," and I want to expand on that idea here. The crux of my argument is straightforward: if anyone in your organisation claims that your software is too big or too complex for continuous delivery, they are either lying, being lazy, or simply don’t know how to make it happen. More often than not, it’s the latter—they just don’t understand how to transition from their outdated, cumbersome systems to a more agile, continuous delivery model.

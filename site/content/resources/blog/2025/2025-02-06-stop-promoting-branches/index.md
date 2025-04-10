@@ -39,8 +39,6 @@ tags:
 - Product Delivery
 - Working Software
 - Frequent Releases
-- Continuous Improvement
-- Time to Market
 categories:
 - Engineering Excellence
 - DevOps

@@ -44,16 +44,6 @@ tags:
 - Competence
 - Empirical Process Control
 - Metrics and Learning
-- Release Management
-- Team Performance
-- Evidence Based Leadership
-- Evidence Based Management
-- Product Backlog
-- Test Automation
-- Forecasting
-- Increment
-- Sociotechnical Systems
-- Deployment Frequency
 categories:
 - Engineering Excellence
 - DevOps

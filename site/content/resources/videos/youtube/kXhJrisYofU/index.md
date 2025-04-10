@@ -33,19 +33,6 @@ tags:
 - Market Adaptability
 - Enterprise Agility
 - Agile Strategy
-- Agile Product Management
-- Agile Philosophy
-- Agile Values and Principles
-- Decision Making
-- Evidence Based Management
-- Organisational Change
-- Product Delivery
-- Unrealised Value
-- Continuous Improvement
-- Decision Theory
-- Evidence Based Leadership
-- Social Technologies
-- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -53,8 +40,6 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- Product Development
-- Scrum
 
 ---
 In the world of traditional budgeting, we often find ourselves entrenched in a cycle that feels more like a battleground than a strategic planning session. Each year, we gather around the table, armed with our spreadsheets and projections, ready to fight for our share of the budget pie. It’s a familiar scene: departments squabbling over funds, each vying for the largest slice, knowing that if they don’t spend their allocated budget, they risk losing it the following year. 

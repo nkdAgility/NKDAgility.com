@@ -48,8 +48,6 @@ tags:
 - Mentoring
 - Team Motivation
 - Organisational Agility
-- Scrum Values
-- Continuous Learning
 categories:
 - Scrum
 - Technical Leadership

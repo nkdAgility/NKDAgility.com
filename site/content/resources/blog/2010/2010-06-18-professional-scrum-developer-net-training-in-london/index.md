@@ -48,10 +48,6 @@ tags:
 - Cross Functional Teams
 - Competence
 - Test Driven Development
-- Continuous Integration
-- Agile Product Management
-- Agile Planning Tools
-- Value Delivery
 categories:
 - Scrum
 - Engineering Excellence

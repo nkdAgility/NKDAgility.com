@@ -28,11 +28,6 @@ duration: 40
 isShort: true
 tags:
 - Competence
-- Continuous Improvement
-- Software Development
-- Ability to Innovate
-- Organisational Agility
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -40,7 +35,6 @@ resourceTypes:
 - video
 categories:
 - Technical Leadership
-- Engineering Excellence
 
 ---
 In my journey through the world of software development, one truth has become abundantly clear: we must cultivate a culture of engineering excellence. This isn’t just a lofty ideal; it’s a necessity for any organisation that aspires to thrive in today’s fast-paced technological landscape. 

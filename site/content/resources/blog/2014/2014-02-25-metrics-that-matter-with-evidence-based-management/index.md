@@ -44,16 +44,6 @@ tags:
 - Enterprise Agility
 - Throughput
 - Agile Transformation
-- Business Agility
-- Agile Product Management
-- Agile Strategy
-- Agile Frameworks
-- Agile Product Operating Model
-- Azure DevOps
-- Decision Theory
-- Social Technologies
-- Organisational Physics
-- Competence
 categories:
 - Engineering Excellence
 - Product Management

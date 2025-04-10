@@ -35,11 +35,6 @@ sitemap:
   priority: 0.6
 tags:
 - Systems Thinking
-- Continuous Improvement
-- Social Technologies
-- Common Goals
-- Project Management
-- Organisational Physics
 resourceTypes:
 - video
 categories: []

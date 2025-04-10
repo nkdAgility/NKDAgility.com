@@ -52,8 +52,6 @@ tags:
 - Common Goals
 - Continuous Improvement
 - Agile Strategy
-- Continuous Delivery
-- Scrum Team
 categories:
 - Scrum
 - Engineering Excellence

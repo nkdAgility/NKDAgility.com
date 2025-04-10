@@ -48,9 +48,6 @@ tags:
 - Azure Repos
 - Continuous Integration
 - Deployment Frequency
-- Frequent Releases
-- Engineering Practices
-- Modern Source Control
 categories:
 - Engineering Excellence
 - DevOps

@@ -26,20 +26,13 @@ aliasesArchive:
 preview: https://i9.ytimg.com/vi/jKXc6hByR_k/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLC_neJQ7HQOO8CRb5RGMzl5ZAqXnA
 duration: 172
 isShort: false
-tags:
-- Software Development
-- Value Delivery
-- Pragmatic Thinking
-- Working Software
-- Competence
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
-- Product Management
+categories: []
 
 ---
 If you’re looking to build teams and an organisation that can deliver the highest possible value for your investment, then Naked Agility is here to help. Whether you’re a team member immersed in engineering practices or a CTO or CEO grappling with hypothesis-driven methodologies, we can provide the coaching and advice you need to maximise your return on investment.

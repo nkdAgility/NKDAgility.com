@@ -32,15 +32,6 @@ tags:
 - Shift-Left Strategy
 - Technical Mastery
 - Technical Excellence
-- Customer Satisfaction
-- Customer Feedback Loops
-- Azure DevOps
-- Engineering Practices
-- Pragmatic Thinking
-- Experimentation
-- Value Delivery
-- Operational Practices
-- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -48,8 +39,6 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
-- Technical Leadership
-- Product Management
 
 ---
 # Performance Engineering and Testing in Production: A Modern Approach | Martin Hinshelwood  

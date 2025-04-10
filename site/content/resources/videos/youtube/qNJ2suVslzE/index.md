@@ -40,12 +40,6 @@ tags:
 - Agile Philosophy
 - Agile Transformation
 - Working Software
-- Agile Frameworks
-- Lean Product Development
-- Empirical Process Control
-- Agile Product Operating Model
-- Product Owner
-- Agnostic Agile
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -54,7 +48,6 @@ resourceTypes:
 categories:
 - Product Development
 - Product Management
-- Scrum
 
 ---
 If you're grappling with scope creep, you're not alone. It's a common challenge that many teams face, and often, it stems from relying on outdated practices and philosophies that were designed for a world of low variance. In environments where change is minimal, creating a detailed plan or Gantt chart seems effective. You can run the plan, manage risks, and feel in control. However, when the variance—the gap between your expectations and reality—exceeds 50%, those traditional tools start to falter, leading to the dreaded scope creep.

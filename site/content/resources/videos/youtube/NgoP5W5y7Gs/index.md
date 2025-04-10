@@ -29,15 +29,6 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Product Delivery
-- Azure DevOps
-- Competence
-- Technical Excellence
-- Working Software
-- Engineering Practices
-- Continuous Improvement
-- Digital Transformation
-- Operational Practices
-- Test First Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

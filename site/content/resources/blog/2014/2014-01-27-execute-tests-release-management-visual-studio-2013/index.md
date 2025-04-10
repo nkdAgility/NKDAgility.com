@@ -48,7 +48,6 @@ tags:
 - Frequent Releases
 - Pragmatic Thinking
 - System Configuration
-- Technical Mastery
 categories:
 - Engineering Excellence
 - DevOps

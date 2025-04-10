@@ -27,8 +27,6 @@ card:
   title: Metrics and Reports
 categories:
 - Product Management
-- Engineering Excellence
-- Kanban
 tags:
 - Operational Practices
 - Metrics and Learning
@@ -39,17 +37,6 @@ tags:
 - Product Delivery
 - Value Delivery
 - Team Performance
-- Continuous Improvement
-- Empirical Process Control
-- Pragmatic Thinking
-- Software Development
-- Working Software
-- Throughput
-- Cycle Time
-- Deployment Frequency
-- Ability to Innovate
-- Agile Product Management
-- Agile Product Operating Model
 
 ---
 In order to understand how your team is doing we need to have metrics that we can monitor across all of [Company]. There are two focuses of this work, first is the Product/Project/Organisation focus and second is the Team focus.

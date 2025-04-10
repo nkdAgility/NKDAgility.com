@@ -34,13 +34,6 @@ tags:
 - Engineering Practices
 - Working Software
 - Pragmatic Thinking
-- Operational Practices
-- Product Delivery
-- Azure DevOps
-- Competence
-- Continuous Delivery
-- Continuous Improvement
-- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -48,8 +41,6 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
-- DevOps
-- Product Development
 
 ---
 # Technical Debt Management for Long-Term Quality | Martin Hinshelwood  

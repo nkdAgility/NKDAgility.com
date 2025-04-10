@@ -35,9 +35,6 @@ tags:
 - Pragmatic Thinking
 - Working Software
 - Product Delivery
-- Competence
-- Shift-Left Strategy
-- Flow Efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

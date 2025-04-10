@@ -34,18 +34,6 @@ tags:
 - Competence
 - Pragmatic Thinking
 - Team Performance
-- Agile Philosophy
-- Agile Transformation
-- Agile Product Management
-- Coaching
-- Continuous Learning
-- Self Organisation
-- Sociotechnical Systems
-- Agile Leadership
-- Agile Planning
-- Agile Values and Principles
-- Mentoring
-- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -55,7 +43,6 @@ resourceTypes:
 categories:
 - Scrum
 - Product Development
-- Technical Leadership
 
 ---
 When it comes to the role of a Scrum Master, there are a plethora of misconceptions that can cloud our understanding of what this position truly entails. Having navigated the complexities of Scrum and Agile for many years, I’ve seen firsthand how these misunderstandings can lead to dysfunction within teams and organisations. Today, I want to share my insights on the true accountabilities of a Scrum Master and how we can move beyond the common pitfalls.

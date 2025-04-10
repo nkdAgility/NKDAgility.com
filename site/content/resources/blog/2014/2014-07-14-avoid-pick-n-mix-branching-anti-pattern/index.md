@@ -48,8 +48,6 @@ tags:
 - Continuous Integration
 - Frequent Releases
 - Flow Efficiency
-- Decision Making
-- Value Delivery
 categories:
 - Engineering Excellence
 - DevOps

@@ -45,15 +45,6 @@ tags:
 - Product Delivery
 - Sociotechnical Systems
 - Scrum Master
-- Value Delivery
-- Common Goals
-- Operational Practices
-- Pragmatic Thinking
-- Strategic Goals
-- Working Software
-- Business Agility
-- Enterprise Agility
-- Mentoring
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -44,9 +44,6 @@ tags:
 - Value Delivery
 - Technical Debt
 - Agile Product Management
-- Competence
-- Market Adaptability
-- Test Automation
 categories:
 - Engineering Excellence
 - DevOps

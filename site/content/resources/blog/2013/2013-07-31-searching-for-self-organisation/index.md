@@ -44,15 +44,6 @@ tags:
 - Organisational Change
 - Software Development
 - Agile Leadership
-- Organisational Physics
-- Organisational Psychology
-- Agile Frameworks
-- Agile Product Management
-- Agile Strategy
-- Continuous Improvement
-- Sensemaking
-- Personal
-- Employee Engagement
 categories:
 - Leadership
 - Scrum

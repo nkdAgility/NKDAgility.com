@@ -44,12 +44,6 @@ tags:
 - Operational Practices
 - Product Delivery
 - Value Delivery
-- Agile Frameworks
-- Ability to Innovate
-- Agile Transformation
-- Evidence Based Management
-- Working Software
-- Agile Planning
 resourceTypes:
 - video
 categories:

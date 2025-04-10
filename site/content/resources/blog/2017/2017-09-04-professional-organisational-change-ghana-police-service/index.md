@@ -48,14 +48,6 @@ tags:
 - Organisational Psychology
 - Agile Philosophy
 - Coaching
-- Continuous Improvement
-- Large Scale Agility
-- Operational Practices
-- Professional Scrum
-- Scrum Master
-- Social Technologies
-- Value Delivery
-- Sensemaking
 categories:
 - Leadership
 - Scrum

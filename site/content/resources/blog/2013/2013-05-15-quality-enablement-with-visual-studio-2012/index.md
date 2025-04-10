@@ -44,18 +44,6 @@ tags:
 - Agile Strategy
 - Continuous Integration
 - Cycle Time
-- Digital Transformation
-- Test First Development
-- Competence
-- Deployment Frequency
-- Test Automation
-- Azure DevOps
-- Ability to Innovate
-- Agile Philosophy
-- Behaviour Driven Development
-- Business Agility
-- Metrics and Learning
-- Organisational Agility
 categories:
 - Engineering Excellence
 - DevOps

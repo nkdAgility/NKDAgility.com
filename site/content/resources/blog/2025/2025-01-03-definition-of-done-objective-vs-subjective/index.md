@@ -40,10 +40,6 @@ tags:
 - Agile Frameworks
 - Competence
 - Team Performance
-- Empirical Process Control
-- Scrum Team
-- Technical Excellence
-- Agile Philosophy
 categories:
 - Scrum
 - Product Management

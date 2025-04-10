@@ -61,13 +61,6 @@ tags:
 - Scrum Team
 - Self Organisation
 - Sensemaking
-- Software Development
-- Team Collaboration
-- Team Performance
-- Transparency
-- Value Delivery
-- Social Technologies
-- Competence
 categories:
 - Scrum
 - Technical Leadership

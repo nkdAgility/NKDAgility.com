@@ -32,19 +32,6 @@ tags:
 - Scrum Team
 - Team Performance
 - Professional Scrum
-- Product Delivery
-- Agile Frameworks
-- Agile Transformation
-- Agile Planning
-- Agile Product Management
-- Mentoring
-- Organisational Agility
-- Sociotechnical Systems
-- Value Delivery
-- Working Software
-- Operational Practices
-- Agile Leadership
-- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -54,7 +41,6 @@ resourceTypes:
 categories:
 - Scrum
 - Product Development
-- Technical Leadership
 
 ---
 When I reflect on my experiences as a Scrum Master, one thing becomes abundantly clear: the effectiveness of a Scrum Master hinges on their understanding of the philosophies, theories, and practices relevant to the team they support. Without this foundational knowledge, the impact on both the team and the organisation can be profound. 

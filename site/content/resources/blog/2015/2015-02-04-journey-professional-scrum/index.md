@@ -48,14 +48,6 @@ tags:
 - Agile Strategy
 - Market Adaptability
 - Organisational Culture
-- Personal
-- Team Performance
-- Application Lifecycle Management
-- Digital Transformation
-- Organisational Change
-- Scrum Master
-- Social Technologies
-- Team Collaboration
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-5-5.png
