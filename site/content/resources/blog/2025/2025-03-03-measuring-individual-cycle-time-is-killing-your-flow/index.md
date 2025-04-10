@@ -27,16 +27,21 @@ categories:
 - DevOps
 - Engineering Excellence
 tags:
-- Throughput
 - Flow Efficiency
 - Operational Practices
-- People and Process
 - Cycle Time
+- Throughput
 - Metrics and Learning
 - Value Delivery
 - Value Stream Management
 - Agile Project Management
 - Systems Thinking
+- Lean Principles
+- Software Development
+- Pragmatic Thinking
+- Lean
+- Lean Thinking
+- Organisational Physics
 
 ---
 Looking at cycle time for an individual is a fundamental misunderstanding of how flow works in a system—unless the individual is the system. And here is why!

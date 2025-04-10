@@ -27,11 +27,16 @@ preview: https://i.ytimg.com/vi/bHwgZ_Cx99U/maxresdefault.jpg
 duration: 76
 isShort: false
 tags:
-- People and Process
+- Scaling
 - Value Delivery
-- Scaling Agility
 - Organisational Agility
 - Team Collaboration
+- Product Development
+- Operational Practices
+- Pragmatic Thinking
+- Team Performance
+- Technical Debt
+- Continuous Improvement
 sitemap:
   filename: sitemap.xml
   priority: 0.6

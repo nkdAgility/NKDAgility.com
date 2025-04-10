@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:14:01",
+    "calculated_at": "2025-04-10T11:59:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses product validation and its importance in ensuring market fit and customer value, but it does not explicitly address accountability as a structural concept. While it touches on themes of collaboration and informed decision-making, it lacks a clear focus on defined accountabilities or ownership of outcomes within a system of work. The discussion is more centred on product development processes rather than the accountability framework in Agile, Scrum, or DevOps.",
+    "reasoning": "The content discusses product validation and its importance in ensuring market fit and customer value, but it does not explicitly address accountability as a foundational mechanism in work systems. While it touches on themes of collaboration and informed decision-making, it lacks a clear focus on outcome ownership or the structural accountabilities within roles like Product Owner or Scrum Master. The discussion is more about the validation process rather than the accountability framework that supports it.",
     "level": "Ignored"
   },
   "Framework": {
@@ -165,6 +165,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses product validation and its importance in ensuring market fit and customer value, but it does not explicitly mention specific artifacts such as Product Backlog or Sprint Backlog. While it aligns with Agile and Lean principles, the focus is more on the validation process rather than on the artifacts themselves. The discussion lacks depth regarding the structure and role of artifacts, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:51:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on product validation, which is not directly related to the concept of discipline. While it discusses the importance of systematic practices and methodologies, it does not explicitly mention discipline as a category. The alignment with core themes of discipline is moderate, as it touches on structured approaches and continuous improvement, but lacks depth in discussing discipline itself. Overall, the content provides a reasonable amount of detail on product validation but does not delve deeply into the concept of discipline.",
     "level": "Ignored"
   }
 }

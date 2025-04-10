@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:39:28",
+    "calculated_at": "2025-04-10T12:00:29",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses lead time as a metric in agile and DevOps environments, which indirectly relates to accountability through the lens of efficiency and value delivery. However, it does not explicitly address defined accountabilities, ownership of outcomes, or the structural concept of accountability as outlined in the category definition. The focus is more on process optimisation and performance metrics rather than on who owns the outcomes in a system of work.",
+    "reasoning": "The content discusses Lead Time as a metric for measuring efficiency and value delivery, which indirectly relates to accountability in terms of outcome ownership. However, it does not explicitly address accountability structures, roles, or the distinctions between accountability and responsibility. The focus is more on metrics and process optimisation rather than on the foundational mechanisms of accountability in work systems.",
     "level": "Ignored"
   },
   "Framework": {
@@ -165,6 +165,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses lead time as a metric in Agile, Lean, and DevOps environments, but it does not explicitly focus on artifacts as formal representations of work. While it touches on concepts related to efficiency and decision-making, it lacks direct references to specific artifacts like Product Backlog or Sprint Backlog. The discussion is more about the metric itself rather than the structure or role of artifacts, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:52:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the concept of Lead Time as a metric for measuring workflow efficiency, which indirectly relates to discipline in terms of process management and improvement. However, it does not explicitly discuss discipline as a primary theme, leading to a lower confidence score. The content aligns with the core themes of discipline through its emphasis on continuous improvement and empirical decision-making, but lacks depth in discussing discipline itself.",
     "level": "Ignored"
   }
 }

@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:40:23",
+    "calculated_at": "2025-04-10T12:00:31",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 50.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses Large Scale Agility and its impact on organisational transformation, but it does not explicitly mention accountability or the specific roles and responsibilities within Agile frameworks. While it touches on themes of collaboration and alignment, it lacks a focused exploration of how defined accountabilities improve transparency and outcome ownership, which are central to the category of Accountability.",
+    "reasoning": "The content discusses Large Scale Agility and its benefits for organisations, but it does not explicitly address accountability as a foundational mechanism. While it touches on themes of collaboration and alignment, it lacks a clear focus on outcome ownership or specific roles related to accountability, such as Product Owners or Scrum Masters. The discussion is more about agile practices and systemic change rather than the structural accountabilities that influence performance and adaptation.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses Large Scale Agility and its benefits for organisations but does not explicitly mention specific artifacts or their roles in Agile, Scrum, or Lean. While it touches on themes of transparency and collaboration, it lacks a focused exploration of artifacts as formal representations of work, which is essential for a higher confidence score in this category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:52:37",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses Large Scale Agility, which involves principles of discipline in organisational practices. While it does not explicitly mention 'discipline', it aligns with the core themes of structured approaches and systemic change, which are essential for maintaining discipline in agile practices. The depth of discussion is significant, detailing frameworks and benefits, but the direct mention of 'discipline' is minimal.",
+    "level": "Tertiary"
   }
 }

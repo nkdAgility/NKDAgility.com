@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:33:09",
+    "calculated_at": "2025-04-10T12:00:12",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
     "final_score": 11.0,
-    "reasoning": "The content primarily focuses on market share and competitive advantage, with no explicit discussion of accountability as a structural concept. While it touches on themes of alignment and responsiveness in agile environments, it does not address defined accountabilities, ownership of outcomes, or the impact of misaligned accountabilities, which are central to the category of accountability.",
+    "reasoning": "The content primarily focuses on market share and competitive advantage, with no direct mention of accountability or its structural role in work systems. While it touches on themes of value delivery and responsiveness, these are not explicitly tied to accountability or outcome ownership, which are central to the category.",
     "level": "Ignored"
   },
   "Framework": {
@@ -165,6 +165,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on market share as a metric for competitive advantage, with no direct mention of artifacts in Agile, Scrum, or Lean. While it touches on themes of value delivery and adaptability, it does not explore the structure, purpose, or role of specific artifacts, nor does it provide any best practices or discussions related to managing artifacts.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:52:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses market share and its implications for competitive advantage, which is somewhat tangential to the concept of discipline. While it mentions the importance of aligning product development with customer needs and fostering a culture of responsiveness, it does not explicitly focus on discipline as a primary theme. The discussion lacks depth in terms of specific disciplinary practices or frameworks, leading to a moderate confidence score.",
     "level": "Ignored"
   }
 }

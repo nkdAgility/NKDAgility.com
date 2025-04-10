@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:21:01",
+    "calculated_at": "2025-04-10T12:02:36",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses decentralised organisational design and agility but lacks explicit references to accountability as a structural concept. While it touches on themes of collaboration and transparency, it does not clearly define accountabilities or discuss ownership of outcomes in a system of work, which are central to the accountability category.",
+    "reasoning": "The content discusses decentralised organisational design and agility, which indirectly relates to accountability through empowerment and team decision-making. However, it lacks explicit mentions of accountability structures or roles, and the depth of discussion on outcome ownership is minimal.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses the Beta Codex as a framework for organisational design, focusing on decentralisation and agility. However, it does not explicitly mention specific artifacts or their roles in Agile, Scrum, or Lean methodologies. While it touches on themes of collaboration and transparency, it lacks a direct focus on tangible artifacts or their management, which are central to the 'Artifact' category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:55:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses organisational design and agility, which are related to discipline in terms of structure and processes. However, while it mentions decentralisation and adaptability, it does not explicitly focus on discipline as a primary theme. The depth of discussion on how these concepts relate to discipline is moderate, leading to a relatively high confidence score but not overwhelmingly so.",
+    "level": "Secondary"
   }
 }

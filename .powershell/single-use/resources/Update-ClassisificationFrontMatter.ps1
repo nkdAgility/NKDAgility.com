@@ -37,7 +37,36 @@ foreach ($type in $distinctClassificationTypes) {
 }
 $classificationPeers | ConvertTo-Json -Depth 5 | Set-Content -Path ".\.resources\classificationPeers.json" -Encoding UTF8
 
+######################################################
 
+$classificationHierarchy = @{}
+$concepts = $hugoMarkdownList | Where-Object {
+    $_.FrontMatter.ClassificationType -in @('concepts')
+}
+
+foreach ($concept in $concepts) {
+    $conceptName = $concept.FrontMatter.title  # This assumes the "Title" field is set correctly for each item
+    # Ensure that the concept exists in the structure
+    if (-not $classificationHierarchy.ContainsKey($conceptName)) {
+        $classificationHierarchy[$conceptName] = @{
+            "tags"       = @()
+            "categories" = @()
+        }
+    }
+    $items = $hugoMarkdownList | Where-Object {
+        $_.FrontMatter.concepts -ne $null -and $_.FrontMatter.concepts.Contains($conceptName)
+    }    
+    foreach ($item in $items) {
+        $classificationType = $item.FrontMatter.ClassificationType  # This assumes the "ClassificationType" field is set correctly for each item
+        $classificationHierarchy[$conceptName].$classificationType += $item.FrontMatter.title
+    }       
+    
+}
+
+# Convert the resulting hierarchical structure into JSON format and write to file
+$classificationHierarchy | ConvertTo-Json -Depth 5 | Set-Content -Path ".\.resources\classificationHierarchy.json" -Encoding UTF8
+
+########################################
 
 
 $ResourceCatalogue = @{};

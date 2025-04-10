@@ -32,16 +32,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scaling
 - Large Scale Agility
-- Scaled Agile
-- Scaling Scrum
 - Pragmatic Thinking
 - Agile Frameworks
-- Scaling Agility
 - Agile Project Management
 - Enterprise Agility
 - Agile Strategy
 - Software Development
+- Product Development
+- Agile Transformation
+- Organisational Agility
+- Agile Planning
+- Agile Product Management
+- Business Agility
+- Value Delivery
 resourceTypes:
 - video
 categories: []

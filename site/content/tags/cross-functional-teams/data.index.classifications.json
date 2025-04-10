@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:10:03",
+    "calculated_at": "2025-04-10T12:02:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses Cross Functional Teams and their role in delivering value, but it does not explicitly address accountability as a structural concept. While it touches on collaboration and alignment, it lacks a focus on defined accountabilities, ownership of outcomes, or the distinction between accountability and responsibility. The discussion is more about team dynamics and efficiency rather than the structural clarity of accountability in Agile or Scrum contexts.",
+    "reasoning": "The content discusses Cross Functional Teams and their role in delivering value, but it does not explicitly address accountability as a foundational mechanism. While it touches on collaboration and alignment, it lacks a focus on outcome ownership or specific roles related to accountability, which are central to the category.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 22.0,
     "reasoning": "The content discusses Cross Functional Teams and their role in Agile, Lean, and DevOps environments, but it does not explicitly mention artifacts or their specific types. While it touches on themes of collaboration and value delivery, it lacks a direct focus on the structure and purpose of artifacts as defined in the category. The depth of discussion is moderate, but it does not delve into the management or evolution of artifacts, which is crucial for a higher confidence score.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:54:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses Cross Functional Teams, which are essential in Agile methodologies and relate to the concept of discipline in terms of structured collaboration and skill integration. However, while it touches on the importance of diverse skills and teamwork, it does not explicitly focus on discipline as a primary theme. The discussion is more about team dynamics and processes rather than the concept of discipline itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

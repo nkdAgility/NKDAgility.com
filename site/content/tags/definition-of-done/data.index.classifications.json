@@ -13,15 +13,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:03:01",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-04-10T12:01:38",
+    "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses the Definition of Done (DoD) and its role in ensuring transparency and quality in product increments. While it touches on accountability by emphasising the need for a shared understanding of what 'done' means and the importance of adhering to a minimum quality standard, it does not explicitly define accountability in the context of Scrum roles or organisational design patterns. The discussion is somewhat aligned with the category, but it lacks depth in exploring the structural concept of accountability as distinct from task ownership or decision authority.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) as a mechanism for ensuring quality and transparency in work increments, which indirectly relates to accountability by clarifying what constitutes a 'Done' product. However, it does not explicitly address accountability as a structural construct or discuss roles like Product Owner or Scrum Master. The focus is more on quality standards and processes rather than on ownership of outcomes, which is central to the accountability category.",
+    "level": "Secondary"
   },
   "Framework": {
     "category": "Framework",
@@ -166,5 +166,17 @@
     "final_score": 88.0,
     "reasoning": "The content focuses extensively on the Definition of Done (DoD) as a key artifact in Agile practices, detailing its structure, purpose, and role in ensuring transparency and quality. It discusses how the DoD serves as a formal representation of work, aligning teams on what constitutes a completed product increment. The content provides a thorough exploration of the DoD, including organisational and team-specific criteria, validation processes, and the importance of empirical decision-making, which aligns closely with the core themes of the 'Artifact' category. The depth of discussion is significant, covering various aspects of the DoD and its implications for Agile practices.",
     "level": "Primary"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:54:26",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the Definition of Done (DoD), which is a critical aspect of maintaining discipline in project management and software development. It directly mentions the DoD multiple times, outlining its importance in ensuring quality and transparency. The discussion aligns well with the core themes of discipline, such as adherence to standards and continuous improvement. Furthermore, the depth of the content is significant, providing detailed criteria and processes for implementing the DoD, which reinforces the commitment to discipline in delivering high-quality increments.",
+    "level": "Secondary"
   }
 }

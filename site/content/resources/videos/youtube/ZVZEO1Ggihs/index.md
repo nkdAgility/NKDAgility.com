@@ -32,16 +32,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
+- Scaling
 - Agile Leadership
 - Large Scale Agility
-- Scaling Agility
 - Enterprise Agility
 - Organisational Agility
 - Organisational Culture
-- Scaled Agile
 - Sociotechnical Systems
 - Business Agility
+- Technical Leadership
+- Change Management
+- Agile Strategy
+- Organisational Change
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

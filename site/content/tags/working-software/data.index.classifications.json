@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:57:19",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-04-10T11:57:20",
+    "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
-    "reasoning": "The content primarily discusses 'working software' as an output of Agile and Scrum processes, focusing on its role in delivering value and measuring progress. While it touches on aspects of team alignment and transparency, it does not explicitly address accountability as a structural concept or delve into defined roles and ownership of outcomes. The discussion lacks depth regarding accountability, making it a secondary theme rather than a primary focus.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses working software as a key output in Agile and Scrum, which indirectly relates to accountability through the lens of value delivery and team alignment. However, it lacks explicit discussions on accountability structures, roles, or outcome ownership, making it a secondary focus rather than a primary one.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 38.0,
     "reasoning": "The content discusses 'working software' as a tangible output of development efforts, which aligns with the concept of artifacts in Agile and Lean methodologies. However, it primarily focuses on the importance of delivering functional software rather than exploring specific artifacts like Product Backlogs or Sprint Backlogs. While it touches on the role of working software in facilitating collaboration and continuous improvement, it lacks detailed exploration of various types of artifacts and best practices for managing them.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:48:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses 'working software' within Agile and Scrum frameworks, which indirectly relates to discipline through the structured approach to software development. However, while it mentions aspects of discipline such as quality and continuous improvement, it does not explicitly focus on discipline as a standalone concept. The depth of discussion on working software is substantial, but the direct mention of discipline is minimal, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

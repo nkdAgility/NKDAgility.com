@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:42:56",
+    "calculated_at": "2025-04-10T12:03:48",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses Acceptance Test Driven Development (ATDD) and its role in aligning development efforts with business needs, which touches on accountability in terms of shared understanding among stakeholders. However, it does not explicitly define accountabilities or explore the structural concept of accountability in Agile or Scrum systems. The focus is more on collaboration and quality assurance rather than on who owns the outcomes, which is central to the accountability category.",
+    "reasoning": "The content discusses Acceptance Test Driven Development (ATDD) and its role in aligning development efforts with business needs, which touches on accountability in terms of shared understanding among stakeholders. However, it does not explicitly focus on accountability as a structural construct or discuss specific roles like Product Owner or Scrum Master. The discussion is more about collaboration and quality assurance rather than clearly defined outcome ownership, which is central to the accountability category.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses Acceptance Test Driven Development (ATDD) and its role in defining acceptance criteria, which indirectly relates to the concept of artifacts in Agile. However, it does not explicitly mention specific artifacts or their structure, purpose, or management. The focus is more on the process and collaboration rather than on tangible artifacts themselves, leading to a lower confidence score.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:56:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses Acceptance Test Driven Development (ATDD) in detail, focusing on its role in ensuring quality and alignment with business needs. While it does not explicitly mention 'discipline', the principles of ATDD promote a disciplined approach to software development through clear criteria and collaboration. The depth of discussion on how ATDD fosters a systematic way of working contributes to a strong alignment with the concept of discipline, though it is not the primary focus.",
+    "level": "Secondary"
   }
 }

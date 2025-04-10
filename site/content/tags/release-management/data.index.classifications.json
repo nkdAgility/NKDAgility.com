@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:10:14",
+    "calculated_at": "2025-04-10T11:59:03",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses Release Management primarily from an operational perspective, focusing on planning and execution rather than on accountability as a structural concept. While it touches on stakeholder engagement and organisational goals, it does not explicitly define accountabilities or explore the ownership of outcomes in a system of work. The discussion lacks depth in terms of accountability, making it a secondary theme rather than a primary focus.",
+    "reasoning": "The content discusses Release Management primarily from an operational perspective, focusing on planning and execution rather than explicitly addressing accountability as a foundational mechanism. While it touches on aspects of collaboration and stakeholder engagement, it lacks a clear emphasis on outcome ownership or the structural accountabilities that define roles like Product Owner or Scrum Master. The discussion is more about processes and methodologies than about the accountability framework that influences performance and alignment.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses Release Management, which is more focused on the operational aspects of software delivery rather than the specific artifacts used in Agile or Scrum. While it touches on concepts like incremental delivery and collaboration, it does not explicitly mention or explore the defined artifacts such as Product Backlog or Sprint Backlog. The discussion lacks depth regarding the structure and role of artifacts, leading to a low confidence score in alignment with the 'Artifact' category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:50:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Release Management in detail, focusing on its structured approach and operational aspects, which aligns with the discipline of managing software releases. While it does not explicitly mention 'discipline', the depth of discussion on planning, scheduling, and controlling releases indicates a strong alignment with the principles of discipline in a professional context.",
+    "level": "Tertiary"
   }
 }

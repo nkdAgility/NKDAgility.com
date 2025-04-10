@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T14:53:09",
+    "calculated_at": "2025-04-10T11:58:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
     "final_score": 11.0,
-    "reasoning": "The content primarily focuses on technical debt and its management rather than on accountability as a structural concept. While it touches on themes of team efficiency and organisational agility, it does not explicitly discuss defined accountabilities, ownership of outcomes, or the distinction between accountability and responsibility. The discussion lacks depth in relation to the key topics outlined for the accountability category.",
+    "reasoning": "The content primarily discusses technical debt and its management, which does not directly address accountability as a foundational mechanism in work systems. While it touches on themes of team efficiency and organisational agility, it lacks explicit discussions on outcome ownership, role-specific accountabilities, or the structural constructs that shape behaviour in work environments. The focus is more on technical practices rather than accountability frameworks.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily discusses technical debt, which is not an artifact but rather a concept related to software development practices. While it touches on aspects of development velocity and sustainability, it does not explicitly mention or explore any specific artifacts such as Product Backlogs or Sprint Backlogs. The focus is on the implications of technical debt rather than on the structure or role of artifacts in Agile or Scrum frameworks.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:49:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses technical debt in detail, highlighting its implications on development velocity and the importance of managing it. While it does not explicitly mention 'discipline', the focus on systematic approaches and continuous improvement aligns well with the core themes of discipline in a development context. The depth of discussion on strategies to address technical debt further supports this alignment.",
+    "level": "Secondary"
   }
 }

@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:11:03",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-04-10T11:59:06",
+    "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
-    "reasoning": "The content primarily focuses on psychological safety rather than accountability. While it touches on themes of team dynamics and collaboration, it does not explicitly discuss defined accountabilities, ownership of outcomes, or the structural aspects of accountability in Agile or Scrum contexts. The mention of fostering a culture of trust and collaboration is relevant but does not align closely with the core themes of accountability as defined.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses psychological safety, which is related to team dynamics and performance but does not explicitly address accountability as a structural mechanism in work systems. While it touches on themes of collaboration and innovation, it lacks a direct focus on outcome ownership or the specific roles that define accountability in frameworks like Scrum or Agile.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily discusses psychological safety and its importance for team dynamics and performance, without any direct mention of artifacts or their role in Agile, Scrum, or Lean methodologies. While it touches on themes of collaboration and innovation, it does not explore specific artifacts or their management, which are central to the 'Artifact' category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:50:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses psychological safety, which is indirectly related to discipline in the context of team dynamics and performance. While it does not explicitly mention 'discipline', it aligns with the core themes of maintaining structured and effective team behaviours. The depth of discussion on how psychological safety impacts team performance and adaptability contributes to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

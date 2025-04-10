@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:03:59",
+    "calculated_at": "2025-04-10T12:01:40",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
     "final_score": 11.0,
-    "reasoning": "The content primarily focuses on Decision Theory and its application in decision-making under uncertainty. While it touches on themes of structured evaluation and informed decision-making, it does not explicitly address accountability as a structural concept or discuss defined accountabilities within Agile, Scrum, or DevOps systems. The discussion lacks depth regarding who owns outcomes or the implications of accountability in organisational design, leading to a low confidence score.",
+    "reasoning": "The content primarily focuses on Decision Theory and its application in decision-making processes rather than discussing accountability as a foundational mechanism in work systems. While it touches on aspects of structured decision-making and evidence-based practices, it does not explicitly address accountability, outcome ownership, or role-specific responsibilities within a work context. The discussion lacks depth in relation to the key topics outlined for the Accountability category.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Decision Theory and its application in decision-making processes, with no direct mention of artifacts as defined in Agile, Scrum, or Lean. While it touches on evidence-based decision-making, it does not explore specific artifacts or their roles, thus lacking alignment with the core themes of the category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:54:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses Decision Theory, which is primarily focused on decision-making processes rather than discipline as a category. While it mentions structured approaches and systematic evaluations, which can relate to discipline, the core focus is on decision-making strategies. The direct mentions of discipline are minimal, and while there is some conceptual alignment with disciplined decision-making, the depth of discussion primarily revolves around decision theory itself rather than discipline as a standalone concept.",
+    "level": "Tertiary"
   }
 }

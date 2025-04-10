@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:28:44",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-04-10T11:59:57",
+    "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
-    "reasoning": "The content primarily discusses the concept of Minimum Viable Product (MVP) in product development, focusing on testing ideas and validating market assumptions. While it touches on themes of collaboration and ownership, it does not explicitly address accountability as a structural concept or the roles within Scrum or Agile frameworks. The discussion lacks depth regarding defined accountabilities and their impact on outcomes, leading to a low confidence score.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the MVP concept in product development, which indirectly relates to accountability through the emphasis on team collaboration and ownership. However, it lacks explicit mentions of accountability structures or roles, and the primary focus is on product features and market validation rather than on outcome ownership or accountability mechanisms.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses the concept of Minimum Viable Product (MVP), which is related to product development but does not explicitly focus on artifacts as formal representations of work. While it touches on aspects of transparency and iterative development, it lacks a direct exploration of specific artifacts in Agile or Scrum, such as Product Backlog or Definition of Done. The discussion is more about the MVP concept rather than the structure and role of artifacts, leading to a lower confidence score.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:51:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the concept of Minimum Viable Product (MVP) in detail, highlighting its importance in product development and the discipline of testing ideas and validating market assumptions. While the term 'discipline' is not explicitly mentioned, the principles of structured experimentation and collaboration align closely with the core themes of discipline in a professional context. The depth of discussion is significant, providing insights into how MVP fosters a culture of learning and continuous improvement, which are essential aspects of maintaining discipline in product development.",
+    "level": "Tertiary"
   }
 }

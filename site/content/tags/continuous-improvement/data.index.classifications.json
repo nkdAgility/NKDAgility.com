@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:12:35",
+    "calculated_at": "2025-04-10T12:02:10",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses Continuous Improvement in various frameworks like Lean and Scrum, highlighting its importance in fostering a culture of reflection and adaptation. However, it primarily focuses on the practice of Continuous Improvement rather than explicitly addressing accountability as a structural concept. While there are mentions of team effectiveness and performance evaluation, the content does not delve deeply into defined accountabilities or the ownership of outcomes, which are central to the accountability category.",
+    "reasoning": "The content discusses Continuous Improvement in various frameworks like Lean, Scrum, and Kanban, but it primarily focuses on the process of improvement rather than explicitly addressing accountability as a structural mechanism. While it touches on aspects of team ownership and reflection, it does not delve deeply into the distinctions between accountability, responsibility, and authority, nor does it clearly define roles related to accountability. Therefore, the alignment with the category is moderate, but the primary focus remains on improvement rather than accountability.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses Continuous Improvement as a principle in Agile methodologies, particularly in Lean and Scrum, but it does not focus on specific artifacts themselves. While it mentions the role of Continuous Improvement in Scrum and Lean, it lacks direct references to tangible artifacts like Product Backlogs or Sprint Backlogs. The discussion is more about the principle and its application rather than the structure or management of artifacts, leading to a lower confidence score.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:54:57",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 30,
+    "final_score": 81.0,
+    "reasoning": "The content extensively discusses Continuous Improvement as a core principle of Business Agility, which is closely related to the concept of discipline in organisational practices. It directly mentions the disciplined approach to decision-making and embeds this principle within frameworks like Lean, Scrum, and Kanban, showcasing a strong alignment with the themes of discipline. The depth of discussion is significant, providing detailed insights into how Continuous Improvement is implemented across different methodologies, thus reinforcing its importance and relevance to the category.",
+    "level": "Primary"
   }
 }

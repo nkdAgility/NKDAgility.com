@@ -13,15 +13,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:36:21",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "calculated_at": "2025-04-10T12:03:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses the Agile Product Operating Model and its emphasis on clear roles, responsibilities, and measurable outcomes, which aligns with the concept of accountability. However, while it touches on accountability through the definition of roles and governance, it does not explicitly focus on accountability as a structural concept. The depth of discussion on how these roles impact accountability is moderate, but the primary focus remains on the product ethos and agile practices rather than solely on accountability.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the Agile Product Operating Model, which includes clear roles and responsibilities, aligning with the concept of accountability. It highlights the importance of measurable outcomes and the role of governance in decision-making, which are key aspects of accountability. However, while it touches on these themes, the primary focus is on the operating model itself rather than a deep exploration of accountability as a standalone concept.",
+    "level": "Secondary"
   },
   "Framework": {
     "category": "Framework",
@@ -166,5 +166,17 @@
     "final_score": 38.0,
     "reasoning": "The content discusses the Agile Product Operating Model and its components, which indirectly relate to artifacts in Agile, such as the Product Backlog and governance structures. However, it does not explicitly define or focus on specific artifacts, their purpose, or best practices for managing them. The discussion is more about the overall model and principles rather than a detailed exploration of artifacts themselves.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:56:05",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the Agile Product Operating Model, which embodies principles of discipline in product management and agile practices. It explicitly mentions the need for clear roles, responsibilities, and governance, which are key aspects of discipline. The content aligns well with the core themes of discipline by emphasising structured approaches to delivering value and decision-making. However, while it provides substantial detail, the primary focus is on the Agile framework rather than discipline itself, leading to a moderately high confidence score.",
+    "level": "Tertiary"
   }
 }

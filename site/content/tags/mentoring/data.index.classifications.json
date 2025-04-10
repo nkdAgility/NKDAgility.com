@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:32:19",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-04-10T12:00:09",
+    "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
-    "reasoning": "The content primarily focuses on mentoring and personal development within agile environments, lacking direct references to accountability as a structural concept. While it touches on themes of ownership and team performance, it does not explicitly discuss defined accountabilities, organisational design patterns, or the impact of misaligned accountabilities, which are central to the accountability category.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses mentoring in agile environments, which indirectly relates to accountability through the empowerment of team members and fostering ownership of learning. However, it does not explicitly address accountability as a structural mechanism or outcome ownership, making it a secondary focus rather than a primary one.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on mentoring within agile environments, discussing its importance for personal and professional development rather than the specific artifacts used in Agile, Scrum, or Lean. While it touches on themes of collaboration and knowledge transfer, it does not explicitly mention or explore the structure, purpose, or role of artifacts, which are central to the 'Artifact' category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:52:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses mentoring in the context of agile and organisational development, which aligns with the principles of discipline in fostering structured growth and accountability. However, while it touches on aspects of discipline, such as continuous learning and skill enhancement, it does not explicitly focus on discipline as a primary theme. The depth of discussion is substantial, but the direct mentions of discipline are limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

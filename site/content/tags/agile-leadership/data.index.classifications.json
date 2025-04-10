@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:40:29",
+    "calculated_at": "2025-04-10T12:03:40",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
+    "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 20.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses Agile Leadership and its role in fostering adaptability and team empowerment, but it does not explicitly address accountability as a structural concept. While it mentions alignment of organisational goals with team objectives, it lacks a clear focus on defined accountabilities or the distinction between accountability, responsibility, and authority. The depth of discussion on accountability is minimal, primarily touching on related themes without providing substantial detail.",
+    "reasoning": "The content discusses Agile Leadership and its role in fostering adaptability and empowerment within teams, but it does not explicitly address accountability as a foundational mechanism. While it touches on themes of alignment and team objectives, it lacks a clear focus on outcome ownership or the structural accountabilities that define roles like Product Owner or Scrum Master. The discussion is more about leadership principles than the specific accountabilities that influence performance in work systems.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Agile Leadership and its principles, with only a brief mention of frameworks like Scrum and Kanban. It does not explicitly discuss artifacts or their roles in Agile, Scrum, or Lean systems, nor does it delve into specific types of artifacts or best practices for managing them. The discussion is more about leadership and organisational culture rather than the tangible constructs that enable inspection and adaptation.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:56:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile Leadership, which involves guiding teams and organisations through change, aligning with the principles of discipline in fostering adaptability and continuous improvement. However, while it touches on aspects of discipline, such as creating a culture of psychological safety and aligning goals, it does not explicitly focus on discipline as a primary theme. The depth of discussion is significant, providing detailed insights into Agile Leadership practices, but the direct mention of 'discipline' is minimal, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

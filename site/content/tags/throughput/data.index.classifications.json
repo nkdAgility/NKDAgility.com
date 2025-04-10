@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T14:47:35",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-04-10T11:57:47",
+    "ai_confidence": 25.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on throughput as a delivery metric and its role in analysing flow efficiency and system constraints. While it touches on aspects of transparency and empirical inspection, it does not explicitly discuss accountability in terms of ownership of outcomes or defined roles within a Scrum or Agile framework. The mention of team performance and decision-making is more aligned with operational metrics rather than structural accountability, leading to a low confidence score.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on throughput as a delivery metric and does not explicitly discuss accountability or its role in work systems. While it touches on aspects of performance and flow efficiency, it lacks a clear connection to outcome ownership or the structural accountabilities outlined in the category definition. The discussion is more about metrics and process improvement rather than accountability as a foundational mechanism.",
     "level": "Ignored"
   },
   "Framework": {
@@ -165,6 +165,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses throughput as a metric related to work completion and flow efficiency, which indirectly relates to artifacts in Agile and Lean contexts. However, it does not explicitly mention specific artifacts or their roles, focusing instead on metrics and performance analysis. The discussion lacks depth on the structure and purpose of artifacts, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:49:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses throughput as a metric for measuring work efficiency, which indirectly relates to discipline in terms of maintaining structured workflows and continuous improvement. However, it does not explicitly focus on discipline itself, leading to a lower confidence score. The depth of discussion is substantial, providing insights into how throughput can be used for empirical inspection and decision-making, but the core theme of discipline is not the primary focus.",
     "level": "Ignored"
   }
 }

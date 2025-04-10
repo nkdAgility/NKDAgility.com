@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:16:23",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-04-10T11:59:22",
+    "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
-    "reasoning": "The content primarily focuses on the process of Product Discovery, which is about identifying customer needs and defining product features. While it touches on aspects of team alignment and decision-making, it does not explicitly discuss accountability as a structural concept or the ownership of outcomes in a system of work. The themes of accountability, responsibility, and authority are not addressed, and the content lacks depth in exploring how defined accountabilities improve transparency or alignment in Agile or Scrum contexts.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Product Discovery, focusing on identifying customer needs and defining product features. While it touches on aspects of value delivery and decision-making, it does not explicitly address accountability or outcome ownership. The primary focus is on the exploratory nature of product development rather than the structural accountabilities within work systems, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses the process of Product Discovery, which is related to understanding customer needs and defining product features. However, it does not explicitly mention artifacts or their role in Agile, Scrum, or Lean methodologies. While it touches on concepts of value delivery and decision-making, it lacks a direct focus on specific artifacts like Product Backlogs or Definitions of Done. The depth of discussion is moderate, but it does not align closely with the core themes of the 'Artifact' category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:51:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the process of Product Discovery, which, while related to discipline in terms of structured approaches to product development, does not explicitly discuss discipline as a category. However, it aligns conceptually with the themes of discipline through its emphasis on systematic exploration and the importance of understanding user needs. The depth of discussion is significant, detailing methods and the importance of the process, which contributes to a higher score despite the lack of direct mentions of 'discipline'.",
+    "level": "Tertiary"
   }
 }

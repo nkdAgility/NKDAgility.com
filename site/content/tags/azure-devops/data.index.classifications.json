@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:25:22",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-04-10T12:02:53",
+    "ai_confidence": 25.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses Azure DevOps and its tools for collaboration and project management, but it does not explicitly address accountability as a structural concept. While it mentions fostering a culture of collaboration and transparency, it lacks a focus on defined accountabilities, ownership of outcomes, or the distinction between accountability and authority. The depth of discussion on related themes is moderate, but the primary focus remains on the tools and practices rather than on accountability itself.",
+    "final_score": 22.0,
+    "reasoning": "The content discusses Azure DevOps and its tools for project management and collaboration, but it does not explicitly address accountability as a foundational mechanism in work systems. While it mentions fostering a culture of collaboration and transparency, it lacks a focus on outcome ownership or specific roles related to accountability, such as Product Owner or Scrum Master. The discussion is more about the tools and practices rather than the structural accountabilities that influence performance and alignment.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Azure DevOps as a toolset for CI/CD and project management, rather than discussing specific artifacts or their roles in Agile or Scrum. While it mentions collaboration and agile methodologies, it does not delve into the structure or purpose of artifacts, nor does it provide detailed insights into types of artifacts or best practices for managing them.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:55:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Azure DevOps, focusing on tools and practices that enhance collaboration and project management. While it does not explicitly mention 'discipline', it aligns with the core themes of maintaining structured processes and continuous improvement, which are essential for discipline in project management. The depth of discussion on methodologies and practices contributes to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

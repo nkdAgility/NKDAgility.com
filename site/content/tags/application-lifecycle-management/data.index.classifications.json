@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:29:39",
+    "calculated_at": "2025-04-10T12:03:11",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 50,
     "final_score": 43.0,
-    "reasoning": "The content discusses Application Lifecycle Management (ALM) and its role in fostering a culture of accountability and transparency. However, it does not explicitly define accountabilities within a Scrum or Agile context, nor does it delve deeply into the structural aspects of accountability as outlined in the category definition. While it touches on themes of alignment and resource allocation, these are more about process management than about ownership of outcomes in a system of work.",
+    "reasoning": "The content discusses Application Lifecycle Management (ALM) and its role in delivering value and fostering a culture of accountability and transparency. However, while it touches on accountability, it does not explicitly define roles or outcomes related to accountability in work systems, which is a primary focus of the category. The discussion is more about processes and methodologies rather than the structural accountabilities that shape behaviour and performance.",
     "level": "Tertiary"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) and its role in software development, without a specific focus on artifacts as defined in Agile, Scrum, or Lean. While it touches on concepts like transparency and collaboration, it does not explicitly mention or explore specific artifacts such as Product Backlog or Sprint Backlog, nor does it delve into best practices for managing artifacts. Therefore, the alignment with the 'Artifact' category is minimal.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:55:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Application Lifecycle Management (ALM) in detail, focusing on its processes and methodologies, which align with the concept of discipline in managing software development. However, while it touches on aspects of discipline, such as accountability and transparency, it does not explicitly frame these within the context of 'discipline' as a primary focus, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

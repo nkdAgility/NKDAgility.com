@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:25:30",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-04-10T11:59:50",
+    "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
-    "reasoning": "The content discusses organisational agility but does not explicitly mention accountability or its structural implications. While it touches on themes of adaptability and collaboration, it lacks a focus on defined accountabilities, ownership of outcomes, or the distinction between accountability and authority, which are central to the category of accountability.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses organisational agility, which is related to adaptability and responsiveness but does not explicitly address accountability as a foundational mechanism in work systems. While it touches on themes of collaboration and decision-making, it lacks a clear focus on outcome ownership or the structural accountabilities that define roles like Product Owner or Scrum Master.",
     "level": "Ignored"
   },
   "Framework": {
@@ -165,6 +165,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the concept of organisational agility without any direct mention of specific artifacts or their roles in Agile, Scrum, or Lean methodologies. While it touches on themes of adaptability and collaboration, it does not explore the structure, purpose, or management of artifacts, which are central to the 'Artifact' category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:51:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses organisational agility, which is related to discipline in terms of maintaining structured processes and a proactive approach to change. However, the primary focus is on agility rather than discipline itself. The mention of aligning processes and fostering a culture of responsiveness touches on discipline but does not delve deeply into it, leading to a moderate confidence score.",
     "level": "Ignored"
   }
 }

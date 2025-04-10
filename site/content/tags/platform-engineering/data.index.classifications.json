@@ -133,14 +133,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:20:57",
+    "calculated_at": "2025-04-10T11:59:36",
     "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
+    "ai_mentions": 15.0,
     "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses the concept of ownership in the context of platform engineering, which touches on accountability but does not explicitly define or explore it as a structural concept. While it mentions clear ownership and aligns with some themes of accountability, it lacks depth in discussing how these accountabilities improve transparency or responsibility in a system of work.",
+    "reasoning": "The content discusses the concept of ownership in the context of Platform Engineering, which aligns with accountability in terms of clear ownership and outcome delivery. However, it does not explicitly address accountability as a foundational mechanism in work systems, nor does it delve deeply into role-specific accountabilities or the structural aspects of accountability in Agile or Scrum frameworks. The focus is more on the practice of Platform Engineering rather than on accountability itself.",
     "level": "Ignored"
   },
   "Observability": {
@@ -166,5 +166,17 @@
     "final_score": 75.0,
     "reasoning": "The content discusses the concept of Platform Engineering as a capability that enhances developers' ability to deliver value independently and reliably. It explicitly mentions the importance of reducing cognitive load and creating a coherent developer experience, which aligns with the core themes of capability development. The depth of discussion includes aspects of continuous improvement and the relationship between platform engineering and organisational strategy, indicating a strong focus on enduring competencies rather than transient tools. However, while it touches on capabilities, it does not delve deeply into specific strategies for embedding these capabilities within teams or organisations, which slightly lowers the overall confidence score.",
     "level": "Secondary"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:51:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Platform Engineering, which is more focused on technical practices and processes rather than the concept of discipline itself. While it touches on aspects of discipline in terms of structured practices and continuous improvement, it does not explicitly mention discipline as a core theme. The alignment with discipline is moderate, as it implies a need for structured approaches, but the depth of discussion on discipline is limited.",
+    "level": "Ignored"
   }
 }

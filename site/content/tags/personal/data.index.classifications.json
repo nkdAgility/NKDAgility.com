@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:21:45",
+    "calculated_at": "2025-04-10T11:59:39",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
     "final_score": 11.0,
-    "reasoning": "The content primarily focuses on personal experiences and insights rather than on accountability as a structural concept. While it touches on themes of collaboration and team dynamics, it does not explicitly discuss defined accountabilities, ownership of outcomes, or the structural aspects of accountability in Agile or Scrum contexts.",
+    "reasoning": "The content primarily focuses on personal experiences and insights rather than explicitly discussing accountability as a structural mechanism in work systems. While it touches on themes of collaboration and psychological safety, it does not address outcome ownership or specific roles related to accountability, which are central to the category.",
     "level": "Ignored"
   },
   "Framework": {
@@ -165,6 +165,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on personal experiences and insights rather than on artifacts as formal representations of work. While it touches on themes of collaboration and Agile principles, it does not explicitly discuss any specific artifacts or their roles, thus lacking direct mentions and depth in the context of the 'Artifact' category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:51:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses personal experiences and insights rather than discipline as a core theme. While it touches on aspects of collaboration and team dynamics, which can relate to discipline in a broader sense, it does not explicitly focus on discipline itself. The depth of discussion is moderate, providing some insights into how personal contributions can enhance team performance, but it lacks a direct exploration of discipline as a concept.",
     "level": "Ignored"
   }
 }

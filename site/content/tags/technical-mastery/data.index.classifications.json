@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T14:50:49",
+    "calculated_at": "2025-04-10T11:57:57",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
     "final_score": 11.0,
-    "reasoning": "The content primarily focuses on Technical Mastery in software craftsmanship and engineering practices, with no explicit discussion of accountability as a structural concept. While it touches on themes of team empowerment and alignment with organisational goals, it does not address defined accountabilities, ownership of outcomes, or the impact of misaligned accountabilities, which are central to the category of Accountability.",
+    "reasoning": "The content primarily focuses on Technical Mastery in software craftsmanship and engineering practices, with minimal direct mention of accountability or outcome ownership. While it touches on themes of team empowerment and value delivery, it does not explicitly discuss structural accountabilities or role-specific responsibilities, which are central to the category of Accountability.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on the concept of Technical Mastery in software development, discussing craftsmanship and engineering practices. While it touches on Agile and DevOps principles, it does not explicitly mention or explore specific artifacts or their roles in Agile methodologies. The discussion lacks depth regarding the structure, purpose, or management of artifacts, leading to a low confidence score in alignment with the 'Artifact' category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:49:37",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses Technical Mastery, which indirectly relates to discipline through the emphasis on excellence, quality, and continuous improvement in software practices. However, the term 'discipline' is not explicitly mentioned, and while the themes of skill development and adherence to best practices align with the concept of discipline, the depth of discussion primarily focuses on technical mastery rather than discipline itself.",
+    "level": "Tertiary"
   }
 }

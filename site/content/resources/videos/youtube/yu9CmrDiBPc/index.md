@@ -34,11 +34,19 @@ sitemap:
   priority: 0.6
 tags:
 - Organisational Culture
-- People and Process
 - Continuous Improvement
 - Sociotechnical Systems
 - Organisational Change
 - Competence
+- Scaling
+- Enterprise Agility
+- Product Development
+- Team Collaboration
+- Agile Philosophy
+- Organisational Agility
+- Pragmatic Thinking
+- Digital Transformation
+- Continuous Learning
 resourceTypes:
 - video
 categories:

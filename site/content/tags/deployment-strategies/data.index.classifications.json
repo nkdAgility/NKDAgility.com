@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:00:28",
+    "calculated_at": "2025-04-10T12:01:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses deployment strategies in detail, focusing on risk management and operational efficiency. However, it does not explicitly address accountability as a structural concept or the ownership of outcomes within a system of work. While it touches on collaboration and shared responsibility, these themes are secondary to the primary focus on deployment techniques and organisational resilience.",
+    "reasoning": "The content discusses deployment strategies and their importance in delivering value and fostering a culture of experimentation. However, it does not explicitly address accountability as a foundational mechanism in work systems. While it touches on aspects of shared responsibility and organisational structure, it lacks a direct focus on outcome ownership or specific roles related to accountability, which diminishes its relevance to the category.",
     "level": "Ignored"
   },
   "Framework": {
@@ -165,6 +165,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses deployment strategies rather than artifacts as formal representations of work. While it touches on Agile and DevOps principles, it does not explicitly mention or explore specific artifacts like Product Backlog or Sprint Backlog. The focus is on deployment techniques and their impact on organisational efficiency, which is peripheral to the core themes of the 'Artifact' category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:54:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses deployment strategies in software development, focusing on risk management and efficiency rather than discipline as a core theme. While it mentions the importance of a systematic approach and continuous improvement, which can relate to discipline, it does not explicitly address discipline itself. The discussion lacks depth in terms of how discipline is applied or enforced within the context of deployment strategies.",
     "level": "Ignored"
   }
 }

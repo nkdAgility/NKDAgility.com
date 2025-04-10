@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:23:40",
+    "calculated_at": "2025-04-10T12:02:46",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 30,
     "final_score": 41.0,
-    "reasoning": "The content briefly mentions accountability in the context of Azure Repos, highlighting its role in fostering a culture of transparency and tracking changes. However, the primary focus is on source control and collaboration rather than a detailed exploration of accountability as a structural concept. While there is some alignment with the themes of accountability, such as the importance of tracking contributions, the depth of discussion does not delve into defined accountabilities or organisational design patterns, which are crucial for a higher confidence score.",
+    "reasoning": "The content briefly mentions accountability in the context of Azure Repos, particularly in relation to tracking changes and providing a clear history of contributions. However, the primary focus is on source control and collaboration rather than on accountability as a foundational mechanism in work systems. While there are elements that align with the category, such as fostering transparency and supporting agile principles, the depth of discussion on explicit accountabilities and outcome ownership is limited.",
     "level": "Tertiary"
   },
   "Framework": {
@@ -165,6 +165,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Azure Repos as a source control tool rather than discussing artifacts in Agile, Scrum, or Lean. While it touches on collaboration and transparency, it does not explicitly define or explore specific artifacts or their roles in Agile methodologies. The discussion lacks depth regarding the structure and purpose of artifacts, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:55:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Azure Repos as a source control service, with a focus on collaboration and integration within the development lifecycle. While it touches on themes of discipline in terms of maintaining code quality and fostering accountability, it does not explicitly address the concept of discipline itself. The discussion is more centred on technical features and benefits rather than a deep exploration of discipline as a core theme.",
     "level": "Ignored"
   }
 }

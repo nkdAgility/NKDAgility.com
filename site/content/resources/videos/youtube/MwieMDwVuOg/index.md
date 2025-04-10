@@ -28,16 +28,21 @@ preview: https://i.ytimg.com/vi/MwieMDwVuOg/maxresdefault.jpg
 duration: 114
 isShort: false
 tags:
+- Scaling
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation
-- Scaled Agile
-- Scaling Agility
 - Business Agility
 - Enterprise Agility
 - Organisational Agility
 - Pragmatic Thinking
 - Organisational Change
+- Product Development
+- Large Scale Agility
+- Agile Product Management
+- Agile Project Management
+- Value Delivery
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

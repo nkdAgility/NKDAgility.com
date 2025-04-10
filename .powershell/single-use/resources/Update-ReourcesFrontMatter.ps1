@@ -266,7 +266,7 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
     #-----------------Tags-------------------
     $tagClassification = Get-ClassificationsForType -updateMissing -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
-    $tagClassificationOrdered = Get-ClassificationOrderedList -minScore 70 -classifications $tagClassification | Select-Object -First 10
+    $tagClassificationOrdered = Get-ClassificationOrderedList -minScore 60 -classifications $tagClassification | Select-Object -First 15
     $tags = $tagClassificationOrdered | ForEach-Object { $_.category }
     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
     #-----------------catalog_full------------------

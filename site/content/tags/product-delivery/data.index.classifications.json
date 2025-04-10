@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:17:50",
+    "calculated_at": "2025-04-10T11:59:26",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses the process of Product Delivery and its importance in Agile, Lean, and DevOps contexts. However, it does not explicitly address accountability as a structural concept or define roles related to accountability within these frameworks. While it touches on ownership and collaboration, it lacks a focused exploration of how defined accountabilities improve transparency and outcome responsibility, which is central to the category of Accountability.",
+    "reasoning": "The content discusses the process of Product Delivery and its importance in delivering value, but it does not explicitly mention accountability or outcome ownership. While it touches on themes of team ownership and collaboration, these are more about task execution rather than clearly defined accountabilities. The discussion lacks depth in exploring how accountability shapes behaviour or influences performance in work systems.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses the process of Product Delivery, which is related to Agile and Lean principles, but it does not explicitly mention specific artifacts such as Product Backlog or Sprint Backlog. While it touches on the importance of collaboration and feedback loops, it lacks a focused exploration of artifacts as formal representations of work, which is essential for a higher confidence score in the 'Artifact' category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:51:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the process of Product Delivery, which includes elements of discipline in terms of structured workflows and methodologies like Agile and Lean. However, while it touches on the importance of a systematic approach, the primary focus is on the delivery process rather than discipline itself. The depth of discussion is significant, providing insights into how effective delivery can enhance organisational success, but it does not explicitly centre on discipline as a standalone concept.",
+    "level": "Tertiary"
   }
 }

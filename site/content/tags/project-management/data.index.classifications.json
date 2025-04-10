@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:11:45",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-04-10T11:59:09",
+    "ai_confidence": 25.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses Agile Project Management and its principles, such as flexibility, responsiveness, and collaboration. However, it lacks explicit mentions of accountability as a structural concept, focusing instead on team dynamics and project delivery. While there are elements of alignment with accountability through the emphasis on collaboration and transparency, the discussion does not delve into defined accountabilities or ownership of outcomes, which are central to the category.",
+    "final_score": 22.0,
+    "reasoning": "The content discusses project management broadly without a specific focus on accountability as a foundational mechanism. While it mentions coordinating people and processes, it does not explicitly address outcome ownership or the structural accountabilities relevant to roles like Product Owner or Scrum Master. The discussion lacks depth in exploring how accountability influences performance or aligns with organisational design patterns.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses Agile Project Management broadly, focusing on methodologies and team dynamics rather than specific artifacts. While it touches on concepts like iterative progress and collaboration, it lacks direct mentions of specific artifacts such as Product Backlog or Sprint Backlog, which are central to the 'Artifact' category. The discussion is more about the overall approach and mindset rather than the structure and role of artifacts in Agile systems.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:50:57",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses project management as a discipline, detailing its processes, methodologies, and objectives. It provides a comprehensive overview of how project management operates within various frameworks, demonstrating a strong alignment with the core themes of discipline. The depth of discussion is significant, covering aspects such as risk management, stakeholder engagement, and continuous improvement, which are essential elements of disciplined project management.",
+    "level": "Secondary"
   }
 }

@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:35:52",
-    "ai_confidence": 25.0,
+    "calculated_at": "2025-04-10T12:00:18",
+    "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
-    "ai_depth": 10.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
-    "reasoning": "The content discusses Lean principles and their impact on efficiency and value delivery, but it does not explicitly address accountability as a structural concept. While it touches on themes of ownership and engagement, these are not directly tied to defined accountabilities or outcome ownership in Agile, Scrum, or DevOps contexts. The focus is more on process improvement and efficiency rather than on who owns the outcomes in a system of work.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Lean principles focused on efficiency and waste reduction, with minimal direct mention of accountability or outcome ownership. While it touches on themes of ownership and engagement, it does not delve into structural accountabilities or specific roles within work systems, which are central to the accountability category.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 22.0,
     "reasoning": "The content discusses Lean principles and their application to workflows, but it does not explicitly mention artifacts or their role in Agile, Scrum, or Lean systems. While it touches on concepts related to efficiency and value delivery, it lacks a focus on specific artifacts or their management, which are central to the 'Artifact' category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:52:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Lean Thinking, which is closely related to discipline in terms of structured processes and continuous improvement. While it does not explicitly mention 'discipline', the emphasis on systematic approaches, efficiency, and fostering a culture of improvement aligns well with the core themes of discipline. The depth of discussion is significant, providing detailed insights into how Lean principles can be applied, which further supports the alignment with the category.",
+    "level": "Tertiary"
   }
 }

@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:35:08",
+    "calculated_at": "2025-04-10T12:03:22",
     "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 30,
     "final_score": 59.0,
-    "reasoning": "The content discusses Agile Project Management and mentions accountability in a general sense, but it does not delve into specific roles or structural concepts of accountability as defined in the category. While it touches on team ownership and decision-making, it lacks detailed exploration of defined accountabilities, the distinction between accountability and authority, or the impact of misaligned accountabilities. Therefore, while there is some relevance, the primary focus is not on accountability as a structural concept.",
+    "reasoning": "The content discusses Agile Project Management and mentions accountability in the context of team members taking ownership of their work. However, it does not delve deeply into specific roles or structural accountabilities within Agile frameworks like Scrum. While it aligns with the core themes of accountability by promoting transparency and ownership, the discussion lacks depth regarding explicit accountabilities and their impact on performance and adaptation in complex environments.",
     "level": "Tertiary"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses Agile Project Management broadly, focusing on iterative progress and collaboration, but it does not explicitly mention specific artifacts or their roles within Agile frameworks. While it touches on themes of transparency and accountability, it lacks detailed exploration of artifacts like Product Backlog or Sprint Backlog, which are central to the category. Therefore, the confidence score reflects a low direct mention and conceptual alignment with the category of 'Artifact'.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:56:01",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses Agile Project Management, which includes elements of discipline through its emphasis on accountability, continuous improvement, and structured processes. However, while it touches on aspects of discipline, such as fostering a culture of transparency and ownership, it does not explicitly focus on discipline as a primary theme. The depth of discussion on Agile principles contributes to a moderate confidence score, but the lack of direct references to discipline as a standalone concept limits the overall alignment.",
+    "level": "Tertiary"
   }
 }

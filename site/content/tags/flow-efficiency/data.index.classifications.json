@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:46:40",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-04-10T12:00:50",
+    "ai_confidence": 25.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
-    "reasoning": "The content primarily discusses flow efficiency and its importance in optimising work throughput, with no direct mention of accountability or its structural implications. While it touches on concepts related to organisational performance and collaboration, it does not explore defined accountabilities, ownership of outcomes, or the distinction between accountability and authority, which are central to the category of accountability.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses flow efficiency and its importance in optimising work throughput, with no direct mention of accountability or roles that embody it. While it touches on themes of performance and improvement, it does not explicitly connect these to accountability structures or outcome ownership, which are central to the category.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses flow efficiency, which is related to Lean principles but does not explicitly mention artifacts or their role in Agile, Scrum, or Lean systems. While it touches on concepts of optimisation and value delivery, it lacks direct references to specific artifacts like Product Backlogs or Sprint Backlogs. The discussion is more abstract and focused on principles rather than tangible constructs, leading to a low confidence score in the 'Artifact' category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:53:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses flow efficiency in detail, which is related to discipline in terms of optimising processes and improving organisational performance. However, while it touches on the importance of systematic approaches and continuous improvement, it does not explicitly focus on discipline as a primary theme. The mention of Lean principles and collaboration across teams suggests a conceptual alignment with disciplined practices, but the depth of discussion is more about flow efficiency itself rather than discipline as a standalone category.",
+    "level": "Secondary"
   }
 }

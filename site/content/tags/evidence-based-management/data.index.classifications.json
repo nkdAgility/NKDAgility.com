@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:48:27",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "calculated_at": "2025-04-10T12:00:56",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
-    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in improving organisational outcomes through data-driven decision-making. While it touches on accountability indirectly by emphasising the importance of measuring outcomes and making informed decisions, it does not explicitly define accountabilities or explore the structural concept of accountability in Agile or Scrum contexts. The focus is more on metrics and improvement strategies rather than on who owns the outcomes within a system of work.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) as a strategy for improving value delivery, which aligns with the concept of accountability in terms of outcome ownership. It mentions the importance of measuring outcomes rather than outputs, which is a key aspect of accountability. However, while it touches on accountability through the lens of decision-making and value delivery, it does not explicitly define roles or structural accountabilities within a work system, which limits its depth in this specific category.",
     "level": "Secondary"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses Evidence-Based Management (EBM) as a strategy for improving decision-making based on evidence, which indirectly relates to the concept of artifacts in Agile. However, it does not explicitly mention specific artifacts or their roles in Agile, Scrum, or Lean. The focus is more on metrics and decision-making rather than on the structure and purpose of artifacts themselves. Therefore, while there is some conceptual alignment, the lack of direct mentions and depth regarding artifacts leads to a lower confidence score.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:53:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) as a strategy for improving organisational performance, which aligns with the concept of discipline in terms of structured decision-making and accountability. However, while it mentions the importance of metrics and data-driven decisions, it does not explicitly focus on discipline as a primary theme. The depth of discussion on EBM provides some insights into disciplined practices but lacks a comprehensive exploration of discipline itself.",
+    "level": "Secondary"
   }
 }

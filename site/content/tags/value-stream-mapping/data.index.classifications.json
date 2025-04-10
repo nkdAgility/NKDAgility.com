@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T14:42:21",
-    "ai_confidence": 25.0,
+    "calculated_at": "2025-04-10T11:57:28",
+    "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
-    "ai_depth": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
-    "reasoning": "The content primarily focuses on Value Stream Mapping as a tool for optimising workflows and enhancing value delivery. While it touches on themes of continuous improvement and collaboration, it does not explicitly discuss accountability as a structural concept or how defined accountabilities impact outcomes in Agile or Scrum contexts. The mention of teams making informed decisions based on empirical data hints at accountability but lacks depth and direct relevance to the category.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Value Stream Mapping primarily as a tool for optimising workflows and enhancing value delivery. While it touches on themes of continuous improvement and alignment with customer needs, it does not explicitly address accountability as a structural mechanism or discuss roles that own outcomes. The focus is more on process optimisation rather than on the ownership of outcomes, which is central to the accountability category.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses Value Stream Mapping, which is a visual tool that can be considered an artifact in the context of Lean practices. However, it primarily focuses on the analysis and optimisation of workflows rather than explicitly defining or exploring the role of artifacts in Agile or Scrum. While it touches on the importance of visualising processes and making informed decisions, it lacks direct mentions of specific Agile artifacts like Product Backlog or Sprint Backlog. The depth of discussion on the implications of Value Stream Mapping is significant, but it does not fully align with the core themes of the 'Artifact' category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:49:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Value Stream Mapping, which is a method that can contribute to discipline in workflows by identifying inefficiencies and optimising processes. However, while it touches on the importance of continuous improvement and organisational resilience, it does not explicitly focus on discipline as a primary theme. The depth of discussion is significant, providing detailed insights into the practice and its benefits, but the direct mention of 'discipline' is minimal, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

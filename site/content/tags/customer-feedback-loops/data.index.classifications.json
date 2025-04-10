@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:09:10",
+    "calculated_at": "2025-04-10T12:01:59",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses customer feedback loops and their role in product development, focusing on user insights and adaptability. However, it does not explicitly address accountability as a structural concept or the ownership of outcomes within a system of work. While it touches on themes of alignment and responsiveness, these are more about process improvement than about clearly defined accountabilities or organisational design patterns. Therefore, the confidence score reflects a low alignment with the category of accountability.",
+    "reasoning": "The content discusses customer feedback loops and their role in product development, which indirectly relates to accountability through the emphasis on aligning products with user needs. However, it does not explicitly mention accountability or outcome ownership, nor does it delve deeply into structural accountabilities or role-specific responsibilities. The focus is more on the process of gathering feedback rather than on who is accountable for the outcomes of that process.",
     "level": "Ignored"
   },
   "Framework": {
@@ -165,6 +165,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses customer feedback loops, which are related to the iterative process of product development but does not explicitly mention artifacts as defined in Agile, Scrum, or Lean. While it touches on the importance of user insights and continuous learning, it lacks a direct focus on specific artifacts like Product Backlogs or Sprint Backlogs. The discussion is more about processes and cultural aspects rather than the structure and role of artifacts themselves.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:54:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses customer feedback loops, which indirectly relate to discipline through the themes of continuous improvement and systematic processes. However, the primary focus is on customer feedback rather than discipline itself. The direct mentions of discipline are minimal, and while there is some conceptual alignment with disciplined practices in product development, the depth of discussion does not delve deeply into the principles of discipline.",
     "level": "Ignored"
   }
 }

@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:01:15",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-04-10T12:01:32",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 61.0,
-    "reasoning": "The content discusses deployment frequency and its impact on value delivery and team ownership, which touches on accountability. However, it primarily focuses on the operational aspect of deployment rather than explicitly defining accountabilities within a structural framework. While it mentions a mindset of accountability, it lacks detailed exploration of roles or systemic outcomes related to accountability in Agile or DevOps contexts.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of deployment frequency in relation to value delivery and team ownership, which aligns with accountability principles. However, it does not explicitly define roles or structural accountabilities, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses deployment frequency as a metric in software development, which is related to Agile and DevOps practices. However, it does not explicitly mention artifacts or their specific roles, such as Product Backlog or Increment. The focus is more on the process and outcomes of deployment rather than on the artifacts themselves. While there is some alignment with the themes of transparency and continuous improvement, the depth of discussion on artifacts is minimal, leading to a low confidence score.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:54:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses deployment frequency in detail, highlighting its importance in software delivery and its impact on organisational culture and practices. While it does not explicitly mention 'discipline', it aligns with the core themes of discipline in terms of accountability, continuous improvement, and structured processes. The depth of discussion is significant, providing insights into how deployment frequency contributes to a disciplined approach in software development.",
+    "level": "Tertiary"
   }
 }

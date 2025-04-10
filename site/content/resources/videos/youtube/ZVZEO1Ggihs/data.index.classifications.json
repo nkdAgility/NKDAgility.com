@@ -200,33 +200,6 @@
     "reasoning": "The content discusses the importance of leadership in scaling organisations, which aligns with the principles of business agility. It highlights the need for an adaptable environment and the role of leadership in fostering agility, but it lacks detailed exploration of specific agile methodologies or frameworks. The focus is primarily on leadership challenges rather than a comprehensive discussion of business agility as a whole.",
     "level": "Secondary"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-25T12:09:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses leadership challenges in scaling Agile rather than the application of AI in Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-25T12:09:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses leadership challenges in scaling organisations, with no clear focus on Kanban principles or practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-25T12:09:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses leadership challenges in scaling rather than specific Scrum practices or product development.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-25T12:09:06",
@@ -353,15 +326,6 @@
     "reasoning": "The content discusses leadership in the context of scaling organisations, which relates to team dynamics and decision-making. However, it primarily focuses on technical challenges and Agile methodologies, making the psychological aspects a secondary theme.",
     "level": "Tertiary"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-25T12:09:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses leadership challenges in scaling rather than code quality or complexity.",
-    "level": "Ignored"
-  },
   "Estimation": {
     "category": "Estimation",
     "calculated_at": "2025-02-25T12:09:26",
@@ -369,15 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses leadership challenges in scaling Agile rather than estimation practices.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-25T12:09:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses leadership challenges in scaling rather than practical techniques or tooling related to Agile and DevOps.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -425,24 +380,6 @@
     "reasoning": "Content primarily discusses leadership challenges in scaling Agile practices rather than the management of software application lifecycles.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-25T12:09:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses leadership challenges in scaling Agile, which could relate to presentations or discussions on the topic, but it primarily focuses on the challenges rather than specific events or presentations.",
-    "level": "Tertiary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-25T12:09:38",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the leadership challenges associated with scaling Agile practices, which aligns with the principles of Scaled Agile methodologies.",
-    "level": "Secondary"
-  },
   "Technical Mastery": {
     "category": "Technical Mastery",
     "calculated_at": "2025-02-25T12:09:39",
@@ -489,15 +426,6 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content primarily discusses leadership challenges in scaling organisations, with no clear focus on the Daily Scrum or its related topics.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-25T12:10:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses leadership challenges in scaling Agile rather than the integration of AI and automation within Agile frameworks.",
     "level": "Ignored"
   },
   "Agile Project Management": {
@@ -791,15 +719,6 @@
     "reasoning": "The content discusses leadership in the context of scaling, which is somewhat related to Evidence-Based Management, particularly in terms of empowering teams and decentralising decision-making. However, it lacks direct mentions of empirical evidence or specific metrics that are central to EBM. The focus is more on leadership principles rather than data-informed decision-making, resulting in a low confidence score.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-25T12:10:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses leadership challenges in scaling rather than the role of software developers in Agile and DevOps contexts.",
-    "level": "Ignored"
-  },
   "Experimentation": {
     "category": "Experimentation",
     "calculated_at": "2025-02-25T12:10:49",
@@ -976,11 +895,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-25T12:11:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T10:45:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses leadership challenges in scaling rather than technical aspects of system configuration.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on leadership and organisational behaviour in the context of scaling, with minimal reference to system configuration. While it touches on aspects like architecture and infrastructure, these are not explored in detail or linked to configuration management or best practices. The discussion lacks depth in system configuration topics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1026,15 +948,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses leadership challenges in scaling rather than Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-25T12:11:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses leadership challenges in scaling Agile rather than providing news or reviews related to Agile methodologies or tools.",
     "level": "Ignored"
   },
   "Continuous Learning": {
@@ -1111,20 +1024,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-25T12:11:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T10:45:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses leadership challenges in scaling rather than focusing on throughput measurement or optimisation.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-25T12:11:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses leadership challenges in scaling Agile rather than focusing on transparency and accountability principles.",
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on leadership and organisational culture in the context of scaling, with minimal direct reference to throughput as a delivery metric. While it discusses eliminating bottlenecks and empowering teams, it does not explicitly define or analyse throughput, nor does it provide detailed insights into measuring or visualising throughput. The discussion is more about leadership challenges rather than throughput metrics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "MVP": {
@@ -1168,11 +1075,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-25T12:11:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T10:45:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses leadership challenges in scaling rather than focusing on Lead Time as a metric.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses leadership and its impact on scaling, which indirectly relates to Lead Time through the elimination of bottlenecks and empowering teams. However, it does not explicitly mention Lead Time or provide detailed insights into measuring or optimising it, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Scrum Team": {
@@ -1210,24 +1120,6 @@
     "final_score": 1.0,
     "reasoning": "Content primarily discusses leadership challenges in scaling rather than Scrum Values.",
     "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-25T12:11:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses leadership challenges in scaling rather than focusing on discovery and learning processes.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-25T12:11:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses scaling in a leadership context, which is relevant to scaling Scrum, but does not specifically address Scrum frameworks or practices.",
-    "level": "Tertiary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -1346,15 +1238,6 @@
     "reasoning": "The content discusses leadership's role in scaling organisations, which relates to decision-making and the dynamics of complexity. However, it primarily focuses on leadership principles rather than a comprehensive exploration of sensemaking.",
     "level": "Tertiary"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-25T12:12:17",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the leadership challenges and organisational behaviours necessary for scaling agility, aligning well with the category's focus on fostering an agile culture across the organisation.",
-    "level": "Secondary"
-  },
   "Organisational Physics": {
     "category": "Organisational Physics",
     "calculated_at": "2025-02-25T12:12:19",
@@ -1417,18 +1300,6 @@
     "final_score": 83.0,
     "reasoning": "The content explicitly discusses the critical role of leadership in scaling organisations, highlighting how leadership impacts collaboration, decision-making, and the overall environment necessary for growth. It aligns well with the core themes of the category, focusing on adaptive leadership styles and the importance of shaping leadership behaviours. The depth of discussion is substantial, providing insights into the challenges leaders face and the need for effective leadership in overcoming scaling issues.",
     "level": "Primary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-06T12:34:13",
-    "ai_confidence": 87.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 90.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 20,
-    "final_score": 80.0,
-    "reasoning": "The content explicitly discusses the role of leadership in scaling organisations, highlighting the importance of human behaviour and collaboration over technical aspects. It aligns well with the core themes of the category, focusing on how leadership influences team dynamics and decision-making processes. The depth of discussion is significant, as it addresses the need for a supportive environment and the impact of leadership behaviours on organisational growth.",
-    "level": "Secondary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
@@ -1501,5 +1372,41 @@
     "final_score": 57.0,
     "reasoning": "The content discusses leadership in the context of scaling and emphasises the importance of empowering teams and decentralising decision-making, which aligns with the principles of Agentic Agility. However, it lacks explicit references to the concept of Agentic Agility itself and does not differentiate between human and AI capabilities. The discussion is more focused on leadership practices rather than a deep exploration of intentional shaping of outcomes through agency.",
     "level": "Tertiary"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T10:45:42",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses scaling as a leadership challenge, focusing on empowering teams, eliminating bottlenecks, and decentralising decision-making, which aligns well with the core themes of the Scaling category. It provides a detailed exploration of how leadership impacts scaling efforts, making it a primary focus rather than a secondary mention. The depth of discussion is significant, as it outlines specific strategies and considerations for effective scaling, thus justifying a high confidence score.",
+    "level": "Secondary"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T10:45:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses leadership in the context of scaling, which indirectly relates to product development by emphasising team empowerment and decision-making. However, it lacks direct references to product development methodologies or practices, focusing more on leadership principles than on iterative processes or customer feedback integration.",
+    "level": "Tertiary"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T10:47:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses leadership and organisational scaling, with no direct mention of GitHub or its functionalities. While it touches on themes relevant to team collaboration and decision-making, these concepts are not specifically tied to GitHub or its tools, resulting in a low confidence score.",
+    "level": "Ignored"
   }
 }

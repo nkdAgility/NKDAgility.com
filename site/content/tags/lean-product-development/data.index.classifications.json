@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:37:36",
-    "ai_confidence": 25.0,
+    "calculated_at": "2025-04-10T12:00:24",
+    "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
-    "ai_depth": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
-    "reasoning": "The content discusses Lean Product Development, focusing on minimising waste and maximising learning, which does not directly address accountability as a structural concept. While it mentions collaboration and alignment with organisational goals, it lacks explicit references to defined accountabilities or ownership of outcomes, which are central to the accountability category.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Lean Product Development, focusing on minimising waste and maximising learning, which indirectly relates to accountability through efficiency and value delivery. However, it lacks explicit mentions of accountability, outcome ownership, or specific roles like Product Owner or Scrum Master. The discussion is more about processes and methodologies rather than the structural accountabilities that define roles and responsibilities in work systems.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses Lean Product Development and its principles, focusing on minimising waste and maximising learning. However, it does not explicitly mention specific artifacts such as Product Backlogs or Sprint Backlogs, which are central to the 'Artifact' category. While it touches on concepts like cross-functional teams and iterative cycles, these are more about processes and methodologies rather than the formal representations of work that artifacts represent. Therefore, the direct mentions are low, and while there is some conceptual alignment with the idea of transparency and adaptation, the depth of discussion on specific artifacts is minimal.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:52:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses Lean Product Development, which indirectly relates to discipline through the emphasis on efficiency, continuous improvement, and systematic thinking. However, it does not explicitly mention 'discipline' as a concept, leading to a lower direct mention score. The alignment with core themes of discipline is moderate, as it touches on structured methodologies and practices. The depth of discussion is substantial, providing insights into processes and tools, but it lacks a focused exploration of discipline itself.",
+    "level": "Secondary"
   }
 }

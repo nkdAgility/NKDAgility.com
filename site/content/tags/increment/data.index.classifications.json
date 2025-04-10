@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:43:05",
+    "calculated_at": "2025-04-10T12:00:39",
     "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses the concept of 'Increment' in Agile methodologies, focusing on delivering value and fostering collaboration. While it touches on transparency and the importance of measurable outputs, it does not explicitly address accountability as a structural concept or the ownership of outcomes. The discussion is more about the process and benefits of increments rather than who owns the outcomes, which is central to the accountability category.",
+    "reasoning": "The content discusses the Increment as a core artifact in Scrum and Agile, highlighting its role in delivering value and fostering transparency. However, it does not explicitly address accountability or outcome ownership, which are central to the category. While it touches on aspects of collaboration and alignment, these are secondary to the main focus on the Increment itself.",
     "level": "Ignored"
   },
   "Framework": {
@@ -165,6 +165,18 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content explicitly discusses the concept of 'Increment' as a tangible output in Agile methodologies, particularly within Scrum. It aligns closely with the definition of artifacts, focusing on their role in delivering value and facilitating transparency. The depth of discussion is significant, covering the importance of increments in continuous delivery, stakeholder feedback, and alignment with Lean principles. Overall, the content is highly relevant to the category of 'Artifact' and provides a comprehensive exploration of its purpose and implications.",
+    "level": "Secondary"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:52:45",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses the concept of 'Increment' within the context of Scrum and Agile methodologies, which are closely related to the discipline of project management and software development. It directly mentions the Increment as a core artifact and elaborates on its significance in delivering value, transparency, and adaptability. The depth of discussion is high, providing detailed insights into how increments facilitate collaboration and decision-making, aligning well with the principles of discipline in a structured development environment.",
     "level": "Secondary"
   }
 }

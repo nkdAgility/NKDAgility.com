@@ -32,8 +32,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Scaled Agile
+- Scaling
+- Product Development
+- Large Scale Agility
+- Enterprise Agility
+- Organisational Agility
+- Software Development
+- Operational Practices
+- Pragmatic Thinking
+- Technical Debt
+- Agile Frameworks
+- Product Delivery
+- Technical Leadership
+- Continuous Improvement
+- Flow Efficiency
+- Agile Project Management
 resourceTypes:
 - video
 categories: []

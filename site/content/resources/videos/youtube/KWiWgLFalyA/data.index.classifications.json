@@ -98,15 +98,6 @@
     "reasoning": "The content discusses scaling product development and the importance of alignment, which are relevant to Agile principles, but it is not primarily focused on Agile Product Management concepts specifically.",
     "level": "Tertiary"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-20T18:25:53",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of team alignment, system optimization, and the role of clarity in scaling product development, which relates to team dynamics and the human factors in process improvement. However, it is primarily focused on scaling strategies rather than a comprehensive exploration of people and processes.",
-    "level": "Secondary"
-  },
   "Team Collaboration": {
     "category": "Team Collaboration",
     "calculated_at": "2025-02-20T18:25:53",
@@ -188,15 +179,6 @@
     "reasoning": "Content primarily discusses scaling product development and team alignment, without specific focus on Agile engineering practices or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-20T18:25:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on scaling product development teams and operational challenges rather than industry news or reviews related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
     "calculated_at": "2025-02-20T18:25:53",
@@ -214,15 +196,6 @@
     "final_score": 0.0,
     "reasoning": "Content focuses on scaling product development teams and technical systems optimization rather than psychological principles like motivation, leadership, or employee engagement.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-20T18:25:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses scaling product development teams and touches on distinctions necessary for effective collaboration and delivery, which relates to Agile principles, but it is more focused on high-level organizational strategy rather than specifically on software developers' roles in Agile or DevOps.",
-    "level": "Tertiary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -250,15 +223,6 @@
     "final_score": 63.0,
     "reasoning": "Content discusses scaling product development and emphasizes the importance of alignment and system optimization, which are central to Agile strategy principles, though it mainly focuses on operational aspects of scaling.",
     "level": "Secondary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-20T18:25:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses scaling product development and the importance of clarity and system optimization, without specific reference to practical techniques or tools related to Agile and DevOps.",
-    "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
@@ -314,15 +278,6 @@
     "reasoning": "Content discusses issues related to scaling product development teams, including alignment and system optimization, which are relevant to product delivery methodologies.",
     "level": "Tertiary"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-20T18:25:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses complexity in the context of scaling product development teams and highlights issues such as technical debt and system optimization, which relate to the concept of complexity in software development processes. However, the primary focus is more on team dynamics and system management rather than a direct discussion of code quality or complexity theory.",
-    "level": "Tertiary"
-  },
   "Technical Excellence": {
     "category": "Technical Excellence",
     "calculated_at": "2025-02-20T18:25:53",
@@ -343,11 +298,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-20T18:25:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on scaling product development and team alignment rather than specifically discussing Lead Time or its measurement.",
+    "calculated_at": "2025-04-10T10:48:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses scaling product development and mentions the importance of streamlining workflows and reducing bottlenecks, which are related to Lead Time. However, it does not explicitly define or focus on Lead Time as a metric, nor does it provide in-depth analysis or measurement techniques specific to Lead Time. The primary focus is on scaling challenges rather than Lead Time itself.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -461,15 +419,6 @@
     "reasoning": "Content focuses primarily on scaling product development, team alignment, and management strategies rather than technical practices or software craftsmanship.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-20T18:25:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses primarily on scaling product development and improving team alignment, with no specific mention of events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Scrum Values": {
     "category": "Scrum Values",
     "calculated_at": "2025-02-20T18:25:53",
@@ -569,15 +518,6 @@
     "reasoning": "The content discusses scaling teams and optimizing systems for effective team collaboration, which aligns with aspects of team performance, though it is not exclusively focused on it.",
     "level": "Tertiary"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-20T18:25:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses scaling product development teams and system optimization, without mentioning AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
     "calculated_at": "2025-02-20T18:25:53",
@@ -587,15 +527,6 @@
     "reasoning": "Content primarily discusses scaling product development and system optimization rather than customer satisfaction or related themes.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-20T18:25:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses themes of scaling teams and the challenges associated with scaling in the context of software development, but it does not specifically mention Scrum or Scrum-related frameworks, roles, or events as central topics.",
-    "level": "Tertiary"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
     "calculated_at": "2025-02-20T18:25:53",
@@ -604,15 +535,6 @@
     "final_score": 63.0,
     "reasoning": "Content discusses the importance of aligning teams and optimizing systems for effective scaling, which aligns with the principles of organisational agility; however, it is primarily focused on scaling product development rather than a broader discussion of agility.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-20T18:25:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses scaling product development and system optimization, but does not focus on transparency or accountability as primary themes.",
-    "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -686,15 +608,6 @@
     "reasoning": "Content primarily discusses scaling product development and system optimization, which are not specific to the Product Owner's role or responsibilities.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-14T16:19:34",
-    "ai_confidence": 30,
-    "non_ai_confidence": 20,
-    "final_score": 29.0,
-    "reasoning": "Content discusses product development scaling but does not primarily focus on Scrum principles, roles, or practices. It emphasizes alignment and system optimization rather than specific Scrum methodologies.",
-    "level": "Ignored"
-  },
   "Remote Working": {
     "category": "Remote Working",
     "calculated_at": "2025-02-20T18:25:53",
@@ -706,11 +619,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-20T18:25:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T10:48:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses scaling product development teams and organizational alignment rather than technical system configuration.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses scaling product development and the importance of creating a robust system, which touches on system configuration concepts. However, it primarily focuses on team alignment and process management rather than specific system configuration practices, tools, or methodologies. The mention of 'system' is vague and does not delve into the technical aspects of system configuration, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Lean Startup": {
@@ -795,15 +711,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses scaling product development and system optimization, with a focus on alignment and reducing friction, but does not explicitly address Lean Thinking principles or key topics.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-20T18:25:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses scaling challenges in product development without focusing on Kanban principles or practices.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
@@ -998,24 +905,6 @@
     "reasoning": "Content primarily discusses scaling product development and Agile principles without reference to specific frameworks or methodologies.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-20T18:25:53",
-    "ai_confidence": 60,
-    "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses the challenges and strategies involved in scaling product development, emphasizing aspects like alignment and system optimization, which are relevant to scaled Agile practices.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-20T18:25:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses scaling product development and system optimization without a primary focus on discovery and learning processes.",
-    "level": "Ignored"
-  },
   "Product Backlog": {
     "category": "Product Backlog",
     "calculated_at": "2025-02-20T18:25:53",
@@ -1042,15 +931,6 @@
     "final_score": 45.0,
     "reasoning": "The content addresses themes of scaling and optimizing development processes, which are relevant to Agile transformation, albeit as a secondary theme.",
     "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-20T18:25:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on scaling product development teams and related challenges without discussing AI's role in Agile or DevOps methodologies.",
-    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -1171,15 +1051,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-06T14:33:22",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "calculated_at": "2025-04-10T10:48:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the challenges of scaling product development and the importance of system effectiveness, which indirectly relates to throughput. However, it lacks explicit mentions of throughput metrics or techniques for measuring it. The focus is more on general scaling issues rather than optimising work completion rates, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses scaling product development and the challenges associated with it, touching on concepts like alignment and bottlenecks, which are relevant to throughput. However, it does not explicitly mention throughput as a metric or provide detailed analysis or visualisation of throughput. The focus is more on general scaling challenges rather than a thorough examination of throughput as a delivery metric.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1311,15 +1191,6 @@
     "non_ai_confidence": 10,
     "final_score": 46.0,
     "reasoning": "The content discusses the importance of alignment, system optimization, and managing technical debt in the context of scaling development teams, which relates to technical leadership principles.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-20T18:25:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of scaling beyond just adding developers, emphasizing the importance of alignment and system optimization, which indicates a recognition of wider agile principles. However, it primarily focuses on team-level dynamics rather than enterprise-level scaling practices.",
     "level": "Tertiary"
   },
   "Scrum Team": {
@@ -1488,6 +1359,42 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses scaling product development and the importance of alignment and system management, which are tangentially related to Agentic Agility. However, it lacks explicit references to the intentional shaping of outcomes or the distinction between human and AI capabilities. The focus is more on general scaling challenges rather than the transformative capacity of individuals or systems.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T10:48:03",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses the complexities of scaling product development, focusing on alignment, managing technical debt, and streamlining processes. It addresses key challenges and provides actionable recommendations, aligning well with the core themes of the Scaling category. The depth of discussion is substantial, covering both challenges and solutions, which enhances its relevance to the category.",
+    "level": "Primary"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T10:48:05",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses the complexities of scaling product development, focusing on alignment, technical debt, and feedback loops, which are core themes of product development methodologies. It provides detailed insights into the challenges and strategies for effective scaling, demonstrating a strong alignment with the principles of Agile and continuous improvement practices.",
+    "level": "Secondary"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T10:48:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content discusses scaling product development and team alignment but does not mention GitHub or its functionalities. While it touches on concepts relevant to Agile and team workflows, it lacks direct references to GitHub services, tools, or best practices, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

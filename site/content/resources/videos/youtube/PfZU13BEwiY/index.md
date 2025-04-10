@@ -30,6 +30,14 @@ tags:
 - Technical Debt
 - Pragmatic Thinking
 - Software Development
+- Scaling
+- Technical Leadership
+- Operational Practices
+- Technical Excellence
+- Technical Mastery
+- Shift-Left Strategy
+- Continuous Delivery
+- Product Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

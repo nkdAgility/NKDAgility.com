@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:12:28",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
+    "calculated_at": "2025-04-10T11:59:11",
+    "ai_confidence": 75.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 30,
-    "final_score": 64.0,
-    "reasoning": "The content mentions accountability as part of the Professional Scrum ethos, indicating its importance in the framework. However, it does not delve deeply into specific roles or structural accountabilities within Scrum, nor does it explore the implications of accountability on outcomes or organisational design. The discussion is more philosophical and broad, lacking detailed exploration of how accountability is defined or operationalised in practice.",
+    "final_score": 70.0,
+    "reasoning": "The content explicitly mentions accountability as a core aspect of Professional Scrum, indicating its importance in the framework. It discusses the roles of Product Owners and Scrum Masters, which aligns with the category's focus on role-specific accountabilities. The depth of discussion is substantial, as it explores the implications of accountability in the context of Scrum and complex product delivery, although it could benefit from more specific examples of outcome ownership.",
     "level": "Secondary"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses the principles of Professional Scrum, focusing on transparency and accountability, but it does not explicitly mention specific artifacts or their roles within Agile or Scrum. While it aligns conceptually with the importance of transparency and empirical control, it lacks direct references to tangible artifacts like Product Backlog or Sprint Backlog, which are crucial for the 'Artifact' category. The depth of discussion is moderate, touching on the philosophy behind Scrum but not providing detailed insights into the structure or management of artifacts.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:51:00",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 30,
+    "final_score": 81.0,
+    "reasoning": "The content explicitly discusses the concept of 'Professional Scrum' as a disciplined approach, highlighting key principles such as accountability, continuous improvement, and the roles of individuals within the Scrum framework. The direct mentions of discipline and the emphasis on professionalism and accountability contribute significantly to the confidence score. Additionally, the content aligns well with the core themes of discipline by focusing on the structured and responsible approach to Scrum practices. The depth of discussion is substantial, providing insights into the philosophy and practical implications of adopting a disciplined mindset in Scrum, which further supports a high confidence score.",
+    "level": "Primary"
   }
 }

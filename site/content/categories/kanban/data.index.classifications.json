@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:47:34",
+    "calculated_at": "2025-04-10T12:04:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses Kanban as a strategy for managing flow and improving value delivery, but it does not explicitly address accountability as a structural concept. While it touches on transparency and decision-making, which are related to accountability, the primary focus is on the Kanban methodology itself rather than on defined accountabilities or ownership of outcomes in a system of work.",
+    "reasoning": "The content discusses Kanban as a strategy for managing flow and improving value delivery, but it does not explicitly address accountability as a foundational mechanism in work systems. While it touches on transparency and decision-making, which are related to accountability, the primary focus is on the Kanban methodology itself rather than on the structural accountabilities or roles that influence performance and outcome ownership.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses Kanban as a strategy for managing work and improving flow, which aligns with the concept of artifacts in terms of transparency and empirical control. However, it does not explicitly mention specific artifacts like Product Backlog or Sprint Backlog, nor does it delve deeply into the structure or management of artifacts themselves. The focus is more on the principles and practices of Kanban rather than on artifacts as formal representations of work.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:56:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses Kanban as a strategy for managing work and improving flow, which aligns with the concept of discipline in terms of structured approaches to work. However, it does not explicitly mention 'discipline' or delve deeply into the principles of discipline itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T14:48:20",
-    "ai_confidence": 25.0,
+    "calculated_at": "2025-04-10T11:57:50",
+    "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
-    "reasoning": "The content discusses the importance of defining success criteria and expectations in the context of Test First development, which indirectly relates to accountability. However, it does not explicitly address accountability as a structural concept or delve into roles and ownership within a system of work. The focus is more on testing practices and collaboration rather than on who owns outcomes or the implications of accountability in Agile or Scrum frameworks.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of defining success criteria and clarity in the development process, which indirectly relates to accountability. However, it does not explicitly address accountability as a structural construct or discuss roles like Product Owner or Scrum Master. The focus is more on testing practices rather than on outcome ownership or accountability in work systems.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses the Test First practice, which indirectly relates to the concept of defining success criteria and expectations, akin to artifacts in Agile. However, it does not explicitly mention specific artifacts or their roles in Agile, Scrum, or Lean frameworks. The focus is more on testing practices rather than on the artifacts themselves, leading to a lower confidence score.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:49:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the Test First development practice, which indirectly relates to discipline through its emphasis on defining success criteria and structured testing processes. However, while it touches on aspects of discipline in software development, it primarily focuses on testing methodologies rather than discipline as a standalone concept. The direct mentions of discipline are minimal, and the depth of discussion on discipline-related themes is moderate, leading to a moderately high confidence score.",
+    "level": "Secondary"
   }
 }

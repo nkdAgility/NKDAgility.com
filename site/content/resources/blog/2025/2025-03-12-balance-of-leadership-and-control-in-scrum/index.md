@@ -23,16 +23,21 @@ categories:
 - Leadership
 - Product Management
 tags:
-- Accountability
-- Scrum Product Development
 - Scrum Team
 - Scrum Master
 - Professional Scrum
 - Technical Leadership
 - Agile Product Management
-- People and Process
+- Product Development
 - Agile Leadership
 - Team Performance
+- Agile Project Management
+- Agile Frameworks
+- Software Development
+- Pragmatic Thinking
+- Agile Transformation
+- Organisational Agility
+- Product Delivery
 
 ---
 Scrum is built on self-management, yet accountability cannot exist without authority. If Scrum Masters and Product Owners are held responsible for outcomes, how much control should they have? Too much, and teams lose autonomy. Too little, and they become ineffective. This article explores the nuanced balance of leadership, authority, and control in Scrum—how influence must be complemented by decisive action to enable true agility.

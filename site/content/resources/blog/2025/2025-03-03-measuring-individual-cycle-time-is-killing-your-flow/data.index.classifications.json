@@ -85,15 +85,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-06T13:17:15",
-    "ai_confidence": 92.0,
-    "ai_mentions": 18,
-    "ai_alignment": 36,
-    "ai_depth": 38,
+    "calculated_at": "2025-04-10T10:44:22",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 50,
-    "final_score": 88.0,
-    "reasoning": "The content extensively discusses the concept of throughput in relation to Kanban and system flow, highlighting the importance of optimising workflows rather than focusing on individual metrics. It directly mentions throughput multiple times and provides a detailed analysis of how measuring individual cycle time can misrepresent system efficiency. The depth of discussion includes strategies for improving throughput, such as managing work in progress and identifying bottlenecks, which aligns closely with the key topics outlined for the category.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content discusses throughput explicitly in the context of improving flow and system efficiency, highlighting its importance alongside Process Cycle Efficiency (PCE). It provides a clear understanding of how throughput relates to overall system performance and the pitfalls of focusing on individual metrics. However, while throughput is mentioned and discussed, the primary focus is on individual cycle time and its implications, which slightly detracts from a deeper exploration of throughput as a standalone metric.",
+    "level": "Secondary"
   },
   "Strategy": {
     "category": "Strategy",
@@ -165,18 +165,6 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses individual cycle time and process efficiency within a Kanban framework, focusing on system optimisation rather than financial metrics or productivity analysis related to revenue per employee. There are no direct mentions of revenue per employee, and the discussion does not align with the core themes of the category.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 0,
-    "final_score": 11.0,
-    "reasoning": "The content primarily discusses Kanban principles and the pitfalls of measuring individual cycle time, which is not directly related to Scaling Scrum. While it touches on concepts of flow and system optimisation, it does not address any specific frameworks, challenges, or practices associated with scaling Scrum in large organisations.",
     "level": "Ignored"
   },
   "Portfolio Management": {
@@ -287,18 +275,6 @@
     "reasoning": "The content discusses optimising flow and system efficiency, which aligns with Lean principles. It critiques individual cycle time metrics and emphasises systemic improvements, reflecting Lean's focus on waste reduction and value delivery. However, it does not explicitly mention Lean Product Development or its specific techniques, resulting in a high confidence score but not a perfect one.",
     "level": "Secondary"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 25.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 22.0,
-    "reasoning": "The content primarily discusses Kanban principles and the inefficiencies of measuring individual cycle time, which is not directly related to Scrum practices. While it touches on concepts of workflow and system optimisation, it lacks explicit references to Scrum roles, events, or product development processes, leading to a low confidence score in alignment with the category.",
-    "level": "Ignored"
-  },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
     "calculated_at": "2025-03-14T16:24:30",
@@ -395,18 +371,6 @@
     "reasoning": "The content primarily discusses Kanban and the inefficiencies of measuring individual cycle time, which does not relate to Test First Development principles. There are no direct mentions of Test First practices, success criteria, or testing methodologies. The focus is on system flow rather than testing approaches, leading to a very low confidence score.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on individual cycle time in Kanban and its impact on system flow, which is more aligned with team-level practices rather than scaling agility across an organisation. While it touches on systemic issues and collaboration, it does not explicitly discuss frameworks for scaling agility or organisational-level strategies, leading to a low confidence score.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
     "calculated_at": "2025-03-14T16:24:30",
@@ -417,18 +381,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Kanban and the importance of optimising workflow rather than focusing on individual metrics, which is relevant to Agile methodologies. However, it does not explicitly mention Agile Planning Tools or provide detailed insights into specific tools or techniques for Agile planning. The focus is more on process improvement and flow rather than on planning tools themselves.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 10,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily discusses the Kanban methodology and the implications of measuring individual cycle time on system flow, which is more aligned with process optimisation than with code quality or complexity. While it touches on concepts like bottlenecks and systemic inefficiencies, it does not delve into software code quality, architecture, or complexity theory as defined in the category. The focus is on workflow and process rather than the complexities of code and its maintainability.",
     "level": "Ignored"
   },
   "Mentoring": {
@@ -477,18 +429,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of optimising workflows and improving system efficiency through Kanban, which aligns with the principles of digital transformation. However, it primarily focuses on individual cycle time and process efficiency rather than the broader strategic adoption of digital technologies. While it touches on concepts relevant to digital transformation, such as system improvement and collaboration, it lacks a direct focus on digital tools or methodologies, resulting in a lower confidence score.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily discusses the implications of measuring individual cycle time within the context of Kanban, which is relevant to Agile methodologies. However, it lacks direct mentions of news or reviews, focusing instead on theoretical concepts and practical advice. While it aligns with the core themes of Agile, it does not provide updates or evaluations of tools or practices, which diminishes its relevance to the 'News and Reviews' category.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -610,18 +550,6 @@
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Kanban and the importance of optimising workflow rather than focusing on individual productivity. While it touches on concepts related to flow and efficiency, it does not explicitly address Continuous Delivery principles or practices. The discussion is more aligned with general process improvement and team dynamics rather than the specific practices of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-04T12:47:28",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 0,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the implications of measuring individual cycle time within the context of Kanban, which is relevant to software development practices. However, it primarily focuses on process optimisation rather than the specific role of software developers in Agile or DevOps methodologies. While it touches on collaboration and systemic improvements, it lacks a direct emphasis on developer practices or tools, leading to a moderate confidence score.",
-    "level": "Secondary"
   },
   "MVP": {
     "category": "MVP",
@@ -767,30 +695,6 @@
     "reasoning": "The content extensively discusses Kanban principles, focusing on optimising workflow and system efficiency rather than individual productivity. It aligns well with agile methodologies by emphasising collaboration, systemic improvement, and the importance of metrics that enhance project delivery. The depth of discussion on how to measure and improve flow within a Kanban framework further supports its relevance to Agile Project Management.",
     "level": "Secondary"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-04T12:48:06",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses the Kanban methodology and its focus on optimising system flow rather than individual productivity, which aligns with the category's emphasis on practical techniques. However, while it mentions specific metrics and practices, it lacks detailed exploration of tools or frameworks, resulting in a moderate confidence score.",
-    "level": "Secondary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-04T12:48:08",
-    "ai_confidence": 67.0,
-    "ai_mentions": 12,
-    "ai_alignment": 30,
-    "ai_depth": 25,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the importance of optimising systems over individual performance, which aligns with the principles of continuous learning and improvement. It highlights the need for feedback loops and understanding systemic issues, which are key aspects of discovery and learning. However, while it touches on these themes, the primary focus is on Kanban methodology and individual metrics rather than a broader exploration of discovery and learning processes.",
-    "level": "Secondary"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
     "calculated_at": "2025-03-04T12:48:11",
@@ -802,30 +706,6 @@
     "final_score": 83.0,
     "reasoning": "The content extensively discusses the importance of optimising workflow and system efficiency within the context of Kanban, which aligns closely with operational practices. It directly addresses the pitfalls of measuring individual cycle time and emphasises the need for a holistic view of process efficiency, making it a primary focus. The depth of discussion is significant, providing detailed insights into metrics and strategies for improving operational flow, thus justifying a high confidence score.",
     "level": "Primary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 30,
-    "final_score": 14.0,
-    "reasoning": "The content primarily discusses Kanban methodology and the implications of measuring individual cycle time on system flow, without any direct mention or exploration of AI's role in Agile or DevOps practices. While it touches on process improvement, it does not align with the core themes of AI integration in these methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 25.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 22.0,
-    "reasoning": "The content primarily discusses Kanban and individual cycle time metrics, focusing on optimising workflow rather than scaling Agile practices across multiple teams or at an enterprise level. While it touches on collaboration and systemic improvement, it does not explicitly address frameworks for scaling Agile or enterprise-level strategies, which are central to the Scaled Agile category.",
-    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -1079,18 +959,6 @@
     "reasoning": "The content primarily discusses the technical aspects of measuring cycle time in Kanban systems, focusing on systemic improvements rather than personal experiences or reflections. While it mentions the impact of individual metrics on team dynamics, it lacks personal anecdotes or subjective insights that would align with the 'Personal' category.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-03-04T12:49:24",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses Kanban principles and their application to improve flow within a system, which aligns with the core themes of Scaling Kanban. However, it primarily focuses on individual cycle time and its impact on system flow rather than explicitly addressing scaling Kanban practices across multiple teams or departments. While it touches on important concepts like WIP and systemic inefficiencies, it lacks detailed strategies or case studies related to scaling Kanban in large organisations.",
-    "level": "Secondary"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
     "calculated_at": "2025-04-08T15:28:22",
@@ -1114,18 +982,6 @@
     "final_score": 78.0,
     "reasoning": "The content primarily discusses the Kanban methodology, focusing on optimising workflow and system efficiency rather than individual productivity. It aligns well with software development practices, particularly in the context of Agile methodologies and continuous improvement. The depth of discussion on systemic issues and metrics relevant to software development enhances its relevance, although it does not delve deeply into specific coding practices or technical details.",
     "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 3.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the concept of measuring individual cycle time in Kanban systems, focusing on process efficiency rather than events or presentations. While it references insights from Nigel Thurlow, it does not mention any specific events, talks, or presentations, nor does it engage with the community aspect of learning through events. The discussion is theoretical and does not connect to actual events or structured learning experiences.",
-    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1177,14 +1033,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-03-04T12:50:16",
+    "calculated_at": "2025-04-10T10:44:17",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
     "final_score": 62.0,
-    "reasoning": "The content discusses lead time in the context of customer delivery and emphasises the importance of optimising the entire system rather than focusing on individual cycle times. While lead time is mentioned, the primary focus is on cycle time and process efficiency, which detracts from a deeper exploration of lead time as a standalone metric. The discussion aligns conceptually with lead time but lacks sufficient depth and direct emphasis on it.",
+    "reasoning": "The content discusses the importance of optimising flow and mentions 'customer lead time' explicitly, which aligns with the category. However, the primary focus is on cycle time and individual productivity, which detracts from a deeper exploration of lead time as a metric. While it provides some relevant insights, the overall emphasis is not on lead time itself.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -1223,18 +1079,6 @@
     "reasoning": "The content discusses the inefficiencies of measuring individual cycle time in Kanban systems, which indirectly relates to troubleshooting systemic issues. However, it primarily focuses on process optimisation and team dynamics rather than specific troubleshooting techniques or methodologies. The mention of identifying bottlenecks and systemic constraints aligns with troubleshooting concepts, but the overall emphasis is more on improving workflow rather than diagnosing and resolving technical issues.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-04T12:50:25",
-    "ai_confidence": 87.0,
-    "ai_mentions": 18,
-    "ai_alignment": 36,
-    "ai_depth": 32,
-    "non_ai_confidence": 30,
-    "final_score": 81.0,
-    "reasoning": "The content primarily discusses the impact of measuring individual cycle time on team dynamics and system efficiency, aligning closely with the category's focus on human behaviour and structured methodologies. It highlights how individual metrics can distort collaboration and lead to unintended behaviours, emphasising the importance of optimising processes over individual performance. The depth of discussion is significant, providing detailed insights into how these practices affect team collaboration and overall workflow efficiency.",
-    "level": "Primary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-03-14T16:24:30",
@@ -1259,18 +1103,6 @@
     "reasoning": "The content primarily discusses the implications of measuring individual cycle time in Kanban systems, focusing on optimising workflow rather than release management practices. While it touches on concepts like flow and efficiency, it does not explicitly address release planning, version control, or coordination among stakeholders, which are central to release management.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content primarily discusses Kanban and the importance of optimising system flow rather than individual productivity. While it touches on concepts relevant to Agile methodologies, it does not explicitly mention AI or automation technologies, nor does it explore their integration within Agile frameworks. The focus is more on process efficiency and team dynamics without addressing AI's role or automation tools, leading to a low confidence score in the specified category.",
-    "level": "Ignored"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
     "calculated_at": "2025-03-14T16:24:30",
@@ -1285,14 +1117,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-14T16:24:30",
+    "calculated_at": "2025-04-10T10:44:19",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
     "final_score": 12.0,
-    "reasoning": "The content primarily discusses Kanban methodology and the implications of measuring individual cycle times, which are more related to workflow management and productivity rather than system configuration. While it touches on concepts like system flow and efficiency, it does not delve into the technical aspects of configuring systems, nor does it provide practical guidance on system setup or optimisation. Therefore, it does not align well with the category of System Configuration.",
+    "reasoning": "The content primarily discusses Kanban and individual cycle time in the context of workflow efficiency rather than system configuration. While it touches on concepts of system improvement and flow, it does not explicitly address system configuration tools, methodologies, or best practices. The focus is more on process optimisation and team dynamics rather than the technical aspects of configuring systems.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -1365,18 +1197,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the inefficiencies of measuring individual cycle time in Kanban systems, focusing on systemic improvements rather than individual performance. While it touches on concepts relevant to coaching, such as collaboration and team dynamics, it does not explicitly address coaching practices or techniques. The emphasis is more on process optimisation than on the supportive and developmental aspects of coaching.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses the importance of optimising the system rather than focusing on individual performance, which indirectly relates to accountability. However, it primarily centres on Kanban practices and does not explicitly address transparency or accountability as primary themes. The discussion lacks depth in exploring how transparency and accountability can be enhanced within Agile teams.",
     "level": "Ignored"
   },
   "Agile Transformation": {
@@ -1917,6 +1737,42 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the pitfalls of measuring individual cycle time in Kanban and emphasises system flow over individual productivity. While it touches on concepts of optimisation and systemic improvement, it does not explicitly address Agentic Agility or the intentional shaping of outcomes through autonomy and adaptability. The focus is more on process efficiency rather than the transformative capacity of individuals or AI systems, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T10:44:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of optimising flow in a system and highlights the pitfalls of measuring individual cycle time, which indirectly relates to scaling practices. However, it primarily focuses on Kanban principles and individual productivity rather than the broader methodologies and frameworks for scaling Agile practices. While it touches on collaboration and dependencies, it lacks a comprehensive exploration of scaling frameworks or strategies, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T10:44:11",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the principles of Kanban and how measuring individual cycle time can hinder overall system flow, which aligns closely with Agile methodologies and continuous improvement practices in product development. It provides detailed insights into optimising workflows, understanding bottlenecks, and emphasising system efficiency over individual productivity, all of which are key themes in product development. The depth of discussion is substantial, covering various aspects of Kanban and its implications for product delivery, thus justifying a high confidence score.",
+    "level": "Secondary"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T10:47:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Kanban principles and the pitfalls of measuring individual cycle time, which are not directly related to GitHub or its functionalities. While it touches on concepts relevant to Agile methodologies, it does not mention GitHub services, tools, or practices, nor does it provide insights into GitHub's collaboration features or project management capabilities.",
     "level": "Ignored"
   }
 }

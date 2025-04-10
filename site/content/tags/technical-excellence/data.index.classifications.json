@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T14:52:21",
+    "calculated_at": "2025-04-10T11:58:01",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
     "final_score": 11.0,
-    "reasoning": "The content primarily focuses on technical excellence and engineering practices rather than accountability as a structural concept. While it touches on themes of team collaboration and quality, it does not explicitly discuss defined accountabilities, ownership of outcomes, or the impact of misaligned accountabilities, which are central to the accountability category.",
+    "reasoning": "The content primarily focuses on Technical Excellence and engineering practices rather than accountability in work systems. While it touches on aspects of quality and responsiveness, it does not explicitly discuss accountability, outcome ownership, or role-specific responsibilities within a structured work environment.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily discusses engineering practices related to technical excellence rather than focusing on artifacts as formal representations of work. While it touches on concepts that may indirectly relate to Agile practices, it does not explicitly mention or explore specific artifacts like Product Backlog or Sprint Backlog, nor does it delve into their structure, purpose, or role in Agile methodologies.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:49:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses 'Technical Excellence' in detail, focusing on engineering practices that enhance agility and quality, which aligns with the principles of discipline in software development. However, while it mentions the importance of maintaining quality and continuous improvement, it does not explicitly frame these concepts within the context of discipline, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

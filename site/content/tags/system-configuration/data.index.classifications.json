@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T14:57:09",
+    "calculated_at": "2025-04-10T11:58:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
     "final_score": 11.0,
-    "reasoning": "The content primarily focuses on system configuration and its benefits for performance and efficiency, with no explicit discussion of accountability or ownership of outcomes. While it touches on themes of organisational effectiveness and agile practices, it does not delve into defined accountabilities or the structural concept of accountability as outlined in the category description.",
+    "reasoning": "The content primarily discusses system configuration, focusing on technical setup and optimisation rather than accountability in work systems. While it mentions Agile and DevOps environments, it does not explicitly address accountability, outcome ownership, or role-specific responsibilities. The discussion lacks depth in relation to the key topics outlined for the accountability category.",
     "level": "Ignored"
   },
   "Framework": {
@@ -165,6 +165,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on system configuration rather than artifacts as formal representations of work. While it touches on themes of efficiency and adaptability, it does not explicitly discuss specific artifacts or their roles in Agile, Scrum, or Lean methodologies. The discussion lacks depth regarding the structure and purpose of artifacts, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:50:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses system configuration, focusing on technical setup and optimisation rather than discipline as a core theme. While it mentions the importance of structured processes and tools, it does not explicitly address discipline in a direct manner. The depth of discussion on configuration management tools and their role in improving workflow efficiency contributes to a moderate score, but the lack of direct references to discipline as a concept limits the overall confidence.",
     "level": "Ignored"
   }
 }

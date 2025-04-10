@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:02:44",
+    "calculated_at": "2025-04-10T11:58:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses sensemaking as a process for organisations to interpret complexity and make informed decisions, but it does not explicitly address accountability as a structural concept. While it touches on themes of decision-making and organisational agility, it lacks a clear focus on defined accountabilities, ownership of outcomes, or the distinction between accountability and other roles. The discussion is more about the process of sensemaking rather than the structural implications of accountability in Agile or Scrum contexts.",
+    "reasoning": "The content discusses sensemaking in organisations, focusing on decision-making and navigating complexity. While it touches on themes of organisational agility and adaptability, it does not explicitly address accountability or outcome ownership. The discussion lacks direct references to roles or structural accountabilities, which are central to the category of accountability. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the concept of sensemaking in organisations, focusing on interpreting complexity and making informed decisions. While it touches on themes relevant to Agile and decision-making, it does not explicitly mention or explore specific artifacts or their roles within Agile, Scrum, or Lean frameworks. The discussion lacks depth regarding the structure, purpose, or management of artifacts, leading to a low confidence score in the 'Artifact' category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:50:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses sensemaking in detail, highlighting its importance in decision-making and organisational agility. While it does not explicitly mention 'discipline', it aligns with the core themes of maintaining structured approaches to complex situations. The depth of discussion is significant, providing insights into how sensemaking can enhance organisational performance, which contributes to a higher confidence score.",
+    "level": "Tertiary"
   }
 }

@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:19:11",
+    "calculated_at": "2025-04-10T12:02:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses change management and its importance in fostering an environment for adaptation and improvement. However, it does not explicitly mention accountability or the structural concept of ownership of outcomes. While it touches on themes of organisational dynamics and continuous improvement, these are more aligned with personal and team development rather than the specific accountability framework outlined in the category definition.",
+    "reasoning": "The content discusses change management and its importance in fostering adaptability and continuous improvement, but it does not explicitly address accountability as a foundational mechanism. While it touches on themes of performance and value delivery, it lacks a clear focus on outcome ownership or specific roles related to accountability, such as Product Owner or Scrum Master.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 22.0,
     "reasoning": "The content discusses change management in a broad context, focusing on the human aspects and organisational dynamics rather than specific artifacts or their roles in Agile, Scrum, or Lean. While it touches on principles related to Agile and Lean, it does not explicitly mention or explore specific artifacts, their definitions, or best practices for managing them.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:55:20",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses change management extensively, which is related to discipline in terms of structured approaches and continuous improvement. However, it does not explicitly mention 'discipline' as a concept, leading to a moderate confidence score. The alignment with core themes of discipline is present, particularly in the context of fostering a culture of continuous improvement and learning, but the depth of discussion on discipline itself is somewhat limited.",
+    "level": "Tertiary"
   }
 }

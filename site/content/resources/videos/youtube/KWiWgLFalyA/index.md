@@ -34,7 +34,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scaling
+- Product Development
 - Pragmatic Thinking
+- Operational Practices
+- Common Goals
+- Sociotechnical Systems
+- Systems Thinking
+- Agile Strategy
+- Business Agility
+- Organisational Agility
+- Continuous Improvement
+- Organisational Change
 resourceTypes:
 - video
 categories:

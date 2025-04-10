@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:11:49",
+    "calculated_at": "2025-04-10T12:02:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
     "final_score": 11.0,
-    "reasoning": "The content primarily focuses on Continuous Integration (CI) as a software development practice, discussing its benefits for collaboration, error detection, and code quality. While it touches on aspects of team dynamics and improvement, it does not explicitly address accountability as a structural concept or explore defined accountabilities within Agile or Scrum frameworks. The discussion lacks depth regarding ownership of outcomes or the impact of misaligned accountabilities, leading to a low confidence score.",
+    "reasoning": "The content primarily focuses on Continuous Integration (CI) as a software development practice, discussing its benefits for collaboration, error detection, and code quality. While it touches on aspects of team dynamics and improvement, it does not explicitly address accountability or outcome ownership, which are central to the category. The discussion lacks depth regarding structural accountabilities or role-specific responsibilities, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Framework": {
@@ -165,6 +165,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Continuous Integration (CI) as a software development practice, discussing its benefits and processes rather than exploring artifacts as formal representations of work. While it touches on collaboration and improvement, it does not explicitly mention or delve into specific artifacts related to Agile, Scrum, or Lean methodologies.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:54:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Continuous Integration (CI) as a software development practice, which indirectly relates to discipline through the themes of collaboration, communication, and continuous improvement. However, the term 'discipline' is not explicitly mentioned, and while the content discusses maintaining a healthy codebase and reducing technical debt, it does not delve deeply into the concept of discipline itself. Therefore, the confidence score reflects a moderate alignment with the category.",
     "level": "Ignored"
   }
 }

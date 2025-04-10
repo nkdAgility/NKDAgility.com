@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:31:24",
+    "calculated_at": "2025-04-10T12:00:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
-    "ai_depth": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses the importance of metrics and learning for continuous improvement, which indirectly relates to accountability through the concept of teams taking ownership of their performance. However, it does not explicitly address defined accountabilities or the structural aspects of accountability in Agile or Scrum. The focus is more on data-driven decision-making and team responsiveness rather than on who owns the outcomes in a system of work.",
+    "reasoning": "The content discusses the importance of metrics and learning for continuous improvement, which indirectly relates to accountability through the concept of teams taking ownership of their performance. However, it lacks explicit discussions on structural accountabilities or specific roles like Product Owner or Scrum Master. The focus is more on data-driven decision-making and self-directed learning rather than clearly defined outcome ownership, which is central to the accountability category.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of metrics and learning for continuous improvement, which indirectly relates to the concept of artifacts in Agile and Lean. However, it does not explicitly mention specific artifacts or their roles, focusing instead on the broader theme of data-driven decision-making. The discussion lacks depth regarding the structure and management of artifacts, leading to a low confidence score in alignment with the 'Artifact' category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:52:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of metrics and learning in driving continuous improvement, which aligns with the principles of discipline in terms of systematic approaches and self-directed learning. However, while it touches on the concept of discipline, it does not explicitly focus on it as a primary theme, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

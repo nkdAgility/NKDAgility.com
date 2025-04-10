@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:27:00",
+    "calculated_at": "2025-04-10T11:59:55",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses a unified framework for software development but does not explicitly address accountability as a structural concept. While it mentions alignment and collaboration, it lacks a clear focus on defined accountabilities or ownership of outcomes, which are central to the category of accountability.",
+    "reasoning": "The content discusses a unified engineering framework that aims to streamline processes and enhance collaboration, but it does not explicitly address accountability as a foundational mechanism. While it touches on aspects of team alignment and shared standards, it lacks a clear focus on outcome ownership or the structural accountabilities that define roles like Product Owner or Scrum Master. The discussion is more about tools and processes than about accountability in work systems.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses a framework for unifying engineering practices and tools, which indirectly relates to the concept of artifacts in terms of standardisation and process consistency. However, it lacks direct mentions of specific artifacts like Product Backlog or Sprint Backlog, and does not delve into their roles or best practices. The focus is more on tools and processes rather than on the artifacts themselves.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:51:49",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the One Engineering System (1ES) as a framework for unifying engineering practices, which aligns with the concept of discipline in terms of establishing standards and processes. However, while it mentions the importance of a common set of engineering standards, the primary focus is more on collaboration and integration rather than discipline itself. The depth of discussion on discipline-related themes is limited, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

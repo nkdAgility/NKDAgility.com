@@ -13,15 +13,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:04:27",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "calculated_at": "2025-04-10T11:58:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 24,
+    "ai_depth": 20,
     "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Scrum Values, which include aspects of accountability, but primarily focuses on personal and team values rather than structural accountability. While it mentions accountability in the context of fostering a collaborative environment, it does not delve into defined accountabilities or system-level outcomes, which are central to the category of Accountability.",
-    "level": "Ignored"
+    "final_score": 59.0,
+    "reasoning": "The content discusses the Scrum Values, which indirectly relate to accountability by fostering a culture of trust and ownership. However, it does not explicitly address accountability as a structural construct or outcome ownership, which are key aspects of the category. The discussion on values like commitment and openness supports the idea of accountability but lacks depth in exploring specific roles or structural accountabilities within Scrum.",
+    "level": "Tertiary"
   },
   "Framework": {
     "category": "Framework",
@@ -166,5 +166,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Scrum values, which are principles rather than tangible artifacts. While it touches on aspects of teamwork and collaboration, it does not explicitly address the structure, purpose, or management of artifacts in Agile or Scrum. Therefore, it lacks direct mentions and depth related to the category of 'Artifact'.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:50:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses the Scrum Values, which are foundational principles that guide team behaviour and discipline within the Scrum framework. While the term 'discipline' is not directly mentioned, the principles of commitment, focus, and respect align closely with the concept of discipline in a team context. The depth of discussion is substantial, providing detailed explanations of each value and their impact on team dynamics and performance, which further supports the alignment with the category.",
+    "level": "Secondary"
   }
 }

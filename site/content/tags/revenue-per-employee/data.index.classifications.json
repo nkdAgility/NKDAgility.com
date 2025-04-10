@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:07:47",
+    "calculated_at": "2025-04-10T11:58:56",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
     "final_score": 32.0,
-    "reasoning": "The content discusses a financial metric that relates to organisational performance but does not explicitly address accountability as a structural concept. While it touches on themes of workforce efficiency and strategic alignment, it lacks a clear focus on defined accountabilities or ownership of outcomes within a system of work. The mention of Agile adoption and Lean transformation hints at broader organisational changes but does not delve into the specifics of accountability roles or structures.",
+    "reasoning": "The content discusses a financial metric related to workforce efficiency and strategic alignment, but it does not explicitly address accountability as a foundational mechanism in work systems. While it touches on systemic performance and organisational changes, it lacks a direct focus on outcome ownership or role-specific accountabilities, which are central to the accountability category.",
     "level": "Ignored"
   },
   "Framework": {
@@ -165,6 +165,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a financial metric that relates to workforce efficiency and strategic alignment, but it does not explicitly mention artifacts in Agile, Scrum, or Lean contexts. While it touches on themes of inspection and performance, it lacks a direct focus on specific artifacts or their roles, which diminishes its alignment with the category. The depth of discussion is moderate, providing insights into the metric's implications but not exploring the structure or management of artifacts themselves.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:50:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the metric 'Revenue per Employee' in detail, focusing on its implications for workforce efficiency and strategic alignment. However, while it touches on themes related to discipline in terms of organisational performance and strategic planning, it does not explicitly address the concept of discipline itself. The primary focus is on financial metrics rather than the principles or practices of discipline, leading to a moderate confidence score.",
     "level": "Ignored"
   }
 }

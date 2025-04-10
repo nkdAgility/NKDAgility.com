@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T14:51:34",
+    "calculated_at": "2025-04-10T11:57:59",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses technical leadership and its role in guiding teams, but it does not explicitly address accountability as a structural concept. While it touches on themes of shared ownership and alignment with organisational goals, it lacks a clear focus on defined accountabilities or the distinction between accountability, responsibility, and authority. The depth of discussion on accountability-related topics is minimal, leading to a low confidence score.",
+    "reasoning": "The content discusses technical leadership and its role in guiding teams, but it does not explicitly address accountability as a foundational mechanism in work systems. While it touches on aspects of team dynamics and shared ownership of outcomes, it lacks a clear focus on outcome ownership and the structural accountabilities that define roles like Product Owner or Scrum Master. The discussion is more centred on technical expertise and leadership rather than the specificities of accountability in a work context.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on technical leadership and its role in guiding development teams, with little to no direct mention of artifacts as defined in Agile, Scrum, or Lean. While it touches on concepts like collaboration and continuous improvement, it does not explore specific artifacts or their purposes, thus lacking alignment with the core themes of the 'Artifact' category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:49:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 30,
+    "final_score": 63.0,
+    "reasoning": "The content discusses technical leadership, which indirectly relates to discipline through the emphasis on guiding teams and fostering a culture of continuous improvement. However, the primary focus is on technical expertise and agile practices rather than discipline itself. The mention of long-term thinking and systemic approaches aligns with disciplined practices, but the depth of discussion primarily revolves around leadership and technical decision-making.",
+    "level": "Secondary"
   }
 }

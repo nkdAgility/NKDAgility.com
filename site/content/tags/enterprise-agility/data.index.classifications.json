@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:52:00",
+    "calculated_at": "2025-04-10T12:01:12",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 50.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses the concept of Enterprise Agility, which touches on organisational responsiveness and adaptability but does not explicitly address accountability as a structural concept. While it mentions the importance of embedding agility into the organisational structure and fostering a culture of adaptability, it lacks direct references to defined accountabilities, roles, or the distinction between accountability, responsibility, and authority. The discussion is more focused on agility and collaboration rather than on who owns the outcomes in a system of work, which is central to the accountability category.",
+    "reasoning": "The content discusses Enterprise Agility and its importance in organisational responsiveness, but it does not explicitly mention accountability or its role in outcome ownership. While it touches on themes of adaptability and collaboration, which are related to accountability, the primary focus is on agility as a concept rather than on accountability as a foundational mechanism in work systems. The discussion lacks depth regarding specific roles or structural accountabilities, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 11.0,
     "reasoning": "The content discusses the concept of Enterprise Agility, focusing on organisational responsiveness and adaptability rather than specific artifacts or their roles in Agile methodologies. While it touches on themes of collaboration and systemic change, it does not explicitly mention or explore the structure, purpose, or management of artifacts such as Product Backlogs or Sprint Backlogs, which are central to the 'Artifact' category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:54:03",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the concept of Enterprise Agility, which aligns with the principles of discipline in terms of fostering a culture of adaptability and continuous improvement. However, while it mentions agility and organisational responsiveness, it does not explicitly focus on discipline as a primary theme. The depth of discussion is significant, providing detailed insights into how agility can be embedded within an organisation, which contributes positively to the confidence score.",
+    "level": "Tertiary"
   }
 }

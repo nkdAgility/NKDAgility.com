@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:37:16",
+    "calculated_at": "2025-04-10T12:03:28",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 50.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses Agile Product Management and its focus on aligning strategy with customer needs, but it does not explicitly address accountability as a structural concept. While it touches on collaboration and value delivery, it lacks a clear exploration of defined accountabilities or ownership of outcomes within a system of work. The discussion is more centred on product lifecycle and team dynamics rather than the specific accountability structures in Agile, Scrum, or DevOps.",
+    "reasoning": "The content discusses Agile Product Management and its focus on value delivery and customer alignment, but it does not explicitly mention accountability or outcome ownership. While it touches on themes of collaboration and responsiveness, these are secondary to the primary focus on product management rather than accountability as a structural mechanism in work systems.",
     "level": "Ignored"
   },
   "Framework": {
@@ -165,6 +165,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Agile Product Management, focusing on maximising product value and aligning strategy with customer needs. However, it does not explicitly mention specific artifacts such as Product Backlog or Sprint Backlog, which are central to the 'Artifact' category. While there is some conceptual alignment with the idea of transparency and iterative delivery, the depth of discussion on artifacts themselves is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:56:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile Product Management, which indirectly relates to discipline through the emphasis on structured approaches and continuous delivery. However, the primary focus is on product value and customer alignment rather than discipline itself. The mention of Agile principles suggests some alignment with disciplined practices, but the depth of discussion primarily revolves around product management strategies rather than discipline as a standalone concept.",
     "level": "Ignored"
   }
 }

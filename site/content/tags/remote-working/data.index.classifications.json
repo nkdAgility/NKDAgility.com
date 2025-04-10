@@ -13,15 +13,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:09:23",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-04-10T11:59:00",
+    "ai_confidence": 42.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses remote working and its impact on team collaboration and ownership, but it does not explicitly address accountability as a structural concept. While it mentions fostering a culture of trust and accountability, this is more about personal motivation and team dynamics rather than clearly defined accountabilities in a system of work. The discussion lacks depth in exploring how accountability improves transparency and outcome responsibility, which are key themes of the category.",
-    "level": "Ignored"
+    "final_score": 41.0,
+    "reasoning": "The content discusses accountability in the context of remote working, particularly how it fosters a culture of trust and ownership among team members. However, the primary focus is on remote working practices rather than explicitly detailing structural accountabilities or roles like Product Owner or Scrum Master. While there are mentions of accountability, they are not the central theme, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Framework": {
     "category": "Framework",
@@ -165,6 +165,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses remote working practices and their benefits for agile teams, but it does not explicitly mention or focus on specific artifacts such as Product Backlogs or Sprint Backlogs. While it touches on themes relevant to Agile and Lean, it lacks a direct exploration of artifacts as formal representations of work, which is the core focus of the 'Artifact' category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:50:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses remote working practices, which indirectly relate to discipline in terms of maintaining productivity and accountability. However, the primary focus is on remote working rather than discipline itself, leading to a lower confidence score.",
     "level": "Ignored"
   }
 }

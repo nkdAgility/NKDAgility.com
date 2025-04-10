@@ -34,7 +34,12 @@ tags:
 - Frequent Releases
 - Azure DevOps
 - Release Management
+- Product Development
 - Engineering Practices
+- Value Delivery
+- Digital Transformation
+- Organisational Agility
+- Technical Excellence
 categories:
 - DevOps
 - Engineering Excellence

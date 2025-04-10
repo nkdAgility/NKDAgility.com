@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:02:05",
+    "calculated_at": "2025-04-10T12:01:34",
     "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_mentions": 10,
+    "ai_alignment": 15,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
     "final_score": 38.0,
-    "reasoning": "The content discusses the Definition of Ready (DoR) in the context of Scrum, touching on the roles of team members and the importance of clarity in backlog items. However, while it mentions accountability in relation to the DoR, it does not deeply explore the structural concept of accountability or its impact on outcomes. The focus is more on the DoR itself rather than on who owns the outcomes or the implications of misaligned accountabilities, which are central to the category of Accountability.",
+    "reasoning": "The content discusses the Definition of Ready (DoR) in the context of Scrum, touching on the roles of the Product Owner and Developers, which relates to accountability. However, it primarily focuses on the criteria for backlog items rather than explicitly addressing accountability as a foundational mechanism. While it mentions the importance of understanding and agreeing on backlog items, it does not delve deeply into how accountability influences performance or outcome ownership, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 81.0,
     "reasoning": "The content explicitly discusses the Definition of Ready (DoR) as an artifact within the Scrum framework, making direct mentions of its role and implications. It aligns well with the core themes of the category by exploring the purpose of the DoR in ensuring backlog items are actionable and the potential pitfalls of misinterpretation. The depth of discussion is substantial, providing insights into the nuances of the DoR, its relationship with the Definition of Done (DoD), and practical guidelines for backlog item readiness. Overall, the content is focused on the artifact's structure and its impact on the Agile process.",
     "level": "Primary"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:54:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the Definition of Ready (DoR) in the context of Scrum, which relates to the discipline of managing backlog items effectively. It directly mentions the concept of readiness and its implications, contributing to the understanding of discipline in project management. However, while it aligns with the core themes of discipline, such as accountability and clarity in processes, the depth of discussion is more focused on the nuances of DoR rather than a broader exploration of discipline itself.",
+    "level": "Secondary"
   }
 }

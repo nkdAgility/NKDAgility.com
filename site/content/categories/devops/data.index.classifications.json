@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:48:58",
+    "calculated_at": "2025-04-10T12:04:13",
     "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 26,
     "non_ai_confidence": 30,
     "final_score": 64.0,
-    "reasoning": "The content mentions 'shared accountability' as a key principle of DevOps, indicating a recognition of collective ownership of outcomes. However, the primary focus is on the broader philosophy of DevOps rather than a detailed exploration of accountability as a structural concept. While there is some alignment with the themes of accountability, such as collaboration and joint responsibility, the depth of discussion on defined accountabilities and their impact on outcomes is limited.",
+    "reasoning": "The content discusses 'shared accountability' as a key principle within the DevOps philosophy, indicating a clear connection to the concept of accountability in work systems. However, while it touches on accountability, it does not delve deeply into specific roles or structural accountabilities, which are central to the category. The discussion is more focused on the collaborative nature of DevOps rather than explicitly defining outcome ownership or the impacts of accountability on performance. Therefore, while accountability is a significant theme, it is not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the philosophy and principles of DevOps, focusing on collaboration, automation, and continuous value delivery. It does not explicitly mention artifacts or their role in Agile, Scrum, or Lean systems, nor does it explore specific types of artifacts or best practices for managing them. The discussion is abstract and does not provide depth on the structure or purpose of artifacts, leading to a low confidence score in alignment with the 'Artifact' category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:56:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the principles and practices of DevOps, which includes elements of discipline such as shared accountability and continuous improvement. However, while it touches on these themes, the primary focus is on the DevOps philosophy rather than discipline itself. The mentions of discipline-related concepts are present but not the main focus, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

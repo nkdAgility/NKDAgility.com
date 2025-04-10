@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:01:02",
+    "calculated_at": "2025-04-10T11:58:32",
     "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
     "final_score": 61.0,
-    "reasoning": "The content discusses accountability in the context of Site Reliability Engineering (SRE), particularly in relation to defining service level objectives (SLOs) and indicators (SLIs). However, while it touches on accountability as a cultural aspect and mentions shared responsibility, it does not delve deeply into structural accountabilities or the distinctions between accountability, responsibility, and authority as outlined in the category definition. The focus is more on operational practices rather than a thorough exploration of accountability as a structural concept.",
+    "reasoning": "The content discusses accountability in the context of Site Reliability Engineering (SRE), particularly how it fosters a culture of accountability and continuous improvement. It mentions the importance of service level objectives (SLOs) and indicators (SLIs) as metrics that support accountability. However, while accountability is a significant theme, the primary focus is on SRE principles and practices rather than a deep exploration of accountability as a structural construct in work systems. Thus, while there is a clear mention and some depth regarding accountability, it is not the primary focus of the content.",
     "level": "Secondary"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Site Reliability Engineering principles and practices, with no direct mention of artifacts as defined in Agile, Scrum, or Lean. While it discusses metrics like SLOs and SLIs, these do not qualify as artifacts in the context provided. The discussion lacks depth regarding the structure, purpose, or management of artifacts, leading to a low confidence score.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:50:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses Site Reliability Engineering (SRE) in detail, focusing on principles that ensure reliability and scalability in systems. While it does not explicitly mention 'discipline', it aligns with the core themes of discipline through its emphasis on accountability, continuous improvement, and structured approaches to problem-solving. The depth of discussion regarding SRE practices contributes significantly to the overall confidence score.",
+    "level": "Tertiary"
   }
 }

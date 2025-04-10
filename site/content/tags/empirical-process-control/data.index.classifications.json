@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:54:32",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-04-10T12:01:20",
+    "ai_confidence": 42.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
+    "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses Empirical Process Control, which relates to accountability through the lens of decision-making based on evidence and transparency. However, it does not explicitly mention accountability as a structural concept or detail specific roles within Scrum or DevOps that clarify ownership of outcomes. The focus is more on adaptability and continuous improvement rather than on defined accountabilities or the impact of misaligned accountabilities.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses Empirical Process Control, which is related to decision-making based on evidence and adaptability in Agile and DevOps contexts. However, it does not explicitly mention accountability or outcome ownership, which are central to the category. While it touches on themes of transparency and continuous improvement, these are more about process than the structural accountabilities that define roles and responsibilities in work systems.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses Empirical Process Control, which is related to decision-making and adaptability in Agile, Lean, and DevOps. However, it does not explicitly mention specific artifacts or their roles, focusing instead on the principles of empirical practices. While it aligns conceptually with the importance of transparency and adaptation, it lacks direct references to tangible artifacts like Product Backlogs or Sprint Backlogs, resulting in a lower confidence score.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:54:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses Empirical Process Control, which is closely related to the discipline of decision-making based on evidence and continuous improvement. While it does not explicitly mention 'discipline', it aligns with the core themes of structured approaches and methodologies that require discipline in execution. The depth of discussion is substantial, covering the importance of adaptability and evidence-based practices, which are essential for maintaining discipline in processes.",
+    "level": "Secondary"
   }
 }

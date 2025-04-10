@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:22:26",
+    "calculated_at": "2025-04-10T11:59:41",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily discusses organisational psychology, focusing on motivation, engagement, and team dynamics rather than explicitly addressing accountability as a structural concept. While it touches on themes relevant to team effectiveness and collaboration, it does not delve into defined accountabilities or ownership of outcomes in Agile or Scrum contexts. The discussion lacks specific references to accountability structures or the impact of misaligned accountabilities, leading to a low confidence score.",
+    "reasoning": "The content discusses team dynamics and leadership effectiveness, which are related to accountability but do not explicitly focus on outcome ownership or structural accountabilities. While it touches on the importance of engagement and collaboration, it lacks a direct emphasis on accountability as a foundational mechanism in work systems.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily discusses organisational psychology and its impact on team dynamics and motivation, which are not directly related to the concept of artifacts in Agile, Scrum, or Lean. While it touches on themes of collaboration and team structure, it does not explicitly mention or explore specific artifacts or their roles in transparency and empirical control.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:51:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses organisational psychology, which indirectly relates to discipline through the themes of motivation, engagement, and team dynamics. While it does not explicitly mention 'discipline', it aligns with the core themes of maintaining structured behaviours and practices within teams. The depth of discussion is moderate, providing insights into how these principles can enhance collaboration and leadership, but it lacks a focused exploration of discipline as a standalone concept.",
+    "level": "Secondary"
   }
 }

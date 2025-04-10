@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:06:40",
+    "calculated_at": "2025-04-10T12:01:50",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 50.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses cycle time as a metric for efficiency and predictability in delivering value, but it does not explicitly address accountability as a structural concept. While it touches on themes of workflow and decision-making, it lacks a clear focus on defined accountabilities or ownership of outcomes within a system. The discussion is more centred on process optimisation rather than the ownership of those processes.",
+    "reasoning": "The content discusses cycle time as a metric for efficiency and value delivery, but it does not explicitly address accountability or outcome ownership. While it touches on aspects of organisational performance and responsiveness, it lacks a direct focus on the structural accountabilities or roles that define ownership in work systems.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses cycle time as a metric for measuring efficiency and predictability in work processes. While it touches on aspects of empirical data and continuous improvement, it does not explicitly mention any specific artifacts or their roles in Agile, Scrum, or Lean methodologies. The focus is more on the concept of cycle time rather than on tangible artifacts that enable inspection and adaptation. Therefore, the alignment with the 'Artifact' category is limited, resulting in a low confidence score.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:54:37",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses cycle time in detail, highlighting its importance in improving efficiency and predictability, which aligns with the principles of discipline in work processes. However, while it mentions the concept of discipline indirectly through efficiency and continuous improvement, it does not explicitly focus on discipline as a primary theme, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

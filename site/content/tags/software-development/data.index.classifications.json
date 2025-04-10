@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T14:59:26",
+    "calculated_at": "2025-04-10T11:58:24",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
     "final_score": 11.0,
-    "reasoning": "The content primarily focuses on software development methodologies and practices, with only a vague reference to Agile and DevOps. It does not explicitly discuss accountability as a structural concept or the roles within Scrum that clarify accountability. The discussion lacks depth regarding defined accountabilities, organisational design patterns, or the impact of misaligned accountabilities, which are central to the category of Accountability.",
+    "reasoning": "The content primarily focuses on software development methodologies and practices without explicitly discussing accountability as a foundational mechanism. While it mentions Agile and DevOps, it does not delve into the structural accountabilities or role-specific responsibilities that are central to the category of accountability. The discussion lacks depth regarding how accountability influences performance or aligns with organisational design patterns.",
     "level": "Ignored"
   },
   "Framework": {
@@ -165,6 +165,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses software development methodologies and practices but does not explicitly mention artifacts or their specific roles in Agile, Scrum, or Lean. While it touches on concepts like iterative development and evidence-based management, it lacks a focused exploration of artifacts as formal representations of work, which is essential for a higher confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:50:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses software development methodologies and practices, which are related to discipline in terms of structured approaches and systematic processes. However, the term 'discipline' is not explicitly mentioned, and while there is some alignment with the core themes of discipline through the emphasis on systematic approaches and continuous improvement, the depth of discussion specifically on discipline is limited. Therefore, the confidence score reflects a moderate connection to the category.",
     "level": "Ignored"
   }
 }

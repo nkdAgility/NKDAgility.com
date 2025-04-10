@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:45:48",
+    "calculated_at": "2025-04-10T12:00:47",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 30,
     "final_score": 63.0,
-    "reasoning": "The content discusses forecasting in Agile and Scrum, highlighting its role in enhancing transparency and accountability. While it mentions accountability, it does not delve deeply into the structural aspects of accountability or the specific roles within Scrum. The focus is more on the practice of forecasting and its benefits rather than on who owns the outcomes or how accountability is defined within the system. Therefore, while there is a connection to accountability, it is not the primary focus of the content.",
+    "reasoning": "The content discusses forecasting within Agile and Scrum, highlighting its role in enhancing transparency and accountability. While it does mention accountability, it is not the primary focus of the discussion. The content aligns with the category by addressing how forecasting supports informed decision-making and reflects on processes and outcomes, which are relevant to accountability. However, the depth of discussion on explicit accountabilities and outcome ownership is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses forecasting within Agile and Scrum, focusing on empirical data and decision-making. However, it does not explicitly mention specific artifacts like Product Backlog or Sprint Backlog, which are central to the 'Artifact' category. While it touches on transparency and accountability, it primarily revolves around the concept of forecasting rather than the structure or role of artifacts themselves.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:53:43",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses forecasting within Agile and Scrum, making direct mentions of its importance in predicting delivery timelines and managing risks. It aligns well with the core themes of discipline by emphasising data-driven decision-making and the need for a structured approach to product development. The depth of discussion is significant, as it covers various aspects of forecasting, including metrics analysis and the cultural implications of adopting such practices. Overall, the content strongly supports the principles of discipline in a project management context.",
+    "level": "Secondary"
   }
 }

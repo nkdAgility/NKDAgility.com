@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:39:38",
+    "calculated_at": "2025-04-10T12:03:37",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 50.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses Agile philosophy and its impact on organisations, focusing on flexibility, collaboration, and value delivery. While it touches on shared ownership of outcomes, it does not explicitly address accountability as a structural concept or delve into defined roles within Scrum or other frameworks. The primary focus is on the Agile mindset rather than on accountability, leading to a low confidence score.",
+    "reasoning": "The content discusses Agile philosophy and its impact on organisations, focusing on flexibility, collaboration, and customer-centricity. While it touches on themes of shared ownership and value delivery, it does not explicitly address accountability as a structural construct or the specific roles that embody accountability, such as Product Owner or Scrum Master. The discussion is more about the overarching Agile mindset rather than the nuances of accountability in work systems.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the Agile philosophy as a mindset rather than focusing on specific artifacts or their roles within Agile frameworks. While it touches on themes of collaboration and value delivery, it does not explicitly mention or explore the structure, purpose, or management of artifacts such as Product Backlogs or Sprint Backlogs, which are central to the 'Artifact' category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:56:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile philosophy extensively, focusing on its principles and impact on organisations. While it does not explicitly mention 'discipline', it aligns with the core themes of discipline through its emphasis on continuous improvement, structured processes, and adaptability. The depth of discussion is significant, providing detailed insights into how Agile fosters a disciplined approach to product development and team dynamics.",
+    "level": "Tertiary"
   }
 }

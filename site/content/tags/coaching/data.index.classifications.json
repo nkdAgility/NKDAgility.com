@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:18:19",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-04-10T12:02:27",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 41.0,
-    "reasoning": "The content discusses coaching in the context of Agile and DevOps, mentioning accountability as a benefit of self-organisation. However, it primarily focuses on personal development and team dynamics rather than explicitly defining accountabilities or structural concepts of ownership. The mention of accountability is secondary to the overall theme of coaching and personal growth.",
+    "final_score": 59.0,
+    "reasoning": "The content discusses coaching and its role in fostering self-organisation and accountability within teams. However, while it mentions accountability, it does not focus on explicit accountabilities or outcome ownership as defined in the category. The primary emphasis is on coaching as a practice rather than on accountability as a structural mechanism in work systems.",
     "level": "Tertiary"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on coaching as a practice for team and leader development, with minimal direct mention of artifacts. While it touches on Agile, Lean, and DevOps contexts, it does not explore specific artifacts or their roles, purposes, or best practices. The discussion is more abstract and centred on coaching principles rather than the tangible constructs that enable inspection and adaptation.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:55:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses coaching extensively, focusing on its role in developing teams and leaders, which aligns with the principles of discipline in fostering self-organisation and accountability. However, while it touches on aspects of discipline, such as continuous improvement and resilience, it does not explicitly mention 'discipline' as a concept, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T14:49:09",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "calculated_at": "2025-04-10T11:57:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 30,
-    "final_score": 41.0,
-    "reasoning": "The content briefly mentions accountability in the context of Test Driven Development (TDD), suggesting that it fosters a culture of accountability. However, the primary focus is on TDD as a software development approach rather than on accountability as a structural concept. While there is some alignment with Agile principles and the idea of delivering value predictably, the discussion lacks depth regarding defined accountabilities, organisational design patterns, or the impact of misaligned accountabilities. Overall, accountability is a secondary theme rather than a primary focus.",
+    "final_score": 59.0,
+    "reasoning": "The content discusses accountability in the context of Test Driven Development (TDD), highlighting how it fosters a culture of quality and accountability within teams. However, while it mentions accountability, it does not delve deeply into structural accountabilities or specific roles like Product Owner or Scrum Master. The alignment with core themes is moderate, as it touches on the importance of accountability in delivering value but lacks detailed exploration of how clearly defined accountabilities influence performance in work systems.",
     "level": "Tertiary"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 22.0,
     "reasoning": "The content discusses Test Driven Development (TDD) and its benefits, which are related to Agile principles, but it does not explicitly mention artifacts or their specific roles in Agile, Scrum, or Lean. The focus is more on the practice of TDD rather than on artifacts as formal representations of work. While there is some alignment with Agile principles, the depth of discussion on artifacts is minimal, leading to a low confidence score.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:49:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses Test Driven Development (TDD) in detail, highlighting its importance in fostering a culture of quality and accountability, which aligns with the principles of discipline in software development. However, while it touches on aspects of discipline, such as continuous improvement and accountability, it does not explicitly focus on discipline as a standalone concept, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

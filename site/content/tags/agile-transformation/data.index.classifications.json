@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:33:01",
+    "calculated_at": "2025-04-10T12:03:17",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses Agile Transformation and its impact on organisational culture and processes, but it does not explicitly address accountability as a structural concept. While it mentions ownership and self-organisation, these are more about team dynamics than defined accountabilities in a Scrum or Agile context. The focus is on the holistic approach to agility rather than on who owns specific outcomes, which is central to the accountability category.",
+    "reasoning": "The content discusses Agile Transformation and its impact on organisational culture and processes, which indirectly relates to accountability through self-organisation and ownership. However, it lacks explicit mentions of accountability structures or roles, and the depth of discussion on accountability as a foundational mechanism is minimal.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Agile Transformation as a broad organisational change rather than on specific artifacts or their roles within Agile methodologies. While it touches on Agile principles, it does not explicitly discuss artifacts like Product Backlogs or Sprint Backlogs, nor does it delve into their management or best practices. The discussion is more abstract and cultural, lacking the necessary detail and focus on tangible artifacts.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:55:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile Transformation in detail, focusing on the cultural and operational shifts necessary for adopting Agile principles. While it does not explicitly mention 'discipline', the emphasis on evolving processes and fostering a culture of continuous improvement aligns with the core themes of discipline in organisational practices. The depth of discussion is significant, providing a comprehensive overview of the transformation process, which contributes to a higher confidence score despite the lack of direct mentions.",
+    "level": "Tertiary"
   }
 }

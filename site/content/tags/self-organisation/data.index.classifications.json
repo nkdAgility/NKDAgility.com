@@ -13,15 +13,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:03:36",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "calculated_at": "2025-04-10T11:58:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 30,
-    "final_score": 59.0,
-    "reasoning": "The content discusses self-organisation and its role in fostering ownership and accountability within teams. However, while it touches on accountability, it primarily focuses on the concept of self-organisation and team autonomy rather than explicitly defining accountabilities or exploring structural concepts of accountability in detail. The mention of accountability is present but not the primary focus, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses self-organisation and its relationship to accountability, particularly in the context of Agile and DevOps. It highlights how empowering teams fosters a culture of ownership, which is a key aspect of accountability. However, while accountability is a significant theme, the primary focus is on self-organisation rather than explicitly detailing structural accountabilities or specific roles like Product Owner or Scrum Master. The depth of discussion on how self-organisation contributes to accountability is substantial, but it does not fully meet the criteria for primary focus on accountability.",
+    "level": "Secondary"
   },
   "Framework": {
     "category": "Framework",
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the concept of self-organisation rather than specific artifacts. While it touches on Agile principles, it does not explicitly mention or explore the structure, purpose, or types of artifacts. The discussion lacks direct references to specific artifacts like Product Backlog or Sprint Backlog, which are central to the 'Artifact' category. The depth of discussion is moderate, focusing on the benefits of self-organisation, but it does not delve into how artifacts facilitate this process.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:50:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses self-organisation, which is closely related to discipline in terms of teams managing their work autonomously and fostering accountability. However, while it aligns with the core themes of discipline, it does not explicitly mention 'discipline' itself. The depth of discussion is substantial, covering the implications of self-organisation on team dynamics and organisational resilience, but it primarily focuses on the concept of self-organisation rather than discipline as a standalone category.",
+    "level": "Secondary"
   }
 }

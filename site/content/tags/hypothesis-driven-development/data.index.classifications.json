@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:44:07",
+    "calculated_at": "2025-04-10T12:00:42",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 50.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses a systematic approach to product development through experimentation and learning, which indirectly relates to accountability in terms of making informed decisions based on evidence. However, it does not explicitly address defined accountabilities, roles, or ownership of outcomes within a structured framework like Scrum or DevOps. The focus is more on the process and mindset rather than on accountability as a structural concept.",
+    "reasoning": "The content discusses a systematic approach to product development through experimentation and learning, which indirectly relates to accountability in terms of outcome ownership. However, it does not explicitly mention accountability or its structural aspects within work systems. The focus is more on agile methodologies and learning rather than on clearly defined roles or responsibilities that influence accountability.",
     "level": "Ignored"
   },
   "Framework": {
@@ -165,6 +165,18 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content discusses Hypothesis Driven Development, which focuses on experimentation and learning rather than on specific artifacts used in Agile or Scrum. While it touches on concepts relevant to Agile methodologies, it does not explicitly mention or explore the structure, purpose, or role of artifacts such as Product Backlogs or Sprint Backlogs. The primary focus is on the process of learning and adaptation, which is more abstract and not tied to tangible artifacts.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:52:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Hypothesis Driven Development, which is primarily focused on experimentation and learning rather than discipline in a traditional sense. While it mentions systematic approaches and the importance of adapting to feedback, it does not explicitly address discipline as a core theme. The depth of discussion on methodologies and agile mindsets contributes to a moderate alignment with the concept of discipline, but it remains secondary to the main focus on product development strategies.",
     "level": "Ignored"
   }
 }

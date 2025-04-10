@@ -71,15 +71,6 @@
     "reasoning": "Content heavily discusses technical debt and scaling practices, which are not central to product strategy.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-25T12:04:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical debt and scaling practices without a clear focus on human behaviour or team dynamics.",
-    "level": "Ignored"
-  },
   "Technical Debt": {
     "category": "Technical Debt",
     "calculated_at": "2025-03-06T13:17:22",
@@ -227,33 +218,6 @@
     "reasoning": "The content discusses the importance of managing technical debt in the context of scaling, which indirectly relates to business agility. However, it primarily focuses on technical aspects and practices rather than the broader principles of business agility. While it mentions 'naked agility' and DevOps practices, these are not explored in depth regarding their role in fostering a culture of innovation or adaptability. The discussion lacks a comprehensive exploration of leadership roles or case studies that would strengthen its alignment with the category.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-25T12:04:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses technical debt and scaling in Agile and DevOps without a clear focus on AI applications.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-25T12:04:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical debt and scaling in a general Agile context without specific reference to Kanban principles or practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-25T12:04:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical debt and scaling practices without a clear focus on Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-03-14T16:20:36",
@@ -383,15 +347,6 @@
     "reasoning": "Content heavily discusses technical debt and scaling practices, with no focus on psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-25T12:05:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses technical debt and its impact on software delivery and architecture, which relates to the complexities of code quality and maintainability. However, the primary focus is on scaling and agility rather than a deep exploration of code and complexity principles.",
-    "level": "Tertiary"
-  },
   "Estimation": {
     "category": "Estimation",
     "calculated_at": "2025-02-25T12:05:13",
@@ -400,15 +355,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical debt and scaling, with no focus on estimation practices within Agile or Scrum.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-25T12:05:14",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses DevOps best practices, automated testing, and continuous integration, which are relevant to practical techniques and tooling. However, the primary focus is on the implications of technical debt and scaling, making it a secondary theme.",
-    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -453,24 +399,6 @@
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content discusses aspects of scaling and technical debt, which are relevant to application lifecycle management, but the primary focus is on agility and DevOps practices rather than the full lifecycle of applications.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-25T12:05:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical debt and scaling in Agile and DevOps without focusing on specific events or presentations.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-25T12:05:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses scaling Agile practices but primarily focuses on the implications of technical debt rather than the coordination and management of multiple teams or enterprise-level initiatives.",
     "level": "Tertiary"
   },
   "Technical Mastery": {
@@ -519,15 +447,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical debt and scaling in Agile, with no clear focus on Daily Scrum or its related topics.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-25T12:05:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses technical debt and scaling Agile practices without a clear focus on AI or automation technologies.",
     "level": "Ignored"
   },
   "Agile Project Management": {
@@ -821,15 +740,6 @@
     "reasoning": "The content discusses technical debt and its impact on scaling and productivity, but it does not explicitly mention Evidence-Based Management or its key topics. While there is some alignment with the concept of empirical decision-making through the emphasis on sustainable practices and automation, the focus remains primarily on technical debt rather than on data-informed decision-making or metrics that assess value delivery.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-25T12:06:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile and DevOps practices, particularly in the context of scaling and managing technical debt, which are relevant to software developers. However, the primary focus is on the implications of technical debt rather than the role of developers specifically.",
-    "level": "Tertiary"
-  },
   "Experimentation": {
     "category": "Experimentation",
     "calculated_at": "2025-02-25T12:06:51",
@@ -1006,11 +916,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-25T12:07:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses scaling, technical debt, and DevOps practices, which are not primarily focused on system configuration.",
+    "calculated_at": "2025-04-10T10:45:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of managing technical debt and implementing sustainable practices, which indirectly relates to system configuration through the mention of automated testing and continuous integration. However, the primary focus is on scaling and technical debt rather than the specific tools and methodologies of system configuration. While there are relevant points about automation and system stability, the overall discussion does not delve deeply into the core themes of system configuration, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1056,15 +969,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses scaling, technical debt, and DevOps best practices without a clear focus on Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-25T12:07:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the challenges of technical debt in scaling Agile practices, rather than providing news or reviews related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Continuous Learning": {
@@ -1141,20 +1045,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-25T12:07:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T10:45:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of technical debt on delivery speed and productivity, which relates to throughput, but it primarily focuses on scaling and technical debt rather than throughput as a central theme.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-25T12:07:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical debt and scaling in Agile, without a focus on transparency or accountability.",
+    "final_score": 11.0,
+    "reasoning": "The content discusses the impact of technical debt on productivity and the delivery of features, which indirectly relates to throughput. However, it does not explicitly define or analyse throughput as a delivery metric, nor does it provide detailed insights into measuring or visualising throughput. The focus is primarily on technical debt and sustainable practices rather than throughput itself.",
     "level": "Ignored"
   },
   "MVP": {
@@ -1198,11 +1096,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-25T12:07:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical debt and its impact on scaling and delivery speed, without a clear focus on Lead Time as defined.",
+    "calculated_at": "2025-04-10T10:45:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses technical debt and its impact on scaling, with only a vague reference to how complexity can lead to longer feature delivery times. However, it does not explicitly define or focus on Lead Time as a metric, nor does it provide substantial detail on measuring or optimising it. The discussion is more centred on technical practices rather than the core themes of Lead Time.",
     "level": "Ignored"
   },
   "Scrum Team": {
@@ -1239,24 +1140,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical debt and scaling practices, with no clear focus on Scrum Values.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-25T12:08:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical debt and scaling practices without a focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-25T12:08:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical debt and scaling in a general context without specific reference to Scrum principles, frameworks, or practices.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1376,15 +1259,6 @@
     "reasoning": "Content heavily discusses technical debt and scaling practices without a focus on sensemaking or decision-making processes in complex environments.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-25T12:08:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses scaling in the context of technical debt and sustainable architecture, which aligns with the theme of scaling agility, but it primarily focuses on technical aspects rather than broader organisational strategies.",
-    "level": "Tertiary"
-  },
   "Organisational Physics": {
     "category": "Organisational Physics",
     "calculated_at": "2025-02-25T12:08:26",
@@ -1494,6 +1368,42 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses scaling and managing technical debt, which are important for organisational agility, but it does not explicitly address Agentic Agility or its principles. While there are mentions of sustainability and proactive practices, the focus remains on technical debt rather than the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth in exploring the interplay between human and AI capabilities, which is central to the concept of Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T10:45:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses scaling in the context of managing technical debt, which is crucial for sustainable growth. It explicitly mentions scaling and provides insights into how technical debt impacts the scaling process. The discussion aligns with the core themes of the category, such as maintaining alignment with business goals and enhancing value delivery. Additionally, it offers depth by exploring specific practices like automated testing and continuous integration that support scaling efforts. However, while it touches on important aspects of scaling, it does not delve deeply into frameworks or cross-team collaboration, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T10:45:29",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 26,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the implications of technical debt on product development, emphasising the importance of sustainable practices and automation in scaling effectively. It aligns with key topics such as continuous improvement and the role of DevOps in product delivery. However, while it touches on product development principles, it primarily focuses on technical aspects rather than broader methodologies or customer-centric approaches.",
+    "level": "Secondary"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T10:47:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content discusses technical debt and scaling practices but does not mention GitHub or its specific functionalities. While it touches on concepts like automation and continuous integration, which are relevant to GitHub Actions, it lacks direct references to GitHub services or tools, making it only tangentially related to the category.",
     "level": "Ignored"
   }
 }

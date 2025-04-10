@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:48:19",
+    "calculated_at": "2025-04-10T12:04:10",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
     "final_score": 11.0,
-    "reasoning": "The content primarily focuses on engineering excellence and software development practices, with no explicit discussion of accountability as a structural concept. While it touches on themes like collaboration and metrics, these are not directly tied to outcome ownership or accountability in Agile or Scrum contexts.",
+    "reasoning": "The content primarily focuses on engineering excellence and software development practices, with no explicit discussion of accountability or outcome ownership. While it touches on collaboration and quality, these themes do not align with the core topics of accountability as defined in the category.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on engineering excellence and software development practices, with no direct mention of artifacts as defined in Agile, Scrum, or Lean. While it discusses principles that may relate to the quality of work, it does not explore the structure, purpose, or role of specific artifacts, nor does it provide best practices for managing them. The discussion is abstract and does not tie back to tangible artifacts, leading to a low confidence score.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:56:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses engineering excellence in detail, focusing on high standards in software craftsmanship and development practices. While the term 'discipline' is not explicitly mentioned, the principles outlined align closely with the core themes of discipline in terms of maintaining standards, continuous improvement, and technical rigor. The depth of discussion on various principles contributes to a strong alignment with the category, though it lacks direct references to 'discipline' itself.",
+    "level": "Secondary"
   }
 }

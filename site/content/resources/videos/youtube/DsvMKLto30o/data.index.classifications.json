@@ -155,18 +155,6 @@
     "reasoning": "The content discusses the challenges of delivering software continuously and the importance of maintaining and improving software systems, which aligns with release management principles. However, it primarily focuses on general software delivery issues and organisational behaviour rather than specific release management strategies, tools, or practices. The mention of continuous delivery is relevant but not deeply explored in the context of structured release management processes.",
     "level": "Secondary"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-14T16:22:55",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 45.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content discusses the challenges of software delivery and the need for continuous improvement, which aligns with some Scrum principles. However, it lacks explicit references to Scrum roles, events, or structured practices. The discussion is more focused on general software development issues rather than specific Scrum methodologies, resulting in a moderate confidence score.",
-    "level": "Ignored"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
     "calculated_at": "2025-03-14T16:24:30",
@@ -177,18 +165,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of software delivery and the need for continuous improvement, but it lacks explicit mentions of hypothesis formulation, experimentation, or validated learning. While it touches on the importance of organisational will and investment in product quality, it does not provide a structured approach to testing hypotheses or analysing data from experiments, which are core to hypothesis-driven development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses the challenges of software delivery and the need for continuous improvement, but it does not explicitly mention scaled Agile frameworks or practices. While it touches on organisational will and the importance of addressing complexity, it lacks a direct focus on scaling Agile methodologies across multiple teams or enterprise-level strategies. The discussion is more about individual software delivery challenges rather than the coordination and collaboration required in a scaled Agile context.",
     "level": "Ignored"
   },
   "Personal": {
@@ -202,18 +178,6 @@
     "final_score": 29.0,
     "reasoning": "The content includes personal reflections and insights on the challenges of software delivery and organisational change, which aligns with the Personal category. However, it primarily focuses on technical issues and general observations about organisations rather than deeply personal experiences or anecdotes. The discussion lacks a strong personal narrative, which limits its depth in the context of individual experiences with Agile or DevOps.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-08T12:56:12",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the challenges of software delivery and the need for continuous improvement, which aligns with Agile and DevOps principles. It mentions the importance of organisational will to enhance software quality and delivery speed, reflecting on the role of developers in addressing legacy system issues. However, the discussion lacks direct references to specific Agile practices or tools, and the depth of technical detail is moderate, focusing more on organisational behaviour than on developer methodologies.",
-    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -239,18 +203,6 @@
     "reasoning": "The content discusses the need for organisations to improve their software delivery processes and adapt to changing demands, which aligns with the principles of organisational agility. It highlights the importance of continuous delivery and the cultural shifts required to achieve it. However, while it touches on agility, it primarily focuses on software engineering challenges and does not delve deeply into broader organisational strategies or frameworks, leading to a moderate confidence score.",
     "level": "Secondary"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 25.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 20,
-    "final_score": 24.0,
-    "reasoning": "The content discusses the challenges of software delivery and the need for continuous improvement in software systems, but it does not explicitly mention AI or automation technologies. While it touches on Agile principles and the importance of organisational will to improve processes, it lacks a direct focus on how AI and automation can enhance Agile practices. The discussion is more about general software development challenges rather than the integration of AI and automation within Agile frameworks.",
-    "level": "Ignored"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
     "calculated_at": "2025-03-21T16:40:27",
@@ -263,18 +215,6 @@
     "reasoning": "The content discusses continuous delivery and organisational commitment to improvement but lacks explicit references to evidence-based management principles or metrics. It focuses more on agile practices and personal analogies rather than empirical decision-making or value delivery metrics.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-08T12:56:27",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the challenges of achieving continuous delivery and the need for organisational will to improve software quality and delivery speed. While it touches on the importance of application lifecycle management and mentions continuous delivery as a goal, it lacks specific discussions on tools or methodologies like Agile frameworks or DevOps practices. The focus is more on the philosophical aspects of change rather than practical techniques or tooling, which diminishes its alignment with the category.",
-    "level": "Secondary"
-  },
   "Product Backlog": {
     "category": "Product Backlog",
     "calculated_at": "2025-03-14T16:24:30",
@@ -285,18 +225,6 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the challenges of software delivery and organisational issues rather than focusing on the Product Backlog or its management. While it touches on the need for continuous delivery and the importance of addressing technical debt, it does not explicitly mention the Product Backlog, its purpose, or any related practices such as backlog refinement or prioritisation techniques. The discussion lacks depth in relation to the specific roles and responsibilities of the Product Owner or strategies for maintaining a healthy backlog, which are key aspects of the Product Backlog category.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the challenges and strategies related to software delivery and organisational change, but it does not explicitly reference any events, presentations, or discussions that align with the category of 'Events and Presentations'. While it touches on themes relevant to Agile and DevOps, such as continuous delivery and organisational will, it lacks direct mentions of specific events, talks, or structured learning experiences. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
@@ -322,30 +250,6 @@
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of software delivery and the need for continuous improvement, which touches on trends in Agile and DevOps. However, it lacks a focused analysis of specific trends or their implications for organisations, making it more of a general commentary rather than a structured trend analysis.",
     "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses the challenges of software delivery and the need for organisational will to improve systems, which touches on accountability. However, it lacks a direct focus on transparency and does not provide detailed strategies or examples related to fostering an environment of openness and responsibility within Agile teams. The primary emphasis is on the technical aspects of software delivery rather than the principles of transparency and accountability.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-08T12:56:44",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 45.0,
-    "ai_depth": 80.0,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses the challenges and solutions related to continuous delivery in software development, touching on industry examples like American Airlines and Delta. While it does not explicitly mention news or reviews, it provides insights into current practices and issues in Agile and DevOps, aligning with the core themes of the category. The depth of discussion is significant, offering detailed analysis and commentary on the state of software delivery and organisational challenges, which supports a higher confidence score.",
-    "level": "Tertiary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -553,14 +457,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-03-14T16:24:30",
+    "calculated_at": "2025-04-10T10:45:05",
     "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content discusses the importance of improving delivery speed and the challenges faced by organisations in achieving continuous delivery. However, it does not explicitly define or focus on Lead Time as a metric. While there are references to delivery speed and the need for organisational will to improve processes, the discussion lacks depth on measuring Lead Time or its direct impact on customer satisfaction. Overall, the content touches on related themes but does not align closely enough with the specific category of Lead Time.",
+    "reasoning": "The content discusses continuous delivery and the need for organisational commitment to improve delivery speed, which indirectly relates to Lead Time. However, it lacks explicit mentions of Lead Time as a metric, and the discussion is more focused on general principles of agility and software improvement rather than specific strategies or measurements related to Lead Time.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -1175,18 +1079,6 @@
     "reasoning": "The content discusses the importance of organisational will and effort in improving software delivery, which indirectly touches on coaching principles. However, it primarily focuses on the challenges of software complexity and delivery rather than the coaching process itself. There are brief mentions of personal growth and change, but these are not elaborated in a coaching context. Overall, the content lacks a strong focus on coaching techniques, team dynamics, or the supportive nature of coaching.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 25.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 24.0,
-    "reasoning": "The content discusses the challenges of software delivery and organisational will to improve processes, but it does not explicitly mention Scrum or frameworks for scaling Scrum. While it touches on themes of complexity and continuous delivery, it lacks a direct focus on Scrum principles, roles, or events, which are essential for the 'Scaling Scrum' category.",
-    "level": "Ignored"
-  },
   "Market Share": {
     "category": "Market Share",
     "calculated_at": "2025-03-14T16:24:30",
@@ -1393,15 +1285,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-08T13:01:34",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "calculated_at": "2025-04-10T10:45:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of improving delivery speed and the need for organisational will to enhance product quality, which aligns with throughput concepts. However, it lacks explicit measurement techniques and detailed strategies for optimising throughput, focusing more on general software delivery challenges and organisational issues.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses continuous delivery and the need for organisational commitment to improve delivery speed, which indirectly relates to throughput. However, it lacks explicit mentions of throughput as a metric, and the focus is more on cultural change and simplification rather than analysing or visualising throughput. The depth of discussion on related concepts is moderate, but it does not provide specific insights into throughput as a delivery metric.",
+    "level": "Ignored"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -1439,18 +1331,6 @@
     "reasoning": "The content discusses the challenges of software delivery and the need for continuous improvement but does not explicitly mention test automation or its principles, frameworks, or practices. While it touches on related themes such as continuous delivery and organisational will to improve software quality, it lacks a focused discussion on test automation itself, making it only tangentially relevant to the category.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-08T13:01:47",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the challenges of continuous delivery and the need for organisational will to improve software quality, which aligns with the themes of learning from failures and successes. However, it primarily focuses on the issues of complexity and delivery rather than explicitly exploring methodologies for discovery and learning. The depth of discussion on fostering a culture of innovation is limited, resulting in a moderate confidence score.",
-    "level": "Secondary"
-  },
   "Experimentation": {
     "category": "Experimentation",
     "calculated_at": "2025-03-14T16:24:30",
@@ -1474,30 +1354,6 @@
     "final_score": 56.0,
     "reasoning": "The content discusses the challenges organisations face in delivering software continuously, touching on the need for understanding complexity and the importance of organisational will to adapt. However, while it mentions aspects of sensemaking, such as recognising risks and the need for change, it primarily focuses on technical issues and personal anecdotes rather than providing a structured exploration of sensemaking principles or frameworks. The depth of discussion on sensemaking is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-08T13:01:58",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 30,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the importance of organisational will and human effort in achieving continuous delivery, highlighting the interplay between people and processes. It addresses the need for teams to adapt and improve their methodologies, particularly in the context of legacy systems and the challenges faced by organisations. However, while it touches on these themes, the focus is more on technical challenges and solutions rather than a deep exploration of team dynamics or leadership roles, which slightly lowers the confidence score.",
-    "level": "Secondary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 30,
-    "final_score": 14.0,
-    "reasoning": "The content primarily discusses the challenges of software delivery and organisational issues without any explicit mention of AI or its integration into Agile or DevOps practices. While it touches on continuous delivery and software quality, it lacks a focus on AI's role in enhancing these processes, which is essential for alignment with the category.",
-    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -1597,14 +1453,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
+    "calculated_at": "2025-04-10T10:45:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the challenges of software delivery and organisational behaviour rather than focusing on specific system configuration practices. While it touches on the need for system improvement and maintenance, it lacks detailed discussions on configuration management, optimisation strategies, or specific methodologies related to system configuration. The emphasis is more on software development processes and organisational will rather than the technical aspects of configuring systems.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses continuous delivery and the need for organisational commitment to improve software systems, which touches on system configuration concepts. However, it primarily focuses on software development practices and cultural change rather than specific system configuration tools or methodologies. The mention of legacy systems and the need for maintenance aligns somewhat with system configuration, but the overall emphasis is on agility and delivery rather than configuration management.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
@@ -1629,18 +1485,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the challenges of delivering software continuously and the need for organisational will to improve systems, which aligns with the principles of agility and decentralisation. However, it primarily focuses on traditional software delivery issues and does not explicitly address BetaCodex principles or human-centric organisational design. The discussion lacks depth in exploring adaptive cultures or leadership dynamics, leading to a lower confidence score.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses the challenges of delivering software continuously and the need for organisational will to improve systems, which aligns with the broader themes of scaling agility. However, it primarily focuses on individual and organisational challenges rather than specific frameworks or practices for scaling agility. The mention of continuous delivery hints at agile principles but lacks depth in discussing frameworks or leadership roles in fostering an agile culture.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1715,18 +1559,6 @@
     "reasoning": "The content discusses the challenges of delivering software continuously and the need for organisational will to improve systems, which aligns with the principles of large-scale agility. However, it primarily focuses on individual and organisational challenges rather than specific frameworks or strategies for scaling Agile across an organisation. The mention of continuous delivery hints at Agile practices but lacks a direct focus on large-scale Agile frameworks or enterprise-level transformation strategies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 25.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 30.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 22.0,
-    "reasoning": "The content discusses the challenges of software delivery and the need for continuous improvement, which aligns with some Kanban principles. However, it primarily focuses on general software engineering issues and does not explicitly mention Kanban or its scaling practices. The discussion lacks depth in terms of specific strategies or techniques for scaling Kanban, making it a secondary topic rather than a primary focus.",
-    "level": "Ignored"
-  },
   "Increment": {
     "category": "Increment",
     "calculated_at": "2025-03-14T16:24:30",
@@ -1749,18 +1581,6 @@
     "non_ai_confidence": 10,
     "final_score": 79.0,
     "reasoning": "The content extensively discusses the challenges and methodologies related to continuous delivery in software development, emphasising the importance of organisational will to improve software quality and delivery speed. It aligns well with key topics such as CI/CD practices, application lifecycle management, and the need for continuous improvement in software systems. The depth of discussion is significant, providing detailed examples and analogies to illustrate the points made, which reinforces its strong alignment with the Software Development category.",
-    "level": "Secondary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-08T13:03:16",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 30,
-    "non_ai_confidence": 30,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the challenges of software complexity and the importance of improving code quality to achieve continuous delivery. It highlights the relationship between organisational will, technical debt, and the need for maintainable systems, aligning well with the core themes of the category. The depth of discussion is substantial, providing examples and analogies to illustrate points about software systems and complexity management. However, while it touches on key topics, it does not delve deeply into complexity theory or specific best practices, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Team Performance": {
@@ -1917,6 +1737,42 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of organisational commitment and adaptability in achieving continuous delivery, which aligns with the principles of Agentic Agility. However, it lacks explicit mentions of the category and does not differentiate between human and AI capabilities, focusing instead on general software development practices.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T10:44:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses continuous delivery and the need for organisational commitment to improve software quality and speed. However, it does not explicitly address scaling methodologies or frameworks, nor does it delve into cross-team collaboration or alignment with business goals, which are central to the Scaling category. The focus is more on individual organisational change rather than the complexities of scaling Agile practices across multiple teams.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T10:45:00",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses continuous delivery, a key aspect of product development, and emphasises the importance of organisational commitment to improving product quality and delivery speed. It aligns well with Agile principles and continuous improvement practices, providing detailed insights into overcoming complexity in software systems. The depth of discussion on legacy systems and the need for cultural change further supports its relevance to product development methodologies.",
+    "level": "Secondary"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T10:47:19",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses continuous delivery and organisational change but does not specifically mention GitHub or its functionalities. While it touches on themes relevant to Agile and DevOps, it lacks a direct focus on GitHub services, tools, or best practices, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

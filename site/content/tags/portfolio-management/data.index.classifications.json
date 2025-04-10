@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:20:14",
+    "calculated_at": "2025-04-10T11:59:33",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 30,
     "final_score": 59.0,
-    "reasoning": "The content discusses accountability in the context of Portfolio Management, highlighting its role in fostering transparency and informed decision-making. However, it does not delve deeply into the structural aspects of accountability as defined in the category, such as specific roles in Scrum or the distinction between accountability and authority. While it mentions accountability, it is not the primary focus, and the discussion lacks depth regarding system-level outcomes and ownership.",
+    "reasoning": "The content discusses accountability in the context of Portfolio Management, highlighting its role in decision-making and value delivery. However, it does not focus specifically on structural accountabilities or role-specific responsibilities within work systems, which are central to the category of Accountability. The mention of fostering a culture of transparency and accountability is present but not deeply explored, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses Portfolio Management, which is more focused on strategic alignment and value delivery rather than specific artifacts in Agile, Scrum, or Lean. While it touches on transparency and decision-making, it does not explicitly mention or explore the types of artifacts or their roles in these frameworks. The discussion lacks depth regarding the structure and management of artifacts, leading to a low confidence score in the 'Artifact' category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:51:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses Portfolio Management in detail, focusing on aligning strategy with execution and optimising value streams, which are essential aspects of discipline in organisational contexts. However, while it touches on themes of accountability and continuous improvement, it does not explicitly mention 'discipline' as a concept, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

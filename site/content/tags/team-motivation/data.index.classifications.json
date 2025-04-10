@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T14:54:42",
+    "calculated_at": "2025-04-10T11:58:08",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily focuses on team motivation rather than accountability as a structural concept. While it mentions ownership and engagement, these are framed in the context of personal motivation and team dynamics rather than clearly defined accountabilities or outcome ownership. The discussion lacks depth regarding the specific roles and responsibilities within Agile frameworks, which are crucial for accountability. Therefore, the confidence score reflects a low alignment with the category.",
+    "reasoning": "The content discusses team motivation and ownership but does not explicitly address accountability as a structural mechanism. While it touches on themes of engagement and performance, it lacks a clear focus on outcome ownership or the specific roles that define accountability in work systems.",
     "level": "Ignored"
   },
   "Framework": {
@@ -165,6 +165,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on team motivation rather than artifacts. While it touches on themes relevant to Agile and team dynamics, it does not explicitly discuss artifacts or their roles, purposes, or types. The discussion is abstract and does not provide specific details about any artifacts, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:49:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "While the content discusses team motivation, which is related to discipline in terms of fostering engagement and ownership, it does not explicitly focus on discipline itself. The primary theme revolves around motivation and its impact on team performance rather than the principles of discipline. The content does mention aspects of discipline indirectly, such as commitment and continuous improvement, but these are secondary to the main focus on motivation.",
     "level": "Ignored"
   }
 }

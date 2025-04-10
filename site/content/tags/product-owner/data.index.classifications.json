@@ -13,15 +13,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:15:34",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the role of the Product Owner in maximising product value and managing the backlog, which touches on accountability in terms of ownership of product outcomes. However, it lacks explicit discussion of accountability as a structural concept, focusing more on task management and stakeholder alignment. While it aligns with some key themes, such as the importance of defined roles, it does not delve deeply into the nuances of accountability versus responsibility or authority.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T11:59:20",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content explicitly discusses the role of the Product Owner as an accountability within the Scrum framework, detailing their responsibilities for outcomes and strategic decision-making. It aligns closely with the core themes of accountability, particularly in relation to outcome ownership and the importance of clear roles in delivering value. The depth of discussion is significant, covering various aspects of the Product Owner's role, including stakeholder alignment and the impact on product success.",
+    "level": "Primary"
   },
   "Framework": {
     "category": "Framework",
@@ -166,5 +166,17 @@
     "final_score": 38.0,
     "reasoning": "The content discusses the role of the Product Owner in managing the product backlog, which is a specific artifact in Agile. However, the focus is more on the responsibilities and strategic importance of the Product Owner rather than a detailed exploration of artifacts themselves. While there are mentions of backlog management, the content does not delve deeply into the structure, purpose, or best practices related to artifacts, leading to a moderate confidence score.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:51:09",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content provides a comprehensive discussion of the Product Owner's role within the Scrum framework, which is closely tied to the concept of discipline in terms of accountability and strategic decision-making. It explicitly mentions the responsibilities and importance of the Product Owner, demonstrating a strong alignment with the core themes of discipline, such as accountability, prioritisation, and value delivery. The depth of discussion is significant, covering various aspects of the role and its impact on product development, which further supports a high confidence score.",
+    "level": "Secondary"
   }
 }

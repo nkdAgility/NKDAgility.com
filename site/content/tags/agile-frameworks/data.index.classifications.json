@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:41:17",
+    "calculated_at": "2025-04-10T12:03:43",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses Agile frameworks and their principles, but it does not explicitly address accountability as a structural concept. While it mentions roles and collaboration, it lacks a clear focus on defined accountabilities or the ownership of outcomes within those frameworks. The discussion is more about the general benefits of Agile methodologies rather than the specific implications of accountability in a Scrum or DevOps context.",
+    "reasoning": "The content discusses Agile frameworks and their role in facilitating value delivery and organisational agility. However, it lacks a direct focus on accountability as a structural mechanism, with only brief mentions of roles and collaboration without explicitly addressing outcome ownership or the nuances of accountability in work systems.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses Agile frameworks and their principles, but it only briefly mentions artifacts as part of the frameworks without delving into their specific roles or types. While there is some alignment with the category's core themes, the depth of discussion on artifacts is limited, focusing more on the overall framework rather than the artifacts themselves.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:56:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses Agile frameworks, which inherently involve discipline in terms of structured methodologies and adherence to principles. While the term 'discipline' is not explicitly mentioned, the content aligns well with the core themes of discipline through its emphasis on structured processes, roles, and continuous improvement. The depth of discussion is significant, detailing how Agile frameworks foster collaboration and adaptability, which are essential aspects of maintaining discipline within teams.",
+    "level": "Tertiary"
   }
 }

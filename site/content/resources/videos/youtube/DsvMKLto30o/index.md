@@ -32,11 +32,16 @@ tags:
 - Pragmatic Thinking
 - Continuous Improvement
 - Product Delivery
+- Product Development
 - Frequent Releases
 - Operational Practices
-- People and Process
-- Code and Complexity
 - Azure DevOps
+- Resilience and Change
+- Working Software
+- Business Agility
+- Organisational Agility
+- Value Delivery
+- Technical Debt
 sitemap:
   filename: sitemap.xml
   priority: 0.6

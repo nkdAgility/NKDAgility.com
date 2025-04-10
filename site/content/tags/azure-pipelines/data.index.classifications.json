@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:24:32",
-    "ai_confidence": 25.0,
+    "calculated_at": "2025-04-10T12:02:50",
+    "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
-    "ai_depth": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
-    "reasoning": "The content primarily focuses on the technical aspects of Azure Pipelines and its role in automating builds and deployments. While it mentions improving collaboration and aligning teams towards common goals, it does not explicitly discuss accountability as a structural concept or delve into defined accountabilities within Agile or Scrum frameworks. The discussion lacks depth regarding who owns outcomes or the implications of misaligned accountabilities, which are central to the category of accountability.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Azure Pipelines as a tool for automating builds and deployments, with limited direct discussion on accountability. While it touches on themes of collaboration and alignment towards common goals, it does not explicitly address outcome ownership or the structural accountabilities within teams. The discussion lacks depth regarding how accountability influences performance or self-management in work systems.",
     "level": "Ignored"
   },
   "Framework": {
@@ -165,6 +165,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Azure Pipelines as a tool for automating builds and deployments, rather than discussing artifacts as formal representations of work. While it touches on aspects of efficiency and collaboration, it does not explicitly define or explore the role of artifacts in Agile or related methodologies. The discussion lacks depth regarding specific artifacts like Product Backlog or Sprint Backlog, and does not provide best practices for managing artifacts.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:55:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Azure Pipelines and its role in automating software development processes. While it does touch on themes of efficiency and collaboration, which can relate to discipline in a broader sense, the direct mention of 'discipline' or related concepts is minimal. The discussion is more centred on technical aspects and benefits of Azure Pipelines rather than on the principles of discipline itself. Therefore, the confidence score reflects a moderate alignment with the category, but not a strong focus.",
     "level": "Ignored"
   }
 }

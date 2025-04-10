@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:50:25",
+    "calculated_at": "2025-04-10T12:01:03",
     "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 30,
     "final_score": 59.0,
-    "reasoning": "The content discusses estimation in Agile and Scrum, highlighting its role in managing uncertainty and aligning expectations. While it touches on accountability in the context of fostering a culture of transparency, it does not explicitly define accountabilities or explore structural concepts of ownership in outcomes. The primary focus is on the estimation process rather than on accountability as a structural concept, leading to a moderate confidence score.",
+    "reasoning": "The content discusses estimation in Agile and Scrum, highlighting its role in managing uncertainty and aligning expectations, which indirectly supports accountability through improved forecasting and transparency. However, while it touches on accountability as part of a culture for high-performing teams, it does not explicitly focus on outcome ownership or structural accountabilities, which are central to the category. The discussion is more about the practice of estimation rather than a deep dive into accountability mechanisms.",
     "level": "Tertiary"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses estimation as a practice in Agile and Scrum, focusing on its role in forecasting and managing uncertainty. However, it does not explicitly mention specific artifacts like Product Backlog or Sprint Backlog, which are central to the 'Artifact' category. While it touches on themes of transparency and collaboration, it lacks a direct focus on the structure and purpose of artifacts themselves, leading to a lower confidence score.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:53:58",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses estimation as a critical practice in Agile and Scrum, directly addressing the category of discipline through its focus on structured practices and methodologies. It aligns well with the core themes of discipline by emphasising the importance of engaging the entire team, managing uncertainty, and fostering accountability. The depth of discussion is substantial, covering various aspects of estimation, its impact on team performance, and its role in continuous improvement, which further supports a high confidence score.",
+    "level": "Secondary"
   }
 }

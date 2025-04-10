@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:16:34",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-04-10T12:02:25",
+    "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
-    "reasoning": "The content primarily focuses on collaboration tools and their role in facilitating communication and coordination within Agile teams. While it touches on themes of transparency and team performance, it does not explicitly discuss accountability as a structural concept or the ownership of outcomes. The mention of Agile practices is too general and does not delve into defined accountabilities or the impact of misaligned accountabilities, which are central to the category of Accountability.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses collaboration tools that enhance communication and coordination within Agile teams, which indirectly supports accountability by fostering transparency and visibility. However, it does not explicitly address accountability as a foundational mechanism or discuss specific roles or outcome ownership, making it a secondary focus rather than a primary one.",
     "level": "Ignored"
   },
   "Framework": {
@@ -165,6 +165,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on collaboration tools rather than specific artifacts in Agile, Scrum, or Lean. While it mentions transparency and communication, it does not delve into the structure or purpose of specific artifacts like Product Backlog or Sprint Backlog, which are central to the 'Artifact' category. The discussion is more about tools and their role in facilitating collaboration, which is outside the scope of the defined category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:55:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses collaboration tools and their role in supporting Agile teams, which indirectly relates to discipline through the promotion of structured communication and coordination. However, the term 'discipline' is not explicitly mentioned, and the focus remains on tools rather than the concept of discipline itself. The alignment with core themes of discipline is moderate, as it touches on continuous improvement and team performance, but lacks depth in discussing discipline as a standalone concept.",
     "level": "Ignored"
   }
 }

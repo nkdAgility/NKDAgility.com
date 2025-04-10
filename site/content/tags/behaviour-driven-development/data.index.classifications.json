@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:21:53",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-04-10T12:02:38",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 41.0,
-    "reasoning": "The content discusses Behaviour Driven Development (BDD) and its role in aligning development with business goals, which touches on accountability in terms of shared ownership and delivering value. However, it does not explicitly define accountabilities within a Scrum or Agile context, nor does it delve deeply into the structural aspects of accountability as outlined in the category definition. The focus is more on collaboration and communication rather than on the structural concept of accountability itself.",
+    "final_score": 59.0,
+    "reasoning": "The content discusses Behaviour Driven Development (BDD) and its role in aligning development with business goals, which indirectly touches on accountability through shared ownership and collaboration. However, it lacks explicit discussions on structural accountabilities or specific roles like Product Owner or Scrum Master. The focus is more on collaboration and communication rather than on clearly defined outcome ownership, which is essential for a higher confidence score in the accountability category.",
     "level": "Tertiary"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Behaviour Driven Development (BDD) and its role in aligning development with business goals, but it does not explicitly mention or focus on artifacts as defined in Agile, Scrum, or Lean. While it touches on collaboration and requirements, it lacks a direct exploration of specific artifacts or their management, which are central to the 'Artifact' category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:55:27",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses Behaviour Driven Development (BDD) in detail, focusing on collaboration and alignment with business goals, which are essential aspects of discipline in software development. However, while it touches on the importance of clear communication and shared understanding, it does not explicitly mention 'discipline' as a concept, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

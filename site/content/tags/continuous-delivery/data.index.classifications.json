@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:13:20",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-04-10T12:02:13",
+    "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
-    "reasoning": "The content primarily focuses on Continuous Delivery as a practice and does not explicitly discuss accountability or its structural implications. While it touches on aspects of team responsiveness and user feedback, it lacks a clear exploration of defined accountabilities or ownership of outcomes within a system of work.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Continuous Delivery as a software delivery practice, discussing its benefits and processes. While it touches on aspects of feedback and iteration, it does not explicitly address accountability or outcome ownership in a structured work system. The mention of user feedback and rapid validation is relevant but does not delve into the core themes of accountability, such as role-specific accountabilities or the structural aspects of accountability in Agile or Scrum frameworks.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the practice of Continuous Delivery rather than on specific artifacts. While it mentions the importance of delivering increments and gathering feedback, it does not explicitly discuss the types or roles of artifacts in Agile or related frameworks. The discussion lacks depth regarding the structure and management of artifacts, which are central to the 'Artifact' category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:55:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 30,
+    "final_score": 73.0,
+    "reasoning": "The content discusses Continuous Delivery as a disciplined practice, which aligns with the concept of discipline in software development. It explicitly mentions the term 'disciplined' and describes the structured approach to software delivery. However, while it touches on the importance of discipline, the primary focus is on the practice itself rather than an in-depth exploration of discipline as a standalone concept. The depth of discussion is moderate, providing a good overview but lacking extensive detail on discipline beyond its application in Continuous Delivery.",
+    "level": "Secondary"
   }
 }

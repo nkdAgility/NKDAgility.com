@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:52:56",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-04-10T12:01:15",
+    "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
-    "reasoning": "The content primarily focuses on engineering practices and methodologies in Agile, with no explicit discussion of accountability as a structural concept. While it touches on themes of collaboration and alignment with business objectives, it does not address defined accountabilities, ownership of outcomes, or the impact of misaligned accountabilities, which are central to the category of Accountability.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on engineering practices within Agile environments, discussing clean code, automation, and CI/CD pipelines. While it touches on themes of collaboration and alignment with business objectives, it does not explicitly address accountability as a structural mechanism or outcome ownership. The discussion lacks depth regarding specific roles or the impact of accountability on performance, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Framework": {
@@ -165,6 +165,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Engineering Practices in an Agile context but does not explicitly mention artifacts or their specific roles. While it touches on principles that may relate to the management of artifacts, such as continuous improvement and collaboration, it lacks a direct focus on the definition, types, or best practices for managing artifacts themselves. Therefore, the alignment and depth of discussion regarding the category of 'Artifact' are limited.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:54:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Engineering Practices in the context of Agile methodologies, which indirectly relates to discipline through the emphasis on structured approaches and continuous improvement. However, the primary focus is on technical practices rather than discipline itself. The direct mentions of discipline are minimal, and while there is some conceptual alignment with the idea of maintaining standards and practices, the depth of discussion primarily revolves around technical methodologies rather than the broader concept of discipline.",
     "level": "Ignored"
   }
 }

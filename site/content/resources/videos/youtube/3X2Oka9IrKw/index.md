@@ -30,12 +30,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
+- Scaling
 - Agile Philosophy
 - Agile Strategy
 - Organisational Agility
 - Pragmatic Thinking
 - Business Agility
+- Product Development
+- Agile Values and Principles
+- Resilience and Change
+- Market Adaptability
+- Agile Transformation
+- Beta Codex
+- Enterprise Agility
+- Organisational Change
+- Organisational Culture
 resourceTypes:
 - video
 layout: video

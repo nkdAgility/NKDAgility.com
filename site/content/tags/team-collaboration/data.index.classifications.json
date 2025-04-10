@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T14:55:32",
+    "calculated_at": "2025-04-10T11:58:10",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses teamwork and shared ownership, which are related to accountability, but it does not explicitly define or explore accountability as a structural concept. The focus is more on collaboration and communication rather than on who owns the outcomes in a system of work. While there are elements that touch on collective responsibility, the lack of direct mentions and depth regarding accountability in the context of Scrum or organisational design patterns limits its alignment with the category.",
+    "reasoning": "The content discusses teamwork and shared ownership, which are related to accountability, but it does not explicitly address outcome ownership or the structural accountabilities within work systems. The focus is more on collaboration rather than the specific mechanisms of accountability, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Framework": {
@@ -165,6 +165,18 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on team collaboration and communication rather than on specific artifacts or their roles in Agile, Scrum, or Lean methodologies. While it touches on concepts relevant to teamwork in these frameworks, it does not explicitly discuss artifacts or their management, which are central to the 'Artifact' category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:49:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on team collaboration, which is related to discipline in terms of fostering effective teamwork and shared ownership. However, it does not explicitly discuss discipline as a concept. The alignment with discipline is moderate, as it touches on aspects of responsibility and structured teamwork, but lacks depth in discussing discipline itself. The depth of discussion is relatively high, providing detailed insights into the benefits and practices of collaboration, but it does not delve into the principles of discipline directly.",
     "level": "Ignored"
   }
 }

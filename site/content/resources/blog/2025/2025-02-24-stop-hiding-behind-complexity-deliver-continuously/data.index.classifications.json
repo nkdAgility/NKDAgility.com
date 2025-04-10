@@ -85,15 +85,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-06T13:21:35",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15,
-    "ai_alignment": 35,
-    "ai_depth": 30,
+    "calculated_at": "2025-04-10T10:46:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
-    "reasoning": "The content discusses continuous delivery and the importance of optimising workflows to improve throughput. It provides specific metrics related to throughput, such as Time to Build, Time to Self-Test, Time to Deploy, and Time to Learn, which are directly related to measuring the flow of work. The examples from Microsoft and Starbucks illustrate real-world improvements in throughput, aligning well with the category's focus. However, while throughput is a significant theme, the content also delves into broader topics like organisational culture and investment, which slightly detracts from its primary focus on throughput.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses continuous delivery and the importance of metrics like 'Time to Deploy' and 'Time to Learn', which relate to throughput as a delivery metric. However, it primarily focuses on overcoming complexity and organisational challenges rather than analysing or visualising throughput itself. While there are mentions of delivery speed and metrics, the discussion lacks a deep exploration of throughput as defined in the category, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Strategy": {
     "category": "Strategy",
@@ -167,18 +167,6 @@
     "reasoning": "The content extensively discusses the concept of continuous delivery and the necessary organisational changes to achieve it, which aligns closely with the principles of digital transformation. It highlights the strategic adoption of modern technologies and methodologies, such as Azure DevOps, to enhance business agility and operational efficiency. The depth of discussion on metrics, change management, and the cultural shift required for successful transformation further supports its strong alignment with the category.",
     "level": "Secondary"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-03-14T16:22:55",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content discusses continuous delivery and automation extensively, particularly in the context of Microsoft Azure DevOps. However, it lacks direct references to AI technologies or their integration within Agile frameworks. While it touches on automation as a key aspect of improving delivery processes, it does not explore AI's role in enhancing Agile practices or decision-making, which is crucial for a higher confidence score in this category.",
-    "level": "Ignored"
-  },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
     "calculated_at": "2025-03-14T16:22:55",
@@ -189,18 +177,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses continuous delivery and software development practices, with no direct mention of revenue per employee or related financial metrics. While it touches on productivity and efficiency, it does not provide a focused analysis or discussion on revenue generation per employee, which is the core theme of the category.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 25.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 22.0,
-    "reasoning": "The content primarily discusses continuous delivery and the challenges of complexity in software development, with a focus on specific case studies like Microsoft and Starbucks. While it touches on themes of organisational change and process improvement, it does not explicitly address Scaling Scrum frameworks, coordination among multiple Scrum teams, or maintaining Scrum roles and events at scale. Therefore, it only marginally aligns with the category of Scaling Scrum.",
     "level": "Ignored"
   },
   "Portfolio Management": {
@@ -311,18 +287,6 @@
     "reasoning": "The content discusses continuous delivery and the importance of investing in quality and automation, which aligns with Lean principles of minimising waste and maximising value. However, it primarily focuses on continuous delivery practices rather than explicitly addressing Lean Product Development concepts. While it touches on some relevant themes, such as the need for continuous improvement and the elimination of technical debt, it lacks a comprehensive exploration of Lean methodologies and tools, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content discusses continuous delivery and the evolution of software development practices, which are relevant to Scrum principles. However, it lacks explicit references to Scrum roles, events, or the management of a Product Backlog. While it touches on iterative development and the importance of responding to customer needs, it does not focus specifically on Scrum methodologies, leading to a moderate confidence score.",
-    "level": "Ignored"
-  },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
     "calculated_at": "2025-03-14T16:24:30",
@@ -419,18 +383,6 @@
     "reasoning": "The content discusses continuous delivery and automation but does not explicitly mention Test First Development or its principles. While it touches on the importance of quality and testing, it lacks a focused discussion on defining success criteria before implementation, which is central to Test First Development. The content primarily emphasises overcoming complexity and improving processes rather than the specific practices of Test First Development.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-03-04T13:03:08",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses continuous delivery and the evolution of Microsoft's Developer Division, which touches on aspects of scaling agility, such as the need for organisational investment and systemic changes. However, it primarily focuses on team-level practices and technical improvements rather than broader organisational strategies or frameworks for scaling agility. While it mentions the importance of leadership and metrics, these are not explored in depth, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
     "calculated_at": "2025-03-14T16:24:30",
@@ -442,18 +394,6 @@
     "final_score": 30.0,
     "reasoning": "The content discusses continuous delivery and the evolution of software development practices, particularly focusing on Azure DevOps. While it touches on aspects of Agile methodologies, such as automation and metrics, it does not explicitly address Agile Planning Tools or their specific functionalities. The primary focus is on overcoming complexity in software delivery rather than on planning tools that facilitate Agile execution.",
     "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-04T13:03:13",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15,
-    "ai_alignment": 35,
-    "ai_depth": 30,
-    "non_ai_confidence": 30,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the challenges and strategies related to software complexity and continuous delivery, making it highly relevant to the category of Code and Complexity. It explicitly mentions the impact of complexity on software delivery and the need for investment in quality and architecture, aligning well with the core themes of the category. The depth of discussion is substantial, covering various strategies such as automation, trunk-based development, and metrics for measuring velocity, which are all critical to managing complexity in software development. Overall, the content provides a comprehensive exploration of how to overcome complexity in coding practices, thus justifying a high confidence score.",
-    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -490,18 +430,6 @@
     "final_score": 58.0,
     "reasoning": "The content discusses continuous delivery and the importance of metrics and automation, but it lacks a direct focus on hypothesis formulation and experimentation. While it touches on validating hypotheses through feature flags and testing in production, these concepts are not the primary focus of the discussion. The emphasis is more on overcoming complexity and improving processes rather than on the structured approach of hypothesis-driven development.",
     "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-04T13:03:23",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 32.0,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content discusses the evolution of continuous delivery practices, particularly highlighting Microsoft's Azure DevOps as a case study. It provides insights into industry practices and challenges, aligning with the core themes of DevOps and technology updates. However, while it mentions specific companies and their practices, it lacks a broader industry news context and does not review specific tools or literature, which slightly lowers its alignment and depth scores.",
-    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -622,18 +550,6 @@
     "final_score": 85.0,
     "reasoning": "The content explicitly discusses Continuous Delivery (CD) as a primary focus, detailing its principles, the importance of automation, and the need for cultural shifts within organisations. It provides specific examples, such as Microsoft's transition to CD, and outlines strategies for overcoming complexity and technical debt. The depth of discussion is substantial, covering various aspects of CD, including metrics for measuring velocity and the significance of rapid feedback. Overall, the content aligns closely with the key topics of the Continuous Delivery category.",
     "level": "Primary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-04T13:03:57",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content extensively discusses the role of software developers in the context of Continuous Delivery (CD) and DevOps practices, providing specific examples from Microsoft and Starbucks. It highlights best practices, such as automation, trunk-based development, and the importance of metrics in enhancing developer productivity and collaboration. The depth of discussion is significant, covering various strategies and methodologies that directly relate to the role of software developers in Agile and DevOps environments.",
-    "level": "Secondary"
   },
   "MVP": {
     "category": "MVP",
@@ -791,30 +707,6 @@
     "reasoning": "The content discusses continuous delivery and the evolution of software development practices, which aligns with agile principles of iterative progress and responsiveness. However, it lacks explicit references to agile frameworks like Scrum or Kanban, and does not delve deeply into agile roles or ceremonies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-04T13:04:36",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 90.0,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content extensively discusses practical techniques and tooling related to Continuous Delivery (CD) and DevOps practices, including specific methodologies like automation, trunk-based development, and feature flags. It provides detailed examples from Microsoft Azure DevOps and Starbucks, illustrating how these techniques can be implemented to overcome complexity and improve delivery outcomes. The depth of discussion on metrics for measuring effectiveness further aligns with the category's focus on practical application.",
-    "level": "Secondary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-04T13:04:38",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of continuous delivery and the need for organisations to adapt and learn from their processes. It highlights the role of experimentation, feedback loops, and the significance of learning from both successes and failures, which aligns well with the core themes of the 'Discovery and Learning' category. The depth of discussion is substantial, providing detailed examples and methodologies that foster innovation and continuous improvement. However, the primary focus is on continuous delivery rather than explicitly on discovery and learning processes, which slightly lowers the confidence score.",
-    "level": "Secondary"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
     "calculated_at": "2025-03-04T13:04:40",
@@ -826,30 +718,6 @@
     "final_score": 79.0,
     "reasoning": "The content extensively discusses continuous delivery, automation, and process optimisation, which are core aspects of operational practices. It provides detailed examples from Microsoft and Starbucks, illustrating practical applications of these methodologies. The focus on metrics for measuring operational efficiency further aligns with the category, demonstrating a strong commitment to improving delivery speed and quality.",
     "level": "Secondary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 30,
-    "final_score": 14.0,
-    "reasoning": "The content primarily discusses continuous delivery and DevOps practices without any explicit mention of AI or its integration within Agile methodologies. While it touches on automation and process improvement, it does not explore how AI can enhance these areas, which is a key focus of the AI category.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses continuous delivery and the evolution of software development practices, particularly in the context of Microsoft Azure DevOps. While it touches on themes relevant to Agile practices, such as automation and iterative improvement, it does not explicitly address scaling Agile methodologies across multiple teams or at an enterprise level. The focus is more on individual practices and the transformation of a single organisation rather than the broader coordination and collaboration required in scaled Agile frameworks. Therefore, while there are relevant elements, the primary focus is not on Scaled Agile as defined.",
-    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -1103,18 +971,6 @@
     "reasoning": "The content primarily discusses the technical aspects of continuous delivery and organisational challenges rather than personal experiences or reflections. While it mentions companies like Microsoft and Starbucks, it lacks personal anecdotes or subjective insights that would align it with the 'Personal' category. The focus is on systemic issues and solutions rather than individual experiences or interpretations.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily discusses continuous delivery and the evolution of software development practices at Microsoft, with a focus on automation and metrics. While it touches on themes relevant to scaling processes, such as improving flow and efficiency, it does not explicitly mention Kanban principles or their application in large organisations. The discussion lacks depth in terms of Kanban-specific strategies or challenges, leading to a low confidence score in alignment with the 'Scaling Kanban' category.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
     "calculated_at": "2025-04-08T15:29:32",
@@ -1138,18 +994,6 @@
     "final_score": 85.0,
     "reasoning": "The content extensively discusses continuous delivery, automation, and metrics related to software development, aligning closely with key topics in the Software Development category. It provides detailed examples from Microsoft and Starbucks, illustrating best practices and methodologies in software engineering. The depth of discussion on CI/CD practices, the importance of automation, and the emphasis on quality assurance techniques further solidify its relevance to the category.",
     "level": "Primary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses continuous delivery and the evolution of Microsoft's Developer Division, but it does not explicitly reference any specific events, presentations, or discussions. While it aligns conceptually with themes relevant to Agile and DevOps, it lacks direct mentions of events or structured learning experiences, which are crucial for this category.",
-    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1369,14 +1213,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-03-04T13:06:58",
+    "calculated_at": "2025-04-10T10:46:06",
     "ai_confidence": 67.0,
-    "ai_mentions": 3,
-    "ai_alignment": 75.0,
-    "ai_depth": 60.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
     "final_score": 61.0,
-    "reasoning": "The content discusses the importance of continuous delivery and the need for organisations to reduce lead times in their software delivery processes. It mentions metrics like 'Time to Deploy' and 'Time to Learn', which are closely related to lead time, and highlights the impact of these metrics on customer satisfaction and business agility. However, while lead time is a significant theme, the content also delves into broader topics such as automation and process optimisation, which may dilute its primary focus on lead time.",
+    "reasoning": "The content discusses continuous delivery and the importance of reducing delays in software deployment, which indirectly relates to Lead Time. However, it does not explicitly define or focus on Lead Time as a metric. The discussion on metrics like 'Time to Deploy' and 'Time to Learn' aligns with the concept of Lead Time but lacks depth in exploring Lead Time's relationship with other metrics or strategies for optimisation.",
     "level": "Secondary"
   },
   "Technical Excellence": {
@@ -1489,14 +1333,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-14T16:24:30",
+    "calculated_at": "2025-04-10T10:46:08",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily discusses continuous delivery and the cultural and organisational changes required to achieve it, rather than focusing on the technical aspects of system configuration. While it touches on automation and some principles that could relate to system configuration, the main emphasis is on overcoming complexity and improving delivery processes, which does not align closely with the core themes of system configuration.",
+    "reasoning": "The content primarily focuses on continuous delivery and the cultural and organisational changes required to achieve it, rather than on specific system configuration practices. While it mentions automation and some aspects of system performance, it lacks detailed discussions on configuration management tools, integration of hardware and software, or best practices for maintaining system configurations. The emphasis is more on overcoming complexity and improving delivery processes than on the technical aspects of system configuration.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1727,18 +1571,6 @@
     "reasoning": "The content extensively discusses the principles and practices of continuous delivery, which is a core aspect of delivering working software. It highlights the importance of automation, iterative development, and metrics for assessing software quality, aligning closely with the key topics of the 'Working Software' category. The depth of discussion on real-world examples, such as Microsoft's Azure DevOps, further reinforces its relevance to the category.",
     "level": "Secondary"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-14T16:24:30",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content discusses the importance of accountability in the context of continuous delivery and highlights the need for teams to take responsibility for their processes and outcomes. However, it primarily focuses on overcoming complexity and improving delivery rather than explicitly addressing transparency and accountability principles within Agile teams. While there are mentions of accountability, they are not the primary focus, and the depth of discussion on transparency is limited.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-03-14T16:24:30",
@@ -1835,18 +1667,6 @@
     "reasoning": "The content primarily discusses continuous delivery and the challenges associated with software complexity, without any direct mention of the Product Backlog or its management. While it touches on themes relevant to Agile practices, such as metrics and team performance, it does not focus on backlog refinement, prioritisation, or the roles of the Product Owner, which are essential aspects of the Product Backlog category.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-04T13:08:59",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 30,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the importance of organisational investment and leadership in overcoming barriers to continuous delivery, highlighting the human factors involved in process improvement. It addresses team dynamics and the need for cultural shifts, which aligns with the category. However, the primary focus is on technical practices and metrics, leading to a lower confidence score.",
-    "level": "Secondary"
-  },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
     "calculated_at": "2025-03-17T15:36:05",
@@ -1917,6 +1737,42 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses continuous delivery and the need for intentionality in overcoming complexity, which aligns with the concept of Agentic Agility. However, it primarily focuses on technical practices and organisational challenges rather than explicitly addressing the principles of Agentic Agility, such as the distinction between human and AI capabilities or the role of intent and reflection in human agency. While there are elements of proactive intervention and accountability, the overall emphasis is more on process improvement than on the transformative capacity of individuals and systems.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T10:45:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses continuous delivery and the challenges associated with complexity in software development, which indirectly relates to scaling practices. It mentions the need for investment in fixing technical debt and automating processes, which aligns with scaling methodologies. However, it lacks a direct focus on specific frameworks for scaling Agile practices or detailed strategies for cross-team collaboration, which are key topics in the Scaling category. The depth of discussion on scaling concepts is moderate, primarily focusing on continuous delivery rather than the broader aspects of scaling Agile across multiple teams.",
+    "level": "Tertiary"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T10:45:59",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses continuous delivery, automation, and the importance of addressing technical debt, which are all critical aspects of product development methodologies. It provides detailed examples from Microsoft and Starbucks, illustrating the iterative processes and customer feedback integration necessary for successful product delivery. The focus on metrics for measuring velocity and the emphasis on continuous improvement further align with the core themes of product development. Overall, the content is deeply rooted in product development practices, making it a strong fit for the category.",
+    "level": "Secondary"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T10:47:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses continuous delivery and the evolution of Microsoft's Azure DevOps, with no direct mention of GitHub or its specific functionalities. While it touches on concepts relevant to DevOps and CI/CD, it does not align with GitHub's core themes or provide insights into GitHub's services, tools, or best practices.",
     "level": "Ignored"
   }
 }

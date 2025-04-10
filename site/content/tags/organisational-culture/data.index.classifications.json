@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:23:57",
+    "calculated_at": "2025-04-10T11:59:45",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content primarily focuses on organisational culture rather than accountability as a structural concept. While it touches on themes of collaboration and decision-making, it does not explicitly discuss defined accountabilities or the ownership of outcomes in a system of work. The discussion lacks depth regarding accountability, making it a secondary theme rather than a primary focus.",
+    "reasoning": "The content discusses organisational culture and its impact on agility and collaboration, but it does not explicitly address accountability or outcome ownership. While it touches on themes of trust and collaboration, which can relate to accountability, it lacks a direct focus on the structural accountabilities or role-specific responsibilities that define the category.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on organisational culture rather than on specific artifacts or their roles in Agile, Scrum, or Lean methodologies. While it touches on themes of collaboration and decision-making, it does not explicitly discuss any artifacts or their management, which are central to the 'Artifact' category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:51:38",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses organisational culture in detail, highlighting its importance in shaping team dynamics and agility. While it does not explicitly mention 'discipline', the themes of structure, behaviour, and continuous improvement align closely with the concept of discipline in a professional context. The depth of discussion is significant, providing insights into how culture influences decision-making and collaboration, which are essential for maintaining discipline within teams.",
+    "level": "Tertiary"
   }
 }

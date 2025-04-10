@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:36:41",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-04-10T12:00:21",
+    "ai_confidence": 25.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
-    "reasoning": "The content primarily focuses on Lean Startup principles, which do not directly address accountability as a structural concept. While it mentions collaboration and resource allocation, it lacks explicit discussions on defined accountabilities, ownership of outcomes, or the distinction between accountability and authority. The themes of experimentation and market validation are present, but they do not align with the core topics of accountability in Agile or Scrum contexts.",
+    "final_score": 22.0,
+    "reasoning": "The content discusses Lean Startup principles, focusing on rapid experimentation and validated learning, but does not explicitly address accountability as a foundational mechanism in work systems. While it touches on aspects of organisational design and cross-functional collaboration, it lacks a clear focus on outcome ownership or specific roles related to accountability, such as Product Owner or Scrum Master.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses Lean Startup principles and the importance of building a minimum viable product (MVP), which relates to the concept of artifacts in terms of tangible outputs. However, it does not explicitly mention specific artifacts like Product Backlog or Sprint Backlog, nor does it delve deeply into their roles or best practices. The focus is more on the methodology and principles rather than on the artifacts themselves, leading to a low confidence score.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:52:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses Lean Startup principles, which indirectly relate to discipline through structured methodologies and processes. However, the primary focus is on Lean principles and experimentation rather than discipline itself. The depth of discussion is significant, providing detailed insights into the methodology, but it lacks direct mentions of discipline as a core theme.",
+    "level": "Tertiary"
   }
 }

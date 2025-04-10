@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:19:22",
+    "calculated_at": "2025-04-10T11:59:31",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses problem-solving and adaptability in complex environments but does not explicitly mention accountability or its structural implications. While it touches on themes of team performance and continuous learning, it lacks a clear focus on defined accountabilities or ownership of outcomes, which are central to the category of Accountability.",
+    "reasoning": "The content discusses problem-solving and adaptability in complex environments but does not explicitly mention accountability or its structural role in work systems. While it touches on themes of performance and value delivery, it lacks a clear focus on outcome ownership or specific roles related to accountability, which diminishes its relevance to the category.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Pragmatic Thinking as a problem-solving approach rather than focusing on specific artifacts or their roles in Agile, Scrum, or Lean methodologies. While it touches on themes of adaptability and continuous learning, it does not explicitly mention or explore the structure, purpose, or management of artifacts, which are central to the 'Artifact' category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:51:20",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses Pragmatic Thinking, which involves practical problem-solving and adaptability, aligning with the principles of discipline in a broader sense. However, it does not explicitly mention 'discipline' or its core themes directly. The depth of discussion is moderate, focusing on practical applications and continuous learning, which are relevant to the concept of discipline but not the primary focus.",
+    "level": "Tertiary"
   }
 }

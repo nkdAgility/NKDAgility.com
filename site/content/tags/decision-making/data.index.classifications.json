@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T16:04:48",
+    "calculated_at": "2025-04-10T12:01:43",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses decision making and its importance in organisational success, but it does not explicitly address accountability as a structural concept. While it touches on themes of informed decision making and organisational culture, it lacks a clear focus on defined accountabilities or the distinction between accountability, responsibility, and authority. The discussion is more centred on decision-making processes rather than on who owns the outcomes in a system of work.",
+    "reasoning": "The content discusses decision making and its importance in organisational success, but it does not explicitly address accountability as a foundational mechanism. While it touches on themes of evidence-based approaches and team dynamics, it lacks a clear focus on outcome ownership or the structural accountabilities that define roles like Product Owner or Scrum Master. The discussion is more about decision-making processes rather than the accountability that underpins those decisions.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses decision making in a general context, touching on evidence-based approaches and methodologies like Lean and Agile. However, it does not explicitly mention specific artifacts or their roles in Agile, Scrum, or Lean systems. The focus is more on the decision-making process rather than on artifacts as formal representations of work, leading to a low confidence score in the 'Artifact' category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:54:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses decision making in a structured and evidence-based manner, which aligns with the principles of discipline in organisational contexts. While the term 'discipline' is not explicitly mentioned, the emphasis on systematic approaches and methodologies reflects a disciplined mindset. The depth of discussion is significant, covering various aspects of decision making, including its impact on organisational culture and strategic goals, which further supports the alignment with the category.",
+    "level": "Tertiary"
   }
 }

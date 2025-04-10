@@ -31,15 +31,19 @@ duration: 618
 isShort: false
 tags:
 - Competence
-- People and Process
 - Scrum Master
 - Scrum Team
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation
 - Professional Scrum
-- Scrum Product Development
 - Team Performance
+- Pragmatic Thinking
+- Software Development
+- Technical Leadership
+- Complexity Thinking
+- Product Development
+- Mentoring
 sitemap:
   filename: sitemap.xml
   priority: 0.6

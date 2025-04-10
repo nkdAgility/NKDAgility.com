@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:23:10",
+    "calculated_at": "2025-04-10T11:59:43",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses systems thinking and organisational dynamics but does not explicitly address accountability as a structural concept. While it touches on decision-making and organisational behaviour, it lacks a clear focus on defined accountabilities or the ownership of outcomes, which are central to the accountability category.",
+    "reasoning": "The content discusses systems thinking and organisational dynamics but does not explicitly address accountability or outcome ownership. While it touches on decision-making and performance, it lacks a direct focus on accountability as a structural mechanism in work systems.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a conceptual model of systems thinking within organisations, focusing on dynamics and interactions rather than specific artifacts or their roles in Agile, Scrum, or Lean methodologies. There are no direct mentions of artifacts, and the discussion lacks depth regarding their structure or management.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:51:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses 'Organisational Physics' in detail, which aligns with the principles of discipline in terms of structured thinking and systematic approaches. However, while it mentions the concept of discipline indirectly through the framework and decision-making processes, it does not explicitly focus on discipline as a primary theme. The depth of discussion is significant, providing a comprehensive view of how systems thinking can influence organisational behaviour, which contributes to a higher score.",
+    "level": "Tertiary"
   }
 }

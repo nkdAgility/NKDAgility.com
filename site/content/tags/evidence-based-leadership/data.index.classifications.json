@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:49:27",
+    "calculated_at": "2025-04-10T12:01:00",
     "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 50,
     "final_score": 65.0,
-    "reasoning": "The content discusses the concept of Evidence Based Leadership, which is linked to accountability through the emphasis on data-driven decision-making and transparency. However, while it touches on accountability, it does not explicitly define roles or structural accountabilities within a system like Scrum or DevOps. The discussion is more focused on leadership practices rather than the structural concept of accountability itself, leading to a moderate confidence score.",
+    "reasoning": "The content discusses the concept of Evidence Based Leadership, which is closely tied to accountability through its emphasis on data-driven decision-making and fostering a culture of transparency. While it does not explicitly mention specific roles like Product Owner or Scrum Master, it aligns well with the core themes of accountability by highlighting how empirical evidence can clarify outcome ownership and support self-management. The depth of discussion is substantial, focusing on how this approach can enhance performance and adaptability in organisations, which are key aspects of accountability. However, it lacks direct references to structural accountabilities in specific frameworks like Scrum or Agile, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses Evidence Based Leadership, which focuses on decision-making and improvements based on empirical data. While it touches on themes of transparency and accountability, it does not explicitly mention artifacts or their specific roles in Agile, Scrum, or Lean frameworks. The discussion is more abstract and centred on leadership practices rather than the tangible constructs that enable inspection and adaptation in these methodologies. Therefore, while there is some conceptual alignment, the lack of direct mentions and specific depth regarding artifacts leads to a low confidence score.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:53:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses Evidence Based Leadership, which indirectly relates to discipline through the themes of accountability, transparency, and systematic improvements. However, it does not explicitly mention 'discipline' or delve deeply into its principles. The focus is more on leadership practices and decision-making rather than the concept of discipline itself.",
+    "level": "Secondary"
   }
 }

@@ -13,14 +13,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-04-09T15:38:30",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-04-10T12:00:26",
+    "ai_confidence": 25.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
-    "reasoning": "The content primarily discusses Lean Principles, focusing on minimising waste and maximising value, without explicitly addressing accountability as a structural concept. While it touches on themes of efficiency and continuous improvement, it does not delve into defined accountabilities, ownership of outcomes, or the distinctions between accountability, responsibility, and authority. Therefore, the alignment with the category of Accountability is minimal.",
+    "final_score": 22.0,
+    "reasoning": "The content discusses Lean Principles, focusing on minimising waste and maximising value, but does not explicitly address accountability as a foundational mechanism in work systems. While it touches on efficiency and responsiveness, it lacks a clear connection to outcome ownership or role-specific accountabilities, which are central to the accountability category.",
     "level": "Ignored"
   },
   "Framework": {
@@ -166,5 +166,17 @@
     "final_score": 29.0,
     "reasoning": "The content discusses Lean Principles, focusing on minimising waste and maximising value, but does not explicitly mention artifacts or their role in Agile, Scrum, or Lean. While it touches on concepts like value stream mapping, which relates to visualising processes, it lacks a direct focus on specific artifacts such as Product Backlogs or Definitions of Done. The discussion is more about principles and practices rather than the structure and purpose of artifacts, leading to a low confidence score in alignment with the 'Artifact' category.",
     "level": "Ignored"
+  },
+  "Discipline": {
+    "category": "Discipline",
+    "calculated_at": "2025-04-10T11:52:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses Lean Principles extensively, focusing on minimising waste and maximising value, which aligns with the core themes of discipline in terms of structured approaches to efficiency and continuous improvement. While the term 'discipline' is not directly mentioned, the principles outlined reflect a disciplined methodology in organisational practices. The depth of discussion is significant, providing detailed insights into practices like value stream mapping and the importance of a culture of experimentation, which further supports the alignment with the discipline category.",
+    "level": "Tertiary"
   }
 }
