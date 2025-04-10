@@ -405,7 +405,7 @@ function Get-ComputedConfidence {
         [int]$aiConfidence,
         [int]$nonAiConfidence
     )
-    return [math]::Round(($aiConfidence * 0.9) + ($nonAiConfidence * 0.1))
+    return [math]::Round($aiConfidence ) # [math]::Round(($aiConfidence * 0.9) + ($nonAiConfidence * 0.1))
 }
 
 function Get-ComputedLevel {
