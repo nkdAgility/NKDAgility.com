@@ -27,7 +27,6 @@ isShort: false
 tags:
 - Product Discovery
 - Product Validation
-- Ability to Innovate
 - Agile Product Management
 - Value Delivery
 - Agile Philosophy
@@ -48,6 +47,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

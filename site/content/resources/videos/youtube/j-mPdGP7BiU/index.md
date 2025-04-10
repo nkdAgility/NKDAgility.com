@@ -36,7 +36,6 @@ tags:
 - Product Discovery
 - Product Validation
 - Continuous Learning
-- Ability to Innovate
 - Evidence Based Management
 - Metrics and Learning
 - Decision Making
@@ -44,6 +43,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

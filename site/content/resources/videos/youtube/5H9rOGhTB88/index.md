@@ -44,16 +44,17 @@ tags:
 - Team Performance
 - Business Agility
 - Continuous Improvement
+- Agnostic Agile
 - Organisational Change
 - Software Development
 - Continuous Learning
 - Beta Codex
-- Ability to Innovate
 - Agile Planning
 resourceTypes:
 - video
 layout: video
 categories:
+- Product Development
 - Leadership
 - Lean
 

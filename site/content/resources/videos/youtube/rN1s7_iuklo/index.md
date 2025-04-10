@@ -55,6 +55,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Product Development
 - Technical Leadership
 
 ---

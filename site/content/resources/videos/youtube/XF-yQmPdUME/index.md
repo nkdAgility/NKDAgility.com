@@ -45,9 +45,11 @@ tags:
 - Scrum Team
 - Agile Transformation
 - Market Adaptability
+- Current Value
 resourceTypes:
 - video
 categories:
+- Product Development
 - Scrum
 - Product Management
 

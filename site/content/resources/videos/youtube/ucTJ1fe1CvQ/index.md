@@ -34,11 +34,11 @@ tags:
 - Pragmatic Thinking
 - Continuous Learning
 - Product Owner
-- Ability to Innovate
 - Sensemaking
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

@@ -38,7 +38,6 @@ tags:
 - Product Validation
 - Continuous Learning
 - Lean Product Development
-- Ability to Innovate
 - Agile Product Management
 - Agile Strategy
 - Lean Principles
@@ -50,9 +49,11 @@ tags:
 - Hypothesis Driven Development
 - Organisational Agility
 - Experimentation
+- Value Delivery
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---
