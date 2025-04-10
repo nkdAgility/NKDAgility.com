@@ -11,11 +11,11 @@ ResourceImportSource: Youtube
 videoId: DsvMKLto30o
 source: internal
 url: /resources/videos/:slug
-slug: nkd-agility-your-partner-in-developing-engineering-excellence
+slug: embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
 layout: video
 aliases:
 - /resources/DsvMKLto30o
-- /resources/videos/nkd-agility-your-partner-in-developing-engineering-excellence
+- /resources/videos/embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
 - /resources/videos/why-i-wrote-that-continuous-delivery-is-not-a-pipe-dream
 aliasesArchive:
 - /resources/videos/nkd-agility-your-partner-in-developing-engineering-excellence
@@ -23,6 +23,8 @@ aliasesArchive:
 - /resources/performance-engineering-for-optimal-user-experience
 - nkd-agility-your-partner-in-developing-engineering-excellence
 - /resources/videos/why-i-wrote-that-continuous-delivery-is-not-a-pipe-dream
+- /resources/videos/embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
+- embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
 preview: https://i.ytimg.com/vi/DsvMKLto30o/maxresdefault.jpg
 duration: 788
 isShort: false

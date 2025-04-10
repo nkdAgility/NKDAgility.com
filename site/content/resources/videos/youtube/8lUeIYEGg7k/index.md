@@ -11,14 +11,14 @@ ResourceImportSource: Youtube
 videoId: 8lUeIYEGg7k
 source: internal
 url: /resources/videos/:slug
-slug: why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
+slug: mastering-the-art-of-scaling-agile-strategies-to-maintain-agility-across-multiple-teams
 layout: video
 preview: https://i.ytimg.com/vi/8lUeIYEGg7k/maxresdefault.jpg
 duration: 75
 isShort: false
 aliases:
 - /resources/8lUeIYEGg7k
-- /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
+- /resources/videos/mastering-the-art-of-scaling-agile-strategies-to-maintain-agility-across-multiple-teams
 - /resources/videos/how-to-scale-agile-beyond-a-single-team
 aliasesArchive:
 - /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
@@ -28,6 +28,8 @@ aliasesArchive:
 - why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility-8gAWNn2RQgU
 - /resources/videos/how-to-scale-agile-beyond-a-single-team
 - why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
+- /resources/videos/mastering-the-art-of-scaling-agile-strategies-to-maintain-agility-across-multiple-teams
+- mastering-the-art-of-scaling-agile-strategies-to-maintain-agility-across-multiple-teams
 sitemap:
   filename: sitemap.xml
   priority: 0.6

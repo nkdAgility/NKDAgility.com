@@ -346,11 +346,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T13:55:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses limiting work in progress and its importance in Kanban, without directly addressing Lead Time or its measurement.",
+    "calculated_at": "2025-04-10T21:38:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses limiting work in progress (WIP) within the context of Kanban, which indirectly relates to Lead Time by addressing workflow efficiency and bottlenecks. However, it does not explicitly mention Lead Time or provide a detailed exploration of its definition, measurement, or impact on customer satisfaction. The focus is more on WIP management rather than Lead Time as a metric, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Team Motivation": {
@@ -808,11 +811,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-04-10T14:45:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T21:38:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the importance of limiting work in process in Kanban, focusing on workflow management rather than directly measuring or enhancing the ability to innovate.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of limiting work in progress (WIP) within the Kanban framework, discussing its importance for productivity and workflow management. While it touches on aspects of team efficiency and quality, it does not explicitly address innovation or the mechanisms for fostering it. The discussion lacks depth in terms of innovation metrics, learning cycles, or strategies for enhancing innovation capacity, which are central to the 'Ability to Innovate' category. Therefore, the content is only tangentially related to the category, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Accountability": {
@@ -1458,6 +1464,90 @@
     "non_ai_confidence": 20,
     "final_score": 32.0,
     "reasoning": "The content discusses limiting work in progress (WIP) within the context of Kanban, which indirectly relates to improving efficiency and potentially reducing time to market. However, it does not explicitly mention 'Time to Market' or provide metrics or strategies specifically aimed at measuring or improving it. The focus is more on workflow management and team productivity rather than the broader implications of time to market in delivering value to customers.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T21:38:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses limiting work in progress (WIP) in the context of Kanban, which indirectly relates to the concept of Current Value by emphasising the importance of delivering value and maintaining a sustainable workflow. However, it does not explicitly address Current Value metrics or indicators, nor does it provide a comprehensive analysis of how these practices impact customer satisfaction or revenue. The focus is primarily on WIP management rather than a real-time assessment of value delivered, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T21:38:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Kanban methodology and the importance of limiting work in progress (WIP) for productivity. While it touches on concepts like team engagement and workflow efficiency, it does not explicitly discuss the principles of treating the organisation as a product or integrating customer feedback into organisational design. The discussion lacks depth in relation to CaaP, making it more relevant to traditional project management rather than the CaaP framework.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T21:38:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of limiting work in progress (WIP) within the Kanban framework, which is more about workflow management than scaling Agile practices across multiple teams. While it touches on improving productivity and identifying bottlenecks, it does not discuss methodologies for scaling Agile, cross-team collaboration, or managing dependencies, which are central to the 'Scaling' category. Therefore, the content does not align well with the key topics outlined for scaling discussions.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T21:38:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Kanban and the importance of limiting work in progress (WIP), with no direct mention of Hybrid Agile or its challenges. While it discusses workflow management, it does not critically examine the integration of traditional and agile methodologies, nor does it address the specific themes outlined for the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T21:38:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the mechanics of Kanban and the importance of limiting work in progress (WIP) without discussing the principles of Agnostic Agile. While it touches on value delivery, it does not engage with the broader themes of ethical, context-driven agility or the comparison with other frameworks. The discussion lacks depth regarding Agnostic Agile principles, making it unsuitable for this category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T21:38:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Kanban and limiting work in progress, with no direct mention of GitHub or its services. While it touches on concepts relevant to Agile methodologies, it does not align with GitHub's functionalities or practices, nor does it provide any insights into GitHub tools or collaboration features. Therefore, the confidence score reflects a very low relevance to the GitHub category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T21:38:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Kanban and limiting work in progress, with no direct mention of Cell Structure Design or its principles. While it discusses concepts related to workflow and team productivity, these are not aligned with the core themes of decentralised organisational structures or the Beta Codex. The discussion lacks depth regarding the characteristics of autonomous cells or the impact of decentralisation, leading to a very low confidence score.",
     "level": "Ignored"
   }
 }

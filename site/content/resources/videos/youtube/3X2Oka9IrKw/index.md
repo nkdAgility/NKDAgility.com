@@ -11,13 +11,13 @@ ResourceImportSource: Youtube
 videoId: 3X2Oka9IrKw
 source: internal
 url: /resources/videos/:slug
-slug: the-overlooked-virtue-of-agility-diligence
+slug: scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
 preview: https://i.ytimg.com/vi/3X2Oka9IrKw/maxresdefault.jpg
 duration: 73
 isShort: false
 aliases:
 - /resources/3X2Oka9IrKw
-- /resources/videos/the-overlooked-virtue-of-agility-diligence
+- /resources/videos/scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
 - /resources/videos/the-secret-to-avoiding-bureaucracy-while-scaling
 aliasesArchive:
 - /resources/videos/the-overlooked-virtue-of-agility-diligence
@@ -26,6 +26,8 @@ aliasesArchive:
 - /resources/7-virtues-of-agile-diligence
 - the-overlooked-virtue-of-agility-diligence
 - /resources/videos/the-secret-to-avoiding-bureaucracy-while-scaling
+- /resources/videos/scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
+- scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
