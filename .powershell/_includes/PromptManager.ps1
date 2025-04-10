@@ -5,7 +5,8 @@ $PromptRepository = ".prompts"
 
 function Get-Prompt {
     param (
-        [string]$PromptName = "first-prompt.prompt",
+        [Parameter(Mandatory = $true)]
+        [string]$PromptName,
         [Hashtable]$Parameters = @{}
     )
 

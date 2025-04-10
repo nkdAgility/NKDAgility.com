@@ -109,7 +109,7 @@ $hugoMarkdownList | ForEach-Object {
 
     if (-not $hugoMarkdown.FrontMatter.description -or $hugoMarkdown.FrontMatter.description -match "no specific details provided" -or $hugoMarkdown.FrontMatter.description.Length -gt 180) {
         # Generate a new description using OpenAI
-        $prompt = Get-Prompt -PromptName "classification-description.prompt" -Parameters @{
+        $prompt = Get-Prompt -PromptName "classification-description.md" -Parameters @{
             title    = $hugoMarkdown.FrontMatter.title
             abstract = $hugoMarkdown.FrontMatter.abstract
             content  = $hugoMarkdown.BodyContent
@@ -120,7 +120,7 @@ $hugoMarkdownList | ForEach-Object {
     }
     if (-not $hugoMarkdown.FrontMatter.Instructions) {
         # Generate a new Instructions using OpenAI
-        $prompt = Get-Prompt -PromptName "classification-instructions.prompt" -Parameters @{
+        $prompt = Get-Prompt -PromptName "classification-instructions.md" -Parameters @{
             title    = $hugoMarkdown.FrontMatter.title
             abstract = $hugoMarkdown.FrontMatter.abstract
             content  = $hugoMarkdown.BodyContent
@@ -131,21 +131,21 @@ $hugoMarkdownList | ForEach-Object {
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ") -addAfter 'title' 
     } 
     if (-not $hugoMarkdown.FrontMatter.headline -or (([datetime]$hugoMarkdown.FrontMatter.headline.updated) -lt ([datetime]::Parse("2025-02-13T11:58:02Z")))) {
-        $classificationTitlePrompt = Get-Prompt -PromptName "classification-headline-title.prompt" -Parameters @{
+        $classificationTitlePrompt = Get-Prompt -PromptName "classification-headline-title.md" -Parameters @{
             title    = $hugoMarkdown.FrontMatter.title
             abstract = $hugoMarkdown.FrontMatter.abstract
             content  = $hugoMarkdown.BodyContent
         }
         $ClassificationTitle = Get-OpenAIResponse -Prompt $classificationTitlePrompt
 
-        $classificationHeadlinePrompt = Get-Prompt -PromptName "classification-headline-subtitle.prompt" -Parameters @{
+        $classificationHeadlinePrompt = Get-Prompt -PromptName "classification-headline-subtitle.md" -Parameters @{
             title    = $hugoMarkdown.FrontMatter.title
             abstract = $hugoMarkdown.FrontMatter.abstract
             content  = $hugoMarkdown.BodyContent
         }
         $ClassificationHeadline = Get-OpenAIResponse -Prompt $classificationHeadlinePrompt
             
-        $classificationDescriptionPrompt = Get-Prompt -PromptName "classification-headline-description.prompt" -Parameters @{
+        $classificationDescriptionPrompt = Get-Prompt -PromptName "classification-headline-description.md" -Parameters @{
             title    = $hugoMarkdown.FrontMatter.title
             abstract = $hugoMarkdown.FrontMatter.abstract
             content  = $hugoMarkdown.BodyContent
@@ -164,7 +164,7 @@ $hugoMarkdownList | ForEach-Object {
 
     # =================CONTENT====================
     
-    $classificationContentPrompt = get-Prompt -PromptName "classification-content.prompt" -Parameters @{
+    $classificationContentPrompt = get-Prompt -PromptName "classification-content.md" -Parameters @{
         title              = $hugoMarkdown.FrontMatter.title
         abstract           = $hugoMarkdown.FrontMatter.abstract
         content            = $hugoMarkdown.BodyContent

@@ -9,6 +9,7 @@ Ensure your explanation distinguishes this concept clearly from the others liste
 Do not begin the response with contextual phrases like “In the context of…” or “Within this classification…”. Begin directly by discussing the concept itself.
 
 Content Requirements:
+
 - Define the concept clearly and explain why it matters.
 - Focus on how it enables teams to deliver value predictably and sustainably.
 - Emphasise its long-term, systemic, and enabling nature.
@@ -19,8 +20,8 @@ Content Requirements:
 - Do not refer to it as a “classification” or “category”; treat it as a concept being explained to an informed reader.
 - Use a free-flowing style without headings or structured sections.
 - Maintain a professional, direct tone—every sentence should add value.
-- Never use any summary or closing transition phrases such as “in conclusion,” “in summary,” “to conclude,” “ultimately,” “as a final point,” or anything similar. These phrases are forbidden.  
-- Do not imply or announce that the explanation is ending. Just stop when the point is fully made.  
+- Never use any summary or closing transition phrases such as “in conclusion,” “in summary,” “to conclude,” “ultimately,” “as a final point,” or anything similar. These phrases are forbidden.
+- Do not imply or announce that the explanation is ending. Just stop when the point is fully made.
 - The writing must end mid-flow—cut off naturally as if the next sentence was never needed. The last sentence should deliver value, not closure.
 - Do not exceed 200 words.
 
@@ -29,16 +30,17 @@ Keep it concise, natural, and engaging. Do not generate a title. Do not enclose 
 Classification Title: {{title}}  
 Classification Description: {{description}}
 Classification Instruction:
-~~~
+
+```
 {{instructions}}
-~~~
+```
 
 Guidance for Generating the Content:
 Assume the reader already understands Agile, Scrum, and DevOps—get straight to the point.
 When referencing theory or practices, favour these contexts:
 
 - Kanban: Kanban Guide, Daniel Vacanti, Donald Reinertsen, John Little
-- Agile & Scrum: Scrum Guide, Ken Schwaber, Martin Fowler, Mike Beedle, Ron Jeffries 
+- Agile & Scrum: Scrum Guide, Ken Schwaber, Martin Fowler, Mike Beedle, Ron Jeffries
 - DevOps: Gene Kim, Jez Humble, Patrick Debois, John Willis
 - Lean: Taiichi Ohno, Eliyahu M. Goldratt, W. Edwards Deming, Mary & Tom Poppendieck
 - Continuous Delivery: Jez Humble, Dave Farley, Martin Fowler, Gene Kim
