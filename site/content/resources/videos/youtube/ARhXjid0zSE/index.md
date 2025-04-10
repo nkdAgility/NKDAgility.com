@@ -46,20 +46,6 @@ tags:
 - Employee Engagement
 - Organisational Agility
 - Agile Philosophy
-- Agile Planning
-- Agile Transformation
-- Customer Retention
-- Organisational Culture
-- Product Owner
-- Business Agility
-- Common Goals
-- Continuous Improvement
-- Professional Scrum
-- Scrum Team
-- Empirical Process Control
-- Market Adaptability
-- Transparency
-- Metrics and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

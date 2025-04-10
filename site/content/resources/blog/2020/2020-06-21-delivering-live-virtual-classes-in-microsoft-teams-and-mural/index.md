@@ -47,11 +47,6 @@ tags:
 - Software Development
 - Scrum Master
 - Agile Leadership
-- Agile Philosophy
-- Continuous Learning
-- Team Motivation
-- Value Delivery
-- Operational Practices
 
 ---
 With the [new normal](https://nkdagility.com/blog/live-virtual-classrooms-and-the-new-normal/), I have been delivering all of my [Professional Scrum classes](https://nkdagility.com/training/scrum-training/) and consulting online. I have tried many tools from Zoom and Webex to Miro and Word. The combination that I have found gives the most security, flexibility, and features are Microsoft Teams with Mural.

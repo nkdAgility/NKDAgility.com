@@ -52,10 +52,6 @@ tags:
 - Organisational Culture
 - Product Delivery
 - Coaching
-- Operational Practices
-- Scrum Team
-- Team Motivation
-- Social Technologies
 resourceTypes:
 - video
 categories:

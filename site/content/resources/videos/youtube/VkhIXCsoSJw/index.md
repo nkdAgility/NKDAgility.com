@@ -46,13 +46,6 @@ tags:
 - Frequent Releases
 - Metrics and Learning
 - Technical Debt
-- Working Software
-- Cycle Time
-- Azure Pipelines
-- Continuous Improvement
-- Digital Transformation
-- Release Management
-- Shift-Left Strategy
 resourceTypes:
 - video
 sitemap:

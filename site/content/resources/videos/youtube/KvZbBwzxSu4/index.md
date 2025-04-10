@@ -50,21 +50,6 @@ tags:
 - Ability to Innovate
 - Agile Product Management
 - Change Management
-- Enterprise Agility
-- Organisational Physics
-- Social Technologies
-- Team Collaboration
-- Team Performance
-- Competence
-- Agile Philosophy
-- Complexity Thinking
-- Continuous Improvement
-- Metrics and Learning
-- Operational Practices
-- Product Owner
-- Decision Theory
-- Organisational Psychology
-- Personal
 resourceTypes:
 - video
 categories:

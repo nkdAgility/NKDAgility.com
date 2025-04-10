@@ -45,9 +45,6 @@ tags:
 - Common Goals
 - Digital Transformation
 - Competence
-- Sociotechnical Systems
-- Value Delivery
-- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

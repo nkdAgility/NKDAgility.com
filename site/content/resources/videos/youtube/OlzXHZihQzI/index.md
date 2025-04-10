@@ -51,8 +51,6 @@ tags:
 - Organisational Culture
 - Scrum Master
 - Social Technologies
-- Team Collaboration
-- Team Performance
 resourceTypes:
 - video
 categories: []

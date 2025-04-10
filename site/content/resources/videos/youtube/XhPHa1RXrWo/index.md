@@ -50,16 +50,6 @@ tags:
 - Agile Frameworks
 - Agile Strategy
 - Beta Codex
-- Change Management
-- Continuous Improvement
-- Enterprise Agility
-- Organisational Agility
-- Social Technologies
-- Team Collaboration
-- Value Delivery
-- Organisational Physics
-- Product Delivery
-- Project Management
 resourceTypes:
 - video
 categories:

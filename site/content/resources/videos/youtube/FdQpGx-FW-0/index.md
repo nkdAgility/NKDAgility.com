@@ -52,10 +52,6 @@ tags:
 - Value Delivery
 - Ability to Innovate
 - Self Organisation
-- Social Technologies
-- Transparency
-- Decision Making
-- Decision Theory
 resourceTypes:
 - video
 categories:

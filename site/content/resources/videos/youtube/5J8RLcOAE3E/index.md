@@ -47,11 +47,6 @@ tags:
 - Technical Mastery
 - Agile Values and Principles
 - Business Agility
-- Systems Thinking
-- Empirical Process Control
-- Deployment Frequency
-- Deployment Strategies
-- Sensemaking
 resourceTypes:
 - video
 sitemap:

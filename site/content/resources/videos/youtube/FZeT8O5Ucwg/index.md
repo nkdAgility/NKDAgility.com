@@ -46,9 +46,6 @@ tags:
 - Personal
 - Change Management
 - Enterprise Agility
-- Market Adaptability
-- Agile Leadership
-- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -50,11 +50,6 @@ tags:
 - Organisational Agility
 - Organisational Change
 - Social Technologies
-- Working Software
-- Business Agility
-- Product Validation
-- Customer Retention
-- Strategic Goals
 resourceTypes:
 - video
 layout: video

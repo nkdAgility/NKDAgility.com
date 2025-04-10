@@ -50,11 +50,6 @@ tags:
 - Customer Satisfaction
 - Decision Theory
 - Working Software
-- Enterprise Agility
-- Customer Feedback Loops
-- Agile Frameworks
-- Product Validation
-- Sensemaking
 resourceTypes:
 - video
 categories:

@@ -47,11 +47,6 @@ tags:
 - Social Technologies
 - Digital Transformation
 - Team Collaboration
-- Trend Analysis
-- Change Management
-- Sensemaking
-- Agile Product Management
-- Strategic Goals
 sitemap:
   filename: sitemap.xml
   priority: 0.6

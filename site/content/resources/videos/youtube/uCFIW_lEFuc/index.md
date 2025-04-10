@@ -48,15 +48,6 @@ tags:
 - Continuous Learning
 - Deployment Frequency
 - Organisational Change
-- Organisational Physics
-- Agile Frameworks
-- Self Organisation
-- Empirical Process Control
-- Customer Feedback Loops
-- Operational Practices
-- Agile Leadership
-- Team Motivation
-- Transparency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

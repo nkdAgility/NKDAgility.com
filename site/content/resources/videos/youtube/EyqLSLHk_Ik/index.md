@@ -45,16 +45,6 @@ tags:
 - Organisational Psychology
 - Value Delivery
 - Self Organisation
-- Agile Transformation
-- Agile Values and Principles
-- Business Agility
-- Continuous Improvement
-- Decision Making
-- Decision Theory
-- Operational Practices
-- Scrum Team
-- Competence
-- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

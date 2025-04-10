@@ -41,38 +41,6 @@
     - Scrum Team
     - Strategic Goals
     - Increment
-    - Social Technologies
-    - Competence
-    - Organisational Agility
-    - Sociotechnical Systems
-    - Team Performance
-    - Agile Planning
-    - Agile Transformation
-    - Automated Testing
-    - Business Agility
-    - Empirical Process Control
-    - Enterprise Agility
-    - Market Adaptability
-    - Metrics and Learning
-    - Organisational Physics
-    - Continuous Delivery
-    - Continuous Integration
-    - Current Value
-    - Decision Making
-    - Digital Transformation
-    - Evidence Based Management
-    - Organisational Change
-    - Organisational Culture
-    - Release Management
-    - Scrum Master
-    - Team Collaboration
-    - Technical Debt
-    - Test Automation
-    - Test Driven Development
-    - Test First Development
-    - Time to Market
-    - Company as a Product
-    - Agile Philosophy
   BodyContent: |
     The [Definition of Done (DoD)]({{< ref "/tags/definition-of-done" >}}) is not a static artefact; it evolves over time as a [Scrum Team]({{< ref "/tags/scrum-team" >}}) gains experience and capability. While the [Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}}) acknowledges that teams may refine their DoD to improve product quality, there’s an often overlooked piece: Organisations should also provide an organisational Definition of Done that reflects their needs. This organisational perspective ensures that Scrum Teams build on a solid foundation, aligning technical execution with strategic goals.
 
@@ -112,7 +80,7 @@
 
     ## Definition of Done - Translating Organisational Standards into Team Practice
 
-    While Scrum Teams are self-managing, that doesn’t mean they can do whatever they want. They operate within a structured environment, within a [balance of leadership and control]({{< ref "/resources/blog/2025/2025-03-12-balance-of-leadership-and-control-in-scrum" >}}) that upholds both autonomy and accountability. Scrum isn’t anarchy; it’s a [social technology]({{< ref "/categories/social-technologies" >}}) that enables self-management within clear constraints—Scrum events, commitments, and organisational expectations.
+    While Scrum Teams are self-managing, that doesn’t mean they can do whatever they want. They operate within a structured environment, within a [balance of leadership and control]({{< ref "/resources/blog/2025/2025-03-12-balance-of-leadership-and-control-in-scrum" >}}) that upholds both autonomy and accountability. Scrum isn’t anarchy; it’s a [social technology]({{< ref "/tags/social-technologies" >}}) that enables self-management within clear constraints—Scrum events, commitments, and organisational expectations.
 
     Each Scrum Team must interpret the organisational Definition of Done within their context, shaping an engineering-level DoD that aligns with it. While examples can guide them, it's the team’s responsibility to determine what Done means within organisational constraints.
 
@@ -213,22 +181,6 @@
     - Mentoring
     - Organisational Physics
     - Business Agility
-    - Enterprise Agility
-    - Technical Excellence
-    - Agile Leadership
-    - Operational Practices
-    - Organisational Change
-    - Social Technologies
-    - Sociotechnical Systems
-    - Team Collaboration
-    - Agile Planning
-    - Agile Strategy
-    - Change Management
-    - Continuous Improvement
-    - Continuous Learning
-    - Test Driven Development
-    - Organisational Culture
-    - Project Management
   BodyContent: |
     [Scrum Masters]({{< ref "/tags/scrum-master" >}}) don’t need to be subject-matter experts in the way traditional management once required. We’re no longer in an era where managers direct unskilled labour; modern teams are intelligent, capable, and cross-functional. The Scrum Master’s responsibility is not to do the work, but to enable others to do it better. They are leaders.
 
@@ -385,9 +337,6 @@
     - Agile Planning
     - Operational Practices
     - Organisational Physics
-    - Team Collaboration
-    - Organisational Culture
-    - Value Delivery
   BodyContent: |
     Scrum is built on self-management, yet accountability cannot exist without authority. If Scrum Masters and Product Owners are held responsible for outcomes, how much control should they have? Too much, and teams lose autonomy. Too little, and they become ineffective. This article explores the nuanced balance of leadership, authority, and control in Scrum—how influence must be complemented by decisive action to enable true agility.
 
@@ -488,16 +437,6 @@
     - Product Delivery
     - Complexity Thinking
     - Organisational Agility
-    - Sociotechnical Systems
-    - Agile Philosophy
-    - Agile Strategy
-    - Agile Transformation
-    - Decision Making
-    - Technical Excellence
-    - Time to Market
-    - Working Software
-    - Team Performance
-    - Engineering Practices
   BodyContent: |
     Looking at cycle time for an individual is a fundamental misunderstanding of how flow works in a system—unless the individual is the system. And here is why!
 
@@ -603,7 +542,6 @@
     - Working Software
     - Continuous Improvement
     - Frequent Releases
-    - Time to Market
     - Azure DevOps
     - Business Agility
     - Release Management
@@ -614,37 +552,6 @@
     - Technical Mastery
     - Deployment Frequency
     - Engineering Practices
-    - Value Delivery
-    - Deployment Strategies
-    - Technical Debt
-    - Application Lifecycle Management
-    - Agile Strategy
-    - Enterprise Agility
-    - Current Value
-    - Azure Pipelines
-    - Continuous Integration
-    - Ability to Innovate
-    - Agile Transformation
-    - Evidence Based Management
-    - Shift-Left Strategy
-    - Modern Source Control
-    - Agile Philosophy
-    - Agile Product Management
-    - Automated Testing
-    - Competence
-    - Complexity Thinking
-    - Continuous Learning
-    - Empirical Process Control
-    - Entrepreneurship
-    - Evidence Based Leadership
-    - Experimentation
-    - Lean Principles
-    - Lean Product Development
-    - Organisational Physics
-    - Platform Engineering
-    - Sociotechnical Systems
-    - Team Performance
-    - Increment
     categories:
     - DevOps
     - Engineering Excellence
@@ -792,17 +699,6 @@
     - Sociotechnical Systems
     - Working Software
     - Agile Planning
-    - Operational Practices
-    - Agile Strategy
-    - Coaching
-    - Organisational Change
-    - Organisational Physics
-    - Social Technologies
-    - Organisational Culture
-    - Technical Excellence
-    - Mentoring
-    - Engineering Practices
-    - Team Motivation
     categories:
     - Scrum
     - Technical Leadership
@@ -920,20 +816,6 @@
     - Continuous Improvement
     - Digital Transformation
     - Shift-Left Strategy
-    - Business Agility
-    - Customer Feedback Loops
-    - Experimentation
-    - Metrics and Learning
-    - Ability to Innovate
-    - Azure Pipelines
-    - Agile Strategy
-    - Empirical Process Control
-    - Enterprise Agility
-    - Flow Efficiency
-    - Product Validation
-    - Trend Analysis
-    - Increment
-    - Time to Market
     categories:
     - Product Development
     - Engineering Excellence
@@ -1093,11 +975,11 @@
     - Value Delivery
     - Product Delivery
     - Software Development
-    - Time to Market
     - Continuous Delivery
     - Empirical Process Control
     - Operational Practices
     - Release Management
+    - Time to Market
     - Working Software
     - Agile Values and Principles
     - Agile Philosophy
@@ -1107,50 +989,6 @@
     - Business Agility
     - Evidence Based Leadership
     - Lean Product Development
-    - Metrics and Learning
-    - MVP
-    - Transparency
-    - Agile Product Management
-    - Product Validation
-    - Continuous Improvement
-    - Evidence Based Management
-    - Current Value
-    - Flow Efficiency
-    - Market Adaptability
-    - Pragmatic Thinking
-    - Customer Feedback Loops
-    - Lead Time
-    - Team Performance
-    - Agile Frameworks
-    - Lean Startup
-    - Technical Excellence
-    - Engineering Practices
-    - Hypothesis Driven Development
-    - Decision Making
-    - Experimentation
-    - Organisational Agility
-    - Value Stream Management
-    - Lean Principles
-    - Agile Product Operating Model
-    - Professional Scrum
-    - Deployment Strategies
-    - Project Management
-    - Application Lifecycle Management
-    - Common Goals
-    - Customer Retention
-    - Digital Transformation
-    - Enterprise Agility
-    - Product Owner
-    - Social Technologies
-    - Team Collaboration
-    - Technical Mastery
-    - Throughput
-    - Unrealised Value
-    - Competence
-    - Cycle Time
-    - Entrepreneurship
-    - Forecasting
-    - Lean Thinking
     categories:
     - Product Development
     - Engineering Excellence
@@ -1256,8 +1094,6 @@
     - Frequent Releases
     - Continuous Improvement
     - Time to Market
-    - Azure DevOps
-    - Organisational Agility
     categories:
     - Engineering Excellence
     - DevOps
@@ -1420,27 +1256,6 @@
     - Agile Strategy
     - Market Adaptability
     - Release Management
-    - Team Performance
-    - Engineering Practices
-    - Continuous Improvement
-    - Definition of Done
-    - Deployment Strategies
-    - Empirical Process Control
-    - Organisational Agility
-    - Technical Excellence
-    - Current Value
-    - Flow Efficiency
-    - Competence
-    - Agile Philosophy
-    - Agile Values and Principles
-    - Business Agility
-    - Common Goals
-    - Continuous Integration
-    - Metrics and Learning
-    - Scrum Master
-    - Social Technologies
-    - Sociotechnical Systems
-    - Technical Mastery
     categories:
     - Product Development
     - Scrum
@@ -1572,19 +1387,6 @@
     - Agile Leadership
     - Continuous Improvement
     - Team Collaboration
-    - Agile Strategy
-    - Common Goals
-    - Agile Values and Principles
-    - Social Technologies
-    - Technical Excellence
-    - Throughput
-    - Current Value
-    - Engineering Practices
-    - Metrics and Learning
-    - Organisational Agility
-    - Technical Mastery
-    - Flow Efficiency
-    - Transparency
     categories:
     - Scrum
     - Product Development
@@ -1705,31 +1507,6 @@
     - Cycle Time
     - Technical Excellence
     - Engineering Practices
-    - Lean Thinking
-    - Working Software
-    - Agile Product Management
-    - Agile Philosophy
-    - Continuous Delivery
-    - Shift-Left Strategy
-    - Social Technologies
-    - Sociotechnical Systems
-    - Market Adaptability
-    - Agile Values and Principles
-    - Automated Testing
-    - Change Management
-    - Large Scale Agility
-    - Organisational Culture
-    - Self Organisation
-    - Test Automation
-    - Agile Frameworks
-    - Agile Planning
-    - Hybrid Agile
-    - Organisational Physics
-    - Scaling
-    - Technical Mastery
-    - Value Stream Management
-    - Time to Market
-    - Project Management
     categories:
     - Product Development
     - Lean
@@ -1858,18 +1635,6 @@
     - Scrum Team
     - Technical Excellence
     - Agile Philosophy
-    - Agile Values and Principles
-    - Automated Testing
-    - Organisational Agility
-    - Product Owner
-    - Common Goals
-    - Agile Strategy
-    - Agile Transformation
-    - Continuous Improvement
-    - Decision Making
-    - Scrum Master
-    - Team Collaboration
-    - Metrics and Learning
     categories:
     - Scrum
     - Product Management

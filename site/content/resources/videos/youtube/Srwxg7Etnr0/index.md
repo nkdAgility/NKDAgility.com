@@ -49,8 +49,6 @@ tags:
 - Scrum Master
 - Strategic Goals
 - Team Collaboration
-- Value Delivery
-- Self Organisation
 resourceTypes:
 - video
 categories:

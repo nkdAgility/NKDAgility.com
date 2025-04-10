@@ -47,8 +47,6 @@ tags:
 - Employee Engagement
 - Organisational Culture
 - Agile Leadership
-- Agile Philosophy
-- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

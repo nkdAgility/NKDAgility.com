@@ -45,19 +45,6 @@ tags:
 - Team Collaboration
 - Enterprise Agility
 - Ability to Innovate
-- Agile Frameworks
-- Continuous Improvement
-- Customer Satisfaction
-- Evidence Based Management
-- Hypothesis Driven Development
-- Operational Practices
-- Organisational Change
-- Product Owner
-- Strategic Goals
-- Team Motivation
-- Working Software
-- Sensemaking
-- Organisational Physics
 sitemap:
   filename: sitemap.xml
   priority: 0.6

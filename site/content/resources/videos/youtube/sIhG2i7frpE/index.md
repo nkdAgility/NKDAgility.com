@@ -46,10 +46,6 @@ tags:
 - Agile Values and Principles
 - Lean Product Development
 - Working Software
-- Competence
-- Change Management
-- Agile Transformation
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

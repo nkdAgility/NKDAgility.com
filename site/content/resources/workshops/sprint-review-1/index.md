@@ -66,16 +66,6 @@ tags:
 - Continuous Improvement
 - Decision Making
 - Product Backlog
-- Product Owner
-- Social Technologies
-- Increment
-- Operational Practices
-- Self Organisation
-- Continuous Learning
-- Customer Feedback Loops
-- Metrics and Learning
-- Organisational Agility
-- Sensemaking
 
 ---
 While this workshop can be used on its own, it was designed to be used as part of the [Sprint Review Recipe](../_recipes/sprint-review-recipe.md).

@@ -46,7 +46,6 @@ tags:
 - Team Collaboration
 - Ability to Innovate
 - Agile Frameworks
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

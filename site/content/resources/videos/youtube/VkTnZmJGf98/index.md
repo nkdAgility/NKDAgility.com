@@ -51,12 +51,6 @@ tags:
 - Operational Practices
 - Strategic Goals
 - Change Management
-- Empirical Process Control
-- Organisational Physics
-- Sociotechnical Systems
-- Software Development
-- Decision Theory
-- Sensemaking
 resourceTypes:
 - video
 categories:

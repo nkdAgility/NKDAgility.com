@@ -48,7 +48,6 @@ tags:
 - Continuous Improvement
 - Technical Excellence
 - Value Delivery
-- Decision Making
 categories:
 - Scrum
 - Engineering Excellence

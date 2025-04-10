@@ -44,19 +44,6 @@ tags:
 - Market Adaptability
 - Agile Values and Principles
 - Enterprise Agility
-- Empirical Process Control
-- Frequent Releases
-- Lean Principles
-- Organisational Change
-- Increment
-- Change Management
-- Large Scale Agility
-- Lean Product Development
-- Social Technologies
-- Sociotechnical Systems
-- Technical Excellence
-- Agile Product Operating Model
-- Deployment Frequency
 categories:
 - Engineering Excellence
 - Product Management

@@ -48,9 +48,6 @@ tags:
 - Professional Scrum
 - Team Collaboration
 - Value Delivery
-- Working Software
-- Scrum Master
-- Product Delivery
 categories:
 - Scrum
 preview: iStock-847664136-1-1.jpg

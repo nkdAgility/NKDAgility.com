@@ -51,24 +51,6 @@ tags:
 - Agile Leadership
 - Value Delivery
 - Product Strategy
-- Agile Product Management
-- Sociotechnical Systems
-- Sensemaking
-- Agile Product Operating Model
-- Agile Frameworks
-- Business Agility
-- Change Management
-- Organisational Agility
-- Product Delivery
-- Product Owner
-- Competence
-- Coaching
-- Enterprise Agility
-- Operational Practices
-- Scrum Team
-- Self Organisation
-- Employee Engagement
-- Organisational Psychology
 resourceTypes:
 - video
 categories:

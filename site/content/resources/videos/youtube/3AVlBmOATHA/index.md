@@ -48,10 +48,6 @@ tags:
 - Enterprise Agility
 - Operational Practices
 - Social Technologies
-- Sociotechnical Systems
-- Personal
-- Decision Making
-- Organisational Culture
 resourceTypes:
 - video
 layout: video

@@ -45,7 +45,6 @@ tags:
 - Value Delivery
 - Operational Practices
 - Azure Boards
-- Continuous Improvement
 sitemap:
   filename: sitemap.xml
   priority: 0.6

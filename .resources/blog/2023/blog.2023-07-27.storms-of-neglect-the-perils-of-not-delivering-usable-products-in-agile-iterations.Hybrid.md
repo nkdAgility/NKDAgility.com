@@ -45,9 +45,6 @@ tags:
 - Technical Debt
 - Agile Frameworks
 - Business Agility
-- Continuous Improvement
-- Team Collaboration
-- Product Owner
 categories:
 - Scrum
 - Product Management

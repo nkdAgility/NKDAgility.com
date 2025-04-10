@@ -49,16 +49,6 @@ tags:
 - Team Motivation
 - Team Performance
 - Transparency
-- Social Technologies
-- Business Agility
-- Common Goals
-- Decision Theory
-- Value Delivery
-- Organisational Physics
-- Agile Planning
-- Agile Values and Principles
-- Self Organisation
-- Sensemaking
 resourceTypes:
 - video
 categories:

@@ -51,11 +51,6 @@ tags:
 - Metrics and Learning
 - Organisational Culture
 - Agile Product Management
-- Complexity Thinking
-- Decision Making
-- Evidence Based Leadership
-- Market Adaptability
-- Value Delivery
 resourceTypes:
 - video
 categories:

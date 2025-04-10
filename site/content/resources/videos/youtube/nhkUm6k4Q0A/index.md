@@ -50,8 +50,6 @@ tags:
 - Operational Practices
 - Team Motivation
 - Agile Strategy
-- Team Performance
-- Personal
 resourceTypes:
 - video
 categories:

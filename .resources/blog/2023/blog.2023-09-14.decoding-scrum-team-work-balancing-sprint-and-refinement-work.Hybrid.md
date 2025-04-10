@@ -49,8 +49,6 @@ tags:
 - Azure DevOps
 - Agile Planning Tools
 - Agile Transformation
-- Azure Boards
-- Transparency
 categories:
 - Scrum
 - Product Management

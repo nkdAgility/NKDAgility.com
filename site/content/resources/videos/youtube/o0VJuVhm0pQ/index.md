@@ -49,10 +49,6 @@ tags:
 - Sociotechnical Systems
 - Team Collaboration
 - Working Software
-- Increment
-- Agile Values and Principles
-- Customer Retention
-- Team Performance
 resourceTypes:
 - video
 categories:

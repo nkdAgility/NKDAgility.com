@@ -44,17 +44,6 @@ tags:
 - Scrum Team
 - Increment
 - Agile Strategy
-- Estimation
-- Market Adaptability
-- Transparency
-- Scrum Master
-- Agile Planning Tools
-- Backlog Refinement
-- Continuous Improvement
-- Definition of Done
-- Enterprise Agility
-- Sociotechnical Systems
-- Competence
 categories:
 - Scrum
 - Engineering Excellence

@@ -46,8 +46,6 @@ tags:
 - Agile Values and Principles
 - Agile Transformation
 - Decision Making
-- Product Delivery
-- Sensemaking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

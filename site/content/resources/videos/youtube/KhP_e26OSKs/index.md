@@ -46,10 +46,6 @@ tags:
 - Agile Transformation
 - Change Management
 - Customer Satisfaction
-- Organisational Agility
-- Scrum Master
-- Increment
-- Employee Engagement
 sitemap:
   filename: sitemap.xml
   priority: 0.6

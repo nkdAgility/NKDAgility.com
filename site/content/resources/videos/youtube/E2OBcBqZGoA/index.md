@@ -46,11 +46,6 @@ tags:
 - Agile Values and Principles
 - Agile Transformation
 - Decision Making
-- Entrepreneurship
-- Market Adaptability
-- Operational Practices
-- Organisational Physics
-- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

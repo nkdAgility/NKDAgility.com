@@ -45,13 +45,6 @@ tags:
 - Social Technologies
 - Agile Product Management
 - Agile Strategy
-- Business Agility
-- Customer Satisfaction
-- Organisational Change
-- Agentic Agility
-- Value Delivery
-- Psychological Safety
-- Beta Codex
 sitemap:
   filename: sitemap.xml
   priority: 0.6

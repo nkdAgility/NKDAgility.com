@@ -45,19 +45,6 @@ tags:
 - Increment
 - Continuous Delivery
 - Continuous Improvement
-- Value Delivery
-- Engineering Practices
-- Metrics and Learning
-- Agile Transformation
-- Enterprise Agility
-- Troubleshooting
-- Competence
-- Agile Frameworks
-- Business Agility
-- Continuous Learning
-- Customer Satisfaction
-- Digital Transformation
-- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -62,7 +62,6 @@ tags:
 - Competence
 - Engineering Practices
 - Metrics and Learning
-- Customer Feedback Loops
 
 ---
 Agile is a buzzword of software development, and so all DoD software development projects are, almost by default, now declared to be “agile.” The purpose of this document is to provide guidance to DoD program executives and acquisition professionals on how to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing (“agile-scrum-fall”).

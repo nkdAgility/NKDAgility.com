@@ -45,16 +45,6 @@ tags:
 - Value Delivery
 - Agile Frameworks
 - Agile Planning
-- Collaboration Tools
-- Deployment Frequency
-- Experimentation
-- Frequent Releases
-- Product Backlog
-- Product Discovery
-- Scrum Values
-- Throughput
-- Transparency
-- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6

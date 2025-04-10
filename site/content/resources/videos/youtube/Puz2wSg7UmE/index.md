@@ -51,7 +51,6 @@ tags:
 - Agile Strategy
 - Enterprise Agility
 - Social Technologies
-- Strategic Goals
 resourceTypes:
 - video
 categories: []

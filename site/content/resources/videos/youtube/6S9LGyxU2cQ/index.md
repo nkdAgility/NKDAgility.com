@@ -45,11 +45,6 @@ tags:
 - Scrum Team
 - Competence
 - Market Adaptability
-- Scrum Master
-- Product Delivery
-- Social Technologies
-- Agile Product Management
-- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -46,7 +46,6 @@ tags:
 - Agile Values and Principles
 - Agile Planning
 - Operational Practices
-- Scrum Team
 sitemap:
   filename: sitemap.xml
   priority: 0.6

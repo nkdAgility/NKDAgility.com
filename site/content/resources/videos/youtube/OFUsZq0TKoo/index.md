@@ -45,12 +45,6 @@ tags:
 - Social Technologies
 - Experimentation
 - Metrics and Learning
-- Empirical Process Control
-- Operational Practices
-- Product Validation
-- Decision Making
-- Evidence Based Management
-- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

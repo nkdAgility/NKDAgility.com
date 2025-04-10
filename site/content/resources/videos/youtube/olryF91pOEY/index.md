@@ -52,9 +52,6 @@ tags:
 - Agile Strategy
 - Competence
 - Operational Practices
-- Social Technologies
-- Sociotechnical Systems
-- Working Software
 resourceTypes:
 - video
 categories:

@@ -54,11 +54,6 @@ tags:
 - Empirical Process Control
 - Flow Efficiency
 - Product Backlog
-- Scrum Team
-- Social Technologies
-- Team Collaboration
-- Increment
-- Scrum Master
 resourceTypes:
 - video
 categories: []

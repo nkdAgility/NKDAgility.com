@@ -46,14 +46,6 @@ tags:
 - Team Collaboration
 - Organisational Culture
 - Team Performance
-- Agile Frameworks
-- Agile Product Operating Model
-- Organisational Change
-- Product Discovery
-- Sociotechnical Systems
-- Value Delivery
-- Decision Making
-- Sensemaking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

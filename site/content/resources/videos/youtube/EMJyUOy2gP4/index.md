@@ -50,8 +50,6 @@ tags:
 - Evidence Based Management
 - Working Software
 - Agile Planning
-- Agile Strategy
-- Professional Scrum
 resourceTypes:
 - video
 categories:

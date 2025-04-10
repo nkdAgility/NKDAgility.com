@@ -46,12 +46,6 @@ tags:
 - Operational Practices
 - Competence
 - Software Development
-- Value Delivery
-- Agile Strategy
-- Transparency
-- Decision Theory
-- Sensemaking
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -50,10 +50,6 @@ tags:
 - Organisational Agility
 - Pragmatic Thinking
 - Strategic Goals
-- Value Delivery
-- Working Software
-- Product Delivery
-- Sensemaking
 resourceTypes:
 - video
 layout: video

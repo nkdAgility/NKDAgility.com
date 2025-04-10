@@ -52,8 +52,6 @@ tags:
 - Sensemaking
 - Value Delivery
 - Change Management
-- Social Technologies
-- Team Collaboration
 resourceTypes:
 - video
 categories:

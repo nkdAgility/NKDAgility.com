@@ -45,11 +45,6 @@ tags:
 - Agentic Agility
 - Agile Transformation
 - Change Management
-- Coaching
-- Common Goals
-- Enterprise Agility
-- Organisational Physics
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

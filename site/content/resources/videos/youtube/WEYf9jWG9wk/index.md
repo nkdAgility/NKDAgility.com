@@ -48,23 +48,6 @@ tags:
 - Pragmatic Thinking
 - Value Delivery
 - Continuous Delivery
-- Customer Feedback Loops
-- Customer Satisfaction
-- Agile Strategy
-- Empirical Process Control
-- MVP
-- Business Agility
-- Digital Transformation
-- Flow Efficiency
-- Lean Product Development
-- Organisational Agility
-- Product Discovery
-- Product Validation
-- Throughput
-- Entrepreneurship
-- Product Strategy
-- Time to Market
-- Deployment Frequency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

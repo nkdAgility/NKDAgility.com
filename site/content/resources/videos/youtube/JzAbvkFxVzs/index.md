@@ -50,9 +50,6 @@ tags:
 - Agile Values and Principles
 - Continuous Improvement
 - Organisational Agility
-- Social Technologies
-- Personal
-- Agile Frameworks
 resourceTypes:
 - video
 categories:

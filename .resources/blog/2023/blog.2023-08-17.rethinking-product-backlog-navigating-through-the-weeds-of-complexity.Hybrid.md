@@ -49,11 +49,6 @@ tags:
 - Agile Frameworks
 - Agile Planning Tools
 - Agile Transformation
-- Business Agility
-- Organisational Culture
-- Social Technologies
-- Value Delivery
-- Market Adaptability
 categories:
 - Product Management
 - Scrum

@@ -48,7 +48,6 @@ tags:
 - Technical Mastery
 - Transparency
 - Value Delivery
-- Agile Transformation
 categories:
 - Scrum
 - Engineering Excellence

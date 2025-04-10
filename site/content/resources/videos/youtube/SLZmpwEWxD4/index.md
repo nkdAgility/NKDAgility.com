@@ -51,8 +51,6 @@ tags:
 - Working Software
 - Agile Strategy
 - Common Goals
-- Flow Efficiency
-- Lean Thinking
 resourceTypes:
 - video
 categories:

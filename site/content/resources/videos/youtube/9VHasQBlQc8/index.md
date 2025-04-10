@@ -50,14 +50,6 @@ tags:
 - Team Motivation
 - Self Organisation
 - Organisational Culture
-- Organisational Psychology
-- Scrum Values
-- Mentoring
-- Team Collaboration
-- Personal
-- Change Management
-- Continuous Learning
-- Team Performance
 resourceTypes:
 - video
 categories:

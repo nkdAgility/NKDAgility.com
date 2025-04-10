@@ -45,7 +45,6 @@ tags:
 - Operational Practices
 - Agile Leadership
 - Continuous Learning
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

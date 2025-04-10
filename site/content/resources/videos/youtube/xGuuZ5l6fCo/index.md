@@ -51,22 +51,6 @@ tags:
 - Market Adaptability
 - Operational Practices
 - Team Performance
-- Working Software
-- Agile Frameworks
-- Change Management
-- Customer Satisfaction
-- Product Discovery
-- Team Collaboration
-- Organisational Culture
-- Team Motivation
-- Ability to Innovate
-- Agile Product Operating Model
-- Evidence Based Leadership
-- Organisational Change
-- Social Technologies
-- Sociotechnical Systems
-- Decision Making
-- Metrics and Learning
 resourceTypes:
 - video
 categories:

@@ -51,13 +51,6 @@ tags:
 - Operational Practices
 - Product Backlog
 - Value Delivery
-- Agile Philosophy
-- Agile Planning
-- Agile Product Management
-- Agile Product Operating Model
-- Empirical Process Control
-- Lean Product Development
-- Market Share
 resourceTypes:
 - video
 categories:

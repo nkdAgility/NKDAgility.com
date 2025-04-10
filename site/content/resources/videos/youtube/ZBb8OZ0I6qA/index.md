@@ -46,12 +46,6 @@ tags:
 - Product Owner
 - Working Software
 - Agile Philosophy
-- Agile Values and Principles
-- Beta Codex
-- Coaching
-- Professional Scrum
-- Scrum Master
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

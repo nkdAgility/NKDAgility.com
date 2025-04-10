@@ -50,14 +50,6 @@ tags:
 - Value Delivery
 - Product Delivery
 - Trend Analysis
-- Agile Leadership
-- Continuous Improvement
-- Decision Making
-- Social Technologies
-- Sociotechnical Systems
-- Software Development
-- Strategic Goals
-- Team Collaboration
 resourceTypes:
 - video
 categories:

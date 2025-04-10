@@ -50,24 +50,6 @@ tags:
 - Beta Codex
 - Ability to Innovate
 - Agile Planning
-- Change Management
-- Lean Principles
-- Social Technologies
-- Sociotechnical Systems
-- Team Collaboration
-- Value Delivery
-- Agile Frameworks
-- Personal
-- Competence
-- Lean Thinking
-- Agile Product Management
-- Coaching
-- Empirical Process Control
-- Enterprise Agility
-- Lean Product Development
-- Organisational Physics
-- Value Stream Management
-- Market Adaptability
 resourceTypes:
 - video
 layout: video

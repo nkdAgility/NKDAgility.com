@@ -50,9 +50,6 @@ tags:
 - Team Performance
 - Backlog Refinement
 - Personal
-- Throughput
-- Lean Thinking
-- Lean Product Development
 resourceTypes:
 - video
 categories:

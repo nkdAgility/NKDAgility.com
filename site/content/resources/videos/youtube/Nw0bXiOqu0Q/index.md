@@ -49,17 +49,6 @@ tags:
 - Agile Values and Principles
 - Continuous Learning
 - Decision Making
-- Evidence Based Leadership
-- Experimentation
-- Metrics and Learning
-- Organisational Culture
-- Sensemaking
-- Ability to Innovate
-- Customer Satisfaction
-- Social Technologies
-- Sociotechnical Systems
-- Competence
-- Organisational Physics
 resourceTypes:
 - video
 categories: []

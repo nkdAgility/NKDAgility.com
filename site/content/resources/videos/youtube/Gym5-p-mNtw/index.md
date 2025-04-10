@@ -46,14 +46,6 @@ tags:
 - Product Delivery
 - Lean Product Development
 - Trend Analysis
-- Ability to Innovate
-- Agile Philosophy
-- Enterprise Agility
-- Unrealised Value
-- Working Software
-- Current Value
-- Flow Efficiency
-- Value Stream Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

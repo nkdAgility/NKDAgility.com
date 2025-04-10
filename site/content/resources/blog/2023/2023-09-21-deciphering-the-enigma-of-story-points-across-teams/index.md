@@ -45,8 +45,6 @@ tags:
 - Continuous Improvement
 - Forecasting
 - Value Stream Management
-- Working Software
-- Estimation
 categories:
 - Product Management
 - Scrum

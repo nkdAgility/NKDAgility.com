@@ -50,10 +50,6 @@ tags:
 - Agile Strategy
 - Continuous Improvement
 - Decision Theory
-- Lean Product Development
-- MVP
-- Strategic Goals
-- Working Software
 resourceTypes:
 - video
 categories:

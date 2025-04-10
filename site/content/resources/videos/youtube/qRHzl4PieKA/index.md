@@ -52,23 +52,6 @@ tags:
 - Agile Values and Principles
 - Pragmatic Thinking
 - Agile Product Operating Model
-- Agile Planning Tools
-- Agile Product Management
-- Organisational Change
-- Scrum Master
-- Sociotechnical Systems
-- Agile Leadership
-- Ability to Innovate
-- Common Goals
-- Competence
-- Digital Transformation
-- Enterprise Agility
-- Evidence Based Leadership
-- Lean Product Development
-- Market Adaptability
-- MVP
-- Scrum Team
-- Agile Planning
 resourceTypes:
 - video
 categories:

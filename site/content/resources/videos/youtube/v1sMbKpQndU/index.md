@@ -53,11 +53,6 @@ tags:
 - Mentoring
 - Competence
 - Agile Frameworks
-- Agile Planning
-- Agile Product Management
-- Professional Scrum
-- Team Collaboration
-- Agile Leadership
 resourceTypes:
 - video
 categories:

@@ -46,8 +46,6 @@ tags:
 - Release Management
 - Technical Mastery
 - Continuous Improvement
-- Deployment Strategies
-- Flow Efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

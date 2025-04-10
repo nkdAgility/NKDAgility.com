@@ -46,15 +46,6 @@ tags:
 - Agile Product Operating Model
 - Product Owner
 - Agnostic Agile
-- Complexity Thinking
-- Continuous Improvement
-- Customer Satisfaction
-- Enterprise Agility
-- Social Technologies
-- Current Value
-- Operational Practices
-- Project Management
-- Change Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

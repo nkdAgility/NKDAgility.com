@@ -60,7 +60,6 @@ tags:
 - Strategic Goals
 - Team Collaboration
 - Transparency
-- Agile Product Operating Model
 categories:
 - Product Management
 - Scrum

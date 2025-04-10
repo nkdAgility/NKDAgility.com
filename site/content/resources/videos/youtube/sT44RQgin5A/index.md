@@ -50,14 +50,6 @@ tags:
 - Agile Strategy
 - Customer Satisfaction
 - Product Strategy
-- Cycle Time
-- Continuous Improvement
-- Lead Time
-- Social Technologies
-- Technical Debt
-- Flow Efficiency
-- Throughput
-- Team Performance
 resourceTypes:
 - video
 categories:

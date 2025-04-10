@@ -43,17 +43,6 @@ tags:
 - Sociotechnical Systems
 - Working Software
 - Agile Planning
-- Operational Practices
-- Agile Strategy
-- Coaching
-- Organisational Change
-- Organisational Physics
-- Social Technologies
-- Organisational Culture
-- Technical Excellence
-- Mentoring
-- Engineering Practices
-- Team Motivation
 categories:
 - Scrum
 - Technical Leadership

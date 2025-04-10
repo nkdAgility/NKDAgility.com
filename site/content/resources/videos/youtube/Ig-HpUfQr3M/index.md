@@ -46,17 +46,6 @@ tags:
 - Continuous Learning
 - Decision Making
 - Evidence Based Leadership
-- Product Delivery
-- Evidence Based Management
-- Lean Product Development
-- MVP
-- Product Strategy
-- Agile Philosophy
-- Operational Practices
-- Sociotechnical Systems
-- Software Development
-- Value Stream Management
-- Portfolio Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

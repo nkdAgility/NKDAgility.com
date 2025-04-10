@@ -46,19 +46,6 @@ tags:
 - Technical Debt
 - Increment
 - Lean Principles
-- Lean Product Development
-- Continuous Integration
-- Customer Satisfaction
-- Experimentation
-- Organisational Agility
-- Competence
-- Empirical Process Control
-- Market Adaptability
-- Time to Market
-- Agile Strategy
-- Current Value
-- Deployment Strategies
-- Modern Source Control
 resourceTypes:
 - video
 sitemap:

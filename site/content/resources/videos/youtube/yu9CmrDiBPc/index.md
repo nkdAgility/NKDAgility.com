@@ -40,7 +40,6 @@ tags:
 - Organisational Change
 - Competence
 - Enterprise Agility
-- Ability to Innovate
 - Scaling
 - Agile Philosophy
 - Organisational Agility

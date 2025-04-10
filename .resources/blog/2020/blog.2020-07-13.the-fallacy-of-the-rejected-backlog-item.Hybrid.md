@@ -44,15 +44,6 @@ tags:
 - Pragmatic Thinking
 - Team Performance
 - Definition of Done
-- Team Collaboration
-- Technical Debt
-- Agile Strategy
-- Continuous Improvement
-- Continuous Learning
-- Operational Practices
-- Social Technologies
-- Technical Mastery
-- Engineering Practices
 categories:
 - Scrum
 - Product Management

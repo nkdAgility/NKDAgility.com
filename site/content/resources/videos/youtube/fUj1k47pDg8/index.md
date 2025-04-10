@@ -45,10 +45,6 @@ tags:
 - Lean Product Development
 - Lean Startup
 - Metrics and Learning
-- Organisational Agility
-- Product Owner
-- Decision Making
-- Product Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -51,12 +51,6 @@ tags:
 - Agile Strategy
 - Competence
 - Agile Frameworks
-- Agile Planning
-- Business Agility
-- Continuous Improvement
-- Organisational Agility
-- Product Discovery
-- Throughput
 resourceTypes:
 - video
 categories:

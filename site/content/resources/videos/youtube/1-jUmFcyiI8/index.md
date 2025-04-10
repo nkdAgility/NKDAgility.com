@@ -46,15 +46,6 @@ tags:
 - Continuous Improvement
 - Release Management
 - Enterprise Agility
-- Agile Product Management
-- Agile Strategy
-- Application Lifecycle Management
-- Deployment Strategies
-- Engineering Practices
-- Evidence Based Management
-- Lean Product Development
-- Sociotechnical Systems
-- Evidence Based Leadership
 resourceTypes:
 - video
 sitemap:

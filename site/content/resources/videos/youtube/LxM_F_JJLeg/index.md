@@ -46,13 +46,6 @@ tags:
 - Complexity Thinking
 - Continuous Learning
 - Enterprise Agility
-- Scrum Master
-- Team Collaboration
-- Team Performance
-- Ability to Innovate
-- Sensemaking
-- Agile Strategy
-- Organisational Change
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -60,11 +60,6 @@ tags:
 - Value Delivery
 - Decision Making
 - Evidence Based Leadership
-- Metrics and Learning
-- Product Discovery
-- Product Strategy
-- Release Management
-- Team Performance
 categories:
 - Product Management
 - Scrum

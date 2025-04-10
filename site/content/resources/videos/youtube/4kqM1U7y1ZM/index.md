@@ -46,14 +46,6 @@ tags:
 - Team Performance
 - Agile Transformation
 - Continuous Delivery
-- Business Agility
-- Continuous Improvement
-- Competence
-- Market Adaptability
-- Personal
-- Customer Feedback Loops
-- Agile Leadership
-- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

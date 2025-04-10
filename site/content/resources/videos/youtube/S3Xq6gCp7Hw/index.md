@@ -49,15 +49,6 @@ tags:
 - Agile Philosophy
 - Ability to Innovate
 - Agile Product Operating Model
-- Empirical Process Control
-- Evidence Based Leadership
-- Evidence Based Management
-- Organisational Agility
-- Social Technologies
-- Strategic Goals
-- Customer Satisfaction
-- Decision Making
-- Team Performance
 resourceTypes:
 - video
 categories:

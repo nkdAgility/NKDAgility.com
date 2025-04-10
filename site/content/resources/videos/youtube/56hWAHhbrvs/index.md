@@ -51,8 +51,6 @@ tags:
 - Agile Product Management
 - Large Scale Agility
 - Value Delivery
-- Business Agility
-- Organisational Physics
 resourceTypes:
 - video
 layout: video

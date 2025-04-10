@@ -46,9 +46,6 @@ tags:
 - Decision Making
 - Flow Efficiency
 - Organisational Culture
-- Product Delivery
-- Entrepreneurship
-- Organisational Change
 sitemap:
   filename: sitemap.xml
   priority: 0.6

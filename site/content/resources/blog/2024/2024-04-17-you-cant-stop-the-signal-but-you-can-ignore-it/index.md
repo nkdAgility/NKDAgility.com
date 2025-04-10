@@ -54,22 +54,6 @@ tags:
 - Organisational Physics
 - Change Management
 - Continuous Learning
-- Team Performance
-- Agile Planning
-- Business Agility
-- Complexity Thinking
-- Operational Practices
-- Scrum Master
-- Self Organisation
-- Systems Thinking
-- Team Collaboration
-- Value Delivery
-- Market Adaptability
-- Psychological Safety
-- Sensemaking
-- Team Motivation
-- Enterprise Agility
-- Product Delivery
 
 ---
 In organizational development and team dynamics, Agile (as the Agile Manifesto delineates) and Scrum (as the Scrum Guide outlines) guide teams not by solving their problems but by illuminating the issues that demand attention. These frameworks aim to identify and spotlight the challenges within a team or organization's processes, effectively saying, "This is wrong, go fix it!" when a team struggles to produce a working product due to various obstacles. These are clear signals!

@@ -46,12 +46,6 @@ tags:
 - Evidence Based Management
 - Lean Product Development
 - Metrics and Learning
-- Operational Practices
-- Social Technologies
-- Team Collaboration
-- Transparency
-- Current Value
-- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

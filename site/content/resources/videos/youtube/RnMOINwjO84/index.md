@@ -45,8 +45,6 @@ tags:
 - Decision Making
 - Entrepreneurship
 - Metrics and Learning
-- Organisational Culture
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

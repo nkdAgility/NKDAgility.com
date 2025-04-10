@@ -46,10 +46,6 @@ tags:
 - Product Delivery
 - Self Organisation
 - Working Software
-- Continuous Improvement
-- Evidence Based Management
-- Operational Practices
-- Empirical Process Control
 sitemap:
   filename: sitemap.xml
   priority: 0.6

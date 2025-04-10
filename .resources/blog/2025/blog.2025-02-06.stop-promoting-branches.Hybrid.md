@@ -41,8 +41,6 @@ tags:
 - Frequent Releases
 - Continuous Improvement
 - Time to Market
-- Azure DevOps
-- Organisational Agility
 categories:
 - Engineering Excellence
 - DevOps

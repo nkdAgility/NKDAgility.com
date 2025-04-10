@@ -50,9 +50,6 @@ tags:
 - Product Strategy
 - Product Validation
 - Metrics and Learning
-- Evidence Based Leadership
-- Experimentation
-- Product Delivery
 resourceTypes:
 - video
 categories:

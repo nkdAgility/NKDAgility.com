@@ -48,10 +48,6 @@ tags:
 - Continuous Learning
 - Social Technologies
 - Team Collaboration
-- Decision Making
-- Scrum Master
-- Agile Values and Principles
-- Evidence Based Leadership
 resourceTypes:
 - video
 layout: video

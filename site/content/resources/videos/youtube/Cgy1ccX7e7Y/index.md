@@ -49,7 +49,6 @@ tags:
 - Social Technologies
 - Organisational Physics
 - Sensemaking
-- Beta Codex
 resourceTypes:
 - video
 categories:

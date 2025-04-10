@@ -63,8 +63,6 @@ tags:
 - Agile Transformation
 - Flow Efficiency
 - Value Delivery
-- Empirical Process Control
-- Self Organisation
 
 ---
 The Daily Scrum is an essential event in the Scrum framework. It offers the

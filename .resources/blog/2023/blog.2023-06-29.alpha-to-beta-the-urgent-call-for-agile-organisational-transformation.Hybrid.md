@@ -49,11 +49,6 @@ tags:
 - Agile Leadership
 - Strategic Goals
 - Agile Frameworks
-- Agile Values and Principles
-- Systems Thinking
-- Trend Analysis
-- Pragmatic Thinking
-- Sensemaking
 categories:
 - Leadership
 preview: 1686217267121-1-1-1.jpg

@@ -50,16 +50,6 @@ tags:
 - Personal
 - Product Owner
 - Social Technologies
-- Agile Product Operating Model
-- Business Agility
-- Customer Satisfaction
-- Organisational Culture
-- Product Strategy
-- Working Software
-- Agile Philosophy
-- Team Motivation
-- Organisational Psychology
-- Employee Engagement
 resourceTypes:
 - video
 categories:

@@ -46,13 +46,6 @@ tags:
 - Evidence Based Leadership
 - Social Technologies
 - Sociotechnical Systems
-- Strategic Goals
-- Entrepreneurship
-- Project Management
-- Ability to Innovate
-- Current Value
-- Organisational Physics
-- Portfolio Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

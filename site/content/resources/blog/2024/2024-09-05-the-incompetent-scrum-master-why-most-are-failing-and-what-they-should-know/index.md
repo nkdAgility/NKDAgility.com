@@ -51,8 +51,6 @@ tags:
 - Continuous Learning
 - Metrics and Learning
 - Technical Excellence
-- Working Software
-- Mentoring
 categories:
 - Scrum
 - Technical Leadership

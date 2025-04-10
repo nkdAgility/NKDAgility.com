@@ -49,10 +49,6 @@ tags:
 - Enterprise Agility
 - Lean Principles
 - Team Collaboration
-- Value Delivery
-- Organisational Physics
-- Mentoring
-- Team Performance
 resourceTypes:
 - video
 layout: video

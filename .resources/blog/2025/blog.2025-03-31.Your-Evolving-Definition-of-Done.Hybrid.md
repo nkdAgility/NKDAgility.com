@@ -41,38 +41,6 @@ tags:
 - Scrum Team
 - Strategic Goals
 - Increment
-- Social Technologies
-- Competence
-- Organisational Agility
-- Sociotechnical Systems
-- Team Performance
-- Agile Planning
-- Agile Transformation
-- Automated Testing
-- Business Agility
-- Empirical Process Control
-- Enterprise Agility
-- Market Adaptability
-- Metrics and Learning
-- Organisational Physics
-- Continuous Delivery
-- Continuous Integration
-- Current Value
-- Decision Making
-- Digital Transformation
-- Evidence Based Management
-- Organisational Change
-- Organisational Culture
-- Release Management
-- Scrum Master
-- Team Collaboration
-- Technical Debt
-- Test Automation
-- Test Driven Development
-- Test First Development
-- Time to Market
-- Company as a Product
-- Agile Philosophy
 
 ---
 The [Definition of Done (DoD)]({{< ref "/tags/definition-of-done" >}}) is not a static artefact; it evolves over time as a [Scrum Team]({{< ref "/tags/scrum-team" >}}) gains experience and capability. While the [Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}}) acknowledges that teams may refine their DoD to improve product quality, there’s an often overlooked piece: Organisations should also provide an organisational Definition of Done that reflects their needs. This organisational perspective ensures that Scrum Teams build on a solid foundation, aligning technical execution with strategic goals.
@@ -113,7 +81,7 @@ None of these elements define the "why" or "what" of what we're building—those
 
 ## Definition of Done - Translating Organisational Standards into Team Practice
 
-While Scrum Teams are self-managing, that doesn’t mean they can do whatever they want. They operate within a structured environment, within a [balance of leadership and control]({{< ref "/resources/blog/2025/2025-03-12-balance-of-leadership-and-control-in-scrum" >}}) that upholds both autonomy and accountability. Scrum isn’t anarchy; it’s a [social technology]({{< ref "/categories/social-technologies" >}}) that enables self-management within clear constraints—Scrum events, commitments, and organisational expectations.
+While Scrum Teams are self-managing, that doesn’t mean they can do whatever they want. They operate within a structured environment, within a [balance of leadership and control]({{< ref "/resources/blog/2025/2025-03-12-balance-of-leadership-and-control-in-scrum" >}}) that upholds both autonomy and accountability. Scrum isn’t anarchy; it’s a [social technology]({{< ref "/tags/social-technologies" >}}) that enables self-management within clear constraints—Scrum events, commitments, and organisational expectations.
 
 Each Scrum Team must interpret the organisational Definition of Done within their context, shaping an engineering-level DoD that aligns with it. While examples can guide them, it's the team’s responsibility to determine what Done means within organisational constraints.
 

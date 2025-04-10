@@ -48,12 +48,6 @@ tags:
 - Product Delivery
 - Competence
 - Ability to Innovate
-- Business Agility
-- Continuous Improvement
-- Market Adaptability
-- Strategic Goals
-- Working Software
-- Team Performance
 resourceTypes:
 - video
 layout: video

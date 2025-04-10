@@ -51,8 +51,6 @@ tags:
 - Business Agility
 - Organisational Change
 - Strategic Goals
-- Social Technologies
-- Team Performance
 resourceTypes:
 - video
 categories:

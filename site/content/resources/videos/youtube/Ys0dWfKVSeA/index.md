@@ -53,11 +53,6 @@ tags:
 - Scrum Master
 - Common Goals
 - Organisational Change
-- Sociotechnical Systems
-- Agile Strategy
-- Operational Practices
-- Personal
-- Organisational Culture
 resourceTypes:
 - video
 categories:

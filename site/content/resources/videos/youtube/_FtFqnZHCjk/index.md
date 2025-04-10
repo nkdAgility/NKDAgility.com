@@ -49,12 +49,6 @@ tags:
 - Organisational Agility
 - Market Adaptability
 - Deployment Frequency
-- Agile Frameworks
-- Continuous Improvement
-- Enterprise Agility
-- Flow Efficiency
-- Strategic Goals
-- Cycle Time
 resourceTypes:
 - video
 layout: video

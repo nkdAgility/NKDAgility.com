@@ -49,13 +49,6 @@ tags:
 - Value Delivery
 - Lean Startup
 - MVP
-- Operational Practices
-- Continuous Delivery
-- Continuous Improvement
-- Customer Feedback Loops
-- Empirical Process Control
-- Organisational Agility
-- Product Delivery
 resourceTypes:
 - video
 categories:

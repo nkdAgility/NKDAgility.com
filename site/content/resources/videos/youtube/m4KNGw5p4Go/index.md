@@ -50,18 +50,6 @@ tags:
 - Hypothesis Driven Development
 - Organisational Agility
 - Experimentation
-- Value Delivery
-- Agile Frameworks
-- Customer Satisfaction
-- Digital Transformation
-- Enterprise Agility
-- MVP
-- Software Development
-- Product Strategy
-- Business Agility
-- Decision Making
-- Evidence Based Leadership
-- Metrics and Learning
 resourceTypes:
 - video
 categories:

@@ -51,15 +51,6 @@ tags:
 - Competence
 - Agile Frameworks
 - Agile Planning
-- Agile Product Management
-- Business Agility
-- Organisational Agility
-- Organisational Culture
-- Social Technologies
-- Team Collaboration
-- Team Motivation
-- Organisational Psychology
-- Product Delivery
 resourceTypes:
 - video
 categories:

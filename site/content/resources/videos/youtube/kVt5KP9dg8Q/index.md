@@ -51,16 +51,6 @@ tags:
 - Digital Transformation
 - Enterprise Agility
 - Large Scale Agility
-- Metrics and Learning
-- Release Management
-- Sociotechnical Systems
-- Throughput
-- Value Delivery
-- Flow Efficiency
-- Organisational Culture
-- Technical Mastery
-- Change Management
-- Team Performance
 resourceTypes:
 - video
 categories:

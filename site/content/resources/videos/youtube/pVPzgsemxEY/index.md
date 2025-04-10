@@ -51,7 +51,6 @@ tags:
 - Agile Philosophy
 - Agile Strategy
 - Empirical Process Control
-- Product Delivery
 resourceTypes:
 - video
 categories:

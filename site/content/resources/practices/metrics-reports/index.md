@@ -50,11 +50,6 @@ tags:
 - Ability to Innovate
 - Agile Product Management
 - Agile Product Operating Model
-- Application Lifecycle Management
-- Decision Making
-- Organisational Agility
-- Release Management
-- Value Stream Management
 
 ---
 In order to understand how your team is doing we need to have metrics that we can monitor across all of [Company]. There are two focuses of this work, first is the Product/Project/Organisation focus and second is the Team focus.

@@ -50,13 +50,6 @@ tags:
 - Value Delivery
 - Social Technologies
 - Team Performance
-- Ability to Innovate
-- Customer Feedback Loops
-- Organisational Culture
-- Professional Scrum
-- Scrum Team
-- Sociotechnical Systems
-- Product Delivery
 resourceTypes:
 - video
 categories:

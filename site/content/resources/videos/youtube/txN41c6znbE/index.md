@@ -51,11 +51,6 @@ tags:
 - Agile Product Management
 - Business Agility
 - Change Management
-- Enterprise Agility
-- Organisational Change
-- Professional Scrum
-- Agile Values and Principles
-- Value Delivery
 resourceTypes:
 - video
 categories:

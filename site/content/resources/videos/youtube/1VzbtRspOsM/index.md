@@ -50,16 +50,6 @@ tags:
 - Team Collaboration
 - Enterprise Agility
 - Agile Leadership
-- Organisational Agility
-- Agile Product Management
-- Coaching
-- Digital Transformation
-- Scrum Master
-- Personal
-- Market Adaptability
-- Organisational Culture
-- Sociotechnical Systems
-- Team Performance
 resourceTypes:
 - video
 layout: video

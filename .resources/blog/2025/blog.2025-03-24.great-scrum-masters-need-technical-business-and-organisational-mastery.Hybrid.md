@@ -47,22 +47,6 @@ tags:
 - Mentoring
 - Organisational Physics
 - Business Agility
-- Enterprise Agility
-- Technical Excellence
-- Agile Leadership
-- Operational Practices
-- Organisational Change
-- Social Technologies
-- Sociotechnical Systems
-- Team Collaboration
-- Agile Planning
-- Agile Strategy
-- Change Management
-- Continuous Improvement
-- Continuous Learning
-- Test Driven Development
-- Organisational Culture
-- Project Management
 
 ---
 [Scrum Masters]({{< ref "/tags/scrum-master" >}}) don’t need to be subject-matter experts in the way traditional management once required. We’re no longer in an era where managers direct unskilled labour; modern teams are intelligent, capable, and cross-functional. The Scrum Master’s responsibility is not to do the work, but to enable others to do it better. They are leaders.

@@ -52,10 +52,6 @@ tags:
 - Continuous Improvement
 - Decision Theory
 - Enterprise Agility
-- Operational Practices
-- Personal
-- Team Performance
-- Change Management
 resourceTypes:
 - video
 categories:

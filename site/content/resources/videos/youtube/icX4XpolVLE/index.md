@@ -47,12 +47,6 @@ tags:
 - Competence
 - Agile Philosophy
 - Change Management
-- Digital Transformation
-- Enterprise Agility
-- Social Technologies
-- Team Collaboration
-- Technical Mastery
-- Engineering Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

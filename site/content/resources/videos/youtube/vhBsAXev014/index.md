@@ -52,13 +52,6 @@ tags:
 - Digital Transformation
 - Market Adaptability
 - Organisational Culture
-- Social Technologies
-- Sociotechnical Systems
-- Systems Thinking
-- Team Collaboration
-- Team Motivation
-- Change Management
-- Product Delivery
 resourceTypes:
 - video
 categories:

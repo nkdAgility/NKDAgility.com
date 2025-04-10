@@ -51,12 +51,6 @@ tags:
 - Working Software
 - Flow Efficiency
 - Backlog Refinement
-- Business Agility
-- Continuous Improvement
-- Decision Making
-- Lean Product Development
-- Professional Scrum
-- Team Collaboration
 resourceTypes:
 - video
 layout: video

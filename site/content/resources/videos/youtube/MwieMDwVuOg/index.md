@@ -38,7 +38,6 @@ tags:
 - Pragmatic Thinking
 - Organisational Change
 - Large Scale Agility
-- Agnostic Agile
 - Project Management
 - Agile Product Management
 - Software Development

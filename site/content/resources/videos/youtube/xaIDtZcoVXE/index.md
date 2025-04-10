@@ -51,19 +51,6 @@ tags:
 - Business Agility
 - Empirical Process Control
 - Team Performance
-- Throughput
-- Product Validation
-- Forecasting
-- Enterprise Agility
-- Agile Frameworks
-- Agile Product Operating Model
-- Digital Transformation
-- Lean Product Development
-- Release Management
-- Social Technologies
-- Strategic Goals
-- Trend Analysis
-- Value Stream Management
 resourceTypes:
 - video
 categories:

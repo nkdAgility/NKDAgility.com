@@ -49,19 +49,6 @@ tags:
 - Agile Leadership
 - Continuous Improvement
 - Team Collaboration
-- Agile Strategy
-- Common Goals
-- Agile Values and Principles
-- Social Technologies
-- Technical Excellence
-- Throughput
-- Current Value
-- Engineering Practices
-- Metrics and Learning
-- Organisational Agility
-- Technical Mastery
-- Flow Efficiency
-- Transparency
 categories:
 - Scrum
 - Product Development

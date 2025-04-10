@@ -51,14 +51,6 @@ tags:
 - Empirical Process Control
 - Self Organisation
 - Team Performance
-- Enterprise Agility
-- Ability to Innovate
-- Scrum Master
-- Social Technologies
-- Sociotechnical Systems
-- Value Delivery
-- Product Delivery
-- Sensemaking
 resourceTypes:
 - video
 categories:

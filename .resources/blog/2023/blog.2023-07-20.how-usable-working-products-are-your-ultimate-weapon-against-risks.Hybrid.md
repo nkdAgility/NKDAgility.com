@@ -45,16 +45,6 @@ tags:
 - Automated Testing
 - Engineering Practices
 - Product Validation
-- Agile Frameworks
-- Agile Product Operating Model
-- Continuous Delivery
-- Continuous Improvement
-- Metrics and Learning
-- Technical Excellence
-- Test Automation
-- Lean Product Development
-- Agile Values and Principles
-- Deployment Frequency
 categories:
 - Engineering Excellence
 - Product Management

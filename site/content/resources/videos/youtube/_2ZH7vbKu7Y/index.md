@@ -52,7 +52,6 @@ tags:
 - Miscellaneous
 - Organisational Change
 - Organisational Physics
-- Pragmatic Thinking
 categories:
 - Leadership
 

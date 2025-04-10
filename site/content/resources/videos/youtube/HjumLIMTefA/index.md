@@ -51,10 +51,6 @@ tags:
 - Agile Leadership
 - Enterprise Agility
 - Organisational Agility
-- Organisational Physics
-- Scrum Master
-- Empirical Process Control
-- Experimentation
 resourceTypes:
 - video
 categories: []

@@ -49,10 +49,6 @@ tags:
 - Continuous Improvement
 - Empirical Process Control
 - Test First Development
-- Team Collaboration
-- Decision Making
-- Scrum Master
-- Technical Mastery
 categories:
 - Scrum
 - Engineering Excellence

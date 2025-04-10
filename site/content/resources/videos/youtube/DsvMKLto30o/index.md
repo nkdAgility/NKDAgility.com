@@ -47,21 +47,6 @@ tags:
 - Technical Mastery
 - Agile Philosophy
 - Agile Strategy
-- Agile Transformation
-- Application Lifecycle Management
-- Change Management
-- Complexity Thinking
-- Continuous Integration
-- Enterprise Agility
-- Lean Product Development
-- Organisational Change
-- Release Management
-- Sociotechnical Systems
-- Technical Excellence
-- Windows
-- Engineering Practices
-- Organisational Physics
-- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

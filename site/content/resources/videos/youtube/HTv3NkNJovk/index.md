@@ -49,18 +49,6 @@ tags:
 - Sociotechnical Systems
 - Software Development
 - Value Delivery
-- Metrics and Learning
-- Change Management
-- Competence
-- Complexity Thinking
-- Continuous Improvement
-- Experimentation
-- Market Adaptability
-- Self Organisation
-- Team Collaboration
-- Team Motivation
-- Decision Making
-- Team Performance
 resourceTypes:
 - video
 categories:

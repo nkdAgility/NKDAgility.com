@@ -48,13 +48,6 @@ tags:
 - Operational Practices
 - Continuous Improvement
 - Evidence Based Leadership
-- Agile Strategy
-- Metrics and Learning
-- Organisational Agility
-- Product Delivery
-- Market Adaptability
-- Value Delivery
-- Customer Feedback Loops
 resourceTypes:
 - video
 layout: video

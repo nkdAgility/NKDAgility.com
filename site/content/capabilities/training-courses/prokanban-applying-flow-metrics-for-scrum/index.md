@@ -51,9 +51,6 @@ tags:
 - Product Backlog
 - Scrum Master
 - Competence
-- Decision Making
-- Product Delivery
-- Team Collaboration
 categories:
 - Scrum
 preview: NKDAgility-Courses-AFMS-16x9-1.jpg

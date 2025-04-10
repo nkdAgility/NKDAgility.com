@@ -51,18 +51,6 @@ tags:
 - Agile Values and Principles
 - Increment
 - Agile Product Operating Model
-- Continuous Improvement
-- Customer Satisfaction
-- Lean Startup
-- Market Adaptability
-- Organisational Agility
-- Product Discovery
-- Team Performance
-- Experimentation
-- Business Agility
-- Hypothesis Driven Development
-- Metrics and Learning
-- Throughput
 resourceTypes:
 - video
 layout: video

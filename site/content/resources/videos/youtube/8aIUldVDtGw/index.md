@@ -51,11 +51,6 @@ tags:
 - Continuous Improvement
 - Lean Product Development
 - Scrum Team
-- Team Collaboration
-- Organisational Agility
-- Professional Scrum
-- Scrum Master
-- Organisational Physics
 resourceTypes:
 - video
 categories:

@@ -48,16 +48,6 @@ tags:
 - Beta Codex
 - Empirical Process Control
 - Sociotechnical Systems
-- Sensemaking
-- Competence
-- Ability to Innovate
-- Agile Product Management
-- Digital Transformation
-- Social Technologies
-- Strategic Goals
-- Systems Thinking
-- Value Delivery
-- Experimentation
 categories:
 - Leadership
 - Technical Leadership

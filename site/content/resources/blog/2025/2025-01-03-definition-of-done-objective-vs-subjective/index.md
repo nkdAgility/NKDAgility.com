@@ -44,18 +44,6 @@ tags:
 - Scrum Team
 - Technical Excellence
 - Agile Philosophy
-- Agile Values and Principles
-- Automated Testing
-- Organisational Agility
-- Product Owner
-- Common Goals
-- Agile Strategy
-- Agile Transformation
-- Continuous Improvement
-- Decision Making
-- Scrum Master
-- Team Collaboration
-- Metrics and Learning
 categories:
 - Scrum
 - Product Management

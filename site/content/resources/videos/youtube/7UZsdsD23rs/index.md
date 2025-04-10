@@ -47,12 +47,6 @@ tags:
 - Market Adaptability
 - Product Delivery
 - Value Delivery
-- Transparency
-- Business Agility
-- Evidence Based Leadership
-- Social Technologies
-- Working Software
-- Decision Making
 resourceTypes:
 - video
 layout: video

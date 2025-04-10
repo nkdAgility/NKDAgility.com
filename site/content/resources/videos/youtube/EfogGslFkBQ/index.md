@@ -51,8 +51,6 @@ tags:
 - Empirical Process Control
 - Evidence Based Management
 - Organisational Agility
-- Agile Frameworks
-- Agile Product Management
 resourceTypes:
 - video
 categories: []

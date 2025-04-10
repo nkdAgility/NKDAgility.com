@@ -46,10 +46,6 @@ tags:
 - Competence
 - Continuous Improvement
 - Continuous Learning
-- Enterprise Agility
-- Operational Practices
-- Sociotechnical Systems
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

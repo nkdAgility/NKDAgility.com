@@ -52,17 +52,6 @@ tags:
 - Team Performance
 - Lead Time
 - Agile Frameworks
-- Digital Transformation
-- Social Technologies
-- Sociotechnical Systems
-- Test Automation
-- Value Delivery
-- Throughput
-- Decision Making
-- Empirical Process Control
-- Market Adaptability
-- Organisational Change
-- Agile Philosophy
 resourceTypes:
 - video
 categories:

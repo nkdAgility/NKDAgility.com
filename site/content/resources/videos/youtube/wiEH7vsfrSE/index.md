@@ -51,8 +51,6 @@ tags:
 - Social Technologies
 - Strategic Goals
 - Systems Thinking
-- Value Delivery
-- Sensemaking
 resourceTypes:
 - video
 categories:

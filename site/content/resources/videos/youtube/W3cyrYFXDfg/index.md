@@ -51,13 +51,6 @@ tags:
 - Business Agility
 - Change Management
 - Common Goals
-- Enterprise Agility
-- Metrics and Learning
-- Operational Practices
-- Social Technologies
-- Strategic Goals
-- Team Performance
-- Organisational Psychology
 resourceTypes:
 - video
 categories:

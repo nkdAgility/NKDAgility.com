@@ -51,7 +51,6 @@ tags:
 - Flow Efficiency
 - Value Delivery
 - Team Collaboration
-- Lean Thinking
 resourceTypes:
 - video
 categories:

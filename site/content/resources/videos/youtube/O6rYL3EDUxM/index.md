@@ -51,19 +51,6 @@ tags:
 - Organisational Agility
 - Organisational Change
 - Competence
-- Deployment Frequency
-- Organisational Culture
-- Team Performance
-- Value Delivery
-- Increment
-- Business Agility
-- Change Management
-- Continuous Delivery
-- Customer Feedback Loops
-- Decision Making
-- Enterprise Agility
-- Metrics and Learning
-- Transparency
 resourceTypes:
 - video
 categories:

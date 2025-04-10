@@ -49,12 +49,6 @@ tags:
 - Social Technologies
 - Sociotechnical Systems
 - Strategic Goals
-- Business Agility
-- Market Adaptability
-- Product Delivery
-- Sensemaking
-- Team Performance
-- Decision Theory
 resourceTypes:
 - video
 layout: video

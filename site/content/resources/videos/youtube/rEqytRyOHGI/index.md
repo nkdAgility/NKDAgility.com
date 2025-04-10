@@ -50,8 +50,6 @@ tags:
 - Agile Frameworks
 - Value Delivery
 - Azure DevOps
-- Business Agility
-- Continuous Delivery
 resourceTypes:
 - video
 categories:

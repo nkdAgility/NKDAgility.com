@@ -50,13 +50,6 @@ tags:
 - Team Collaboration
 - Value Delivery
 - Continuous Improvement
-- Decision Making
-- Operational Practices
-- Organisational Agility
-- Scrum Master
-- Customer Satisfaction
-- Social Technologies
-- Transparency
 resourceTypes:
 - video
 categories:

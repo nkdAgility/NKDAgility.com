@@ -49,8 +49,6 @@ tags:
 - Operational Practices
 - Value Delivery
 - Scrum Master
-- Decision Making
-- Forecasting
 categories:
 - Scrum
 preview: image-9-14-14.png

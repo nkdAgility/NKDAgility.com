@@ -46,8 +46,6 @@ tags:
 - Pragmatic Thinking
 - Business Agility
 - Enterprise Agility
-- Product Delivery
-- Strategic Goals
 sitemap:
   filename: sitemap.xml
   priority: 0.6

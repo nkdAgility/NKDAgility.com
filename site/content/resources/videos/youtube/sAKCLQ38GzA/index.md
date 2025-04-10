@@ -49,12 +49,6 @@ tags:
 - Product Strategy
 - Social Technologies
 - Sociotechnical Systems
-- Strategic Goals
-- Team Collaboration
-- Value Delivery
-- Agile Frameworks
-- Business Agility
-- Team Performance
 resourceTypes:
 - video
 categories:

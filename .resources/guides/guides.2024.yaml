@@ -1,858 +1,4 @@
 - FrontMatter:
-    title: Kanban Guide for Scrum Teams
-    description: The flow-based perspective of Kanban can enhance and complement the Scrum framework and its implementation.
-    ResourceId: Z3HzXH_nmmz
-    ResourceImport: false
-    ResourceType: guides
-    ResourceContentOrigin: Human
-    resourceTypes: guide
-    layout: guide
-    aliases:
-    - /guides/Kanban-Guide-for-Scrum-Teams.html
-    - /learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams
-    - /resources/Z3HzXH_nmmz
-    aliasesArchive:
-    - /guides/Kanban-Guide-for-Scrum-Teams.html
-    - /learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams
-    references:
-    - title: The Kanban Guide for Scrum Teams on Scrum.org
-      url: https://scrum.org/resources/kanban-guide-scrum-teams
-    - title: Work can flow across the Sprint boundary
-      url: https://nkdagility.com/blog/work-can-flow-across-sprint-boundary/
-    - title: No Estimates and is it advisable for a Scrum Team to adopt it?
-      url: https://nkdagility.com/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it/
-    recommendedContent:
-    - collection: practices
-      path: _practices/service-level-expectation-sle.md
-    date: 2024-09-17
-    weight: 840
-    creator: Martin Hinshelwood
-    card:
-      button:
-        content: Learn More
-      content: Discover more about Kanban Guide for Scrum Teams and how it can help you in your Agile journey!
-      title: Kanban Guide for Scrum Teams
-    categories:
-    - Kanban
-    tags:
-    - Software Development
-    - Flow Efficiency
-    - Operational Practices
-    - Metrics and Learning
-    - Transparency
-    - Value Delivery
-    - Agile Frameworks
-    - Empirical Process Control
-    - Throughput
-    - Cycle Time
-    - Scrum Team
-    - Pragmatic Thinking
-    - Team Performance
-    - Agile Product Management
-    - Increment
-    - Team Collaboration
-    - Product Delivery
-    - Agile Planning
-    - Continuous Improvement
-    - Working Software
-    - Forecasting
-    - Lean Principles
-  BodyContent: |
-    The flow-based perspective of Kanban can enhance and complement the Scrum framework and its implementation. Teams can add complementary Kanban practices whether they are just starting to use Scrum or have been using it all along. The Kanban Guide for Scrum Teams is the result of a collaboration between members of the Scrum.org community and leaders of the Kanban community. Together, they stand behind The Kanban Guide for Scrum Teams. It is their shared belief that professional product development practitioners can benefit from the application of Kanban together with Scrum.
-    {: .lead}
-
-    ### Relation to the Scrum Guide
-
-    This guide does not replace or discount any part of The Scrum Guide. It is designed to enhance and expand the practices of Scrum. This guide assumes the reader is operating a process using the Scrum framework. Therefore, The Scrum Guide applies in its entirety.
-
-    ## Definition of Kanban
-
-    Kanban (n): a strategy for optimizing the flow of value through a process that uses a visual, work-in-progress limited pull system.
-
-    ## Kanban with Scrum Theory
-
-    ### Flow and Empiricism
-
-    Central to the definition of Kanban is the concept of flow. Flow is the movement of value throughout the product development system. Kanban optimizes flow by improving the overall efficiency, effectiveness, and predictability of a process. Optimizing flow in a Scrum context requires defining what flow means in Scrum. Scrum is founded on empirical process control theory, or empiricism. Key to empirical process control is the frequency of the transparency, inspection, and adaptation cycle – which we can also describe as the cycle time through the feedback loop. When Kanban practices are applied to Scrum, they provide a focus on improving the flow through the feedback loop; optimizing transparency and the frequency of inspection and adaptation for both the product and the process.
-
-    ### The Basic Metrics of Flow
-
-    The four basic metrics of flow that Scrum Teams using Kanban need to track are as follows:
-
-    - **Work in Progress (WIP)**: The number of work items started but not finished. Note the difference between the WIP metric and the policies a Scrum Team uses to limit WIP. The team can use the WIP metric to provide transparency about their progress towards reducing their WIP and improving their flow.
-    - **Cycle Time**: The amount of elapsed time between when a work item starts and when a work item finishes.
-    - **Work Item Age**: The amount of time between when a work item started and the current time. This applies only to items that are still in progress.
-    - **Throughput**: The number of work items finished per unit of time.
-
-    ### Little’s Law – The Key to Governing Flow
-
-    A key tenet governing flow theory is Little’s Law, which is a guideline that establishes the following relationship:
-
-    ![Littles Law](https://nkdagility.com/wp-content/uploads/2020/11/naked-agility-littles-law.jpg)
-
-    Little’s Law reveals that in general, for a given process with a given throughput, the more things that you work on at any given time (on average), the longer it is going to take to finish those things (on average). If cycle times are too long, the first action Scrum Teams should consider is lowering WIP. Most of the other elements of Kanban are built upon the relationship between WIP and cycle time. Little’s Law also shows us how flow theory relies on empiricism by using flow metrics and data to gain transparency into the historical flow and then using that data to inform flow inspection and adaptation experiments.
-
-    ## Kanban Practices
-
-    Scrum Teams can achieve flow optimization by using the following four practices:
-
-    - Visualization of the workflow
-    - Limiting Work in Progress (WIP)
-    - Active management of work items in progress
-    - Inspecting and adapting the team’s definition of “Workflow”
-
-    ### Definition of “Workflow”
-
-    The four Kanban practices are enabled by the Scrum Team’s Definition of Workflow. This definition represents the Scrum Team members’ explicit understanding of what their policies are for following the Kanban practices. This shared understanding improves transparency and enables self-management. Note that the scope of the Definition of Workflow may span beyond the Sprint and the Sprint Backlog. For instance, a Scrum Team‘s Definition of Workflow may encompass flow inside and/or outside of the Sprint. Creating and adapting the Definition of Workflow is the accountability of the relevant roles on the Scrum Team as described in the Scrum Guide. No one outside of the Scrum Team should tell the Scrum Team how to define their Workflow.
-
-    ### Visualization of the Workflow – the Kanban Board
-
-    Visualization using the Kanban board is the way the Scrum Team makes its Workflow transparent. The board’s configuration should prompt the right conversations at the right time and proactively suggest opportunities for improvement. Visualization should include the following:
-
-    - Defined points at which the Scrum Team considers work to have started and to have finished.
-    - A definition of the work items – the individual units of value (stakeholder value, knowledge value, process improvement value) that are flowing through the Scrum Team’s system (most likely Product Backlog items (PBIs)).
-    - A definition of the workflow states that the work items flow through from start to finish (of which there must be at least one active state).
-    - Explicit policies about how work flows through each state (which may include items from a Scrum Team’s Definition of Done and pull policies between stages).
-    - Policies for limiting Work in Progress (WIP).
-
-    ### Limiting Work in Progress (WIP)
-
-    Work in Progress (WIP) refers to the work items the Scrum Team has started but has not yet finished. Scrum Teams using Kanban must explicitly limit the number of these work items in progress. A Scrum Team can explicitly limit WIP however they see fit but should stick to that limit once established. The primary effect of limiting WIP is that it creates a pull system. It is called a pull system because the team starts work (i.e. pulls) on an item only when it is clear that it has the capacity to do so. When the WIP drops below the defined limit, that is the signal to start new work. Note this is different from a push system, which demands that work starts on an item whenever it is requested. Limiting WIP helps flow and improves the Scrum Team’s self-management, focus, commitment, and collaboration.
-
-    ### Active Management of Work Items in Progress
-
-    Limiting WIP is necessary to achieve flow, but it alone is not sufficient. The third practice to establish flow is the active management of work items in progress. Within the Sprint, this management by the Scrum Team can take several forms, including but not limited to the following:
-
-    - Making sure that work items are only pulled into the Workflow at about the same rate that they leave the Workflow.
-    - Ensuring work items aren’t left to age unnecessarily.
-    - Responding quickly to blocked or queued work items as well those that are exceeding the team’s expected Cycle Time levels (See Service Level Expectation – SLE).
-
-    ### Service Level Expectation (SLE)
-
-    A service level expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the Scrum Team’s Workflow. The Scrum Team uses its SLE to find active flow issues and to inspect and adapt in cases of falling below those expectations. The SLE itself has two parts: a range of elapsed days and a probability associated with that period (e.g., 85% of work items should be finished in eight days or less). The SLE should be based on the Scrum Team’s historical Cycle Time, and once calculated, the Scrum Team should make it transparent. If no historical Cycle Time data exists, the Scrum Team should make its best guess and then inspect and adapt once there is enough historical data to do a proper SLE calculation.
-
-    ### Inspect and Adapt the Definition of “Workflow”
-
-    The Scrum Team uses the existing Scrum events to inspect and adapt its Definition of Workflow, thereby helping to improve empiricism and optimizing the value the Scrum Team delivers. The following are aspects of the Definition of Workflow the Scrum Team might adopt:
-
-    - **Visualization policies** – for example, Workflow states – either changing the actual Workflow or bringing more transparency to an area in which the team wants to inspect and adapt.
-    - **How-we-work policies** – these can directly address an impediment. For example, adjusting WIP limits and SLEs or changing the batch size (how often items are pulled between states) can have a dramatic impact.
-
-    ## Flow-Based Events
-
-    Kanban in a Scrum context does not require any additional events to those outlined in The Scrum Guide. However, using a flow-based perspective and metrics in Scrum’s events strengthens Scrum’s empirical approach.
-
-    ### The Sprint
-
-    The Kanban complementary practices don’t invalidate the need for Scrum’s Sprint. The Sprint and its events provide opportunities for inspection and adaptation of both product and process. It’s a common misconception that teams can only deliver value once per Sprint. In fact, they must deliver value at least once per Sprint. Teams using Scrum with Kanban use the Sprint and its events as a feedback improvement loop by collaboratively inspecting and adapting their Definition of Workflow and flow metrics. Kanban practices can help Scrum Teams improve flow and create an environment where decisions are made just-in-time throughout the Sprint based on inspection and adaptation. In this environment, Scrum Teams rely on the Sprint Goal and close collaboration within the Scrum Team to optimize the value delivered in the Sprint
-
-    ### Sprint Planning
-
-    A flow-based Sprint Planning meeting uses flow metrics as an aid for developing the Sprint Backlog. Reviewing historical throughput can help a Scrum Team understand their capacity for the next Sprint.
-
-    ### Daily Scrum
-
-    A flow-based Daily Scrum focuses the Developers on doing everything they can to maintain consistent flow. While the goal of the Daily Scrum remains the same as outlined in The Scrum Guide, the meeting itself takes place around the Kanban board and focuses on where flow is lacking and on what actions the Developers can take to get it back. Additional things to consider during a flow-based Daily Scrum include the following:
-    What work items are blocked and what can be done to get them unblocked?
-    What work is flowing slower than expected? What is the Work Item Age of each item in progress? What work items have violated or are about to violate their SLE and what can the Scrum Team do to get that work completed?
-    Are there any factors not represented on the board that may impact our ability to complete work today?
-    Have we learned anything new that might change what the Scrum Team has planned to work on next?
-    Have we broken our WIP limit? And what can we do to ensure we can complete the work in progress?
-
-    ### Sprint Review
-
-    The Scrum Guide provides an outline of the Sprint Review. Inspecting Kanban flow metrics as part of the review can create opportunities for new conversations about monitoring progress towards the Product Goal. Reviewing Throughput can provide additional information when the Product Owner discusses likely delivery dates.
-
-    ### Sprint Retrospective
-
-    A flow-based Sprint Retrospective adds the inspection of flow metrics and analytics to help determine what improvements the Scrum Team can make to its processes. The Scrum Team using Kanban also inspects and adapts the Definition of Workflow to optimize the flow in the next Sprint. Using a cumulative flow diagram to visualize a Scrum Team’s WIP, approximate average Cycle Time and average Throughput can be valuable. In addition to the Sprint Retrospective, the Scrum Team should consider taking advantage of process inspection and adaptation opportunities as they emerge throughout the Sprint. Similarly, changes to a Scrum Team’s Definition of Workflow may happen at any time. Because these changes will have a material impact on how the Scrum Team performs, changes made during the regular cadence provided by the Sprint Retrospective event will reduce complexity and improve focus, commitment and transparency.
-
-    ### Increment
-
-    Scrum requires the team to create (at minimum) a valuable, useful Increment every Sprint. Scrum’s empiricism encourages the creation of multiple valuable increments during the Sprint to enable fast inspect and adapt feedback loops. Kanban helps manage the flow of these feedback loops more explicitly and allows the Scrum Team to identify bottlenecks, constraints, and impediments to enable this faster, more continuous delivery of value
-    Check our blog for more details
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\kanban-guide-for-scrum-teams\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\kanban-guide-for-scrum-teams
-- FrontMatter:
-    title: 'The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty'
-    description: Evidence-Based Management (EBM) is an empirical approach that helps organizations to continuously improve customer outcomes, organizational capabilities, and business results under conditions of uncertainty.
-    ResourceId: Rv0ZjvwYVy5
-    ResourceImport: false
-    ResourceType: guides
-    ResourceContentOrigin: Human
-    resourceTypes: guide
-    layout: guide
-    aliesses:
-    - /learn/agile-delivery-kit/guides/evidence-based-management-guide-2020
-    - practices/evidence-based-management-guide-2020
-    - practices/evidence-based-management-guide-2020.html
-    - guides/evidence-based-management-guide-2020
-    - guides/evidence-based-management-guide-2020.html
-    references:
-    - title: The Evidence-Based Management Guide | Scrum.org
-      url: https://scrum.org/resources/evidence-based-management-guide
-    - title: 'Evidence-based Management: Gathering the metrics'
-      url: https://nkdagility.com/blog/evidence-based-management-gathering-metrics/
-    - title: Metrics that matter with evidence-based management
-      url: https://nkdagility.com/blog/metrics-that-matter-with-evidence-based-management/
-    - title: 'Evidence-based Management: Gathering the metrics'
-      url: https://nkdagility.com/blog/evidence-based-management-gathering-metrics/
-    - title: Professional Agile Leadership with Evidence-Based Management (PAL-EBM)
-      url: https://nkdagility.com/training/courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification-measuring-value-to-enable-improvement-and-agility/
-    recommendedContent: 
-    videos: 
-    date: 2024-09-17
-    weight: 360
-    creator: Martin Hinshelwood
-    card:
-      button:
-        content: Learn More
-      content: Discover more about "The Evidence-Based Management Guide and how it can help you in your Agile journey!
-      title: 'The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty'
-    aliases:
-    - /resources/Rv0ZjvwYVy5
-    categories:
-    - Product Management
-    - Engineering Excellence
-    - Scrum
-    tags:
-    - Evidence Based Management
-    - Ability to Innovate
-    - Continuous Improvement
-    - Decision Making
-    - Evidence Based Leadership
-    - Experimentation
-    - Metrics and Learning
-    - Value Delivery
-    - Empirical Process Control
-    - Hypothesis Driven Development
-    - Software Development
-    - Operational Practices
-    - Business Agility
-    - Organisational Agility
-    - Agile Philosophy
-    - Agile Product Management
-    - Continuous Learning
-    - Digital Transformation
-    - Enterprise Agility
-    - Sensemaking
-    - Common Goals
-    - Customer Satisfaction
-    - Product Strategy
-    - Social Technologies
-    - Agile Strategy
-    - Market Adaptability
-    - Pragmatic Thinking
-    - Strategic Goals
-    - Product Delivery
-    - Decision Theory
-    - Product Validation
-    - Value Stream Management
-    - Agile Transformation
-    - Complexity Thinking
-    - Organisational Change
-    - Competence
-    - Lead Time
-    - Agile Frameworks
-    - Sociotechnical Systems
-    - Transparency
-    - Trend Analysis
-    - Agile Product Operating Model
-    - Organisational Physics
-    - Revenue per Employee
-    - Lean Startup
-    - Agentic Agility
-  BodyContent: |
-    Evidence-Based Management (EBM) is an empirical approach that helps organizations to continuously improve customer outcomes, organizational capabilities, and business results under conditions of uncertainty. It provides a framework for organizations to improve their ability to deliver value in an uncertain world, seeking a path toward strategic goals. Using intentional experimentation and evidence (measures), EBM enables organizations to systematically improve their performance over time and refine their goals based on better information
-    By measuring current conditions, setting performance goals, forming small experiments for improvement that can be run quickly, measuring the effect of the experiment, and inspecting and adapting goals and next steps, EBM helps organizations to take into account the best available evidence to help them make decisions on ways to improve.
-
-    This Guide defines EBM, its concepts, and its application.
-
-    ## Seek Goals using Empiricism
-
-    Complex problems defy easy solutions, but instead require organizations seek toward their goals in a series of small steps, inspecting the results of each step, and adapting their next actions based on feedback.
-
-    This model has several key elements:
-
-    - A **Strategic Goal**, which is something important that the organization would like to achieve. This goal is so big and far away, with many uncertainties along the journey that the organization must use empiricism. Because the Strategic Goal is aspirational and the path to it is uncertain, the organization needs a series of practical targets, like
-    - **Intermediate Goals**, achievements of which will indicate that the organization is on the path to its Strategic Goal. The path to the Intermediate Goal is often still somewhat uncertain, but not completely unknown.
-    - **Immediate Tactical Goals**, critical near-term objectives toward which a team or group of teams will work help toward Intermediate Goals.
-    - A **Starting State**, which is where the organization is relative to the Strategic Goal when it starts its journey.
-    - A **Current State**, which is where the organization is relative to the Strategic Goal at the
-      present time.
-
-    In order to progress toward the Strategic Goal, organizations run experiments which involve forming hypotheses that are intended to advance the organization toward their current Intermediate Goal. As they run these experiments and gather results, they use the evidence they obtain to evaluate their goals and determine their next steps to advance toward these goals.
-
-    ![Reaching strategic goals requires experimenting, inspecting, and adapting](https://nkdagility.com/wp-content/uploads/2020/11/naked-agility-hypothesis-driven-480x450.jpg)
-
-    ## Setting Goals
-
-    When setting goals, organizations must define specific measures that will indicate that the goal is achieved. Goals, measures, and experiments should be made transparent in order to encourage organizational alignment.
-    Consider the case of the response to an infectious disease:
-
-    - The Strategic Goal is to eradicate the effects of the disease, as measured by the number of people who fall ill and suffer significant illness. Measurement is important; in this example, the goal is focused on the effects of the disease, and not on the means for achieving the desired impact. For example, the goal is not to vaccinate a certain percentage of the population against the disease; that may be an activity necessary to achieving the Strategic Goal, but it is not the Strategic Goal.
-    - An example of an Intermediate Goal is the successful completion of a trial of a vaccine against the disease. This is still ambitious and measurable, and achieving it may require the completion of many different activities, but it is seen as a necessary step on the path to achieving the Strategic Goal.
-      Examples of immediate tactical goals may include activities like isolating symptoms, evaluating a therapy, sequencing the DNA of a virus or bacterium, and so forth.
-    - The Strategic Goal is usually focused on achieving a highly desirable but unrealized outcome for a specific group of people that results in improved happiness, safety, security, or well-being of the recipients of some product or service. In EBM, we refer to this as Unrealized Value, which is the satisfaction gap between a beneficiary’s desired outcome and their current experience. Unrealized Value is described in greater detail below, in the Key-Value Areas section.
-
-    ## Understanding What Is Valuable
-
-    Organizations measure many different kinds of things. Broadly speaking, measures fall into three categories:
-
-    - **Activities**. These are things that people in the organization do, such as perform work, go to meetings, have discussions, write code, create reports, attend conferences, and so forth.
-    - **Outputs**. These are things that the organization produces, such as product releases (including features), reports, defect reports, product reviews, and so on.
-    - **Outcomes**. These are desirable things that a customer or user of a product experiences. They represent some new or improved capability that the customer or user was not able to achieve before. Examples include being able to travel to a destination faster than before or being able to earn or save more money than before. Outcomes can also be negative, as in the case where the value a customer or user experiences declines from previous experiences, for example when a service they previously relied upon is no longer available.
-
-    The problem most organizations face, which is often reflected in the things they measure, is that measuring activities and outputs is easy while measuring outcomes is difficult. Organizations may gather a lot of data with insufficient information about their ability to deliver value. However, delivering valuable outcomes to customers is essential if organizations are to reach their goals. For example, working more hours (activities) and delivering more features (outputs) does not necessarily lead to improved customer experiences (outcomes).
-
-    ## Four Key Value Areas
-
-    In addition to using hypotheses and experiments to move toward goals, EBM provides a set of perspectives on value and the organization’s ability to deliver value. These perspectives are called Key Value Areas (KVAs). These areas examine the goals of the organization (Unrealized Value), the current state of the organization relative to those goals (Current Value), the responsiveness of the organization in delivering value (Time-to-Market), and the effectiveness of the organization in delivering value (Ability-to-Innovate). Focusing on these four dimensions enables organizations to better understand where they are and where they need to go (see
-    Figure 2).
-
-    ![EBM focuses on four Key Value Areas (KVAs)](https://nkdagility.com/wp-content/uploads/2020/11/naked-agility-evidence-based-management-768x394.jpg)
-
-    Each KVA focuses on a different aspect of either value or the ability of the organization to deliver value. Delivering business value (Current Value) is important, but organizations must also show that they can respond to change (Time-to-Market) while being able to sustain innovation over time (Ability-to-Innovate). And they must be able to continually make progress toward their long-term goals (Unrealized Value) or they risk succumbing to stagnation and complacency. Example Key Value Measures (KVMs) for each KVA are described in the Appendix.
-
-    ### Current Value (CV)
-
-    The value that the product delivers today.
-
-    The purpose of looking at CV is to understand the value that an organization delivers to
-    customers and stakeholders at the present time; it considers only what exists right now, not the
-    value that might exist in the future. Questions that organizations need to continually re-evaluate
-    for current value are:
-
-    - How happy are users and customers today? Is their happiness improving or declining?
-    - How happy are your employees today? Is their happiness improving or declining?
-    - How happy are your investors and other stakeholders today? Is their happiness improving or declining?
-
-    Considering CV helps an organization understand the value that their customers or users experience today
-
-    > Example: While profit, one way to measure investor happiness, will tell you the economic impact of the value that you deliver, knowing whether customers are happy with their purchase will tell you more about where you may need to improve to keep those customers. If your customers have few alternatives to your product, you may have high profit even though customer satisfaction is low. Considering CV from several perspectives will give you a better understanding of your challenges and opportunities. Customer happiness and investor happiness also do not tell the whole story about your ability to deliver value. Considering employee attitudes recognizes that employees are ultimately the producers of value. Engaged employees that know how to maintain, sustain and enhance the product are one of the most significant assets of an organization, and happy employees are more engaged and productive.
-
-    ### Unrealized Value (UV)
-
-    The potential future value that could be realized if the organization met the needs of all potential customers or users
-
-    Looking at Unrealized Value helps an organization to maximize the value that it realizes from a product or service over time. When customers, users, or clients experience a gap between their current experience and the experience that they would like to have, the difference between the two represents an opportunity; this opportunity is measured by Unrealized Value.
-
-    Questions that organizations need to continually re-evaluate for UV are:
-
-    - Can any additional value be created by our organization in this market or other markets?
-    - Is it worth the effort and risk to pursue these untapped opportunities?
-    - Should further investments be made to capture additional Unrealized Value?
-
-    The consideration of both CV and UV provides organizations with a way to balance present and possible future benefits. Strategic Goals are formed from some satisfaction gap and an opportunity for an organization to decrease UV by increasing CV.
-
-    > Example: A product may have low CV, because it is an early version being used to test the market, but very high UV, indicating that there is great market potential. Investing in the product to try to boost CV is probably warranted, given the potential returns, even though the product is not currently producing high CV. Conversely, a product with very high CV, large market share, no near competitors, and very satisfied customers may not warrant much new investment; this is the classic cash cow product that is very profitable but nearing the end of its product investment cycle with low UV.
-
-    ### Time-to-Market (T2M)
-
-    The organization’s ability to quickly deliver new capabilities, services, or products
-
-    The reason for looking at T2M is to minimize the amount of time it takes for the organization to deliver value. Without actively managing T2M, the ability to sustainably deliver value in the future is unknown. Questions that organizations need to continually re-evaluate for T2M are:
-
-    - How fast can the organization learn from new experiments and information?
-    - How fast can you adapt based on the information?
-    - How fast can you test new ideas with customers?
-
-    Improving T2M helps improve the frequency at which an organization can potentially change
-    CV.
-
-    > Example: Reducing the number of features in a product release can dramatically improve T2M; the smallest release possible is one that delivers at least some
-    > incremental improvement in value to some subset of the customers/users of the product. Many organizations also focus on removing non value-added activities from the product development and delivery process to improve their T2M.
-
-    ### Ability to Innovate (A2I)
-
-    The effectiveness of an organization to deliver new capabilities that might better meet customer needs
-
-    The goal of looking at the A2I is to maximize the organization’s ability to deliver new capabilities
-    and innovative solutions. Organizations should continually re-evaluate their A2I by asking:
-
-    - What prevents the organization from delivering new value?
-    - What prevents customers or users from benefiting from that innovation?
-    - Improving A2I helps an organization become more effective in ensuring that the work that it does improves the value that its products or services deliver to customers or users.
-
-    > Example: A variety of things can impede an organization from being able to deliver new capabilities and value: spending too much time remedying poor product quality, needing to maintain multiple variations of a product due to lack of operational excellence, lack of decentralized decision-making, inability to hire and inspire talented, passionate team members, and so on.
-    > As low-value features and systemic impediments accumulate, more budget and time is consumed maintaining the product or overcoming impediments, reducing its available capacity to innovate. In addition, anything that prevents users or customers from benefiting from innovation, such as hard to assemble/install products or new versions of products, will also reduce A2I.
-
-    ## Progress toward Goals
-
-    The first step in the journey toward a Strategic Goal is understanding your Current State. If your focus is to achieve a Strategic Goal related to Unrealized Value (UV), as is typically the case, then measuring the Current Value (CV) your product or service delivers is where you should start (of course, if your product or service is new then its CV will be zero). To understand where you need to improve, you may also need to understand your effectiveness (A2I), and your responsiveness (T2M).
-
-    The Experiment Loop (shown in Figure 1) helps organizations move from their Current State toward their Next Target Goal, and ultimately their Strategic Goal, by taking small, measured steps, called experiments, using explicit hypotheses.3 This loop consists of:
-
-    - **Forming a hypothesis for improvement.** Based on experience, form an idea of something you think will help you move toward your Next Target Goal, and decide how you will know whether this experiment succeeded based on measurement.
-    - **Running your experiments.** Make the change you think will help you to improve and gather data to support or refute your hypothesis.
-    - **Inspecting your results. **Did the change you made improve your results based on the measurements you have made? Not all changes do; some changes actually make things worse.
-    - **Adapting your goals or your approach based on what you learned.** Both your goals and your improvement experiments will likely evolve as you learn more about customers, competitors, and your organization’s capabilities. Goals can change because of outside events, and your tactics to reach your goals may need to be reconsidered and revised. Was the Intermediate Goal the right goal? Is the Strategic Goal still relevant? If you achieved the Intermediate Goal, you will need to choose a new Intermediate Goal. If you did not achieve it, you will need to decide whether you need to persevere, stop, or pivot toward something new. If your Strategic Goal is no longer relevant, you will need to either adapt it, or replace it.
-
-    ## Hypotheses, Experiments, Features, and Requirements
-
-    Features are “distinguishing characteristics of a product” , while a requirement is, practically speaking, something that someone thinks would be desirable in a product. A feature description is one kind of requirement.
-
-    Organizations can spend a lot of money implementing features and other requirements in products, only to find that customers don’t share the company’s opinion on their value; beliefs in what is valuable are merely assumptions until they are validated by customers. This is where hypotheses and experiments are useful.
-
-    In simplified terms, a hypothesis is a proposed explanation for some observation that has not yet been proven (or disproven). In the context of requirements, it is a belief that doing something will lead to something else, such as delivering feature X will lead to outcome Y. An experiment is a test that is designed to prove or reject some hypothesis.
-
-    Every feature and every requirement really represent a hypothesis about value. One of the goals of an empirical approach is to make these hypotheses explicit and to consciously design experiments that explicitly test the value of the features and requirements. The entire feature or requirement need not actually be built to determine whether it is valuable; it may be sufficient for a team to simply build enough of it to validate critical assumptions that would prove or disprove its value.
-
-    Explicitly forming hypotheses, measuring results, and inspecting and adapting goals based on those results are implicit parts of an agile approach. Making this work explicit and transparent is what EBM adds to the organizational improvement process.
-
-    ## End Note
-
-    Evidence-Based Management is free and offered in this Guide. Although implementing only parts of EBM is possible, the result is not Evidence-Based Management
-
-    ## Acknowledgements
-
-    Evidence-Based Management was collaboratively developed by Scrum.org, the Professional Scrum Trainer community, Ken Schwaber and Christina Schwaber.
-
-    ## Appendix: Example Key Value Measures
-
-    To encourage adaptability, EBM defines no specific Key Value Measures (KVMs). KVMs listed below are presented to show the kinds of measures that might help an organization to understand its current state, desired future state, and factors that influence its ability to improve.
-
-    ### Current Value (CV)
-
-    | KVM                   | Measuring                                                                                                                                                                                            |
-    | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-    | Revenue per Employee  | The ratio (gross revenue / # of employees) is a key competitive indicator within an industry. This varies significantly by industry.                                                                 |
-    | Product Cost Ratio    | Total expenses and costs for the product(s)/system(s) being measured, including operational costs compared to revenue.                                                                               |
-    | Employee Satisfaction | Some form of sentiment analysis to help gauge employee engagement, energy, and enthusiasm.                                                                                                           |
-    | Customer Satisfaction | Some form of sentiment analysis to help gauge customer engagement and happiness with the product.                                                                                                    |
-    | Customer Usage Index  | Measurement of usage, by feature, to help infer the degree to which customers find the product useful and whether actual usage meets expectations on how long users should be taking with a feature. |
-
-    {: .table .table-striped .table-bordered .d-none .d-md-block}
-
-    ### Unrealized Value (UV)
-
-    | KVM                                         | Measuring                                                                                                                                                       |
-    | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-    | Market Share                                | The relative percentage of the market not controlled by the product; the potential market share that the product might achieve if it better met customer needs. |
-    | Customer or User Satisfaction Gap           | The difference between a customer or user’s desired experience and their current experience.                                                                    |
-    | Desired Customer Experience or satisfaction | A measure that indicates the experience that the customer would like to have.                                                                                   |
-
-    {: .table .table-striped .table-bordered .d-none .d-md-block}
-
-    ### Time-to-Market (T2M)
-
-    | KVM                             | Measuring                                                                                                                                                                                                                                                                                                                                                                                                          |
-    | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-    | Build and Integration Frequency | The number of integrated and tested builds per time period. For a team that is releasing frequently or continuously, this measure is superseded by actual release measures.                                                                                                                                                                                                                                        |
-    | Release Frequency               | The number of releases per time period, e.g. continuously, daily, weekly, monthly, quarterly, etc. This helps reflect the time needed to satisfy the customer with new and competitive products.                                                                                                                                                                                                                   |
-    | Release Stabilization Period    | The time spent correcting product problems between the point the developers say it is ready to release and the point where it is actually released to customers. This helps represent the impact of poor development practices and underlying design and codebase.                                                                                                                                                 |
-    | Mean Time to Repair             | The average amount of time it takes from when an error is detected and when it is fixed. This helps reveal the efficiency of an organization to fix an error.                                                                                                                                                                                                                                                      |
-    | Customer Cycle Time             | The amount of time from when work starts on a release until the point where it is actually released. This measure helps reflect an organization’s ability to reach its customer.                                                                                                                                                                                                                                   |
-    | Lead Time                       | The amount of time from when an idea is proposed or a hypothesis is formed until a customer can benefit from that idea. This measure may vary based on customer and product. It is a contributing factor in customer satisfaction.                                                                                                                                                                                 |
-    | Lead Time for Changes           | The amount of time to go from code-committed to code successfully running in production. For more information, see the DORA 2019 report.                                                                                                                                                                                                                                                                           |
-    | Deployment Frequency            | The number of times that the organization deployed (released) a new version of the product to customers/users. For more information, see the DORA 2019 report.                                                                                                                                                                                                                                                     |
-    | Time to Restore Service         | The amount of time between the start of a service outage and the restoration of full availability of the service. For more information, see the DORA 2019 report.                                                                                                                                                                                                                                                  |
-    | Time-to-Learn                   | The total time needed to sketch an idea or improvement, build it, deliver it to users, and learn from their usage.                                                                                                                                                                                                                                                                                                 |
-    | Time to remove Impediment       | The average amount of time from when an impediment is raised until when it is resolved. It is a contributing factor to lead time and employee satisfaction                                                                                                                                                                                                                                                         |
-    | Time to Pivot                   | A measure of true business agility that presents the elapsed time between when an organization receives feedback or new information and when it responds to that feedback; for example, the time between when it finds out that a competitor has delivered a new market-winning feature to when the organization responds with matching or exceeding new capabilities that measurably improve customer experience. |
-
-    {: .table .table-striped .table-bordered .d-none .d-md-block}
-
-    ### Ability to Innovate (A2I)
-
-    | KVM                                      | Measuring                                                                                                                                                                                                                                                      |
-    | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-    | Innovation Rate                          | The percentage of effort or cost spent on new product capabilities, divided by total product effort or cost. This provides insight into the capacity of the organization to deliver new product capabilities.                                                  |
-    | Defect Trends                            | Measurement of change in defects since the last measurement. A defect is anything that reduces the value of the product to a customer, user, or to the organization itself. Defects are generally things that don’t work as intended.                          |
-    | On-Product Index                         | The percentage of time teams spend working on product and value.                                                                                                                                                                                               |
-    | Installed Version Index                  | The number of versions of a product that are currently being supported. This reflects the effort the organization spends supporting and maintaining older versions of the software.                                                                            |
-    | Technical Debt                           | A concept in programming that reflects the extra development and testing work that arises when “quick and dirty” solutions result in later remediation. It creates an undesirable impact on the delivery of value and an avoidable increase in waste and risk. |
-    | Production Incident Count                | The number of times in a given period that the Development Team was interrupted to fix a problem in an installed product. The number and frequency of Production Incidents can help indicate the stability of the product.                                     |
-    | Active Product (Code) Branches           | The number of different versions (or variants) of a product or service. Provides insight into the potential impact of change and the resulting complexity of work.                                                                                             |
-    | Time Spent Merging Code Between Branches | The amount of time spent applying changes across different versions of a product or service. Provides insight into the potential impact of change and the resulting complexity of work.                                                                        |
-    | Time Spent Context-Switching             | Examples include time lost to interruptions caused by meetings or calls, time spent switching between tasks, and time lost when team members are interrupted to help people outside the team can give simple insight into the magnitude of the problem.        |
-    | Change Failure Rate                      | The percentage of released product changes that result in degraded service and require remediation (e.g. hotfix, rollback, patch). For more information, see the DORA 2019 report.                                                                             |
-
-    {: .table .table-striped .table-bordered .d-none .d-md-block}
-
-    © 2020 Scrum.org
-    This publication is offered for license under the Attribution Share-Alike license of Creative Commons,
-    accessible at http://creativecommons.org/licenses/by-sa/4.0/legalcode and also described in
-    summary form at http://creativecommons.org/licenses/by-sa/4.0/. By utilizing this EBM Guide, you
-    acknowledge and agree that you have read and agree to be bound by the terms of the Attribution
-    Share-Alike license of Creative Commons.
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\evidence-based-management-guide-2020\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\evidence-based-management-guide-2020
-- FrontMatter:
-    title: The Scrum Guide
-    description: The Scrum Guide contains the definition of Scrum.
-    ResourceId: 59gcHh1fYtC
-    ResourceImport: false
-    ResourceType: guides
-    ResourceContentOrigin: Human
-    resourceTypes: guide
-    layout: guide
-    aliases:
-    - /guides/Scrum-Guide/
-    - /guides/Scrum-Guide.html
-    - /learn/agile-delivery-kit/guides/scrum-guide
-    - /resources/guides/_guides/scrum-guide.md
-    - /resources/59gcHh1fYtC
-    aliasesArchive:
-    - /guides/Scrum-Guide/
-    - /guides/Scrum-Guide.html
-    - /learn/agile-delivery-kit/guides/scrum-guide
-    - /resources/guides/_guides/scrum-guide.md
-    downloads:
-    - title: Scrum Guide 2020
-      type: pdf
-      url: /assets/attachments/Scrum-Guide-2020.pdf
-    - title: Scrum Guide 2017
-      type: pdf
-      url: /assets/attachments/Scrum-Guide-2017.pdf
-    - title: Scrum Guide 2016
-      type: pdf
-      url: /assets/attachments/Scrum-Guide-2016.pdf
-    - title: Scrum Guide 2013
-      type: pdf
-      url: /assets/attachments/Scrum-Guide-2013-07.pdf
-    - title: Scrum Guide 2011 v2
-      type: pdf
-      url: /assets/attachments/2011-07-Scrum_Guide.pdf
-    - title: Scrum Guide 2011
-      type: pdf
-      url: /assets/attachments/Scrum-Guide-2011-07.pdf
-    - title: Scrum Guide 2010
-      type: pdf
-      url: /assets/attachments/Scrum-Guide-2010-v1-Scrum-Alliance.pdf
-    references:
-    - title: The 2020 Scrum Guide
-      url: https://scrumguides.org/scrum-guide.html
-    recommendedContent:
-    - collection: practices
-      path: _practices/definition-of-done-dod.md
-    - collection: practices
-      path: _practices/definition-of-ready-dor.md
-    videos:
-    - title: Overview of The Scrum Framework with Martin Hinshelwood
-      embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
-    date: 2024-09-17
-    weight: 690
-    creator: Martin Hinshelwood
-    card:
-      button:
-        content: Learn More
-      content: Discover more about The Scrum Guide and how it can help you in your Agile journey!
-      title: The Scrum Guide
-    categories:
-    - Scrum
-    tags:
-    - Professional Scrum
-    - Transparency
-    - Agile Frameworks
-    - Scrum Team
-    - Empirical Process Control
-    - Agile Product Management
-    - Software Development
-    - Value Delivery
-    - Product Backlog
-    - Scrum Master
-    - Scrum Values
-    - Agile Planning
-    - Product Delivery
-    - Team Performance
-    - Sprint Review
-    - Increment
-    - Definition of Done
-    - Agile Transformation
-    - Product Owner
-    - Working Software
-    - Self Organisation
-    - Daily Scrum
-    - Cross Functional Teams
-    - Team Collaboration
-    - Operational Practices
-    - Pragmatic Thinking
-  BodyContent: |
-    The Scrum Guide is the rule book, or timber frame, of Scrum and is immutable of definition but not of implementation. If you have already read the Scrum Guide and are looking more for a Strategy Guide then head over to the Scrum Strategy Guide.
-    {: .lead}
-
-    NOTE: Extracted from the [Scrum Guide 2020](https://scrumguides.org/){:target="\_blank"}
-
-    ## Purpose of the Scrum Guide
-
-    We developed Scrum in the early 1990s. We wrote the first version of the Scrum Guide in 2010 to help people worldwide understand Scrum. We have evolved the Guide since then through small, functional updates. Together, we stand behind it.
-
-    The Scrum Guide contains the definition of Scrum. Each element of the framework serves a specific purpose that is essential to the overall value and results realized with Scrum. Changing the core design or ideas of Scrum, leaving out elements, or not following the rules of Scrum, covers up problems and limits the benefits of Scrum, potentially even rendering it useless.
-
-    We follow the growing use of Scrum within an ever-growing complex world. We are humbled to see Scrum being adopted in many domains holding essentially complex work, beyond software product development where Scrum has its roots. As Scrum's use spreads, developers, researchers, analysts, scientists, and other specialists do the work. We use the word “developers” in Scrum not to exclude, but to simplify. If you get value from Scrum, consider yourself included.
-
-    As Scrum is being used, patterns, processes, and insights that fit the Scrum framework as described in this document, may be found, applied and devised. Their description is beyond the purpose of the Scrum Guide because they are context-sensitive and differ widely between Scrum uses. Such tactics for using within the Scrum framework vary widely and are described elsewhere.
-
-    ![The Scrum Framework](https://nkdagility.com/wp-content/uploads/2020/11/naked-Agility-Scrum-Framework-575x450.jpg)
-
-    ## Scrum Definition
-
-    Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.
-
-    In a nutshell, Scrum requires a Scrum Master to foster an environment where:
-
-    1. A Product Owner orders the work for a complex problem into a Product Backlog.
-    1. The Scrum Team turns a selection of the work into an Increment of value during a Sprint.
-    1. The Scrum Team and its stakeholders inspect the results and adjust for the next Sprint.
-       Repeat
-
-    Scrum is simple. Try it as is and determine if its philosophy, theory, and structure help to achieve goals and create value. The Scrum framework is purposefully incomplete, only defining the parts required to implement Scrum theory. Scrum is built upon by the collective intelligence of the people using it. Rather than provide people with detailed instructions, the rules of Scrum guide their relationships and interactions.
-
-    Various processes, techniques and methods can be employed within the framework. Scrum wraps around existing practices or renders them unnecessary. Scrum makes visible the relative efficacy of current management, environment, and work techniques so that improvements can be made.
-
-    ## Scrum Theory
-
-    Scrum is founded on empiricism and lean thinking. Empiricism asserts that knowledge comes from experience and making decisions based on what is observed. Lean thinking reduces waste and focuses on the essentials.
-
-    Scrum employs an iterative, incremental approach to optimize predictability and to control risk. Scrum engages groups of people who collectively have all the skills and expertise to do the work and share or acquire such skills as needed.
-
-    Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint. These events work because they implement the empirical Scrum pillars of transparency, inspection, and adaptation.
-
-    ### Transparency
-
-    The emergent process and work must be visible to those performing the work as well as those receiving the work. With Scrum, important decisions are based on the perceived state of its three formal artefacts. Artefacts that have low transparency can lead to decisions that diminish value and increase risk.
-
-    Transparency enables inspection. Inspection without transparency is misleading and wasteful.
-
-    ### Inspection
-
-    The Scrum artefacts and the progress toward agreed goals must be inspected frequently and diligently to detect potentially undesirable variances or problems. To help with inspection, Scrum provides cadence in the form of its five events.
-
-    Inspection enables adaptation. Inspection without adaptation is considered pointless. Scrum events are designed to provoke change.
-
-    ### Adaptation
-
-    If any aspects of a process deviate outside acceptable limits or if the resulting product is unacceptable, the process being applied or the materials being produced must be adjusted. The adjustment must be made as soon as possible to minimize further deviation.
-
-    Adaptation becomes more difficult when the people involved are not empowered or self-managing. A Scrum Team is expected to adapt the moment it learns anything new through inspection.
-
-    ## Scrum Values
-
-    Successful use of Scrum depends on people becoming more proficient in living five values:
-
-    _Commitment, Focus, Openness, Respect, and Courage_
-
-    The Scrum Team commits to achieving its goals and to supporting each other. Their primary focus is on the work of the Sprint to make the best possible progress toward these goals. The Scrum Team and its stakeholders are open about the work and the challenges. Scrum Team members respect each other to be capable, independent people, and are respected as such by the people with whom they work. The Scrum Team members have the courage to do the right thing, to work on tough problems.
-
-    These values give direction to the Scrum Team with regard to their work, actions, and behaviour. The decisions that are made, the steps taken, and the way Scrum is used should reinforce these values, not diminish or undermine them. The Scrum Team members learn and explore the values as they work with the Scrum events and artifacts. When these values are embodied by the Scrum Team and the people they work with, the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust.
-
-    ## Scrum Team
-
-    The fundamental unit of Scrum is a small team of people, a Scrum Team. The Scrum Team consists of one Scrum Master, one Product Owner, and Developers. Within a Scrum Team, there are no sub-teams or hierarchies. It is a cohesive unit of professionals focused on one objective at a time, the Product Goal.
-
-    Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint. They are also self-managing, meaning they internally decide who does what, when, and how.
-
-    The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint, typically 10 or fewer people. In general, we have found that smaller teams communicate better and are more productive. If Scrum Teams become too large, they should consider reorganizing into multiple cohesive Scrum Teams, each focused on the same product. Therefore, they should share the same Product Goal, Product Backlog, and Product Owner.
-
-    The Scrum Team is responsible for all product-related activities from stakeholder collaboration, verification, maintenance, operation, experimentation, research and development, and anything else that might be required. They are structured and empowered by the organization to manage their own work. Working in Sprints at a sustainable pace improves the Scrum Team's focus and consistency.
-
-    The entire Scrum Team is accountable for creating a valuable, useful Increment every Sprint. Scrum defines three specific accountabilities within the Scrum Team: the Developers, the Product Owner, and the Scrum Master.
-
-    ### Developers
-
-    Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint.
-
-    The specific skills needed by the Developers are often broad and will vary with the domain of work. However, the Developers are always accountable for:
-
-    - Creating a plan for the Sprint, the Sprint Backlog;
-    - Instilling quality by adhering to a Definition of Done;
-    - Adapting their plan each day toward the Sprint Goal; and,
-    - Holding each other accountable as professionals.
-
-    ### Product Owner
-
-    The Product Owner is accountable for maximizing the value of the product resulting from the work of the Scrum Team. How this is done may vary widely across organizations, Scrum Teams, and individuals.
-
-    The Product Owner is also accountable for effective Product Backlog management, which includes:
-
-    - Developing and explicitly communicating the Product Goal;
-    - Creating and clearly communicating Product Backlog items;
-    - Ordering Product Backlog items; and,
-    - Ensuring that the Product Backlog is transparent, visible and understood.
-
-    The Product Owner may do the above work or may delegate the responsibility to others. Regardless, the Product Owner remains accountable.
-
-    For Product Owners to succeed, the entire organization must respect their decisions. These decisions are visible in the content and ordering of the Product Backlog, and through the inspectable Increment at the Sprint Review.
-
-    The Product Owner is one person, not a committee. The Product Owner may represent the needs of many stakeholders in the Product Backlog. Those wanting to change the Product Backlog can do so by trying to convince the Product Owner.
-
-    ### Scrum Master
-
-    The Scrum Master is accountable for establishing Scrum as defined in the Scrum Guide. They do this by helping everyone understand Scrum theory and practice, both within the Scrum Team and the organization.
-
-    The Scrum Master is accountable for the Scrum Team's effectiveness. They do this by enabling the Scrum Team to improve its practices, within the Scrum framework.
-
-    Scrum Masters are true leaders who serve the Scrum Team and the larger organization.
-
-    The Scrum Master serves the Scrum Team in several ways, including:
-
-    - Coaching the team members in self-management and cross-functionality;
-    - Helping the Scrum Team focus on creating high-value Increments that meet the Definition of Done;
-    - Causing the removal of impediments to the Scrum Team's progress; and,
-    - Ensuring that all Scrum events take place and are positive, productive, and kept within the timebox.
-
-    The Scrum Master serves the Product Owner in several ways, including:
-
-    - Helping find techniques for effective Product Goal definition and Product Backlog management;
-    - Helping the Scrum Team understand the need for clear and concise Product Backlog items;
-    - Helping establish empirical product planning for a complex environment; and,
-    - Facilitating stakeholder collaboration as requested or needed.
-
-    The Scrum Master serves the organization in several ways, including:
-
-    - Leading, training, and coaching the organization in its Scrum adoption;
-    - Planning and advising Scrum implementations within the organization;
-    - Helping employees and stakeholders understand and enact an empirical approach for complex work; and,
-    - Removing barriers between stakeholders and Scrum Teams.
-
-    ## Scrum Events
-
-    The Sprint is a container for all other events. Each event in Scrum is a formal opportunity to inspect and adapt Scrum artefacts. These events are specifically designed to enable the transparency required. Failure to operate any events as prescribed results in lost opportunities to inspect and adapt. Events are used in Scrum to create regularity and to minimize the need for meetings not defined in Scrum.
-
-    Optimally, all events are held at the same time and place to reduce complexity.
-
-    ### The Sprint
-
-    Sprints are the heartbeat of Scrum, where ideas are turned into value.
-
-    They are fixed length events of one month or less to create consistency. A new Sprint starts immediately after the conclusion of the previous Sprint.
-
-    All the work necessary to achieve the Product Goal, including Sprint Planning, Daily Scrums, Sprint Review, and Sprint Retrospective, happen within Sprints.
-
-    During the Sprint:
-
-    - No changes are made that would endanger the Sprint Goal;
-    - Quality does not decrease;
-    - The Product Backlog is refined as needed; and,
-    - Scope may be clarified and renegotiated with the Product Owner as more is learned.
-
-    Sprints enable predictability by ensuring inspection and adaptation of progress toward a Product Goal at least every calendar month. When a Sprint's horizon is too long the Sprint Goal may become invalid, complexity may rise, and risk may increase. Shorter Sprints can be employed to generate more learning cycles and limit risk of cost and effort to a smaller time frame. Each Sprint may be considered a short project.
-
-    Various practices exist to forecast progress, like burn-downs, burn-ups, or cumulative flows. While proven useful, these do not replace the importance of empiricism. In complex environments, what will happen is unknown. Only what has already happened may be used for forward-looking decision making.
-
-    A Sprint could be cancelled if the Sprint Goal becomes obsolete. Only the Product Owner has the authority to cancel the Sprint.
-
-    ### Sprint Planning
-
-    Sprint Planning initiates the Sprint by laying out the work to be performed for the Sprint. This resulting plan is created by the collaborative work of the entire Scrum Team.
-
-    The Product Owner ensures that attendees are prepared to discuss the most important Product Backlog items and how they map to the Product Goal. The Scrum Team may also invite other people to attend Sprint Planning to provide advice.
-
-    Sprint Planning addresses the following topics:
-
-    #### Topic One: Why is this Sprint valuable?
-
-    The Product Owner proposes how the product could increase its value and utility in the current Sprint. The whole Scrum Team then collaborates to define a Sprint Goal that communicates why the Sprint is valuable to stakeholders. The Sprint Goal must be finalized prior to the end of Sprint Planning.
-
-    #### Topic Two: What can be Done this Sprint?
-
-    Through discussion with the Product Owner, the Developers select items from the Product Backlog to include in the current Sprint. The Scrum Team may refine these items during this process, which increases understanding and confidence.
-
-    Selecting how much can be completed within a Sprint may be challenging. However, the more the Developers know about their past performance, their upcoming capacity, and their Definition of Done, the more confident they will be in their Sprint forecasts.
-
-    #### Topic Three: How will the chosen work get done?
-
-    For each selected Product Backlog item, the Developers plan the work necessary to create an Increment that meets the Definition of Done. This is often done by decomposing Product Backlog items into smaller work items of one day or less. How this is done is at the sole discretion of the Developers. No one else tells them how to turn Product Backlog items into Increments of value.
-
-    The Sprint Goal, the Product Backlog items selected for the Sprint, plus the plan for delivering them are together referred to as the Sprint Backlog.
-
-    Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter.
-
-    ### Daily Scrum
-
-    The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work.
-
-    The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. To reduce complexity, it is held at the same time and place every working day of the Sprint. If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate as Developers.
-
-    The Developers can select whatever structure and techniques they want, as long as their Daily Scrum focuses on progress toward the Sprint Goal and produces an actionable plan for the next day of work. This creates focus and improves self-management.
-
-    Daily Scrums improve communications, identify impediments, promote quick decision-making, and consequently eliminate the need for other meetings.
-
-    The Daily Scrum is not the only time Developers are allowed to adjust their plan. They often meet throughout the day for more detailed discussions about adapting or re-planning the rest of the Sprint's work.
-
-    ### Sprint Review
-
-    The purpose of the Sprint Review is to inspect the outcome of the Sprint and determine future adaptations. The Scrum Team presents the results of their work to key stakeholders and progress toward the Product Goal is discussed.
-
-    During the event, the Scrum Team and stakeholders review what was accomplished in the Sprint and what has changed in their environment. Based on this information, attendees collaborate on what to do next. The Product Backlog may also be adjusted to meet new opportunities. The Sprint Review is a working session and the Scrum Team should avoid limiting it to a presentation.
-
-    The Sprint Review is the second to last event of the Sprint and is timeboxed to a maximum of four hours for a one-month Sprint. For shorter Sprints, the event is usually shorter.
-
-    ### Sprint Retrospective
-
-    The purpose of the Sprint Retrospective is to plan ways to increase quality and effectiveness.
-
-    The Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done. Inspected elements often vary with the domain of work. Assumptions that led them astray are identified and their origins explored. The Scrum Team discusses what went well during the Sprint, what problems it encountered, and how those problems were (or were not) solved.
-
-    The Scrum Team identifies the most helpful changes to improve its effectiveness. The most impactful improvements are addressed as soon as possible. They may even be added to the Sprint Backlog for the next Sprint.
-
-    The Sprint Retrospective concludes the Sprint. It is timeboxed to a maximum of three hours for a one-month Sprint. For shorter Sprints, the event is usually shorter.
-
-    ## Scrum Artefacts
-
-    Scrum's artefacts represent work or value. They are designed to maximize transparency of key information. Thus, everyone inspecting them has the same basis for adaptation.
-
-    Each artefact contains a commitment to ensure it provides information that enhances transparency and focus against which progress can be measured:
-
-    - For the Product Backlog, it is the Product Goal.
-    - For the Sprint Backlog it is the Sprint Goal.
-    - For the Increment, it is the Definition of Done.
-
-    These commitments exist to reinforce empiricism and the Scrum values for the Scrum Team and their stakeholders.
-
-    ### Product Backlog
-
-    The Product Backlog is an emergent, ordered list of what is needed to improve the product. It is the single source of work undertaken by the Scrum Team.
-
-    Product Backlog items that can be Done by the Scrum Team within one Sprint are deemed ready for selection in a Sprint Planning event. They usually acquire this degree of transparency after refining activities. Product Backlog refinement is the act of breaking down and further defining Product Backlog items into smaller more precise items. This is an ongoing activity to add details, such as a description, order, and size. Attributes often vary with the domain of work.
-
-    The Developers who will be doing the work are responsible for the sizing. The Product Owner may influence the Developers by helping them understand and select trade-offs.
-
-    ### Commitment: Product Goal
-
-    The Product Goal describes a future state of the product which can serve as a target for the Scrum Team to plan against. The Product Goal is in the Product Backlog. The rest of the Product Backlog emerges to define “what” will fulfil the Product Goal.
-
-    A product is a vehicle to deliver value. It has a clear boundary, known stakeholders, well-defined users or customers. A product could be a service, a physical product, or something more abstract.
-
-    The Product Goal is the long-term objective of the Scrum Team. They must fulfil (or abandon) one objective before taking on the next.
-
-    Some additional content on Product Goal:
-
-    ### Sprint Backlog
-
-    The Sprint Backlog is composed of the Sprint Goal (why), the set of Product Backlog items selected for the Sprint (what), as well as an actionable plan for delivering the Increment (how).
-
-    The Sprint Backlog is a plan by and for the Developers. It is a highly visible, real-time picture of the work that the Developers plan to accomplish during the Sprint in order to achieve the Sprint Goal. Consequently, the Sprint Backlog is updated throughout the Sprint as more is learned. It should have enough detail that they can inspect their progress in the Daily Scrum.
-
-    #### Commitment: Sprint Goal
-
-    The Sprint Goal is the single objective for the Sprint. Although the Sprint Goal is a commitment by the Developers, it provides flexibility in terms of the exact work needed to achieve it. The Sprint Goal also creates coherence and focus, encouraging the Scrum Team to work together rather than on separate initiatives.
-
-    The Sprint Goal is created during the Sprint Planning event and then added to the Sprint Backlog. As the Developers work during the Sprint, they keep the Sprint Goal in mind. If the work turns out to be different than they expected, they collaborate with the Product Owner to negotiate the scope of the Sprint Backlog within the Sprint without affecting the Sprint Goal.
-
-    ### Increment
-
-    An Increment is a concrete stepping stone toward the Product Goal. Each Increment is additive to all prior Increments and thoroughly verified, ensuring that all Increments work together. In order to provide value, the Increment must be usable.
-
-    Multiple Increments may be created within a Sprint. The sum of the Increments is presented at the Sprint Review thus supporting empiricism. However, an Increment may be delivered to stakeholders prior to the end of the Sprint. The Sprint Review should never be considered a gate to releasing value.
-
-    Work cannot be considered part of an Increment unless it meets the Definition of Done.
-
-    #### Commitment: Definition of Done
-
-    The Definition of Done is a formal description of the state of the Increment when it meets the quality measures required for the product.
-
-    The moment a Product Backlog item meets the Definition of Done, an Increment is born.
-
-    The Definition of Done creates transparency by providing everyone with a shared understanding of what work was completed as part of the Increment. If a Product Backlog item does not meet the Definition of Done, it cannot be released or even presented at the Sprint Review. Instead, it returns to the Product Backlog for future consideration.
-
-    If the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum. If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriately for the product.
-
-    Developers are required to conform to the Definition of Done. If there are multiple Scrum Teams working together on a product, they must mutually define and comply with the same Definition of Done.
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\scrum-guide\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\scrum-guide
-- FrontMatter:
     title: 'The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty'
     description: Evidence-Based Management (EBM) is an empirical approach that helps organizations to continuously improve customer outcomes, organizational capabilities, and business results under conditions of uncertainty.
     ResourceId: ltc7lzhy14U
@@ -912,30 +58,6 @@
     - Empirical Process Control
     - Pragmatic Thinking
     - Experimentation
-    - Market Adaptability
-    - Operational Practices
-    - Product Delivery
-    - Value Stream Management
-    - Complexity Thinking
-    - Product Validation
-    - Portfolio Management
-    - Sensemaking
-    - Agile Frameworks
-    - Agile Philosophy
-    - Agile Product Operating Model
-    - Agile Transformation
-    - Digital Transformation
-    - Professional Scrum
-    - Social Technologies
-    - Sociotechnical Systems
-    - Transparency
-    - Agile Planning
-    - Continuous Learning
-    - Organisational Change
-    - Competence
-    - Organisational Physics
-    - Decision Theory
-    - Trend Analysis
   BodyContent: |
     # The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty
 
@@ -1310,17 +432,6 @@
     - Team Performance
     - Cross Functional Teams
     - Product Owner
-    - Scrum Master
-    - Agile Planning
-    - Operational Practices
-    - Sprint Review
-    - Definition of Done
-    - Agile Strategy
-    - Backlog Refinement
-    - Collaboration Tools
-    - Common Goals
-    - Decision Making
-    - Enterprise Agility
   BodyContent: |
     The Definitive Guide to Scaling Scrum with Nexus
 
@@ -1528,7 +639,6 @@
     - Market Adaptability
     - Social Technologies
     - Team Motivation
-    - Increment
   BodyContent: |
     We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
 
@@ -1828,7 +938,6 @@
     - Competence
     - Engineering Practices
     - Metrics and Learning
-    - Customer Feedback Loops
   BodyContent: |
     Agile is a buzzword of software development, and so all DoD software development projects are, almost by default, now declared to be “agile.” The purpose of this document is to provide guidance to DoD program executives and acquisition professionals on how to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing (“agile-scrum-fall”).
 
@@ -1909,4 +1018,824 @@
     and Appendix C [DIB Do’s and Don’ts of Software](https://media.defense.gov/2018/Oct/09/2002049593/-1/-1/0/DIB_DOS_DONTS_SOFTWARE_2018.10.05.PDF).
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\detecting-agile-bs\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\detecting-agile-bs
+- FrontMatter:
+    title: The Scrum Guide
+    description: The Scrum Guide contains the definition of Scrum.
+    ResourceId: 59gcHh1fYtC
+    ResourceImport: false
+    ResourceType: guides
+    ResourceContentOrigin: Human
+    resourceTypes: guide
+    layout: guide
+    aliases:
+    - /guides/Scrum-Guide/
+    - /guides/Scrum-Guide.html
+    - /learn/agile-delivery-kit/guides/scrum-guide
+    - /resources/guides/_guides/scrum-guide.md
+    - /resources/59gcHh1fYtC
+    aliasesArchive:
+    - /guides/Scrum-Guide/
+    - /guides/Scrum-Guide.html
+    - /learn/agile-delivery-kit/guides/scrum-guide
+    - /resources/guides/_guides/scrum-guide.md
+    downloads:
+    - title: Scrum Guide 2020
+      type: pdf
+      url: /assets/attachments/Scrum-Guide-2020.pdf
+    - title: Scrum Guide 2017
+      type: pdf
+      url: /assets/attachments/Scrum-Guide-2017.pdf
+    - title: Scrum Guide 2016
+      type: pdf
+      url: /assets/attachments/Scrum-Guide-2016.pdf
+    - title: Scrum Guide 2013
+      type: pdf
+      url: /assets/attachments/Scrum-Guide-2013-07.pdf
+    - title: Scrum Guide 2011 v2
+      type: pdf
+      url: /assets/attachments/2011-07-Scrum_Guide.pdf
+    - title: Scrum Guide 2011
+      type: pdf
+      url: /assets/attachments/Scrum-Guide-2011-07.pdf
+    - title: Scrum Guide 2010
+      type: pdf
+      url: /assets/attachments/Scrum-Guide-2010-v1-Scrum-Alliance.pdf
+    references:
+    - title: The 2020 Scrum Guide
+      url: https://scrumguides.org/scrum-guide.html
+    recommendedContent:
+    - collection: practices
+      path: _practices/definition-of-done-dod.md
+    - collection: practices
+      path: _practices/definition-of-ready-dor.md
+    videos:
+    - title: Overview of The Scrum Framework with Martin Hinshelwood
+      embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
+    date: 2024-09-17
+    weight: 690
+    creator: Martin Hinshelwood
+    card:
+      button:
+        content: Learn More
+      content: Discover more about The Scrum Guide and how it can help you in your Agile journey!
+      title: The Scrum Guide
+    categories:
+    - Scrum
+    tags:
+    - Professional Scrum
+    - Transparency
+    - Agile Frameworks
+    - Scrum Team
+    - Empirical Process Control
+    - Agile Product Management
+    - Software Development
+    - Value Delivery
+    - Product Backlog
+    - Scrum Master
+    - Scrum Values
+    - Agile Planning
+    - Product Delivery
+    - Team Performance
+    - Sprint Review
+    - Increment
+    - Definition of Done
+    - Agile Transformation
+    - Product Owner
+    - Working Software
+  BodyContent: |
+    The Scrum Guide is the rule book, or timber frame, of Scrum and is immutable of definition but not of implementation. If you have already read the Scrum Guide and are looking more for a Strategy Guide then head over to the Scrum Strategy Guide.
+    {: .lead}
+
+    NOTE: Extracted from the [Scrum Guide 2020](https://scrumguides.org/){:target="\_blank"}
+
+    ## Purpose of the Scrum Guide
+
+    We developed Scrum in the early 1990s. We wrote the first version of the Scrum Guide in 2010 to help people worldwide understand Scrum. We have evolved the Guide since then through small, functional updates. Together, we stand behind it.
+
+    The Scrum Guide contains the definition of Scrum. Each element of the framework serves a specific purpose that is essential to the overall value and results realized with Scrum. Changing the core design or ideas of Scrum, leaving out elements, or not following the rules of Scrum, covers up problems and limits the benefits of Scrum, potentially even rendering it useless.
+
+    We follow the growing use of Scrum within an ever-growing complex world. We are humbled to see Scrum being adopted in many domains holding essentially complex work, beyond software product development where Scrum has its roots. As Scrum's use spreads, developers, researchers, analysts, scientists, and other specialists do the work. We use the word “developers” in Scrum not to exclude, but to simplify. If you get value from Scrum, consider yourself included.
+
+    As Scrum is being used, patterns, processes, and insights that fit the Scrum framework as described in this document, may be found, applied and devised. Their description is beyond the purpose of the Scrum Guide because they are context-sensitive and differ widely between Scrum uses. Such tactics for using within the Scrum framework vary widely and are described elsewhere.
+
+    ![The Scrum Framework](https://nkdagility.com/wp-content/uploads/2020/11/naked-Agility-Scrum-Framework-575x450.jpg)
+
+    ## Scrum Definition
+
+    Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.
+
+    In a nutshell, Scrum requires a Scrum Master to foster an environment where:
+
+    1. A Product Owner orders the work for a complex problem into a Product Backlog.
+    1. The Scrum Team turns a selection of the work into an Increment of value during a Sprint.
+    1. The Scrum Team and its stakeholders inspect the results and adjust for the next Sprint.
+       Repeat
+
+    Scrum is simple. Try it as is and determine if its philosophy, theory, and structure help to achieve goals and create value. The Scrum framework is purposefully incomplete, only defining the parts required to implement Scrum theory. Scrum is built upon by the collective intelligence of the people using it. Rather than provide people with detailed instructions, the rules of Scrum guide their relationships and interactions.
+
+    Various processes, techniques and methods can be employed within the framework. Scrum wraps around existing practices or renders them unnecessary. Scrum makes visible the relative efficacy of current management, environment, and work techniques so that improvements can be made.
+
+    ## Scrum Theory
+
+    Scrum is founded on empiricism and lean thinking. Empiricism asserts that knowledge comes from experience and making decisions based on what is observed. Lean thinking reduces waste and focuses on the essentials.
+
+    Scrum employs an iterative, incremental approach to optimize predictability and to control risk. Scrum engages groups of people who collectively have all the skills and expertise to do the work and share or acquire such skills as needed.
+
+    Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint. These events work because they implement the empirical Scrum pillars of transparency, inspection, and adaptation.
+
+    ### Transparency
+
+    The emergent process and work must be visible to those performing the work as well as those receiving the work. With Scrum, important decisions are based on the perceived state of its three formal artefacts. Artefacts that have low transparency can lead to decisions that diminish value and increase risk.
+
+    Transparency enables inspection. Inspection without transparency is misleading and wasteful.
+
+    ### Inspection
+
+    The Scrum artefacts and the progress toward agreed goals must be inspected frequently and diligently to detect potentially undesirable variances or problems. To help with inspection, Scrum provides cadence in the form of its five events.
+
+    Inspection enables adaptation. Inspection without adaptation is considered pointless. Scrum events are designed to provoke change.
+
+    ### Adaptation
+
+    If any aspects of a process deviate outside acceptable limits or if the resulting product is unacceptable, the process being applied or the materials being produced must be adjusted. The adjustment must be made as soon as possible to minimize further deviation.
+
+    Adaptation becomes more difficult when the people involved are not empowered or self-managing. A Scrum Team is expected to adapt the moment it learns anything new through inspection.
+
+    ## Scrum Values
+
+    Successful use of Scrum depends on people becoming more proficient in living five values:
+
+    _Commitment, Focus, Openness, Respect, and Courage_
+
+    The Scrum Team commits to achieving its goals and to supporting each other. Their primary focus is on the work of the Sprint to make the best possible progress toward these goals. The Scrum Team and its stakeholders are open about the work and the challenges. Scrum Team members respect each other to be capable, independent people, and are respected as such by the people with whom they work. The Scrum Team members have the courage to do the right thing, to work on tough problems.
+
+    These values give direction to the Scrum Team with regard to their work, actions, and behaviour. The decisions that are made, the steps taken, and the way Scrum is used should reinforce these values, not diminish or undermine them. The Scrum Team members learn and explore the values as they work with the Scrum events and artifacts. When these values are embodied by the Scrum Team and the people they work with, the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust.
+
+    ## Scrum Team
+
+    The fundamental unit of Scrum is a small team of people, a Scrum Team. The Scrum Team consists of one Scrum Master, one Product Owner, and Developers. Within a Scrum Team, there are no sub-teams or hierarchies. It is a cohesive unit of professionals focused on one objective at a time, the Product Goal.
+
+    Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint. They are also self-managing, meaning they internally decide who does what, when, and how.
+
+    The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint, typically 10 or fewer people. In general, we have found that smaller teams communicate better and are more productive. If Scrum Teams become too large, they should consider reorganizing into multiple cohesive Scrum Teams, each focused on the same product. Therefore, they should share the same Product Goal, Product Backlog, and Product Owner.
+
+    The Scrum Team is responsible for all product-related activities from stakeholder collaboration, verification, maintenance, operation, experimentation, research and development, and anything else that might be required. They are structured and empowered by the organization to manage their own work. Working in Sprints at a sustainable pace improves the Scrum Team's focus and consistency.
+
+    The entire Scrum Team is accountable for creating a valuable, useful Increment every Sprint. Scrum defines three specific accountabilities within the Scrum Team: the Developers, the Product Owner, and the Scrum Master.
+
+    ### Developers
+
+    Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint.
+
+    The specific skills needed by the Developers are often broad and will vary with the domain of work. However, the Developers are always accountable for:
+
+    - Creating a plan for the Sprint, the Sprint Backlog;
+    - Instilling quality by adhering to a Definition of Done;
+    - Adapting their plan each day toward the Sprint Goal; and,
+    - Holding each other accountable as professionals.
+
+    ### Product Owner
+
+    The Product Owner is accountable for maximizing the value of the product resulting from the work of the Scrum Team. How this is done may vary widely across organizations, Scrum Teams, and individuals.
+
+    The Product Owner is also accountable for effective Product Backlog management, which includes:
+
+    - Developing and explicitly communicating the Product Goal;
+    - Creating and clearly communicating Product Backlog items;
+    - Ordering Product Backlog items; and,
+    - Ensuring that the Product Backlog is transparent, visible and understood.
+
+    The Product Owner may do the above work or may delegate the responsibility to others. Regardless, the Product Owner remains accountable.
+
+    For Product Owners to succeed, the entire organization must respect their decisions. These decisions are visible in the content and ordering of the Product Backlog, and through the inspectable Increment at the Sprint Review.
+
+    The Product Owner is one person, not a committee. The Product Owner may represent the needs of many stakeholders in the Product Backlog. Those wanting to change the Product Backlog can do so by trying to convince the Product Owner.
+
+    ### Scrum Master
+
+    The Scrum Master is accountable for establishing Scrum as defined in the Scrum Guide. They do this by helping everyone understand Scrum theory and practice, both within the Scrum Team and the organization.
+
+    The Scrum Master is accountable for the Scrum Team's effectiveness. They do this by enabling the Scrum Team to improve its practices, within the Scrum framework.
+
+    Scrum Masters are true leaders who serve the Scrum Team and the larger organization.
+
+    The Scrum Master serves the Scrum Team in several ways, including:
+
+    - Coaching the team members in self-management and cross-functionality;
+    - Helping the Scrum Team focus on creating high-value Increments that meet the Definition of Done;
+    - Causing the removal of impediments to the Scrum Team's progress; and,
+    - Ensuring that all Scrum events take place and are positive, productive, and kept within the timebox.
+
+    The Scrum Master serves the Product Owner in several ways, including:
+
+    - Helping find techniques for effective Product Goal definition and Product Backlog management;
+    - Helping the Scrum Team understand the need for clear and concise Product Backlog items;
+    - Helping establish empirical product planning for a complex environment; and,
+    - Facilitating stakeholder collaboration as requested or needed.
+
+    The Scrum Master serves the organization in several ways, including:
+
+    - Leading, training, and coaching the organization in its Scrum adoption;
+    - Planning and advising Scrum implementations within the organization;
+    - Helping employees and stakeholders understand and enact an empirical approach for complex work; and,
+    - Removing barriers between stakeholders and Scrum Teams.
+
+    ## Scrum Events
+
+    The Sprint is a container for all other events. Each event in Scrum is a formal opportunity to inspect and adapt Scrum artefacts. These events are specifically designed to enable the transparency required. Failure to operate any events as prescribed results in lost opportunities to inspect and adapt. Events are used in Scrum to create regularity and to minimize the need for meetings not defined in Scrum.
+
+    Optimally, all events are held at the same time and place to reduce complexity.
+
+    ### The Sprint
+
+    Sprints are the heartbeat of Scrum, where ideas are turned into value.
+
+    They are fixed length events of one month or less to create consistency. A new Sprint starts immediately after the conclusion of the previous Sprint.
+
+    All the work necessary to achieve the Product Goal, including Sprint Planning, Daily Scrums, Sprint Review, and Sprint Retrospective, happen within Sprints.
+
+    During the Sprint:
+
+    - No changes are made that would endanger the Sprint Goal;
+    - Quality does not decrease;
+    - The Product Backlog is refined as needed; and,
+    - Scope may be clarified and renegotiated with the Product Owner as more is learned.
+
+    Sprints enable predictability by ensuring inspection and adaptation of progress toward a Product Goal at least every calendar month. When a Sprint's horizon is too long the Sprint Goal may become invalid, complexity may rise, and risk may increase. Shorter Sprints can be employed to generate more learning cycles and limit risk of cost and effort to a smaller time frame. Each Sprint may be considered a short project.
+
+    Various practices exist to forecast progress, like burn-downs, burn-ups, or cumulative flows. While proven useful, these do not replace the importance of empiricism. In complex environments, what will happen is unknown. Only what has already happened may be used for forward-looking decision making.
+
+    A Sprint could be cancelled if the Sprint Goal becomes obsolete. Only the Product Owner has the authority to cancel the Sprint.
+
+    ### Sprint Planning
+
+    Sprint Planning initiates the Sprint by laying out the work to be performed for the Sprint. This resulting plan is created by the collaborative work of the entire Scrum Team.
+
+    The Product Owner ensures that attendees are prepared to discuss the most important Product Backlog items and how they map to the Product Goal. The Scrum Team may also invite other people to attend Sprint Planning to provide advice.
+
+    Sprint Planning addresses the following topics:
+
+    #### Topic One: Why is this Sprint valuable?
+
+    The Product Owner proposes how the product could increase its value and utility in the current Sprint. The whole Scrum Team then collaborates to define a Sprint Goal that communicates why the Sprint is valuable to stakeholders. The Sprint Goal must be finalized prior to the end of Sprint Planning.
+
+    #### Topic Two: What can be Done this Sprint?
+
+    Through discussion with the Product Owner, the Developers select items from the Product Backlog to include in the current Sprint. The Scrum Team may refine these items during this process, which increases understanding and confidence.
+
+    Selecting how much can be completed within a Sprint may be challenging. However, the more the Developers know about their past performance, their upcoming capacity, and their Definition of Done, the more confident they will be in their Sprint forecasts.
+
+    #### Topic Three: How will the chosen work get done?
+
+    For each selected Product Backlog item, the Developers plan the work necessary to create an Increment that meets the Definition of Done. This is often done by decomposing Product Backlog items into smaller work items of one day or less. How this is done is at the sole discretion of the Developers. No one else tells them how to turn Product Backlog items into Increments of value.
+
+    The Sprint Goal, the Product Backlog items selected for the Sprint, plus the plan for delivering them are together referred to as the Sprint Backlog.
+
+    Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter.
+
+    ### Daily Scrum
+
+    The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work.
+
+    The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. To reduce complexity, it is held at the same time and place every working day of the Sprint. If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate as Developers.
+
+    The Developers can select whatever structure and techniques they want, as long as their Daily Scrum focuses on progress toward the Sprint Goal and produces an actionable plan for the next day of work. This creates focus and improves self-management.
+
+    Daily Scrums improve communications, identify impediments, promote quick decision-making, and consequently eliminate the need for other meetings.
+
+    The Daily Scrum is not the only time Developers are allowed to adjust their plan. They often meet throughout the day for more detailed discussions about adapting or re-planning the rest of the Sprint's work.
+
+    ### Sprint Review
+
+    The purpose of the Sprint Review is to inspect the outcome of the Sprint and determine future adaptations. The Scrum Team presents the results of their work to key stakeholders and progress toward the Product Goal is discussed.
+
+    During the event, the Scrum Team and stakeholders review what was accomplished in the Sprint and what has changed in their environment. Based on this information, attendees collaborate on what to do next. The Product Backlog may also be adjusted to meet new opportunities. The Sprint Review is a working session and the Scrum Team should avoid limiting it to a presentation.
+
+    The Sprint Review is the second to last event of the Sprint and is timeboxed to a maximum of four hours for a one-month Sprint. For shorter Sprints, the event is usually shorter.
+
+    ### Sprint Retrospective
+
+    The purpose of the Sprint Retrospective is to plan ways to increase quality and effectiveness.
+
+    The Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done. Inspected elements often vary with the domain of work. Assumptions that led them astray are identified and their origins explored. The Scrum Team discusses what went well during the Sprint, what problems it encountered, and how those problems were (or were not) solved.
+
+    The Scrum Team identifies the most helpful changes to improve its effectiveness. The most impactful improvements are addressed as soon as possible. They may even be added to the Sprint Backlog for the next Sprint.
+
+    The Sprint Retrospective concludes the Sprint. It is timeboxed to a maximum of three hours for a one-month Sprint. For shorter Sprints, the event is usually shorter.
+
+    ## Scrum Artefacts
+
+    Scrum's artefacts represent work or value. They are designed to maximize transparency of key information. Thus, everyone inspecting them has the same basis for adaptation.
+
+    Each artefact contains a commitment to ensure it provides information that enhances transparency and focus against which progress can be measured:
+
+    - For the Product Backlog, it is the Product Goal.
+    - For the Sprint Backlog it is the Sprint Goal.
+    - For the Increment, it is the Definition of Done.
+
+    These commitments exist to reinforce empiricism and the Scrum values for the Scrum Team and their stakeholders.
+
+    ### Product Backlog
+
+    The Product Backlog is an emergent, ordered list of what is needed to improve the product. It is the single source of work undertaken by the Scrum Team.
+
+    Product Backlog items that can be Done by the Scrum Team within one Sprint are deemed ready for selection in a Sprint Planning event. They usually acquire this degree of transparency after refining activities. Product Backlog refinement is the act of breaking down and further defining Product Backlog items into smaller more precise items. This is an ongoing activity to add details, such as a description, order, and size. Attributes often vary with the domain of work.
+
+    The Developers who will be doing the work are responsible for the sizing. The Product Owner may influence the Developers by helping them understand and select trade-offs.
+
+    ### Commitment: Product Goal
+
+    The Product Goal describes a future state of the product which can serve as a target for the Scrum Team to plan against. The Product Goal is in the Product Backlog. The rest of the Product Backlog emerges to define “what” will fulfil the Product Goal.
+
+    A product is a vehicle to deliver value. It has a clear boundary, known stakeholders, well-defined users or customers. A product could be a service, a physical product, or something more abstract.
+
+    The Product Goal is the long-term objective of the Scrum Team. They must fulfil (or abandon) one objective before taking on the next.
+
+    Some additional content on Product Goal:
+
+    ### Sprint Backlog
+
+    The Sprint Backlog is composed of the Sprint Goal (why), the set of Product Backlog items selected for the Sprint (what), as well as an actionable plan for delivering the Increment (how).
+
+    The Sprint Backlog is a plan by and for the Developers. It is a highly visible, real-time picture of the work that the Developers plan to accomplish during the Sprint in order to achieve the Sprint Goal. Consequently, the Sprint Backlog is updated throughout the Sprint as more is learned. It should have enough detail that they can inspect their progress in the Daily Scrum.
+
+    #### Commitment: Sprint Goal
+
+    The Sprint Goal is the single objective for the Sprint. Although the Sprint Goal is a commitment by the Developers, it provides flexibility in terms of the exact work needed to achieve it. The Sprint Goal also creates coherence and focus, encouraging the Scrum Team to work together rather than on separate initiatives.
+
+    The Sprint Goal is created during the Sprint Planning event and then added to the Sprint Backlog. As the Developers work during the Sprint, they keep the Sprint Goal in mind. If the work turns out to be different than they expected, they collaborate with the Product Owner to negotiate the scope of the Sprint Backlog within the Sprint without affecting the Sprint Goal.
+
+    ### Increment
+
+    An Increment is a concrete stepping stone toward the Product Goal. Each Increment is additive to all prior Increments and thoroughly verified, ensuring that all Increments work together. In order to provide value, the Increment must be usable.
+
+    Multiple Increments may be created within a Sprint. The sum of the Increments is presented at the Sprint Review thus supporting empiricism. However, an Increment may be delivered to stakeholders prior to the end of the Sprint. The Sprint Review should never be considered a gate to releasing value.
+
+    Work cannot be considered part of an Increment unless it meets the Definition of Done.
+
+    #### Commitment: Definition of Done
+
+    The Definition of Done is a formal description of the state of the Increment when it meets the quality measures required for the product.
+
+    The moment a Product Backlog item meets the Definition of Done, an Increment is born.
+
+    The Definition of Done creates transparency by providing everyone with a shared understanding of what work was completed as part of the Increment. If a Product Backlog item does not meet the Definition of Done, it cannot be released or even presented at the Sprint Review. Instead, it returns to the Product Backlog for future consideration.
+
+    If the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum. If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriately for the product.
+
+    Developers are required to conform to the Definition of Done. If there are multiple Scrum Teams working together on a product, they must mutually define and comply with the same Definition of Done.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\scrum-guide\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\scrum-guide
+- FrontMatter:
+    title: Kanban Guide for Scrum Teams
+    description: The flow-based perspective of Kanban can enhance and complement the Scrum framework and its implementation.
+    ResourceId: Z3HzXH_nmmz
+    ResourceImport: false
+    ResourceType: guides
+    ResourceContentOrigin: Human
+    resourceTypes: guide
+    layout: guide
+    aliases:
+    - /guides/Kanban-Guide-for-Scrum-Teams.html
+    - /learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams
+    - /resources/Z3HzXH_nmmz
+    aliasesArchive:
+    - /guides/Kanban-Guide-for-Scrum-Teams.html
+    - /learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams
+    references:
+    - title: The Kanban Guide for Scrum Teams on Scrum.org
+      url: https://scrum.org/resources/kanban-guide-scrum-teams
+    - title: Work can flow across the Sprint boundary
+      url: https://nkdagility.com/blog/work-can-flow-across-sprint-boundary/
+    - title: No Estimates and is it advisable for a Scrum Team to adopt it?
+      url: https://nkdagility.com/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it/
+    recommendedContent:
+    - collection: practices
+      path: _practices/service-level-expectation-sle.md
+    date: 2024-09-17
+    weight: 840
+    creator: Martin Hinshelwood
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Kanban Guide for Scrum Teams and how it can help you in your Agile journey!
+      title: Kanban Guide for Scrum Teams
+    categories:
+    - Kanban
+    tags:
+    - Software Development
+    - Flow Efficiency
+    - Operational Practices
+    - Metrics and Learning
+    - Transparency
+    - Value Delivery
+    - Agile Frameworks
+    - Empirical Process Control
+    - Throughput
+    - Cycle Time
+    - Scrum Team
+    - Pragmatic Thinking
+    - Team Performance
+    - Agile Product Management
+    - Increment
+    - Team Collaboration
+    - Product Delivery
+    - Agile Planning
+    - Continuous Improvement
+    - Working Software
+  BodyContent: |
+    The flow-based perspective of Kanban can enhance and complement the Scrum framework and its implementation. Teams can add complementary Kanban practices whether they are just starting to use Scrum or have been using it all along. The Kanban Guide for Scrum Teams is the result of a collaboration between members of the Scrum.org community and leaders of the Kanban community. Together, they stand behind The Kanban Guide for Scrum Teams. It is their shared belief that professional product development practitioners can benefit from the application of Kanban together with Scrum.
+    {: .lead}
+
+    ### Relation to the Scrum Guide
+
+    This guide does not replace or discount any part of The Scrum Guide. It is designed to enhance and expand the practices of Scrum. This guide assumes the reader is operating a process using the Scrum framework. Therefore, The Scrum Guide applies in its entirety.
+
+    ## Definition of Kanban
+
+    Kanban (n): a strategy for optimizing the flow of value through a process that uses a visual, work-in-progress limited pull system.
+
+    ## Kanban with Scrum Theory
+
+    ### Flow and Empiricism
+
+    Central to the definition of Kanban is the concept of flow. Flow is the movement of value throughout the product development system. Kanban optimizes flow by improving the overall efficiency, effectiveness, and predictability of a process. Optimizing flow in a Scrum context requires defining what flow means in Scrum. Scrum is founded on empirical process control theory, or empiricism. Key to empirical process control is the frequency of the transparency, inspection, and adaptation cycle – which we can also describe as the cycle time through the feedback loop. When Kanban practices are applied to Scrum, they provide a focus on improving the flow through the feedback loop; optimizing transparency and the frequency of inspection and adaptation for both the product and the process.
+
+    ### The Basic Metrics of Flow
+
+    The four basic metrics of flow that Scrum Teams using Kanban need to track are as follows:
+
+    - **Work in Progress (WIP)**: The number of work items started but not finished. Note the difference between the WIP metric and the policies a Scrum Team uses to limit WIP. The team can use the WIP metric to provide transparency about their progress towards reducing their WIP and improving their flow.
+    - **Cycle Time**: The amount of elapsed time between when a work item starts and when a work item finishes.
+    - **Work Item Age**: The amount of time between when a work item started and the current time. This applies only to items that are still in progress.
+    - **Throughput**: The number of work items finished per unit of time.
+
+    ### Little’s Law – The Key to Governing Flow
+
+    A key tenet governing flow theory is Little’s Law, which is a guideline that establishes the following relationship:
+
+    ![Littles Law](https://nkdagility.com/wp-content/uploads/2020/11/naked-agility-littles-law.jpg)
+
+    Little’s Law reveals that in general, for a given process with a given throughput, the more things that you work on at any given time (on average), the longer it is going to take to finish those things (on average). If cycle times are too long, the first action Scrum Teams should consider is lowering WIP. Most of the other elements of Kanban are built upon the relationship between WIP and cycle time. Little’s Law also shows us how flow theory relies on empiricism by using flow metrics and data to gain transparency into the historical flow and then using that data to inform flow inspection and adaptation experiments.
+
+    ## Kanban Practices
+
+    Scrum Teams can achieve flow optimization by using the following four practices:
+
+    - Visualization of the workflow
+    - Limiting Work in Progress (WIP)
+    - Active management of work items in progress
+    - Inspecting and adapting the team’s definition of “Workflow”
+
+    ### Definition of “Workflow”
+
+    The four Kanban practices are enabled by the Scrum Team’s Definition of Workflow. This definition represents the Scrum Team members’ explicit understanding of what their policies are for following the Kanban practices. This shared understanding improves transparency and enables self-management. Note that the scope of the Definition of Workflow may span beyond the Sprint and the Sprint Backlog. For instance, a Scrum Team‘s Definition of Workflow may encompass flow inside and/or outside of the Sprint. Creating and adapting the Definition of Workflow is the accountability of the relevant roles on the Scrum Team as described in the Scrum Guide. No one outside of the Scrum Team should tell the Scrum Team how to define their Workflow.
+
+    ### Visualization of the Workflow – the Kanban Board
+
+    Visualization using the Kanban board is the way the Scrum Team makes its Workflow transparent. The board’s configuration should prompt the right conversations at the right time and proactively suggest opportunities for improvement. Visualization should include the following:
+
+    - Defined points at which the Scrum Team considers work to have started and to have finished.
+    - A definition of the work items – the individual units of value (stakeholder value, knowledge value, process improvement value) that are flowing through the Scrum Team’s system (most likely Product Backlog items (PBIs)).
+    - A definition of the workflow states that the work items flow through from start to finish (of which there must be at least one active state).
+    - Explicit policies about how work flows through each state (which may include items from a Scrum Team’s Definition of Done and pull policies between stages).
+    - Policies for limiting Work in Progress (WIP).
+
+    ### Limiting Work in Progress (WIP)
+
+    Work in Progress (WIP) refers to the work items the Scrum Team has started but has not yet finished. Scrum Teams using Kanban must explicitly limit the number of these work items in progress. A Scrum Team can explicitly limit WIP however they see fit but should stick to that limit once established. The primary effect of limiting WIP is that it creates a pull system. It is called a pull system because the team starts work (i.e. pulls) on an item only when it is clear that it has the capacity to do so. When the WIP drops below the defined limit, that is the signal to start new work. Note this is different from a push system, which demands that work starts on an item whenever it is requested. Limiting WIP helps flow and improves the Scrum Team’s self-management, focus, commitment, and collaboration.
+
+    ### Active Management of Work Items in Progress
+
+    Limiting WIP is necessary to achieve flow, but it alone is not sufficient. The third practice to establish flow is the active management of work items in progress. Within the Sprint, this management by the Scrum Team can take several forms, including but not limited to the following:
+
+    - Making sure that work items are only pulled into the Workflow at about the same rate that they leave the Workflow.
+    - Ensuring work items aren’t left to age unnecessarily.
+    - Responding quickly to blocked or queued work items as well those that are exceeding the team’s expected Cycle Time levels (See Service Level Expectation – SLE).
+
+    ### Service Level Expectation (SLE)
+
+    A service level expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the Scrum Team’s Workflow. The Scrum Team uses its SLE to find active flow issues and to inspect and adapt in cases of falling below those expectations. The SLE itself has two parts: a range of elapsed days and a probability associated with that period (e.g., 85% of work items should be finished in eight days or less). The SLE should be based on the Scrum Team’s historical Cycle Time, and once calculated, the Scrum Team should make it transparent. If no historical Cycle Time data exists, the Scrum Team should make its best guess and then inspect and adapt once there is enough historical data to do a proper SLE calculation.
+
+    ### Inspect and Adapt the Definition of “Workflow”
+
+    The Scrum Team uses the existing Scrum events to inspect and adapt its Definition of Workflow, thereby helping to improve empiricism and optimizing the value the Scrum Team delivers. The following are aspects of the Definition of Workflow the Scrum Team might adopt:
+
+    - **Visualization policies** – for example, Workflow states – either changing the actual Workflow or bringing more transparency to an area in which the team wants to inspect and adapt.
+    - **How-we-work policies** – these can directly address an impediment. For example, adjusting WIP limits and SLEs or changing the batch size (how often items are pulled between states) can have a dramatic impact.
+
+    ## Flow-Based Events
+
+    Kanban in a Scrum context does not require any additional events to those outlined in The Scrum Guide. However, using a flow-based perspective and metrics in Scrum’s events strengthens Scrum’s empirical approach.
+
+    ### The Sprint
+
+    The Kanban complementary practices don’t invalidate the need for Scrum’s Sprint. The Sprint and its events provide opportunities for inspection and adaptation of both product and process. It’s a common misconception that teams can only deliver value once per Sprint. In fact, they must deliver value at least once per Sprint. Teams using Scrum with Kanban use the Sprint and its events as a feedback improvement loop by collaboratively inspecting and adapting their Definition of Workflow and flow metrics. Kanban practices can help Scrum Teams improve flow and create an environment where decisions are made just-in-time throughout the Sprint based on inspection and adaptation. In this environment, Scrum Teams rely on the Sprint Goal and close collaboration within the Scrum Team to optimize the value delivered in the Sprint
+
+    ### Sprint Planning
+
+    A flow-based Sprint Planning meeting uses flow metrics as an aid for developing the Sprint Backlog. Reviewing historical throughput can help a Scrum Team understand their capacity for the next Sprint.
+
+    ### Daily Scrum
+
+    A flow-based Daily Scrum focuses the Developers on doing everything they can to maintain consistent flow. While the goal of the Daily Scrum remains the same as outlined in The Scrum Guide, the meeting itself takes place around the Kanban board and focuses on where flow is lacking and on what actions the Developers can take to get it back. Additional things to consider during a flow-based Daily Scrum include the following:
+    What work items are blocked and what can be done to get them unblocked?
+    What work is flowing slower than expected? What is the Work Item Age of each item in progress? What work items have violated or are about to violate their SLE and what can the Scrum Team do to get that work completed?
+    Are there any factors not represented on the board that may impact our ability to complete work today?
+    Have we learned anything new that might change what the Scrum Team has planned to work on next?
+    Have we broken our WIP limit? And what can we do to ensure we can complete the work in progress?
+
+    ### Sprint Review
+
+    The Scrum Guide provides an outline of the Sprint Review. Inspecting Kanban flow metrics as part of the review can create opportunities for new conversations about monitoring progress towards the Product Goal. Reviewing Throughput can provide additional information when the Product Owner discusses likely delivery dates.
+
+    ### Sprint Retrospective
+
+    A flow-based Sprint Retrospective adds the inspection of flow metrics and analytics to help determine what improvements the Scrum Team can make to its processes. The Scrum Team using Kanban also inspects and adapts the Definition of Workflow to optimize the flow in the next Sprint. Using a cumulative flow diagram to visualize a Scrum Team’s WIP, approximate average Cycle Time and average Throughput can be valuable. In addition to the Sprint Retrospective, the Scrum Team should consider taking advantage of process inspection and adaptation opportunities as they emerge throughout the Sprint. Similarly, changes to a Scrum Team’s Definition of Workflow may happen at any time. Because these changes will have a material impact on how the Scrum Team performs, changes made during the regular cadence provided by the Sprint Retrospective event will reduce complexity and improve focus, commitment and transparency.
+
+    ### Increment
+
+    Scrum requires the team to create (at minimum) a valuable, useful Increment every Sprint. Scrum’s empiricism encourages the creation of multiple valuable increments during the Sprint to enable fast inspect and adapt feedback loops. Kanban helps manage the flow of these feedback loops more explicitly and allows the Scrum Team to identify bottlenecks, constraints, and impediments to enable this faster, more continuous delivery of value
+    Check our blog for more details
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\kanban-guide-for-scrum-teams\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\kanban-guide-for-scrum-teams
+- FrontMatter:
+    title: 'The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty'
+    description: Evidence-Based Management (EBM) is an empirical approach that helps organizations to continuously improve customer outcomes, organizational capabilities, and business results under conditions of uncertainty.
+    ResourceId: Rv0ZjvwYVy5
+    ResourceImport: false
+    ResourceType: guides
+    ResourceContentOrigin: Human
+    resourceTypes: guide
+    layout: guide
+    aliesses:
+    - /learn/agile-delivery-kit/guides/evidence-based-management-guide-2020
+    - practices/evidence-based-management-guide-2020
+    - practices/evidence-based-management-guide-2020.html
+    - guides/evidence-based-management-guide-2020
+    - guides/evidence-based-management-guide-2020.html
+    references:
+    - title: The Evidence-Based Management Guide | Scrum.org
+      url: https://scrum.org/resources/evidence-based-management-guide
+    - title: 'Evidence-based Management: Gathering the metrics'
+      url: https://nkdagility.com/blog/evidence-based-management-gathering-metrics/
+    - title: Metrics that matter with evidence-based management
+      url: https://nkdagility.com/blog/metrics-that-matter-with-evidence-based-management/
+    - title: 'Evidence-based Management: Gathering the metrics'
+      url: https://nkdagility.com/blog/evidence-based-management-gathering-metrics/
+    - title: Professional Agile Leadership with Evidence-Based Management (PAL-EBM)
+      url: https://nkdagility.com/training/courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification-measuring-value-to-enable-improvement-and-agility/
+    recommendedContent: 
+    videos: 
+    date: 2024-09-17
+    weight: 360
+    creator: Martin Hinshelwood
+    card:
+      button:
+        content: Learn More
+      content: Discover more about "The Evidence-Based Management Guide and how it can help you in your Agile journey!
+      title: 'The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty'
+    aliases:
+    - /resources/Rv0ZjvwYVy5
+    categories:
+    - Product Management
+    - Engineering Excellence
+    - Scrum
+    tags:
+    - Evidence Based Management
+    - Ability to Innovate
+    - Continuous Improvement
+    - Decision Making
+    - Evidence Based Leadership
+    - Experimentation
+    - Metrics and Learning
+    - Value Delivery
+    - Empirical Process Control
+    - Hypothesis Driven Development
+    - Software Development
+    - Operational Practices
+    - Business Agility
+    - Organisational Agility
+    - Agile Philosophy
+    - Agile Product Management
+    - Continuous Learning
+    - Digital Transformation
+    - Enterprise Agility
+    - Sensemaking
+  BodyContent: |
+    Evidence-Based Management (EBM) is an empirical approach that helps organizations to continuously improve customer outcomes, organizational capabilities, and business results under conditions of uncertainty. It provides a framework for organizations to improve their ability to deliver value in an uncertain world, seeking a path toward strategic goals. Using intentional experimentation and evidence (measures), EBM enables organizations to systematically improve their performance over time and refine their goals based on better information
+    By measuring current conditions, setting performance goals, forming small experiments for improvement that can be run quickly, measuring the effect of the experiment, and inspecting and adapting goals and next steps, EBM helps organizations to take into account the best available evidence to help them make decisions on ways to improve.
+
+    This Guide defines EBM, its concepts, and its application.
+
+    ## Seek Goals using Empiricism
+
+    Complex problems defy easy solutions, but instead require organizations seek toward their goals in a series of small steps, inspecting the results of each step, and adapting their next actions based on feedback.
+
+    This model has several key elements:
+
+    - A **Strategic Goal**, which is something important that the organization would like to achieve. This goal is so big and far away, with many uncertainties along the journey that the organization must use empiricism. Because the Strategic Goal is aspirational and the path to it is uncertain, the organization needs a series of practical targets, like
+    - **Intermediate Goals**, achievements of which will indicate that the organization is on the path to its Strategic Goal. The path to the Intermediate Goal is often still somewhat uncertain, but not completely unknown.
+    - **Immediate Tactical Goals**, critical near-term objectives toward which a team or group of teams will work help toward Intermediate Goals.
+    - A **Starting State**, which is where the organization is relative to the Strategic Goal when it starts its journey.
+    - A **Current State**, which is where the organization is relative to the Strategic Goal at the
+      present time.
+
+    In order to progress toward the Strategic Goal, organizations run experiments which involve forming hypotheses that are intended to advance the organization toward their current Intermediate Goal. As they run these experiments and gather results, they use the evidence they obtain to evaluate their goals and determine their next steps to advance toward these goals.
+
+    ![Reaching strategic goals requires experimenting, inspecting, and adapting](https://nkdagility.com/wp-content/uploads/2020/11/naked-agility-hypothesis-driven-480x450.jpg)
+
+    ## Setting Goals
+
+    When setting goals, organizations must define specific measures that will indicate that the goal is achieved. Goals, measures, and experiments should be made transparent in order to encourage organizational alignment.
+    Consider the case of the response to an infectious disease:
+
+    - The Strategic Goal is to eradicate the effects of the disease, as measured by the number of people who fall ill and suffer significant illness. Measurement is important; in this example, the goal is focused on the effects of the disease, and not on the means for achieving the desired impact. For example, the goal is not to vaccinate a certain percentage of the population against the disease; that may be an activity necessary to achieving the Strategic Goal, but it is not the Strategic Goal.
+    - An example of an Intermediate Goal is the successful completion of a trial of a vaccine against the disease. This is still ambitious and measurable, and achieving it may require the completion of many different activities, but it is seen as a necessary step on the path to achieving the Strategic Goal.
+      Examples of immediate tactical goals may include activities like isolating symptoms, evaluating a therapy, sequencing the DNA of a virus or bacterium, and so forth.
+    - The Strategic Goal is usually focused on achieving a highly desirable but unrealized outcome for a specific group of people that results in improved happiness, safety, security, or well-being of the recipients of some product or service. In EBM, we refer to this as Unrealized Value, which is the satisfaction gap between a beneficiary’s desired outcome and their current experience. Unrealized Value is described in greater detail below, in the Key-Value Areas section.
+
+    ## Understanding What Is Valuable
+
+    Organizations measure many different kinds of things. Broadly speaking, measures fall into three categories:
+
+    - **Activities**. These are things that people in the organization do, such as perform work, go to meetings, have discussions, write code, create reports, attend conferences, and so forth.
+    - **Outputs**. These are things that the organization produces, such as product releases (including features), reports, defect reports, product reviews, and so on.
+    - **Outcomes**. These are desirable things that a customer or user of a product experiences. They represent some new or improved capability that the customer or user was not able to achieve before. Examples include being able to travel to a destination faster than before or being able to earn or save more money than before. Outcomes can also be negative, as in the case where the value a customer or user experiences declines from previous experiences, for example when a service they previously relied upon is no longer available.
+
+    The problem most organizations face, which is often reflected in the things they measure, is that measuring activities and outputs is easy while measuring outcomes is difficult. Organizations may gather a lot of data with insufficient information about their ability to deliver value. However, delivering valuable outcomes to customers is essential if organizations are to reach their goals. For example, working more hours (activities) and delivering more features (outputs) does not necessarily lead to improved customer experiences (outcomes).
+
+    ## Four Key Value Areas
+
+    In addition to using hypotheses and experiments to move toward goals, EBM provides a set of perspectives on value and the organization’s ability to deliver value. These perspectives are called Key Value Areas (KVAs). These areas examine the goals of the organization (Unrealized Value), the current state of the organization relative to those goals (Current Value), the responsiveness of the organization in delivering value (Time-to-Market), and the effectiveness of the organization in delivering value (Ability-to-Innovate). Focusing on these four dimensions enables organizations to better understand where they are and where they need to go (see
+    Figure 2).
+
+    ![EBM focuses on four Key Value Areas (KVAs)](https://nkdagility.com/wp-content/uploads/2020/11/naked-agility-evidence-based-management-768x394.jpg)
+
+    Each KVA focuses on a different aspect of either value or the ability of the organization to deliver value. Delivering business value (Current Value) is important, but organizations must also show that they can respond to change (Time-to-Market) while being able to sustain innovation over time (Ability-to-Innovate). And they must be able to continually make progress toward their long-term goals (Unrealized Value) or they risk succumbing to stagnation and complacency. Example Key Value Measures (KVMs) for each KVA are described in the Appendix.
+
+    ### Current Value (CV)
+
+    The value that the product delivers today.
+
+    The purpose of looking at CV is to understand the value that an organization delivers to
+    customers and stakeholders at the present time; it considers only what exists right now, not the
+    value that might exist in the future. Questions that organizations need to continually re-evaluate
+    for current value are:
+
+    - How happy are users and customers today? Is their happiness improving or declining?
+    - How happy are your employees today? Is their happiness improving or declining?
+    - How happy are your investors and other stakeholders today? Is their happiness improving or declining?
+
+    Considering CV helps an organization understand the value that their customers or users experience today
+
+    > Example: While profit, one way to measure investor happiness, will tell you the economic impact of the value that you deliver, knowing whether customers are happy with their purchase will tell you more about where you may need to improve to keep those customers. If your customers have few alternatives to your product, you may have high profit even though customer satisfaction is low. Considering CV from several perspectives will give you a better understanding of your challenges and opportunities. Customer happiness and investor happiness also do not tell the whole story about your ability to deliver value. Considering employee attitudes recognizes that employees are ultimately the producers of value. Engaged employees that know how to maintain, sustain and enhance the product are one of the most significant assets of an organization, and happy employees are more engaged and productive.
+
+    ### Unrealized Value (UV)
+
+    The potential future value that could be realized if the organization met the needs of all potential customers or users
+
+    Looking at Unrealized Value helps an organization to maximize the value that it realizes from a product or service over time. When customers, users, or clients experience a gap between their current experience and the experience that they would like to have, the difference between the two represents an opportunity; this opportunity is measured by Unrealized Value.
+
+    Questions that organizations need to continually re-evaluate for UV are:
+
+    - Can any additional value be created by our organization in this market or other markets?
+    - Is it worth the effort and risk to pursue these untapped opportunities?
+    - Should further investments be made to capture additional Unrealized Value?
+
+    The consideration of both CV and UV provides organizations with a way to balance present and possible future benefits. Strategic Goals are formed from some satisfaction gap and an opportunity for an organization to decrease UV by increasing CV.
+
+    > Example: A product may have low CV, because it is an early version being used to test the market, but very high UV, indicating that there is great market potential. Investing in the product to try to boost CV is probably warranted, given the potential returns, even though the product is not currently producing high CV. Conversely, a product with very high CV, large market share, no near competitors, and very satisfied customers may not warrant much new investment; this is the classic cash cow product that is very profitable but nearing the end of its product investment cycle with low UV.
+
+    ### Time-to-Market (T2M)
+
+    The organization’s ability to quickly deliver new capabilities, services, or products
+
+    The reason for looking at T2M is to minimize the amount of time it takes for the organization to deliver value. Without actively managing T2M, the ability to sustainably deliver value in the future is unknown. Questions that organizations need to continually re-evaluate for T2M are:
+
+    - How fast can the organization learn from new experiments and information?
+    - How fast can you adapt based on the information?
+    - How fast can you test new ideas with customers?
+
+    Improving T2M helps improve the frequency at which an organization can potentially change
+    CV.
+
+    > Example: Reducing the number of features in a product release can dramatically improve T2M; the smallest release possible is one that delivers at least some
+    > incremental improvement in value to some subset of the customers/users of the product. Many organizations also focus on removing non value-added activities from the product development and delivery process to improve their T2M.
+
+    ### Ability to Innovate (A2I)
+
+    The effectiveness of an organization to deliver new capabilities that might better meet customer needs
+
+    The goal of looking at the A2I is to maximize the organization’s ability to deliver new capabilities
+    and innovative solutions. Organizations should continually re-evaluate their A2I by asking:
+
+    - What prevents the organization from delivering new value?
+    - What prevents customers or users from benefiting from that innovation?
+    - Improving A2I helps an organization become more effective in ensuring that the work that it does improves the value that its products or services deliver to customers or users.
+
+    > Example: A variety of things can impede an organization from being able to deliver new capabilities and value: spending too much time remedying poor product quality, needing to maintain multiple variations of a product due to lack of operational excellence, lack of decentralized decision-making, inability to hire and inspire talented, passionate team members, and so on.
+    > As low-value features and systemic impediments accumulate, more budget and time is consumed maintaining the product or overcoming impediments, reducing its available capacity to innovate. In addition, anything that prevents users or customers from benefiting from innovation, such as hard to assemble/install products or new versions of products, will also reduce A2I.
+
+    ## Progress toward Goals
+
+    The first step in the journey toward a Strategic Goal is understanding your Current State. If your focus is to achieve a Strategic Goal related to Unrealized Value (UV), as is typically the case, then measuring the Current Value (CV) your product or service delivers is where you should start (of course, if your product or service is new then its CV will be zero). To understand where you need to improve, you may also need to understand your effectiveness (A2I), and your responsiveness (T2M).
+
+    The Experiment Loop (shown in Figure 1) helps organizations move from their Current State toward their Next Target Goal, and ultimately their Strategic Goal, by taking small, measured steps, called experiments, using explicit hypotheses.3 This loop consists of:
+
+    - **Forming a hypothesis for improvement.** Based on experience, form an idea of something you think will help you move toward your Next Target Goal, and decide how you will know whether this experiment succeeded based on measurement.
+    - **Running your experiments.** Make the change you think will help you to improve and gather data to support or refute your hypothesis.
+    - **Inspecting your results. **Did the change you made improve your results based on the measurements you have made? Not all changes do; some changes actually make things worse.
+    - **Adapting your goals or your approach based on what you learned.** Both your goals and your improvement experiments will likely evolve as you learn more about customers, competitors, and your organization’s capabilities. Goals can change because of outside events, and your tactics to reach your goals may need to be reconsidered and revised. Was the Intermediate Goal the right goal? Is the Strategic Goal still relevant? If you achieved the Intermediate Goal, you will need to choose a new Intermediate Goal. If you did not achieve it, you will need to decide whether you need to persevere, stop, or pivot toward something new. If your Strategic Goal is no longer relevant, you will need to either adapt it, or replace it.
+
+    ## Hypotheses, Experiments, Features, and Requirements
+
+    Features are “distinguishing characteristics of a product” , while a requirement is, practically speaking, something that someone thinks would be desirable in a product. A feature description is one kind of requirement.
+
+    Organizations can spend a lot of money implementing features and other requirements in products, only to find that customers don’t share the company’s opinion on their value; beliefs in what is valuable are merely assumptions until they are validated by customers. This is where hypotheses and experiments are useful.
+
+    In simplified terms, a hypothesis is a proposed explanation for some observation that has not yet been proven (or disproven). In the context of requirements, it is a belief that doing something will lead to something else, such as delivering feature X will lead to outcome Y. An experiment is a test that is designed to prove or reject some hypothesis.
+
+    Every feature and every requirement really represent a hypothesis about value. One of the goals of an empirical approach is to make these hypotheses explicit and to consciously design experiments that explicitly test the value of the features and requirements. The entire feature or requirement need not actually be built to determine whether it is valuable; it may be sufficient for a team to simply build enough of it to validate critical assumptions that would prove or disprove its value.
+
+    Explicitly forming hypotheses, measuring results, and inspecting and adapting goals based on those results are implicit parts of an agile approach. Making this work explicit and transparent is what EBM adds to the organizational improvement process.
+
+    ## End Note
+
+    Evidence-Based Management is free and offered in this Guide. Although implementing only parts of EBM is possible, the result is not Evidence-Based Management
+
+    ## Acknowledgements
+
+    Evidence-Based Management was collaboratively developed by Scrum.org, the Professional Scrum Trainer community, Ken Schwaber and Christina Schwaber.
+
+    ## Appendix: Example Key Value Measures
+
+    To encourage adaptability, EBM defines no specific Key Value Measures (KVMs). KVMs listed below are presented to show the kinds of measures that might help an organization to understand its current state, desired future state, and factors that influence its ability to improve.
+
+    ### Current Value (CV)
+
+    | KVM                   | Measuring                                                                                                                                                                                            |
+    | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    | Revenue per Employee  | The ratio (gross revenue / # of employees) is a key competitive indicator within an industry. This varies significantly by industry.                                                                 |
+    | Product Cost Ratio    | Total expenses and costs for the product(s)/system(s) being measured, including operational costs compared to revenue.                                                                               |
+    | Employee Satisfaction | Some form of sentiment analysis to help gauge employee engagement, energy, and enthusiasm.                                                                                                           |
+    | Customer Satisfaction | Some form of sentiment analysis to help gauge customer engagement and happiness with the product.                                                                                                    |
+    | Customer Usage Index  | Measurement of usage, by feature, to help infer the degree to which customers find the product useful and whether actual usage meets expectations on how long users should be taking with a feature. |
+
+    {: .table .table-striped .table-bordered .d-none .d-md-block}
+
+    ### Unrealized Value (UV)
+
+    | KVM                                         | Measuring                                                                                                                                                       |
+    | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    | Market Share                                | The relative percentage of the market not controlled by the product; the potential market share that the product might achieve if it better met customer needs. |
+    | Customer or User Satisfaction Gap           | The difference between a customer or user’s desired experience and their current experience.                                                                    |
+    | Desired Customer Experience or satisfaction | A measure that indicates the experience that the customer would like to have.                                                                                   |
+
+    {: .table .table-striped .table-bordered .d-none .d-md-block}
+
+    ### Time-to-Market (T2M)
+
+    | KVM                             | Measuring                                                                                                                                                                                                                                                                                                                                                                                                          |
+    | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+    | Build and Integration Frequency | The number of integrated and tested builds per time period. For a team that is releasing frequently or continuously, this measure is superseded by actual release measures.                                                                                                                                                                                                                                        |
+    | Release Frequency               | The number of releases per time period, e.g. continuously, daily, weekly, monthly, quarterly, etc. This helps reflect the time needed to satisfy the customer with new and competitive products.                                                                                                                                                                                                                   |
+    | Release Stabilization Period    | The time spent correcting product problems between the point the developers say it is ready to release and the point where it is actually released to customers. This helps represent the impact of poor development practices and underlying design and codebase.                                                                                                                                                 |
+    | Mean Time to Repair             | The average amount of time it takes from when an error is detected and when it is fixed. This helps reveal the efficiency of an organization to fix an error.                                                                                                                                                                                                                                                      |
+    | Customer Cycle Time             | The amount of time from when work starts on a release until the point where it is actually released. This measure helps reflect an organization’s ability to reach its customer.                                                                                                                                                                                                                                   |
+    | Lead Time                       | The amount of time from when an idea is proposed or a hypothesis is formed until a customer can benefit from that idea. This measure may vary based on customer and product. It is a contributing factor in customer satisfaction.                                                                                                                                                                                 |
+    | Lead Time for Changes           | The amount of time to go from code-committed to code successfully running in production. For more information, see the DORA 2019 report.                                                                                                                                                                                                                                                                           |
+    | Deployment Frequency            | The number of times that the organization deployed (released) a new version of the product to customers/users. For more information, see the DORA 2019 report.                                                                                                                                                                                                                                                     |
+    | Time to Restore Service         | The amount of time between the start of a service outage and the restoration of full availability of the service. For more information, see the DORA 2019 report.                                                                                                                                                                                                                                                  |
+    | Time-to-Learn                   | The total time needed to sketch an idea or improvement, build it, deliver it to users, and learn from their usage.                                                                                                                                                                                                                                                                                                 |
+    | Time to remove Impediment       | The average amount of time from when an impediment is raised until when it is resolved. It is a contributing factor to lead time and employee satisfaction                                                                                                                                                                                                                                                         |
+    | Time to Pivot                   | A measure of true business agility that presents the elapsed time between when an organization receives feedback or new information and when it responds to that feedback; for example, the time between when it finds out that a competitor has delivered a new market-winning feature to when the organization responds with matching or exceeding new capabilities that measurably improve customer experience. |
+
+    {: .table .table-striped .table-bordered .d-none .d-md-block}
+
+    ### Ability to Innovate (A2I)
+
+    | KVM                                      | Measuring                                                                                                                                                                                                                                                      |
+    | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    | Innovation Rate                          | The percentage of effort or cost spent on new product capabilities, divided by total product effort or cost. This provides insight into the capacity of the organization to deliver new product capabilities.                                                  |
+    | Defect Trends                            | Measurement of change in defects since the last measurement. A defect is anything that reduces the value of the product to a customer, user, or to the organization itself. Defects are generally things that don’t work as intended.                          |
+    | On-Product Index                         | The percentage of time teams spend working on product and value.                                                                                                                                                                                               |
+    | Installed Version Index                  | The number of versions of a product that are currently being supported. This reflects the effort the organization spends supporting and maintaining older versions of the software.                                                                            |
+    | Technical Debt                           | A concept in programming that reflects the extra development and testing work that arises when “quick and dirty” solutions result in later remediation. It creates an undesirable impact on the delivery of value and an avoidable increase in waste and risk. |
+    | Production Incident Count                | The number of times in a given period that the Development Team was interrupted to fix a problem in an installed product. The number and frequency of Production Incidents can help indicate the stability of the product.                                     |
+    | Active Product (Code) Branches           | The number of different versions (or variants) of a product or service. Provides insight into the potential impact of change and the resulting complexity of work.                                                                                             |
+    | Time Spent Merging Code Between Branches | The amount of time spent applying changes across different versions of a product or service. Provides insight into the potential impact of change and the resulting complexity of work.                                                                        |
+    | Time Spent Context-Switching             | Examples include time lost to interruptions caused by meetings or calls, time spent switching between tasks, and time lost when team members are interrupted to help people outside the team can give simple insight into the magnitude of the problem.        |
+    | Change Failure Rate                      | The percentage of released product changes that result in degraded service and require remediation (e.g. hotfix, rollback, patch). For more information, see the DORA 2019 report.                                                                             |
+
+    {: .table .table-striped .table-bordered .d-none .d-md-block}
+
+    © 2020 Scrum.org
+    This publication is offered for license under the Attribution Share-Alike license of Creative Commons,
+    accessible at http://creativecommons.org/licenses/by-sa/4.0/legalcode and also described in
+    summary form at http://creativecommons.org/licenses/by-sa/4.0/. By utilizing this EBM Guide, you
+    acknowledge and agree that you have read and agree to be bound by the terms of the Attribution
+    Share-Alike license of Creative Commons.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\evidence-based-management-guide-2020\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\evidence-based-management-guide-2020
 

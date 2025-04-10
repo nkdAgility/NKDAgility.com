@@ -53,13 +53,6 @@ tags:
 - Evidence Based Leadership
 - Evidence Based Management
 - Lean Principles
-- Organisational Agility
-- Social Technologies
-- Software Development
-- Systems Thinking
-- Value Delivery
-- Continuous Improvement
-- Team Motivation
 categories:
 - Lean
 - Leadership

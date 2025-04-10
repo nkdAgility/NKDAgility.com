@@ -49,10 +49,6 @@ tags:
 - Continuous Delivery
 - Engineering Practices
 - Throughput
-- Team Performance
-- Sprint Review
-- Continuous Improvement
-- Definition of Done
 categories:
 - Engineering Excellence
 - Scrum

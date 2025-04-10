@@ -61,17 +61,6 @@ tags:
 - Team Performance
 - Cross Functional Teams
 - Product Owner
-- Scrum Master
-- Agile Planning
-- Operational Practices
-- Sprint Review
-- Definition of Done
-- Agile Strategy
-- Backlog Refinement
-- Collaboration Tools
-- Common Goals
-- Decision Making
-- Enterprise Agility
 
 ---
 The Definitive Guide to Scaling Scrum with Nexus

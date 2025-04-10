@@ -50,7 +50,6 @@ tags:
 - Agile Product Operating Model
 - Agile Strategy
 - Empirical Process Control
-- Organisational Agility
 resourceTypes:
 - video
 categories:

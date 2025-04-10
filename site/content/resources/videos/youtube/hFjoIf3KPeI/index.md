@@ -52,15 +52,6 @@ tags:
 - Mentoring
 - Self Organisation
 - Continuous Improvement
-- Operational Practices
-- Organisational Psychology
-- Professional Scrum
-- Social Technologies
-- Sociotechnical Systems
-- Personal
-- Agile Philosophy
-- Agile Strategy
-- Product Delivery
 resourceTypes:
 - video
 categories:

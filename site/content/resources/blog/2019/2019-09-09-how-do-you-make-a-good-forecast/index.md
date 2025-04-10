@@ -48,15 +48,6 @@ tags:
 - Value Delivery
 - Estimation
 - Flow Efficiency
-- Agile Product Operating Model
-- Change Management
-- Complexity Thinking
-- Evidence Based Leadership
-- Organisational Physics
-- Social Technologies
-- Sociotechnical Systems
-- Evidence Based Management
-- Team Performance
 categories:
 - Scrum
 - Product Management

@@ -50,11 +50,6 @@ tags:
 - Change Management
 - Continuous Improvement
 - Enterprise Agility
-- Organisational Change
-- Organisational Physics
-- Throughput
-- Flow Efficiency
-- Modern Source Control
 resourceTypes:
 - video
 categories:

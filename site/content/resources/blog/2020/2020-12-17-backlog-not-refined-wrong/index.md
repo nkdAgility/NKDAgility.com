@@ -49,11 +49,6 @@ tags:
 - Agile Transformation
 - Value Delivery
 - Competence
-- Continuous Improvement
-- Empirical Process Control
-- Team Collaboration
-- Working Agreements
-- Estimation
 categories:
 - Scrum
 - Product Management

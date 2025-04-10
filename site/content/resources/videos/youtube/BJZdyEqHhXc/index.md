@@ -45,14 +45,6 @@ tags:
 - Beta Codex
 - Coaching
 - Organisational Agility
-- Sociotechnical Systems
-- Value Delivery
-- Market Adaptability
-- Miscellaneous
-- Organisational Physics
-- Mentoring
-- Operational Practices
-- Sensemaking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

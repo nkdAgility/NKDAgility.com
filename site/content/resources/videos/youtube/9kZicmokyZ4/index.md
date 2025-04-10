@@ -51,12 +51,6 @@ tags:
 - Business Agility
 - Product Delivery
 - Agile Frameworks
-- Agile Planning
-- Agile Values and Principles
-- Enterprise Agility
-- Social Technologies
-- Working Software
-- Continuous Learning
 resourceTypes:
 - video
 categories:

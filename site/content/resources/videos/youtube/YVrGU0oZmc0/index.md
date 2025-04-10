@@ -47,14 +47,6 @@ tags:
 - Customer Feedback Loops
 - Technical Mastery
 - Customer Retention
-- Market Adaptability
-- Product Validation
-- Continuous Learning
-- Customer Satisfaction
-- Empirical Process Control
-- Organisational Agility
-- Experimentation
-- Time to Market
 resourceTypes:
 - video
 sitemap:

@@ -53,15 +53,6 @@ tags:
 - Common Goals
 - Professional Scrum
 - Scrum Team
-- Employee Engagement
-- Organisational Agility
-- Organisational Culture
-- Psychological Safety
-- Organisational Psychology
-- Sociotechnical Systems
-- Strategic Goals
-- Product Delivery
-- Value Delivery
 resourceTypes:
 - video
 categories:

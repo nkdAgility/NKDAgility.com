@@ -46,9 +46,6 @@ tags:
 - Continuous Improvement
 - Empirical Process Control
 - Product Delivery
-- Business Agility
-- Change Management
-- Scrum Master
 sitemap:
   filename: sitemap.xml
   priority: 0.6

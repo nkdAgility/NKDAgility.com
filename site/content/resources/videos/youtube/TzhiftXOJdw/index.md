@@ -50,11 +50,6 @@ tags:
 - Continuous Improvement
 - Digital Transformation
 - Strategic Goals
-- Ability to Innovate
-- Agile Product Management
-- Social Technologies
-- Value Delivery
-- Organisational Physics
 resourceTypes:
 - video
 categories:

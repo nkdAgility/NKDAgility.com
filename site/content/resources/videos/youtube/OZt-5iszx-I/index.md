@@ -52,19 +52,6 @@ tags:
 - Agile Frameworks
 - Agile Product Management
 - Agile Product Operating Model
-- Empirical Process Control
-- Product Backlog
-- Throughput
-- Agile Planning Tools
-- Cycle Time
-- Deployment Frequency
-- Lean Product Development
-- Market Adaptability
-- Social Technologies
-- Team Collaboration
-- Agile Values and Principles
-- Customer Retention
-- Product Strategy
 resourceTypes:
 - video
 categories:

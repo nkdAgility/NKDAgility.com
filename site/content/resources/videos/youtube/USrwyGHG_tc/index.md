@@ -53,11 +53,6 @@ tags:
 - Employee Engagement
 - Psychological Safety
 - Social Technologies
-- Organisational Agility
-- Organisational Culture
-- Scrum Values
-- Product Delivery
-- Agile Philosophy
 resourceTypes:
 - video
 categories:

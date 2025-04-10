@@ -52,14 +52,6 @@ tags:
 - Agile Transformation
 - Agile Values and Principles
 - Operational Practices
-- Team Collaboration
-- Sociotechnical Systems
-- Empirical Process Control
-- Personal
-- Product Delivery
-- Competence
-- Organisational Change
-- Change Management
 resourceTypes:
 - video
 categories:
