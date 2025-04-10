@@ -25,7 +25,8 @@ function Get-Prompt {
     }
 
     # Check for any unreplaced parameters like {{...}}
-    if ($PromptContent -match "{{\s*[^}]+\s*}}") {
+    if ($PromptContent -match "{{\s*[^<%][^}]*\s*}}") {
+
         Write-Error "Prompt contains unresolved parameters: $($Matches[0])"
         exit 1
         return $null
