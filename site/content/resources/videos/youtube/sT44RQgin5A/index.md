@@ -41,15 +41,15 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Decision Making
-- Ability to Innovate
+- Current Value
+- Time to Market
+- Unrealised Value
 - Empirical Process Control
 - Working Software
+- Ability to Innovate
 - Business Agility
 - Market Adaptability
 - Agile Frameworks
-- Agile Strategy
-- Customer Satisfaction
-- Product Strategy
 resourceTypes:
 - video
 categories:

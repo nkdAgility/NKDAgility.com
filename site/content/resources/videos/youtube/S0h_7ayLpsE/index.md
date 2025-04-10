@@ -42,18 +42,19 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Value Delivery
-- Ability to Innovate
+- Current Value
+- Unrealised Value
+- Time to Market
 - Empirical Process Control
 - Business Agility
 - Agile Strategy
 - Continuous Improvement
 - Customer Satisfaction
-- Decision Theory
-- Working Software
 resourceTypes:
 - video
 categories:
 - Product Management
+- Product Development
 - Engineering Excellence
 
 ---

@@ -61,6 +61,7 @@ card:
   title: The Scrum Guide
 categories:
 - Scrum
+- Product Development
 tags:
 - Professional Scrum
 - Transparency

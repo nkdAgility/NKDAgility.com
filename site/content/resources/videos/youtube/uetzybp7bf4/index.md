@@ -33,6 +33,7 @@ tags:
 - Organisational Agility
 - Pragmatic Thinking
 - Sociotechnical Systems
+- Current Value
 - Decision Making
 - Entrepreneurship
 - Organisational Culture

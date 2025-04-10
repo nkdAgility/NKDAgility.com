@@ -28,9 +28,11 @@ card:
 categories:
 - Product Management
 - Engineering Excellence
+- Product Development
 tags:
 - Operational Practices
 - Metrics and Learning
+- Current Value
 - Transparency
 - Evidence Based Leadership
 - Evidence Based Management

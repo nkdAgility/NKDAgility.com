@@ -41,12 +41,13 @@ tags:
 - Continuous Improvement
 - Organisational Agility
 - Software Development
-- Ability to Innovate
+- Current Value
 - Empirical Process Control
 resourceTypes:
 - video
 layout: video
 categories:
+- Product Development
 - Product Management
 
 ---

@@ -34,6 +34,7 @@ tags:
 - Software Development
 - Market Adaptability
 - Organisational Agility
+- Current Value
 - Agile Product Management
 - Agile Strategy
 - Agile Transformation

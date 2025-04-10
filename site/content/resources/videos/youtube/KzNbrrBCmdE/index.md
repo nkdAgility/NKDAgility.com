@@ -34,7 +34,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 In my journey through the world of agile methodologies, I've often found myself reflecting on the delicate balance between flexibility and inflexibility. It’s a topic that resonates deeply with me, especially when I consider the myriad of projects and teams I've worked with over the years. 

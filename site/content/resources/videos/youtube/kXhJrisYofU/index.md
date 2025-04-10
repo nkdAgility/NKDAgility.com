@@ -33,6 +33,7 @@ tags:
 - Market Adaptability
 - Enterprise Agility
 - Agile Strategy
+- Current Value
 - Agile Product Management
 - Agile Philosophy
 - Agile Values and Principles

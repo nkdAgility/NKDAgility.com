@@ -19,6 +19,7 @@ aliasesArchive:
 - /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
 - /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
 categories:
+- Product Development
 - Product Management
 tags:
 - Product Validation

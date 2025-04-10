@@ -37,12 +37,13 @@ card:
 aliases:
 - /resources/Rv0ZjvwYVy5
 categories:
+- Product Development
 - Product Management
 - Engineering Excellence
 tags:
 - Evidence Based Management
-- Ability to Innovate
 - Continuous Improvement
+- Current Value
 - Decision Making
 - Evidence Based Leadership
 - Experimentation

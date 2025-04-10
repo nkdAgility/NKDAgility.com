@@ -26,7 +26,8 @@ card:
     content: Learn More
   content: Discover more about Manifesto for Agile Software Development and how it can help you in your Agile journey!
   title: Manifesto for Agile Software Development
-categories: []
+categories:
+- Product Development
 tags:
 - Agile Values and Principles
 - Agile Philosophy

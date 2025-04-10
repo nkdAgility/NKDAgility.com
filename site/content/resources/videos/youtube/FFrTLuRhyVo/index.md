@@ -30,12 +30,13 @@ isShort: true
 tags:
 - Software Development
 - Value Delivery
-- Ability to Innovate
 - Continuous Improvement
 - Operational Practices
 - Technical Debt
 - Product Delivery
 - Working Software
+- Ability to Innovate
+- Unrealised Value
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -39,10 +39,10 @@ tags:
 - Metrics and Learning
 - Decision Making
 - Evidence Based Management
+- Current Value
 - Product Delivery
 - Pragmatic Thinking
 - Product Strategy
-- Ability to Innovate
 - Agile Product Management
 - Lean Startup
 - Product Owner
@@ -50,6 +50,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

@@ -39,6 +39,7 @@ card:
   title: Sprint Planning Event
 categories:
 - Scrum
+- Product Development
 tags:
 - Scrum Team
 - Agile Frameworks

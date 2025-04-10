@@ -25,6 +25,7 @@ card:
   title: Service Level Expectation (SLE)
 categories:
 - Scrum
+- Product Development
 tags:
 - Forecasting
 - Software Development

@@ -48,7 +48,8 @@ tags:
 - Competence
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 In the world of Scrum, Agile, and Kanban, we often borrow terms from other languages to express important principles. One such term is **Kaizen** – a Japanese word that signifies continuous improvement. While we may not always use the word exactly as intended in its native language, the underlying concept is something we should all embrace in our professional lives.

@@ -41,6 +41,7 @@ card:
   title: Sprint Review Recipe
 categories:
 - Scrum
+- Product Development
 - Product Management
 tags:
 - Sprint Review

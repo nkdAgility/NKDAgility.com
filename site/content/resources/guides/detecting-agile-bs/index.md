@@ -40,6 +40,7 @@ aliasesArchive:
 - /Guides/Detecting-Agile-BS.html
 - /learn/agile-delivery-kit/guides/detecting-agile-bs
 categories:
+- Product Development
 - Engineering Excellence
 tags:
 - Software Development

@@ -34,6 +34,7 @@ card:
   content: Discover more about The Evidence-Based Management Guide
   title: The Evidence-Based Management Guide Improving Value Delivery under Conditions of Uncertainty
 categories:
+- Product Development
 - Product Management
 tags:
 - Strategic Goals
@@ -42,7 +43,6 @@ tags:
 - Evidence Based Management
 - Metrics and Learning
 - Value Delivery
-- Ability to Innovate
 - Agile Product Management
 - Agile Strategy
 - Business Agility
@@ -52,10 +52,11 @@ tags:
 - Enterprise Agility
 - Common Goals
 - Continuous Improvement
+- Current Value
 - Hypothesis Driven Development
+- Unrealised Value
 - Empirical Process Control
 - Pragmatic Thinking
-- Experimentation
 
 ---
 # The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty

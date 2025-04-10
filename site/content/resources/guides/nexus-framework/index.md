@@ -39,9 +39,11 @@ card:
   title: Nexus Guide
 categories:
 - Scrum
+- Product Development
 tags:
 - Professional Scrum
 - Agile Frameworks
+- Scaling
 - Software Development
 - Increment
 - Product Delivery
@@ -59,7 +61,6 @@ tags:
 - Team Collaboration
 - Team Performance
 - Cross Functional Teams
-- Product Owner
 
 ---
 The Definitive Guide to Scaling Scrum with Nexus

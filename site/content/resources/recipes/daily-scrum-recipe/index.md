@@ -42,6 +42,7 @@ card:
   title: Daily Scrum Recipe
 categories:
 - Scrum
+- Product Development
 tags:
 - Daily Scrum
 - Software Development

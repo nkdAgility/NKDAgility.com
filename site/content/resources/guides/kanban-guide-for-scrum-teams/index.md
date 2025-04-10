@@ -32,7 +32,8 @@ card:
     content: Learn More
   content: Discover more about Kanban Guide for Scrum Teams and how it can help you in your Agile journey!
   title: Kanban Guide for Scrum Teams
-categories: []
+categories:
+- Product Development
 tags:
 - Software Development
 - Flow Efficiency

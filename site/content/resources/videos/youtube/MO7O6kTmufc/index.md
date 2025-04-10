@@ -31,8 +31,8 @@ tags:
 - Evidence Based Management
 - Pragmatic Thinking
 - Metrics and Learning
-- Ability to Innovate
 - Operational Practices
+- Current Value
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -40,6 +40,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

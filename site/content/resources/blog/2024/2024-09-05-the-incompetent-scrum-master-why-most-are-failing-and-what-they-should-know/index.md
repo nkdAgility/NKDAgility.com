@@ -48,7 +48,7 @@ tags:
 categories:
 - Scrum
 - Technical Leadership
-- Engineering Excellence
+- Product Development
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
 
 ---

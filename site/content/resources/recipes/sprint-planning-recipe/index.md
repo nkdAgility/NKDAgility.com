@@ -39,6 +39,7 @@ card:
   title: Sprint Planning Recipe
 categories:
 - Scrum
+- Product Development
 tags:
 - Software Development
 - Agile Planning

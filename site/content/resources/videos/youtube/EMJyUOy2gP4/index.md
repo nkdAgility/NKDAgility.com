@@ -38,17 +38,17 @@ tags:
 - Pragmatic Thinking
 - Team Performance
 - Evidence Based Leadership
-- Agile Product Management
 - Current Value
+- Agile Product Management
 - Decision Making
 - Operational Practices
 - Product Delivery
 - Value Delivery
 - Agile Frameworks
-- Ability to Innovate
 - Agile Transformation
 - Evidence Based Management
 - Working Software
+- Ability to Innovate
 resourceTypes:
 - video
 categories:

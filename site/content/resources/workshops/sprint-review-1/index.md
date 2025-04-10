@@ -43,7 +43,9 @@ card:
   title: 'Sprint Review #1'
 categories:
 - Scrum
+- Product Development
 tags:
+- Liberating Structures
 - Sprint Review
 - Empirical Process Control
 - Transparency
@@ -63,7 +65,6 @@ tags:
 - Common Goals
 - Continuous Improvement
 - Decision Making
-- Product Backlog
 
 ---
 While this workshop can be used on its own, it was designed to be used as part of the [Sprint Review Recipe](../_recipes/sprint-review-recipe.md).

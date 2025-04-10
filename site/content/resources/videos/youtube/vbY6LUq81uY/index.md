@@ -31,13 +31,13 @@ tags:
 - Pragmatic Thinking
 - Lean Startup
 - Hypothesis Driven Development
-- Ability to Innovate
 - Lean Product Development
 - Metrics and Learning
 - Product Discovery
 - Value Delivery
 - Product Validation
 - Experimentation
+- Ability to Innovate
 sitemap:
   filename: sitemap.xml
   priority: 0.6
