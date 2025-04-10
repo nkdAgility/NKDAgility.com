@@ -24,6 +24,13 @@ function Get-Prompt {
         $PromptContent = $PromptContent -replace "(?i){{\s*$Key\s*}}", $Value
     }
 
+    # Check for any unreplaced parameters like {{...}}
+    if ($PromptContent -match "{{\s*[^}]+\s*}}") {
+        Write-Error "Prompt contains unresolved parameters: $($Matches[0])"
+        exit 1
+        return $null
+    }
+
     return $PromptContent
 }
 
