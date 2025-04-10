@@ -1,5 +1,6 @@
 ---
 title: Change Management
+abstract: Change Management is a structured approach aimed at guiding individuals, teams, and organisations through the transition from their current state to a desired future state. Originating from the need to effectively implement new processes, technologies, and mindsets, it plays a critical role in ensuring that changes are not only executed but also embraced by all stakeholders, leading to sustainable improvements in performance and value delivery. By prioritising the human aspects of change, this methodology helps teams navigate the complexities of organisational dynamics, thereby reducing resistance and enhancing engagement. Recognising that change is an ongoing journey rather than a one-off event, effective change management provides the necessary support and reinforcement to empower teams to respond to market demands and internal challenges with agility. This approach aligns closely with Lean and Agile principles, fostering a culture of continuous improvement and learning through experimentation and adaptation. Such a long-term perspective is vital for building resilience and nurturing a culture that thrives on innovation and collaboration, ultimately driving organisational success and growth.
 ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false

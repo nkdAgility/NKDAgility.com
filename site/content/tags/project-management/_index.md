@@ -1,5 +1,6 @@
 ---
 title: Project Management
+abstract: Project Management is the systematic discipline focused on planning, executing, and overseeing projects to achieve specific goals while adhering to constraints such as time, cost, and scope. It encompasses the coordination of people, processes, and technologies to ensure successful project outcomes in a structured and repeatable manner. Originating from various methodologies, modern project management incorporates both traditional frameworks like Waterfall and PRINCE2, as well as more flexible approaches such as Agile and hybrid models, which are adapted based on the project's complexity and context. The importance of project management lies in its ability to align teams around common objectives, proactively manage risks, and maintain stakeholder engagement throughout the project lifecycle. Additionally, it fosters a culture of continuous improvement by emphasising lessons learned and the regular review of performance metrics. Ultimately, effective project management aims to deliver value consistently while adeptly navigating change, uncertainty, and complexity, making it a critical component in agile practices, DevOps, product development, and organisational design.
 ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false

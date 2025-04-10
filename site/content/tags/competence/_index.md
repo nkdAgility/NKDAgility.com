@@ -1,5 +1,6 @@
 ---
 title: Competence
+abstract: Competence is a critical element of professional effectiveness, encompassing the development, demonstration, and application of essential skills, knowledge, and judgement to achieve quality outcomes. It is derived from a commitment to continuous learning and deliberate practice, requiring individuals and organisations to earn and adapt their capabilities over time. In the context of agile methodologies, DevOps practices, product development, and organisational design, competence is vital as it underpins the successful execution of frameworks, processes, and tools. Without a foundation of competence, efforts may devolve into performative activities that fail to yield meaningful progress, jeopardising quality, trust, and value delivery. Therefore, every decision and action taken within an organisation must be rooted in the ability to execute with professionalism and expertise, ensuring that the outcomes align with the intended goals and standards.
 ClassificationType: tags
 ClassificationContentOrigin: human
 date: 2025-03-21T14:44:55Z

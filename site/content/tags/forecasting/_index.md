@@ -1,5 +1,6 @@
 ---
 title: Forecasting
+abstract: Forecasting is the practice of utilising empirical data to predict delivery timelines, manage risks, and optimise value delivery within Agile and Scrum frameworks. It draws from historical performance and current capacity metrics, such as cycle time, lead time, and throughput, enabling teams to make informed decisions that lead to a more predictable and sustainable approach to product development. This practice is vital for promoting transparency and accountability, as it encourages teams to reflect on their processes and outcomes, moving beyond subjective estimations to data-driven insights that enhance decision-making. By anticipating challenges and adapting proactively, teams can improve overall efficiency and effectiveness. Integrating forecasting into Agile practices not only aids in achieving immediate project goals but also fosters long-term organisational agility, creating a resilient environment that can adapt to changing market demands. This systemic approach ultimately enhances the ability to deliver high-quality products that align with customer needs and business objectives, thereby cultivating a culture of continuous improvement and innovation.
 ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false

@@ -1,5 +1,6 @@
 ---
 title: Scrum Team
+abstract: A Scrum Team is a fundamental component of the Scrum framework, tasked with delivering value through iterative and incremental work. Comprising a Scrum Master, Product Owner, and Developers, the team operates collaboratively towards a unified Product Goal. Characterised by its self-managing and cross-functional nature, the Scrum Team eschews sub-teams and hierarchies, holding collective accountability for producing a usable Increment at the end of each Sprint. While individual members may have specific roles, the team's shared responsibility encompasses all facets of product delivery, including stakeholder engagement, development, validation, and release. This structure empowers the Scrum Team to autonomously manage its work, making it a vital element in agile methodologies, DevOps practices, and effective organisational design. Understanding the dynamics and responsibilities of the Scrum Team is crucial for navigating complex and adaptive environments, as it highlights the importance of collaboration and accountability in achieving successful product outcomes.
 ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false

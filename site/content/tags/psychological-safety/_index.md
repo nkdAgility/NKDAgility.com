@@ -1,5 +1,6 @@
 ---
 title: Psychological Safety
+abstract: Psychological safety is the shared belief within a team that it is safe to take interpersonal risks, allowing members to express their thoughts, ask questions, and admit mistakes without fear of negative repercussions. This concept originates from research in organisational behaviour and is increasingly recognised as vital in environments that prioritise collaboration and innovation. In the context of agile methodologies, DevOps practices, and product development, psychological safety is essential as it fosters open communication and encourages team members to contribute ideas, challenge existing norms, and provide constructive feedback. Such an environment not only enhances employee engagement and retention but also improves overall team performance and resilience. By promoting a culture of learning where experimentation is welcomed and failures are seen as growth opportunities, organisations can better adapt to challenges and navigate complexity. Ultimately, psychological safety serves as a foundational element that empowers teams to thrive in dynamic settings, cultivating trust and collaboration that are crucial for success in contemporary organisational design.
 ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false

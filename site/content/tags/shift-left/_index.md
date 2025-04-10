@@ -1,5 +1,6 @@
 ---
 title: Shift-Left Strategy
+abstract: The Shift-Left Strategy is a proactive approach in modern software development that emphasises the integration of testing, security, and compliance activities early in the development lifecycle, rather than deferring them to the end. Originating from the need to mitigate risks associated with late-stage defect detection, this strategy allows teams to identify and address issues sooner, thereby reducing the amount of rework required and accelerating feedback loops. By implementing practices such as automated testing, security as code, and continuous integration, organisations can enhance software quality and reliability from the outset. This approach is particularly valuable in agile and DevOps environments, where rapid delivery and high performance are critical. Ultimately, the Shift-Left Strategy fosters a culture of quality and efficiency, ensuring that products are not only delivered faster but also meet the necessary standards for security and compliance, making it an essential component of effective organisational design and product development.
 ClassificationType: tags
 ClassificationContentOrigin: human
 date: 2025-03-17T14:46:11Z

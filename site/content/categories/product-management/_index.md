@@ -1,5 +1,6 @@
 ---
 title: Product Management
+abstract: Product Management is a strategic discipline focused on aligning customer needs, business objectives, and technical feasibility to maximise value delivery in product development. Originating from Agile methodologies, particularly within the Scrum framework, the role of the Product Owner is central to this discipline, emphasising accountability for value rather than mere output. This approach is crucial in ensuring that product teams prioritise impactful features over an extensive list of functionalities, thereby avoiding the pitfalls of feature bloat. Effective Product Management operates within a social system, requiring collaboration with stakeholders, executives, and developers while continuously engaging with users to maintain a compelling product vision. The use of evidence-based management is vital, as it allows Product Managers to make informed decisions based on measurable metrics rather than vanity metrics. Customer feedback is treated as a strategic asset, necessitating discernment in its application to avoid misalignment with product goals. Additionally, technical empathy is essential for understanding the feasibility and risks associated with product strategies, ensuring that desirability, viability, and feasibility are balanced. Clear boundaries of authority and accountability are necessary for effective collaboration, with Product Managers defining the 'what' and 'why', while developers focus on the 'how'. Ultimately, Product Management is about optimising value through informed decision-making, fostering a culture of learning, and prioritising outcomes over outputs, making it a critical function in Agile and DevOps environments.
 ClassificationType: categories
 ClassificationContentOrigin: human
 trustpilot: false
@@ -47,7 +48,7 @@ Customer feedback isn’t a suggestion box—it’s a strategic asset. Gather it
 
 Successful product strategies also demand **technical empathy**. Product Managers don’t need to write code, but they must understand what’s possible, what’s costly, and what’s risky. This is how you balance desirability, viability, and feasibility. You can’t decouple product strategy from technical architecture or delivery capability.
 
-Finally, Product Management thrives in systems with clear **boundaries of authority and accountability**. The Product Manager owns *what* and *why*. Developers own *how*. The Scrum Master enables *how well*. Confusing these boundaries leads to dysfunction, misalignment, and blame.
+Finally, Product Management thrives in systems with clear **boundaries of authority and accountability**. The Product Manager owns _what_ and _why_. Developers own _how_. The Scrum Master enables _how well_. Confusing these boundaries leads to dysfunction, misalignment, and blame.
 
 In short, Product Management is a value-optimising function that sits at the intersection of strategy, execution, and learning. It’s not a job title; it’s an ethos. A relentless focus on outcomes, a commitment to learning, and a willingness to say no. You don’t need more features. You need better decisions.
 
