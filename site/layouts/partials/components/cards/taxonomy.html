@@ -2,9 +2,6 @@
 {{- $context := .context }}
 {{- $subTypes := .subTypes }}
 {{- $pagesToDisplay := .context.Pages.ByWeight }}
-{{- if $subTypes }}
-  {{- $pagesToDisplay = where .context.Pages.ByWeight "Type" "in" $subTypes }}
-{{- end }}
 {{- $count := len $pagesToDisplay }}
 {{- if eq $count 0 }}
   {{- return }}
