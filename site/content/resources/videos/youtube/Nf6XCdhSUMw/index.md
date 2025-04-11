@@ -32,8 +32,6 @@ tags:
 - Pragmatic Thinking
 - Operational Practices
 - Continuous Improvement
-- People and Process
-- Ability to Innovate
 - Value Delivery
 sitemap:
   filename: sitemap.xml
@@ -43,6 +41,7 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Product Development
 
 ---
 In my journey through the world of agile and organisational management, I've come to appreciate the profound impact that evidence-based management can have on our decision-making processes. It’s not just a buzzword; it’s a strategic approach that can transform how we operate at both tactical and strategic levels. Today, I want to share my insights on this topic, drawing from my experiences and the lessons I've learned along the way.

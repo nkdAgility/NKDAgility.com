@@ -9,7 +9,7 @@ ResourceImportId: 9468
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-04-24
-weight: 400
+weight: 340
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,17 +26,24 @@ aliasesArchive:
 tags:
 - Working Software
 - Release Management
+- Product Delivery
 - Software Development
 - Operational Practices
-- Practical Techniques and Tooling
-- Product Delivery
-- Application Lifecycle Management
 - Deployment Strategies
+- Technical Excellence
 - Deployment Frequency
 - Frequent Releases
+- Continuous Delivery
+- Application Lifecycle Management
+- Pragmatic Thinking
+- Competence
+- Engineering Practices
+- Install and Configuration
+- Technical Mastery
+- Value Delivery
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

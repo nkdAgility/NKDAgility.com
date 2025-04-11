@@ -2,7 +2,7 @@
 title: 'Taming the Chaos Factor: How to Align Your Agile Teams for Success'
 description: Discover how to combat chaos in Agile teams! Learn key strategies to align goals, enhance communication, and boost morale for a more productive environment.
 date: 2023-11-09T10:45:01Z
-weight: 700
+weight: 665
 ResourceId: ItvOiaC32Hs
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,16 +26,20 @@ preview: https://i.ytimg.com/vi/ItvOiaC32Hs/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
+- Software Development
 - Team Collaboration
-- Agile Project Management
 - Agile Strategy
 - Organisational Agility
 - Team Performance
-- Software Development
 - Common Goals
-- Agile Product Management
 - Agile Leadership
 - Agile Planning
+- Agile Product Management
+- Social Technologies
+- Sociotechnical Systems
+- Team Motivation
+- Agile Transformation
+- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,7 +47,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
 In my journey through the world of Agile, I've often encountered a phenomenon that I like to call the "chaos factor." It's one of the seven signs of the Agile apocalypse, and let me tell you, chaos is everywhere in teams today. It’s a pervasive issue that can derail even the most well-intentioned Agile initiatives. 

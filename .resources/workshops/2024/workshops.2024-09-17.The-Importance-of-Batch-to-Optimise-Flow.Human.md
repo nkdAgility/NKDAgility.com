@@ -17,24 +17,24 @@ aliasesArchive:
 - /learn/agile-delivery-kit/workshops/The-Importance-of-Batch-to-Optimise-Flow
 - /learn/agile-delivery-kit/workshops/the-importance-of-batch-to-optimise-flow/
 date: 2024-09-17
-weight: 620
+weight: 580
 creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
   content: Discover more about The Importance of Batch to Optimise Flow and how it can help you in your Agile journey!
   title: The Importance of Batch to Optimise Flow
-categories:
-- Social Technologies
-- Scrum
-- Kanban
+categories: []
 tags:
 - Flow Efficiency
 - Operational Practices
 - Lean Principles
 - Lean Thinking
-- People and Process
-- Practical Techniques and Tooling
+- Continuous Improvement
+- Pragmatic Thinking
+- Software Development
+- Throughput
+- Product Delivery
 - Value Delivery
 
 ---

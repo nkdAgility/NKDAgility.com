@@ -2,7 +2,7 @@
 title: 7 harbingers of the Agile apocalypse - Judgement
 description: "Unlock the essence of Agile! \U0001F680 Join Martin as he explores core principles, pitfalls of prescriptive methods, and what truly motivates today's workforce."
 date: 2023-10-20T11:00:13Z
-weight: 695
+weight: 665
 ResourceId: FdQpGx-FW-0
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -32,20 +32,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Values and Principles
-- Agile Project Management
-- People and Process
+- Agnostic Agile
 - Agile Transformation
-- Agile Philosophy
 - Software Development
+- Agile Philosophy
+- Agile Values and Principles
 - Business Agility
-- Organisational Agility
 - Pragmatic Thinking
+- Organisational Agility
+- Beta Codex
+- Agile Frameworks
+- Agile Leadership
 - Agile Product Management
+- Enterprise Agility
+- Organisational Change
+- Team Motivation
+- Agile Strategy
+- Organisational Culture
+- Sociotechnical Systems
 resourceTypes:
 - video
 categories:
 - Leadership
+- Product Development
 
 ---
 # Escaping the Judgment Trap in Agile Transformation 🚀

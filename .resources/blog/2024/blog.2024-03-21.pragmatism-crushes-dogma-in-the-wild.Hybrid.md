@@ -9,7 +9,7 @@ ResourceImportId: 51362
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2024-03-21
-weight: 395
+weight: 330
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -26,19 +26,28 @@ aliasesArchive:
 - /resources/blog/pragmatism-crushes-dogma-in-the-wild
 categories:
 - Scrum
-- Social Technologies
 preview: NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg
 tags:
-- Agile Project Management
-- Scrum Product Development
-- People and Process
-- Resilience and Change
+- Agile Planning
 - Empirical Process Control
+- Organisational Agility
+- Agile Frameworks
 - Agile Product Management
 - Professional Scrum
 - Software Development
+- Pragmatic Thinking
 - Team Performance
-- Agile Planning
+- Agile Transformation
+- Product Delivery
+- Scrum Master
+- Agile Philosophy
+- Market Adaptability
+- Scrum Team
+- Continuous Learning
+- Self Organisation
+- Team Collaboration
+- Complexity Thinking
+- Value Delivery
 
 ---
 In my journey of delivering an immersive [Product Development Mentor Program](https://nkdagility.com/global-consultancy-services/product-development-mentoring-program/) over the last eight weeks, a compelling narrative unfolded that beautifully illustrates the essence and true strength of Scrum. This story, rooted in the practical application of Scrum through Minecraft, unveils the depth of adaptability and resilience that Scrum can foster within a team.

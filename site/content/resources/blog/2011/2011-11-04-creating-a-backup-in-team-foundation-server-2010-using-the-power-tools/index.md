@@ -9,7 +9,7 @@ ResourceImportId: 4025
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-11-04
-weight: 995
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,9 +24,8 @@ aliasesArchive:
 - /creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 - /resources/blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 tags:
-- System Configuration
 - Troubleshooting
-- Practical Techniques and Tooling
+- System Configuration
 - Install and Configuration
 - Windows
 - Software Development

@@ -19,19 +19,19 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-17T13:11:35",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of creating great teams and engaged individuals within organisations, which is relevant to entrepreneurship. However, it primarily focuses on team dynamics and employee engagement rather than the broader principles and practices of entrepreneurship.",
     "level": "Tertiary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-12T23:24:49",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses team dynamics and engagement rather than the Product Backlog or its management.",
     "level": "Ignored"
   },
@@ -46,25 +46,25 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-03-14T19:02:29",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of team happiness and engagement, which indirectly relates to organisational dynamics. However, it primarily focuses on individual behaviours and team morale rather than systems thinking or the broader organisational context. While concepts like autonomy and purpose touch on organisational culture, they do not delve deeply into the systemic interactions or complexities that define Organisational Physics.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-10T17:56:39",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of creating happy and engaged teams, which aligns with coaching principles. It mentions autonomy, mastery, and purpose, which are key elements in fostering a supportive environment. However, it lacks explicit references to coaching techniques or frameworks, and the depth of discussion on coaching practices is limited.",
     "level": "Secondary"
   },
@@ -79,39 +79,39 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-03-11T09:55:31",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 87.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the importance of happy and engaged teams in creating great products, aligning closely with the core themes of employee engagement. It mentions intrinsic motivators such as autonomy, mastery, and purpose, which are crucial for fostering engagement. The depth of discussion is significant, as it explores how to create an environment that enables engagement and productivity. However, while the focus is strong, it could benefit from more structured strategies or practices for measuring engagement levels.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-06T13:44:10",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 67.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of team happiness and engagement in creating great products, which aligns with the strategic aspects of product management. It touches on concepts like autonomy, mastery, and purpose, which are relevant to product management methodologies. However, it lacks specific references to frameworks like Agile or Scrum, and does not delve deeply into metrics or stakeholder alignment, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-11T11:18:33",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the importance of creating happy, engaged teams, which aligns with the core themes of Agile Leadership, such as empowering individuals and fostering a culture of trust and collaboration. It explicitly mentions the need for autonomy, mastery, and purpose, which are essential for Agile environments. The depth of discussion is significant, as it explores how to enable teams to care about their work and the impact of leadership on team dynamics. However, it lacks direct references to specific Agile practices or leadership roles, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -124,11 +124,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T23:25:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T22:08:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses team dynamics and engagement in software development rather than system configuration.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on team dynamics, engagement, and the emotional state of team members, which are not directly related to system configuration. There are no explicit mentions of system setup, configuration management, or related best practices. While there is a conceptual alignment in terms of fostering an effective work environment, it does not delve into the technical aspects of system configuration, automation, or performance optimisation, which are crucial for this category.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -142,72 +145,72 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-14T19:02:14",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of team dynamics and engagement in producing quality products, which aligns with the concept of working software. However, it lacks direct mentions of software delivery processes or specific Agile practices, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-14T19:02:21",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of team autonomy and decision-making, which aligns with the category of Decision Making. However, it primarily focuses on team happiness and engagement rather than structured, evidence-based methodologies. While it touches on relevant themes, the depth of discussion on decision-making frameworks and empirical evidence is limited.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-03-11T13:13:12",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the importance of autonomy, mastery, and purpose in creating engaged teams, which aligns closely with the principles of self-organisation. It emphasises the need for team members to make decisions and be involved in their work, reflecting the core themes of empowerment and accountability. The depth of discussion is substantial, as it explores how to create an environment that fosters these qualities, although it could benefit from more specific examples or case studies of self-organisation in practice.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-12T23:25:12",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses team engagement and the importance of autonomy, mastery, and purpose in creating great teams, without a specific focus on remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-03-14T19:02:05",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of team happiness and engagement, which indirectly relates to Lean principles of maximising value and minimising waste. However, it lacks direct references to Lean Product Development concepts, such as waste elimination or customer feedback integration. The focus is more on team dynamics and individual development rather than Lean methodologies or practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-03-11T14:23:38",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 87.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the importance of team happiness and engagement, which are critical elements of organisational culture. It aligns well with the core themes of fostering a culture that supports Agile methodologies, particularly through the concepts of autonomy, mastery, and purpose. The depth of discussion is significant, providing strategies for enhancing engagement and illustrating the impact of culture on team dynamics and product quality. Overall, the content is a strong fit for the category, focusing on how cultural elements influence team performance and organisational success.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -238,24 +241,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T23:25:24",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses team engagement and the importance of autonomy, mastery, and purpose, but does not address the Definition of Done or its criteria.",
     "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-03-14T19:02:39",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 42.0,
     "ai_mentions": 5,
     "ai_alignment": 25,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of team dynamics and engagement in relation to product quality, which indirectly touches on product strategy. However, it primarily focuses on team happiness and organisational culture rather than specific methodologies or frameworks for product strategy. While there are mentions of how happy teams lead to better products, the discussion lacks depth in strategic planning, market analysis, or customer-centric approaches, which are core to the product strategy category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -277,67 +280,61 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-14T19:02:24",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 67.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of team happiness and engagement, which aligns with strategic approaches in Agile environments. It mentions key concepts such as autonomy, mastery, and purpose, which are crucial for optimising team performance. However, while it touches on strategic elements, it lacks a direct focus on Agile, Scrum, or DevOps frameworks, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T23:25:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T22:08:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses team dynamics and employee engagement rather than directly addressing the measurement and improvement of innovation capabilities.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of team happiness and engagement, which indirectly relates to innovation by highlighting factors like autonomy, mastery, and purpose. While these elements are crucial for fostering a culture of innovation, the primary focus of the content is on team dynamics rather than specific innovation practices or metrics. The discussion lacks explicit references to innovation processes, frameworks, or case studies, which diminishes its alignment with the category. However, the emphasis on creating an environment conducive to innovation through engaged teams provides a moderate level of relevance.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-14T19:02:09",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of team happiness and engagement, which aligns with Agile principles of collaboration and team dynamics. However, it lacks direct mentions of specific Agile frameworks and does not delve into their comparative analysis or implementation challenges, resulting in a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T23:25:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on creating great teams and individual engagement rather than on scaling agile practices across the organisation.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-11T16:12:38",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content focuses heavily on the dynamics of team happiness and engagement, which are crucial for effective collaboration. It discusses the importance of autonomy, mastery, and purpose, all of which align with fostering a collaborative environment. The strategies provided for enabling engagement directly relate to improving team communication and shared ownership. While it does not explicitly mention Agile, Scrum, or DevOps, the principles discussed are relevant to these frameworks, thus supporting a strong alignment with the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-03-14T19:01:51",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of happy teams and their impact on product quality, which indirectly relates to customer satisfaction. However, it primarily focuses on team dynamics and engagement rather than directly addressing customer satisfaction metrics or strategies. While it touches on the outcome of satisfied customers, the main emphasis is on team happiness and its influence on product outcomes, which does not fully align with the core themes of customer satisfaction.",
     "level": "Secondary"
   },
@@ -379,15 +376,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T19:01:53",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of team dynamics and engagement in the context of software development, particularly through the lens of 'naked agility.' While it touches on concepts relevant to Agile methodologies, such as autonomy and purpose, it lacks a direct focus on specific software development practices or methodologies. The discussion is more centred on team happiness and engagement rather than concrete software engineering techniques or frameworks, which diminishes its alignment with the Software Development category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -400,11 +397,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T23:25:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T22:08:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses team engagement, autonomy, mastery, and purpose rather than the measurement and optimisation of work completion rates.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on team happiness and engagement rather than throughput as a delivery metric. While it touches on the importance of team dynamics and their impact on product quality, it does not explicitly discuss throughput, its calculation, or its role as a delivery metric. The themes of autonomy, mastery, and purpose are relevant to team performance but do not directly relate to throughput analysis or visualisation. Overall, the content lacks depth in discussing throughput specifically, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -418,13 +418,13 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-11T17:25:33",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of team happiness, autonomy, mastery, and purpose, which aligns with Agile principles of self-organising teams and customer-centricity. However, it does not explicitly mention Agile values or principles, leading to a lower direct mention score. The depth of discussion on creating an engaging environment for teams contributes positively, but the overall focus is more on team dynamics than on Agile values specifically.",
     "level": "Secondary"
   },
@@ -448,31 +448,31 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-12T23:25:51",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on team dynamics and engagement rather than the specific responsibilities and practices of a Product Owner.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-03-14T15:12:42",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of team happiness and engagement, which indirectly relates to change management by highlighting the need for a supportive environment during transitions. However, it lacks explicit discussions on change management strategies, resistance, or leadership roles, which are crucial for a higher confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T13:11:35",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of creating great teams and engaging individuals, which aligns with mentoring principles, but it primarily focuses on team dynamics and product quality rather than direct mentoring techniques or strategies.",
     "level": "Tertiary"
   },
@@ -487,10 +487,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-12T23:25:58",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses team dynamics and employee engagement rather than validating product ideas through user feedback or testing methodologies.",
     "level": "Ignored"
   },
@@ -512,27 +512,15 @@
     "reasoning": "Content heavily discusses team engagement and productivity but does not address revenue per employee or related financial metrics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-14T19:01:58",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses the importance of team dynamics, autonomy, and engagement, which are relevant to software developers in Agile contexts. However, it lacks direct references to specific Agile practices or methodologies, and while it touches on themes of team happiness and productivity, it does not delve deeply into technical aspects or tools that support Agile and DevOps. Therefore, while it aligns conceptually with the category, it does not provide a comprehensive exploration of the role of software developers within Agile frameworks.",
-    "level": "Tertiary"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:59:31",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on team dynamics, engagement, and the emotional state of team members rather than discussing Test First Development principles. While it touches on the importance of team autonomy and purpose, it does not explicitly mention success criteria, testing practices, or the role of testing in software development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
@@ -592,31 +580,25 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T23:26:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses team engagement, autonomy, mastery, and purpose in creating great products, without a focus on Lead Time or its measurement.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T23:26:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on individual team dynamics and employee engagement rather than scaling Agile practices across multiple teams or at an enterprise level.",
+    "calculated_at": "2025-04-11T09:13:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on team happiness and engagement rather than discussing Lead Time as a metric. While it touches on themes of team effectiveness and product quality, it does not explicitly mention Lead Time or its measurement, nor does it explore its relationship with Cycle Time or strategies for optimisation. The discussion is more about team dynamics and organisational culture, which are not aligned with the core definition of Lead Time.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-13T15:03:42",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of team happiness and engagement, which aligns with pragmatic thinking in Agile contexts. It mentions practical strategies like autonomy, mastery, and purpose, which are relevant to fostering effective teams. However, while it touches on these themes, it lacks a deeper exploration of specific Agile or Scrum methodologies and their application in complex environments, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -629,15 +611,6 @@
     "reasoning": "Content heavily discusses team engagement and the importance of autonomy, mastery, and purpose in creating great products, without any direct reference to deployment frequency or related practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T13:11:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the importance of team engagement, autonomy, mastery, and purpose, which are relevant to agile principles, but does not explicitly focus on agile methodologies or frameworks.",
-    "level": "Tertiary"
-  },
   "Continuous Integration": {
     "category": "Continuous Integration",
     "calculated_at": "2025-02-12T23:26:17",
@@ -649,102 +622,84 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-14T19:01:48",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of team happiness and engagement, which aligns with Agile principles of fostering a positive team environment. However, it lacks direct mentions of Agile methodologies or strategic planning, focusing more on team dynamics and individual motivations. While it touches on concepts like autonomy and purpose, it does not delve deeply into how these relate to broader Agile strategies or organisational alignment.",
     "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T17:34:33",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on team dynamics and employee engagement rather than Continuous Delivery principles. While it touches on aspects that could indirectly relate to software quality (like team happiness leading to better products), it lacks direct mentions of Continuous Delivery practices, automation, or specific strategies for software delivery. The discussion is more about creating a positive work environment than about the delivery process itself.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-03-14T19:02:37",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses team dynamics and the importance of engagement, autonomy, mastery, and purpose, which are relevant to cross-functional teams. However, it does not explicitly mention cross-functional teams or their specific characteristics, nor does it delve deeply into their structure or best practices. The focus is more on team happiness and engagement rather than the collaborative nature of cross-functional teams in Agile methodologies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T23:26:24",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses team engagement and the importance of autonomy, mastery, and purpose in creating great teams, without addressing the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-03-14T19:01:26",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 42.0,
     "ai_mentions": 3,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of team engagement and decision-making, which aligns with sensemaking principles. However, it primarily focuses on team happiness and product outcomes rather than explicitly addressing the complexities of decision-making in uncertain environments. While it touches on relevant themes, it lacks a deeper exploration of frameworks or models related to sensemaking.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-03-13T15:26:05",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the importance of team happiness and engagement, directly addressing key aspects of team motivation such as autonomy, mastery, and purpose. It aligns well with the core themes of fostering engagement and collaboration, building trust, and the impact of leadership on motivation. The depth of discussion is substantial, providing specific strategies for enhancing team dynamics and performance, which reinforces its relevance to the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-13T16:34:16",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 87.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the importance of team happiness and engagement, which directly relates to team performance. It covers key themes such as autonomy, mastery, and purpose, aligning well with strategies for enhancing team dynamics and productivity. The depth of discussion is significant, providing actionable strategies for fostering engagement and decision-making within teams, which are crucial for high performance in an Agile context.",
-    "level": "Secondary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T23:26:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses team dynamics, engagement, and the importance of autonomy, mastery, and purpose in creating great products, without any mention of AI or its application in Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T23:26:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses team engagement, autonomy, mastery, and purpose without specific reference to Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -757,10 +712,10 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T13:11:35",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of creating great teams and engaging people, which aligns with the principles of working agreements, but it primarily focuses on broader themes of team dynamics and individual engagement rather than specific working agreements.",
     "level": "Tertiary"
   },
@@ -775,10 +730,10 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T13:11:35",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of creating great teams and engaging people, which aligns with Agile principles of autonomy, mastery, and purpose. However, it does not explicitly mention Agile methodologies or frameworks, making it a secondary theme.",
     "level": "Tertiary"
   },
@@ -793,25 +748,25 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-03-14T19:01:39",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 62.0,
     "ai_mentions": 3,
     "ai_alignment": 35.0,
     "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of team happiness and engagement, which indirectly relates to Scrum Values such as Commitment and Respect. However, it does not explicitly mention the Scrum Values or provide a detailed exploration of them. The focus on autonomy, mastery, and purpose aligns with the principles of fostering a collaborative environment, but the discussion is more general and does not delve deeply into the specific values of Scrum.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-14T19:01:56",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of team happiness and engagement, which are relevant to organisational change, particularly in fostering a culture of agility. However, it lacks explicit references to established frameworks or methodologies for organisational change, such as the ADKAR model or Kotter's 8-Step Process. While it touches on concepts like autonomy, mastery, and purpose, which can contribute to effective change management, the discussion remains more focused on team dynamics rather than the broader strategies and practices of organisational change.",
     "level": "Secondary"
   },
@@ -824,36 +779,27 @@
     "reasoning": "Content focuses on team dynamics and engagement in software development rather than on test automation principles or practices.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T23:26:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses team engagement and individual motivation but does not specifically address Scrum principles, roles, or product development processes.",
-    "level": "Ignored"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-14T19:02:12",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of team happiness and engagement, which indirectly relates to operational practices by suggesting that happy teams lead to better products. However, it lacks direct mentions of specific operational techniques or methodologies like Agile, DevOps, or Lean. The focus is more on team dynamics and emotional states rather than concrete strategies for improving operational efficiency.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:34:36",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of team happiness and engagement, which indirectly relates to the outcomes of product quality. However, it lacks direct references to evidence-based management principles, metrics, or empirical decision-making. The focus is more on team dynamics and emotional factors rather than data-informed strategies or specific metrics that align with EBM.",
     "level": "Ignored"
   },
@@ -866,33 +812,24 @@
     "reasoning": "Content primarily discusses team engagement, autonomy, mastery, and purpose rather than backlog refinement or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T23:26:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses team engagement and individual motivation rather than specific frameworks or practices related to scaling Scrum.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T15:59:28",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of team happiness and engagement, which aligns with the Scrum Master's role in fostering effective teams. However, it lacks direct mentions of the Scrum Master role and does not delve into specific Scrum practices or responsibilities, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-12T23:26:50",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses team dynamics, individual engagement, and the importance of autonomy, mastery, and purpose, without addressing large-scale Agile frameworks or enterprise-level strategies.",
     "level": "Ignored"
   },
@@ -907,22 +844,22 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-14T19:02:16",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of team happiness and engagement, which indirectly relates to technical leadership by emphasising autonomy, mastery, and purpose. However, it lacks direct references to agile methodologies, servant leadership, or specific technical leadership practices. While it touches on fostering a positive team environment, it does not delve deeply into the core principles of technical leadership, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-12T23:26:54",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses team dynamics and employee engagement rather than methodologies for identifying customer needs or defining product features.",
     "level": "Ignored"
   },
@@ -937,29 +874,29 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-14T19:02:19",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of team happiness and engagement, which indirectly relates to Agile principles such as autonomy and purpose. However, it lacks direct references to Agile Planning methodologies, techniques, or specific practices like sprints or backlogs. The focus is more on team dynamics and emotional well-being rather than structured Agile planning processes.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-03-14T19:01:44",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 67.0,
     "ai_mentions": 3,
     "ai_alignment": 80.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of team autonomy and ownership, which aligns with the principles of accountability in Agile. It highlights how engagement and decision-making empower teams, fostering a sense of responsibility. However, while accountability is a theme, the content primarily focuses on team happiness and engagement rather than explicitly detailing accountability practices or strategies, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T23:27:01",
     "ai_confidence": 0,
@@ -979,13 +916,13 @@
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-03-14T19:02:31",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of team happiness and engagement, which are closely related to psychological safety. It mentions autonomy, mastery, and purpose as key factors in fostering a supportive environment, aligning with the core themes of psychological safety. However, while it touches on these concepts, it does not explicitly frame them within the context of psychological safety, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1000,15 +937,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-14T19:01:28",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of team happiness and engagement, which aligns with the dynamics of a Scrum Team. However, it lacks direct references to specific Scrum roles, practices, or frameworks, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -1048,15 +985,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-14T14:52:07",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the importance of team happiness, autonomy, mastery, and purpose, which aligns well with Agile principles of collaboration and continuous improvement. It emphasises the role of teams in delivering value and the cultural shifts necessary for Agile adoption. However, it does not explicitly mention the Agile Manifesto or its principles, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1105,25 +1042,25 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-03-14T19:01:46",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of team happiness and engagement, which indirectly relates to strategic goals by emphasising the need for alignment with organisational objectives. However, it lacks explicit discussions on long-term strategic goals or frameworks for measuring them. The focus is more on team dynamics and operational tactics rather than strategic alignment, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-14T19:02:26",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of team engagement, autonomy, mastery, and purpose, which are closely related to the principles of Continuous Learning. It highlights the need for skill development and creating an environment that fosters growth and innovation. However, while it touches on these themes, it does not explicitly frame them within the context of Continuous Learning methodologies like Agile or DevOps, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -1138,13 +1075,13 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-14T19:01:31",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 52.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 47.0,
+    "final_score": 52.0,
     "reasoning": "The content primarily focuses on team dynamics and individual engagement rather than organisational agility as a whole. While it touches on concepts like autonomy and purpose, which are relevant to fostering a culture of agility, it lacks explicit discussions on frameworks, organisational structures, or broader strategies for enterprise agility. The depth of discussion on team happiness and its impact on product quality is significant, but it does not sufficiently address the organisational context required for a higher confidence score.",
     "level": "Tertiary"
   },
@@ -1157,34 +1094,13 @@
     "reasoning": "Content primarily discusses team engagement and autonomy in the context of product development, without a clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-03-14T19:02:34",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the importance of team happiness and engagement, which indirectly relates to resilience and adaptability in organisations. However, it lacks explicit discussions on change management practices or frameworks for organisational resilience. The focus is primarily on team dynamics rather than broader organisational strategies, resulting in a moderate confidence score.",
-    "level": "Tertiary"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T23:23:55",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses team dynamics and the importance of engagement in creating great products, without any focus on installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T23:23:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses team dynamics and engagement in software development rather than the interplay between code quality and complexity.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1196,57 +1112,36 @@
     "reasoning": "Content primarily discusses team engagement, autonomy, mastery, and purpose rather than optimising work throughput or flow efficiency.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T23:23:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses team dynamics and engagement but does not mention AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T13:11:35",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of team engagement and autonomy in creating great products, which aligns with product delivery principles, but it primarily focuses on team dynamics rather than the end-to-end delivery process.",
     "level": "Tertiary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-14T19:02:02",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of team happiness and engagement, which indirectly relates to Agile principles, particularly in fostering effective teams. However, it lacks direct references to Agile methodologies, roles like the Product Owner, or specific practices for product management. While it touches on concepts like autonomy and purpose, which are relevant to Agile, the overall focus is more on team dynamics than on Agile product management practices.",
-    "level": "Secondary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-14T19:01:33",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 25,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the importance of team happiness and engagement, which aligns with the core themes of fostering a culture of innovation and continuous learning. It explicitly mentions concepts like autonomy, mastery, and purpose, which are crucial for team dynamics and performance. However, while it touches on these themes, it does not delve deeply into specific methodologies or frameworks for discovery and learning, leading to a slightly lower depth score.",
     "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-03-14T19:02:07",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses team dynamics and engagement, which are relevant to Systems Thinking, but it primarily focuses on individual team member experiences rather than the interconnectedness of systems. While it touches on concepts like autonomy and purpose, it lacks explicit references to Systems Thinking principles, techniques, or frameworks. The depth of discussion on fostering engagement is notable, but it does not sufficiently explore the holistic analysis of organisational dynamics that is central to Systems Thinking.",
     "level": "Ignored"
   },
@@ -1257,33 +1152,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses team engagement and the importance of autonomy, mastery, and purpose in creating great products, without a clear focus on complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T23:24:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of team engagement, autonomy, mastery, and purpose in creating great products, without a clear focus on transparency and accountability.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T23:24:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of team engagement and individual motivation rather than specific tools, methodologies, or practical techniques related to Agile and DevOps.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T23:24:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of team engagement and product quality without reference to specific events, presentations, or discussions related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1297,25 +1165,25 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-14T19:01:36",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 12,
     "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the concept of 'naked agility' and focuses on team happiness and engagement, which are relevant to Agile principles but do not directly reference specific frameworks or methodologies. While it touches on themes of autonomy, mastery, and purpose, it lacks a structured connection to established Agile practices, making it more of a personal reflection rather than a technical discussion. The depth of the discussion is moderate, providing insights into fostering team engagement but not offering actionable guidance aligned with recognised Agile frameworks.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T17:34:20",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on team dynamics, engagement, and the importance of autonomy, mastery, and purpose in creating successful products. While these themes can relate to DevOps principles, such as collaboration and shared accountability, the discussion does not explicitly mention DevOps or its core practices. The alignment with DevOps concepts is present but not strong enough to classify the content as primarily about DevOps.",
     "level": "Ignored"
   },
@@ -1328,24 +1196,15 @@
     "reasoning": "Content heavily discusses team dynamics and engagement but does not specifically mention Azure DevOps or its functionalities.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T23:24:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses team dynamics and the importance of engagement in creating great products, without specific references to products, books, or methodologies related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-06T13:44:13",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of happy teams and their role in creating great products, which aligns with the principles of business agility. However, it lacks explicit mentions of business agility concepts and does not delve deeply into strategies or frameworks that support agile transformations. The focus is more on team dynamics and individual engagement rather than broader organisational agility.",
     "level": "Secondary"
   },
@@ -1360,13 +1219,13 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-14T19:01:42",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of team happiness and engagement, which directly influences the quality of products delivered to customers. It aligns with the core themes of value delivery by emphasising autonomy, mastery, and purpose as key factors in creating effective teams that can deliver exceptional products. While it does not explicitly mention Agile or Scrum methodologies, the principles discussed are relevant to the iterative and continuous delivery of value. The depth of discussion on fostering engagement and its impact on product quality supports a strong alignment with the category.",
     "level": "Secondary"
   },
@@ -1381,67 +1240,46 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-06T14:52:49",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of happy teams and their role in creating great products, which aligns with the principles of organisational agility. It touches on concepts like autonomy, mastery, and purpose, which are essential for fostering a culture of agility. However, while these ideas are relevant, the content does not explicitly mention agile methodologies or frameworks, and the discussion lacks depth in terms of specific strategies or practices that enhance organisational agility. Therefore, while there is a strong conceptual alignment, the lack of direct mentions and detailed exploration results in a moderately high confidence score.",
     "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-06T15:47:48",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on personal reflections regarding team dynamics and the importance of creating a positive work environment to foster productivity and engagement. It discusses the author's beliefs and experiences related to team happiness and its impact on product quality, aligning well with the Personal category's themes. The depth of discussion is significant, as it explores concepts like autonomy, mastery, and purpose in detail, providing a subjective interpretation of how these factors contribute to successful Agile practices.",
-    "level": "Secondary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-07T13:01:05",
-    "ai_confidence": 87.0,
-    "ai_mentions": 18,
-    "ai_alignment": 36,
-    "ai_depth": 32,
-    "non_ai_confidence": 20,
-    "final_score": 80.0,
-    "reasoning": "The content explicitly discusses the importance of happy teams and their impact on product quality, aligning closely with the themes of team dynamics and collaboration. It delves into the human factors that influence productivity, such as autonomy, mastery, and purpose, which are crucial for effective processes. The depth of discussion is significant, providing insights into how to engage and enable team members, thus enhancing the overall understanding of the interplay between people and processes.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-10T11:44:20",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of happy teams and their impact on product quality, which aligns with the sociotechnical systems theme of team dynamics and organisational culture. However, it lacks explicit references to sociotechnical principles or frameworks, and while it touches on autonomy, mastery, and purpose, it does not delve deeply into the interplay between social and technical systems. The focus is more on team engagement than on the broader organisational context.",
     "level": "Secondary"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T23:24:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses team dynamics and the importance of engagement in product development, lacking a focus on news or reviews related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T23:24:36",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses team engagement, autonomy, mastery, and purpose rather than metrics or learning principles.",
     "level": "Ignored"
   },
@@ -1465,22 +1303,22 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-03-10T14:00:30",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses the importance of happy and engaged teams in creating great products, which aligns closely with the principles of motivation and employee engagement in organisational psychology. It mentions key concepts such as autonomy, mastery, and purpose, which are foundational to understanding employee motivation. The depth of discussion is significant, as it explores how these factors contribute to team dynamics and overall organisational performance. However, while the content is rich in psychological insights, it does not delve deeply into specific psychological theories or frameworks, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-17T13:11:37",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 70,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
+    "final_score": 70.0,
     "reasoning": "The content discusses the importance of autonomy, mastery, and purpose in creating engaged teams, which aligns with human-centric approaches and adaptive organisational cultures. However, it does not explicitly mention BetaCodex principles or decentralisation, making it a major but secondary theme.",
     "level": "Secondary"
   },
@@ -1495,37 +1333,37 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T17:34:31",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of team happiness and engagement, which aligns with agile principles of collaboration and continuous improvement. However, it lacks direct references to the Agile Product Operating Model and does not delve into specific product management practices or frameworks, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-06T14:52:45",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the importance of creating happy, engaged teams as a fundamental aspect of effective leadership. It highlights the need for autonomy, mastery, and purpose, which are key elements in fostering an environment conducive to organisational agility. The discussion aligns well with leadership practices, particularly in the context of Agile, as it focuses on enabling team members and creating a supportive environment. However, while the themes are relevant, the content could delve deeper into specific leadership strategies or frameworks, which slightly lowers the depth score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:54:29",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of team dynamics, autonomy, mastery, and purpose, which are key themes in social technologies. It explicitly mentions fostering engagement and decision-making, aligning well with the category's focus on collaboration and value delivery. However, while it provides substantial insights, it lacks detailed methodologies or frameworks typically associated with social technologies, which slightly lowers the depth score.",
     "level": "Secondary"
   },
@@ -1549,86 +1387,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T19:01:24",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of happy teams and their impact on product quality, which aligns with Scrum's emphasis on team dynamics and continuous improvement. However, it lacks direct mentions of Scrum roles, events, or specific practices, resulting in a lower confidence score. The focus is more on general team engagement rather than the Scrum framework itself.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:45:41",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on team dynamics and employee engagement rather than discussing the integration of testing, security, or compliance early in the software development lifecycle. While it touches on the importance of team happiness and its impact on product quality, it does not explicitly mention or align with the core principles of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:34:22",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of team happiness and engagement, which indirectly relates to Continuous Improvement by highlighting how these factors can lead to better products. However, it lacks explicit references to Continuous Improvement principles, empirical evidence, or structured methodologies. The focus is more on team dynamics and individual motivations rather than on systematic improvement processes.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:34:24",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of team happiness and engagement, which indirectly relates to Common Goals by emphasising the need for alignment and purpose within teams. However, it lacks direct references to Agile or DevOps frameworks and does not explicitly define or explore Common Goals as a concept. The focus is more on team dynamics and individual motivations rather than on shared objectives that guide decision-making.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:34:27",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of mastery and skill development, which are key aspects of competence. It highlights how autonomy and purpose contribute to team engagement and quality outcomes, aligning well with the core themes of the category. The depth of discussion on strategies for fostering engagement and development further supports a strong alignment with competence, although it primarily focuses on team happiness rather than competence itself.",
     "level": "Secondary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:34:29",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on team happiness and engagement rather than the principles and components of the One Engineering System. While it touches on aspects of team dynamics that could relate to software development, it does not explicitly discuss 1ES or its integration and standardisation of engineering processes.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T15:59:26",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of autonomy, mastery, and purpose in fostering engaged teams, which aligns with the principles of Agentic Agility. It explicitly mentions autonomy and decision-making, reflecting the intentional shaping of outcomes. However, it lacks a clear distinction between Human and AI Agentic Agility and does not delve deeply into mechanisms like data-driven decision-making or predictive modelling. Overall, while it touches on key themes, it does not fully explore the category's depth.",
     "level": "Secondary"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T22:07:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of team dynamics, specifically focusing on autonomy, mastery, and purpose, which are crucial for fostering effective product development. While it does not explicitly mention product development methodologies or frameworks, it aligns with the core themes of creating an environment conducive to iterative learning and customer-centric outcomes. The depth of discussion is moderate, providing insights into team engagement and its impact on product quality, but lacks specific references to Agile, Lean, or DevOps principles. Overall, the content is relevant but not deeply entrenched in the specific methodologies of product development.",
+    "level": "Secondary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T22:08:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of team happiness and engagement, which aligns with the principles of fostering collaboration and self-organisation found in Liberating Structures. However, it does not explicitly mention any specific Liberating Structures techniques or their applications, leading to a low direct mention score. The depth of discussion on facilitation techniques is also minimal, focusing more on general team dynamics rather than structured methods for enhancing participation and decision-making.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T22:08:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on team dynamics and individual engagement rather than core project management principles or methodologies. While it touches on aspects of team autonomy and communication, which are relevant to project management, it lacks direct references to project management frameworks, lifecycle phases, or specific tools. The discussion is more about fostering a positive team environment than about managing projects effectively, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T22:08:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of team happiness and engagement, which aligns with some principles of Open Space Agile, such as autonomy and shared ownership. However, it does not explicitly mention Open Space Agile or its specific practices, nor does it delve deeply into the core themes of Open Space Technology or organisational agility. The focus is more on general team dynamics rather than the collaborative change processes central to Open Space Agile.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T22:08:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of team happiness and engagement in driving product quality, which indirectly relates to the concept of Unrealised Value. However, it does not explicitly mention Unrealised Value or provide a focused discussion on potential improvements or innovation opportunities. The themes of autonomy, mastery, and purpose align somewhat with the idea of enhancing organisational value, but the depth of discussion lacks specific indicators or strategies for identifying untapped opportunities. Overall, while there are relevant concepts, the primary focus is on team dynamics rather than on the broader implications of Unrealised Value.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T22:08:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of happy teams and their impact on product quality, which indirectly relates to Time to Market by suggesting that engaged teams can lead to better products. However, it does not explicitly mention Time to Market or related metrics, nor does it provide detailed strategies for optimising processes to reduce delivery time. The focus is more on team dynamics and engagement rather than the efficiency of delivering market-ready products.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T22:08:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on team dynamics and the importance of fostering happy, engaged teams to produce exceptional products. While it touches on the outcomes of team engagement, such as creating great products and satisfying customers, it does not explicitly discuss Current Value or its metrics, nor does it provide a real-time assessment of value delivered. The discussion lacks depth in terms of measuring or analysing Current Value, which is crucial for the category. Therefore, while there are relevant themes, the content does not align closely enough with the core aspects of Current Value in Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T22:08:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 3,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of happy, engaged teams and how their emotional state influences product quality, which aligns with the CaaP concept of prioritising customer value through organisational design. However, it does not explicitly mention CaaP or delve deeply into strategies for integrating customer feedback or measuring outcomes, which limits its depth and direct alignment with the category. The focus is more on team dynamics than on the broader organisational strategy of CaaP.",
+    "level": "Secondary"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T22:08:27",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on team happiness and engagement, which are important for Agile practices but does not specifically address scaling methodologies or frameworks. While it mentions concepts like autonomy, mastery, and purpose, these are more aligned with general Agile principles rather than the complexities of scaling across multiple teams or organisations. The discussion lacks depth in terms of scaling strategies, frameworks, or metrics, which are crucial for the 'Scaling' category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T22:08:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on team happiness and engagement, discussing concepts like autonomy, mastery, and purpose. However, it does not explicitly mention Hybrid Agile or address the challenges and implications of merging traditional project management with agile practices. The discussion lacks depth regarding the core themes of Hybrid Agile, such as the preservation of command-and-control structures or the superficial adoption of agile terminology. Overall, while there are some indirect references to agile principles, the content does not align with the critical examination required for the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T22:08:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of team happiness and engagement, which aligns with some principles of Agnostic Agile, such as the emphasis on context and the well-being of team members. However, it does not explicitly mention Agnostic Agile or its principles, nor does it provide a detailed exploration of how these ideas relate to various agile methodologies. The focus is more on team dynamics rather than a critical examination of agile frameworks, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T22:08:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses team dynamics and the importance of engagement in creating successful products, which aligns more with general Agile principles rather than specific GitHub functionalities or practices. There are no direct mentions of GitHub or its services, and while the themes of team collaboration and project success are relevant to Agile methodologies, they do not specifically address GitHub's tools or features. Therefore, the confidence score reflects a very low alignment with the GitHub category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T22:08:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of autonomy, mastery, and purpose in team dynamics, which aligns with some principles of Cell Structure Design, such as decentralisation and self-organisation. However, it does not explicitly mention the concept of cells or the Beta Codex, nor does it delve into the structural aspects of Cell Structure Design. The focus is more on team engagement and happiness rather than the organisational model itself, leading to a low confidence score.",
+    "level": "Ignored"
   }
 }

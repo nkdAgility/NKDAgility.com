@@ -10,10 +10,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T11:14:54",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses customising UI elements in .NET and does not relate to metrics, learning, or Agile/DevOps principles.",
     "level": "Ignored"
   },
@@ -62,15 +62,6 @@
     "reasoning": "Content is focused on customising UI elements in .NET and does not discuss Kanban principles or practices.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T11:15:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on customising UI elements in .NET without discussing code quality, complexity, or related best practices.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
     "calculated_at": "2025-02-17T11:15:03",
@@ -82,13 +73,13 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-15T07:52:25",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 32.0,
     "ai_mentions": 10,
     "ai_alignment": 25,
     "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content provides a code snippet for customising the UI colour scheme in Windows Forms .NET, which relates to configuration aspects. However, it lacks a comprehensive discussion on installation procedures or broader configuration best practices. The focus is primarily on a specific implementation detail rather than a step-by-step guide or troubleshooting advice, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -99,15 +90,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses customising UI elements in .NET without any focus on market adaptability strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T11:15:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical tutorial for customising UI elements in .NET, which does not align with the themes of news or reviews.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
@@ -126,24 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation of UI customisation in .NET, with no focus on decision-making processes or related theories.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T11:15:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation of UI customisation in .NET without addressing human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T11:15:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses customising UI elements in .NET without any reference to organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -209,15 +173,6 @@
     "reasoning": "Content focuses on customising UI elements in .NET and does not discuss Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T11:15:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on customising UI elements in .NET and does not discuss any events or presentations.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
     "calculated_at": "2025-02-17T11:15:32",
@@ -243,15 +198,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses customising UI elements in Windows Forms .NET, which is not related to platform engineering or enhancing developer productivity.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T11:15:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on customising UI elements in .NET without discussing Agile or DevOps practices, methodologies, or tools.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -281,24 +227,6 @@
     "reasoning": "Content primarily discusses customising UI elements in .NET, with no relevance to organisational agility or related practices.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T11:15:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses customising UI elements in .NET without any reference to transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T11:15:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details for customising UI elements in .NET, with no discussion on discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
     "calculated_at": "2025-02-17T11:15:53",
@@ -308,33 +236,15 @@
     "reasoning": "Content primarily discusses customising UI elements in .NET and does not relate to Evidence-Based Management principles or practices.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T11:15:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content is focused on customising UI elements in Windows Forms .NET and does not discuss AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T11:15:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses customising UI elements in .NET, with no focus on Agile methodologies, DevOps practices, or relevant literature.",
-    "level": "Ignored"
-  },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-10T13:28:37",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses entirely on customising UI elements in .NET and does not mention Scrum or any related concepts. There is no discussion of Scrum roles, events, or principles, making it irrelevant to the category.",
     "level": "Ignored"
   },
@@ -419,15 +329,6 @@
     "reasoning": "Content is primarily about customizing UI elements in .NET and does not discuss customer feedback or feedback integration in product development.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T16:38:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on customizing UI components in .NET and does not discuss Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
   "Working Software": {
     "category": "Working Software",
     "calculated_at": "2025-02-17T16:38:30",
@@ -462,15 +363,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses customizing UI elements in .NET without any reference to cross-functional teams or Agile practices.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T16:38:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses customizing UI for Windows Forms in .NET, with no mention of AI or its applications in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -538,15 +430,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-10T19:08:03",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 79.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on customising the UI of Windows Forms in a .NET environment, which directly relates to the Windows operating system. It discusses specific implementation details, such as inheriting from ProfessionalColorTable and overriding properties, which aligns well with the configuration and customisation aspects of Windows. The depth of the discussion is significant, providing code examples and practical guidance, which enhances its relevance to the Windows category. However, while it is focused on Windows Forms, it does not cover broader topics like installation or troubleshooting, which slightly lowers the alignment score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -559,10 +451,10 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T16:38:30",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses customizing UI elements in .NET, with no relevance to empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
@@ -629,15 +521,6 @@
     "reasoning": "The content discusses customizing the UI for Windows Forms in .NET, which is unrelated to Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T16:38:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on customizing UI components in .NET and does not relate to Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Strategy": {
     "category": "Strategy",
     "calculated_at": "2025-02-17T16:38:30",
@@ -683,15 +566,6 @@
     "reasoning": "Content is focused on customizing UI components in .NET and does not address asynchronous development principles or practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T16:38:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on customizing UI in Windows Forms .NET and does not relate to Agile Project Management in any form.",
-    "level": "Ignored"
-  },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
     "calculated_at": "2025-02-17T16:38:30",
@@ -703,10 +577,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T16:38:30",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses customizing UI elements in Windows Forms .NET, which is unrelated to Change Management.",
     "level": "Ignored"
   },
@@ -730,20 +604,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T16:38:30",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on customizing UI elements in .NET applications, which is not related to the measurement or improvement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T16:38:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily focuses on customizing UI elements in .NET and does not discuss Agile, DevOps, or the role of software developers in those contexts.",
+    "reasoning": "Content focuses on customizing UI elements in .NET applications, which is not related to the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -766,10 +631,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T16:38:30",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on customizing UI color schemes in .NET and does not discuss the Definition of Ready or backlog item readiness.",
     "level": "Ignored"
   },
@@ -820,10 +685,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:38:30",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical customization of UI elements in .NET and does not address Agile values or principles.",
     "level": "Ignored"
   },
@@ -838,10 +703,10 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T16:38:30",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on customizing UI elements in Windows Forms and does not discuss version control practices.",
     "level": "Ignored"
   },
@@ -854,7 +719,7 @@
     "reasoning": "Content is focused on implementing a custom UI color scheme in .NET, which does not align with pragmatic thinking in Agile, Scrum, or DevOps contexts.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T16:38:30",
     "ai_confidence": 0,
@@ -865,15 +730,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:52:25",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content provides a practical example of customising UI elements in Windows Forms using .NET, which touches on software craftsmanship and design principles. However, it lacks a broader discussion on best practices, principles of clean code, or methodologies that contribute to high-quality software development. The focus is primarily on implementation rather than a comprehensive exploration of technical mastery.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -904,10 +769,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T16:38:30",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on customizing UI elements in .NET, with no discussion of organisational change or related topics.",
     "level": "Ignored"
   },
@@ -1021,13 +886,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T07:52:25",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on customising UI elements in Windows Forms .NET, with a brief mention of troubleshooting by suggesting that if problems arise, one can inherit from the ToolStrip control and change the renderer. However, the main focus is on implementation rather than diagnosing or resolving technical issues, which limits its alignment with the troubleshooting category.",
     "level": "Ignored"
   },
@@ -1078,13 +943,13 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T15:22:34",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content provides a practical example of customising UI elements in a .NET application, which aligns with software development practices. It discusses inheritance and overrides in coding, which are relevant to best practices in software design. However, it lacks broader context on methodologies or frameworks, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1126,13 +991,13 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T07:52:25",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on customising the UI colour scheme for Windows Forms in .NET, which is more related to software development and UI design rather than system configuration. While it does touch on aspects of configuration (like setting a custom renderer), it lacks depth in discussing broader system configuration practices, methodologies, or optimisation strategies. The technical details provided are specific to UI customisation rather than the overall system setup or performance enhancement.",
     "level": "Ignored"
   },
@@ -1143,15 +1008,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on customizing UI elements in Windows Forms and does not discuss Lean principles or related topics.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T16:38:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses exclusively on customizing UI in .NET and does not discuss Scaled Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
@@ -1197,15 +1053,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on customizing UI elements in .NET and does not discuss Test Driven Development or its principles.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T16:38:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses entirely on customizing UI elements in .NET and does not discuss any topics related to scaling agility or agile methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1289,15 +1136,6 @@
     "reasoning": "Content discusses customizing UI elements in .NET, which is unrelated to Continuous Delivery principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T16:38:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is focused on customizing UI elements in .NET and has no relevance to Scrum or scaling Scrum practices.",
-    "level": "Ignored"
-  },
   "Trend Analysis": {
     "category": "Trend Analysis",
     "calculated_at": "2025-02-17T16:38:31",
@@ -1318,10 +1156,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T16:38:31",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on programming and customization of UI elements in .NET, with no mention of Definition of Done concepts.",
     "level": "Ignored"
   },
@@ -1417,13 +1255,13 @@
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:53:19",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses solely on customising UI elements in Windows Forms .NET and does not discuss any aspects of the Shift-Left Strategy, such as early integration of testing, security, or compliance in the software development lifecycle.",
     "level": "Ignored"
   }

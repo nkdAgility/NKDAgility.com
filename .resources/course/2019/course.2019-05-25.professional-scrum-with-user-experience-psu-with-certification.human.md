@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: course
 ResourceContentOrigin: human
 date: 2019-05-25
-weight: 775
+weight: 750
 creator: Martin Hinshelwood
 type: course
 slug: professional-scrum-with-user-experience-psu-with-certification
@@ -38,16 +38,19 @@ delivery-audiences:
 - Lean Agile Practitioners
 - Teams
 tags:
-- Experimentation
-- Scrum Product Development
+- Agile Frameworks
 - Agile Product Management
-- Discovery and Learning
-- People and Process
-- Practical Techniques and Tooling
+- Agile Transformation
+- Continuous Learning
+- Cross Functional Teams
+- Experimentation
+- Pragmatic Thinking
 - Product Discovery
 - Professional Scrum
+- Software Development
+- Team Collaboration
 - Value Delivery
-- Agile Frameworks
+- Scrum Team
 categories: []
 preview: naked-agility-Professional-Scrum-PSU-1600x900-2.jpg
 previewIcon: Scrumorg-Course-PSU-400x.png

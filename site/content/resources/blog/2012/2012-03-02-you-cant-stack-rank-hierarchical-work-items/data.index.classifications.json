@@ -1,26 +1,14 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-07T15:22:19",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the ordering of Product Backlog Items (PBIs) and the implications of hierarchical relationships within Agile frameworks, particularly Scrum. While it touches on relevant Agile concepts, such as backlog management and the importance of understanding relationships between work items, it lacks a comprehensive exploration of Agile Product Management principles. The focus is more on technical aspects of managing work items rather than broader Agile practices or strategies for maximising product value.",
-    "level": "Secondary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-10T12:57:13",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 75.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses practical techniques for managing hierarchical work items in Agile methodologies, specifically using the Visual Studio Scrum template. It provides insights into the expected behaviours when reordering work items and the implications of parent/child relationships, which aligns well with the category's focus on practical application of tools and methodologies. However, while it touches on specific tools and practices, the discussion lacks a broader exploration of multiple tools or methodologies, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -34,44 +22,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:24:25",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the challenges of stack ranking hierarchical work items in software development, which touches on aspects of productivity and organisation. However, it lacks explicit references to Evidence-Based Management principles, such as empirical decision-making or metrics related to current value, time to market, or ability to innovate. The focus is more on practical challenges and strategies rather than on data-informed decision-making or the management of outcomes.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T06:02:49",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10,
-    "ai_alignment": 25,
-    "ai_depth": 20,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content discusses the complexities of managing hierarchical work items in software development, touching on the implications of parent/child relationships and the need for effective ordering of tasks. However, while it mentions aspects of code quality and the importance of traceability, it primarily focuses on project management and backlog organisation rather than a deep exploration of code quality principles or complexity theory. Thus, it aligns with the category but lacks depth and a primary focus on code quality.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T20:51:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges and expectations around managing hierarchical work items in software development, without a clear focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T20:51:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the challenges and considerations of managing hierarchical work items in Agile frameworks, without any mention of AI or automation technologies.",
     "level": "Ignored"
   },
   "Lean": {
@@ -85,20 +43,11 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T20:51:28",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the ordering and management of hierarchical work items in Agile methodologies, rather than installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T20:51:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of managing hierarchical work items in Agile, without a clear focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -112,34 +61,25 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-15T06:02:54",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses technical aspects of managing hierarchical work items in software development, focusing on specific functionalities and expected behaviours within a tool (Visual Studio Scrum 2.0). While it touches on the importance of tracking relationships between tasks and PBIs, it lacks a broader exploration of how these technical practices interact with organisational culture, team dynamics, or communication strategies. The discussion does not sufficiently address the sociotechnical interplay, leading to a lower confidence score.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T20:51:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the technical aspects of managing hierarchical work items in software development without addressing organisational resilience or change management.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:24:11",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the challenges of stack ranking hierarchical work items in software development, which is more aligned with project management and Agile methodologies rather than the core principles of DevOps. While there are mentions of team productivity and organisation, these do not directly address DevOps concepts such as automation, shared accountability, or continuous improvement. The discussion lacks depth in terms of DevOps practices and does not explore the cultural shifts or collaboration aspects central to the DevOps philosophy.",
     "level": "Ignored"
   },
@@ -161,18 +101,6 @@
     "reasoning": "Content primarily discusses the ordering and management of work items in a Scrum context, without a clear focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-15T06:03:03",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content references the MVP Summit, indicating a specific event where discussions took place. However, the primary focus is on the technical aspects of managing hierarchical work items rather than on the event itself or broader themes of Agile and DevOps presentations. While there is some alignment with the category through the mention of an event, the depth of discussion primarily revolves around technical details rather than insights or experiences shared at the event.",
-    "level": "Tertiary"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T20:51:42",
@@ -181,18 +109,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges and considerations of managing hierarchical work items in software development, rather than focusing on optimising throughput or flow efficiency.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T06:03:19",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the challenges of managing hierarchical work items in software development, which touches on team dynamics and the processes involved in Agile methodologies. However, while it mentions the importance of effective ordering and relationships between work items, it lacks a deeper exploration of team collaboration, leadership roles, or communication strategies, which are central to the 'People and Process' category.",
-    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -214,10 +130,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T20:51:47",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges and considerations of managing hierarchical work items in software development, rather than focusing on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -232,15 +148,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T06:02:40",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the challenges and considerations of managing hierarchical work items in software development, which touches on aspects of technical practices. However, it primarily focuses on the ordering and management of work items rather than delving deeply into engineering methodologies like TDD, CI/CD, or modular architecture. While there are mentions of relationships and traceability, the overall discussion lacks the depth and direct focus on technical excellence principles, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -262,13 +178,13 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-10T14:56:56",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the ordering of work items and the implications of hierarchical relationships in product backlogs, which relates to planning and prioritising product features. However, it lacks a comprehensive exploration of methodologies, practices, or metrics that are central to product delivery, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -283,43 +199,34 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T20:51:57",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the ordering and management of hierarchical work items in software development, which does not align with the core principles of Value Stream Management.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T20:51:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges and considerations of managing hierarchical work items in software development, without focusing on specific products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-15T06:02:51",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the ordering of work items and the implications of hierarchical relationships in Agile frameworks, which touches on value delivery. However, it primarily focuses on technical implementation details and personal opinions rather than providing a comprehensive discussion on strategies or methodologies for delivering value to customers. The mention of PBIs and tasks indicates some alignment with value delivery concepts, but the depth and focus on practical implementation detract from a stronger classification.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T18:45:12",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses specific functionalities related to Azure DevOps, particularly around managing hierarchical work items and their relationships within the context of Agile project management. It directly mentions Product Backlog Items (PBIs) and tasks, which are integral to Azure DevOps. The discussion aligns well with the core themes of Azure DevOps, focusing on best practices for managing work items and their relationships. However, while it provides a good level of detail, it does not cover broader Azure DevOps services or methodologies extensively, which slightly lowers the depth score.",
     "level": "Secondary"
   },
@@ -343,109 +250,97 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T20:52:04",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges and expectations around managing hierarchical work items in software development, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:24:22",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the challenges of stack ranking hierarchical work items, which is relevant to agile practices but does not explicitly focus on the Agile Product Operating Model. While it touches on product backlog items (PBIs) and their management, it lacks a comprehensive exploration of the core principles of APOM, such as continuous delivery, operational stability, or the transition from project to product ethos. The discussion is more about practical challenges in agile methodologies rather than a deep dive into the APOM framework.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-15T06:03:30",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the ordering of work items and the implications of hierarchical structures in project management, which touches on agility but does not explicitly focus on organisational agility principles or practices. While it mentions aspects of Agile methodologies, such as backlog management, it lacks a comprehensive exploration of how these practices enhance organisational adaptability or responsiveness.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T06:03:10",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses specific issues related to hierarchical work items in Agile methodologies, particularly in the context of a recent event (MVP Summit). However, it primarily focuses on technical details and personal opinions rather than providing a broader industry update or review. While it touches on relevant themes, it lacks comprehensive analysis or insights that would typically characterise content in the 'News and Reviews' category.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T06:03:32",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the ordering and management of work items within a Scrum framework, which is more focused on project management and Agile methodologies rather than the broader scope of Application Lifecycle Management. While it touches on aspects of task management that could relate to the application lifecycle, it lacks a comprehensive discussion on the stages of the application lifecycle, governance, or tools specifically designed for ALM. The content does not explicitly mention ALM principles or practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-16T00:56:34",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the ordering of work items and hierarchy in Agile project management, without a clear reference to the Daily Scrum process or its specific practices.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T00:56:34",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the organization and hierarchy of work items within the Product Backlog and Sprint Backlog rather than focusing on the Definition of Done itself.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T06:02:44",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the challenges of managing hierarchical work items in software development, which touches on aspects of software craftsmanship and engineering practices. However, it primarily focuses on project management and the ordering of tasks rather than delving deeply into best practices, principles of clean code, or technical methodologies. While there are mentions of relationships between work items and some implications for code quality, the overall discussion lacks the depth and direct focus required for a strong alignment with the 'Technical Mastery' category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-16T00:56:34",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses ordering hierarchical work items in Scrum rather than exploring methodologies for understanding customer needs or defining product features.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:24:27",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the challenges of stack ranking hierarchical work items in software development, which is more aligned with project management and task organisation rather than Continuous Delivery principles. While it touches on aspects of productivity and team organisation, it does not explicitly address Continuous Delivery practices, automation, or the rapid feedback loops that are central to the category.",
     "level": "Ignored"
   },
@@ -478,10 +373,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T00:56:34",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the challenges and practices related to ordering hierarchical work items, without focusing on the criteria or practices surrounding the Definition of Ready.",
     "level": "Ignored"
   },
@@ -496,67 +391,67 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-03-15T06:02:33",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the ordering and management of Product Backlog Items (PBIs) and touches on the implications of hierarchical relationships within the backlog. However, while it mentions PBIs and their management, the focus is more on the technical aspects of handling hierarchical work items rather than a comprehensive exploration of the Product Backlog's purpose, refinement techniques, or best practices. The discussion lacks depth in terms of backlog management strategies and the role of the Product Owner, which are crucial for a higher confidence score.",
     "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-11T12:00:30",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the ordering of Product Backlog Items (PBIs) and the implications of hierarchical relationships within Agile frameworks, particularly Scrum. While it touches on Agile concepts, such as backlog management and task relationships, it lacks a comprehensive exploration of Agile Planning principles and methodologies. The focus is more on specific technical challenges rather than broader Agile planning strategies.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-16T00:56:34",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses project management and the ordering of hierarchical work items, with no clear focus on Value Stream Mapping or Lean principles.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-16T00:56:34",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the organization and management of Product Backlog Items (PBIs) in a Scrum context, without focusing on collecting or utilizing customer feedback.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T06:02:30",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the challenges and considerations of managing hierarchical work items within Agile frameworks, particularly in relation to Product Backlog Items (PBIs) and their relationships. While it touches on operational practices, such as the importance of ordering tasks and maintaining traceability, the focus is more on specific scenarios rather than broader operational efficiency strategies. The depth of discussion on practical implications is moderate, but it lacks comprehensive coverage of techniques or metrics typically associated with operational practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-15T06:02:58",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the ordering of work items and the implications of parent/child relationships in the context of Product Backlog Items (PBIs) and tasks. While it touches on aspects relevant to Scrum, such as PBIs and task management, it lacks a direct focus on Scrum Team dynamics, roles, or collaboration techniques. The discussion is more about the technicalities of backlog management rather than the interactions and practices of a Scrum Team.",
     "level": "Ignored"
   },
@@ -571,36 +466,36 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-15T06:03:12",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the ordering of hierarchical work items within Agile frameworks, which touches on strategic alignment and optimisation of delivery processes. However, it lacks a comprehensive exploration of strategic concepts and does not delve deeply into the broader implications of strategy in Agile, Scrum, or DevOps contexts. The focus is more on practical implementation rather than strategic formulation or execution.",
     "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-03-15T06:02:16",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 20,
     "non_ai_confidence": 10,
-    "final_score": 19.0,
+    "final_score": 20.0,
     "reasoning": "The content primarily discusses managing workflow and hierarchy in task management within a Scrum context, which doesn't focus on validating product ideas through user engagement or feedback, but rather on specific challenges related to task organization.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-15T06:03:07",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the ordering of work items and the implications of hierarchical relationships within Agile frameworks, particularly in the context of Scrum. However, it lacks a broader discussion on Agile transformation principles, methodologies, or change management strategies, which are crucial for a higher confidence score in this category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -622,13 +517,13 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-15T06:02:42",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the ordering of work items and the implications of hierarchical relationships in Agile practices, which touches on team dynamics and collaboration. However, it lacks a direct focus on team performance strategies, metrics, or methodologies, making it more of a technical discussion rather than a comprehensive exploration of team performance.",
     "level": "Ignored"
   },
@@ -643,97 +538,85 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T00:56:34",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the organization and management of work items in a project backlog rather than Acceptance Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T06:02:23",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses the challenges and considerations of managing hierarchical work items within the context of software development, particularly in Agile methodologies. It explicitly mentions concepts like Product Backlog Items (PBIs) and their relationships, which are central to Agile practices. The depth of discussion includes specific scenarios and examples, demonstrating a strong alignment with software development processes and methodologies.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-15T06:02:37",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 0,
-    "final_score": 70.0,
-    "reasoning": "The content discusses the ordering of Product Backlog Items (PBIs) and the implications of hierarchical relationships in agile project management. It touches on backlog management, which is a key aspect of agile methodologies, and provides specific examples related to Scrum practices. However, while it aligns well with agile principles, it lacks a broader discussion on agile frameworks or roles, which slightly limits its depth.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T00:56:34",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the organization and management of work items in an Agile tool context, without directly addressing Agile values and principles.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-11T18:06:34",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the ordering of Product Backlog Items (PBIs) and the implications of hierarchical relationships within Scrum artefacts, which aligns with Scrum principles. However, it lacks a comprehensive exploration of Scrum roles, events, and values, focusing more on practical issues rather than theoretical foundations.",
     "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T00:56:34",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on managing hierarchical work items in Agile/Scrum development rather than version control practices or methodologies.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-15T06:03:14",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the ordering of work items and the implications of hierarchical relationships in Agile project management. However, it lacks a direct focus on empirical process control principles such as transparency, inspection, and adaptation. While it touches on Agile practices, it does not provide a thorough exploration of empirical process control or its theoretical foundations, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-16T00:56:34",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of work item management and ordering in Scrum, without focus on the underlying Scrum Values.",
     "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-03-15T06:02:19",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the challenges and considerations of managing hierarchical work items within Azure Boards, particularly in the context of Agile project management. It directly mentions work items, PBIs, and their relationships, which aligns with the core themes of Azure Boards. However, while it provides some depth on specific scenarios, it lacks a comprehensive overview of Azure Boards' functionalities and best practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -782,15 +665,6 @@
     "reasoning": "Content primarily discusses technical aspects of managing hierarchical work items in software development, without focusing on customer satisfaction or customer experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T00:56:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content mainly discusses the management of hierarchical work items and does not focus on the scaling of Scrum practices in large organizations.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T00:56:34",
@@ -809,26 +683,17 @@
     "reasoning": "Content primarily discusses the technical aspects of managing work items and hierarchies in software development, without any focus on psychological safety.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T00:56:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the ordering and management of hierarchical work items within Scrum, focusing on team-level practices rather than scalable agile frameworks or organizational agility.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:57:11",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the ordering of hierarchical work items and the implications of parent/child relationships in backlog management, which touches on aspects of software development practices. However, it primarily focuses on project management and task organisation rather than core engineering excellence principles such as coding standards, quality assurance, or CI/CD practices. The discussion lacks depth in terms of best practices and continuous improvement in engineering processes.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -841,10 +706,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T00:56:34",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on stack ranking hierarchical work items and the dynamics of project management in software development, without any mention of asynchronous development practices or principles.",
     "level": "Ignored"
   },
@@ -868,56 +733,35 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T15:05:14",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses practical challenges and solutions related to managing hierarchical work items in Agile environments, particularly focusing on the importance of effectively ordering tasks and understanding parent-child relationships. While it does not explicitly mention 'Pragmatic Thinking', it aligns well with the core themes of practical problem-solving and real-world applications in Agile. The depth of discussion is moderate, providing specific examples and scenarios, but it lacks a comprehensive exploration of broader pragmatic strategies.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-03-15T06:03:26",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the challenges of ordering hierarchical work items and the implications for backlog management. However, it lacks a direct focus on backlog refinement practices, techniques, or the role of the Product Owner. While it touches on related concepts, it does not provide a comprehensive exploration of backlog refinement as defined in the category.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T00:56:34",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to task hierarchy in software development without a clear focus on innovation practices, measurement, or the role of Evidence-Based Management in fostering a culture of innovation.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-11T16:55:13",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the ordering of Product Backlog Items (PBIs) and the implications of hierarchical relationships within Scrum, which aligns with Scrum principles. However, it lacks a comprehensive exploration of Scrum roles, sprint processes, or customer feedback mechanisms, leading to a moderate confidence score.",
-    "level": "Secondary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T00:56:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses task management and hierarchy in Agile work items without reference to scaling Agile practices across multiple teams or enterprise-level contexts.",
+    "reasoning": "Content primarily discusses issues related to task hierarchy in software development without a clear focus on innovation practices, measurement, or the role of Evidence-Based Management in fostering a culture of innovation.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -940,10 +784,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-16T00:56:34",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses hierarchical work items and backlog management in Scrum, without a clear focus on test automation.",
     "level": "Ignored"
   },
@@ -958,27 +802,27 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T06:03:05",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the ordering and management of work items within Agile frameworks, which relates to the delivery of functional software. However, it primarily focuses on the mechanics of task management rather than the broader principles of working software, such as quality assurance or customer feedback integration.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-03-15T06:02:35",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the challenges of managing hierarchical work items within Agile frameworks, particularly focusing on Product Backlog Items (PBIs) and their relationships. While it touches on backlog management and the importance of ordering tasks, it lacks a comprehensive overview of Agile Planning Tools or specific tools like Jira or Trello. The depth of discussion on backlog management techniques is moderate, but it does not fully explore the broader context of Agile planning methodologies.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1027,22 +871,22 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T00:56:34",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the organization and management of work items in Agile/Scrum rather than focusing on hypothesis formulation, experimentation, or validated learning.",
     "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-15T06:03:23",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the ordering and management of hierarchical work items in software development, which touches on decision-making processes. However, it primarily focuses on practical examples and personal experiences rather than structured, evidence-based methodologies. The discussion lacks depth in terms of frameworks or empirical evidence, making it a secondary focus rather than a primary one.",
     "level": "Ignored"
   },
@@ -1066,15 +910,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-03-15T06:03:21",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the ordering and management of Product Backlog Items (PBIs) and touches on the relationship between tasks and PBIs, which is relevant to the Product Owner's responsibilities. However, it lacks a comprehensive exploration of the Product Owner's role, techniques for backlog management, or stakeholder engagement, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1114,22 +958,22 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-15T06:03:34",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the ordering of work items and the implications of parent/child relationships in Agile methodologies, which touches on team dynamics and collaboration. However, it primarily focuses on technical aspects of task management rather than broader themes of team communication, shared ownership, or fostering a collaborative culture. While there are mentions of team tracking and relationships, the depth of discussion does not fully align with the core themes of team collaboration.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T00:56:34",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily discussing hierarchical work items, their management, and specific issues related to ordering backlogs, rather than focusing on Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1142,22 +986,13 @@
     "reasoning": "Content primarily discusses issues related to managing hierarchical work items within software development processes, particularly in the context of Scrum, without a clear focus on digital transformation strategies or the adoption of digital technologies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
-    "calculated_at": "2025-02-16T00:56:34",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses issues related to managing hierarchical work items and backlog prioritization within a software development framework, without focusing on Minimum Viable Products or market validation.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T00:56:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses issues related to hierarchical work items and project management in software development, without direct focus on AI or its application in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1171,22 +1006,22 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-16T00:56:34",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of ranking and managing work items within a Scrum context, rather than focusing on broader product strategy methodologies, frameworks, or roadmapping.",
     "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-15T06:03:28",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the ordering of hierarchical work items and touches on aspects of backlog management, which are relevant to agile practices. However, it lacks a strong focus on technical leadership principles, such as mentoring, team dynamics, or fostering collaboration. The discussion is more technical and procedural rather than strategic or leadership-oriented.",
     "level": "Ignored"
   },
@@ -1210,13 +1045,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:08:00",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the challenges of stack ranking hierarchical work items and touches on the importance of test cases and their relationships with Product Backlog Items (PBIs). However, it does not focus on Test First Development principles or practices such as Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). The mention of test cases is too brief and lacks depth in relation to the Test First Development category, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
@@ -1240,19 +1075,19 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-16T00:56:34",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on ordering and managing work items in Agile practice without addressing large-scale Agile principles, frameworks, or the enterprise-level transformation necessary for scaling Agile.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T00:56:34",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses hierarchical work item organization and stack ranking in software development, which does not relate directly to team motivation strategies or dynamics.",
     "level": "Ignored"
   },
@@ -1267,10 +1102,10 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-15T06:02:16",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
-    "final_score": 18.0,
+    "final_score": 20.0,
     "reasoning": "The content discusses the ordering of hierarchical work items in a software development context, focusing on tooling and workflow rather than promoting a growth mindset, feedback loops, or knowledge sharing, which are central to Continuous Learning.",
     "level": "Ignored"
   },
@@ -1294,13 +1129,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:08:03",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses challenges related to stack ranking hierarchical work items, which is relevant to Scrum practices but does not explicitly focus on the role of the Scrum Master. While it touches on aspects of backlog management and team productivity, it lacks a direct exploration of the Scrum Master's responsibilities, techniques, or influence on team dynamics and organisational change. The discussion is more centred on technical aspects of work item management rather than the facilitative role of a Scrum Master.",
     "level": "Ignored"
   },
@@ -1322,18 +1157,6 @@
     "reasoning": "Content primarily discusses technical aspects of managing and ordering hierarchical work items in software development, with no clear focus on team collaboration norms or working agreements.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-11T10:35:30",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 75.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the challenges of managing hierarchical work items in Agile development, specifically in the context of Product Backlog Items (PBIs) and their relationships. It directly addresses the role of software developers in effectively ordering tasks, which aligns with Agile methodologies. The depth of discussion is significant, as it explores specific scenarios and best practices for managing work items, demonstrating a clear understanding of Agile principles. However, while it is focused on software development, it does not explicitly mention DevOps or broader engineering practices, which slightly lowers the alignment score.",
-    "level": "Secondary"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-16T00:56:34",
@@ -1345,10 +1168,10 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:08",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses organizing work items and their relationships in the context of Agile practices, touching on aspects such as test cases and requirement traceability, but it primarily focuses on hierarchical task management, which is more about project management than core engineering practices.",
     "level": "Tertiary"
   },
@@ -1363,22 +1186,22 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-16T00:56:34",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses ordering hierarchical work items and does not focus on Sprint Review processes, roles, or feedback mechanisms.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T15:22:16",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the challenges of managing hierarchical work items within a product backlog, which relates to product management practices. It touches on the importance of effectively ordering tasks and understanding parent-child relationships in backlog management, aligning with the strategic aspects of product management. However, the focus is more on technical implementation details rather than broader product management methodologies or frameworks, which limits its depth and alignment with the category.",
     "level": "Secondary"
   },
@@ -1393,25 +1216,25 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-15T06:02:26",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the ordering of work items within a backlog, which is relevant to Agile practices, particularly Scrum. However, it primarily focuses on the technical aspects of managing work items rather than exploring Agile frameworks in depth. While it touches on concepts like PBIs (Product Backlog Items) and their relationships, it lacks a comprehensive discussion of Agile principles, comparative analysis of frameworks, or case studies. Therefore, while there is some alignment with Agile frameworks, the depth and focus are insufficient for a higher confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-15T06:02:47",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the ordering of work items and the implications of hierarchical relationships within Agile frameworks, which touches on Agile principles. However, it primarily focuses on technical practices related to task management rather than strategic alignment or broader Agile strategy discussions. The depth of discussion is moderate, but it lacks a clear connection to organisational vision or strategic planning.",
     "level": "Ignored"
   },
@@ -1435,10 +1258,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T00:56:34",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on managing and ordering hierarchical work items in software development, with emphasis on specific project management challenges rather than Lean principles like waste reduction or continuous improvement.",
     "level": "Ignored"
   },
@@ -1460,15 +1283,6 @@
     "reasoning": "Content focuses primarily on technical aspects of task and backlog management in Agile methodologies, without clear central themes of accountability or ownership.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T00:56:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the ordering and hierarchy of tasks and work items in a project management context without a clear focus on Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T00:56:34",
@@ -1480,22 +1294,22 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-03-15T06:02:16",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 40,
     "non_ai_confidence": 20,
-    "final_score": 38.0,
+    "final_score": 40.0,
     "reasoning": "The content mainly discusses the ordering and management of work items in a Scrum context, with only a brief mention of test cases and their relevance to project backlog items. The primary focus is not on Test Driven Development principles.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:37:31",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the technical challenges of stack ranking hierarchical work items in software development, which is more focused on specific practices and tools rather than the broader themes of collaboration, decision-making, or value delivery. While it touches on team productivity and organisation, it lacks a strong emphasis on social frameworks or methodologies that promote collaboration and collective intelligence, which are central to the category of Social Technologies.",
     "level": "Ignored"
   },
@@ -1528,73 +1342,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:45:44",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the ordering of Product Backlog Items (PBIs) and the implications of hierarchical relationships within Scrum artefacts, which aligns with Scrum principles. However, it lacks a comprehensive exploration of Scrum roles, events, or broader Agile principles, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:28:08",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the ordering and management of work items in a Scrum context, focusing on hierarchical relationships and task management. While it touches on aspects of testing and traceability, it does not explicitly address the Shift-Left Strategy or its core principles, benefits, or methodologies. The discussion is more aligned with Agile practices rather than the proactive integration of testing and security earlier in the development lifecycle.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:24:15",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses challenges and strategies related to stack ranking hierarchical work items, which touches on aspects of team productivity and organisation. However, it lacks a strong focus on Continuous Improvement principles such as empirical evidence, a culture of experimentation, or systematic processes for enhancement. The discussion is more about specific practices in software development rather than a broader commitment to ongoing improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:24:17",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the challenges of stack ranking hierarchical work items in software development, which is more focused on project management techniques rather than the alignment of strategy with execution as defined in the Common Goals category. While there are mentions of Product Backlog Items (PBIs) and their relationships, the discussion lacks a clear connection to shared objectives or the operationalisation of Common Goals within Agile or DevOps frameworks. The depth of discussion on aligning team efforts with overarching strategic objectives is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:24:20",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the challenges of stack ranking hierarchical work items and touches on the importance of effectively ordering tasks, which relates to competence in terms of skill development and quality outcomes. However, it primarily focuses on practical challenges and strategies rather than a deep exploration of competence as a foundational principle. The discussion lacks explicit references to continuous learning or fostering a culture of competence, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:07:57",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the challenges of stack ranking hierarchical work items in software development, focusing on practical strategies for ordering tasks. While it touches on aspects of agility, it does not explicitly address the intentional shaping of outcomes, nor does it differentiate between human and AI capabilities in the context of Agentic Agility. The discussion lacks depth in exploring the principles or mechanisms of Agentic Agility, resulting in a low confidence score.",
     "level": "Ignored"
   }

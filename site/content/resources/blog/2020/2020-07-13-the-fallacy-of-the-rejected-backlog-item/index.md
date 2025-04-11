@@ -9,7 +9,7 @@ ResourceImportId: 9876
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-07-13
-weight: 415
+weight: 360
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,16 +24,26 @@ aliasesArchive:
 - /the-fallacy-of-the-rejected-backlog-item
 - /resources/blog/the-fallacy-of-the-rejected-backlog-item
 tags:
-- Scrum Product Development
-- Agile Project Management
 - Professional Scrum
-- Transparency
-- Increment
 - Empirical Process Control
+- Transparency
 - Working Software
+- Agile Frameworks
 - Software Development
 - Sprint Review
+- Agile Product Management
 - Scrum Team
+- Agile Planning
+- Increment
+- Product Backlog
+- Product Delivery
+- Product Owner
+- Value Delivery
+- Agile Transformation
+- Scrum Master
+- Pragmatic Thinking
+- Team Performance
+- Definition of Done
 categories:
 - Scrum
 - Product Management

@@ -36,8 +36,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Software Development
 - Continuous Improvement
+- Software Development
 resourceTypes:
 - video
 categories: []

@@ -2,7 +2,7 @@
 title: Security by Design Building Secure Software
 description: Learn to embed security from the start in software development. Join Martin Hinshelwood as he explores shifting left for resilient, secure software.
 date: 2024-11-26T13:35:33Z
-weight: 415
+weight: 355
 ResourceId: NgoP5W5y7Gs
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -25,23 +25,24 @@ duration: 369
 isShort: false
 tags:
 - Shift-Left Strategy
-- Software Development
 - Technical Mastery
+- Software Development
 - Pragmatic Thinking
 - Product Delivery
-- Software Developers
-- Practical Techniques and Tooling
 - Azure DevOps
+- Competence
+- Technical Excellence
 - Working Software
-- People and Process
+- Engineering Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
+- Product Development
 
 ---
 # Shift Left: Building Quality and Security From the Start

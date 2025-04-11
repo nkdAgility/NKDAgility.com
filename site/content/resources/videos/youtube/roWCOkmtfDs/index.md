@@ -2,7 +2,7 @@
 title: 'The Importance of Validation in Product Development: A Strategic Approach'
 description: Discover the importance of product validation! Learn how to ensure features deliver real value, reduce waste, and enhance user satisfaction.
 date: 2024-09-02T15:30:15Z
-weight: 670
+weight: 640
 ResourceId: roWCOkmtfDs
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -31,18 +31,26 @@ sitemap:
   priority: 0.6
 tags:
 - Hypothesis Driven Development
-- Product Validation
-- Decision Making
 - Evidence Based Leadership
+- Experimentation
+- Product Validation
 - Value Delivery
 - Product Discovery
 - Metrics and Learning
-- Discovery and Learning
+- Decision Making
 - Evidence Based Management
-- Experimentation
+- Current Value
+- Product Delivery
+- Pragmatic Thinking
+- Product Strategy
+- Agile Product Management
+- Lean Startup
+- Product Owner
+- Entrepreneurship
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

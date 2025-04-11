@@ -28,13 +28,13 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-15T07:40:26",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions the organisational culture at Aggreko and the author's personal transition between companies, which hints at the interplay between technology and organisational structures. However, it lacks a detailed exploration of how these elements influence software delivery or team effectiveness, and does not provide substantial depth or direct discussion on sociotechnical systems.",
     "level": "Ignored"
   },
@@ -58,10 +58,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T20:55:34",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal career transition and experiences rather than installation or configuration topics.",
     "level": "Ignored"
   },
@@ -76,24 +76,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-10T13:20:53",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 72.0,
     "ai_mentions": 5,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on a personal career transition and reflections on workplace culture, which aligns with the Miscellaneous category. While it does mention technology and tools, it does not delve into Agile, Scrum, DevOps, or Lean principles, making it a general discussion rather than a technical exploration. The depth of discussion is moderate, providing personal insights without actionable guidance or direct references to established frameworks.",
     "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T20:55:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a personal career move and does not focus on organisational resilience or change management strategies.",
-    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -102,15 +93,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal career move and experiences at two companies, without reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T20:55:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal career move and experiences rather than practical techniques or tooling related to Agile and DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -124,10 +106,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T20:55:45",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal career move and experiences rather than metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -160,35 +142,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-04-08T20:42:05",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a personal career transition and does not discuss Evidence-Based Management or its key topics. There are no explicit mentions of data-informed decision-making or metrics related to value delivery, innovation, or empirical decision-making.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-04-08T20:42:01",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal career transition and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or related topics. The content lacks alignment with the core themes of APOM and provides minimal detail on any relevant concepts.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T20:55:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal career move rather than industry news or reviews related to Agile, DevOps, or technology.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -218,48 +191,12 @@
     "reasoning": "Content primarily discusses a personal career move and experiences rather than platform engineering principles or practices.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T20:56:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a personal career move and does not address AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T20:56:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal career move and experiences rather than code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T20:56:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal career move and experiences rather than events or presentations related to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T20:56:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal career move and experiences rather than transparency and accountability within Agile teams.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-16T20:56:06",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal career move and experiences rather than principles or practices of business agility.",
     "level": "Ignored"
   },
@@ -292,13 +229,13 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-10T15:16:55",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 30,
-    "final_score": 64.0,
+    "final_score": 68.0,
     "reasoning": "The content primarily focuses on the author's personal career transition from Merrill Lynch to Aggreko, which aligns with the Personal category. It includes reflections on the reasons for the move and the excitement about new opportunities, indicating a personal experience. However, it lacks depth in discussing Agile, Scrum, or DevOps methodologies, and does not provide substantial insights or anecdotes related to these themes, which lowers the overall confidence score.",
     "level": "Secondary"
   },
@@ -322,13 +259,13 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-04-08T20:41:48",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a personal career transition and does not explicitly discuss DevOps principles, practices, or cultural shifts. While there is a mention of embracing new technology, it lacks depth and does not align with the core themes of DevOps such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
@@ -339,36 +276,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal career move and experiences rather than engineering practices or methodologies related to technical excellence.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T07:40:26",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content briefly touches on personal career transition and company culture, which are relevant to the interplay between people and processes. However, it lacks a detailed discussion on team dynamics, leadership, or structured methodologies, making it more of a personal narrative than a focused exploration of the category.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T20:56:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal career move and experiences at different companies, with no clear focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T20:56:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal career move and experiences rather than specific products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -400,10 +307,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T21:13:17",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal career move and does not focus on the measurement or improvement of innovation capabilities within organizations.",
     "level": "Ignored"
   },
@@ -432,15 +339,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses personal career transition and individual experiences, with no relation to portfolio management concepts or practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T21:13:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on an individual's career change and experiences rather than discussing Scrum principles or practices related to product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -472,10 +370,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T21:13:17",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal career move and does not address Agile values or principles.",
     "level": "Ignored"
   },
@@ -508,20 +406,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T21:13:17",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the author's personal career move and reflections, with no discussion related to the Definition of Done in Agile or Scrum.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T21:13:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses personal career changes and does not address Scaled Agile practices, frameworks, or team coordination.",
+    "reasoning": "Content primarily focuses on the author's personal career move and reflections, with no discussion related to the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -587,15 +476,6 @@
     "reasoning": "Content focuses on personal experiences and changes in employment rather than discussing collaboration tools or their impact on Agile methodologies.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T21:13:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a personal career transition and individual experiences rather than on Agile, DevOps, or relevant best practices for software development.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
     "calculated_at": "2025-02-16T21:13:17",
@@ -632,7 +512,7 @@
     "reasoning": "Content primarily discusses personal employment transition and career development, with no focus on estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T21:13:17",
     "ai_confidence": 0,
@@ -706,13 +586,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-04-08T20:42:16",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal career transition and does not discuss Continuous Delivery principles, practices, or related topics. There are no direct mentions of Continuous Delivery, and the alignment with its core themes is minimal, as the content lacks any detail on automation, incremental improvements, or software quality. Overall, it does not meet the criteria for this category.",
     "level": "Ignored"
   },
@@ -736,10 +616,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T21:13:17",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal career transition and experiences with two companies, with no focus on organisational change strategies or methodologies.",
     "level": "Ignored"
   },
@@ -761,15 +641,6 @@
     "reasoning": "Content primarily focuses on a personal career transition and company culture, with no discussion on hypothesis formulation, experimentation, or validated learning.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T21:13:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses a personal career move and experiences without any mention of AI, Agile methodologies, or DevOps practices.",
-    "level": "Ignored"
-  },
   "Agile Strategy": {
     "category": "Agile Strategy",
     "calculated_at": "2025-02-16T21:13:17",
@@ -781,10 +652,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T21:13:17",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal career transition rather than strategies or practices of change management in an organizational context.",
     "level": "Ignored"
   },
@@ -943,10 +814,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T21:13:17",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal career change and experiences rather than the Definition of Ready or related actionable standards for sprint planning.",
     "level": "Ignored"
   },
@@ -986,15 +857,6 @@
     "reasoning": "Content primarily discusses a personal job change rather than remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T21:13:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about the author's personal career transition and experiences, with no discussion on Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T21:13:17",
@@ -1002,15 +864,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal career changes and motivations, with no focus on customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T21:13:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a personal career move and does not discuss Agile Project Management or its principles.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1283,15 +1136,6 @@
     "reasoning": "Content primarily focuses on a personal career transition and experiences rather than discussing asynchronous development principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T21:13:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily personal and describes a career move without discussing any Scrum principles, frameworks, or scaling practices.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T21:13:17",
@@ -1312,13 +1156,13 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-03-11T12:15:39",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 47.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 43.0,
+    "final_score": 47.0,
     "reasoning": "The content briefly mentions the culture at Aggreko and its embrace of new technology, which aligns with the idea of organisational culture influencing agility. However, the discussion lacks depth and does not explore the broader implications of culture on Agile methodologies or team dynamics. The primary focus is on the author's personal career move rather than a thorough examination of organisational culture.",
     "level": "Tertiary"
   },
@@ -1331,24 +1175,15 @@
     "reasoning": "Content is primarily about a personal career move and does not delve into Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T21:13:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily a personal narrative about a job transition and does not discuss scaling agility or related frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T20:42:03",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on a personal career transition and does not discuss the role, responsibilities, or impact of a Scrum Master. There are no direct mentions of Scrum or related concepts, and the discussion lacks depth regarding Scrum practices or principles.",
     "level": "Ignored"
   },
@@ -1372,25 +1207,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T20:42:13",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 5.0,
     "ai_mentions": 0.0,
     "ai_alignment": 0.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal career transition and does not discuss any principles or practices related to Test First Development. There are no mentions of success criteria, testing methodologies, or any relevant topics that align with the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:56:18",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a personal career transition and does not explicitly discuss social technologies, collaboration, or decision-making frameworks. While there is a mention of a company culture that embraces new technology, it lacks depth in exploring how this relates to social technologies or their impact on organisational behaviour. Overall, the content does not align with the core themes of the category.",
     "level": "Ignored"
   },
@@ -1423,73 +1258,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:18:30",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on a personal career transition and does not explicitly mention Scrum or its principles. There are no discussions on Scrum roles, events, or practices, and the content lacks depth in relation to Scrum concepts. The only potential alignment is a vague reference to working with technology, but this does not connect to Scrum's framework or methodologies.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:47:01",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal career transition and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor any relevant case studies or tools. The discussion is entirely unrelated to software development processes that align with the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-04-08T20:41:50",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a personal career transition and does not discuss Common Goals within Agile or DevOps frameworks. While there is a mention of embracing new technology, it lacks explicit references to shared objectives, alignment, or strategic goals that are central to the category of Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-04-08T20:41:53",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the author's career shift and the desire to expand expertise, which aligns with the concept of competence. However, it lacks a detailed discussion on continuous learning or strategies for fostering a culture of competence, making it more of a personal narrative than a focused discussion on the category.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-04-08T20:41:55",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a personal career transition rather than discussing Continuous Improvement principles. While there is a mention of embracing new technology, it lacks depth and does not align with the core themes of Continuous Improvement, such as empirical evidence, team effectiveness, or strategies for integration into processes.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T20:41:58",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on a personal career transition and does not explicitly discuss Agentic Agility or its principles. While there is a mention of embracing new technology and expanding expertise, these points are not deeply connected to the intentional shaping of outcomes or the core themes of Agentic Agility. The discussion lacks depth and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }

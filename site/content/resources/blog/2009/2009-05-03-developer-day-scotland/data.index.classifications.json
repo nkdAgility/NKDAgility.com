@@ -1,24 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-16T02:52:33",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses various technical sessions and topics related to software development, refactoring, and programming patterns, without a clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:45:46",
-    "ai_confidence": 72.0,
-    "ai_mentions": 60.0,
-    "ai_alignment": 80.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses various practical techniques and tools related to software development, such as refactoring, dynamic languages, and design patterns like MVVM. It provides insights into how these techniques can be applied in real-world scenarios, aligning well with the core themes of the category. The depth of discussion is substantial, particularly in the context of refactoring and architectural considerations, although it lacks a structured exploration of specific Agile or DevOps tools.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -31,47 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T09:22:09",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical sessions related to software development, refactoring, and design patterns, with no explicit discussion on Evidence-Based Management principles or metrics. While there are mentions of improving practices, they do not align with the core themes of EBM, such as empirical decision-making or outcome management.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-10T13:09:46",
-    "ai_confidence": 78.0,
-    "ai_mentions": 70.0,
-    "ai_alignment": 80.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses various aspects of software development, particularly focusing on refactoring, architectural decisions, and the implications of code debt, which are all relevant to the interplay between code quality and complexity. The mention of refactoring as a necessary practice to manage code debt aligns well with the principles of software code quality. Additionally, the session on architectural atrophy highlights the importance of maintaining architectural integrity to avoid complexity issues, further supporting the content's relevance to the category. Overall, the depth of discussion on these topics is substantial, justifying a high confidence score.",
-    "level": "Secondary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-15T07:23:31",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses various sessions from a developer event, touching on topics like refactoring, dynamic languages, and architectural atrophy. While it mentions learning from sessions and the importance of refactoring, the primary focus is on technical details and personal experiences rather than a structured exploration of discovery and learning methodologies. The discussions do align with some key topics, such as learning from failures and successes, but lack depth in exploring the processes that foster innovation and continuous learning.",
-    "level": "Secondary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T02:52:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses software development topics, refactoring, and programming languages without any mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -85,20 +40,11 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T02:52:50",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses sessions and topics related to software development, refactoring, and architectural practices, without focusing on installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T02:52:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses various sessions and topics from a developer event, focusing on technical aspects rather than transparency and accountability within Agile teams.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -119,59 +65,38 @@
     "reasoning": "Content primarily discusses technical sessions and topics related to software development without a clear focus on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T02:53:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical sessions and topics related to software development, refactoring, and programming patterns, without a clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T09:21:53",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on software development topics such as refactoring, dynamic languages, and design patterns, with no explicit discussion of DevOps principles or practices. While there are mentions of collaboration and iteration, these are not framed within the context of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-15T07:23:34",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses various sessions from a developer event, focusing on specific technical topics such as refactoring, dynamic languages, and design patterns. While it does not directly reference Agile, Scrum, DevOps, or Lean methodologies, it does touch on themes relevant to software development practices. However, the discussions are anecdotal and lack actionable insights or a clear connection to established frameworks, which aligns with the Miscellaneous category. The depth of discussion is moderate, as it provides personal reflections and experiences from the event, but it does not delve deeply into any specific Agile-related concepts.",
     "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-16T02:53:07",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses software development topics, refactoring, and programming patterns without a focus on decision-making processes or theories.",
     "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-10T15:07:37",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 90.0,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content provides a detailed account of the Developer Day Scotland event, including specific sessions attended, speakers, and topics discussed. It explicitly mentions the event and describes various presentations, aligning well with the category's focus on sharing insights and experiences from industry experts. The depth of discussion is significant, as it covers multiple sessions and their relevance to Agile and software engineering practices, demonstrating a strong connection to the core themes of the category.",
-    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -181,18 +106,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses various sessions and topics from a developer event, focusing on refactoring, dynamic languages, and architectural practices, without a clear emphasis on flow efficiency principles or optimisation of work throughput.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T07:23:14",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses various sessions from a developer event, focusing primarily on technical topics such as refactoring, dynamic languages, and design patterns. While there are brief mentions of team dynamics and the importance of management attending sessions, the primary focus remains on technical content rather than the interplay between people and processes. The discussions lack depth in exploring how human behaviour and structured methodologies impact productivity and innovation.",
-    "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -205,19 +118,19 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-16T02:53:14",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses software development topics, refactoring, and specific programming patterns without a clear focus on business agility principles or practices.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T02:53:15",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses various sessions and topics from a developer event, focusing on refactoring, dynamic languages, design patterns, and architecture, without a clear emphasis on metrics or learning principles.",
     "level": "Ignored"
   },
@@ -232,13 +145,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T18:54:35",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 78.0,
     "ai_mentions": 70.0,
     "ai_alignment": 80.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses various technical sessions from the Developer Day Scotland event, focusing on topics such as refactoring, dynamic languages, and the MVVM design pattern. These discussions align well with the principles of Technical Excellence, particularly in relation to code quality, architectural practices, and methodologies that enhance software development. The depth of the discussion is significant, as it provides insights into specific technical practices and their implications for software engineering. However, while the content is rich in technical detail, it does not explicitly frame these discussions within the broader context of Technical Excellence, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -262,10 +175,10 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-16T02:53:22",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses various sessions and topics from a developer event, focusing on refactoring, dynamic languages, design patterns, and architectural issues, rather than the methodologies and practices involved in product delivery.",
     "level": "Ignored"
   },
@@ -280,28 +193,19 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-16T02:53:30",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses software development sessions and topics such as refactoring, dynamic languages, and architectural practices, without a clear focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T02:53:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a developer event and various technical sessions, without a focus on specific products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-16T02:53:32",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses various technical sessions and personal experiences at a developer event, with no clear focus on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
@@ -316,15 +220,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-15T07:23:19",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 62.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 30,
-    "final_score": 59.0,
+    "final_score": 62.0,
     "reasoning": "The content includes personal reflections on attending a developer event, sharing insights and experiences from various sessions. It discusses personal takeaways from the sessions, such as the importance of refactoring and the MVVM design pattern, which aligns with the Personal category's focus on individual experiences and insights. However, the content also delves into technical details and discussions about frameworks, which detracts from its alignment with the Personal category. Overall, while it provides personal anecdotes, the technical focus limits its classification as primarily Personal.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -337,10 +241,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T02:53:37",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses various software development sessions and personal experiences at a developer event, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
@@ -365,24 +269,12 @@
     "reasoning": "Content primarily discusses technical sessions and personal experiences at a developer event, with no clear focus on organisational agility or related strategies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-11T10:43:39",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content primarily discusses a recent event, Developer Day Scotland, and provides insights into various sessions related to Agile and technology, which aligns with the category of News and Reviews. However, while it mentions specific sessions and speakers, the depth of analysis on the implications of these sessions for Agile and DevOps practices is somewhat limited. The content is more of a personal reflection rather than a comprehensive review or news update, which slightly lowers the confidence score.",
-    "level": "Secondary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T02:53:42",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses various sessions and topics from a developer event, focusing on refactoring, dynamic languages, design patterns, and architectural issues, without a clear emphasis on Application Lifecycle Management.",
     "level": "Ignored"
   },
@@ -397,31 +289,31 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T10:29:32",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses various sessions from the Developer Day Scotland event and focuses on topics like refactoring and architectural principles without mentioning the Definition of Done or related Agile concepts.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T12:09:10",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses various technical sessions focused on software craftsmanship, including refactoring, design patterns (MVVM), and architectural practices. It explicitly mentions the importance of refactoring and managing code debt, aligning well with the principles of clean code and software craftsmanship. The depth of discussion is substantial, providing insights into specific methodologies and practices that enhance software quality. Overall, the content is a strong fit for the Technical Mastery category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-16T10:29:32",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses various technical topics related to software development, such as refactoring, design patterns, and architecture, but does not address product discovery methodologies or identifying customer needs.",
     "level": "Ignored"
   },
@@ -448,10 +340,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T10:29:32",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses various sessions and topics from a developer event, without any focused discussion on Lead Time or its significance.",
     "level": "Ignored"
   },
@@ -466,28 +358,28 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T10:29:32",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses topics related to software development sessions and does not mention Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-16T10:29:32",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses software development topics, including refactoring, dynamic languages, and design patterns, with no focus on portfolio management strategies, investment prioritisation, or aligning projects with organizational goals.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-16T10:29:32",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on various sessions and topics from a developer event, discussing refactoring, coding practices, and software design patterns but does not address the Product Backlog or its management in Agile projects.",
     "level": "Ignored"
   },
@@ -520,22 +412,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T07:23:27",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses various sessions from a developer event, touching on topics like refactoring and architectural practices, which relate to operational efficiency. However, the focus is more on personal experiences and insights rather than structured operational practices or methodologies. While there are mentions of refactoring and architectural atrophy, the depth of discussion on operational practices is limited, making it a secondary focus rather than a primary one.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T10:29:33",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses software development sessions and topics, such as refactoring, dynamic languages, and design patterns, without focusing on Scrum Team dynamics, roles, or collaboration.",
     "level": "Ignored"
   },
@@ -559,10 +451,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-16T10:29:33",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses developer sessions, refactoring, coding practices, and software architecture, without a direct focus on validating product ideas through user engagement.",
     "level": "Ignored"
   },
@@ -595,10 +487,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T10:29:33",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses various technical sessions and topics related to software development without focusing on team dynamics, collaboration, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -622,31 +514,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T17:03:21",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses various aspects of software development, including refactoring, design patterns (specifically MVVM), and architectural considerations. It provides detailed insights into sessions from a developer event, showcasing methodologies and practices relevant to the software development lifecycle. The mention of specific techniques and the emphasis on the importance of architectural integrity and refactoring practices align closely with the core themes of the Software Development category.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T10:29:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses various software development topics such as refactoring, dynamic languages, MVVM design patterns, and architectural issues, without a clear focus on Agile Project Management principles or methodologies.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T10:29:33",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a developer event and various technical sessions, focusing on mechanics of refactoring and dynamic languages, rather than Agile values or principles.",
     "level": "Ignored"
   },
@@ -706,10 +589,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T10:29:33",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses software development practices, refactoring, and technical sessions from a developer event, lacking focus on organisational change principles or methodologies.",
     "level": "Ignored"
   },
@@ -740,21 +623,12 @@
     "reasoning": "Content primarily discusses developer sessions and technical topics related to software development, without a clear focus on customer satisfaction or related methodologies.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T10:29:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses various technical sessions and topics related to software development and programming rather than scaling Scrum principles or practices. There is no clear focus on scaling Scrum frameworks, coordination among teams, or related challenges.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-16T10:29:33",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical sessions and personal experiences at a software development event, with no clear focus on evidence-based leadership practices or empirical decision-making.",
     "level": "Ignored"
   },
@@ -767,24 +641,15 @@
     "reasoning": "Content primarily discusses various technical sessions and topics related to software development, without a focus on psychological safety or its implications in team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T10:29:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses individual sessions and topics related to software development and does not focus on scaling agile practices or concepts relevant to organizational agility.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:45:42",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses various sessions from a developer event, focusing on topics such as refactoring, architectural atrophy, and design patterns like MVVM. These topics align well with the principles of software craftsmanship and quality assurance, as well as best practices in coding and technical debt management. The mention of refactoring and the importance of architectural integrity directly ties into the core themes of engineering excellence. However, while the content is rich in relevant discussions, it is presented in a more anecdotal format rather than a structured analysis, which slightly lowers the depth score.",
     "level": "Secondary"
   },
@@ -826,13 +691,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T07:23:21",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses practical aspects of software development, particularly focusing on refactoring and architectural considerations, which align with pragmatic thinking. However, it lacks a strong emphasis on Agile or Scrum methodologies, and while it touches on real-world applications, it does not delve deeply into specific strategies or case studies that would enhance its alignment with the category.",
     "level": "Secondary"
   },
@@ -847,29 +712,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T10:29:33",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses various technical sessions related to software development without a clear focus on the measurement or enhancement of innovation capabilities or evidence-based management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T10:29:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses various sessions and topics related to software development, refactoring, and programming patterns, without a focus on Scrum principles or product development within a Scrum framework.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T10:29:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses primarily on individual software development practices, refactoring, and specific programming patterns without discussing scaling Agile methodologies or enterprise-level implementations.",
+    "reasoning": "The content primarily discusses various technical sessions related to software development without a clear focus on the measurement or enhancement of innovation capabilities or evidence-based management.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -910,15 +757,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T07:23:24",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses various sessions from a developer event, touching on topics like refactoring, dynamic languages, and architectural practices. While there are mentions of software development practices, the focus is more on event experiences and individual sessions rather than a structured discussion on working software principles. The content lacks depth in addressing the core themes of working software, such as customer feedback integration or iterative development, which diminishes its alignment with the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -985,10 +832,10 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-16T10:29:33",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses various sessions at a developer event focused on software topics rather than structured decision-making processes.",
     "level": "Ignored"
   },
@@ -1003,28 +850,28 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-16T10:29:33",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on various sessions at a developer event, discussing topics like refactoring, dynamic languages, MVVM design pattern, and architectural atrophy, without any clear focus on release management practices, strategies, or processes.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-16T10:29:33",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses developer-focused sessions and technical topics, with no clear connections to the Product Owner role or responsibilities.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T10:29:33",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on developer sessions, refactoring, and software architecture without discussing cycle time or its implications.",
     "level": "Ignored"
   },
@@ -1048,19 +895,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T10:29:33",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses software development sessions and topics such as refactoring and architecture, with no clear focus on change management practices or principles.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T10:29:33",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily centers around sessions from a developer day event, discussing technical topics such as refactoring, dynamic languages, design patterns, and software architecture. There is no clear focus on team collaboration or communication within Agile, Scrum, or DevOps frameworks.",
     "level": "Ignored"
   },
@@ -1082,22 +929,13 @@
     "reasoning": "Content focuses on software development concepts and sessions from a developer event, with no direct relation to digital transformation strategies or the integration of digital technologies in business.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T10:29:33",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses sessions on refactoring, dynamic languages, MVVM design patterns, and architectural issues rather than the Minimum Viable Product concept.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T10:29:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses software development practices, refactoring, and programming languages without any focus on AI applications or its integration within Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1111,10 +949,10 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-16T10:29:33",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical sessions, refactoring, and software development practices rather than product strategy methodologies or frameworks.",
     "level": "Ignored"
   },
@@ -1147,22 +985,22 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:32:59",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses various sessions from a developer event, focusing on topics like refactoring, dynamic languages, and design patterns (MVVM). There is no explicit mention of Test First Development principles, success criteria, or testing practices. The content lacks depth in discussing any related concepts, making it largely irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T10:29:33",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on software development topics and sessions from a developer event, with no substantial discussion about the Windows operating system itself.",
     "level": "Ignored"
   },
@@ -1186,10 +1024,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T10:29:33",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical sessions at a developer event and mechanics of refactoring, rather than team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1204,15 +1042,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-15T07:23:17",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses various sessions from a developer event, highlighting topics such as refactoring, dynamic languages, and architectural atrophy. While it touches on the importance of learning and adapting through these sessions, it lacks a strong focus on the principles of Continuous Learning as defined in the category. The discussions are more about specific technical topics rather than fostering a growth mindset or effective knowledge sharing within teams. However, the mention of refactoring and the need for developers to learn from architectural changes indicates some alignment with Continuous Learning principles.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1234,13 +1072,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:33:02",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a developer event discussing technical topics such as refactoring, dynamic languages, and design patterns, with no explicit mention of the Scrum Master role or its responsibilities. While there are references to iterative processes and team dynamics, these are not directly tied to the Scrum framework or the specific role of a Scrum Master, leading to a very low confidence score.",
     "level": "Ignored"
   },
@@ -1262,18 +1100,6 @@
     "reasoning": "The content primarily discusses various technical sessions and topics related to software development, refactoring, and architecture, with no clear focus on working agreements or team norms.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T07:23:37",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 75.0,
-    "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses various sessions from a developer event, focusing on topics such as refactoring, dynamic languages, and architectural practices, which are relevant to software developers. It mentions specific methodologies and practices that align with Agile and modern engineering, such as refactoring as part of iterations and the importance of architecture in software development. However, while the content is rich in detail about these topics, it does not explicitly frame them within the Agile or DevOps contexts, which slightly lowers the alignment score.",
-    "level": "Secondary"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-16T10:29:33",
@@ -1285,25 +1111,25 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-11T18:14:05",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses refactoring in detail, highlighting its importance in managing code debt and maintaining software quality, which aligns well with the principles of clean code and refactoring. It also touches on architectural practices and the need for strong architectural oversight, which relates to maintaining high-quality engineering practices. However, while these discussions are relevant, they are somewhat overshadowed by the broader event context and other topics, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-03-11T15:12:43",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 72.0,
     "ai_mentions": 60.0,
     "ai_alignment": 80.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the concept of 'code debt' in the context of refactoring, highlighting the need to manage and pay back this debt to maintain software quality. It aligns well with the core themes of technical debt, particularly in terms of its impact on maintainability and the importance of addressing it. The depth of discussion is moderate, providing insights into the necessity of refactoring iterations to manage technical debt effectively. However, while technical debt is a significant focus, the content also covers various other topics and sessions from the event, which slightly dilutes its primary focus.",
     "level": "Secondary"
   },
@@ -1318,10 +1144,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-16T10:29:33",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical sessions, coding practices, software development concepts, and personal reflections on a developer event, with no clear discussion on product management strategies or methodologies.",
     "level": "Ignored"
   },
@@ -1372,10 +1198,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T10:29:33",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on software development practices, refactoring, and architectural concerns, without addressing Lean principles or waste reduction in product development.",
     "level": "Ignored"
   },
@@ -1395,15 +1221,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses various technical sessions and topics related to software development, refactoring, and programming practices, without focusing on accountability or team dynamics in an Agile context.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T10:29:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses various development sessions and trends, without any reference to Scaling Kanban principles or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1426,13 +1243,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:46:47",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on technical aspects of software development, such as refactoring, dynamic languages, and design patterns, without a significant emphasis on collaboration, decision-making, or value delivery within organisations. While there are mentions of team dynamics and the importance of management attending sessions, these are not explored in depth or as a primary focus. The discussions are more about technical skills and methodologies rather than the social frameworks that underpin effective collaboration and organisational culture.",
     "level": "Ignored"
   },
@@ -1447,10 +1264,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:36:43",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses various sessions and topics from a developer event, focusing on refactoring, dynamic languages, design patterns, and architecture, without any mention of Internal Developer Platforms or their related concepts.",
     "level": "Ignored"
   },
@@ -1465,73 +1282,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T07:23:12",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses various technical sessions and topics related to software development, such as refactoring, dynamic languages, and design patterns. While there is a brief mention of iterations in the context of refactoring, it does not explicitly discuss Scrum principles, roles, events, or artifacts. The overall focus is on technical skills and practices rather than Scrum as a framework for project management.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:36:58",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses various sessions from a developer event, focusing on topics like refactoring, dynamic languages, and architectural practices. While there are mentions of software development processes, there is no explicit discussion of the Shift-Left Strategy or its principles. The content lacks depth in addressing how to integrate testing, security, or compliance early in the development lifecycle, which are core aspects of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T09:21:56",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses various sessions from a developer event, focusing on topics like refactoring and architectural atrophy, which relate to Continuous Improvement. However, while there are mentions of improving coding practices and the importance of refactoring, the primary focus is on specific technical sessions rather than a broader discussion on Continuous Improvement principles. The content does not deeply explore strategies or frameworks for implementing Continuous Improvement, which limits its alignment with the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T09:21:58",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on individual sessions and technical topics from a developer event, such as refactoring, dynamic languages, and MVVM. While there are mentions of collaboration and the importance of certain practices, it lacks a clear discussion on shared objectives or alignment with organisational goals, which are central to the concept of Common Goals in Agile and DevOps.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T09:22:03",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses various sessions at Developer Day Scotland that focus on technical skills and knowledge enhancement, particularly in refactoring, dynamic languages, and design patterns. While it does not explicitly mention 'competence', it aligns with the core themes of continuous learning and skill development. The depth of discussion on the importance of refactoring and architectural integrity suggests a commitment to quality outcomes, which is a key aspect of competence. However, the primary focus remains on specific technical topics rather than a broader discussion of competence as a principle.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:32:56",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical sessions related to software development, such as refactoring and design patterns, without explicitly discussing Agentic Agility or its principles. While there are mentions of improving coding practices and collaboration, these do not align with the core themes of intentionality and agency in shaping outcomes, which are central to Agentic Agility.",
     "level": "Ignored"
   }

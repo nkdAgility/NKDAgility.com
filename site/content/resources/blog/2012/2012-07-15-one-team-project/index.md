@@ -9,7 +9,7 @@ ResourceImportId: 6160
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-15
-weight: 660
+weight: 630
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,8 +29,6 @@ aliasesArchive:
 - /resources/blog/one-team-project
 tags:
 - Software Development
-- Agile Project Management
-- Practical Techniques and Tooling
 - Pragmatic Thinking
 categories: []
 preview: nakedalm-experts-visual-studio-alm-8-8.png

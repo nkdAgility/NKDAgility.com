@@ -9,7 +9,7 @@ ResourceImportId: 9499
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-05-02
-weight: 580
+weight: 540
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,7 +29,6 @@ aliasesArchive:
 - /resources/blog/naked-alm-starting-with-why-and-getting-naked
 tags:
 - Working Software
-- People and Process
 - Agile Philosophy
 - Organisational Agility
 - Frequent Releases

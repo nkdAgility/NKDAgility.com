@@ -27,10 +27,7 @@ isShort: false
 tags:
 - Operational Practices
 - Software Development
-- Practical Techniques and Tooling
-- Agile Project Management
 - Agile Frameworks
-- People and Process
 - Flow Efficiency
 - Lean Thinking
 sitemap:

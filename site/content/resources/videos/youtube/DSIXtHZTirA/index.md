@@ -2,7 +2,7 @@
 title: 'NKD Agility: Your partner in developing engineering excellence'
 description: Discover how performance engineering enhances user experience! Join Martin Hinshelwood as he shares strategies for optimising software in production.
 date: 2024-11-23T07:00:12Z
-weight: 265
+weight: 205
 ResourceId: DSIXtHZTirA
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,16 +26,19 @@ preview: https://i.ytimg.com/vi/DSIXtHZTirA/maxresdefault.jpg
 duration: 704
 isShort: false
 tags:
+- Software Development
 - Working Software
 - Product Delivery
-- Software Development
+- Shift-Left Strategy
 - Technical Mastery
 - Technical Excellence
-- Shift-Left Strategy
-- Azure DevOps
 - Customer Satisfaction
+- Customer Feedback Loops
+- Azure DevOps
 - Engineering Practices
-- Practical Techniques and Tooling
+- Pragmatic Thinking
+- Experimentation
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -9,7 +9,7 @@ ResourceImportId: 9892
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-04-03
-weight: 585
+weight: 540
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,16 +24,24 @@ aliasesArchive:
 - /my-first-scrum-team-in-the-wild
 - /resources/blog/my-first-scrum-team-in-the-wild
 tags:
-- Agile Project Management
 - Software Development
-- Estimation
-- People and Process
-- Scrum Product Development
-- Agile Product Management
-- Scrum Team
-- Agile Planning
 - Professional Scrum
+- Scrum Team
 - Team Performance
+- Agile Product Management
+- Agile Frameworks
+- Agile Planning
+- Estimation
+- Product Delivery
+- Pragmatic Thinking
+- Team Collaboration
+- Working Software
+- Agile Transformation
+- Product Backlog
+- Scrum Master
+- Agile Planning Tools
+- Personal
+- Product Owner
 categories:
 - Scrum
 preview: nakedalm-logo-128-link-6-6.png

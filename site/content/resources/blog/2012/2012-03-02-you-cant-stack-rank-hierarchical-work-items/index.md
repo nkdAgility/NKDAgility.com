@@ -9,7 +9,7 @@ ResourceImportId: 4773
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-03-02
-weight: 575
+weight: 530
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,12 +29,10 @@ aliasesArchive:
 - /resources/blog/you-cant-stack-rank-hierarchical-work-items
 tags:
 - Software Development
-- Agile Project Management
 - Azure DevOps
 - Azure Boards
 - Pragmatic Thinking
-categories:
-- Scrum
+categories: []
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 
 ---

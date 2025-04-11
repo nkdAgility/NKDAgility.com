@@ -2,7 +2,7 @@
 title: How Do You Know How Long It Takes to Deliver Value?
 description: 'Unlock the power of Evidence-Based Management! Discover 5 reasons why EBM is essential for enhancing your Time to Market and driving business success. #EBM #Shorts'
 date: 2024-01-26T11:00:51Z
-weight: 525
+weight: 475
 ResourceId: xaIDtZcoVXE
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -31,19 +31,30 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Management
+- Time to Market
 - Ability to Innovate
 - Continuous Improvement
-- Working Software
-- Software Development
-- Product Delivery
 - Evidence Based Leadership
-- Agile Strategy
-- Evidence Based Management
 - Flow Efficiency
+- Working Software
+- Agile Strategy
+- Agile Product Management
+- Evidence Based Management
+- Operational Practices
+- Software Development
+- Pragmatic Thinking
+- Product Delivery
+- Current Value
+- Decision Making
+- Metrics and Learning
+- Organisational Agility
+- Value Delivery
+- Business Agility
+- Empirical Process Control
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

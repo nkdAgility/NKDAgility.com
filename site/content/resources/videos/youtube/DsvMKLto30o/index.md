@@ -2,7 +2,7 @@
 title: 'Embrace Simplicity: How to Transform Complexity into Continuous Delivery Success'
 description: Unlock the secrets to continuous delivery! Discover how to simplify your software and foster a culture of agility for faster, more reliable feature delivery.
 date: 2025-02-27T07:00:10Z
-weight: 315
+weight: 255
 ResourceId: DsvMKLto30o
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -11,11 +11,11 @@ ResourceImportSource: Youtube
 videoId: DsvMKLto30o
 source: internal
 url: /resources/videos/:slug
-slug: nkd-agility-your-partner-in-developing-engineering-excellence
+slug: embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
 layout: video
 aliases:
 - /resources/DsvMKLto30o
-- /resources/videos/nkd-agility-your-partner-in-developing-engineering-excellence
+- /resources/videos/embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
 - /resources/videos/why-i-wrote-that-continuous-delivery-is-not-a-pipe-dream
 aliasesArchive:
 - /resources/videos/nkd-agility-your-partner-in-developing-engineering-excellence
@@ -23,20 +23,30 @@ aliasesArchive:
 - /resources/performance-engineering-for-optimal-user-experience
 - nkd-agility-your-partner-in-developing-engineering-excellence
 - /resources/videos/why-i-wrote-that-continuous-delivery-is-not-a-pipe-dream
+- /resources/videos/embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
+- embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
 preview: https://i.ytimg.com/vi/DsvMKLto30o/maxresdefault.jpg
 duration: 788
 isShort: false
 tags:
-- Continuous Delivery
 - Software Development
 - Pragmatic Thinking
+- Continuous Delivery
 - Continuous Improvement
-- Product Delivery
 - Frequent Releases
 - Operational Practices
-- People and Process
-- Code and Complexity
+- Product Delivery
 - Azure DevOps
+- Business Agility
+- Digital Transformation
+- Organisational Agility
+- Value Delivery
+- Working Software
+- Deployment Frequency
+- Flow Efficiency
+- Market Adaptability
+- Technical Debt
+- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -44,6 +54,7 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
+- Product Development
 - DevOps
 
 ---

@@ -10,15 +10,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T10:34:54",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the challenges of scaling teams and emphasises the importance of collaboration and minimising friction, which aligns with DevOps principles. However, it does not explicitly mention DevOps or its core practices, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -31,25 +31,25 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-06T14:32:40",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the challenges of scaling teams in software development and highlights the importance of team alignment and quality, which are relevant to engineering excellence. However, it primarily focuses on organisational structure and team dynamics rather than specific engineering practices or methodologies. While it touches on the impact of technical debt and the need for high quality, it lacks detailed exploration of coding standards, testing methodologies, or CI/CD practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:42:10",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the challenges of scaling teams and emphasises the importance of collaboration and minimising friction, which aligns with the core themes of Social Technologies. However, while it touches on these concepts, it does not delve deeply into specific methodologies or frameworks that promote collaboration or decision-making, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -71,27 +71,15 @@
     "reasoning": "Content primarily discusses team dynamics and scaling Agile practices, rather than focusing on product strategy methodologies or frameworks.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-06T13:21:52",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15,
-    "ai_alignment": 35,
-    "ai_depth": 30,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content explicitly discusses the challenges of scaling teams and the importance of team alignment, which directly relates to the dynamics of collaboration and communication in a process-oriented environment. It highlights how human behaviour impacts productivity and the need for structured methodologies to enhance outcomes. The depth of discussion on eliminating friction and structuring teams further supports its alignment with the category, making it a strong fit.",
-    "level": "Secondary"
-  },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-03-06T14:32:45",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the impact of scaling teams on delivery speed and mentions technical debt as a consequence of poor team alignment and coordination. While technical debt is mentioned, it is not the primary focus of the discussion. The content primarily addresses team dynamics and organisational structure rather than providing in-depth strategies or implications related to technical debt management. Therefore, while there is some relevance, it does not fully align with the core themes of the Technical Debt category.",
     "level": "Secondary"
   },
@@ -124,10 +112,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-25T12:16:41",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 70,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
+    "final_score": 70.0,
     "reasoning": "The content discusses the importance of team alignment and collaboration in scaling teams effectively, which relates to team performance. However, it primarily focuses on scaling and operational challenges rather than specific Agile practices or methodologies.",
     "level": "Secondary"
   },
@@ -142,19 +130,19 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-25T12:16:45",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses scaling teams and improving collaboration, without a focus on Value Stream Mapping or its principles.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-25T12:16:47",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses team scaling and collaboration challenges rather than metrics or learning principles.",
     "level": "Ignored"
   },
@@ -165,15 +153,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses scaling teams and technical processes rather than employee engagement or motivation.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-25T12:16:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses scaling teams and Agile practices without specific references to products or literature.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -196,60 +175,33 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T10:34:57",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses scaling teams and the challenges associated with it, which touches on agile principles. However, it lacks a direct focus on the Agile Product Operating Model specifically, as it primarily addresses team dynamics and coordination rather than product management practices or the core principles of APOM. The discussion is relevant but does not delve deeply into the specific aspects of the Agile Product Operating Model.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-25T12:16:54",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses scaling teams and the importance of alignment and collaboration, which are relevant to technical leadership, but it primarily focuses on the challenges of scaling rather than providing in-depth insights into technical leadership principles or practices.",
     "level": "Tertiary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-25T12:16:56",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses scaling teams and improving delivery, which relates to business agility, but the primary focus is on team dynamics and operational efficiency rather than a comprehensive exploration of business agility principles.",
     "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-25T12:16:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses scaling teams and Agile methodologies without any mention of AI or its applications.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-25T12:17:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses scaling teams and the challenges associated with it, which aligns with the theme of scaling Kanban, but it primarily focuses on general Agile principles and does not specifically address Kanban practices.",
-    "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-25T12:17:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses scaling teams and improving collaboration, without a clear focus on Scrum principles or practices.",
-    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -262,10 +214,10 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-25T12:17:04",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses scaling teams and the challenges associated with it, which aligns with the theme of Large Scale Agility, but it does not delve deeply into specific frameworks or enterprise-level strategies.",
     "level": "Tertiary"
   },
@@ -280,10 +232,10 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-25T12:17:07",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses scaling teams and improving delivery speed, which relates to Agile methodologies and enhancing responsiveness to market demands, but it primarily focuses on team dynamics rather than broader market adaptability strategies.",
     "level": "Tertiary"
   },
@@ -316,19 +268,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-25T12:17:12",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses scaling teams and the challenges associated with it, rather than focusing on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-25T12:17:14",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses scaling teams and improving delivery processes, which are relevant to Agile principles, but it primarily focuses on team dynamics and operational efficiency rather than specific Agile product management practices.",
     "level": "Tertiary"
   },
@@ -343,10 +295,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-25T12:17:16",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of team alignment and collaboration in scaling Agile practices, which relates to Agile values, but it primarily focuses on scaling and operational efficiency rather than the core values and principles of Agile.",
     "level": "Tertiary"
   },
@@ -361,10 +313,10 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-25T12:17:20",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses scaling teams and improving delivery processes, which relates to business agility, a key aspect of digital transformation. However, it primarily focuses on team dynamics and agile practices rather than a broader strategic adoption of digital technologies.",
     "level": "Tertiary"
   },
@@ -377,15 +329,6 @@
     "reasoning": "Content heavily discusses scaling teams and technical methodologies rather than psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-25T12:17:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses team scaling and coordination issues rather than the interplay between software code quality and complexity.",
-    "level": "Ignored"
-  },
   "Estimation": {
     "category": "Estimation",
     "calculated_at": "2025-02-25T12:17:24",
@@ -395,21 +338,12 @@
     "reasoning": "Content heavily discusses scaling teams and collaboration, but does not focus on estimation techniques or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-25T12:17:25",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses scaling teams and improving delivery outcomes, which relates to practical techniques in Agile, but lacks specific references to tools or methodologies.",
-    "level": "Tertiary"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-25T12:17:27",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses scaling teams and improving delivery processes, which relates to organisational change, but the primary focus is on team dynamics and software development practices rather than a comprehensive exploration of organisational change methodologies.",
     "level": "Tertiary"
   },
@@ -449,53 +383,35 @@
     "reasoning": "Content primarily discusses scaling teams and collaboration in Agile environments, without a clear focus on the application lifecycle stages or management practices.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-25T12:17:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses scaling teams and improving delivery, which may relate to presentations or discussions in Agile and DevOps contexts, but it primarily focuses on a specific approach rather than a formal event or presentation.",
-    "level": "Tertiary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-25T12:17:37",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses scaling teams and the challenges associated with it, which aligns with the principles of Scaled Agile. However, it does not explicitly mention specific frameworks or enterprise-level strategies, making it a secondary theme.",
-    "level": "Secondary"
-  },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-25T12:17:38",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses scaling teams and business agility rather than technical practices or software craftsmanship.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-25T12:17:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses scaling teams and the importance of alignment in Agile practices, which relates to Agile strategy, but it primarily focuses on operational challenges rather than strategic planning.",
     "level": "Tertiary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T15:29:57",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the challenges of scaling teams and the importance of collaboration, which aligns with some Scrum principles. However, it does not explicitly mention the role of the Scrum Master or delve into their specific responsibilities, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -514,24 +430,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses scaling teams and improving collaboration, without specific reference to the Daily Scrum or its principles.",
     "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-25T12:17:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses scaling teams and improving collaboration in Agile environments without a focus on AI or automation technologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-25T12:17:47",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses scaling teams and the importance of alignment and collaboration, which are relevant to Agile principles, but it primarily focuses on the broader topic of DevOps and team dynamics rather than specific Agile methodologies.",
-    "level": "Tertiary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -580,10 +478,10 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-25T12:17:58",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 70,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
+    "final_score": 70.0,
     "reasoning": "The content discusses strategies for scaling teams effectively, focusing on removing friction and improving delivery speed and quality, which aligns with operational efficiency principles. However, it does not delve deeply into specific methodologies or practices, making it a secondary theme.",
     "level": "Secondary"
   },
@@ -643,10 +541,10 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-25T12:18:07",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the alignment of teams and the importance of removing friction in scaling, which relates to strategic approaches in Agile environments. However, it primarily focuses on operational challenges rather than a comprehensive strategic framework.",
     "level": "Tertiary"
   },
@@ -661,19 +559,22 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-25T12:18:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T16:08:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses scaling teams and improving delivery processes, without a clear focus on innovation capabilities or Evidence-Based Management.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the challenges of scaling teams and the importance of collaboration, which indirectly relates to innovation. However, it does not explicitly mention innovation or provide metrics or strategies for fostering innovation. The focus is more on team dynamics and efficiency rather than on the mechanisms that enable innovation, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-25T12:18:11",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses team scaling and coordination issues rather than focusing on Cycle Time as a measurement of workflow efficiency.",
     "level": "Ignored"
   },
@@ -688,28 +589,28 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-25T12:18:13",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 70,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
+    "final_score": 70.0,
     "reasoning": "The content discusses practical strategies for scaling teams effectively within Agile frameworks, focusing on collaboration and efficiency, which aligns with pragmatic thinking. However, it does not delve deeply into specific problem-solving techniques or case studies.",
     "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-25T12:18:14",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses scaling teams and improving delivery processes, without a focus on the Definition of Done.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-25T12:18:16",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses team dynamics and scaling in Agile environments, without focusing on installation or configuration processes.",
     "level": "Ignored"
   },
@@ -724,28 +625,28 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-25T12:18:18",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of team alignment and quality in software delivery, which relates to working software, but it primarily focuses on scaling teams and organisational processes.",
     "level": "Tertiary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-25T12:18:20",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses scaling teams and improving delivery in a software development context, focusing on Agile practices, but it primarily centres on organisational challenges rather than specific software development methodologies.",
     "level": "Tertiary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-25T12:18:21",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses scaling teams and the challenges of coordination, without focusing on specific collaboration tools or their impact on Agile team dynamics.",
     "level": "Ignored"
   },
@@ -787,10 +688,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-25T12:18:31",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily discusses the importance of team alignment and collaboration in scaling teams effectively, which aligns with the dynamics of teamwork and communication in Agile frameworks.",
     "level": "Secondary"
   },
@@ -805,23 +706,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T16:42:01",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses scaling teams and the importance of collaboration, which aligns with the concept of improving outcomes. However, it lacks direct references to empirical evidence or specific metrics related to Evidence-Based Management. The focus is more on practical advice rather than data-informed decision-making.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-25T12:18:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses scaling teams and improving collaboration, which are relevant to software developers in Agile contexts, but it primarily focuses on organisational strategies rather than specific developer practices.",
     "level": "Tertiary"
   },
   "Experimentation": {
@@ -853,13 +745,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:29:53",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the challenges of scaling teams and improving collaboration, with no direct mention of Test First Development principles or practices. While it touches on quality and team dynamics, it does not align with the core themes of defining success criteria or testing methodologies, resulting in a very low confidence score.",
     "level": "Ignored"
   },
@@ -883,10 +775,10 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-25T12:18:49",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses scaling Agile teams and the importance of alignment and collaboration, which are relevant to Agile transformation, but it primarily focuses on the challenges of scaling rather than a comprehensive discussion on Agile transformation strategies.",
     "level": "Tertiary"
   },
@@ -926,21 +818,12 @@
     "reasoning": "Content primarily discusses scaling teams and improving collaboration, but does not focus on remote working practices or challenges specific to Agile frameworks.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-25T12:18:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses scaling teams and improving delivery processes, without a clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-25T12:18:56",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses team scaling and coordination issues rather than specific engineering practices or methodologies that enhance technical excellence.",
     "level": "Ignored"
   },
@@ -964,10 +847,10 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-25T12:19:01",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of team alignment and collaboration in scaling teams, which relates to cross-functional teams, but it primarily focuses on scaling and removing friction rather than explicitly addressing cross-functional team structures or practices.",
     "level": "Tertiary"
   },
@@ -982,10 +865,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-25T12:19:03",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses scaling teams and the challenges associated with team alignment, rather than focusing on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
@@ -1000,11 +883,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-25T12:19:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:00:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses team scaling and Agile methodologies, with no focus on system configuration.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses team scaling and collaboration rather than system configuration. While it touches on organisational structure and efficiency, it does not delve into specific system configuration practices, tools, or methodologies. The focus is on team dynamics rather than the integration of software and hardware systems.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1052,15 +938,6 @@
     "reasoning": "Content primarily discusses scaling teams and Agile methodologies, with no clear focus on Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-25T12:19:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses scaling teams and Agile practices without providing specific news updates or reviews related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Continuous Learning": {
     "category": "Continuous Learning",
     "calculated_at": "2025-02-25T12:19:14",
@@ -1072,10 +949,10 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-25T12:19:15",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of team alignment and removing friction to improve delivery speed, which relates to flow efficiency, but it primarily focuses on scaling teams and managing dependencies rather than directly addressing flow efficiency principles.",
     "level": "Tertiary"
   },
@@ -1090,19 +967,19 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-25T12:19:18",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses scaling teams and improving delivery processes, which are relevant to product delivery, but it primarily focuses on team dynamics and coordination rather than the end-to-end product delivery methodologies.",
     "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-25T12:19:20",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of team alignment and removing friction to improve delivery, which relates to optimising value flow, but it primarily focuses on scaling teams and Agile practices.",
     "level": "Tertiary"
   },
@@ -1135,23 +1012,17 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-25T12:19:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T13:00:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of team alignment and dependencies on delivery speed, which relates to throughput, but it primarily focuses on scaling teams and removing friction rather than directly measuring or optimising throughput.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-25T12:19:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses scaling teams and the challenges associated with alignment and delivery, without a clear focus on transparency or accountability.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the challenges of scaling teams and the impact on delivery, which indirectly relates to throughput. However, it does not explicitly mention throughput as a metric or provide detailed analysis or visualisation of throughput. The focus is more on team dynamics and coordination rather than on measuring or interpreting throughput as a delivery metric.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-25T12:19:29",
     "ai_confidence": 0,
@@ -1162,10 +1033,10 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-25T12:19:30",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses scaling teams and Agile practices without specific reference to Azure DevOps functionalities or tools.",
     "level": "Ignored"
   },
@@ -1180,24 +1051,27 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T16:41:59",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses scaling teams and the challenges associated with it, which indirectly relates to Continuous Delivery principles. However, it does not explicitly mention Continuous Delivery or its core practices, focusing instead on team dynamics and collaboration. While there are elements that touch on improving delivery outcomes, the primary focus is not on Continuous Delivery itself, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-25T12:19:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of team scaling on delivery speed, which relates to Lead Time, but it primarily focuses on team dynamics and coordination rather than explicitly measuring or optimising Lead Time.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-11T08:54:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the challenges of scaling teams and how it can lead to slower delivery, which indirectly relates to Lead Time. However, it does not explicitly mention Lead Time or provide a detailed exploration of its measurement or optimisation. The focus is more on team dynamics and coordination rather than on Lead Time as a specific metric or its implications on delivery efficiency.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -1210,10 +1084,10 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-25T12:19:38",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "Content primarily discusses strategies for scaling teams effectively while maintaining quality and speed, which aligns with the principles of organisational agility.",
     "level": "Secondary"
   },
@@ -1234,24 +1108,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses scaling teams and improving delivery processes, without a focus on Scrum Values.",
     "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-25T12:19:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses scaling teams and the challenges associated with it, without a clear focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-25T12:19:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses scaling teams and the challenges associated with it, which aligns with the theme of scaling Scrum, but it does not specifically mention Scrum principles or frameworks.",
-    "level": "Tertiary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -1282,10 +1138,10 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-25T12:19:48",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses scaling teams and improving delivery, which are relevant to Agile principles, but it primarily focuses on the challenges of scaling rather than a specific Agile framework.",
     "level": "Tertiary"
   },
@@ -1318,19 +1174,19 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-25T12:19:53",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of team alignment and collaboration in scaling Agile practices, which aligns with Agile principles, but it primarily focuses on operational aspects rather than the broader Agile philosophy.",
     "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-25T12:19:55",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses scaling teams and the importance of alignment and collaboration, which are relevant to enterprise agility, but it primarily focuses on team dynamics rather than broader organisational implications.",
     "level": "Tertiary"
   },
@@ -1345,19 +1201,19 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-25T12:19:57",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of team alignment and collaboration in scaling teams, which relates to the interplay between social and technical aspects in software delivery. However, the primary focus is on scaling and operational efficiency rather than a deep exploration of sociotechnical systems.",
     "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-25T12:19:59",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "Content primarily discusses strategies for scaling teams effectively to enhance delivery speed and quality, aligning with the principles of value delivery in Agile and DevOps frameworks.",
     "level": "Secondary"
   },
@@ -1370,21 +1226,12 @@
     "reasoning": "Content primarily discusses scaling teams and the challenges associated with coordination and delivery, without a clear focus on sensemaking or decision-making processes in complex environments.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-25T12:20:03",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the challenges and strategies associated with scaling teams in an agile context, focusing on alignment, dependencies, and maintaining quality, which are central themes in scaling agility.",
-    "level": "Secondary"
-  },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-25T12:20:04",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the dynamics of team scaling and collaboration, which relates to organisational behaviour and systems thinking, but it primarily focuses on Agile practices rather than a comprehensive exploration of organisational physics.",
     "level": "Tertiary"
   },
@@ -1408,86 +1255,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:37:52",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the challenges of scaling teams and the importance of team alignment, which indirectly relates to Scrum principles such as team dynamics and continuous improvement. However, it does not explicitly mention Scrum roles, events, or artifacts, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:36:11",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses scaling teams and the challenges associated with it, but it does not explicitly mention the Shift-Left Strategy or its principles. While there are themes related to improving processes and quality, the focus is primarily on team dynamics and coordination rather than integrating testing, security, or compliance earlier in the development lifecycle. Therefore, the alignment with the Shift-Left Strategy is weak, and the depth of discussion does not provide substantial insights into the category.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T16:41:50",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the challenges of scaling teams and emphasises the importance of minimising friction and enhancing collaboration, which aligns with the principles of Continuous Improvement. However, it does not explicitly mention Continuous Improvement or provide detailed strategies or frameworks related to it. The focus is more on team dynamics and outcomes rather than a systematic approach to continuous improvement practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T16:41:52",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the challenges of scaling teams and the importance of alignment, which relates to the concept of Common Goals. However, it primarily focuses on operational issues and personal experiences rather than explicitly defining or exploring Common Goals within Agile or DevOps frameworks. The mention of alignment is present but not deeply explored, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T16:41:54",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the challenges of scaling teams and the importance of effective collaboration, which indirectly relates to competence. However, it does not explicitly focus on continuous learning or skill development, which are core aspects of the competence category. The discussion is more about team dynamics and operational efficiency rather than the development of individual or collective capabilities.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T16:41:56",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses scaling teams and collaboration but does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on themes of team coordination and minimising friction, which are relevant to 1ES, it lacks a direct focus on the integration and standardisation of engineering processes that characterise the 1ES framework.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T15:29:50",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses scaling teams and the importance of collaboration and minimising friction, which aligns with the concept of Agentic Agility. However, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. The focus is more on team dynamics and organisational structure rather than the intentional shaping of outcomes through autonomy and adaptability.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T13:00:39",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the challenges and misconceptions associated with scaling teams, focusing on the importance of team collaboration and minimising dependencies. It aligns well with the core themes of the Scaling category, particularly in addressing coordination, alignment, and value delivery. The depth of discussion is substantial, providing insights into the pitfalls of scaling and offering a structured approach to effective scaling, which enhances its relevance to the category.",
+    "level": "Primary"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T13:00:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the challenges of scaling teams in product development, emphasising the importance of team collaboration and minimising dependencies, which aligns well with Agile principles. It provides a detailed exploration of how to effectively scale teams while maintaining quality and delivering value, reflecting key themes of continuous improvement and customer-centric approaches in product development.",
+    "level": "Secondary"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T13:00:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses scaling teams and organisational challenges without any direct mention of GitHub or its functionalities. While it touches on collaboration and team dynamics, it does not align with GitHub's specific tools or practices, nor does it provide any depth regarding GitHub services or methodologies.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T13:00:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the challenges of scaling teams in a project management context, highlighting issues like dependencies, coordination overhead, and the importance of team alignment. It aligns well with core project management principles, particularly in relation to team dynamics and delivery outcomes. However, while it touches on project management themes, it primarily focuses on scaling and team collaboration rather than a broader range of project management methodologies or lifecycle phases.",
+    "level": "Secondary"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T13:00:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses scaling teams and the challenges associated with it, which can relate to Hybrid Agile environments. However, it does not explicitly mention Hybrid Agile or critically examine the integration of traditional and agile methodologies. The focus is more on team dynamics and effective scaling rather than the specific challenges of Hybrid Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T16:08:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the challenges of scaling teams and how it can negatively impact delivery speed, which indirectly relates to Time to Market. However, it does not explicitly mention Time to Market or its associated metrics. The focus is more on team dynamics and coordination rather than on the specific measurement or improvement of Time to Market. While there is some conceptual alignment regarding the importance of efficient team collaboration for delivery, the depth of discussion on Time to Market itself is minimal.",
+    "level": "Secondary"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T16:08:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the challenges of scaling teams and the importance of collaboration, which indirectly touches on the concept of unrealised value by highlighting inefficiencies and potential improvements. However, it does not explicitly mention unrealised value or provide detailed insights into identifying or measuring untapped opportunities. The focus is more on operational challenges rather than strategic discussions about unrealised value in the context of Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T16:08:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the challenges of scaling teams and the importance of collaboration and quality over quantity, which indirectly relates to the concept of delivering value. However, it does not explicitly mention Current Value or provide metrics or indicators for measuring it. The focus is more on team dynamics and operational efficiency rather than a real-time assessment of value delivered, which is central to the Current Value category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T16:08:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses scaling teams and the pitfalls associated with adding more teams, which aligns with the Agnostic Agile principle of focusing on value delivery and minimising friction. However, it does not explicitly mention Agnostic Agile or its principles, nor does it provide a deep exploration of the topic. The discussion is more about practical scaling strategies rather than a philosophical approach to agility, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T16:08:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the challenges of scaling teams and the importance of collaboration and minimising friction, which aligns with some principles of CaaP. However, it does not explicitly mention CaaP or delve deeply into customer-centric strategies or organisational design. The focus is more on team dynamics rather than treating the organisation as a product, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T16:08:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses scaling teams and the challenges associated with it, but it does not explicitly mention Cell Structure Design or its core principles. While there is some conceptual alignment regarding the importance of team collaboration and minimising dependencies, the focus is primarily on traditional team dynamics rather than the decentralised, autonomous cell structure advocated by the Beta Codex. The depth of discussion is limited to practical advice on team organisation without delving into the theoretical underpinnings of Cell Structure Design.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T16:08:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses team collaboration and scaling but does not explicitly mention Liberating Structures or their specific techniques. While it touches on themes of enhancing collaboration and minimising friction, which align with the principles of Liberating Structures, it lacks depth in discussing specific methods or their applications. The focus is more on general Agile practices rather than the facilitation techniques that characterise Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T16:08:29",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses scaling teams and collaboration but does not explicitly mention Open Space Agile or its principles. While it touches on themes of team dynamics and minimising friction, it lacks a direct focus on the core tenets of Open Space Technology, such as psychological safety and shared ownership. The depth of discussion is moderate, primarily addressing challenges in scaling rather than exploring Open Space Agile methodologies or case studies.",
     "level": "Ignored"
   }
 }

@@ -28,7 +28,6 @@ duration: 280
 isShort: false
 tags:
 - Personal
-- People and Process
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

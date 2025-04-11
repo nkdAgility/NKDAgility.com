@@ -9,7 +9,7 @@ ResourceImportId: 45088
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-11-27
-weight: 810
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,16 +24,17 @@ aliasesArchive:
 - /the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 - /resources/blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 tags:
-- Scrum Product Development
 - Agile Planning
-- Professional Scrum
-- Agile Project Management
 - Agile Frameworks
+- Professional Scrum
 - Software Development
-- Software Developers
 - Agile Product Management
-- Transparency
 - Scrum Team
+- Common Goals
+- Product Delivery
+- Scrum Values
+- Team Performance
+- Transparency
 categories:
 - Scrum
 preview: naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg

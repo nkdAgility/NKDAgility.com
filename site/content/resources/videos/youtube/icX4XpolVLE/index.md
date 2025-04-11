@@ -2,7 +2,7 @@
 title: 'From Chaos to Clarity: My Journey Through DevOps and the Three Key Challenges to Overcome'
 description: Discover the evolution of DevOps from chaotic deployments to streamlined processes. Learn key challenges and how to foster a culture of continuous improvement.
 date: 2024-04-04T11:34:59Z
-weight: 380
+weight: 315
 ResourceId: icX4XpolVLE
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -28,15 +28,23 @@ duration: 2018
 isShort: false
 tags:
 - Application Lifecycle Management
-- Software Developers
-- Discovery and Learning
+- Operational Practices
 - Software Development
+- Pragmatic Thinking
+- Personal
 - Product Delivery
 - Value Delivery
-- People and Process
-- Pragmatic Thinking
-- Operational Practices
-- Personal
+- Continuous Improvement
+- Continuous Learning
+- Technical Excellence
+- Market Adaptability
+- Metrics and Learning
+- Organisational Agility
+- Organisational Culture
+- Organisational Physics
+- Sociotechnical Systems
+- Systems Thinking
+- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

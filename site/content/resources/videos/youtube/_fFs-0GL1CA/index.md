@@ -2,7 +2,7 @@
 title: Why Pursuing Agile Certifications is Your Key to Career Advancement
 description: Unlock your career potential in Agile and Scrum! Discover why certifications matter, how they validate your skills, and the path to continuous learning.
 date: 2023-03-07T07:00:09Z
-weight: 855
+weight: 840
 ResourceId: _fFs-0GL1CA
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -27,7 +27,6 @@ isShort: false
 tags:
 - Competence
 - Continuous Learning
-- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -35,8 +34,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
 When I reflect on my journey in the Agile and Scrum landscape, one question often arises: why should I encourage individuals to pursue a certification path in their careers? The answer is quite simple and resonates with the same rationale that drives people to attend university. Certifications, much like degrees, serve as a foot in the door. They provide a way to validate your knowledge, but let’s be clear—certifications themselves hold no intrinsic value. 

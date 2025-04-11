@@ -9,7 +9,7 @@ ResourceImportId: 10579
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-07-09
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,15 +24,14 @@ aliasesArchive:
 - /maven-release-prepare-fails-with-detected-changes-in-jenkins
 - /resources/blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
 tags:
-- Practical Techniques and Tooling
 - Troubleshooting
-- Windows
 - Software Development
-- Modern Source Control
 - Continuous Integration
 - Install and Configuration
+- Modern Source Control
 - Pragmatic Thinking
 - System Configuration
+- Windows
 categories: []
 preview: naked-alm-jenkins-logo-9-9.png
 

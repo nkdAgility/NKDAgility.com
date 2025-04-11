@@ -6,7 +6,7 @@ ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-02-10T09:00:00
-weight: 255
+weight: 175
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -20,20 +20,30 @@ aliasesArchive:
 - /without-delivery--there-is-no-value
 - /blog/without-delivery--there-is-no-value
 tags:
-- Increment
-- Scrum Product Development
+- Deployment Frequency
 - Frequent Releases
+- Increment
 - Value Delivery
 - Product Delivery
-- Working Software
 - Software Development
+- Continuous Delivery
+- Empirical Process Control
+- Operational Practices
 - Release Management
-- Transparency
-- Deployment Frequency
+- Time to Market
+- Working Software
+- Agile Values and Principles
+- Agile Philosophy
+- Agile Planning
+- Agile Strategy
+- Agile Transformation
+- Business Agility
+- Evidence Based Leadership
+- Lean Product Development
 categories:
+- Product Development
+- Engineering Excellence
 - Scrum
-- Social Technologies
-- DevOps
 preview: 2025-02-10-without-delivery-no-value.jpg
 marketing: []
 

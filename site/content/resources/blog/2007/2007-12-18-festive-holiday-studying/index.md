@@ -23,8 +23,7 @@ aliasesArchive:
 - /blog/festive-holiday-studying
 - /festive-holiday-studying
 - /resources/blog/festive-holiday-studying
-tags:
-- Miscellaneous
+tags: []
 categories: []
 preview: metro-xbox-360-link-3-3.png
 

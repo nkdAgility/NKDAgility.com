@@ -2,7 +2,7 @@
 title: "Mastering Agile: 3 Essential Strategies to Boost Your Team's Sprint Success"
 description: "Unlock your team's potential with three essential Agile strategies: define \"done,\" avoid overcommitting, and prioritise refinement for smoother Sprints!"
 date: 2023-11-16T07:00:16Z
-weight: 395
+weight: 330
 ResourceId: ks38bwDTVfM
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,15 +29,18 @@ duration: 344
 isShort: false
 tags:
 - Agile Planning
-- Scrum Product Development
 - Team Performance
-- Agile Project Management
-- Software Developers
 - Software Development
 - Pragmatic Thinking
-- Agile Product Management
 - Agile Frameworks
-- People and Process
+- Operational Practices
+- Agile Product Management
+- Product Backlog
+- Team Collaboration
+- Agile Transformation
+- Definition of Done
+- Working Software
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,6 +48,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 
 ---
 When it comes to successfully navigating the complexities of Agile and Scrum, there are a few key principles that I’ve found to be absolutely essential. Drawing from my experiences, I want to share three critical strategies that can help your team not only complete work within a Sprint but also enhance overall productivity and satisfaction.

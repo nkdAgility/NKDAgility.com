@@ -28,14 +28,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Agile Values and Principles
-- Discovery and Learning
+- Organisational Agility
+- Sociotechnical Systems
 - Agile Transformation
 - Organisational Culture
 - Agile Strategy
-- Organisational Agility
-- Sociotechnical Systems
 resourceTypes:
 - video
 layout: video

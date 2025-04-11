@@ -1,25 +1,25 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T20:00:52",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 30,
-    "final_score": 26.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses product ownership and management within an Agile context, with only a brief mention of DevOps in relation to one of the hosts. The main focus is on the roles of product owners and product managers, which does not align with the core principles of DevOps. While there is a mention of DevOps, it is not a primary focus of the discussion, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:13:44",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the roles of product owners and product managers within an Agile context, which is tangentially related to social technologies. However, it lacks a direct focus on collaboration, decision-making, or value delivery frameworks. While it touches on Agile principles, it does not delve into the methodologies or frameworks that promote collaboration or enhance decision-making, which are central to the category of Social Technologies.",
     "level": "Ignored"
   },
@@ -43,13 +43,13 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T12:15:34",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the roles of product owners and product managers, which is relevant to product management. However, it primarily focuses on the debate about the necessity of product managers in the presence of strong product owners, rather than providing a comprehensive exploration of product management methodologies or frameworks. The discussion lacks depth in strategic alignment and practical techniques, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -64,79 +64,55 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-03-15T00:34:15",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the role of the Product Owner in relation to product management, highlighting the differences between the two roles. However, it does not delve deeply into the specific responsibilities or practices of the Product Owner, nor does it provide substantial insights into backlog management or stakeholder engagement. The primary focus appears to be on the obsolescence of the Product Owner role rather than a thorough exploration of its responsibilities.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T10:21:49",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the obsolescence of product ownership roles rather than metrics or learning principles, lacking focus on data-driven decision-making or continuous improvement methodologies.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-15T00:34:15",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the role of the Product Owner within the context of Scrum, which is a relevant aspect of Professional Scrum. However, it primarily focuses on the debate around the necessity of Product Managers versus Product Owners, rather than providing a comprehensive exploration of Scrum principles, roles, or practices. While there are mentions of Scrum and the roles involved, the depth of discussion does not fully align with the core themes of Professional Scrum, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-15T00:34:27",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 62.0,
     "ai_mentions": 50.0,
     "ai_alignment": 70.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the role of product owners within the Scrum framework, which is a specific Agile framework. It explores the relationship between product ownership and product management, indicating a focus on Agile principles. However, while it touches on Agile concepts, it does not provide a comprehensive exploration of various Agile frameworks or their broader implications, which limits its depth. Overall, the content aligns with Agile frameworks but does not delve deeply into multiple frameworks or their comparative analysis.",
-    "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-15T00:34:32",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 20,
-    "final_score": 40.0,
-    "reasoning": "The content discusses the role of the Product Owner within the Scrum framework, which is relevant to Scrum Product Development. However, it primarily focuses on the debate about the necessity of Product Managers versus Product Owners, rather than providing a comprehensive exploration of Scrum practices or product development methodologies. While there are mentions of Scrum and product ownership, the depth of discussion on Scrum principles and practices is limited.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-10T12:15:38",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses a podcast episode featuring a guest expert on product management and ownership, which suggests a focus on sharing insights. However, it lacks explicit references to formal events or presentations, such as conferences or webinars. The discussion is more about theoretical concepts and personal insights rather than structured learning experiences, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T10:21:49",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the roles and differences between product ownership and product management within the context of Agile, without a clear focus on validating product ideas or methodologies related to user engagement.",
     "level": "Ignored"
   },
@@ -178,10 +154,10 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T10:21:49",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses roles and concepts within Agile framework, particularly product ownership and management, without addressing Application Lifecycle Management.",
     "level": "Ignored"
   },
@@ -205,10 +181,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T10:21:49",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the roles of product owners and product managers, which is not directly related to the Definition of Done.",
     "level": "Ignored"
   },
@@ -259,13 +235,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T20:01:18",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the roles of product owners and product managers within the Agile framework, specifically Scrum. While it touches on Agile principles, it does not address Continuous Delivery practices, automation, or the delivery of software in reliable cycles, which are central to the Continuous Delivery category. Therefore, the content's relevance to Continuous Delivery is minimal.",
     "level": "Ignored"
   },
@@ -316,13 +292,13 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T00:34:34",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the roles of product owners and product managers within the context of Agile and Scrum methodologies, which are integral to software development practices. However, while it touches on Agile concepts, it primarily focuses on the debate around the necessity of these roles rather than providing in-depth insights into software development methodologies or practices. The discussion lacks detailed exploration of software engineering processes, which affects the overall depth of the content.",
     "level": "Secondary"
   },
@@ -340,25 +316,25 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-15T00:34:17",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the roles of product owners and product managers within the context of Agile methodologies, particularly Scrum. However, it does not delve into Agile Planning principles or practices, focusing instead on the distinction between roles rather than planning strategies or techniques. The discussion lacks depth in Agile Planning specifics, such as iterative planning or stakeholder alignment, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-15T00:34:15",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the roles of product owners and product managers within the context of Agile methodologies, which is relevant to Agile Strategy. However, it primarily focuses on the differences between these roles rather than a broader strategic discussion on Agile implementation or organisational alignment. The mentions of Agile and product roles indicate some relevance, but the depth of strategic analysis is limited.",
     "level": "Ignored"
   },
@@ -373,10 +349,10 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-18T10:21:49",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses product ownership and management in relation to Agile methodologies, with no clear focus on Lean principles.",
     "level": "Ignored"
   },
@@ -400,19 +376,19 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T10:21:49",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on the roles and distinctions between product ownership and product management within the Scrum framework, without addressing value stream management concepts.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-18T10:21:49",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the roles of product owners and product managers within Scrum, without discussing change management principles or strategies.",
     "level": "Ignored"
   },
@@ -454,10 +430,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-18T10:21:49",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the roles of product owners and product managers within the context of Agile and Scrum, without focusing on release management processes.",
     "level": "Ignored"
   },
@@ -479,31 +455,13 @@
     "reasoning": "Content primarily discusses the roles of product ownership and management in Agile, with no focus on software craftsmanship or technical engineering practices.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role of product owners and product managers in the context of Agile methodologies, rather than focusing on software developers themselves or their practices. It does not centralize the discussions around software developers or their roles in Agile and DevOps.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-18T10:21:49",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the roles of product owners and product managers within Agile and Scrum frameworks, not focusing on Lean Product Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses product ownership and management within Agile frameworks, which are not directly related to software code quality or complexity.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -535,13 +493,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T17:02:33",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the role of product owners and their relationship with product managers, with only a brief mention of Scrum. While it touches on agile principles, it does not focus on the responsibilities or impact of the Scrum Master, nor does it explore the core themes associated with the Scrum Master role. The discussion lacks depth regarding the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
@@ -617,15 +575,6 @@
     "reasoning": "Content primarily discusses roles within Scrum and product management without focusing on organisational change strategies or frameworks.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the roles of product owners and product managers in the context of Scrum, without addressing the scaling of Agile across multiple teams or at an enterprise level.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "calculated_at": "2025-02-18T10:21:49",
@@ -634,18 +583,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the roles of product owners and managers within Agile and Scrum frameworks, without a primary focus on Lean principles or methodologies.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-10T14:23:00",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the roles of product owners and product managers within the context of Agile and Scrum, which touches on team dynamics and collaboration. However, while it mentions these roles, it does not delve deeply into the processes or methodologies that enhance productivity and innovation. The discussion is more focused on the roles themselves rather than the broader implications for team collaboration or process improvement.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -694,23 +631,26 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T10:21:49",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of product owners and product management, with no clear focus on the Definition of Ready or related topics.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:29:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses the roles of product owners and product managers, with no clear focus on Lead Time or its measurement and importance in processes.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the roles of product owners and product managers within Agile frameworks, without any direct mention or discussion of Lead Time as a metric. While it touches on Agile concepts, it does not align with the core themes of Lead Time, such as its definition, measurement, or optimisation strategies. The focus is on product management rather than the efficiency of delivery processes, resulting in a very low confidence score.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T10:21:49",
     "ai_confidence": 0,
@@ -721,20 +661,11 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T10:21:49",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the roles of product owners and product managers within the context of Scrum, rather than focusing on Agile leadership or related practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses product ownership versus product management in Agile, without any mention of AI or automation.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -782,15 +713,6 @@
     "reasoning": "Content primarily discusses the roles and distinctions between product owner and product manager, rather than focusing on strategies for market adaptability.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses product ownership and management within Agile methodologies, without any mention or focus on AI or its application in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Working Software": {
     "category": "Working Software",
     "calculated_at": "2025-02-18T10:21:49",
@@ -802,10 +724,10 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T10:21:49",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the roles of product owners and product managers, with no clear focus on the Daily Scrum or its related practices.",
     "level": "Ignored"
   },
@@ -829,24 +751,12 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-18T10:21:49",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the roles of product owners and product managers in Agile, without focusing on the concept or management of a Product Backlog.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-15T00:34:37",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the role of the Product Owner within the Scrum framework, which is a key aspect of Agile Project Management. However, it primarily focuses on the debate around the necessity of Product Managers versus Product Owners, rather than providing a comprehensive exploration of Agile principles or methodologies. While there are direct mentions of Agile and Scrum, the depth of discussion is limited to a specific topic rather than a broader examination of Agile practices.",
-    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -866,27 +776,6 @@
     "reasoning": "Content primarily discusses the roles of product owners and product managers in Agile without addressing any troubleshooting techniques or issue resolution.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily discussing the roles of product ownership and management in Agile, not focused on specific products or books related to Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T00:34:22",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 30,
-    "ai_depth": 25,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the relevance of product ownership versus product management within Agile frameworks, which aligns with industry news and trends. It features an expert discussion, providing insights into current debates in the Agile community. However, while it touches on relevant themes, it lacks a comprehensive review or analysis of tools or methodologies, which slightly lowers the depth of discussion.",
-    "level": "Secondary"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
     "calculated_at": "2025-02-18T10:21:49",
@@ -905,15 +794,6 @@
     "reasoning": "Content primarily discusses the roles and responsibilities of product owners and product managers without personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the roles of product owners and product managers in Scrum, without addressing the scaling of Scrum practices or the coordination among multiple teams.",
-    "level": "Ignored"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
     "calculated_at": "2025-02-18T10:21:49",
@@ -925,22 +805,22 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T10:21:49",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the roles of product owners and product management within Scrum, without a focus on the Scrum Values themselves.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-11T16:32:38",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 63.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the role of product owners and product managers within the context of Agile methodologies, particularly Scrum. While it touches on relevant themes such as the differences between product ownership and product management, it lacks a comprehensive exploration of Agile principles and practices. The discussion is somewhat superficial, focusing more on the debate of obsolescence rather than providing in-depth strategies or techniques for Agile product management.",
     "level": "Secondary"
   },
@@ -955,13 +835,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:02:30",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the roles of product owners and product managers within an Agile context, without any direct reference to Test First Development principles or practices. While it touches on Agile methodologies, it does not address success criteria, testing practices, or the importance of testing in the development process, which are central to the Test First Development category.",
     "level": "Ignored"
   },
@@ -976,13 +856,13 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-15T00:34:15",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions the role of the Product Owner within the context of Scrum, but it primarily focuses on the debate about the necessity of Product Managers versus Product Owners. While it touches on Scrum roles, it lacks a comprehensive discussion on team dynamics, collaboration, or other key aspects of a Scrum Team. The depth of discussion is limited, focusing more on opinions rather than structured insights into Scrum practices.",
     "level": "Ignored"
   },
@@ -1033,94 +913,67 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-15T00:34:15",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the roles of product owners and product managers within the context of Scrum, which is a specific Agile framework. While it touches on Agile concepts, it does not delve into the broader principles of Agile Philosophy, such as the Agile Manifesto or the importance of adaptability and collaboration. The focus is more on roles rather than the underlying Agile mindset, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T00:34:25",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the roles of product owners and product managers within the context of Agile methodologies, which is relevant to product delivery. However, it primarily focuses on the debate about the necessity of these roles rather than providing in-depth insights into the methodologies, practices, or processes involved in delivering software products. While there are mentions of Agile and Scrum, the discussion lacks a comprehensive exploration of product delivery practices, resulting in a moderate confidence score.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the roles of product owners and product managers within the Scrum framework rather than focusing on strategies or practices for scaling agility at an organizational level.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-15T00:34:15",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the roles of product owners and product managers within the context of Agile methodologies, but it does not explicitly address organisational agility as a primary focus. While it touches on Agile principles, the discussion lacks depth regarding how these roles contribute to organisational adaptability or responsiveness. The mention of Agile coaching and consulting hints at a broader context of agility, but the content does not explore the key topics outlined for the category, such as leadership's role in fostering agility or strategies for continuous improvement.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-13T15:43:57",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the roles of product owners and product managers within the context of Agile, particularly Scrum. While it touches on Agile principles and the importance of roles in Agile frameworks, it does not delve deeply into Agile transformation strategies or methodologies. The focus is more on the specific roles rather than broader transformation practices, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-18T10:21:49",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the roles and dynamics of product owners and product managers in Agile methodologies, rather than focusing on portfolio management or the alignment of strategy with execution.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the roles of product owners and product managers in Agile, without addressing strategies or methodologies related to organisational resilience or adaptive change.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses product ownership versus product management without a focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T10:21:49",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the roles of product owners and product managers in Agile, rather than focusing on planning tools or methodologies.",
     "level": "Ignored"
   },
@@ -1131,15 +984,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the roles of product management and ownership in Agile without focusing on the principles of Frequent Releases or Continuous Delivery.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the roles and differences between product ownership and product management without delving into practical techniques or tooling related to Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1153,19 +997,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:29:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and product management, with a focus on roles and dynamics within Scrum, rather than any system configuration topics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses product ownership and management within an Agile framework, focusing on roles and responsibilities rather than system configuration. There are no direct mentions of system configuration tools, methodologies, or best practices, and the discussion lacks depth in relation to the category's key topics.",
     "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-18T10:21:49",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on discussions about the roles of product owners and product managers within agile frameworks, without addressing product discovery methodologies or understanding customer needs.",
     "level": "Ignored"
   },
@@ -1189,23 +1036,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T20:01:12",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the roles of product owners and product managers within the context of Agile, but it does not explicitly address the Agile Product Operating Model or its core principles. While it touches on product management, it lacks a comprehensive exploration of the APOM framework, making it a secondary focus rather than a primary discussion.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the roles and differences between product ownership and product management, without a clear emphasis on discovery or learning processes.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1235,26 +1073,17 @@
     "reasoning": "Content heavily discusses product ownership and management in Agile and Scrum, with no mention of automated testing principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the roles of product owners and product managers within the context of Scrum, without any mention of Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T00:34:15",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the roles of product owners and product managers within the context of Agile and Scrum, which touches on practical problem-solving in these frameworks. However, it primarily focuses on the debate around the necessity of these roles rather than providing in-depth strategies or real-world applications of Agile principles. The discussion lacks substantial detail on pragmatic approaches or techniques for navigating complexity, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1312,19 +1141,19 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-18T10:21:49",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the distinction between product ownership and product management within the context of Agile methodologies, without a clear focus on overall product strategy development.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T10:21:49",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the distinction between product owners and product managers within the Scrum framework, rather than discussing Agile values and principles.",
     "level": "Ignored"
   },
@@ -1384,11 +1213,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:29:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the roles of product owners and product managers within Agile methodologies, without directly addressing throughput, its measurement, or optimization.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the roles of product owners and product managers within an Agile context, without any explicit mention or analysis of throughput as a delivery metric. While it touches on Agile practices, it does not define, calculate, or visualise throughput, nor does it inspect system constraints or trends related to throughput. The focus is on roles and opinions rather than metrics, leading to a very low confidence score in alignment with the category of Throughput.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1414,19 +1246,19 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T10:21:49",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses product ownership and management in Scrum without addressing installation or configuration processes.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T10:21:49",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the roles of product owners and managers within Agile and Scrum, without a significant focus on the measurement and improvement of innovation capabilities.",
     "level": "Ignored"
   },
@@ -1459,86 +1291,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:25:17",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15,
     "ai_alignment": 55.0,
     "ai_depth": 65.0,
     "non_ai_confidence": 50,
-    "final_score": 61.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the role of the Product Owner within the Scrum framework, indicating a direct mention of Scrum and its principles. It explores the relationship between product ownership and product management, which aligns with Scrum's emphasis on roles and responsibilities. However, the discussion is somewhat limited in depth, focusing primarily on the perceived obsolescence of the Product Owner role rather than a comprehensive exploration of Scrum practices or events. Overall, while Scrum is a significant part of the content, it does not delve deeply into the broader Scrum framework or its implementation.",
     "level": "Secondary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:05:11",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the roles of product owners and product managers within Agile frameworks, without any explicit mention or discussion of the Shift-Left Strategy. While it touches on Agile principles, it does not address integrating testing, security, or compliance earlier in the software development lifecycle, which are core aspects of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T20:00:54",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the roles of product owners and product managers within an Agile context, without a focus on Continuous Improvement principles. While it touches on Agile methodologies, it lacks explicit discussions on empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning, which are central to Continuous Improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T20:00:58",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the roles of product owners and product managers, which is tangentially related to team dynamics but does not explicitly address Common Goals. There are no direct mentions of shared objectives or alignment within Agile or DevOps frameworks. The discussion lacks depth regarding the significance of Common Goals, making it a secondary focus at best.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T20:01:01",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the roles of product owners and product managers, which is tangentially related to competence but does not focus on the continuous development of skills or the core themes of competence in Agile methodologies. While there are mentions of expertise and roles, the discussion lacks depth regarding the importance of competence in delivering quality outcomes or fostering a culture of continuous learning.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:01:04",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the roles of product owners and product managers within the context of Agile and Scrum methodologies. It does not address the principles or components of the One Engineering System framework, nor does it explore integration of tools and processes across teams, which are key topics for the 1ES category. The focus is on a specific debate rather than the broader themes of standardisation and integration in software development.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T17:02:28",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the roles of product owners and product managers within Agile frameworks, without addressing the intentional shaping of outcomes or the principles of Agentic Agility. It lacks a focus on autonomy, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T12:29:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the roles of product owners and product managers within the context of Agile methodologies, which is relevant to product development. It mentions product management and ownership explicitly, indicating a focus on the dynamics of these roles in delivering products. However, while it touches on important themes like Agile practices, the depth of discussion is limited to the debate about obsolescence rather than a comprehensive exploration of product development methodologies or practices. Therefore, while it aligns with the category, it does not provide extensive detail on the broader aspects of product development, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T12:29:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the roles of product owners and product managers within the context of Agile, specifically Scrum, without any direct reference to Open Space Agile principles or practices. While it touches on Agile themes, it does not engage with the core concepts of Open Space Technology, psychological safety, or collaborative change processes that are central to Open Space Agile. The discussion lacks depth regarding the category, focusing instead on a narrow aspect of Agile roles.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T12:29:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the roles of product owners and product managers within the context of Scrum, without addressing the principles of Agnostic Agile or its broader philosophy. There are no direct mentions of Agnostic Agile, and the discussion is focused on specific roles rather than the ethical, context-driven agility that characterises the Agnostic Agile movement. The content lacks depth in exploring the principles or comparisons with other methodologies, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T12:29:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the roles of product owners and product managers within Agile frameworks, without addressing the complexities or methodologies related to scaling Agile practices. While it touches on Agile concepts, it does not explore frameworks for scaling, cross-team collaboration, or any of the key topics outlined in the Scaling category. Therefore, it has minimal relevance to the category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T12:29:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the roles of product owners and product managers within the context of Agile and Scrum methodologies. It does not mention or align with the principles of Cell Structure Design, nor does it explore the characteristics of autonomous cells or decentralised structures. The focus is on traditional roles in product management rather than the decentralised, network-based organisational design model described in the Cell Structure Design category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T12:29:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the roles of product owners and product managers within the context of Agile and Scrum, without any mention or exploration of Liberating Structures or their facilitation techniques. While it touches on Agile principles, it does not align with the core themes of Liberating Structures, which focus on enhancing participation and collaboration through specific techniques. The discussion lacks depth regarding any facilitation methods, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T12:29:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the roles of product owners and product managers within Agile frameworks, without any explicit mention of Time to Market or its associated metrics. While it touches on Agile practices, it does not explore the efficiency of delivering value or strategies for improving Time to Market, which are central to the category. Therefore, the confidence score reflects a very low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T12:29:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the roles of product owners and product managers within the context of Agile methodologies, specifically Scrum. It does not directly address the concept of treating the company as a product or the associated strategies and principles outlined in the CaaP framework. While there are mentions of Agile practices, the focus remains on individual roles rather than organisational design or customer-centric strategies, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T12:29:27",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses Agile methodologies, product ownership, and management without any direct mention of GitHub or its functionalities. While it touches on Agile principles, it does not align with GitHub's specific tools or practices, making it largely irrelevant to the GitHub category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T12:29:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the roles of product owners and product managers within an Agile context, without any explicit mention of Unrealised Value or its indicators. While it touches on themes of product management, it does not explore potential improvements or innovations that could lead to capturing unrealised value. The focus is on the debate of roles rather than identifying untapped opportunities or strategies for improvement, which are central to the concept of Unrealised Value.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T12:29:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the roles of product owners and product managers without any direct mention of Current Value or its metrics. While it touches on Agile concepts, it lacks a focus on the real-time assessment of value delivered by a product or service, which is essential for the Current Value category. The discussion does not provide insights into customer satisfaction, revenue impact, or performance feedback, nor does it explore techniques for gathering or analysing Current Value data.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T12:29:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the roles of product owners and product managers within an agile context, without addressing the specific challenges or implications of Hybrid Agile methodologies. There are no direct mentions of Hybrid Agile, and the discussion lacks depth regarding the integration of traditional and agile practices. Overall, it does not align with the core themes of the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T12:29:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the roles of product owners and product managers within an Agile context, which is a narrow aspect of project management. While it touches on Agile methodologies, it lacks a broader discussion of core project management principles, lifecycle phases, or tools that are essential for comprehensive project management. The depth of discussion is limited to specific roles rather than encompassing the wider project management strategies and techniques.",
     "level": "Ignored"
   }
 }

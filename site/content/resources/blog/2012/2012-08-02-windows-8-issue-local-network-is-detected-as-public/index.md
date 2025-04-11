@@ -28,8 +28,8 @@ aliasesArchive:
 - /blog/windows-8-issue--local-network-is-detected-as-public
 - /resources/blog/windows-8-issue-local-network-is-detected-as-public
 tags:
-- Windows
 - Troubleshooting
+- Windows
 - Install and Configuration
 - System Configuration
 categories: []

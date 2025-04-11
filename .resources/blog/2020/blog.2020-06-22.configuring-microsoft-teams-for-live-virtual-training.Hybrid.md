@@ -26,9 +26,8 @@ aliasesArchive:
 categories: []
 preview: image-14-4-4.png
 tags:
-- Install and Configuration
 - System Configuration
-- Practical Techniques and Tooling
+- Install and Configuration
 - Collaboration Tools
 
 ---

@@ -2,7 +2,7 @@
 title: 'Unlocking Agile’s Core: Questioning to Create Value'
 description: "Unlock the true potential of Agile! Discover how questioning and adaptability can transform your organisation and outpace competitors. Watch now! \U0001F31F"
 date: 2024-01-23T07:00:07Z
-weight: 770
+weight: 750
 ResourceId: M4ap4uNzptg
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -31,19 +31,30 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Values and Principles
 - Agile Philosophy
+- Continuous Learning
+- Organisational Agility
+- Pragmatic Thinking
+- Agile Values and Principles
+- Agile Transformation
 - Continuous Improvement
 - Agile Leadership
-- People and Process
-- Continuous Learning
-- Agile Project Management
-- Agile Transformation
 - Organisational Culture
-- Organisational Agility
+- Agile Frameworks
+- Agile Product Management
+- Agile Strategy
+- Software Development
+- Market Adaptability
+- Business Agility
+- Organisational Change
+- Change Management
+- Empirical Process Control
+- Self Organisation
+- Team Performance
 resourceTypes:
 - video
 categories:
+- Product Development
 - Leadership
 
 ---

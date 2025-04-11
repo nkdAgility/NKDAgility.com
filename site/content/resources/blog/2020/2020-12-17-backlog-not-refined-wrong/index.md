@@ -9,7 +9,7 @@ ResourceImportId: 38243
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-12-17
-weight: 395
+weight: 330
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -31,14 +31,23 @@ aliasesArchive:
 tags:
 - Backlog Refinement
 - Software Development
-- Agile Project Management
 - Definition of Ready
-- Scrum Product Development
-- Scrum Team
-- People and Process
-- Product Backlog
+- Agile Frameworks
 - Agile Planning
 - Agile Product Management
+- Professional Scrum
+- Scrum Team
+- Pragmatic Thinking
+- Product Backlog
+- Product Delivery
+- Team Performance
+- Agile Planning Tools
+- Product Owner
+- Scrum Master
+- Working Software
+- Operational Practices
+- Agile Transformation
+- Value Delivery
 categories:
 - Scrum
 - Product Management

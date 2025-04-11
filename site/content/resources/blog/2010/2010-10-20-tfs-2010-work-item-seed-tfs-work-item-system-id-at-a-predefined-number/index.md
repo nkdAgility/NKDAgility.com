@@ -9,7 +9,7 @@ ResourceImportId: 21
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-10-20
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,11 +28,10 @@ aliasesArchive:
 - /blog/tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
 - /resources/blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
 tags:
-- Windows
 - Software Development
-- Practical Techniques and Tooling
-- Install and Configuration
+- Windows
 - Azure DevOps
+- Install and Configuration
 categories: []
 preview: metro-binary-vb-128-link-5-5.png
 

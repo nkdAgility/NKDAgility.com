@@ -2,7 +2,7 @@
 title: "Quotes: Don't scale Scrum! Pragmatic or defeatist?"
 description: 'Explore the debate: Is advising against scaling Scrum pragmatic wisdom or a defeatist mindset? Join the conversation on Agile coaching! #Agile #Scrum #Shorts'
 date: 2023-10-09T14:30:08Z
-weight: 810
+weight: 790
 ResourceId: Oj0ybFF12Rw
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,13 +29,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scaling Scrum
 - Software Development
-- Agile Project Management
-- Professional Scrum
 - Agile Frameworks
-- Scaling Agility
-- Scaled Agile
+- Professional Scrum
+- Scaling
 resourceTypes:
 - video
 categories:

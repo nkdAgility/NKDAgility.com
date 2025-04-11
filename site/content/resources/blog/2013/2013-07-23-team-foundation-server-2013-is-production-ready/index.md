@@ -9,7 +9,7 @@ ResourceImportId: 9917
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-23
-weight: 445
+weight: 390
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,12 +25,10 @@ aliasesArchive:
 - /resources/blog/team-foundation-server-2013-is-production-ready
 tags:
 - Technical Debt
-- Products and Books
-- Working Software
-- News and Reviews
-- Software Development
 - Application Lifecycle Management
 - Pragmatic Thinking
+- Software Development
+- Working Software
 categories: []
 
 ---

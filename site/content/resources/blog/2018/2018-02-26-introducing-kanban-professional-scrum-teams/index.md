@@ -9,7 +9,7 @@ ResourceImportId: 38334
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2018-02-26
-weight: 620
+weight: 580
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,18 +28,12 @@ aliasesArchive:
 - /blog/introducing-kanban-for-professional-scrum-teams
 - /resources/blog/introducing-kanban-professional-scrum-teams
 tags:
-- Agile Project Management
 - Software Development
-- Practical Techniques and Tooling
 - Agile Frameworks
 - Operational Practices
 - Throughput
-- Products and Books
-- Events and Presentations
-- News and Reviews
 - Flow Efficiency
-categories:
-- Kanban
+categories: []
 preview: nkdagility-scrum-and-kanban-1900-2-1.png
 
 ---

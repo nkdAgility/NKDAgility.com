@@ -25,15 +25,14 @@ preview: https://i.ytimg.com/vi/wLJAMvwR6qI/maxresdefault.jpg
 duration: 302
 isShort: false
 tags:
-- Experimentation
-- Discovery and Learning
 - Hypothesis Driven Development
-- Product Validation
-- Metrics and Learning
-- Product Discovery
-- Decision Making
-- Pragmatic Thinking
+- Experimentation
 - Lean Startup
+- Product Discovery
+- Product Validation
+- Decision Making
+- Metrics and Learning
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -41,6 +40,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

@@ -9,7 +9,7 @@ ResourceImportId: 10151
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-10-16
-weight: 810
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,7 +30,6 @@ aliasesArchive:
 - /blog/powershell-tfs-2013-api--2---adding-to-a-globallist
 - /resources/blog/powershell-tfs-2013-api-2-adding-to-a-globallist
 tags:
-- Practical Techniques and Tooling
 - Software Development
 - Install and Configuration
 categories: []

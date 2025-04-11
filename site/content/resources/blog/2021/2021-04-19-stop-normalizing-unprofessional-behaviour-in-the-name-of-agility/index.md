@@ -9,7 +9,7 @@ ResourceImportId: 46108
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-04-19
-weight: 420
+weight: 355
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -25,16 +25,17 @@ aliasesArchive:
 - /stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 - /resources/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 tags:
-- People and Process
-- Agile Project Management
-- Increment
 - Software Development
-- Competence
-- Agile Product Management
-- Agile Values and Principles
+- Increment
 - Agile Philosophy
+- Agile Product Management
+- Competence
+- Pragmatic Thinking
 - Scrum Master
 - Agile Transformation
+- Agile Values and Principles
+- Team Performance
+- Agile Frameworks
 categories:
 - Scrum
 preview: naked-agility-technically-agile-1280×720-19-1-1.jpg

@@ -6,7 +6,7 @@ ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-02-17T09:00:00
-weight: 250
+weight: 175
 AudioNative: true
 creator: Martin Hinshelwood
 Contributors:
@@ -23,19 +23,29 @@ aliasesArchive:
 - /there-is-no-such-thing-as-a--junior--scrum-master
 - /blog/there-is-no-such-thing-as-a--junior--scrum-master
 tags:
+- Competence
 - Scrum Master
 - Scrum Team
 - Professional Scrum
-- Accountability
+- Agile Leadership
 - Technical Mastery
-- Agile Project Management
-- Scrum Product Development
-- Technical Leadership
-- People and Process
+- Agile Frameworks
+- Pragmatic Thinking
 - Software Development
+- Team Performance
+- Agile Transformation
+- Organisational Agility
+- Team Collaboration
+- Agile Product Management
+- Product Delivery
+- Value Delivery
+- Self Organisation
+- Sociotechnical Systems
+- Working Software
+- Agile Planning
 categories:
 - Scrum
-- Social Technologies
+- Technical Leadership
 - Leadership
 preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
 marketing: []

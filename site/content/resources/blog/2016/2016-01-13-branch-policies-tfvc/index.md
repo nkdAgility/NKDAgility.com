@@ -9,7 +9,7 @@ ResourceImportId: 11424
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-01-13
-weight: 695
+weight: 660
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,9 +29,8 @@ aliasesArchive:
 - /resources/blog/branch-policies-tfvc
 tags:
 - Software Development
-- Modern Source Control
-- Practical Techniques and Tooling
 - Azure Repos
+- Modern Source Control
 - Azure DevOps
 categories: []
 preview: image-2-2-2.png

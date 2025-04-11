@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: newsletters
 ResourceContentOrigin: Human
 date: 2024-07-17
-weight: 850
+weight: 840
 author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
@@ -20,19 +20,16 @@ aliasesArchive:
 - /resources/newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
 categories:
 - Product Management
-- Social Technologies
-- Scrum
 tags:
-- Discovery and Learning
 - Product Discovery
 - Product Validation
-- Events and Presentations
 - Agile Product Management
-- Products and Books
-- Product Delivery
 - Value Delivery
-- Agile Product Operating Model
-- Scrum Product Development
+- Product Delivery
+- Customer Satisfaction
+- MVP
+- Product Owner
+- Experimentation
 
 ---
 **Dear Innovators and Product Enthusiasts,**

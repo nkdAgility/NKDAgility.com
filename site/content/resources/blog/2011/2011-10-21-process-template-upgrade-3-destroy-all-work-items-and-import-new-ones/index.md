@@ -9,7 +9,7 @@ ResourceImportId: 3951
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-10-21
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,10 +28,9 @@ aliasesArchive:
 - /blog/process-template-upgrade--3---destroy-all-work-items-and-import-new-ones
 - /resources/blog/process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
 tags:
-- Install and Configuration
-- Practical Techniques and Tooling
 - Software Development
 - Azure DevOps
+- Install and Configuration
 - System Configuration
 - Operational Practices
 preview: metro-visual-studio-2005-128-link-5-5.png

@@ -19,33 +19,15 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-06T15:03:24",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 52.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 47.0,
+    "final_score": 52.0,
     "reasoning": "The content discusses the role of an agile coach, which touches on leadership aspects such as mentoring and inspiring teams. However, it primarily focuses on the coach's responsibilities rather than broader leadership strategies or frameworks. The mention of engaging and inspiring teams aligns with leadership themes, but the depth of discussion is limited to the hiring process and specific roles rather than a comprehensive exploration of leadership practices.",
     "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T15:32:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of an agile coach, without reference to specific events or presentations.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T15:32:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the role of an agile coach in mentoring and teaching processes rather than on discovery and learning methodologies.",
-    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -56,15 +38,6 @@
     "reasoning": "Content primarily discusses the role of an agile coach and their impact on team dynamics, rather than focusing on engineering practices or software craftsmanship.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T15:32:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role of an agile coach and does not address software code quality or complexity.",
-    "level": "Ignored"
-  },
   "Product Management": {
     "category": "Product Management",
     "calculated_at": "2025-02-17T15:32:45",
@@ -72,15 +45,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on the role of an agile coach rather than the strategic aspects of product management.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T15:32:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the role and responsibilities of an agile coach rather than discussing news, updates, or reviews related to Agile methodologies.",
     "level": "Ignored"
   },
   "Personal": {
@@ -110,53 +74,41 @@
     "reasoning": "Content primarily discusses the role of an agile coach and their impact on team dynamics, rather than focusing on specific engineering practices or methodologies that enhance technical excellence.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-06T15:03:26",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content explicitly discusses the role of an agile coach, highlighting the importance of mentoring and teaching within teams, which aligns with the category's focus on human behaviour and structured methodologies. However, while it touches on the significance of coaching in Agile, it lacks a deeper exploration of team dynamics or specific processes, resulting in a moderately high confidence score.",
-    "level": "Secondary"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T18:19:42",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the role and responsibilities of an Agile coach, discussing Agile methodologies and practices rather than DevOps principles. While there are some overlaps in themes such as collaboration and continuous improvement, the content does not explicitly address DevOps as a philosophy or its core principles, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:00:48",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the role of an Agile coach, focusing on mentoring, teaching, and inspiring teams, which aligns with the principles of self-organisation and continuous improvement. However, it primarily centres on the responsibilities of the coach rather than broader social technologies or frameworks that promote collaboration and decision-making within organisations. While it touches on relevant themes, the depth of discussion on social technologies as a category is limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-14T20:53:09",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions the role of an agile coach in mentoring and teaching, which aligns with the concept of knowledge sharing. However, it lacks a deeper exploration of continuous learning principles, such as growth mindset or feedback loops, and does not provide substantial detail on how these practices can be integrated into Agile methodologies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -181,13 +133,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:20:08",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the role and qualities of an Agile coach, discussing mentoring, teaching, and inspiring teams within Agile frameworks. While it touches on Agile practices, it does not explicitly address Test First Development principles, success criteria, or testing methodologies, which are central to the category. Therefore, the confidence score reflects minimal relevance to Test First Development.",
     "level": "Ignored"
   },
@@ -202,10 +154,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T23:35:28",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role and qualities of an agile coach rather than installation and configuration of tools or processes.",
     "level": "Ignored"
   },
@@ -265,34 +217,22 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-11T14:29:53",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 87.0,
     "ai_mentions": 18.0,
     "ai_alignment": 42.0,
     "ai_depth": 27.0,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily discusses the role of an Agile coach, which aligns closely with Agile leadership principles. It highlights the importance of mentoring, teaching, and inspiring teams, all of which are key aspects of Agile leadership. The depth of discussion on how Agile coaches facilitate change and foster a culture of continuous improvement supports a high confidence score. However, while it touches on leadership, the focus is more on the coaching role rather than broader leadership strategies, which slightly lowers the overall score.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-14T20:53:24",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 20,
-    "final_score": 80.0,
-    "reasoning": "The content extensively discusses the role of an Agile coach, focusing on their responsibilities in mentoring, teaching, and inspiring teams within the Agile framework. It aligns well with Agile principles, emphasising the importance of understanding Agile practices, adapting to team needs, and fostering a culture of continuous improvement. The depth of discussion on how Agile coaches can facilitate the adoption of Agile methodologies and enhance team performance further supports a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-17T23:35:28",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on the role and qualities of an Agile coach rather than discussing cross-functional teams.",
     "level": "Ignored"
   },
@@ -307,11 +247,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T23:35:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:27:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the role of an agile coach and their importance in mentoring teams, with no mention or relevance to Lead Time or its measurement.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role and qualities of an Agile coach, discussing mentoring, teaching, and inspiring teams. It does not mention Lead Time or its significance as an observability metric, nor does it explore related concepts such as Cycle Time or Throughput. The discussion lacks depth regarding Lead Time, making it clear that this category is not a primary focus of the content.",
     "level": "Ignored"
   },
   "Strategy": {
@@ -343,24 +286,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-14T20:53:19",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 83.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the role of an Agile coach, focusing on their responsibilities as mentors, teachers, and sources of inspiration. It aligns well with the core themes of coaching, such as fostering growth, providing guidance, and enhancing team dynamics. The depth of discussion is significant, with detailed examples and strategies for effective coaching practices, making it a strong fit for the Coaching category.",
     "level": "Primary"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T23:35:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of an agile coach and does not focus on Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
@@ -407,15 +341,6 @@
     "reasoning": "Content primarily discusses the role of an agile coach and coaching methodologies, not focusing on product validation or related topics.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T23:35:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the role and functions of an agile coach rather than discussing resilience or change methodologies.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-17T23:35:28",
@@ -436,13 +361,13 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-03-13T16:40:24",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 34,
     "non_ai_confidence": 50,
-    "final_score": 83.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the role of an Agile coach, highlighting their responsibilities as mentors, teachers, and leaders. It provides detailed insights into mentoring techniques, the importance of emotional intelligence, and strategies for fostering growth within Agile teams. The focus on mentoring is a primary theme throughout the article, with multiple direct mentions and a thorough exploration of the topic.",
     "level": "Primary"
   },
@@ -466,22 +391,22 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-14T20:53:09",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions the role of an agile coach in mentoring and inspiring teams, which aligns with the themes of team collaboration. However, it lacks detailed discussion on specific techniques or strategies for improving team dynamics, making it a secondary focus rather than a primary exploration of the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T23:35:28",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on the role of an agile coach rather than metrics, data, or learning mechanisms.",
     "level": "Ignored"
   },
@@ -566,15 +491,6 @@
     "reasoning": "Content primarily discusses hiring an Agile coach and their roles, which does not align with product strategy principles or methodologies.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T23:35:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses hiring an agile coach and their role in mentoring teams, rather than focusing on scaling agility within an organization.",
-    "level": "Ignored"
-  },
   "Test Automation": {
     "category": "Test Automation",
     "calculated_at": "2025-02-17T23:35:28",
@@ -593,15 +509,6 @@
     "reasoning": "Content heavily discusses the role of an agile coach and the practical aspects of coaching in agile methodologies, rather than focusing on psychological principles related to organisational behaviour.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T23:35:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses the role of an agile coach and focuses on coaching practices rather than AI and automation in Agile.",
-    "level": "Ignored"
-  },
   "Scrum Team": {
     "category": "Scrum Team",
     "calculated_at": "2025-02-17T23:35:28",
@@ -609,15 +516,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content focuses on hiring an Agile coach and does not primarily discuss Scrum Teams, their roles, dynamics, or collaboration techniques.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T23:35:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role and qualities of an agile coach without detailing specific practical techniques, tools, or methodologies associated with Agile or DevOps.",
     "level": "Ignored"
   },
   "Experimentation": {
@@ -631,15 +529,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T16:20:11",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the role of an Agile coach, which overlaps with the responsibilities of a Scrum Master, particularly in mentoring, teaching, and inspiring teams. However, it primarily focuses on the Agile coach role rather than the Scrum Master specifically, leading to a moderate confidence score. While there are relevant themes, the depth of discussion on Scrum Master-specific responsibilities is limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -648,15 +546,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses primarily on the role and responsibilities of an agile coach, which lacks a broader organizational context or discussion on enterprise agility principles.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T23:35:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses the role of an agile coach but does not focus on specific products, books, or tools relevant to Agile methodologies.",
     "level": "Ignored"
   },
   "Sprint Review": {
@@ -695,15 +584,6 @@
     "reasoning": "Content heavily discusses Agile coaching without any reference to Lean principles.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T23:35:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily focuses on hiring an agile coach and their role in mentoring and teaching, with no clear discussions on transparency or accountability.",
-    "level": "Ignored"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
     "calculated_at": "2025-02-17T23:35:28",
@@ -731,26 +611,17 @@
     "reasoning": "Content heavily discusses hiring an agile coach and does not relate to version control practices.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T23:35:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on hiring an agile coach without addressing the scaled aspects of Agile or coordination among multiple teams.",
-    "level": "Ignored"
-  },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-03-14T20:53:09",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the role of an Agile coach, focusing on teaching, mentoring, and inspiring teams to adopt Agile principles. While it touches on aspects of change management, such as fostering a culture of continuous improvement and adapting to change, it primarily centres on the qualifications and responsibilities of an Agile coach rather than providing a comprehensive discussion on change management strategies or practices. Therefore, it aligns with the category but lacks depth and direct focus.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -772,17 +643,17 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-11T16:19:18",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the role of an Agile coach, focusing on mentoring, teaching, and inspiring teams, which aligns closely with the principles of technical leadership in agile environments. It provides detailed insights into the responsibilities of an Agile coach, including fostering collaboration and continuous improvement, which are key aspects of technical leadership. The depth of discussion on how Agile coaches can influence team dynamics and drive the adoption of Agile practices further supports a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T23:35:28",
     "ai_confidence": 0,
@@ -802,20 +673,11 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T23:35:28",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content discusses the role of an agile coach rather than focusing specifically on agile product management practices or methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T23:35:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily about hiring an agile coach and does not discuss Scaling Scrum or related frameworks, roles, or coordination among teams.",
+    "reasoning": "The content discusses the role of an agile coach rather than focusing specifically on agile product management practices or methodologies.",
     "level": "Ignored"
   },
   "Organisational Physics": {
@@ -829,11 +691,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T23:35:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:27:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role and attributes of an agile coach, with no focus on throughput measurements or optimization.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role and qualities of an Agile coach, discussing mentoring, teaching, and inspiring teams rather than analysing or interpreting throughput as a delivery metric. While it touches on Agile practices, it does not define or calculate throughput, nor does it provide insights into team delivery capacity or performance metrics. Therefore, it lacks the necessary depth and alignment with the category of throughput.",
     "level": "Ignored"
   },
   "Troubleshooting": {
@@ -874,20 +739,11 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T23:35:28",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on hiring an agile coach and their mentoring role, rather than discussing Agile Planning Tools or methodologies.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T23:35:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on hiring an agile coach and does not discuss Scrum principles, practices, or product development specifically.",
+    "reasoning": "Content focuses on hiring an agile coach and their mentoring role, rather than discussing Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
   "Self Organisation": {
@@ -910,10 +766,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T23:35:28",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of an agile coach and the coaching process rather than focusing on measuring or improving innovation capabilities.",
     "level": "Ignored"
   },
@@ -946,25 +802,25 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-03-14T20:53:14",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the role of an Agile coach in mentoring, teaching, and inspiring teams, which aligns with the themes of team motivation. It highlights the importance of fostering engagement, ownership, and a positive environment, but it primarily focuses on the qualifications and responsibilities of the coach rather than directly exploring team motivation strategies. While there are relevant mentions of motivation and team dynamics, the depth of discussion on specific motivational strategies is limited.",
     "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T18:19:56",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the role and responsibilities of an Agile coach, discussing their ability to teach, mentor, and inspire teams. While it touches on Agile principles, it does not explicitly address the Agile Product Operating Model or its key topics such as transitioning to a product ethos or Evidence-Based Management. The discussion is more aligned with general Agile coaching rather than the specific framework of APOM.",
     "level": "Ignored"
   },
@@ -1033,27 +889,27 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-13T15:09:47",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 72.0,
     "ai_mentions": 60.0,
     "ai_alignment": 80.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the role of an Agile coach, emphasising the importance of teaching, mentoring, and inspiring teams in alignment with Agile principles. It highlights the need for coaches to embody Agile values and facilitate a culture of continuous improvement, which aligns well with the Agile Philosophy. However, it also delves into specific practices and frameworks, which slightly detracts from its focus on the broader philosophical aspects.",
     "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T20:53:21",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on the role of an Agile coach within the context of software development, discussing Agile methodologies, coaching practices, and the importance of mentoring and teaching in Agile environments. It provides detailed insights into the responsibilities and qualities of an Agile coach, aligning closely with key topics in software development, particularly Agile frameworks. The depth of discussion is substantial, offering practical examples and advice, which reinforces its relevance to the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1075,15 +931,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-14T20:53:09",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the role of an agile coach, which indirectly relates to team performance by emphasising the importance of mentorship and teaching within agile teams. However, it lacks direct mentions of specific team performance strategies or metrics, and the depth of discussion is limited to the hiring aspect rather than exploring broader team dynamics or methodologies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1112,52 +968,34 @@
     "reasoning": "Content heavily discusses hiring an agile coach and focuses on Agile practices rather than Continuous Integration principles.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T23:35:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses agile coaching without any focus on the role of AI in Agile methodologies.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T23:35:28",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role and skills of an agile coach rather than specific collaboration tools or their implementation in Agile teams.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-14T20:53:09",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 30,
     "non_ai_confidence": 20,
-    "final_score": 29.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses the role of an agile coach and their importance in mentoring, but it focuses more on coaching practices rather than clearly articulating Agile values and principles.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-14T20:53:09",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions the role of an agile coach, which is tangentially related to organisational change, but it primarily focuses on the coaching aspect rather than the broader strategies or methodologies of organisational change. There is minimal direct mention of organisational change principles, and the discussion lacks depth in exploring how agile coaching contributes to organisational transformation.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T23:35:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role of agile coaches rather than software developers and their practices within Agile frameworks.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
@@ -1174,22 +1012,22 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-14T20:53:11",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the role of an Agile coach, focusing on teaching, mentoring, and inspiring teams to adopt Agile practices. While it touches on aspects of adaptability through the Agile framework, it does not explicitly address market adaptability strategies or methodologies. The discussion is more centred on the qualities of an Agile coach rather than how these qualities directly enhance an organisation's ability to respond to market shifts.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T23:35:28",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the role of an agile coach in mentoring and teaching, rather than directly discussing Agile Planning methodologies or practices.",
     "level": "Ignored"
   },
@@ -1204,11 +1042,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T23:35:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:27:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses agile coaching and methodologies, which are not directly related to system configuration.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of an Agile coach, discussing mentoring, teaching, and inspiring teams within an Agile framework. It does not address system configuration, configuration management tools, or any related topics. The mention of Agile practices is not aligned with the core themes of system configuration, which is about the setup and integration of systems for optimal performance.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -1222,25 +1063,25 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-03-14T20:53:26",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 32.0,
     "ai_mentions": 2,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the role of an Agile coach in mentoring, teaching, and inspiring teams, which touches on aspects of employee engagement such as motivation and team dynamics. However, the primary focus is on Agile coaching practices rather than a comprehensive exploration of employee engagement strategies. While there are mentions of increasing team autonomy and engagement, these are secondary to the main topic of Agile coaching.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-11T17:32:01",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the role of an Agile coach, which is relevant to Agile frameworks, particularly in the context of teaching and mentoring Agile practices like Scrum and Kanban. However, the primary focus is on the qualities and responsibilities of the coach rather than a deep exploration of Agile frameworks themselves. While Agile principles are mentioned, the content does not provide a comprehensive analysis or case studies of the frameworks, which limits its depth of discussion.",
     "level": "Secondary"
   },
@@ -1291,15 +1132,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-14T20:53:09",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions the role of an agile coach in teaching and mentoring, which aligns with the practical application of Agile principles. However, it lacks detailed discussion on specific problem-solving strategies or real-world applications, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -1330,34 +1171,34 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T23:35:28",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on hiring an agile coach and does not delve into Scrum principles, roles, or practices. Scrum is only loosely mentioned as part of a broader agile context.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-14T20:53:16",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content focuses extensively on the role of an Agile coach, which is central to Agile transformation. It discusses the importance of teaching, mentoring, and inspiring teams to adopt Agile principles, aligning well with the core themes of Agile transformation. The depth of discussion includes practical advice and real-world examples, demonstrating a strong understanding of Agile practices and their implementation. Overall, the content is highly relevant and provides a comprehensive view of how an Agile coach contributes to successful Agile transformations.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-14T20:53:09",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the role of an agile coach, which is relevant to Agile methodologies, but it primarily focuses on the coaching aspect rather than strategic alignment or implementation of Agile principles at an organisational level. While it touches on the importance of mentorship and engagement, it lacks a comprehensive discussion on Agile strategy, such as organisational vision alignment or continuous value delivery.",
     "level": "Ignored"
   },
@@ -1390,27 +1231,27 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-14T15:18:17",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content focuses extensively on the role of an Agile coach, highlighting their responsibilities in mentoring, teaching, and inspiring teams to adopt Agile principles. It discusses how these practices contribute to organisational agility by fostering a culture of continuous improvement and adaptability. The depth of discussion on the qualities and impact of an Agile coach aligns well with the core themes of organisational agility, although it does not explicitly mention broader organisational strategies or frameworks.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-13T15:32:24",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the role of an Agile coach, focusing on their ability to teach, mentor, and inspire teams, which aligns with the principles of business agility. However, it primarily centres on the coaching aspect rather than broader organisational agility practices, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1468,63 +1309,63 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T20:53:09",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions the role of an agile coach, which is relevant to Scrum, but does not explicitly discuss Scrum principles, roles, or events. The focus is more on the general concept of agile coaching rather than specific Scrum practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:51:57",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the role and qualities of an Agile coach, discussing mentoring, teaching, and inspiring teams within Agile frameworks. While it touches on Agile practices, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth regarding early integration of testing, security, or compliance in the development process, which are core to the Shift-Left concept.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T18:19:45",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the role of an Agile coach in fostering a culture of continuous improvement, particularly through mentoring, teaching, and inspiring teams. While it does not explicitly focus on Continuous Improvement as a primary topic, it aligns with its principles by emphasising the importance of ongoing development and adaptation within Agile practices. The depth of discussion on continuous improvement is moderate, as it highlights specific responsibilities of Agile coaches that contribute to team effectiveness and growth.",
     "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T18:19:48",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the role of an Agile coach, focusing on mentoring, teaching, and inspiring teams. While it touches on aspects of team alignment and the importance of Agile principles, it does not explicitly address the concept of Common Goals or their significance in Agile and DevOps frameworks. The discussion is more centred on the qualities of an Agile coach rather than the alignment of strategy with execution or shared objectives, which are core to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T18:19:51",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content extensively discusses the role of an Agile coach in teaching, mentoring, and inspiring teams, which directly relates to the concept of competence. It highlights the importance of continuous learning and skill development, aligning well with the core themes of the category. The depth of discussion is significant, providing detailed insights into how an Agile coach fosters competence within teams, making it a primary focus rather than a secondary mention.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
@@ -1540,14 +1381,170 @@
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:20:05",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the role of an Agile coach, focusing on mentoring, teaching, and inspiring teams. While it touches on aspects of autonomy and adaptability, it does not explicitly address the concept of Agentic Agility or differentiate between human and AI capabilities. The primary focus is on Agile coaching rather than the intentional shaping of outcomes through agency.",
     "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T08:27:12",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the role of an Agile coach, which is directly related to product development methodologies. It discusses Agile principles, the importance of mentoring, teaching, and inspiring teams, and how these aspects contribute to successful product development. The depth of discussion is significant, providing detailed insights into the responsibilities of an Agile coach and their impact on team performance and continuous improvement. The content aligns well with the core themes of the category, particularly in relation to Agile practices and customer-centric approaches, thus justifying a high confidence score.",
+    "level": "Primary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T08:27:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of an Agile coach, discussing mentoring, teaching, and inspiring teams within Agile frameworks. However, it does not explicitly mention Open Space Agile or its principles, nor does it engage with the core themes of collective participation, psychological safety, or co-creation that characterise Open Space Agile. The discussion is more aligned with traditional Agile coaching rather than the specific nuances of Open Space Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T08:27:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role and qualities of an Agile coach, discussing their responsibilities in mentoring, teaching, and inspiring teams. While it touches on Agile principles, it does not explicitly mention Agnostic Agile or its core themes, such as the importance of context-driven agility or comparisons with traditional frameworks. The discussion is more about the mechanics of Agile coaching rather than a philosophical exploration of Agnostic Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T08:27:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role and qualities of an Agile coach, discussing mentoring, teaching, and inspiring teams. While it touches on Agile principles, it does not delve into scaling methodologies, frameworks, or the complexities of coordinating multiple teams, which are essential for the 'Scaling' category. The discussion lacks depth in terms of strategies for cross-team collaboration or managing dependencies, which are critical aspects of scaling Agile practices.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T08:27:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of an Agile coach, discussing mentoring, teaching, and inspiring teams within Agile frameworks. It does not directly mention or align with the principles of Cell Structure Design, nor does it explore the characteristics of autonomous cells or decentralised structures. The discussion is centred around Agile coaching rather than organisational design models, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T08:27:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role and qualities of an Agile coach, discussing mentoring, teaching, and inspiring within Agile frameworks. However, it does not mention Liberating Structures or their specific techniques, nor does it explore the principles or philosophy behind them. The discussion is more aligned with general Agile coaching rather than the facilitation techniques that characterise Liberating Structures, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T08:27:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role and qualities of an Agile coach, discussing mentoring, teaching, and inspiring teams. While these aspects can indirectly relate to improving processes and potentially impacting Time to Market, the content does not explicitly address Time to Market metrics, strategies for improvement, or its importance in delivering value quickly. Therefore, it lacks direct mentions and depth in relation to the Time to Market category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T08:27:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of an Agile coach, discussing their importance in mentoring, teaching, and inspiring teams. While it touches on aspects of organisational culture and improvement, it does not explicitly discuss the concept of 'Company as a Product' or how the organisation itself can be treated as a product. The content lacks direct references to customer insights, measurable outcomes, or strategic objectives, which are core to the CaaP framework. Therefore, while there is some alignment with the principles of continuous improvement and collaboration, the overall focus remains on Agile coaching rather than on the broader organisational strategy of CaaP.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T08:27:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of an Agile coach, focusing on Agile principles and practices without any direct mention of GitHub or its functionalities. While it touches on Agile methodologies, it does not align with GitHub's specific tools or services, nor does it provide any insights into GitHub's collaboration features or project management capabilities.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T08:27:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role and qualities of an Agile coach, discussing their responsibilities in mentoring, teaching, and inspiring teams. While there are elements of improvement and transformation, the discussion does not explicitly address the concept of Unrealised Value or its indicators, strategies, or frameworks. The content lacks a direct exploration of untapped opportunities or potential value within the context of Evidence-Based Management, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T08:27:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role and qualities of an Agile coach, discussing their responsibilities in mentoring, teaching, and inspiring teams. While it touches on aspects of Agile practices, it does not explicitly address Current Value or its measurement in the context of Evidence-Based Management. The discussion lacks depth regarding metrics or indicators of value delivery, making it only tangentially related to the category of Current Value.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T08:27:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role and qualities of an Agile coach, discussing their responsibilities in mentoring, teaching, and inspiring teams. It does not explicitly mention Hybrid Agile or critically examine the integration of traditional project management methodologies with agile practices. The discussion lacks depth regarding the challenges and implications of Hybrid Agile, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T08:27:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the role of an Agile coach, which is a specific aspect of Agile methodologies rather than a broader discussion on project management principles. While it touches on relevant themes such as mentoring, teaching, and inspiring teams, it lacks a comprehensive exploration of core project management principles, methodologies, and lifecycle phases. The discussion is more centred on the Agile coaching role rather than project management as a whole, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

@@ -2,7 +2,7 @@
 title: 'Embrace Kaizen: Unlocking Continuous Improvement for Personal and Team Success'
 description: Unlock the power of Kaizen! Discover how continuous improvement can transform your work and personal life with small, impactful changes. Embrace growth today!
 date: 2024-08-14T07:04:17Z
-weight: 440
+weight: 380
 ResourceId: V44iUwv0Jcg
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -30,19 +30,20 @@ tags:
 - Lean Principles
 - Continuous Learning
 - Operational Practices
-- Discovery and Learning
 - Lean Thinking
-- Agile Philosophy
-- Team Performance
 - Organisational Agility
 - Competence
+- Agile Philosophy
+- Pragmatic Thinking
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 In the world of Agile methodologies, particularly within the Kanban community, there's a term that often gets thrown around: Kaizen. Now, I must admit, we have a tendency to take Japanese words and adapt them to fit our context, sometimes straying from their original meanings. However, the essence of Kaizen—continuous improvement—is something that resonates deeply with me and is crucial for anyone looking to enhance their processes.

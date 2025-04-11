@@ -29,7 +29,6 @@ aliasesArchive:
 - /resources/blog/review-two-months-intel-haswell-harris-beach-sds-ultrabook
 tags:
 - Windows
-- News and Reviews
 categories: []
 preview: Web-Intel-Metro-icon-3-3.png
 

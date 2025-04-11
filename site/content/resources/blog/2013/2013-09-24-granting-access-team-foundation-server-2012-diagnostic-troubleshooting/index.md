@@ -29,7 +29,6 @@ aliasesArchive:
 - /resources/blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
 tags:
 - Troubleshooting
-- Practical Techniques and Tooling
 - Install and Configuration
 - System Configuration
 categories: []

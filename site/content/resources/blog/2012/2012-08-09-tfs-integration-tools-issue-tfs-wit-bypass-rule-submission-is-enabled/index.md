@@ -9,7 +9,7 @@ ResourceImportId: 7104
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-09
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,7 +32,6 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Troubleshooting
-- Practical Techniques and Tooling
 - Software Development
 - System Configuration
 categories: []

@@ -9,7 +9,7 @@ ResourceImportId: 10058
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-09-01
-weight: 460
+weight: 400
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,20 +28,30 @@ aliasesArchive:
 - /blog/there-is-no--do-agile--there-is-only--be-agile-
 - /resources/blog/there-is-no-do-agile-there-is-only-be-agile
 tags:
-- People and Process
-- Agile Project Management
-- Organisational Agility
 - Agile Philosophy
 - Agile Transformation
-- Software Development
+- Organisational Agility
 - Pragmatic Thinking
-- Agile Values and Principles
+- Software Development
 - Agile Strategy
+- Agile Values and Principles
 - Business Agility
+- Agile Leadership
+- Team Performance
+- Agile Frameworks
+- Agile Product Management
+- Change Management
+- Coaching
+- Continuous Improvement
+- Empirical Process Control
+- Enterprise Agility
+- Operational Practices
+- Organisational Change
+- Self Organisation
 categories:
-- Scrum
 - Leadership
-- Social Technologies
+- Technical Leadership
+- Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

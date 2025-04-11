@@ -1,77 +1,35 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T23:17:32",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the hosting and technical aspects of the Tfs Automation Platform, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T06:38:13",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the hosting of the TFS Automation Platform and touches on server-side components and their importance, which aligns with practical tooling. However, it lacks a detailed exploration of specific methodologies or frameworks, and the discussion is more focused on potential issues rather than practical techniques or best practices. The mention of configuration and user support hints at practical application but does not provide substantial depth or a clear methodology.",
-    "level": "Tertiary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-03-15T06:38:09",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the TFS Automation Platform and its server-side components, which relates to platform engineering. However, it primarily focuses on hosting and client-server interactions rather than the core principles of platform engineering, such as enhancing developer productivity or automation in the application lifecycle. While there are mentions of server-side functionality and configuration, the depth of discussion on platform engineering concepts is limited, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:42:48",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses hosting options for the TFS Automation Platform and does not focus on Evidence-Based Management principles. There are no direct mentions of empirical evidence or data-informed decision-making, and the discussion lacks depth in relation to the key topics of EBM. The content is more technical and operational rather than strategic, making it largely irrelevant to the category.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T06:38:21",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 25,
-    "ai_depth": 20,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses the hosting of the TFS Automation Platform and the implications of server-side components on functionality and resilience. While it touches on aspects of software architecture and the importance of server components, it lacks a focused discussion on code quality, complexity theory, or best practices in software development. The primary focus is on hosting and functionality rather than the interplay between code quality and complexity, leading to a low confidence score.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T23:17:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the hosting and functionality of the TFS Automation Platform, focusing on technical implementation details rather than discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T23:17:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the hosting and functionality of the TFS Automation Platform without a clear focus on AI or automation within Agile frameworks.",
     "level": "Ignored"
   },
   "Lean": {
@@ -85,24 +43,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-15T06:38:07",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 30,
-    "final_score": 64.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the hosting and configuration of the TFS Automation Platform, touching on server-side components and the need for installation by hosting providers. However, it lacks detailed step-by-step instructions or best practices, focusing more on theoretical considerations and potential issues rather than actionable guidance. While it does mention configuration aspects, the overall depth and direct focus on installation and configuration processes are limited.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T23:17:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of hosting the Tfs Automation Platform and does not focus on transparency or accountability within Agile teams.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -122,39 +71,27 @@
     "reasoning": "Content primarily discusses the technical aspects of hosting the TFS Automation Platform without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-03-15T06:38:04",
-    "ai_confidence": 65.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 30,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the implications of server-side components on functionality and resilience, particularly in the context of hosting the TFS Automation Platform. While it touches on resilience in terms of communication and infrastructure problems, the primary focus is on technical implementation rather than organisational resilience or change management strategies. The discussion lacks depth in exploring broader themes of adaptability or change management practices, which diminishes its alignment with the category.",
-    "level": "Secondary"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:42:35",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses hosting options for the TFS Automation Platform, focusing on server-side components and functionality. While it touches on aspects of cloud hosting, it lacks a direct discussion of DevOps principles such as collaboration, automation, or shared accountability. The mention of server-side components and configuration does not align closely with the core themes of DevOps, and the depth of discussion remains focused on technical implementation rather than the cultural or philosophical aspects of DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-15T06:38:18",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the hosting of the TFS Automation Platform, which is a technical topic related to software development and cloud services. While it does not directly reference Agile, Scrum, DevOps, or Lean methodologies, it does touch on concepts relevant to software deployment and user experience. However, the discussion lacks a clear connection to established Agile frameworks or practices, making it more of a technical exploration rather than a focused discussion on Agile principles. The content provides some depth in terms of the challenges and considerations for hosting but does not delve into actionable insights or recognised practices, aligning it more with the Miscellaneous category.",
     "level": "Secondary"
   },
@@ -167,15 +104,6 @@
     "reasoning": "Content primarily discusses the hosting and functionality of the Tfs Automation Platform, focusing on technical aspects rather than decision-making processes in uncertain environments.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T23:17:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects and considerations of hosting the Tfs Automation Platform, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T23:17:56",
@@ -183,15 +111,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the hosting and functionality of the TFS Automation Platform, with no clear focus on optimising work throughput or flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T23:17:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses technical aspects of hosting the TFS Automation Platform and server-side components, with minimal focus on human behaviour or team processes.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -214,10 +133,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T23:18:02",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the hosting and functionality of the Tfs Automation Platform, with no focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -232,13 +151,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T18:48:33",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 55.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 50.0,
+    "final_score": 55.0,
     "reasoning": "The content discusses the hosting of the TFS Automation Platform and touches on server-side components, which relates to technical architecture. However, it lacks a direct focus on engineering practices like TDD or CI/CD. While it does mention the importance of server functionality and user support, it does not delve deeply into methodologies that enhance agility or technical excellence, making it a secondary rather than primary focus.",
     "level": "Tertiary"
   },
@@ -262,13 +181,13 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T06:37:49",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the hosting and configuration of the TFS Automation Platform, touching on aspects of server-side components and user functionality. However, it lacks a direct focus on product delivery methodologies, such as Agile practices or deployment strategies. While there are mentions of user needs and potential features, the discussion is more about technical implementation rather than the end-to-end process of delivering a software product effectively.",
     "level": "Ignored"
   },
@@ -290,15 +209,6 @@
     "reasoning": "Content primarily discusses the hosting and functionality of the TFS Automation Platform, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T23:18:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the hosting and functionality of the Tfs Automation Platform, with no clear focus on specific products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T23:18:13",
@@ -310,13 +220,13 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T12:03:38",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the TFS Automation Platform and its hosting considerations, which are related to Azure DevOps. However, it primarily focuses on server-side components and client installations without delving deeply into Azure DevOps functionalities or best practices. While there are mentions of TFS (Team Foundation Server) and its integration with Azure, the discussion lacks a comprehensive exploration of Azure DevOps services or methodologies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -340,22 +250,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T23:18:18",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the TFS Automation Platform and its hosting considerations, without a clear focus on the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:42:45",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses hosting options for the TFS Automation Platform, focusing on server-side components and functionality rather than the Agile Product Operating Model. There are no direct mentions of agile principles, product management practices, or the core themes of APOM. The discussion is more aligned with technical implementation and infrastructure considerations, which do not relate to the Agile Product Operating Model.",
     "level": "Ignored"
   },
@@ -368,26 +278,17 @@
     "reasoning": "Content primarily discusses the hosting and functionality of the TFS Automation Platform, with no clear focus on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T23:18:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects and considerations of hosting the TFS Automation Platform, lacking a focus on industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T06:37:54",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses hosting the TFS Automation Platform, which relates to application deployment and server-side components. However, it lacks a comprehensive exploration of the application lifecycle stages, governance, or best practices. While it touches on aspects of application management, it does not delve deeply into the methodologies or tools associated with Application Lifecycle Management, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -400,43 +301,43 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details and considerations for hosting the TFS Automation Platform, without reference to or focus on the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T06:38:25",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 42.0,
     "ai_mentions": 3,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the architecture and functionality of the TFS Automation Platform, touching on server-side components and their importance for resilience and multi-user support. However, it lacks a deep exploration of best practices, principles of clean code, or methodologies that contribute to software craftsmanship. While it mentions technical aspects, the focus is more on hosting and configuration rather than on technical mastery in software engineering.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses hosting, server-side components, and potential configurations, without addressing customer needs or product feature definitions.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:42:50",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily discusses hosting options for the TFS Automation Platform, focusing on server-side components and cloud environments. While it touches on aspects of software deployment, it does not explicitly address Continuous Delivery principles, practices, or benefits. The discussion lacks depth in relation to Continuous Delivery, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
@@ -469,10 +370,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the hosting of the TFS Automation Platform and the functionality of server-side components, with no reference or relevance to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -487,10 +388,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the hosting and functionality of the TFS Automation Platform without addressing the Product Backlog or Agile backlog management strategies. It does not tie into backlog topics such as prioritization, refinement, or user stories.",
     "level": "Ignored"
   },
@@ -559,10 +460,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses technical aspects of hosting a platform but does not focus on validating product ideas with user testing or feedback. It primarily explores infrastructure concerns rather than methodologies for product validation.",
     "level": "Ignored"
   },
@@ -613,40 +514,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses hosting and technical details about the TFS Automation Platform without any mention of Acceptance Test Driven Development or related themes such as acceptance criteria, collaboration, or testing methodologies.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T13:01:53",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the hosting and architecture of the TFS Automation Platform, which relates to software development practices, particularly in the context of server-side components and client-server interactions. It touches on aspects of software architecture and deployment considerations, aligning with the Software Development category. However, the discussion lacks depth in methodologies or best practices, focusing more on specific implementation concerns rather than broader software development principles.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T23:50:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the hosting and technical aspects of the TFS Automation Platform, with no focus on agile methodologies or practices.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on hosting and technical details related to TFS and its architecture, without discussing Agile values or principles.",
     "level": "Ignored"
   },
@@ -670,10 +562,10 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses hosting considerations and server-side functionalities for the TFS Automation Platform without addressing empirical process control principles.",
     "level": "Ignored"
   },
@@ -688,10 +580,10 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses hosting and architecture concerns related to TFS Automation Platform rather than Azure Boards functionalities or Agile project management.",
     "level": "Ignored"
   },
@@ -706,10 +598,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily revolves around technical discussions on hosting and server-side components related to TFS (Team Foundation Server) automation, without addressing any aspects of organisational change or methodologies.",
     "level": "Ignored"
   },
@@ -724,10 +616,10 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the architecture and hosting of the TFS Automation Platform, focusing on server-side components and user experience rather than frequent software releases or practices related to Continuous Delivery.",
     "level": "Ignored"
   },
@@ -738,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details related to hosting the TFS Automation Platform, server components, and functionality, with no focus on customer satisfaction or related themes.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T23:50:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the hosting and functionality of the TFS Automation Platform, with no clear relevance to scaling Scrum practices or principles.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -767,24 +650,15 @@
     "reasoning": "Content focuses on hosting the TFS Automation Platform and technical considerations related to server-side components, with no discussion of psychological safety or related themes.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T23:50:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the hosting and server-side components of the Tfs Automation Platform, without discussing scaling agile practices or frameworks related to organisational agility.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T06:37:49",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the hosting of the TFS Automation Platform and touches on server-side components and functionality, which are relevant to engineering practices. However, it lacks a direct focus on engineering excellence principles, such as coding standards or quality assurance. The discussion is more about hosting logistics and potential issues rather than promoting high standards in software craftsmanship or continuous improvement in engineering processes.",
     "level": "Ignored"
   },
@@ -799,10 +673,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the hosting and server-side components of the TFS Automation Platform, with no clear focus on asynchronous development practices or principles.",
     "level": "Ignored"
   },
@@ -826,15 +700,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T10:38:32",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the practical considerations of hosting the TFS Automation Platform, including server-side components and user functionality. While it touches on real-world applications and problem-solving, it lacks a strong focus on Agile, Scrum, or DevOps frameworks. The discussion is somewhat practical but does not delve deeply into pragmatic strategies or case studies, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -847,29 +721,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects and challenges of hosting the TFS Automation Platform without focusing on innovation capabilities, empirical data, or a culture of innovation.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T23:50:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses hosting concerns and server architecture related to TFS Automation Platform, without a focus on Scrum principles, roles, or product development processes.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T23:50:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the hosting and architecture of the TFS Automation Platform, with a focus on server-side components and user functionality, which is unrelated to the principles and methodologies of scaled Agile frameworks.",
+    "reasoning": "Content primarily discusses the technical aspects and challenges of hosting the TFS Automation Platform without focusing on innovation capabilities, empirical data, or a culture of innovation.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -892,10 +748,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses hosting and server-side components of the TFS Automation Platform without a clear focus on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
@@ -910,13 +766,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T06:37:49",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the hosting of the TFS Automation Platform and the implications of server-side components on functionality. While it touches on aspects of software functionality and user requirements, it lacks a direct focus on delivering high-quality, operational software that meets customer needs. The discussion is more about technical considerations and potential issues rather than best practices or iterative development principles associated with working software.",
     "level": "Ignored"
   },
@@ -976,22 +832,22 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on hosting TFS Automation Platform and does not address hypothesis formulation, experimentation, or data-driven decision-making.",
     "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-15T06:37:59",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses considerations for hosting the TFS Automation Platform, touching on decision-making aspects such as functionality trade-offs and user requirements. However, it lacks a structured, evidence-based approach to decision-making and does not delve into empirical methodologies or frameworks that would align it more closely with the category of Decision Making.",
     "level": "Ignored"
   },
@@ -1006,22 +862,22 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T06:37:49",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the hosting and functionality of the TFS Automation Platform, touching on aspects like server-side components and client installations. However, it lacks a focused discussion on release management strategies, scheduling, or risk management. While there are mentions of features and potential impacts on releases, the primary focus is on technical implementation rather than the overarching release management processes.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses server-side components and hosting details related to TFS automation, with no central focus on the role or responsibilities of a Product Owner.",
     "level": "Ignored"
   },
@@ -1036,10 +892,10 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the TFS Automation Platform and server-side components, without a clear focus on Azure Pipelines or CI/CD practices.",
     "level": "Ignored"
   },
@@ -1054,10 +910,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects and functionalities of the TFS Automation Platform, without addressing change management strategies, practices, or any Agile principles related to organisational change.",
     "level": "Ignored"
   },
@@ -1072,10 +928,10 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses hosting and architecture concerns related to TFS Automation Platform, with no focus on Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1088,7 +944,7 @@
     "reasoning": "The content mainly discusses the hosting and functionality of TFS Automation Platform, focusing on server-side components and plugin management, without a clear primary focus on digital transformation strategies or practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T23:50:27",
     "ai_confidence": 0,
@@ -1097,33 +953,24 @@
     "reasoning": "The content primarily discusses hosting options and server-side functionality related to the TFS Automation Platform, without a clear focus on Minimum Viable Product concepts or validation of market assumptions.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T23:50:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses hosting and configuration of the TFS Automation Platform, with no central focus on the application or integration of AI within Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-07T15:31:37",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the hosting and configuration of the TFS Automation Platform, touching on server-side components and the implications of client-only installations. While it does mention configuration aspects, the focus is more on the challenges and considerations rather than best practices or detailed methodologies. The discussion lacks depth in terms of specific configuration management tools or strategies, which affects the overall alignment with the category.",
     "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses hosting options and technical aspects of TFS Automation Platform, not aligning with product strategy principles.",
     "level": "Ignored"
   },
@@ -1156,25 +1003,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:16:12",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 5.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses hosting options for the TFS Automation Platform and server-side components, with no direct mention or exploration of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T06:37:52",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 61.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the TFS Automation Platform and its hosting, which is related to Windows Azure and Team Foundation Server (TFS). However, it primarily focuses on cloud hosting and server-side components rather than the Windows operating system itself. While there are mentions of server-side components and configuration, the discussion lacks depth in terms of Windows-specific installation, troubleshooting, or optimisation techniques. The content does not provide a comprehensive exploration of Windows as an operating system, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1189,10 +1036,10 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses hosting and technical aspects of the TFS Automation Platform without addressing large scale Agile principles or practices.",
     "level": "Ignored"
   },
@@ -1225,13 +1072,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T06:38:02",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses potential issues related to hosting the TFS Automation Platform, such as functionality loss, resilience, and multi-user support. However, it lacks a structured approach to diagnosing or resolving these issues, focusing more on the implications of server-side components rather than providing troubleshooting methodologies or techniques. The discussion is somewhat relevant but does not meet the depth or direct focus required for a strong alignment with the Troubleshooting category.",
     "level": "Ignored"
   },
@@ -1246,13 +1093,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:16:15",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses hosting options for the TFS Automation Platform and does not mention the role or responsibilities of a Scrum Master. It lacks any direct references to Scrum principles, team dynamics, or the impact of a Scrum Master on organisational change, which are essential for alignment with the category.",
     "level": "Ignored"
   },
@@ -1274,18 +1121,6 @@
     "reasoning": "Content primarily discusses technical aspects of hosting and functionality related to TFS Automation Platform without addressing teamwork, collaboration, or working agreements.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T06:37:49",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the hosting of the TFS Automation Platform, which relates to software development tools and practices. However, it lacks a direct focus on Agile or DevOps methodologies, and while it touches on server-side components and user functionality, it does not delve deeply into best practices or principles that enhance developer productivity or collaboration. The discussion is more technical and operational rather than strategic or methodological, leading to a moderate confidence score.",
-    "level": "Ignored"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-15T23:50:27",
@@ -1297,10 +1132,10 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T06:37:49",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses the hosting of the TFS Automation Platform and related server-side components, with mentions of functionality, deployment, and configuration. However, it does not focus on core engineering practices such as clean code, TDD, CI/CD, or automation. The main theme revolves around hosting and system functionality, which does not align strongly with the key topics of engineering practices.",
     "level": "Ignored"
   },
@@ -1324,10 +1159,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical implementation details and server-side components of the Tfs Automation Platform, which does not align with the strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1360,10 +1195,10 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses TFS (Team Foundation Server) hosting and related features, not focusing on Azure Repos functionalities, best practices, or source control management.",
     "level": "Ignored"
   },
@@ -1378,10 +1213,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the hosting and architecture of the TFS Automation Platform without a clear focus on Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -1403,15 +1238,6 @@
     "reasoning": "Content primarily discusses technical aspects of hosting the Tfs Automation Platform without focusing on accountability, team dynamics, or ownership principles in Agile.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T23:50:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the Tfs Automation Platform and its server-side components, with no discussion of Kanban principles, scaling, or related topics.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T23:50:27",
@@ -1423,22 +1249,22 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T23:50:27",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses hosting the Tfs Automation Platform and associated server-side architecture, not Test Driven Development.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:40:35",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on the technical aspects of hosting the TFS Automation Platform, discussing server-side components and functionality without addressing collaboration, decision-making, or value delivery. While there are brief mentions of user interactions and configurations, these do not align with the core themes of social technologies, which emphasise frameworks for collaboration and collective intelligence. The depth of discussion remains technical and lacks engagement with the social frameworks outlined in the category.",
     "level": "Ignored"
   },
@@ -1453,10 +1279,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:29:24",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the hosting and architecture of the TFS Automation Platform, which relates to the concept of an Internal Developer Platform, but it primarily focuses on specific implementation details rather than a comprehensive overview of IDPs.",
     "level": "Tertiary"
   },
@@ -1471,73 +1297,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T06:37:49",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the hosting and functionality of the TFS Automation Platform, with no direct references to Scrum principles, roles, events, or artifacts. While it touches on project management aspects, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The discussion lacks depth regarding Scrum practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:31:08",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the hosting and architecture of the TFS Automation Platform, focusing on server-side components and client installations. It does not address the Shift-Left Strategy, nor does it integrate testing, security, or compliance early in the development process. The discussion is more about deployment and functionality rather than proactive quality assurance or early integration of critical processes.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:42:37",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses hosting options for the TFS Automation Platform and does not focus on Continuous Improvement principles. While it touches on functionality and server-side components, it lacks explicit discussions on empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning. The content is more technical and operational rather than reflective of Continuous Improvement practices.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:42:40",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily discusses technical aspects of hosting the TFS Automation Platform and server-side components, with minimal reference to shared objectives or alignment within Agile or DevOps frameworks. While it touches on functionality and user experience, it lacks a focus on common goals or strategic alignment, which are central to the category of Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:42:43",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily discusses hosting options for the TFS Automation Platform and does not focus on competence in terms of skill development or professionalism. While it touches on functionality and server-side components, it lacks explicit discussions on continuous learning, quality outcomes, or fostering a culture of competence. The mention of user support and functionality loss hints at operational competence but does not delve into the principles of competence as defined in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:16:10",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses hosting options for the TFS Automation Platform and does not explicitly address Agentic Agility or its principles. While there are mentions of functionality and server-side components, these do not align with the core themes of intentionality, adaptability, or the transformative capacity of individuals and systems. The discussion lacks depth regarding the interplay between human judgement and AI logic, and does not provide examples or case studies related to Agentic Agility.",
     "level": "Ignored"
   }

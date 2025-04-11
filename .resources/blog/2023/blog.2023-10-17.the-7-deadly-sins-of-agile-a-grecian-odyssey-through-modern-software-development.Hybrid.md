@@ -9,7 +9,7 @@ ResourceImportId: 50309
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-10-17
-weight: 850
+weight: 840
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -30,11 +30,8 @@ aliasesArchive:
 - /resources/blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
 tags:
 - Software Development
-- People and Process
 - Agile Philosophy
-categories:
-- Social Technologies
-- Scrum
+categories: []
 preview: NKDAgility-technically-7DeadlySins-16-15.jpg
 
 ---

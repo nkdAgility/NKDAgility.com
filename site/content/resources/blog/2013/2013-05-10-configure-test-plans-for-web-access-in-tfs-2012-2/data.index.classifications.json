@@ -1,24 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T18:49:47",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses configuring test plans in TFS 2012.2, which is a technical topic unrelated to Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:06:21",
-    "ai_confidence": 82.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content provides a detailed exploration of configuring Test Plans in TFS 2012.2, which directly relates to practical tooling in Agile and DevOps environments. It discusses specific configurations, workarounds, and implications for team performance, aligning well with the core themes of the category. The depth of discussion is substantial, covering various scenarios and configurations, which enhances its relevance to the category.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -31,41 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T07:51:22",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, with no direct mention of Evidence-Based Management principles or metrics. While it discusses team configurations and testing processes, it lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management. The discussion is technical and operational rather than strategic, resulting in a very low confidence score.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T18:49:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses configuring Test Plans in TFS 2012.2, focusing on practical implementation details rather than the interplay between code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T18:49:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on configuring Test Plans in TFS 2012.2, with detailed technical implementation details and troubleshooting, lacking a central theme of discovery or learning.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T18:49:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses configuring test plans in TFS 2012.2 without any mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -79,24 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T12:48:28",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content provides detailed instructions on configuring Test Plans in TFS 2012.2, including specific steps and considerations for setup. It discusses the importance of matching area paths and team configurations, which are critical for proper installation and configuration. The depth of discussion is significant, covering various scenarios and workarounds, indicating a strong alignment with the category's focus on actionable installation and configuration guidance.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T18:50:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses configuring test plans in TFS 2012.2, focusing on technical details rather than transparency or accountability within Agile teams.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content primarily focuses on configuring test plans in TFS 2012.2, with no significant discussion on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T18:50:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses technical configurations and troubleshooting in TFS 2012.2, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T07:51:07",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, which is more aligned with specific tool usage rather than the broader principles of DevOps. While it touches on team collaboration and configuration, it lacks a comprehensive discussion on DevOps philosophy, practices, or cultural shifts. The mention of teams and configurations does not sufficiently align with the core themes of DevOps, such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily discusses technical configurations and challenges related to Test Plans in TFS 2012.2, without a focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T18:50:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses configuring test plans in TFS 2012.2, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T18:50:12",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring Test Plans in TFS 2012.2, with no clear focus on optimising work throughput or addressing flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T18:50:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical configurations and functionalities of TFS 2012.2, with minimal focus on team dynamics or human factors.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T18:50:17",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring Test Plans in TFS 2012.2, focusing on technical details and setup rather than metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -220,13 +145,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T05:11:54",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, which relates to technical practices in software development. It discusses specific configurations and workarounds that enhance the usability of Test Plans, aligning with the principles of technical excellence. However, while it touches on aspects of engineering practices, it lacks a broader discussion on methodologies like TDD or CI/CD, which are central to the category. The depth of technical detail is moderate, providing practical insights but not extensively covering the overarching themes of agility and adaptability in engineering practices.",
     "level": "Secondary"
   },
@@ -250,13 +175,13 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T05:12:03",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on configuring test plans in TFS 2012.2, which is a specific technical task rather than a broader discussion on product delivery methodologies. While it touches on aspects of team organisation and configuration that could relate to product delivery, it lacks a comprehensive exploration of the key topics outlined in the category, such as Agile methodologies, iterative development, or deployment strategies. The discussion is more about technical configuration than the end-to-end process of delivering usable software products.",
     "level": "Ignored"
   },
@@ -271,42 +196,33 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T18:50:27",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring test plans in TFS, which is not related to Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T18:50:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses configuration and usage of Test Plans in TFS 2012.2, with no focus on specific products or literature related to Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-15T18:50:30",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical configuration details of Test Plans in TFS 2012.2 without a clear focus on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T14:50:09",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on configuring Test Plans within TFS (Team Foundation Server), which is a component of Azure DevOps. It discusses specific configurations, challenges, and workarounds related to Test Plans, aligning well with Azure DevOps functionalities. The depth of discussion is significant, providing detailed insights into the configuration process and its implications for team workflows. However, while it is closely related to Azure DevOps, the mention of TFS may slightly detract from the direct focus on Azure DevOps as a whole, hence the high but not perfect confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Personal": {
     "category": "Personal",
@@ -328,22 +244,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T18:50:35",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring Test Plans in TFS 2012.2, which is not directly related to the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T07:51:19",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, which is a technical guide rather than a discussion on the Agile Product Operating Model. While it touches on team structures and configurations, it does not engage with the core principles or themes of the APOM, such as continuous delivery, product-oriented mindset, or evidence-based management.",
     "level": "Ignored"
   },
@@ -356,78 +272,66 @@
     "reasoning": "Content primarily focuses on configuring test plans in TFS 2012.2, with no clear discussion on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T05:11:57",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, which is more of a technical tutorial than a news or review piece. While it briefly mentions updates related to TFS 2013.3, the overall emphasis is on practical configuration steps rather than industry news or reviews. The depth of discussion is significant in terms of technical details, but it lacks a broader context or analysis of trends in Agile or DevOps, which diminishes its alignment with the 'News and Reviews' category.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-10T18:39:23",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on configuring Test Plans within TFS 2012.2, which is a specific aspect of application lifecycle management. While it discusses the management of test plans and their configurations, it lacks a broader discussion on the entire application lifecycle, governance, or integration of methodologies like Agile or DevOps. The depth of discussion is limited to technical configurations rather than strategic management practices, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-15T19:44:32",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring test plans in TFS and does not discuss the Daily Scrum or its related topics.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T19:44:32",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring Test Plans in TFS and does not focus on the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T05:11:50",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 42.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, which involves technical details and specific configurations relevant to software testing practices. While it discusses some technical aspects, such as area paths and team configurations, it lacks a broader discussion on software craftsmanship principles, clean code, or architectural best practices. The depth of discussion is moderate, providing practical insights but not delving into overarching methodologies or principles of software engineering excellence.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T19:44:32",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on configuring Test Plans in TFS and does not discuss methodologies or practices related to product discovery, customer needs, or defining product features.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T07:51:24",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, which is more about test management than Continuous Delivery. While it touches on aspects of team organisation and testing processes, it does not explicitly discuss Continuous Delivery principles, automation, or the broader context of software delivery practices.",
     "level": "Ignored"
   },
@@ -442,10 +346,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T19:44:32",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring test plans in TFS and does not address lead time or related metrics.",
     "level": "Ignored"
   },
@@ -460,10 +364,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T19:44:32",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses configuring test plans in TFS and does not address the concepts or criteria related to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -478,28 +382,28 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T19:44:32",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on configuring test plans in TFS 2012.2 and does not primarily discuss the Product Backlog, Agile frameworks, or backlog management practices.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-15T19:44:32",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses configuring Test Plans in TFS 2012.2 and its complexities, which are not central to Agile Planning principles or practices.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-15T19:44:32",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring test plans in TFS and has no focus on Value Stream Mapping or Lean principles.",
     "level": "Ignored"
   },
@@ -514,31 +418,31 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T05:12:05",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, which is more technical and specific to a tool rather than discussing broader operational practices. While it touches on aspects of team configuration and workflow management, it lacks a comprehensive discussion on process optimisation or continuous improvement strategies that are central to the category of Operational Practices.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T19:44:32",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of configuring Test Plans in TFS 2012.2 without a clear focus on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-15T19:44:32",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of configuring Test Plans in TFS 2012.2, without addressing the underlying Agile principles or philosophy.",
     "level": "Ignored"
   },
@@ -553,19 +457,19 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuration issues with Test Plans in TFS 2012.2, without any direct relation to validating product ideas through user engagement or methodologies related to product validation.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses configuring test plans in TFS 2012.2 and does not focus on Agile transformation principles, methodologies, or strategies related to Agile practices.",
     "level": "Ignored"
   },
@@ -589,13 +493,13 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-15T05:12:13",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 24.0,
+    "final_score": 25.0,
     "reasoning": "The content discusses configuring test plans in TFS and mentions teams, but it primarily focuses on technical configurations rather than strategies or practices aimed at enhancing team performance or collaboration. While there are references to team structures and configurations, the discussion lacks depth in exploring team dynamics, communication, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -610,49 +514,40 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses configuring Test Plans in TFS 2012.2, focusing on technical details and setups rather than Acceptance Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T16:50:03",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content provides a detailed discussion on configuring Test Plans in TFS 2012.2, which is directly related to software development practices, particularly in the context of Test-Driven Development (TDD) and Agile methodologies. It discusses specific configurations, workarounds, and implications for team structures, demonstrating a strong alignment with software development processes. The depth of the discussion is significant, covering various aspects of test plan management and configuration intricacies, which are essential for effective software engineering outcomes.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T19:44:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses how to configure test plans in TFS, which is not directly related to Agile Project Management principles, frameworks, or methodologies.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the configuration of test plans in TFS 2012.2 without addressing Agile values or principles.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Test Plans in TFS 2012.2, which is unrelated to the core principles, roles, or practices of Professional Scrum.",
     "level": "Ignored"
   },
@@ -676,10 +571,10 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuration of test plans in TFS, focusing on technical aspects rather than Scrum Values.",
     "level": "Ignored"
   },
@@ -694,19 +589,19 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on configuring Test Plans in TFS 2012.2 and does not center on collaboration tools or enhancing team communication and coordination in Agile teams.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on configuring test plans in TFS 2012.2, which pertains to software development practices rather than organisational change strategies or methodologies.",
     "level": "Ignored"
   },
@@ -737,21 +632,12 @@
     "reasoning": "Content discusses technical details around configuring test plans in TFS without reference to customer satisfaction principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T19:44:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses configuring Test Plans in TFS 2012.2 and does not focus on scaling Scrum or related principles.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses configuring Test Plans in TFS, focusing on technical implementations and configurations without any emphasis on evidence-based leadership or decision-making based on empirical data.",
     "level": "Ignored"
   },
@@ -764,33 +650,24 @@
     "reasoning": "Content heavily discusses configuring test plans in TFS 2012.2 and does not relate to psychological safety in teams.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T19:44:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on configuring test plans in TFS 2012.2 and managing test plans with team structures, without addressing strategies or frameworks for scaling agility within an organization.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T05:11:50",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on configuring test plans in TFS 2012.2, which is more about specific tool usage rather than broader engineering excellence principles. While it touches on aspects of software development practices, such as configuration and team management, it lacks a strong emphasis on best practices, quality assurance, or continuous improvement that are central to the category of Engineering Excellence.",
     "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses configuring test plans in TFS and does not relate to revenue metrics or employee productivity.",
     "level": "Ignored"
   },
@@ -823,50 +700,32 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T05:11:50",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses practical configurations and workarounds for managing Test Plans in TFS 2012.2, which aligns with pragmatic problem-solving in a real-world context. However, it lacks a broader discussion on Agile or Scrum principles and does not provide in-depth strategies for navigating complexity or uncertainty, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring test plans in TFS without a clear focus on backlog refinement or Agile practices.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring Test Plans in TFS 2012.2, focusing on technical details and workarounds rather than on innovation capabilities or practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T19:44:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses configuring Test Plans in TFS, which is not directly related to Scrum principles or practices. It lacks a clear focus on Scrum product development methodologies, roles, or iterative processes.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T19:44:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses configuration details for Team Foundation Server (TFS) 2012.2, focusing on test plans and team management without referencing scaled Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -889,13 +748,13 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-03-15T05:12:07",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses configuring Test Plans in TFS, which is related to test management but lacks a direct focus on test automation principles, frameworks, or practices. While it touches on aspects of test planning and team configurations, it does not delve into automation tools or methodologies, making it more about test management than automation itself.",
     "level": "Ignored"
   },
@@ -910,19 +769,19 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical configuration details for Test Plans in TFS 2012.2, without focusing on the delivery of functional software or practices associated with Agile and Scrum principles.",
     "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses configuring Test Plans in TFS 2012.2 and does not focus on Agile Planning Tools or their methodologies.",
     "level": "Ignored"
   },
@@ -946,10 +805,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on technical configuration of Test Plans in TFS 2012.2 without discussing leadership roles, practices, or Agile principles.",
     "level": "Ignored"
   },
@@ -1009,19 +868,19 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring Test Plans in TFS, which is unrelated to the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about configuring test plans in TFS and not discussing Cycle Time or its implications in Agile or DevOps.",
     "level": "Ignored"
   },
@@ -1045,22 +904,22 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring test plans in TFS (Team Foundation Server), with no central discussion on change management principles, strategies, or practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-15T05:12:00",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses configuring Test Plans in TFS, which indirectly relates to team collaboration by mentioning how teams can see and manage Test Plans based on Area Paths. However, the primary focus is on technical configuration rather than enhancing team dynamics or communication. While there are mentions of teams and their configurations, the depth of discussion on collaboration techniques or team dynamics is limited.",
     "level": "Ignored"
   },
@@ -1082,7 +941,7 @@
     "reasoning": "Content primarily focuses on technical configuration and troubleshooting of Test Plans in TFS 2012.2, lacking a discussion on strategic adoption of digital technologies for transforming business processes or operations.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T19:44:33",
     "ai_confidence": 0,
@@ -1091,33 +950,24 @@
     "reasoning": "Content primarily discusses configuring Test Plans in TFS, which is unrelated to the concept of Minimum Viable Product or its development.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T19:44:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses configuring Test Plans in TFS 2012.2 and does not focus on AI trends, applications, or impacts within Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T14:59:56",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, which directly relates to system configuration. It discusses specific configuration steps, the importance of matching area paths, and workarounds for configuration issues, demonstrating a clear alignment with the category's core themes. The depth of discussion is substantial, providing detailed insights into configuration management and troubleshooting, which are key aspects of system configuration. However, while the content is rich in practical advice, it occasionally veers into broader discussions about team structures and product hierarchies, which slightly detracts from its primary focus on system configuration.",
     "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring test plans in TFS, discussing technical details and workarounds, without addressing core principles of product strategy.",
     "level": "Ignored"
   },
@@ -1141,10 +991,10 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring Test Plans in TFS 2012.2 and does not discuss cross-functional teams or their characteristics, benefits, or practices.",
     "level": "Ignored"
   },
@@ -1180,28 +1030,28 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on configuring test plans in TFS 2012.2 and does not discuss scaling Agile methodologies or large-scale Agile practices.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of configuring Test Plans in TFS 2012.2 without addressing team motivation or dynamics.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring Test Plans in TFS 2012.2 and does not discuss remote working practices, challenges, or solutions within an Agile framework.",
     "level": "Ignored"
   },
@@ -1216,13 +1066,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T18:01:47",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on troubleshooting issues related to configuring Test Plans in TFS 2012.2, providing specific workarounds and solutions for common problems encountered. It discusses the need for exact matches in configurations and offers detailed steps to resolve visibility issues of Test Plans, which aligns well with the troubleshooting category. The depth of discussion is substantial, with multiple examples and potential pitfalls highlighted, indicating a strong focus on problem identification and resolution.",
     "level": "Secondary"
   },
@@ -1237,13 +1087,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T18:53:55",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, with no direct discussion of the Scrum Master role or responsibilities. While it mentions teams, it does not align with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles. The depth of discussion is technical and specific to TFS, lacking any connection to Scrum practices or the influence of a Scrum Master.",
     "level": "Ignored"
   },
@@ -1258,23 +1108,11 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on configuring Test Plans in TFS 2012.2 without discussing working agreements or norms for teamwork and collaboration.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T05:12:10",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, which is relevant to software developers but lacks a direct discussion on Agile or DevOps methodologies. While it touches on team configurations and the implications for test management, it does not delve into best practices or principles of Agile or DevOps, making it more of a technical guide than a discussion on the role of software developers within those frameworks.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1288,13 +1126,13 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T05:12:16",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, which is more about tool usage than core engineering practices. While it touches on aspects of test management, it lacks a strong emphasis on clean code, TDD, CI/CD, or other Agile engineering principles. The discussion is more technical and procedural, with limited depth on Agile methodologies or practices that enhance collaboration and adaptability.",
     "level": "Ignored"
   },
@@ -1309,46 +1147,46 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on configuring Test Plans in TFS and does not discuss Sprint Reviews or their purpose within the Scrum framework.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical implementation details related to configuring Test Plans in TFS 2012.2, rather than focusing on strategic aspects of product management or product success methodologies.",
     "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on configuring test plans in TFS 2012.2 and does not discuss self-organisation principles or practices.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on configuring test plans in TFS 2012.2 and does not discuss Agile frameworks or their principles; it lacks relevance to Agile practices.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical configuration of Test Plans in TFS 2012.2 rather than Agile Strategy concepts.",
     "level": "Ignored"
   },
@@ -1372,10 +1210,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring Test Plans in TFS 2012.2 and does not address Lean principles, waste reduction, or product development efficiency.",
     "level": "Ignored"
   },
@@ -1397,15 +1235,6 @@
     "reasoning": "Content primarily focuses on configuring test plans in TFS, with no clear discussions on accountability, ownership, or team dynamics related to Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T19:44:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on configuring Test Plans in TFS, discussing specific features and workarounds rather than Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T19:44:33",
@@ -1417,10 +1246,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T19:44:33",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the configuration and management of Test Plans in TFS 2012.2 without any clear focus on the principles or practices of Test Driven Development.",
     "level": "Ignored"
   },
@@ -1435,13 +1264,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:32:07",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, which is a technical guide rather than a discussion on social technologies. While it mentions team dynamics and configurations, it lacks a clear focus on collaboration, decision-making, or value delivery principles central to social technologies. The depth of discussion is also limited to technical configurations without exploring the underlying social frameworks or methodologies.",
     "level": "Ignored"
   },
@@ -1465,73 +1294,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T05:11:50",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 50,
-    "final_score": 18.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, with only brief mentions of teams and their configurations. While it touches on aspects relevant to team dynamics, it lacks a comprehensive discussion of Scrum principles, roles, events, or artifacts. The connection to Scrum is minimal and does not delve into the core themes of the Scrum framework.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:22:59",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on configuring test plans in TFS 2012.2, with no explicit discussion of integrating testing or security earlier in the development lifecycle. While it touches on testing processes, it lacks a clear connection to the Shift-Left Strategy principles, benefits, or methodologies.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T07:51:11",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, with no explicit discussion on Continuous Improvement principles. While it touches on aspects of team configuration and process optimisation, it lacks a clear commitment to ongoing reflection, adaptation, or empirical evidence-driven enhancements. The discussion is more technical and procedural rather than aligned with the philosophies of Continuous Improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T07:51:13",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on team configurations, it lacks depth in connecting these configurations to shared objectives or strategic alignment, which are central to the concept of Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T07:51:16",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, which is more about technical implementation than discussions on competence. While there are brief mentions of team dynamics and the need for proper configuration, it lacks a strong emphasis on continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T18:53:50",
+    "calculated_at": "2025-04-10T15:55:16",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, with no explicit discussion of Agentic Agility or its principles. While it touches on team configurations and workflows, it lacks depth in exploring intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities. Overall, it does not align with the core themes of Agentic Agility.",
     "level": "Ignored"
   }

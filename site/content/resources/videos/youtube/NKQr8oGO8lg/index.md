@@ -28,7 +28,6 @@ isShort: false
 tags:
 - Continuous Learning
 - Value Delivery
-- Coaching
 sitemap:
   filename: sitemap.xml
   priority: 0.6

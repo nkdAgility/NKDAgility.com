@@ -1,51 +1,51 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:10:12",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on DevOps as a process and its importance in software engineering, which is more technical than social. While it briefly mentions collaboration and feedback loops, it lacks a detailed discussion on self-organisation, collective intelligence, or transparency, which are core themes of social technologies. The depth of discussion is limited, focusing more on the mechanics of DevOps rather than the social frameworks that underpin effective collaboration and decision-making.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T13:51:03",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses DevOps as a critical element in software engineering, which aligns with the principles of continuous delivery and the promotion of high standards in software craftsmanship. However, it lacks explicit mentions of specific engineering practices, coding standards, or quality assurance methodologies. The discussion is somewhat superficial, focusing more on the concept of DevOps rather than delving into detailed engineering excellence practices.",
     "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T19:32:48",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 50,
-    "final_score": 75.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly discusses DevOps as a critical element in software engineering, highlighting its role in continuous delivery and the importance of feedback loops. It aligns well with the core themes of DevOps, such as collaboration and the integration of processes and practices. However, while it provides a good overview, it lacks in-depth exploration of specific DevOps principles or practices, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T14:18:45",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content briefly touches on the importance of DevOps in delivering value to customers and mentions strategies for getting products in front of customers quickly. However, it lacks a detailed discussion on product management methodologies, frameworks, or the strategic alignment of customer needs and business objectives, which are core to the category. The focus is more on DevOps practices rather than product management itself.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -58,13 +58,13 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-14T23:36:01",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the importance of delivering value to customers and obtaining feedback, which aligns with the principles of business agility. However, it primarily focuses on DevOps practices rather than a comprehensive discussion on business agility itself. The mention of strategies for getting products to customers quickly hints at agility but lacks depth and direct references to the broader concepts of business agility.",
     "level": "Ignored"
   },
@@ -97,32 +97,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T19:33:12",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on DevOps and its role in software engineering, with no direct mention of Evidence-Based Management principles or metrics. While it discusses value delivery and customer feedback, it does not provide empirical evidence or data-informed decision-making, which are central to EBM. The discussion lacks depth regarding the specific themes outlined in the EBM category.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T22:16:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses DevOps processes and practices, which are not directly related to code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T22:16:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps and its role in software engineering, with no clear focus on Kanban principles or scaling practices.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -154,10 +136,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T22:16:06",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps and its role in software engineering, with no clear focus on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -168,15 +150,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of DevOps in software engineering without a focus on trend analysis or the identification of patterns and shifts within Agile or DevOps frameworks.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T22:16:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps and its role in software engineering, without a focus on scaling Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -190,15 +163,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T12:09:06",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses DevOps as a critical element in software engineering, which aligns with the integration of DevOps principles to enhance technical delivery. However, it lacks explicit mentions of best practices, clean code principles, or detailed methodologies that contribute to software craftsmanship. The discussion is somewhat superficial, focusing more on the importance of DevOps rather than delving into technical mastery aspects.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -229,10 +202,10 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T22:16:21",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps processes and practices, not focusing on collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
@@ -247,48 +220,27 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-10T14:18:47",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of DevOps in the context of delivering value to customers, which aligns with the core themes of product delivery. However, it primarily focuses on DevOps rather than the broader methodologies and practices involved in the entire product delivery process. While it touches on strategies for getting products to customers quickly, it lacks detailed exploration of other key aspects such as planning, testing, and deployment, which limits its depth of discussion.",
     "level": "Secondary"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T22:16:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps processes and practices without a focus on AI integration or its applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-14T23:36:01",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses DevOps as a critical element in software engineering, highlighting its role in continuous delivery and customer feedback. However, it lacks explicit references to digital transformation as a primary focus. While it touches on themes of agility and value delivery, it does not delve deeply into the strategic adoption of digital technologies or provide detailed insights into digital transformation initiatives, making it more of a secondary mention rather than a primary discussion.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-14T23:36:01",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content briefly mentions DevOps as a process that enables continuous delivery, which aligns with the category's focus on methodologies. However, it lacks a detailed discussion on team dynamics, leadership, or human factors, which are crucial for a higher confidence score. The mention of strategies for getting products to customers hints at a process improvement aspect but does not delve deeply into the interplay between people and processes.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -297,15 +249,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps and its role in software engineering, with no focus on Test Driven Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T22:16:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps and its role in software engineering, with no clear focus on Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -326,24 +269,15 @@
     "reasoning": "Content primarily discusses DevOps and its role in software engineering, without a focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T22:16:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses DevOps and its role in software engineering, without a clear focus on transparency or accountability.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-11T11:34:58",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 55.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 50.0,
+    "final_score": 55.0,
     "reasoning": "The content briefly mentions continuous delivery, which is a key aspect of release management, but it does not explicitly discuss release planning, scheduling, or coordination among stakeholders. The focus is more on DevOps as a whole rather than the specific practices of release management, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
@@ -367,22 +301,22 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-14T23:36:01",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses DevOps as a critical element in software engineering, which is tangentially related to technical leadership but does not explicitly focus on guiding development teams or agile best practices. While it mentions the importance of feedback loops and continuous delivery, it lacks depth in discussing how technical leadership influences these areas. The mention of Agile and Scrum is brief and does not delve into the principles of servant leadership or mentoring, which are core to the category.",
     "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T22:16:48",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps processes and practices, not Agile Planning Tools.",
     "level": "Ignored"
   },
@@ -409,10 +343,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T22:16:51",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps processes and practices rather than Agile values and principles.",
     "level": "Ignored"
   },
@@ -427,13 +361,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:51:20",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on DevOps and its role in software engineering, with no direct mention or discussion of Test First Development principles. While it touches on concepts like continuous delivery and feedback loops, these are not specifically tied to Test First practices, resulting in a very low confidence score.",
     "level": "Ignored"
   },
@@ -493,13 +427,13 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-14T23:36:01",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses DevOps as a critical element in software engineering, highlighting its role in delivering value and facilitating feedback loops. However, it lacks a direct focus on the Ability to Innovate category, as it primarily centres on DevOps practices without delving into frameworks, metrics, or Evidence-Based Management principles that are essential for measuring and enhancing innovation capabilities.",
     "level": "Ignored"
   },
@@ -514,15 +448,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-14T23:36:01",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses DevOps, which is related to engineering practices, particularly in the context of continuous delivery and collaboration. However, it lacks a direct focus on the core principles of Agile engineering practices such as clean code, TDD, or CI/CD in detail. The mention of Agile and Scrum is brief and does not delve into their methodologies or practices, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -542,39 +476,21 @@
     "reasoning": "Content heavily discusses DevOps practices and their importance in software engineering, with no clear focus on Scrum Values.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T22:17:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses DevOps processes and practices without a clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T22:17:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of DevOps in software engineering without delving into specific tools, methodologies, or practical techniques for implementation.",
-    "level": "Ignored"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-17T22:17:13",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps and its role in software engineering, with no clear focus on Value Stream Mapping or related Lean principles.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T22:17:14",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps and its role in software engineering, with no clear focus on the Product Backlog or its management.",
     "level": "Ignored"
   },
@@ -585,15 +501,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of DevOps in software engineering without personal reflections or experiences.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T22:17:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of DevOps in software engineering without reference to specific events, presentations, or discussions related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -607,13 +514,13 @@
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-03-14T23:36:01",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on DevOps and its role in software engineering, with no explicit discussion of market share strategies or methodologies. While it touches on customer feedback and product delivery, these points are not directly related to increasing market share or competitive advantage, which are the core themes of the category. Overall, the content lacks depth and direct relevance to market share.",
     "level": "Ignored"
   },
@@ -624,15 +531,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps and its role in software engineering, without a clear focus on Scrum Team dynamics or roles.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T22:17:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps and its role in software engineering, without a clear focus on scaling agile practices or frameworks.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -646,37 +544,37 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-03-14T23:36:01",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses DevOps and its role in delivering value to customers, which is tangentially related to customer retention. However, it lacks explicit focus on customer retention strategies, metrics, or user engagement techniques. The mention of feedback loops is relevant but not explored in depth, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T19:33:05",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses DevOps, which is closely related to Continuous Delivery, but it does not explicitly focus on Continuous Delivery principles or practices. While it mentions the importance of delivering value and feedback loops, it lacks detailed exploration of Continuous Delivery techniques, automation, or cultural aspects. The primary focus is on DevOps rather than Continuous Delivery itself.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-03-14T23:36:04",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses DevOps and its role in delivering value to customers, which touches on customer satisfaction. However, it lacks explicit discussions on measuring customer satisfaction, customer feedback, or strategies for enhancing customer engagement. The focus is more on the processes and practices of DevOps rather than a comprehensive exploration of customer satisfaction principles.",
     "level": "Ignored"
   },
@@ -716,7 +614,7 @@
     "reasoning": "Content primarily discusses DevOps and its importance in software engineering, with no clear focus on Daily Scrum or related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T22:17:38",
     "ai_confidence": 0,
@@ -734,18 +632,6 @@
     "reasoning": "Content primarily discusses DevOps practices and strategies, with no focus on the Windows operating system or its related topics.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-14T23:36:06",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses DevOps and its role in software engineering, highlighting the importance of feedback loops and continuous delivery. However, it primarily focuses on the mechanics of DevOps rather than exploring methodologies for fostering innovation or learning. While there are mentions of iteration and feedback, the depth of discussion on discovery and learning processes is limited, making it a secondary focus rather than a primary one.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T22:17:42",
@@ -757,13 +643,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T19:33:02",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on DevOps and its role in software engineering, with only a brief mention of Agile and Scrum. While it touches on concepts like continuous delivery and customer feedback, it does not delve into the principles or practices of the Agile Product Operating Model, making it more aligned with general software engineering discussions rather than the specific category of APOM.",
     "level": "Ignored"
   },
@@ -787,15 +673,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-14T23:36:10",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 67.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses DevOps as a critical element in software engineering, highlighting its role in enabling continuous delivery and swift product deployment, which aligns with market adaptability principles. However, while it mentions Agile and the importance of feedback loops, it lacks in-depth exploration of specific strategies or methodologies that enhance market responsiveness, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -817,13 +703,13 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-03-14T23:36:13",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions the concept of a feedback loop in the context of DevOps but does not delve into the mechanisms or practices of customer feedback integration. The primary focus is on DevOps as a whole rather than specifically on customer feedback loops, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -838,13 +724,13 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-14T23:36:15",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses DevOps and its role in software engineering, highlighting the importance of feedback loops and continuous delivery. However, it lacks explicit discussions on metrics, data analysis, or evidence-based decision-making, which are central to the 'Metrics and Learning' category. The focus is more on the general principles of DevOps rather than a detailed exploration of metrics and learning methodologies.",
     "level": "Ignored"
   },
@@ -859,10 +745,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T22:18:04",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps and its role in continuous delivery, rather than focusing on Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -873,15 +759,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps processes and practices, with no focus on mentoring or coaching in Agile environments.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T22:18:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses DevOps and its role in software engineering, without a clear focus on AI or automation within Agile frameworks.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -895,37 +772,37 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-14T23:36:18",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 50,
-    "final_score": 43.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses DevOps as a critical element in software engineering, highlighting its role in continuous delivery and customer feedback. However, it lacks a focused discussion on strategic alignment with Agile or Scrum principles, which is essential for a higher confidence score in the Strategy category. The mention of Agile and Scrum is brief and does not delve into strategic approaches or techniques for optimising delivery, which are key topics in the Strategy category.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-14T23:36:20",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses DevOps as a critical element in software engineering, highlighting its role in continuous delivery and the connection between ideas and implementation. However, it lacks specific techniques or strategies for operational efficiency, focusing more on the concept of DevOps rather than practical applications or metrics. The mention of Agile and Scrum is brief and does not delve into operational practices, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-14T23:36:22",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on DevOps, discussing its role in software engineering and continuous delivery. While it briefly mentions Agile and Scrum, these references are secondary and do not delve into the underlying Agile philosophy. The discussion lacks depth regarding Agile principles, customer collaboration, or adaptability, which are central to the Agile Philosophy category.",
     "level": "Ignored"
   },
@@ -949,22 +826,22 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-14T23:36:24",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses DevOps as a critical element in software engineering, highlighting its role in continuous delivery and the importance of feedback loops. However, it lacks specific discussions on frequent releases, such as metrics, best practices, or case studies. The focus is more on the general principles of DevOps rather than the specific category of Frequent Releases.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T22:18:18",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps processes and practices without a clear focus on Continuous Learning principles or team improvement.",
     "level": "Ignored"
   },
@@ -997,10 +874,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T22:18:25",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on DevOps practices rather than Agile Product Management principles or methodologies.",
     "level": "Ignored"
   },
@@ -1015,20 +892,11 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T22:18:27",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses DevOps and its role in software engineering, rather than focusing on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T22:18:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps and its role in software engineering, with no clear focus on Scaling Scrum principles or practices.",
+    "reasoning": "Content primarily discusses DevOps and its role in software engineering, rather than focusing on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
@@ -1038,15 +906,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on DevOps processes and tools without addressing the interplay between social and technical systems or organisational context.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T22:18:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the importance of DevOps in software engineering rather than specific products or literature related to Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
@@ -1060,32 +919,35 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T22:18:33",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps and its role in software engineering, without a clear focus on Continuous Integration principles or practices.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-14T23:36:27",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses DevOps as a critical element in software engineering, highlighting its practical applications and the importance of continuous delivery. While it mentions Agile and Scrum, the focus is primarily on DevOps without delving deeply into specific pragmatic strategies or real-world applications within Agile or Scrum contexts. The discussion is somewhat aligned with the core themes of pragmatic thinking, particularly in terms of practical problem-solving and enhancing collaboration, but lacks detailed exploration of techniques or case studies.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T22:18:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:38:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps and its role in delivering value, without a clear focus on Lead Time as a measurement or metric.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of DevOps in software engineering, discussing its role in continuous delivery and the connection between ideas and implementation. However, it does not explicitly mention Lead Time or its significance as an observability metric. The discussion lacks depth regarding Lead Time, its measurement, or strategies for optimisation, which are crucial for alignment with the category. Overall, while there are tangential references to speed and efficiency, they do not directly address Lead Time, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1099,15 +961,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-14T23:36:29",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses DevOps as a critical element in software engineering, highlighting its role in continuous delivery and customer feedback. However, it lacks a direct focus on the characteristics of working software itself and does not delve deeply into Agile or Scrum principles. While it touches on relevant themes, the primary emphasis is on DevOps rather than the delivery of functional software.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1138,27 +1000,27 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-03-14T23:36:33",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 24.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on DevOps and its role in software engineering, with only a brief mention of product delivery and customer feedback. It lacks a clear discussion on product strategy methodologies, vision formulation, or market analysis, which are essential for the category.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T23:36:35",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 82.0,
     "ai_mentions": 16,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on DevOps, which is a critical aspect of software development. It discusses the integration of processes, practices, and tools that facilitate continuous delivery, aligning well with the core themes of the Software Development category. The depth of discussion is substantial, providing insights into how DevOps acts as a unifying force in software engineering, although it could benefit from more detailed examples or methodologies. Overall, the content is highly relevant and aligns closely with the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1171,10 +1033,10 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T22:18:52",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses general DevOps principles without specific reference to Azure DevOps services or tools.",
     "level": "Ignored"
   },
@@ -1189,13 +1051,13 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-03-14T23:36:37",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses DevOps in the context of software engineering, focusing on processes and practices rather than entrepreneurship. While it mentions value delivery to customers, it lacks a direct discussion on innovation, risk-taking, or the entrepreneurial mindset. The themes of entrepreneurship are only tangentially related, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -1208,29 +1070,17 @@
     "reasoning": "Content primarily discusses DevOps and its role in software engineering, without a clear focus on cross-functional teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-14T23:36:40",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content primarily focuses on DevOps, which is a critical aspect of software development, and mentions Agile and Scrum, indicating a connection to the role of software developers. However, while it discusses the importance of DevOps in enhancing productivity and collaboration, it lacks detailed exploration of specific Agile practices or the role of developers within those frameworks. The discussion is somewhat broad and promotional, which slightly detracts from its depth regarding the specific role of software developers.",
-    "level": "Secondary"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-03-14T23:36:43",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses DevOps and its role in delivering value to customers, which indirectly relates to deployment frequency. However, it lacks explicit focus on deployment intervals, strategies for increasing frequency, or detailed metrics. The mention of feedback loops suggests some alignment, but the overall depth and direct discussion of deployment frequency are limited.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1243,29 +1093,20 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T22:19:09",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of DevOps in software engineering rather than focusing on installation or configuration processes.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T22:19:10",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps and its role in software engineering, without a clear focus on the responsibilities or practices of a Product Owner.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T22:19:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of DevOps in software engineering without providing news, updates, or reviews related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1279,25 +1120,25 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-14T23:36:45",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses DevOps as a critical element in software engineering, highlighting its role in continuous delivery and the integration of processes and tools. However, it primarily focuses on the concept of DevOps rather than delving into specific engineering practices or methodologies that enhance technical excellence. While there are mentions of agile practices, they are not the primary focus, and the depth of discussion on technical excellence principles is limited.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-14T23:36:48",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on DevOps and its role in software engineering, which is tangentially related to Application Lifecycle Management. While it mentions processes and practices that could be part of the application lifecycle, it does not explicitly discuss the stages of the application lifecycle or provide in-depth insights into application governance, compliance, or metrics. The discussion is more centred on DevOps as a methodology rather than the comprehensive management of the application lifecycle.",
     "level": "Ignored"
   },
@@ -1339,77 +1180,74 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-03-14T23:36:50",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses DevOps and its role in software engineering, highlighting the importance of continuous delivery and feedback loops. However, it does not explicitly focus on product validation methodologies or user testing, which are central to the category. The mention of feedback loops is relevant but lacks depth in exploring how to validate product ideas through user engagement.",
     "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T22:19:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:38:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of DevOps in delivering value and obtaining customer feedback, without a clear focus on throughput measurement or optimisation.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of DevOps in software engineering, discussing its role in continuous delivery and product development. However, it does not explicitly mention throughput as a delivery metric, nor does it delve into any of the key topics related to throughput, such as calculating or visualising it. The discussion is more about the practices and philosophy of DevOps rather than analysing throughput metrics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-14T23:36:53",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses DevOps as a critical element in software engineering, highlighting its role in continuous delivery of value to customers. It mentions the importance of feedback loops and the connection between ideas and implementation, which aligns with the core themes of value delivery. However, the discussion lacks depth in specific methodologies or strategies related to Agile or Scrum, and it does not provide detailed techniques for measuring or maximising customer value.",
     "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T22:19:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:38:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps processes and practices rather than system configuration.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on DevOps and its role in software engineering, which is not directly related to system configuration. While it mentions processes and tools, it does not delve into specific system configuration practices, techniques, or methodologies. The discussion lacks depth regarding system setup, automation, or maintenance, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-14T23:36:55",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses DevOps as a critical element in software engineering, highlighting its role in continuous delivery and the connection between development and end-users. However, it lacks specific methodologies or practices related to deployment strategies, such as Blue-Green Deployments or Canary Releases. The focus is more on the overarching concept of DevOps rather than actionable insights into deployment strategies, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-03-14T23:36:57",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on DevOps and its role in software engineering, with only a brief mention of customer feedback loops. It does not delve into methodologies for product discovery, user research, or defining product features, which are central to the category.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T22:19:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses DevOps and its role in software engineering, with only a brief mention of customer feedback and product delivery, which are not central to Scrum practices.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -1423,22 +1261,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T22:19:35",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps and its role in software engineering, with no clear focus on the Definition of Done.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-14T23:36:59",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses DevOps and its role in software engineering, with only a brief mention of Agile and Scrum. While it touches on continuous delivery and customer feedback, which are relevant to Agile principles, it lacks a focused discussion on Agile strategy itself. The depth of discussion on Agile concepts is minimal, making it more of a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
@@ -1453,25 +1291,25 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-03-14T23:37:02",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses DevOps as a critical element in software engineering, focusing on its processes and practices rather than explicitly addressing long-term strategic goals or business agility. While it mentions the importance of feedback loops and continuous delivery, it lacks a clear connection to strategic objectives or frameworks for measuring them. The discussion is more operational and tactical, with minimal depth on strategic alignment.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-14T23:37:04",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 52.0,
     "ai_mentions": 30.0,
     "ai_alignment": 40.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 47.0,
+    "final_score": 52.0,
     "reasoning": "The content discusses DevOps as a critical element in software engineering, highlighting its role in continuous delivery and customer feedback, which aligns with the principles of organisational agility. However, it primarily focuses on DevOps rather than explicitly addressing organisational agility as a primary topic. The mention of Agile and Scrum is brief and serves more as a promotional element rather than a deep exploration of agility principles.",
     "level": "Tertiary"
   },
@@ -1486,13 +1324,13 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-03-14T23:37:06",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses DevOps and its role in software engineering, with only a brief mention of feedback loops, which is a concept relevant to Lean Startup. However, it lacks a focus on Lean principles, MVPs, or the Build-Measure-Learn cycle, making it largely unrelated to the Lean Startup category.",
     "level": "Ignored"
   },
@@ -1516,61 +1354,61 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:22:18",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily discusses DevOps, which is unrelated to Scrum principles and practices. There are no direct mentions of Scrum roles, events, or artifacts, and the focus is on continuous delivery rather than iterative progress or team dynamics associated with Scrum.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:01:38",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 24.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses DevOps and its role in software engineering, with only a brief mention of feedback loops, which is a peripheral aspect of the Shift-Left Strategy. There is no explicit discussion of integrating testing, security, or compliance early in the development process, nor does it provide depth on the principles or techniques of the Shift-Left approach.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T19:32:50",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on DevOps and its role in software engineering, with only brief mentions of concepts related to Continuous Improvement, such as feedback loops and iteration. However, it lacks a detailed discussion on Continuous Improvement principles, empirical evidence, or specific strategies for fostering a culture of experimentation, which are central to the category.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T19:32:54",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the importance of DevOps in software engineering, focusing on its role in continuous delivery and product development. While it touches on Agile and Scrum, it does not explicitly address Common Goals or their significance in aligning strategy with execution. The discussion lacks depth regarding shared objectives or frameworks like OKRs, which are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T19:32:56",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses DevOps as a critical element in software engineering, highlighting its role in delivering value and facilitating feedback loops. However, it lacks direct mentions of competence as a foundational principle and does not delve into continuous learning or skill development, which are key aspects of the category. The focus is more on the processes and tools of DevOps rather than on the development of competence within teams.",
     "level": "Ignored"
   },
@@ -1588,14 +1426,170 @@
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:51:15",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on DevOps and its role in software engineering, with no explicit discussion of Agentic Agility. While it touches on concepts of value delivery and feedback loops, it does not delve into the intentional shaping of outcomes or the distinction between human and AI capabilities, which are central to Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T11:37:57",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": 0,
+    "final_score": 68.0,
+    "reasoning": "The content discusses DevOps as a critical element in software engineering, highlighting its role in delivering value to customers and facilitating feedback loops. While it mentions Agile and Scrum, the primary focus is on DevOps rather than a comprehensive exploration of product development methodologies. The discussion aligns with some core themes of product development, such as iterative processes and customer feedback, but lacks depth in covering broader product development practices. Overall, it provides a moderate level of detail, justifying a confidence score that reflects its relevance to the category without being fully aligned.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T11:37:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on DevOps and its importance in software engineering, with only a brief mention of Agile and Scrum. It does not discuss Open Space Agile principles, psychological safety, or collaborative change processes, which are central to the category. The lack of direct references and minimal alignment with the core themes results in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T11:38:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on DevOps and its role in software engineering, with only a brief mention of Agile and Scrum. It does not discuss the principles of Agnostic Agile or provide any substantial insights into its philosophy. The discussion lacks depth regarding the core themes of Agnostic Agile, such as ethical considerations or the importance of context-driven agility.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T11:38:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on DevOps and its role in software engineering, without addressing the specific complexities and strategies involved in scaling Agile practices. While it mentions Agile and Scrum, these references are not central to the discussion and do not explore scaling methodologies or frameworks. The content lacks depth in discussing scaling concepts, making it largely irrelevant to the 'Scaling' category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T11:38:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on DevOps and its role in software engineering, with no direct mentions or discussions related to Cell Structure Design. While it touches on themes of collaboration and responsiveness, these are not aligned with the core principles of the Beta Codex or the characteristics of autonomous cells. The depth of discussion is also minimal, as it does not explore any relevant concepts or comparisons to traditional hierarchical models.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T11:38:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on DevOps and its role in software engineering, with no direct mention of Liberating Structures or their facilitation techniques. While it briefly touches on Agile and Scrum, it does not explore the principles or specific methods associated with Liberating Structures, nor does it discuss group dynamics or collaborative techniques. Therefore, the alignment and depth of discussion regarding Liberating Structures are minimal.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T11:38:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses DevOps and its role in delivering value to customers, which is tangentially related to Time to Market. However, it lacks explicit metrics or detailed strategies for improving Time to Market. The focus is more on the general benefits of DevOps rather than a thorough exploration of Time to Market concepts.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T11:38:15",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on DevOps within the context of software engineering, discussing its role in delivering client solutions and facilitating continuous delivery. While it touches on concepts like customer feedback and agile practices, it does not explicitly address the principles of treating the organisation as a product or the broader implications of CaaP. The discussion lacks depth regarding organisational design or customer-centric strategies, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T11:38:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses DevOps and its importance in software engineering without any direct mention of GitHub or its specific functionalities. While it touches on concepts related to Agile and Scrum, it does not provide insights into GitHub services, tools, or best practices. The discussion lacks depth regarding GitHub, making it unsuitable for the GitHub category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T11:38:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of DevOps in software engineering, discussing its role in continuous delivery and customer feedback. However, it does not explicitly mention or explore the concept of Unrealised Value or its indicators, strategies, or frameworks. The discussion is more about operational practices rather than potential improvements or untapped opportunities, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T11:38:23",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the role of DevOps in software engineering, focusing on its processes and practices. While it mentions delivering value to customers, it does not explicitly address Current Value as defined in Evidence-Based Management. The discussion lacks specific metrics or techniques for measuring Current Value, and there is minimal depth regarding its application in decision-making or prioritisation. Overall, the content is more about the importance of DevOps rather than a focused exploration of Current Value.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T11:38:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on DevOps and its importance in software engineering, with only a brief mention of Agile and Scrum. There is no critical examination of Hybrid Agile or its challenges, nor does it discuss the integration of traditional methodologies with agile practices. The discussion lacks depth and does not align with the core themes of the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T11:38:28",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on DevOps and its role in software engineering, with only a brief mention of Agile and Scrum. While it touches on concepts related to project delivery and customer feedback, it lacks a comprehensive discussion of project management principles, methodologies, or lifecycle phases. The emphasis is more on DevOps practices rather than broader project management strategies.",
     "level": "Ignored"
   }
 }

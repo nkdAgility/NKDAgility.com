@@ -2,7 +2,7 @@
 title: Is Your Scrum Master Struggling? Discover When to Choose an Agile Process Simulation Workshop
 description: Is your Scrum Master struggling with team dynamics? Discover how an Agile Process Simulation workshop can empower your team and enhance collaboration.
 date: 2023-04-05T07:00:03Z
-weight: 675
+weight: 640
 ResourceId: 76mGfF0KoD0
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -25,16 +25,20 @@ preview: https://i.ytimg.com/vi/76mGfF0KoD0/maxresdefault.jpg
 duration: 376
 isShort: false
 tags:
-- Scrum Master
-- Agile Project Management
 - Software Development
+- Scrum Master
 - Scrum Team
-- Coaching
 - Team Performance
-- People and Process
 - Agile Frameworks
 - Agile Product Management
 - Agile Transformation
+- Agile Leadership
+- Coaching
+- Professional Scrum
+- Social Technologies
+- Team Collaboration
+- Team Motivation
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,8 +47,8 @@ layout: video
 resourceTypes:
 - video
 categories:
+- Product Development
 - Scrum
-- Social Technologies
 
 ---
 When it comes to the role of a Scrum Master, I often find myself reflecting on the dynamics within a team. Recently, I was asked whether I would recommend an Agile Process Simulation (APS) workshop or an agile consultant if a Scrum Master was struggling with their team. My immediate thought was, “Perhaps we need to consider a new Scrum Master.” After all, if a Scrum Master is battling with their team, it raises some serious questions about their effectiveness and understanding of their role.

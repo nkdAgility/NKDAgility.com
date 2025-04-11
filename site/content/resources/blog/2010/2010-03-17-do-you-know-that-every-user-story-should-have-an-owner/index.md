@@ -9,7 +9,7 @@ ResourceImportId: 61
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-17
-weight: 810
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,11 +28,8 @@ aliasesArchive:
 - /blog/do-you-know-that-every-user-story-should-have-an-owner-
 - /resources/blog/do-you-know-that-every-user-story-should-have-an-owner
 tags:
-- People and Process
 - Software Development
-- Agile Project Management
-categories:
-- Scrum
+categories: []
 preview: metro-SSWLogo-128-link-4-4.png
 
 ---

@@ -26,9 +26,7 @@ duration: 2399
 isShort: false
 tags:
 - Azure DevOps
-- Practical Techniques and Tooling
 - Install and Configuration
-- Products and Books
 - Software Development
 sitemap:
   filename: sitemap.xml
@@ -36,8 +34,7 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories:
-- DevOps
+categories: []
 
 ---
 As many of you know, I’m Martin Hinshelwood, and I’ve dedicated a significant portion of my career to developing tools that facilitate seamless migrations within Azure DevOps. Today, I want to share my insights and experiences with the Azure DevOps Migration Tools, which you can find on the Visual Studio Marketplace. With over 50,000 migration sessions per month and a staggering 340,000 work items migrated in just the last 30 days, it’s clear that these tools are making a substantial impact.

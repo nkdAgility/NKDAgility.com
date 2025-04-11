@@ -29,8 +29,7 @@ aliasesArchive:
 - /resources/blog/developer-day-scotland-2
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
-tags:
-- Events and Presentations
+tags: []
 
 ---
 [![](images/GetReady1-large.png)](http://developerdayscotland.com/main/Default.aspx) Its the main event tomorrow...

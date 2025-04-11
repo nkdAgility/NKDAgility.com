@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: course
 ResourceContentOrigin: human
 shortTitle: Professional Scrum Master
-weight: 405
+weight: 350
 date: 2017-01-01
 creator: Martin Hinshelwood
 type: course
@@ -41,18 +41,29 @@ delivery-audiences:
 - Lean Agile Practitioners
 delivery-audiences_weight: 100
 tags:
-- Agile Project Management
 - Scrum Master
-- Transparency
-- Agile Product Management
-- Definition of Done
-- People and Process
-- Practical Techniques and Tooling
-- Scrum Product Development
+- Agile Frameworks
 - Agile Leadership
 - Agile Planning
+- Agile Product Management
+- Agile Transformation
+- Coaching
+- Complexity Thinking
+- Continuous Learning
+- Definition of Done
+- Empirical Process Control
+- Operational Practices
+- Organisational Agility
+- Pragmatic Thinking
+- Product Backlog
+- Product Delivery
+- Professional Scrum
+- Scrum Team
+- Self Organisation
+- Sensemaking
 categories:
 - Scrum
+- Technical Leadership
 preview: NKDAgility-Courses-PSM-16x9.svg
 card:
   title: Professional Scrum Master

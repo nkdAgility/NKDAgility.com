@@ -9,7 +9,7 @@ ResourceImportId: 8829
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-09-25
-weight: 455
+weight: 400
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,13 +27,14 @@ tags:
 - Software Development
 - Working Software
 - Product Delivery
-- Practical Techniques and Tooling
-- Windows
 - Pragmatic Thinking
 - Technical Mastery
+- Azure DevOps
 - Application Lifecycle Management
-- Software Developers
-- Products and Books
+- Technical Excellence
+- Windows
+- Engineering Practices
+- Operational Practices
 categories:
 - Engineering Excellence
 preview: metro-test-icon-7-7.png

@@ -2,7 +2,7 @@
 title: 'Unlocking the Product Owner Potential: Bridging Theory and Practice in Agile Leadership'
 description: Unlock the potential of the Product Owner role! Discover how immersive learning bridges theory and practice, empowering you to drive real change in your organisation.
 date: 2023-06-09T07:00:27Z
-weight: 805
+weight: 790
 ResourceId: vQBYdfLwJ3g
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -27,12 +27,9 @@ duration: 268
 isShort: false
 tags:
 - Agile Product Management
-- People and Process
-- Agile Project Management
-- Product Owner
-- Discovery and Learning
 - Organisational Agility
 - Pragmatic Thinking
+- Product Owner
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -40,8 +37,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
-- Leadership
 
 ---
 As I reflect on the immersive learning experience of the Product Owner (PO) role, I can't help but feel that it’s a perfect fit for the eight-week programme. Why? Because there’s a significant disconnect between how we teach the breadth of what a product owner is and does, and what people are actually trying to achieve in their organisations. 

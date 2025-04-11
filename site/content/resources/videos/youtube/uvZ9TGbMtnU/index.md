@@ -28,14 +28,16 @@ isShort: true
 tags:
 - Agile Transformation
 - Working Software
-- Agile Project Management
+- Software Development
 - Agile Philosophy
 - Pragmatic Thinking
-- Software Developers
-- Software Development
-- Agile Values and Principles
 - Agile Planning
+- Agile Values and Principles
+- Continuous Improvement
+- Agile Strategy
 - Increment
+- Operational Practices
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,6 +45,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Product Development
 - Scrum
 
 ---

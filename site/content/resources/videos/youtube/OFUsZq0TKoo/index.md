@@ -25,16 +25,17 @@ preview: https://i.ytimg.com/vi/OFUsZq0TKoo/maxresdefault.jpg
 duration: 269
 isShort: false
 tags:
-- Discovery and Learning
+- Pragmatic Thinking
 - Product Discovery
 - Value Delivery
-- Pragmatic Thinking
-- Lean Product Development
-- People and Process
 - Organisational Agility
+- Lean Product Development
+- Continuous Improvement
 - Continuous Learning
 - Hypothesis Driven Development
+- Lean Principles
 - Agile Product Management
+- Evidence Based Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,6 +43,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

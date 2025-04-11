@@ -9,7 +9,7 @@ ResourceImportId: 35
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-07-05
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,9 +25,8 @@ aliasesArchive:
 - /resources/blog/changing-the-team-project-collection-of-the-team-build-controller
 tags:
 - Install and Configuration
-- System Configuration
 - Software Development
-- Practical Techniques and Tooling
+- System Configuration
 - Azure DevOps
 preview: metro-SSWLogo-128-link-6-6.png
 categories: []

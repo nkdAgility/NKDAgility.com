@@ -10,19 +10,19 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T14:55:09",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile principles and the concept of 'just enough' without a focus on metrics, data utilisation, or learning mechanisms.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T14:55:10",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and the philosophy of 'just enough' rather than installation or configuration processes.",
     "level": "Ignored"
   },
@@ -46,25 +46,25 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T18:12:47",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses agile practices and the 'just enough' philosophy without explicitly addressing Evidence-Based Management principles. While it touches on concepts like value delivery and efficiency, it lacks direct references to empirical decision-making or the specific metrics outlined in the EBM category. The focus remains on general agile methodologies rather than a data-informed approach to management.",
     "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-06T15:01:47",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content includes a personal anecdote about a conversation with Ken, which directly relates to the author's individual experience with Agile principles. This aligns well with the Personal category as it reflects on the author's insights regarding efficiency in Agile practices. The mention of the Agile Manifesto further supports the conceptual alignment, although the depth of discussion could be enhanced with more personal reflections or challenges faced in applying these principles.",
     "level": "Secondary"
   },
@@ -77,47 +77,17 @@
     "reasoning": "Content heavily discusses Agile principles and practices, particularly the concept of 'just enough' without addressing Systems Thinking or its core principles.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T14:55:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile principles and efficiency, with no clear focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T14:55:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of 'just enough' in Agile practices, focusing on efficiency rather than transparency or accountability.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-14T20:36:56",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses Agile principles, particularly the idea of 'just enough and no more,' which aligns with the concept of minimising effort and maximising efficiency. However, it lacks explicit references to market adaptability strategies, such as responsiveness to market shifts or the role of feedback loops. The discussion is somewhat relevant but does not delve deeply into how these Agile principles specifically enhance market adaptability.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-10T11:52:16",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses Agile principles, particularly the idea of 'just enough and no more,' which relates to team dynamics and process efficiency. However, it lacks explicit references to team collaboration or leadership roles, making it a secondary focus rather than a primary discussion on people and process.",
-    "level": "Secondary"
+    "level": "Tertiary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -137,26 +107,17 @@
     "reasoning": "Content heavily discusses Agile principles and references the Agile Manifesto, making it primarily about Agile methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T14:55:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile principles and personal reflections rather than industry news or reviews.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-10T14:06:38",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the principle of 'just enough and no more,' which aligns with the Agile philosophy of minimising waste and maximising efficiency. However, it lacks explicit discussions on value delivery strategies, customer alignment, or methodologies like CI/CD. The focus is more on personal reflections rather than structured value delivery practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -178,24 +139,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-10T18:02:18",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the Agile principle of 'just enough and no more,' which aligns with the concept of maximising efficiency and minimising unnecessary work. However, it lacks explicit mentions of key Agile Product Management topics such as the role of the Product Owner, backlog prioritisation, or stakeholder engagement. The discussion is somewhat abstract and does not delve deeply into practical applications or strategies within Agile Product Management.",
     "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T14:55:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Agile principles and practices, focusing on efficiency rather than organisational resilience or change management.",
-    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -208,24 +160,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-11T10:00:49",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the Agile principle of 'just enough and no more', which aligns with the concept of minimising effort and maximising efficiency. However, it lacks direct mentions of broader organisational agility strategies, leadership roles, or cultural shifts. The discussion is somewhat superficial, focusing primarily on a single Agile principle without exploring its implications for organisational adaptability or responsiveness.",
     "level": "Secondary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T14:55:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Agile principles and practices without any mention of AI or automation.",
-    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -238,15 +181,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:59:43",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Agile practices and the principle of 'just enough and no more', which relates to optimising processes and enhancing productivity. However, it lacks explicit discussions on self-organisation, collaboration, or collective intelligence, which are core themes of Social Technologies. The focus is more on individual practices rather than the broader social frameworks that facilitate collaboration and decision-making within teams.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -277,43 +220,25 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-14T20:36:56",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the principle of 'just enough and no more,' which aligns with the concept of efficiency and minimising waste, relevant to business agility. However, it primarily focuses on Agile principles rather than explicitly addressing broader business agility themes such as leadership, culture, or organisational structures. The discussion lacks depth in exploring how these principles apply to organisational adaptability or innovation, leading to a moderate confidence score.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T14:55:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile philosophy and principles without reference to specific tools, methodologies, or practical application.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T14:55:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile principles and personal reflections rather than specific events or presentations.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T14:28:53",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses agile methodologies and the principle of 'just enough' in the context of backlog management, team composition, and planning, which are all relevant to product delivery. It aligns well with the core themes of iterative development and prioritising features. However, while it provides practical insights, it lacks a comprehensive exploration of deployment and testing strategies, which slightly limits its depth.",
     "level": "Secondary"
   },
@@ -324,15 +249,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T14:55:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile principles and the concept of 'just enough' without focusing on specific products, books, or tools related to Agile methodologies.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -346,46 +262,37 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T18:12:42",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses agile practices and the principle of 'just enough and no more', which aligns with agile methodologies. However, it lacks a direct focus on the Agile Product Operating Model specifically, as it does not address product management principles, operational stability, or the transition from project to product ethos. The discussion is more general about agile practices rather than the specific framework of APOM.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T18:12:28",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Agile practices and the philosophy of 'just enough and no more', which is not directly related to DevOps. While there are some overlapping themes, such as efficiency and continuous improvement, the focus remains on Agile methodologies rather than the core principles of DevOps. The content lacks explicit mentions of DevOps concepts, and the depth of discussion does not sufficiently cover the necessary aspects of DevOps culture, collaboration, or automation.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T14:56:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Agile principles and efficiency without a clear focus on discovery or learning processes.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-03-11T17:31:01",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the 'just enough and no more' philosophy, which aligns with the principles of flow efficiency by emphasising the importance of minimising unnecessary work and focusing on value delivery. However, while it touches on backlog management and prioritising value, it lacks detailed techniques for identifying and eliminating bottlenecks or specific metrics for measuring flow efficiency. The discussion is relevant but not exhaustive, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -400,15 +307,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T13:15:20",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses Agile principles, particularly the concept of 'just enough and no more,' which is relevant to product management in the context of efficiency and minimising effort. However, it lacks explicit mentions of product management strategies, frameworks, or methodologies. The discussion is somewhat aligned with the core themes of product management, particularly in relation to Agile, but it does not delve deeply into the strategic aspects or provide comprehensive insights into product management practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -439,51 +346,51 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T18:12:45",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Agile practices and the philosophy of 'just enough and no more', which does not directly address Continuous Delivery principles. While there are mentions of optimising processes and enhancing productivity, these concepts are more aligned with general Agile methodologies rather than the specific practices and benefits of Continuous Delivery. The depth of discussion on Continuous Delivery is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:16:56",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the 'just enough and no more' philosophy within agile practices, focusing on optimisation and efficiency rather than the principles of Test First Development. There are no direct mentions of success criteria, testing practices, or the role of testing in development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-13T15:08:48",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the concept of 'just enough and no more' in relation to various agile practices, which directly aligns with operational efficiency. It provides detailed examples of backlog management, team composition, and refinement time, demonstrating a strong understanding of process optimisation. The emphasis on maximising work not done and embracing simplicity further supports the core themes of operational practices. Overall, the content is rich in practical applications and strategies for enhancing efficiency within Agile frameworks.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-14T20:36:56",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses Agile principles and practices, particularly the 'just enough' philosophy, which aligns with the themes of organisational change. However, it primarily focuses on efficiency and process optimisation rather than the broader strategies and frameworks for organisational transformation. While it touches on concepts relevant to agility, it lacks a direct discussion on change management methodologies or leadership roles in driving change.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -532,10 +439,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T23:35:18",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on Agile principles and practices rather than leadership roles or practices within Agile contexts.",
     "level": "Ignored"
   },
@@ -559,34 +466,37 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-03-13T16:39:25",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses backlog management and prioritisation, which are relevant to the Product Owner's role. However, it lacks direct mentions of the Product Owner and does not delve deeply into their specific responsibilities or challenges. The focus is more on general Agile principles rather than the nuances of the Product Owner's role.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T23:35:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile principles and the idea of minimalism in work quantity, without a clear focus on lead time or its measurement.",
+    "calculated_at": "2025-04-11T09:19:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of 'just enough and no more' in the context of agile practices, which indirectly relates to optimising processes and enhancing productivity. However, it does not explicitly mention Lead Time or provide a focused discussion on it as an observability metric. The themes of efficiency and process optimisation are present, but they are not specifically tied to Lead Time, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-13T15:31:29",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the 'just enough and no more' philosophy, which aligns with Agile principles and strategic optimisation of processes. It provides specific examples related to backlog management, team composition, and planning, demonstrating a clear understanding of strategic alignment within Agile frameworks. The depth of discussion is substantial, focusing on practical applications and continuous improvement, which are key aspects of strategy in Agile environments.",
     "level": "Secondary"
   },
@@ -617,15 +527,6 @@
     "reasoning": "Content primarily discusses Agile principles and efficiency, with no clear focus on coaching practices or the supportive role of a coach.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T23:35:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile principles rather than Kanban specifically, and does not focus on scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Windows": {
     "category": "Windows",
     "calculated_at": "2025-02-17T23:35:18",
@@ -637,13 +538,13 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-03-14T15:17:17",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the 'just enough and no more' philosophy, which aligns with Lean principles of waste reduction and value maximisation. However, it primarily focuses on Agile practices rather than Lean specifically. While it touches on concepts like maximising work not done and continuous improvement, the depth of discussion on Lean tools and techniques is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -748,15 +649,15 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-03-14T20:36:59",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 67.0,
     "ai_mentions": 3,
     "ai_alignment": 75.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the 'just enough and no more' philosophy, which aligns with self-organisation principles by promoting autonomy and efficiency in team processes. It mentions backlog management, team composition, and planning, which are relevant to self-organisation. However, it lacks a direct focus on self-organisation as a primary theme and does not delve deeply into leadership roles or specific techniques for fostering a self-organising culture.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -794,15 +695,6 @@
     "reasoning": "Content heavily discusses Agile principles and methodologies without a clear focus on product strategy or its frameworks.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T23:35:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on individual agile principles rather than scaling agile practices across an organization.",
-    "level": "Ignored"
-  },
   "Test Automation": {
     "category": "Test Automation",
     "calculated_at": "2025-02-17T23:35:19",
@@ -823,26 +715,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T16:16:59",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses agile practices and principles, particularly the 'just enough and no more' philosophy, which is relevant to Scrum. However, it does not explicitly mention the role of the Scrum Master or delve into specific responsibilities associated with that role. The focus is more on general agile concepts rather than the Scrum Master’s influence or techniques, leading to a moderate confidence score.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-14T20:37:10",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses agile principles and practices, particularly the 'just enough' philosophy, which aligns with Scrum's focus on efficiency and value delivery. However, it lacks direct references to specific Scrum roles, events, or detailed product development processes, which limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Sprint Review": {
@@ -881,15 +761,6 @@
     "reasoning": "Content heavily discusses Agile principles and practices, particularly focusing on efficiency and minimalism, but does not mention hypothesis formulation, experimentation, or data-driven decision-making related to product development.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T23:35:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the Agile principle of 'just enough' and optimizing efficiency, with no clear emphasis on scaled Agile practices or frameworks.",
-    "level": "Ignored"
-  },
   "Change Management": {
     "category": "Change Management",
     "calculated_at": "2025-02-17T23:35:19",
@@ -901,13 +772,13 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-03-14T20:37:13",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the 'just enough and no more' philosophy, which aligns with the Scrum value of Focus by emphasising prioritisation and efficiency. However, it does not explicitly mention Scrum Values or provide in-depth discussion on them, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -920,7 +791,7 @@
     "reasoning": "Content focuses on Agile principles and the concept of 'just enough' without discussing automated testing or its methodologies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T23:35:19",
     "ai_confidence": 0,
@@ -947,15 +818,6 @@
     "reasoning": "Content heavily discusses Agile principles and practices without any specific focus on remote working or related challenges.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T23:35:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Agile principle of 'just enough and no more' but does not focus on scaling Scrum practices or frameworks, making it not relevant to the category.",
-    "level": "Ignored"
-  },
   "Organisational Physics": {
     "category": "Organisational Physics",
     "calculated_at": "2025-02-17T23:35:19",
@@ -967,15 +829,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-14T20:37:57",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the 'just enough and no more' philosophy, which indirectly relates to throughput by emphasising efficiency and minimising unnecessary work. However, it lacks direct mentions of throughput metrics or specific techniques for measuring and optimising throughput. The focus is more on general Agile principles rather than a detailed exploration of throughput as defined in the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -997,10 +859,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T23:35:19",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the Agile principle of minimizing effort and maintaining efficiency, without directly addressing the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -1015,27 +877,27 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-03-14T20:37:19",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the concept of 'just enough' in relation to backlog management and planning, which aligns with Agile principles. However, it lacks direct mentions of specific Agile planning tools and does not delve deeply into the functionalities of such tools. The focus is more on philosophy and mindset rather than practical tools or methodologies.",
     "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-14T20:37:47",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the 'just enough and no more' philosophy, which relates to decision-making in agile practices. However, it primarily focuses on personal reflections and examples rather than structured, evidence-based methodologies. While it touches on prioritisation and efficiency, it lacks a detailed exploration of decision-making frameworks or empirical evidence, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1048,10 +910,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T23:35:19",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile practices and principles, focusing on efficiency rather than the measurement and improvement of innovation capabilities.",
     "level": "Ignored"
   },
@@ -1102,25 +964,25 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-03-14T20:37:01",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses principles of efficiency and minimising waste, which align with Lean Product Development. However, it primarily focuses on Agile practices and the 'just enough' philosophy without explicitly addressing Lean principles or techniques for waste elimination in product development.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-14T20:37:21",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the 'just enough and no more' philosophy, which aligns with Agile principles and indirectly relates to working software by emphasising efficiency and value delivery. However, it lacks direct mentions of working software characteristics and does not provide in-depth discussions on software quality or customer feedback, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1144,58 +1006,58 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-14T20:37:34",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 87.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the 'just enough and no more' mantra, which is a key aspect of Agile Philosophy, particularly in relation to maximising value and efficiency. It aligns well with core themes such as value delivery, continuous improvement, and adaptability. The depth of discussion is substantial, providing multiple examples and practical applications of the philosophy, which enhances its relevance to the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T20:37:06",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily discusses Agile methodologies, specifically the 'just enough' principle, which is a core aspect of Agile practices. It provides detailed examples of how this principle applies to backlog management, team composition, and planning, aligning well with the Software Development category. The depth of discussion on Agile principles and their practical application further supports a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-03-14T20:37:50",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses backlog management and refinement time, which are relevant to backlog refinement. However, it does not delve deeply into specific techniques or best practices for backlog refinement, nor does it focus primarily on the category. The mention of backlog management is brief and serves more as an example of the 'just enough' philosophy rather than a detailed exploration of backlog refinement itself.",
     "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-14T20:37:59",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 72.0,
     "ai_mentions": 3,
     "ai_alignment": 75.0,
     "ai_depth": 65.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the 'just enough and no more' philosophy, which aligns with Agile principles aimed at optimising team performance and productivity. It mentions team composition and backlog management, both relevant to team dynamics. However, while it touches on important aspects of Agile, it lacks detailed exploration of specific team performance metrics or methodologies, which slightly limits its depth.",
     "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T23:35:19",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of 'just enough and no more' in relation to Agile principles, but does not address the Definition of Done or its criteria directly.",
     "level": "Ignored"
   },
@@ -1206,15 +1068,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and practices, rather than Continuous Integration.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T23:35:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Agile principles and practices, but lacks any reference to AI or its application in Agile methodologies.",
     "level": "Ignored"
   },
   "Collaboration Tools": {
@@ -1228,84 +1081,63 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-14T20:37:40",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 77.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses the Agile principle of 'maximising work not done' and the mantra 'just enough and no more', which aligns closely with Agile values. It provides detailed examples of how this principle applies to backlog management, team composition, and planning, demonstrating a strong understanding of Agile's core themes. The depth of discussion is significant, as it explores practical applications and encourages a mindset of efficiency and continuous improvement, which are central to Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-14T20:37:03",
-    "ai_confidence": 82.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content extensively discusses Agile principles, particularly the 'just enough' philosophy, which is crucial for software developers. It directly addresses backlog management, team composition, and planning—all relevant to developers' roles in Agile environments. The alignment with core themes of productivity and collaboration is strong, and the depth of discussion on applying these principles in practice is substantial.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-14T20:38:02",
-    "ai_confidence": 87.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 90.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content extensively discusses agile principles, particularly the 'just enough and no more' philosophy, which aligns closely with agile values of efficiency and prioritisation. It covers backlog management, team composition, and the importance of iterative processes, all of which are key topics in Agile Project Management. The depth of discussion is significant, providing practical examples and insights that reflect a strong understanding of agile methodologies.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-14T20:37:52",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content extensively discusses the 'just enough and no more' philosophy, which aligns closely with Agile Planning principles. It addresses backlog management, team composition, and refinement time, all of which are key aspects of Agile Planning. The emphasis on maximising value and minimising unnecessary work reflects a strong conceptual alignment with Agile methodologies. The depth of discussion is significant, providing practical examples and insights into how to implement these principles effectively.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-03-14T20:37:23",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses backlog management in the context of the 'just enough' philosophy, which aligns with the principles of maintaining a healthy Product Backlog. However, it does not delve deeply into specific techniques for backlog refinement or the roles of the Product Owner, which are crucial for a comprehensive understanding of the Product Backlog. The discussion is relevant but lacks the depth and direct focus required for a higher confidence score.",
     "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T23:35:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T23:30:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and efficiency rather than system configuration topics.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses agile practices and the philosophy of 'just enough and no more', which is not directly related to system configuration. There are no explicit mentions of system configuration topics such as configuration management tools, system optimisation, or integration of hardware and software. While there are some concepts of efficiency and optimisation, they are framed within the context of agile methodologies rather than system configuration, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-03-14T20:37:37",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 42.0,
     "ai_mentions": 3,
     "ai_alignment": 35.0,
     "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the concept of 'just enough and no more', which aligns with Lean principles of minimising waste and maximising value. However, the primary focus is on Agile practices rather than Lean Thinking specifically. While there are mentions of efficiency and value, the depth of discussion on Lean-specific tools or principles is limited, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -1318,13 +1150,13 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-14T20:37:16",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the 'just enough and no more' philosophy, which is a key principle in Agile practices. It directly references Agile principles, particularly the importance of maximising work not done, and provides practical applications of this philosophy in backlog management, team composition, and planning. While it does not delve deeply into specific Agile frameworks like Scrum or Kanban, it aligns well with the core themes of Agile frameworks and offers insights into enhancing organisational agility. The depth of discussion is substantial, but it lacks a direct comparison of different Agile frameworks, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
@@ -1348,39 +1180,39 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-14T20:37:55",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses agile principles and the 'just enough' philosophy, which aligns with some aspects of technical leadership, such as fostering a culture of continuous improvement and maximising efficiency. However, it lacks direct mentions of technical leadership roles, mentoring, or specific agile practices like ceremonies. The discussion is more focused on personal reflections and general agile concepts rather than providing in-depth insights into technical leadership.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-14T20:37:42",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the 'just enough and no more' philosophy, which aligns with the principles of empirical process control by emphasising decision-making based on observed evidence and the importance of adaptation. However, it lacks direct mentions of empirical process control and does not delve deeply into specific techniques or case studies related to Agile methodologies.",
     "level": "Secondary"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-14T20:37:25",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 34,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the 'just enough and no more' philosophy, which is a practical approach to Agile practices. It provides concrete examples of backlog management, team composition, and refinement time, demonstrating a strong alignment with pragmatic problem-solving strategies. The depth of discussion is significant, as it explores how to maximise efficiency and adapt processes in real-world scenarios, making it highly relevant to the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -1411,37 +1243,37 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-14T20:37:28",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses agile principles and practices, particularly the 'just enough' philosophy, which aligns with Scrum's focus on efficiency and value delivery. However, it lacks direct references to Scrum roles, events, or artifacts, and does not delve deeply into Scrum-specific practices, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-14T20:37:32",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses Agile principles, particularly the 'just enough and no more' philosophy, which aligns with Agile values of efficiency and prioritisation. It provides detailed examples of how this principle applies to backlog management, team composition, and planning, demonstrating a strong understanding of Agile practices. The mention of the Agile Manifesto and the focus on continuous improvement further solidify its relevance to Agile transformation.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-14T20:37:08",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the 'just enough and no more' philosophy, which aligns with Agile principles of efficiency and value delivery. It touches on backlog management, team composition, and planning, all relevant to Agile strategy. However, while it provides practical examples, it lacks a broader discussion on organisational vision or strategic implementation, which limits its depth in the Agile Strategy category.",
     "level": "Secondary"
   },
@@ -1456,22 +1288,22 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-03-14T20:37:45",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 42.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the concept of 'just enough' in various agile practices, which indirectly relates to estimation by emphasising the importance of balance and efficiency in planning and backlog management. However, it lacks explicit discussions on estimation techniques or empirical data, making it a secondary focus rather than a primary one.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T23:35:19",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Agile principles and efficiency concepts but does not specifically address Cycle Time as a primary topic.",
     "level": "Ignored"
   },
@@ -1522,63 +1354,63 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:52:52",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 68.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the Agile principle of 'just enough and no more,' which aligns with Scrum's emphasis on minimising effort and maximising value. While it does not explicitly mention Scrum roles or events, it reflects the iterative and adaptive nature of Scrum practices. The depth of discussion is moderate, focusing on the Agile mindset rather than specific Scrum frameworks, which affects the overall confidence score.",
     "level": "Secondary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:50:59",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses Agile principles and the 'just enough' philosophy, which does not directly address the Shift-Left Strategy. While there are mentions of optimising processes, the focus is on Agile practices rather than integrating testing, security, or compliance earlier in the development lifecycle.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T18:12:31",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the 'just enough and no more' philosophy, which aligns with the principles of Continuous Improvement by promoting efficiency and focus. However, while it touches on aspects of optimisation and iterative processes, it lacks explicit discussions on empirical evidence, data-driven decision-making, or specific Continuous Improvement frameworks. The depth of discussion is moderate, primarily focusing on agile practices rather than a comprehensive exploration of Continuous Improvement as a standalone concept.",
     "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T18:12:34",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the 'just enough and no more' philosophy, which relates to optimising processes in Agile but does not explicitly address Common Goals or their significance in aligning strategy with execution. While it touches on themes of efficiency and prioritisation, it lacks a direct focus on shared objectives or the relationship between strategic and tactical commitments, which are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T18:12:36",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 62.0,
     "ai_mentions": 3,
     "ai_alignment": 50.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the 'just enough and no more' philosophy, which indirectly relates to competence by emphasising efficiency and prioritisation in agile practices. However, it lacks a direct focus on continuous learning or skill development, which are core aspects of competence. The depth of discussion on optimising processes and enhancing productivity is substantial, but it does not explicitly address the development of skills or capabilities.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
@@ -1594,14 +1426,170 @@
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:16:53",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content discusses agile practices and the principle of 'just enough and no more', but it does not explicitly address Agentic Agility or its key topics. While there are elements of adaptability and value delivery, the focus is primarily on process optimisation rather than intentional shaping of outcomes or the interplay between human and AI capabilities.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T23:29:34",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses Agile practices and the principle of 'just enough and no more', which aligns closely with the core themes of Product Development. It addresses backlog management, team composition, and the importance of iterative processes, all of which are central to effective product development methodologies. The depth of discussion is substantial, providing practical examples and insights into how to optimise processes and enhance productivity, which are key aspects of continuous improvement in product development. Overall, the content is highly relevant and focused on the principles that facilitate valuable product delivery.",
+    "level": "Primary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T23:29:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile principles and practices, particularly the 'just enough and no more' philosophy. While it touches on themes of optimisation and efficiency, it does not explicitly mention Liberating Structures or their specific techniques. The discussion lacks depth regarding facilitation methods or group dynamics, which are central to the Liberating Structures category. Therefore, the content does not align well with the category's focus.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T23:29:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on agile practices and the philosophy of 'just enough and no more', which is a specific aspect of agile methodology. While it touches on project management principles like backlog management and planning, it lacks a broader discussion of project management as a whole, including various methodologies, lifecycle phases, and roles. The depth of discussion is limited to agile concepts without integrating them into a wider project management context, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T23:29:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses agile practices and the principle of 'just enough and no more', which aligns with some agile concepts. However, it does not explicitly mention Open Space Agile or its core principles, such as collective participation or psychological safety. The discussion is more focused on general agile practices rather than the specific themes of Open Space Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T23:29:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses agile practices and the principle of 'just enough and no more', which relates to efficiency and productivity. However, it does not explicitly mention Unrealised Value or its indicators, nor does it focus on potential improvements or innovation opportunities in a way that aligns with the category's core themes. The discussion is more about operational efficiency rather than exploring untapped opportunities or strategic decision-making related to Unrealised Value.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T23:29:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the 'just enough and no more' philosophy, which indirectly relates to optimising processes and enhancing productivity. However, it does not explicitly mention Time to Market or provide metrics associated with it. The focus is more on agile practices and principles rather than on the specific measurement or improvement of Time to Market, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T23:29:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the 'just enough and no more' philosophy in Agile practices, which indirectly relates to delivering value. However, it lacks explicit mentions of Current Value metrics or indicators, and does not provide a real-time assessment of value delivered. The focus is more on process optimisation rather than on measuring or evaluating Current Value in the context of Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T23:29:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses agile practices and the principle of 'just enough and no more' without explicitly addressing the concept of treating a company as a product. While it touches on themes of efficiency and value delivery, which are relevant to CaaP, it lacks a direct focus on organisational design, customer feedback integration, or cross-functional collaboration. The discussion is more centred on process optimisation rather than the broader organisational strategy that CaaP entails.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T23:29:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the 'just enough and no more' philosophy within Agile practices, focusing on optimising processes and enhancing productivity. While it touches on concepts that could relate to scaling, such as backlog management and team composition, it does not explicitly address the complexities of scaling Agile across multiple teams or frameworks. The discussion lacks depth in terms of scaling methodologies and does not provide insights into cross-team collaboration or alignment with business goals, which are critical for the Scaling category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T23:29:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses agile practices and the philosophy of 'just enough and no more', but it does not explicitly mention Hybrid Agile or engage with the critical examination of merging traditional project management with agile methodologies. The focus is on optimising agile processes rather than addressing the challenges and implications of Hybrid Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T23:30:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the principle of 'just enough and no more', which aligns with the Agnostic Agile philosophy of tailoring practices to context and emphasising value delivery. However, it primarily focuses on practical applications within agile frameworks without explicitly mentioning Agnostic Agile or its principles. The depth of discussion on the importance of simplicity and efficiency in agile practices contributes positively, but the lack of direct references to Agnostic Agile or comparisons with traditional frameworks limits the overall confidence score.",
+    "level": "Secondary"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T23:30:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile principles and practices without any direct mention of GitHub or its functionalities. While it touches on concepts that could be relevant to software development, it does not align with GitHub's specific tools or services, nor does it provide any depth regarding GitHub's role in collaboration or version control.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T23:30:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses agile practices and the principle of 'just enough and no more', which does not directly relate to Cell Structure Design. While there are mentions of optimisation and team dynamics, these concepts are not aligned with the core themes of decentralised organisational structures or the principles of the Beta Codex. The discussion lacks depth regarding the characteristics of autonomous cells or the impact of decentralisation, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

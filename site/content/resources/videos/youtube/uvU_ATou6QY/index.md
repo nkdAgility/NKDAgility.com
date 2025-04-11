@@ -29,7 +29,6 @@ tags:
 - Product Owner
 - Agile Product Management
 - Value Delivery
-- Agile Project Management
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
@@ -38,6 +37,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

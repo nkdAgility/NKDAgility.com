@@ -9,7 +9,7 @@ ResourceImportId: 10771
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-07
-weight: 885
+weight: 875
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,9 +29,7 @@ aliasesArchive:
 - /resources/blog/creating-training-virtual-machines-azure
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
-- Windows
 categories: []
 preview: nakedalm-windows-logo-16-16.png
 

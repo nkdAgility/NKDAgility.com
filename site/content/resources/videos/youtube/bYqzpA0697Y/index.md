@@ -2,7 +2,7 @@
 title: 'Mastering Sustainable Scaling: Overcoming Product Development Challenges with Naked Agility'
 description: Unlock the secrets to sustainable product development scaling! Discover how to overcome challenges and foster a thriving team culture with Naked Agility.
 date: 2025-02-28T06:00:27Z
-weight: 415
+weight: 355
 ResourceId: bYqzpA0697Y
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -11,14 +11,14 @@ ResourceImportSource: Youtube
 videoId: bYqzpA0697Y
 source: internal
 url: /resources/videos/:slug
-slug: the-power-of-immersive-learning-in-scrum-training
+slug: mastering-sustainable-scaling-overcoming-product-development-challenges-with-naked-agility
 layout: video
 preview: https://i.ytimg.com/vi/bYqzpA0697Y/maxresdefault.jpg
 duration: 87
 isShort: false
 aliases:
 - /resources/bYqzpA0697Y
-- /resources/videos/the-power-of-immersive-learning-in-scrum-training
+- /resources/videos/mastering-sustainable-scaling-overcoming-product-development-challenges-with-naked-agility
 - /resources/videos/how-nkd-agility-helps-you-scale-successfully-v2
 aliasesArchive:
 - /resources/videos/the-power-of-immersive-learning-in-scrum-training
@@ -28,15 +28,17 @@ aliasesArchive:
 - the-power-of-immersive-learning-in-scrum-training-bXb00GxJiCY
 - /resources/videos/how-nkd-agility-helps-you-scale-successfully-v2
 - the-power-of-immersive-learning-in-scrum-training
+- /resources/videos/mastering-sustainable-scaling-overcoming-product-development-challenges-with-naked-agility
+- mastering-sustainable-scaling-overcoming-product-development-challenges-with-naked-agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Scaled Agile
+- Scaling
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 Scaling product development is a challenge that many organisations face, and I can tell you from experience that it’s never as simple as just adding more people to the mix. At Naked Agility, we’ve learned that true scaling involves creating systems that allow teams to expand seamlessly without sacrificing speed or quality. 

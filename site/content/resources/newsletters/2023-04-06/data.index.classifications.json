@@ -1,25 +1,25 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T20:08:55",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum, which is a framework within Agile methodologies, rather than discussing DevOps principles or practices. While there are mentions of continuous improvement and integrating customer feedback, these concepts are not explicitly tied to the DevOps philosophy. The discussion lacks depth in terms of DevOps-specific topics such as automation, shared accountability, or the cultural shifts necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:14:36",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 72.0,
     "ai_mentions": 60.0,
     "ai_alignment": 80.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the application of Scrum, which is a framework that promotes collaboration and continuous improvement within teams. It highlights the importance of transparency, inspection, and adaptation—key principles that align with social technologies. The focus on enhancing team effectiveness and driving value delivery through Scrum practices indicates a strong alignment with the category. However, while the content touches on these themes, it primarily centres on Scrum as a methodology rather than a broader discussion of social technologies, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
@@ -43,15 +43,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T12:17:17",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on Scrum implementation and training, which is a specific methodology rather than a broader discussion on product management. While it mentions the role of product managers and the importance of integrating customer feedback, the overall emphasis is on Scrum practices and workshops rather than strategic product management concepts. Therefore, while there are relevant elements, they are not the primary focus.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -64,79 +64,55 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-03-15T00:51:44",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 42.0,
     "ai_mentions": 30.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions the role of Product Owners in the context of training and improving skills, but it primarily focuses on Scrum practices and general Agile concepts. While there is some alignment with the responsibilities of a Product Owner, the depth of discussion specifically about the Product Owner's role is limited, making it a secondary focus rather than a primary one.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-15T00:50:44",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of applying Scrum effectively and integrating customer feedback into decision-making, which aligns with the principles of continuous improvement and evidence-based management. However, it lacks a direct focus on metrics and data analysis, which are crucial for the 'Metrics and Learning' category. The discussion is more about Scrum practices than specific metrics or learning methodologies, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content focuses primarily on the application of Professional Scrum and the importance of understanding Scrum principles, which aligns well with the category's focus on enhancing the understanding and implementation of Scrum.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-15T00:50:25",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on Scrum, discussing its implementation and the importance of understanding its core principles. It provides insights into the challenges teams face when applying Scrum and highlights the significance of continuous improvement. The depth of discussion is substantial, with references to specific courses and practical applications of Scrum, aligning well with the key topics of the Agile Frameworks category. However, while it is heavily centred on Scrum, it does not explore other Agile frameworks or provide a comparative analysis, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-15T00:50:52",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of effectively implementing Scrum principles and practices, which aligns with the core themes of Scrum Product Development. It mentions key aspects such as integrating customer feedback and the need for continuous improvement, which are essential in Scrum. However, while it touches on these topics, it lacks detailed exploration of specific Scrum roles, events, or metrics, leading to a moderate confidence score.",
-    "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-15T00:50:28",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses a specific workshop, 'Applying Professional Scrum', which aligns with the category of events and presentations. It mentions the importance of practical application in Scrum and provides links to related resources, indicating a focus on structured learning experiences. However, while it references a podcast and upcoming training classes, the primary focus is more on the content of the workshop rather than a broader discussion of multiple events or presentations, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation and application of Scrum methodology rather than focusing on the validation of product ideas through user engagement.",
     "level": "Ignored"
   },
@@ -169,15 +145,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-03-15T00:51:01",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions customer satisfaction in the context of improving agile practices and product delivery, but it primarily focuses on Scrum implementation and training. While there is a reference to customer satisfaction, it is not a primary focus of the discussion, and the depth of exploration into customer satisfaction strategies and methodologies is limited.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -190,10 +166,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the application of Scrum practices and training rather than focusing on remote working challenges or strategies within an Agile context.",
     "level": "Ignored"
   },
@@ -208,22 +184,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of deploying and implementing Scrum effectively, with a focus on general Scrum practices and transparency rather than the specific criteria and best practices related to the Definition of Done.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-03-15T00:50:23",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the application of Scrum and the importance of empirical evidence in decision-making, particularly through the principles of Empiricism. However, it primarily focuses on Scrum practices and training rather than explicitly addressing evidence-based leadership principles or providing detailed discussions on metrics, KPIs, or case studies related to leadership effectiveness. The connection to evidence-based leadership is present but not the primary focus.",
     "level": "Ignored"
   },
@@ -247,15 +223,15 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-03-13T15:44:51",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of effectively applying Scrum, which is closely related to self-organisation principles. It mentions the need for teams to take ownership and integrate feedback, aligning with the core themes of self-organisation. However, the discussion lacks depth on specific techniques or case studies that would further enhance the understanding of self-organisation, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -268,27 +244,27 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T20:09:18",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum practices and the application of Agile methodologies rather than Continuous Delivery specifically. While it touches on themes of continuous improvement and integrating customer feedback, it lacks a direct discussion of Continuous Delivery principles, automation in deployment, or specific strategies for delivering incremental improvements. The depth of discussion is limited to Scrum-related topics, which do not align closely with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-03-11T16:33:34",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the integration of customer feedback into decision-making processes, which aligns with the core themes of customer feedback loops. However, it primarily focuses on Scrum practices and the importance of understanding Scrum principles rather than providing in-depth exploration of feedback mechanisms. The mention of customer satisfaction and the need for continuous improvement indicates some relevance, but the overall depth and focus on customer feedback specifically is limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -310,10 +286,10 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum practices and agile methodology, with no clear discussion of customer retention strategies or methodologies.",
     "level": "Ignored"
   },
@@ -328,61 +304,61 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T00:51:10",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on the application of Scrum, a key Agile framework, which is a significant aspect of software development methodologies. It discusses the importance of understanding Scrum principles and effectively implementing them, aligning well with the core themes of the Software Development category. The depth of discussion is substantial, providing insights into the challenges teams face and the importance of continuous improvement in Agile practices. Overall, the content is highly relevant to software development, particularly in the context of Agile methodologies.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-15T00:50:32",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 59.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of applying Scrum effectively and mentions coaching in the context of Agile practices. However, it primarily focuses on the implementation of Scrum rather than the coaching process itself. While there are references to coaching, they are not the primary focus, and the depth of discussion on coaching techniques and principles is limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-15T00:51:33",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of effectively implementing Scrum, which is a key Agile framework. It touches on principles such as Empiricism, transparency, inspection, and adaptation, which align with Agile Planning concepts. However, the focus is more on the application of Scrum rather than on broader Agile Planning methodologies and practices. The depth of discussion is moderate, primarily centred on Scrum rather than a comprehensive exploration of Agile Planning as a whole.",
     "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-15T00:50:56",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on the practical application of Scrum rather than discussing Agile strategy at an organisational level. While it mentions the importance of implementing Scrum effectively and integrating customer feedback, it lacks a broader discussion on aligning organisational vision with Agile principles or strategic planning. The depth of discussion is limited to practical aspects of Scrum, which does not fully meet the criteria for Agile Strategy.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-15T00:50:49",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of effectively implementing Scrum, which directly relates to team performance and collaboration. It highlights the need for teams to understand core Scrum principles and the impact of continuous improvement on team dynamics. The mention of specific challenges teams face and the emphasis on training and workshops to enhance team capabilities further align with the category. However, while the content is relevant, it does not delve deeply into specific metrics or detailed strategies for measuring team performance, which slightly lowers the depth score.",
     "level": "Secondary"
   },
@@ -451,10 +427,10 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content emphasizes the importance of applying Scrum effectively and discusses continuous improvement and learning through feedback and practice, which aligns with Continuous Learning themes, though it also focuses heavily on specific Scrum practices.",
     "level": "Tertiary"
   },
@@ -494,34 +470,13 @@
     "reasoning": "Content heavily discusses Scrum roles, processes, and agile methodologies without a specific focus on software craftsmanship, architecture, or engineering practices.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-07T14:08:21",
-    "ai_confidence": 78.0,
-    "ai_mentions": 70.0,
-    "ai_alignment": 80.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 0,
-    "final_score": 70.0,
-    "reasoning": "The content primarily discusses the application of Scrum, which is a key Agile methodology relevant to software developers. It emphasises the importance of understanding Scrum principles and their practical implementation, aligning well with the category's focus on enhancing developer productivity and collaboration. The depth of discussion regarding the challenges developers face in applying Scrum effectively contributes to a high confidence score. Additionally, the mention of training for developers and Scrum teams indicates a direct relevance to the role of software developers within Agile frameworks.",
-    "level": "Secondary"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum roles and events without a focus on Lean Product Development principles or waste reduction.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T10:22:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum implementation and agile practices rather than focusing on software code quality or complexity. It does not address the interplay between code and complexity theory.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -553,13 +508,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T17:05:19",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of effectively implementing Scrum, which is central to the Scrum Master's role. It mentions key aspects such as continuous improvement, removing impediments, and the need for knowledge around Scrum principles, which align with the responsibilities of a Scrum Master. However, while it touches on these themes, it does not delve deeply into the specific techniques or detailed responsibilities of a Scrum Master, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -574,27 +529,27 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-15T00:51:15",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of effectively implementing Scrum to enhance team capabilities and customer satisfaction, which aligns with the principles of value delivery. It mentions the need for continuous improvement and integrating customer feedback, which are key aspects of delivering value. However, the focus is more on Scrum implementation rather than a comprehensive exploration of value delivery strategies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-15T00:51:30",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of effectively implementing Scrum and the challenges teams face, which aligns with the principles of technical leadership in agile environments. However, while it touches on mentoring and continuous improvement, it lacks a deeper exploration of specific leadership strategies or practices, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -607,10 +562,10 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the implementation of Scrum and agile methodologies without a focus on decision-making processes or decision theory principles.",
     "level": "Ignored"
   },
@@ -634,23 +589,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-15T00:50:18",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum and Agile practices, which are methodologies that can support organisational change but do not explicitly discuss the broader strategies or frameworks for organisational transformation. While there are mentions of improving capabilities and overcoming impediments, the discussion lacks depth in terms of leadership roles, resistance to change, or case studies of successful organisational change initiatives. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the category of Organisational Change.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T10:22:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum practices and training without explicit reference to scaling Agile across multiple teams or at an enterprise level.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -661,18 +607,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum and Agile practices, with no clear focus on Lean Thinking principles.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T00:51:47",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content primarily discusses the application of Scrum, focusing on team dynamics, the importance of understanding Scrum principles, and the role of effective training in enhancing team performance. It highlights the human factors involved in implementing Scrum and the need for continuous improvement, which aligns well with the category's focus on the interplay between people and processes. The depth of discussion on training and the challenges teams face in applying Scrum effectively further supports a high confidence score.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -685,25 +619,25 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-15T00:51:23",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on Scrum and its implementation rather than directly discussing business agility principles. While it touches on aspects of adaptability and continuous improvement, it lacks a comprehensive exploration of business agility as a whole. The discussion is more about Scrum practices than the broader context of business agility, which limits its relevance to the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-03-15T00:51:28",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Scrum and Agile practices, focusing on practical implementation rather than the principles of complexity science. While it touches on themes like adaptation and continuous improvement, it lacks a direct engagement with complexity theory or frameworks such as the Cynefin Framework. The discussion is more about operational effectiveness in Agile rather than exploring the non-linear dynamics and emergent behaviours characteristic of complex adaptive systems.",
     "level": "Ignored"
   },
@@ -727,23 +661,26 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses general Scrum principles, its application, and the importance of agile coaching, without focusing on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-18T10:22:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:49:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum practices and team engagement but does not focus on Lead Time or its measurement, impact, or strategies for reduction.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the importance of effective implementation rather than discussing Lead Time as a metric. While it touches on concepts related to efficiency and improvement, it does not explicitly mention Lead Time or provide a detailed exploration of its significance, measurement, or optimisation strategies. Therefore, the confidence score reflects a very low alignment with the Lead Time category.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T10:22:09",
     "ai_confidence": 0,
@@ -754,24 +691,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-15T00:50:18",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on the application of Scrum and the importance of understanding its principles rather than discussing Agile leadership directly. While it touches on themes of continuous improvement and team empowerment, it lacks a strong emphasis on leadership roles or practices within Agile contexts. The depth of discussion on leadership is minimal, making it a secondary focus rather than a primary one.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T10:22:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses primarily on Scrum practices and professional development, with no mention of AI or automation technologies in Agile frameworks.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -784,10 +712,10 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily discusses the application of Scrum, emphasizing the core pillars of Empiricism: Transparency, Inspection, and Adaptation, which are central to empirical process control.",
     "level": "Secondary"
   },
@@ -802,61 +730,52 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-11T11:39:24",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of effectively implementing Scrum, which is a key aspect of team collaboration within Agile frameworks. It mentions the need for teams to understand core principles and improve their practices, which aligns with the category's focus on enhancing teamwork dynamics. However, the discussion is more centred on individual understanding and implementation rather than direct techniques for improving team collaboration or shared ownership, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "Content discusses the importance of applying Scrum effectively, which relates to enhancing agility and adaptability in response to market changes, albeit as a secondary theme.",
     "level": "Tertiary"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T10:22:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily focuses on Scrum practices and Agile methodologies, with no mention or discussion of AI.",
-    "level": "Ignored"
-  },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T00:51:20",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of effectively implementing Scrum and integrating customer feedback, which aligns with the principles of delivering working software. However, it primarily focuses on Scrum training and coaching rather than directly addressing the characteristics or metrics of working software itself. The depth of discussion on practical application and continuous improvement contributes positively, but the overall focus remains on Scrum methodology rather than the software delivery aspect.",
     "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Scrum training and implementation without a focus on the Daily Scrum event itself.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, with no focus on Continuous Integration principles or practices.",
     "level": "Ignored"
   },
@@ -871,21 +790,12 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on applying Scrum and coaching rather than discussing the Product Backlog itself.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T10:22:09",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content discusses the application of Scrum, its principles, and the importance of professional implementation, which aligns closely with Agile Project Management principles.",
-    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -905,33 +815,12 @@
     "reasoning": "Content primarily focuses on Scrum concepts, roles, and the application of Agile practices, without direct relevance to identifying or resolving technical issues.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-15T00:51:04",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the importance of applying Scrum effectively and mentions a specific course (Applying Professional Scrum) that aims to enhance understanding and implementation of Scrum principles. However, while it touches on training and resources, it lacks detailed reviews or analyses of specific books or tools, which are central to the 'Products and Books' category. The primary focus is on the application of Scrum rather than a thorough exploration of products or literature.",
-    "level": "Secondary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T10:22:09",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses Agile and Scrum training and promotes a new podcast focusing on Agile trends and insights, which aligns with industry news. However, it primarily revolves around training and personal experience rather than broader news developments or reviews.",
-    "level": "Secondary"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum implementation and training, lacking a clear emphasis on team motivation strategies or practices.",
     "level": "Ignored"
   },
@@ -944,42 +833,33 @@
     "reasoning": "Content is primarily focused on Scrum theories and training classes rather than personal experiences or reflections.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T10:22:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the importance of effectively applying Scrum principles and methodologies, but does not focus on scaling Scrum in large organizations or managing multiple teams. It lacks references to frameworks for scaling Scrum or related challenges.",
-    "level": "Ignored"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the application of Scrum and general Agile practices, without a clear focus on cross-functional teams.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the implementation and application of Scrum practices rather than focusing specifically on Scrum values like commitment, courage, focus, openness, and respect.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-15T00:51:13",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the application of Scrum, which is a key Agile framework, and highlights the importance of understanding its principles for effective product management. It mentions the role of Scrum in product development and the need for integrating customer feedback, aligning with Agile Product Management themes. However, while it provides valuable insights, the depth of discussion on specific Agile product management techniques and strategies is somewhat limited, focusing more on Scrum implementation rather than broader product management practices.",
     "level": "Secondary"
   },
@@ -1015,25 +895,25 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-11T14:43:54",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of effectively applying Scrum principles and mentions roles such as Scrum Masters and Development Teams. However, it primarily focuses on general Agile practices and the application of Scrum rather than delving deeply into the dynamics and collaboration within a Scrum Team. While there are references to team improvement and training for Scrum roles, the overall discussion lacks a comprehensive exploration of team dynamics, communication strategies, and conflict resolution specific to Scrum.",
     "level": "Secondary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-03-15T00:50:38",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on trends in Agile, particularly through the mention of the podcast discussing the trend of life coaches presenting themselves as Agile coaches. However, the primary focus is on Scrum implementation and training rather than a comprehensive analysis of trends. The discussion lacks depth in exploring the implications of these trends on Agile methodologies or organisational practices, which is essential for a higher confidence score in the Trend Analysis category.",
     "level": "Ignored"
   },
@@ -1057,10 +937,10 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the application of Scrum and emphasizes continuous improvement and effective implementation, which are relevant to strategic themes in Agile. However, it primarily focuses on practical workshops and individual/team capabilities rather than broader strategic alignment or development.",
     "level": "Tertiary"
   },
@@ -1075,52 +955,43 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily discusses the application of Scrum and emphasizes improvements in agile practices, reflecting key themes of continuous improvement and the importance of understanding Agile principles. However, it is more focused on the specifics of Scrum rather than the overarching Agile philosophy.",
     "level": "Tertiary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum practices and the importance of applying Scrum effectively, which are relevant to product delivery, but it primarily focuses on training and coaching rather than comprehensive delivery methodologies.",
     "level": "Tertiary"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T10:22:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum implementation and training, without discussing scaling agility beyond individual teams.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-15T00:50:21",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of effectively implementing Scrum, which is a key Agile methodology that supports organisational agility. It mentions principles such as transparency, inspection, and adaptation, which align with the core themes of agility. However, while it touches on the need for continuous improvement and integrating customer feedback, the focus remains primarily on Scrum practices rather than broader organisational strategies or cultural shifts. The depth of discussion is moderate, providing insights into the application of Scrum but lacking extensive exploration of organisational agility as a whole.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-13T16:53:16",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on the application of Scrum, which is a key framework within Agile transformation. It discusses the importance of understanding Scrum principles, such as Empiricism, and highlights the need for effective implementation to achieve desired outcomes. The mention of continuous improvement and the challenges faced by teams aligns well with the core themes of Agile transformation. However, while it provides valuable insights, it does not delve deeply into broader Agile transformation strategies or change management, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
@@ -1133,33 +1004,12 @@
     "reasoning": "Content heavily discusses Scrum practices and Agile training, which do not directly relate to the management of a portfolio of projects.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T10:22:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses techniques for applying Scrum effectively, which indirectly relates to themes of organizational adaptability and resilience through the implementation of agile practices. However, the primary focus is on Scrum methodology rather than direct discussions of resilience or change management.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-14T15:31:11",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the importance of transparency as one of the core pillars of Scrum, which aligns with the category's focus on openness and accountability. However, while it mentions transparency, the primary focus is on the application of Scrum and improving team capabilities rather than a deep exploration of transparency and accountability principles. The depth of discussion on these topics is moderate, as it touches on the need for effective implementation and understanding of Scrum but lacks detailed strategies or case studies specifically related to transparency and accountability.",
-    "level": "Secondary"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum concepts and coaching, with a focus on professional Scrum practices rather than Agile planning tools.",
     "level": "Ignored"
   },
@@ -1172,18 +1022,6 @@
     "reasoning": "Content heavily discusses Scrum principles and implementation but does not focus on the practice of Frequent Releases or software delivery updates.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T00:50:35",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content primarily focuses on the practical application of Scrum, discussing the importance of implementing Scrum effectively and the challenges teams face. It mentions specific methodologies and tools related to Agile practices, such as the Applying Professional Scrum course, which aligns well with the category's focus on practical techniques and tooling. However, while it provides valuable insights, the depth of discussion on specific tools and metrics could be enhanced, leading to a slightly lower score in depth.",
-    "level": "Secondary"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-18T10:22:09",
@@ -1195,19 +1033,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T10:22:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:50:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and agile practices, with no focus on system configuration or related technical setups.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Scrum methodologies and agile practices, with no direct mention of system configuration or related topics. While there are references to improving team effectiveness and implementing Scrum, these discussions do not align with the core themes of system configuration, such as configuration management tools, system optimisation, or integration of hardware and software. The depth of discussion is also minimal regarding system configuration, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -1231,27 +1072,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T20:09:13",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on Scrum practices and the application of Professional Scrum, which is a specific agile methodology rather than a broader discussion on the Agile Product Operating Model. While it touches on themes of continuous improvement and customer feedback, it lacks a comprehensive exploration of the APOM principles, such as transitioning to a product ethos or integrating product management practices. The depth of discussion is limited to Scrum implementation rather than the overarching framework of APOM.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-15T00:50:40",
-    "ai_confidence": 67.0,
-    "ai_mentions": 12,
-    "ai_alignment": 28,
-    "ai_depth": 24,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the importance of learning and applying Scrum effectively, which aligns with the category's focus on continuous learning and improvement. It mentions key concepts such as integrating customer feedback and the core pillars of Empiricism, which are essential for fostering a culture of innovation. However, the primary focus is on Scrum implementation rather than broader discovery and learning methodologies, which slightly limits the depth of discussion in this context.",
-    "level": "Secondary"
+    "level": "Tertiary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1280,26 +1109,17 @@
     "reasoning": "Content primarily discusses Scrum methodologies and Agile practices without any reference to automated testing.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T10:22:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on Scrum principles and practices, without significant discussion of scaling Kanban or its application in large organizations.",
-    "level": "Ignored"
-  },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T18:19:06",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on the practical application of Scrum principles, emphasising the importance of implementing Scrum effectively rather than just understanding the theory. It discusses real-world challenges teams face and how to overcome them, aligning well with the core themes of pragmatic thinking. The depth of discussion is substantial, providing insights into continuous improvement and the role of experience in Agile practices. However, while it is rich in practical advice, it could benefit from more detailed case studies or specific examples of successful Agile transformations.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1312,15 +1132,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-15T00:51:42",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of integrating customer feedback and data into decision-making processes, which aligns with the category's focus on evidence-based methodologies. However, the primary focus is on Scrum implementation and training rather than structured decision-making principles. The discussion lacks depth in exploring cognitive biases, frameworks for evaluating options, or detailed case studies, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1333,19 +1153,19 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Scrum implementation and training rather than working agreements or norms that enhance team collaboration.",
     "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of effectively applying Scrum, including the creation of a product increment with customer feedback, which aligns partially with the concept of Increment in Agile. However, it is primarily focused on Scrum application and training rather than detailing the Increment itself.",
     "level": "Tertiary"
   },
@@ -1360,19 +1180,19 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum implementation and training, not focused on product strategy topics such as vision, roadmapping, or market analysis.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the application and understanding of Scrum, which is linked to Agile principles, but is primarily focused on specific practices and implementation rather than a direct discussion of Agile values and principles.",
     "level": "Tertiary"
   },
@@ -1387,13 +1207,13 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-15T00:50:46",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum and its implementation, which is a technical framework. While it touches on team dynamics and the importance of understanding Scrum principles, it lacks a comprehensive exploration of the interplay between social and technical systems. The discussion does not sufficiently address organisational culture, communication tools, or the broader sociotechnical context, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -1408,13 +1228,13 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-03-15T00:51:18",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 30,
-    "final_score": 68.0,
+    "final_score": 72.0,
     "reasoning": "The content explicitly mentions 'Transparency' as one of the core pillars of Scrum, indicating a direct mention. However, the discussion primarily focuses on the application of Scrum and the challenges teams face, rather than deeply exploring the concept of transparency itself. While there is some alignment with the themes of transparency in Agile, such as the importance of visibility and communication, the depth of discussion on these aspects is limited. Overall, the content touches on transparency but does not make it a primary focus.",
     "level": "Secondary"
   },
@@ -1438,11 +1258,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-18T10:22:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:50:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses the application of Scrum and the importance of understanding its core pillars, without a clear focus on throughput measurements or optimization.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum training and the importance of implementing Scrum effectively. While it touches on themes of continuous improvement and team effectiveness, it does not explicitly discuss throughput as a delivery metric or provide any analysis, visualisation, or interpretation of throughput. The mention of improving times to market and customer satisfaction is vague and does not delve into the specifics of throughput metrics or their calculation. Overall, the content lacks a direct focus on throughput, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1456,48 +1279,48 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T20:09:16",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum and its implementation rather than on Evidence-Based Management principles. While it touches on aspects like integrating customer feedback and improving team effectiveness, it lacks a direct discussion of empirical evidence or metrics that are central to EBM. The mention of improving times to market and customer satisfaction hints at some alignment, but the overall depth and focus remain on Scrum practices rather than evidence-based decision-making.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T10:22:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum principles and theories without any focus on installation or configuration of tools or software.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-15T00:50:59",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of effectively implementing Scrum and integrating customer feedback into decision-making, which touches on innovation. However, it primarily focuses on Scrum practices rather than directly addressing the measurement and improvement of innovation capabilities. The mention of continuous improvement aligns somewhat with the category, but the overall depth and focus on Evidence-Based Management principles are lacking.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T00:51:26",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of effectively implementing Scrum, which aligns with operational practices in Agile. It mentions continuous improvement and removing impediments, both of which are key to enhancing operational efficiency. However, the focus is more on Scrum theory and training rather than specific operational techniques or metrics, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1519,61 +1342,61 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:26:03",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 79.0,
+    "final_score": 82.0,
     "reasoning": "The content extensively discusses the importance of effectively implementing Scrum, highlighting key principles such as transparency, inspection, and adaptation, which are core to the Scrum framework. It also mentions specific roles and practices related to Scrum, such as the need for continuous improvement and the challenges teams face in applying Scrum effectively. The depth of discussion is significant, as it addresses both theoretical and practical aspects of Scrum, making it a primary focus of the content.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:06:09",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses Scrum practices and the importance of effective implementation of Agile methodologies. It does not explicitly mention the Shift-Left Strategy or its principles, benefits, or techniques. The focus is on Scrum roles and events rather than integrating testing, security, or compliance early in the development process, which is central to the Shift-Left concept.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T20:08:58",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of applying Scrum effectively and mentions continuous improvement as a key aspect of enhancing team effectiveness. However, while it touches on the principles of Continuous Improvement, such as leveraging feedback and adapting processes, it does not delve deeply into the methodologies or frameworks that support Continuous Improvement. The focus is more on Scrum training rather than a comprehensive exploration of Continuous Improvement as a standalone concept.",
     "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T20:09:00",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of effectively implementing Scrum and the need for teams to align their actions with Agile principles. However, it primarily focuses on training and personal experiences rather than explicitly addressing Common Goals as a foundational principle. While there are mentions of team effectiveness and continuous improvement, the discussion lacks depth in connecting these concepts to shared objectives or strategic alignment within Agile and DevOps frameworks.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T20:09:04",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of growing capability in deploying Scrum effectively, emphasising continuous improvement and the need for knowledge around Scrum's core principles. It highlights the distinction between mere attendance at Scrum events and achieving genuine progress, aligning well with the core themes of competence. The depth of discussion is substantial, focusing on practical applications and the necessity for skill development, which supports a high confidence score.",
     "level": "Secondary"
   },
@@ -1591,14 +1414,170 @@
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T17:05:13",
+    "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum practices and training, with limited discussion on the intentional shaping of outcomes or the principles of Agentic Agility. While it touches on aspects of adaptability and continuous improvement, it does not explicitly differentiate between human and AI capabilities or delve into the transformative capacity of individuals and systems in a socio-technical context.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T12:49:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the application of Scrum, which is a key methodology in Agile product development. It discusses the importance of effectively implementing Scrum to enhance team performance and drive continuous improvement, aligning well with the principles of iterative learning and customer feedback integration. The mention of core Scrum pillars—transparency, inspection, and adaptation—further supports its relevance to product development. However, while it provides substantial insights into Scrum practices, it lacks a broader discussion on other product development methodologies and strategies, which slightly limits its depth. Overall, the content is strongly aligned with the category, but not exhaustive in its exploration of all key topics.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T12:49:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and its implementation rather than Open Space Agile principles. While it discusses aspects of Agile, it does not mention Open Space Technology, psychological safety, or co-creation, which are key elements of Open Space Agile. The discussion is more aligned with traditional Scrum practices and training rather than the collaborative and emergent nature of Open Space Agile.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T12:49:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and its implementation, discussing the importance of understanding Scrum principles and the effectiveness of the Applying Professional Scrum course. There are no direct mentions of Liberating Structures or their techniques, and the discussion does not align with the core themes of enhancing participation or collaboration through facilitation techniques. The depth of discussion is also limited to Scrum practices without reference to the principles of Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T12:49:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of effectively implementing Scrum and integrating customer feedback into decision-making, which touches on aspects of Current Value. However, it lacks a direct focus on metrics or indicators that measure Current Value, such as customer satisfaction or revenue impact. The discussion is more about Scrum practices than a real-time assessment of value delivered, leading to a low confidence score despite some relevant mentions.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T12:49:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 20,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of effectively implementing Scrum and mentions improved times to market, which aligns with the concept of Time to Market. However, the primary focus is on Scrum practices rather than a detailed exploration of Time to Market metrics or strategies. The discussion is somewhat relevant but lacks depth in terms of specific metrics or case studies related to Time to Market, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T12:49:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the application of Scrum, discussing its principles and the importance of effective implementation. While it touches on agile concepts, it does not explicitly mention Agnostic Agile or its principles. The discussion is heavily centred on Scrum mechanics rather than a broader, context-driven agile philosophy, leading to a low confidence score in alignment with the Agnostic Agile category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T12:49:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and agile methodologies, discussing the importance of implementing Scrum effectively and the challenges faced by teams. While it touches on concepts like transparency and adaptation, which are relevant to agile practices, it does not directly address the principles of Cell Structure Design or the Beta Codex. There are no explicit mentions of autonomous cells, decentralisation, or the comparison with traditional hierarchical models, leading to a low confidence score in alignment with the category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T12:49:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 40,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Scrum and agile methodologies, discussing the importance of implementing Scrum effectively and integrating customer feedback into product development. However, it does not explicitly address the concept of treating the organisation itself as a product or delve into the broader implications of Company as a Product (CaaP) strategies. While there are elements of continuous improvement and customer-centric approaches, the discussion lacks depth in terms of organisational design and cross-functional collaboration, which are key aspects of CaaP. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T12:49:45",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on Scrum training and the importance of effectively implementing Scrum practices. While it touches on continuous improvement and the need for teams to enhance their capabilities, it does not explicitly discuss Unrealised Value or its indicators, strategies, or frameworks. The mention of improving agile practices could be seen as a vague reference to potential improvements, but it lacks depth and direct relevance to the concept of Unrealised Value as defined in Evidence-Based Management. Overall, the content does not align closely with the category's core themes.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T12:49:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum methodologies and training, with no direct mention of GitHub or its services. While it discusses Agile practices, it does not align with GitHub's functionalities or best practices, nor does it provide any depth regarding GitHub tools or integrations. The content is more about Scrum and Agile coaching rather than GitHub-related topics.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T12:49:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Scrum, which is a specific agile methodology, rather than broader project management principles. While it discusses the importance of implementing Scrum effectively and touches on concepts like continuous improvement and team dynamics, it lacks a comprehensive exploration of core project management themes such as scope, time, cost, and quality. The depth of discussion is limited to Scrum practices and roles, which does not fully align with the broader project management category. Therefore, while there are relevant mentions, the overall focus is too narrow to warrant a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T12:49:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and its effective implementation rather than discussing Hybrid Agile as a concept. There are no direct mentions of Hybrid Agile, and while it touches on agile practices, it does not critically examine the integration of traditional methodologies with agile delivery. The discussion lacks depth regarding the challenges and implications of Hybrid Agile, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T12:49:56",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on Scrum and its implementation rather than on scaling methodologies or frameworks. While it touches on the importance of effective Scrum practices, it does not delve into scaling Agile practices, cross-team collaboration, or managing dependencies, which are key aspects of the Scaling category. The discussion lacks depth in terms of strategies for scaling and does not provide examples or case studies related to scaling initiatives. Therefore, the confidence score reflects a low alignment with the Scaling category.",
     "level": "Ignored"
   }
 }

@@ -9,7 +9,7 @@ ResourceImportId: 9313
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-03-19
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,7 +24,6 @@ aliasesArchive:
 - /migrating-source-code-with-history-to-tfs-2012-with-git-tf
 - /resources/blog/migrating-source-code-with-history-to-tfs-2012-with-git-tf
 tags:
-- Practical Techniques and Tooling
 - Software Development
 - Install and Configuration
 categories: []

@@ -1,25 +1,25 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T07:46:55",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses performance issues related to Team Foundation Server (TFS) and does not explicitly address the broader aspects of Application Lifecycle Management. While it touches on server specifications and network performance, which are tangentially related to application management, it lacks a comprehensive discussion on the stages of the application lifecycle, governance, or best practices. The mention of 'ALM' in tags is insufficient to elevate the relevance significantly.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-03-15T07:46:52",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 35.0,
     "ai_mentions": 10,
     "ai_alignment": 25,
     "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 32.0,
+    "final_score": 35.0,
     "reasoning": "The content discusses issues related to the speed of Team Foundation Server and suggests checking network performance and server specifications to identify bottlenecks. While it touches on the concept of bottlenecks, it does not explicitly focus on flow efficiency principles or provide in-depth analysis or metrics related to flow efficiency. The discussion is more about troubleshooting specific performance issues rather than optimising throughput across a value stream.",
     "level": "Ignored"
   },
@@ -61,15 +61,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-15T07:46:59",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 65.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 60.0,
+    "final_score": 65.0,
     "reasoning": "The content discusses troubleshooting speed issues related to Team Foundation Server, which aligns with the installation and configuration category. It provides actionable advice on checking network performance and server specifications, which are relevant to configuration best practices. However, the focus is more on troubleshooting rather than detailed installation or configuration procedures, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -89,15 +89,6 @@
     "reasoning": "Content primarily discusses performance issues related to Team Foundation Server, which is a specific tool and does not align with the Miscellaneous category's focus.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T22:14:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical issues related to Team Foundation Server performance, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T22:14:04",
@@ -106,18 +97,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Server performance and troubleshooting, without reference to complexity science or its principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T07:47:03",
-    "ai_confidence": 65.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 60.0,
-    "reasoning": "The content discusses practical troubleshooting techniques for Team Foundation Server (TFS) speed issues, including network checks and server specifications. While it provides some actionable advice, it lacks a broader exploration of Agile or DevOps methodologies and does not delve deeply into specific tools or frameworks. The focus is primarily on individual experiences and basic troubleshooting rather than comprehensive techniques or tooling strategies.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -130,10 +109,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T22:14:09",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to the speed and performance of Team Foundation Server, without a focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -166,35 +145,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-04-08T21:11:50",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses technical issues related to Team Foundation Server speed and performance, without any reference to evidence-based management principles or metrics. It lacks direct mentions of EBM concepts such as current value, empirical decision-making, or outcome management, and does not provide any depth in discussing how data could inform decisions regarding server performance.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-04-08T21:11:45",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses performance issues related to Team Foundation Server, focusing on technical troubleshooting rather than any principles or practices of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management, or the core themes associated with APOM. The discussion is narrowly focused on server performance, which does not align with the category's requirements.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T22:14:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and troubleshooting tips related to Team Foundation Server performance, lacking a focus on industry news or reviews.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -222,42 +192,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to the speed and performance of Team Foundation Server, without a clear focus on platform engineering principles or internal developer platforms.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T22:14:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues related to the performance of Team Foundation Server and does not address AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T22:14:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to the speed and performance of Team Foundation Server, which does not directly address code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T22:14:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to Team Foundation Server performance, with no reference to events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T22:14:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical issues related to Team Foundation Server performance and troubleshooting, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -307,13 +241,13 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T07:46:52",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses issues related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. However, the focus is primarily on performance problems and troubleshooting rather than on broader Azure DevOps functionalities or best practices. While TFS is mentioned, the discussion lacks depth in terms of CI/CD, agile practices, or integration with other tools, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -328,53 +262,26 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-04-08T21:11:29",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses performance issues related to Team Foundation Server (TFS) and does not explicitly address DevOps principles or practices. While it touches on aspects of infrastructure and server performance, which can be relevant to DevOps, it lacks a focus on collaboration, automation, or cultural shifts that are central to the DevOps philosophy. The discussion is more about troubleshooting and technical specifications rather than the broader implications of DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T07:46:52",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses issues related to the performance of Team Foundation Server and offers troubleshooting tips, which touches on technical aspects. However, it lacks a direct focus on engineering practices or methodologies that enhance agility in software development. The discussion is primarily about server performance and network issues rather than principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T22:14:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Server performance, with minimal focus on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T22:14:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Server performance without focusing on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T22:14:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses performance issues related to Team Foundation Server, without focusing on specific products, books, or Agile methodologies.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -397,22 +304,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T15:20:33",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses issues related to the performance of Team Foundation Server, which touches on aspects of system configuration such as server specifications and network performance. However, it lacks a comprehensive exploration of configuration methodologies or best practices, focusing instead on troubleshooting specific speed issues. While it does mention checking server specs and network conditions, it does not delve deeply into configuration management or optimisation strategies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T08:19:02",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses server performance issues and troubleshooting, with no focus on measuring or enhancing innovation capabilities.",
     "level": "Ignored"
   },
@@ -441,15 +348,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses issues related to Team Foundation Server speed and infrastructure, not portfolio management or related principles.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T08:19:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily addresses issues related to the performance of Team Foundation Server and its network conditions, without focusing on Scrum practices or product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -481,10 +379,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T08:19:02",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical performance issues related to Team Foundation Server rather than Agile values or principles.",
     "level": "Ignored"
   },
@@ -517,20 +415,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T08:19:02",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Team Foundation Server speed issues and troubleshooting, which is unrelated to the Definition of Done.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T08:19:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses technical issues related to Team Foundation Server performance, without addressing any Agile scaling practices or coordination among teams.",
+    "reasoning": "Content heavily discusses Team Foundation Server speed issues and troubleshooting, which is unrelated to the Definition of Done.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -596,26 +485,17 @@
     "reasoning": "Content primarily discusses performance issues with Team Foundation Server rather than collaboration features or tools.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T08:19:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses performance issues related to Team Foundation Server without substantial focus on Agile or DevOps practices or the role of software developers.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:47:06",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses issues related to Team Foundation Server (TFS), which is a tool used in software development for version control and project management. However, the focus is primarily on performance issues rather than on broader software development methodologies or practices. While it touches on aspects of server specifications and network performance, it lacks a deeper exploration of software development processes or best practices, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -644,7 +524,7 @@
     "reasoning": "Content is primarily focused on Team Foundation Server speed issues and network performance, with no clear discussion on estimation techniques or practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T08:19:03",
     "ai_confidence": 0,
@@ -718,22 +598,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-04-08T21:11:54",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily discusses performance issues related to Team Foundation Server (TFS) and does not explicitly address Continuous Delivery principles or practices. While it touches on aspects of server performance that could indirectly relate to software delivery, it lacks a direct focus on Continuous Delivery concepts such as automation, rapid feedback, or incremental improvements. The discussion is more about troubleshooting and server specifications rather than the broader themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T08:19:03",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the speed and performance issues of Team Foundation Server and does not focus on Lead Time as a metric or its importance in processes.",
     "level": "Ignored"
   },
@@ -771,15 +651,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses Team Foundation Server speed issues and troubleshooting rather than hypothesis formulation and experimentation.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T08:19:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is primarily about issues related to the speed and performance of Team Foundation Server, with no discussion of AI or its application in Agile or DevOps.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -901,10 +772,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T08:19:03",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily addresses technical issues related to server speed and performance, without a focus on team dynamics or agile practices.",
     "level": "Ignored"
   },
@@ -946,19 +817,19 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T08:19:03",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to the speed and performance of Team Foundation Server, without a focus on team collaboration dynamics or Agile methodologies.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T08:19:03",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses performance issues related to Team Foundation Server and does not mention the Definition of Ready or backlog item readiness.",
     "level": "Ignored"
   },
@@ -982,32 +853,23 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:46:52",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses performance issues related to Team Foundation Server, which touches on technical aspects such as server specifications and network performance. However, it lacks a focus on broader software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. The discussion is primarily about troubleshooting and does not delve into deeper technical mastery concepts.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T08:19:03",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content predominantly discusses issues related to the speed of Team Foundation Server and server specifications, not addressing remote working challenges or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T08:19:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses issues related to Team Foundation Server speed and performance, which is not aligned with Scaling Kanban principles.",
+    "reasoning": "Content predominantly discusses issues related to the speed of Team Foundation Server and server specifications, not addressing remote working challenges or Agile methodologies.",
     "level": "Ignored"
   },
   "Customer Retention": {
@@ -1017,15 +879,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to the performance and speed of Team Foundation Server, without addressing customer retention strategies or user engagement.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T08:19:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues with Team Foundation Server performance and does not focus on Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1048,10 +901,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T08:19:03",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses issues related to server speed and performance rather than Cycle Time.",
     "level": "Ignored"
   },
@@ -1120,15 +973,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T07:46:57",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses issues related to Team Foundation Server (TFS), which is a Microsoft product that operates within the Windows environment. However, the primary focus is on server performance and network issues rather than specific Windows operating system functionalities. While there are mentions of command line usage and server specifications, the content lacks detailed discussions on Windows installation, configuration, or troubleshooting, which are core themes of the category. Therefore, while there is some relevance, it does not fully align with the Windows category's primary focus.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1141,15 +994,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-10T13:24:32",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 85.0,
     "ai_mentions": 70.0,
     "ai_alignment": 90.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
+    "final_score": 85.0,
     "reasoning": "The content explicitly discusses troubleshooting issues related to the speed of Team Foundation Server, providing specific techniques such as ping tests and server specifications to diagnose and resolve performance problems. It aligns well with the core themes of the category by focusing on identifying and addressing technical issues, and it offers a detailed approach to troubleshooting, which enhances its depth of discussion.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1243,31 +1096,31 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T08:19:03",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses performance issues related to Team Foundation Server, which is not relevant to Scrum Team dynamics, roles, or collaboration.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T08:19:03",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to the performance of Team Foundation Server and offers troubleshooting advice, which is not relevant to team motivation.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T19:05:23",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses practical troubleshooting steps for speed issues with Team Foundation Server, which aligns with pragmatic problem-solving in a real-world context. However, it lacks a broader discussion on Agile or Scrum principles and does not delve deeply into the complexities of project management or decision-making processes.",
     "level": "Secondary"
   },
@@ -1282,13 +1135,13 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T07:46:52",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses performance issues related to Team Foundation Server, which touches on aspects of engineering processes and server specifications. However, it lacks a direct focus on software craftsmanship, best practices, or continuous improvement in engineering processes. The discussion is more about troubleshooting and infrastructure rather than promoting high standards in software development.",
     "level": "Ignored"
   },
@@ -1310,15 +1163,6 @@
     "reasoning": "Content primarily discusses issues related to the speed and performance of Team Foundation Server, without any clear focus on asynchronous development principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T08:19:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to Team Foundation Server performance and does not reference Scrum principles, practices, or scaling methods.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-17T08:19:03",
@@ -1330,15 +1174,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T07:47:01",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses issues related to the speed of Team Foundation Server and offers practical advice on troubleshooting network and server specifications. While it touches on operational efficiency by addressing performance bottlenecks, it lacks a broader discussion on methodologies like Agile, DevOps, or Lean. The focus is primarily on specific technical issues rather than overarching operational practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -1358,24 +1202,15 @@
     "reasoning": "Content discusses technical issues related to Team Foundation Server, not Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T08:19:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to Team Foundation Server speed and performance, without any reference to scaling agile principles or frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T21:11:47",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses technical issues related to Team Foundation Server performance, with no direct mention of Scrum Master responsibilities or related concepts. It lacks alignment with the core themes of the Scrum Master role, such as facilitation, coaching, or team dynamics. The depth of discussion is focused on troubleshooting server speed rather than any aspect of Scrum or agile methodologies.",
     "level": "Ignored"
   },
@@ -1399,25 +1234,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T21:11:52",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses performance issues related to Team Foundation Server and does not mention Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-04-08T21:11:32",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on technical issues related to Team Foundation Server performance, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it touches on user experiences and server specifications, it lacks depth in addressing the core themes of social technologies, such as self-organisation or collective intelligence.",
     "level": "Ignored"
   },
@@ -1450,73 +1285,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T07:46:52",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily discusses issues related to Team Foundation Server (TFS) performance and does not mention Scrum principles, roles, events, or any related concepts. While it touches on team collaboration indirectly through server performance, it lacks any direct references to Scrum or its framework, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:50:00",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses performance issues related to Team Foundation Server and does not address the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. The focus is on server performance rather than software development practices.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-04-08T21:11:34",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on troubleshooting performance issues related to Team Foundation Server, which does not directly address the concept of Common Goals in Agile or DevOps. While it mentions aspects of server performance that could indirectly affect team collaboration, it lacks explicit discussions on shared objectives, alignment, or strategic goals. The content is more technical and operational rather than strategic, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-04-08T21:11:37",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses technical issues related to Team Foundation Server's speed and performance, with minimal focus on competence or skill development. While it touches on server specifications and troubleshooting, it lacks a direct connection to the principles of continuous learning or professional capability that define the competence category.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-04-08T21:11:39",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on diagnosing and improving performance issues related to Team Foundation Server. While it touches on aspects of performance enhancement, it lacks a comprehensive discussion on Continuous Improvement principles such as empirical evidence, culture of experimentation, or systematic strategies for ongoing enhancement. The mention of checking server specifications and network performance is relevant but does not delve into broader Continuous Improvement methodologies or frameworks.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T21:11:43",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on diagnosing and improving performance issues related to Team Foundation Server, with no explicit discussion of Agentic Agility or its principles. It lacks any mention of intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }

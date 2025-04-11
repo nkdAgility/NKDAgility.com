@@ -30,19 +30,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Experimentation
-- Discovery and Learning
 - Hypothesis Driven Development
+- Experimentation
+- Lean Startup
 - Product Discovery
 - Product Validation
-- Lean Startup
-- Ability to Innovate
-- Metrics and Learning
 - Continuous Learning
-- Products and Books
+- Evidence Based Management
+- Metrics and Learning
+- Decision Making
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

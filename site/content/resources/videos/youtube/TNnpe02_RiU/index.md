@@ -2,7 +2,7 @@
 title: What is Your Peeve in DevOps
 description: 'Join Martin Hinshelwood as he shares his top pet peeve in DevOps consulting, drawing from his extensive experience in Agile and DevOps. #DevOps #Agile #Consulting'
 date: 2023-04-27T09:30:06Z
-weight: 560
+weight: 515
 ResourceId: TNnpe02_RiU
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -31,8 +31,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Software Development
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

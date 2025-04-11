@@ -9,7 +9,7 @@ ResourceImportId: 44414
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-06-17
-weight: 420
+weight: 360
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,16 +29,20 @@ aliasesArchive:
 - /resources/blog/live-site-culture-site-reliability-engineering
 categories:
 - DevOps
+- Engineering Excellence
 preview: 2020-06-17_13-06-30-1-1.jpg
 tags:
 - Frequent Releases
 - Deployment Frequency
 - Software Development
+- Continuous Delivery
 - Operational Practices
-- Product Delivery
-- Events and Presentations
+- Organisational Agility
+- Pragmatic Thinking
 - Value Delivery
 - Market Adaptability
+- Product Delivery
+- Technical Excellence
 
 ---
 As more and more organisations move towards a higher degree of agility, they inevitably also move towards DevOps practices like Continuous Delivery to facilitate shortening the feedback loops.

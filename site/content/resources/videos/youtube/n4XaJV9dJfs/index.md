@@ -2,7 +2,7 @@
 title: 'Mastering Complexity in Scrum: Transform Your Team with Agile Product Strategy Insights'
 description: Unlock the secrets of Agile Product Strategy! Discover how understanding complexity transforms Scrum teams and enhances collaboration. Join the journey today!
 date: 2023-11-15T07:00:28Z
-weight: 720
+weight: 690
 ResourceId: n4XaJV9dJfs
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,16 +26,15 @@ preview: https://i.ytimg.com/vi/n4XaJV9dJfs/maxresdefault.jpg
 duration: 219
 isShort: false
 tags:
-- Agile Project Management
 - Complexity Thinking
-- Transparency
 - Pragmatic Thinking
 - Software Development
 - Empirical Process Control
 - Agile Transformation
+- Transparency
+- Agile Frameworks
 - Agile Product Management
-- Scrum Product Development
-- People and Process
+- Professional Scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,6 +42,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Product Development
 - Scrum
 
 ---

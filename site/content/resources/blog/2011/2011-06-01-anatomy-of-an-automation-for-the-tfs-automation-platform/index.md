@@ -9,7 +9,7 @@ ResourceImportId: 3361
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-01
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,7 +26,6 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - System Configuration
-- Practical Techniques and Tooling
 - Software Development
 - Internal Developer Platform
 categories: []

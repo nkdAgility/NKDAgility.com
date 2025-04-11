@@ -24,10 +24,10 @@ aliasesArchive:
 - /installing-visual-studio-team-foundation-server-service-pack-1
 - /resources/blog/installing-visual-studio-team-foundation-server-service-pack-1
 tags:
-- Windows
 - Install and Configuration
-- System Configuration
+- Windows
 - Troubleshooting
+- System Configuration
 categories: []
 
 ---

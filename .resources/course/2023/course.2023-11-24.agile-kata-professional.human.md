@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: course
 ResourceContentOrigin: human
 date: 2023-11-24
-weight: 775
+weight: 750
 creator: Martin Hinshelwood
 type: course
 slug: agile-kata-professional
@@ -27,13 +27,11 @@ course-learning-experiences:
 delivery-audiences:
 - Teams
 tags:
-- Agile Transformation
-- People and Process
-- Practical Techniques and Tooling
 - Agile Frameworks
+- Agile Transformation
+- Operational Practices
 - Organisational Agility
 - Organisational Change
-- Operational Practices
 - Software Development
 categories: []
 preview: NKDAgility-Courses-AKP-16x9-1.jpg

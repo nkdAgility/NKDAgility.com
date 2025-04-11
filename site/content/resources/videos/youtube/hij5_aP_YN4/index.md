@@ -2,7 +2,7 @@
 title: 'The Power of Community: Becoming an Awesome Agile Coach'
 description: 'Discover the fourth essential achievement for aspiring #AgileCoaches with Martin Hinshelwood. Elevate your skills and empower teams to thrive!'
 date: 2023-11-16T11:00:37Z
-weight: 700
+weight: 665
 ResourceId: hij5_aP_YN4
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -31,20 +31,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Mentoring
 - Coaching
 - Agile Philosophy
-- Mentoring
 - Competence
-- Agile Values and Principles
-- People and Process
+- Social Technologies
 - Software Development
-- Agile Project Management
+- Organisational Agility
 - Agile Leadership
 - Agile Transformation
+- Agile Values and Principles
+- Continuous Improvement
+- Organisational Culture
+- Team Motivation
+- Value Delivery
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 Being an effective Agile coach requires more than just mastering the frameworks and processes of Agile. It’s about continual growth, pushing your boundaries, and being part of a community that challenges you, not one that simply agrees with everything you say. If you're aiming to elevate your coaching game, the key lies in surrounding yourself with diverse perspectives that question, refine, and enhance your approach.

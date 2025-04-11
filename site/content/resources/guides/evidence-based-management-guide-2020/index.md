@@ -27,7 +27,7 @@ references:
 recommendedContent: 
 videos: 
 date: 2024-09-17
-weight: 420
+weight: 360
 creator: Martin Hinshelwood
 card:
   button:
@@ -37,20 +37,30 @@ card:
 aliases:
 - /resources/Rv0ZjvwYVy5
 categories:
+- Product Development
 - Product Management
-- Social Technologies
 - Engineering Excellence
 tags:
 - Evidence Based Management
-- Experimentation
-- Ability to Innovate
+- Continuous Improvement
+- Current Value
+- Decision Making
 - Evidence Based Leadership
+- Experimentation
+- Metrics and Learning
 - Value Delivery
 - Empirical Process Control
 - Hypothesis Driven Development
+- Software Development
 - Operational Practices
-- Continuous Improvement
-- Decision Making
+- Business Agility
+- Organisational Agility
+- Agile Philosophy
+- Agile Product Management
+- Continuous Learning
+- Digital Transformation
+- Enterprise Agility
+- Sensemaking
 
 ---
 Evidence-Based Management (EBM) is an empirical approach that helps organizations to continuously improve customer outcomes, organizational capabilities, and business results under conditions of uncertainty. It provides a framework for organizations to improve their ability to deliver value in an uncertain world, seeking a path toward strategic goals. Using intentional experimentation and evidence (measures), EBM enables organizations to systematically improve their performance over time and refine their goals based on better information

@@ -1,27 +1,27 @@
 {
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-03-14T18:23:47",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses principles related to workflow management, which touches on aspects of value stream management, such as defining and visualising workflows and improving them. However, it lacks explicit references to value stream management concepts, metrics, or techniques for analysing value streams. The discussion is more focused on general workflow management rather than the specific principles and practices of value stream management.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-14T18:23:47",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses principles of workflow management, which touches on aspects of continuous improvement and visualisation. However, it lacks explicit references to metrics, data analysis, or feedback mechanisms that are central to the 'Metrics and Learning' category. While there is a mention of improving workflow, it does not delve into evidence-based decision-making or the role of metrics in Agile or DevOps practices, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -34,10 +34,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T12:20:32",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses workflow management principles without a clear focus on Agile product management or related methodologies.",
     "level": "Ignored"
   },
@@ -52,43 +52,34 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-03-06T13:38:17",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses principles that align with Kanban, such as visualising workflows and improving processes. However, it lacks explicit references to Kanban terminology and does not delve deeply into the methodology's practices or metrics, which limits its overall alignment with the Kanban category.",
     "level": "Secondary"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T12:20:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses workflow management principles rather than code quality or complexity in software development.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T11:15:38",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses workflow management principles that focus on clarity, active management, and continuous improvement, which are relevant to DevOps. However, it does not explicitly mention DevOps or its core principles, and the discussion is primarily centred on a specific framework (Caman) rather than the broader DevOps philosophy. The depth of discussion on DevOps-related themes is limited, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T12:20:42",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses principles of workflow management rather than installation or configuration processes.",
     "level": "Ignored"
   },
@@ -101,24 +92,15 @@
     "reasoning": "Content primarily discusses workflow management principles without a clear focus on market adaptability, Agile, DevOps, or Lean methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T12:20:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the principles of Caman workflow management without discussing industry news, updates, or reviews related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T11:15:40",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses workflow management principles that align with agile methodologies, such as clarity, active management, and continuous improvement. However, it does not explicitly mention the Agile Product Operating Model or its core principles, focusing instead on a specific framework (Caman) without a direct connection to product management or the broader APOM context.",
     "level": "Ignored"
   },
@@ -131,36 +113,15 @@
     "reasoning": "Content primarily discusses workflow management principles without a focus on decision-making processes or uncertainty.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-07T12:56:31",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses workflow management principles, which indirectly relate to team processes and efficiency. However, it lacks explicit references to team dynamics, collaboration, or human behaviour, making it more focused on methodologies than on the interplay between people and processes.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T12:20:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses workflow management principles without a clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-14T18:23:48",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses principles of workflow management, which can relate to value delivery in terms of improving efficiency. However, it lacks explicit mentions of value delivery concepts and does not delve deeply into how these principles directly enhance customer value or align with Agile methodologies.",
     "level": "Ignored"
   },
@@ -184,67 +145,58 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-03-10T13:58:02",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses principles related to workflow management, which aligns with the concept of flow efficiency. However, it lacks explicit mentions of key flow efficiency metrics or techniques for eliminating bottlenecks. The discussion is somewhat superficial, focusing more on general workflow principles rather than in-depth strategies for optimising throughput.",
     "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-03-14T18:23:48",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions concepts related to workflow management and visualisation, which can be tangentially related to Systems Thinking. However, it lacks explicit discussions on the interconnectedness of components within a system, feedback loops, or holistic analysis. The focus is primarily on workflow principles rather than a comprehensive exploration of Systems Thinking principles or methodologies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T12:21:08",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses workflow management principles rather than the application lifecycle stages or management practices.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-03-14T18:23:48",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses principles related to workflow management, which aligns with Lean concepts of visualising and improving processes. However, it lacks explicit references to Lean methodologies or tools, and the discussion is more focused on general workflow management rather than Lean-specific strategies. The depth of discussion is moderate, but it does not delve into key Lean topics such as waste reduction or value stream mapping.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T12:21:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses workflow management principles without reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-14T18:23:48",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses workflow management principles that could contribute to efficiency, which is a component of business agility. However, it lacks explicit mentions of business agility and does not delve into the broader themes such as adaptability, innovation, or leadership's role in fostering agility. The focus is primarily on workflow management rather than the principles and practices that enable organisations to adapt and deliver value in a dynamic market.",
     "level": "Ignored"
   },
@@ -266,18 +218,6 @@
     "reasoning": "Content primarily discusses workflow management principles without a clear connection to platform engineering or internal developer platforms.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T11:16:19",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the principles of Caman workflow management, which relates to practical techniques in Agile methodologies. However, it lacks specific mentions of tools or frameworks, and the depth of discussion is limited to high-level principles without detailed application or case studies.",
-    "level": "Tertiary"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
     "calculated_at": "2025-02-17T12:21:18",
@@ -298,62 +238,26 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-14T18:23:48",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses principles related to workflow management, which can contribute to organisational agility, but it does not explicitly mention agility or agile methodologies. The focus is more on workflow efficiency rather than the broader strategies and cultural shifts necessary for organisational agility. While there is some alignment with the themes of continuous improvement and active management, the depth of discussion is limited and lacks a comprehensive exploration of agility as a concept.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T12:21:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses workflow management principles without a clear focus on transparency or accountability.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:21:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on workflow management principles without a clear emphasis on discovery or learning processes.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:20:50",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses workflow management principles but does not explicitly mention Evidence-Based Management or its key topics. While it touches on concepts like continuous improvement and feedback loops, which align with EBM's focus on empirical decision-making, it lacks a strong emphasis on data-informed decision-making or metrics that assess value delivery. The discussion is more about practical workflow strategies rather than evidence-based practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T12:21:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses workflow management principles without any mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T12:21:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the principles of Caman workflow management without reference to specific products, books, or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
@@ -394,41 +298,23 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:52:24",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses principles that enhance collaboration and continuous improvement within teams, aligning well with the core themes of Social Technologies. It explicitly mentions clarity, active management, and continuous improvement, which are essential for fostering teamwork and optimising workflows. The depth of discussion is substantial, providing practical strategies and insights into how these principles can be applied to improve team dynamics and decision-making. However, while it touches on social frameworks, it does not delve deeply into the broader implications of social technologies in organisational culture or behaviour, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T13:53:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on core principles of 'Caman' workflow management without referencing Kanban principles specifically or their application in scaling contexts.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T13:53:34",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses workflow management principles rather than specific system configuration practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T13:53:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Caman workflow management principles and does not discuss scaling Agile practices, frameworks, or coordination among multiple teams.",
+    "reasoning": "Content primarily discusses workflow management principles rather than specific system configuration practices.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -442,10 +328,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T13:53:34",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on workflow management principles rather than change management strategies or practices in an Agile context.",
     "level": "Ignored"
   },
@@ -460,11 +346,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T13:53:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses principles of workflow management without a clear focus on Lead Time or its measurement.",
+    "calculated_at": "2025-04-11T09:01:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses workflow management principles that indirectly relate to Lead Time, such as identifying bottlenecks and improving efficiency. However, it does not explicitly mention Lead Time or its measurement, nor does it delve into its importance as an observability metric. The focus is more on general workflow improvement rather than the specific nuances of Lead Time, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Team Motivation": {
@@ -496,10 +385,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T13:53:34",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses principles of workflow management unrelated to the Definition of Ready.",
     "level": "Ignored"
   },
@@ -541,15 +430,15 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-03-11T14:21:16",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 67.0,
     "ai_mentions": 3,
     "ai_alignment": 75.0,
     "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses principles that align with Lean Thinking, such as visualising workflows and continuous improvement. However, it does not explicitly mention Lean principles or terminology, which affects the direct mentions score. The depth of discussion is moderate, focusing on practical strategies for workflow management, which resonates with Lean concepts but lacks specific Lean tools or methodologies.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -571,10 +460,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T13:53:34",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on workflow management principles, not specifically on release management or software delivery processes.",
     "level": "Ignored"
   },
@@ -589,24 +478,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-11T16:10:10",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 72.0,
     "ai_mentions": 3,
     "ai_alignment": 80.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses principles of workflow management that align with continuous improvement and adaptability, particularly through the emphasis on feedback loops and experimentation. It mentions the importance of clarity, shared understanding, and actively managing workflows, which are relevant to continuous learning. However, while it touches on these themes, the primary focus is more on workflow management rather than explicitly on continuous learning practices, which slightly lowers the confidence score.",
     "level": "Secondary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T13:53:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Caman Workflow Management principles and does not discuss Scaling Scrum or related frameworks.",
-    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -709,10 +589,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T13:53:34",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses workflow management principles that are not specifically tied to product management strategies or methodologies.",
     "level": "Ignored"
   },
@@ -727,27 +607,27 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-03-14T18:24:00",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses workflow management principles that align with Lean concepts, such as visualising workflows and continuous improvement. However, it lacks direct references to Lean Product Development and does not explicitly address waste reduction or customer feedback, which are central to the category. The focus is more on general workflow management rather than specifically on Lean principles.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-03-13T15:01:14",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 67.0,
     "ai_mentions": 3,
     "ai_alignment": 75.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses principles that align with self-organisation, such as defining workflows and fostering collaboration. However, it lacks a direct focus on self-organisation as a primary theme and does not explicitly mention Agile or Scrum frameworks, which are central to the category. The depth of discussion on self-organisation principles is moderate, with practical strategies provided, but it does not fully explore the role of leadership or case studies, which would enhance its relevance to the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -805,15 +685,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-14T18:23:57",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the principles of Caman workflow management, which directly relates to operational practices. It provides detailed insights into defining and visualising workflows, actively managing workflow items, and continuously improving processes. Each principle is supported by practical strategies and examples, demonstrating a strong alignment with the core themes of operational efficiency and continuous improvement. The depth of discussion is substantial, offering actionable advice that can enhance team performance within Agile frameworks.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -840,15 +720,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses workflow management principles without a clear focus on Agile strategy or methodologies.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T13:53:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on workflow management principles rather than specifically addressing the role of software developers within Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -925,23 +796,26 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-03-14T18:23:52",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 50,
-    "final_score": 75.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of defining and visualising workflows, which directly relates to transparency by promoting clarity and shared understanding among team members. It highlights how visualisation can eliminate confusion and set clear expectations, aligning well with the core themes of transparency in Agile. The depth of discussion is substantial, providing actionable insights on managing workflows and fostering a culture of continuous improvement, which further supports transparency. However, while transparency is a significant focus, the content primarily revolves around workflow management principles, which slightly dilutes its primary alignment with the category.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T13:53:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T21:12:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses principles of workflow management without a clear focus on innovation capabilities or Evidence-Based Management.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses workflow management principles that promote efficiency and continuous improvement, which are indirectly related to innovation. However, it lacks explicit discussions on innovation metrics, frameworks, or case studies that would align it more closely with the 'Ability to Innovate' category. The focus is primarily on operational practices rather than fostering a culture of innovation.",
     "level": "Ignored"
   },
   "Accountability": {
@@ -955,39 +829,39 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-11T17:23:21",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Caman framework, which is related to Agile principles, particularly in workflow management. It mentions key aspects such as defining workflows, active management, and continuous improvement, which align with Agile values. However, it lacks a direct comparison to other Agile frameworks and does not delve deeply into Agile principles or case studies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-14T18:24:02",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses principles that enhance team efficiency and collaboration, aligning well with the core themes of Team Performance. It explicitly mentions strategies for defining workflows, managing tasks, and improving processes, which are crucial for agile teams. The depth of discussion on these principles indicates a strong focus on team dynamics and productivity, although it does not directly reference Agile or Scrum methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-14T14:50:14",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses principles of workflow management that indirectly relate to throughput, such as identifying bottlenecks and improving efficiency. However, it lacks explicit mentions of throughput as a metric and does not delve deeply into measurement techniques or specific strategies for optimising work completion rates. The focus is more on general workflow management rather than a concentrated discussion on throughput in Agile or DevOps contexts.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Windows": {
     "category": "Windows",
@@ -1016,15 +890,6 @@
     "reasoning": "Content heavily discusses workflow management principles rather than focusing on employee motivation, commitment, or engagement.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-14T18:23:48",
-    "ai_confidence": 25,
-    "non_ai_confidence": 10,
-    "final_score": 24.0,
-    "reasoning": "The content touches on workflow management principles but does not clearly align with key agile methodologies or concepts such as Scrum or Kanban. It lacks depth in discussing agile principles and practices.",
-    "level": "Ignored"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
     "calculated_at": "2025-02-17T13:53:35",
@@ -1045,13 +910,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T17:20:48",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses workflow management principles that focus on clarity, active management, and continuous improvement. While these concepts can relate to Continuous Delivery, the content does not explicitly mention Continuous Delivery or its specific practices. The discussion is more aligned with general workflow management rather than the specific principles and practices of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -1066,10 +931,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T13:53:35",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses principles of workflow management rather than the Definition of Done in Agile and Scrum.",
     "level": "Ignored"
   },
@@ -1127,24 +992,15 @@
     "reasoning": "Content focuses on workflow management principles rather than discussions specifically about the Product Backlog in Agile projects.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T13:53:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Caman workflow management principles and does not focus on Scrum practices or product development.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-03-14T18:23:50",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 67.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses principles that align with Lean concepts, such as visualising workflows and continuous improvement. However, it primarily focuses on the Caman framework rather than Lean principles specifically, which affects the overall confidence score.",
     "level": "Secondary"
   },
@@ -1222,33 +1078,33 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T13:53:35",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on specific principles of Caman workflow management rather than Agile values or principles.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T13:53:35",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses workflow management principles rather than portfolio management.",
     "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-03-13T15:23:57",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses workflow management principles that align with systems thinking, particularly in terms of defining, visualising, and improving workflows. It touches on concepts like clarity of process, shared understanding, and feedback loops, which are relevant to organisational dynamics. However, it lacks a deeper exploration of the interplay between organisational structure and culture, and does not explicitly mention systems thinking or organisational physics as a primary focus, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1266,15 +1122,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses workflow management principles and does not directly align with strategic discussions in Agile, Scrum, or DevOps contexts.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T13:53:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses workflow management principles and does not mention AI or its application within Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1336,15 +1183,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-14T18:23:54",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses practical strategies for workflow management within Agile contexts, emphasising clarity, active management, and continuous improvement. It aligns well with the core themes of pragmatic thinking by providing actionable insights and real-world applications, demonstrating a strong understanding of how to navigate complexities in team environments.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1364,24 +1211,15 @@
     "reasoning": "Content primarily discusses workflow management principles without a clear focus on coaching, mentoring, or facilitating growth and development within teams.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T13:53:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses workflow management principles rather than scaling agility across an organization.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T15:52:42",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses workflow management principles that align with agile methodologies, but it does not explicitly mention the role of a Scrum Master or delve into Scrum-specific practices. While there are elements of continuous improvement and team collaboration, the primary focus is on a different framework (Caman) rather than the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
@@ -1396,13 +1234,13 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-03-14T18:23:48",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses workflow visualisation and management, which are relevant to Value Stream Mapping principles. However, it does not explicitly mention Value Stream Mapping or its specific techniques, focusing instead on the Caman framework. While there are elements of identifying inefficiencies and improving workflows, the discussion lacks depth in VSM-specific methodologies and tools, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -1415,7 +1253,7 @@
     "reasoning": "Content mostly addresses workflow management principles and does not focus on the delivery of software increments in an Agile context.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T13:53:35",
     "ai_confidence": 0,
@@ -1435,13 +1273,13 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-13T16:32:04",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses principles that enhance team collaboration, such as defining workflows and fostering communication. It explicitly mentions shared understanding and regular check-ins, which are key aspects of team dynamics. However, while it aligns well with the themes of collaboration and continuous improvement, it does not delve deeply into Agile, Scrum, or DevOps frameworks specifically, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -1474,86 +1312,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T18:23:48",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses Caman workflow management principles, which are not directly related to Scrum. While there are some concepts of workflow visualisation and improvement that could loosely connect to Scrum's emphasis on continuous improvement, the content lacks explicit mentions of Scrum roles, events, or artifacts. Therefore, it does not align well with the core themes of the Scrum category.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:43:28",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses workflow management principles within the Caman framework, focusing on clarity, active management, and continuous improvement. While these concepts may tangentially relate to efficiency in software development, they do not explicitly address the Shift-Left Strategy or its core themes such as early integration of testing, security, or compliance. The discussion lacks direct mentions of Shift-Left practices and does not provide depth on how these principles could be applied to enhance software quality or delivery speed.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:20:40",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly mentions 'continuous improvement' as one of the core principles of the Caman workflow management framework, which directly aligns with the category. However, while it discusses the importance of feedback loops and experimentation, the overall focus is more on workflow management rather than a deep exploration of Continuous Improvement principles. The depth of discussion on Continuous Improvement is present but not exhaustive, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:20:41",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses workflow management principles that can enhance team efficiency but does not explicitly address Common Goals within Agile or DevOps frameworks. While it touches on collaboration and accountability, it lacks a direct focus on shared objectives or strategic alignment, which are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:20:43",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses principles of workflow management that indirectly relate to competence through continuous improvement and active management. However, it lacks explicit references to skill development or professionalism, which are central to the competence category. The focus is more on practical strategies rather than a deep exploration of competence as a foundational principle.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:20:46",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the Caman workflow management framework, focusing on its principles of clarity, active management, and continuous improvement. While it touches on themes of collaboration and efficiency, it does not explicitly mention or align with the One Engineering System (1ES) framework or its core principles. The discussion is centred around a specific methodology rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T15:52:36",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content discusses workflow management principles that focus on clarity, active management, and continuous improvement. However, it does not explicitly mention Agentic Agility or its key concepts such as intentional shaping of outcomes, the distinction between human and AI capabilities, or the role of intent and accountability. While there are elements of adaptability and proactive intervention, they are framed within general workflow management rather than the specific context of Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T21:11:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content discusses principles of workflow management that align closely with product development methodologies, particularly in the context of Agile practices. It explicitly mentions continuous improvement and feedback loops, which are key aspects of product development. The depth of discussion on managing workflows and improving processes indicates a strong focus on iterative learning and collaboration, essential for product development. However, while it touches on relevant themes, it does not delve deeply into specific product development strategies or frameworks, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T21:11:54",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses workflow management principles that focus on clarity, active management, and continuous improvement, which are relevant to team collaboration. However, it does not explicitly mention Liberating Structures or any specific techniques associated with it. The alignment with the core themes is minimal, as it lacks a focus on facilitation techniques or the principles of inclusive engagement that define Liberating Structures. The depth of discussion is also limited, as it primarily revolves around the Caman framework without integrating or referencing Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T21:11:57",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 68.0,
+    "reasoning": "The content discusses workflow management principles that align with project management concepts, such as clarity, active management, and continuous improvement. It provides practical strategies for enhancing team collaboration and efficiency, which are core themes in project management. However, it lacks explicit references to broader project management methodologies or lifecycle phases, which limits its depth in the context of traditional project management discussions.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T21:11:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Caman workflow management principles, which do not directly relate to Open Space Agile. While it discusses collaboration and continuous improvement, it lacks explicit mentions of Open Space Technology, psychological safety, or shared ownership, which are core to the Open Space Agile category. The discussion is more aligned with general workflow management rather than the specific themes of Open Space Agile.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T21:12:02",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on workflow management principles rather than discussing Unrealised Value or its indicators. While it touches on continuous improvement, which is a component of identifying potential value, it lacks explicit references to the concept of Unrealised Value or its importance in Evidence-Based Management. The discussion is more about operational efficiency and team collaboration, which does not align closely with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T21:12:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses workflow management principles that can indirectly relate to improving efficiency, which is a component of Time to Market. However, it does not explicitly mention Time to Market or its associated metrics, nor does it focus on strategies specifically aimed at reducing the time from conception to delivery. The discussion is more centred on general workflow improvement rather than the specific context of delivering market-ready products or features.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T21:12:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses workflow management principles that can indirectly relate to Current Value, such as clarity, active management, and continuous improvement. However, it lacks direct mentions of Current Value or its specific metrics and indicators. The discussion is more focused on general workflow efficiency rather than the real-time assessment of value delivered by a product or service, which is central to Current Value. Therefore, while there is some conceptual alignment, the depth and direct relevance to Current Value are limited.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T21:12:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses workflow management principles that focus on clarity, active management, and continuous improvement, which are relevant to organisational efficiency. However, it does not explicitly mention the concept of 'Company as a Product' or delve into how these principles relate to customer-centric strategies or organisational design. The discussion is more about team dynamics and workflow rather than the broader organisational strategy of CaaP, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T21:12:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on workflow management principles rather than scaling methodologies or frameworks. While it discusses collaboration and continuous improvement, which are relevant to scaling, it does not explicitly address the complexities of coordinating multiple teams or managing dependencies at scale. The principles mentioned are more aligned with general Agile practices rather than the specific strategies required for scaling Agile across an enterprise.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T21:12:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Caman workflow management principles, which do not directly address Hybrid Agile concepts. There are no explicit mentions of Hybrid Agile, and while there are elements of agile practices discussed, they lack critical examination of the integration challenges between traditional and agile methodologies. The depth of discussion is limited to practical strategies without exploring the implications or dysfunctions associated with Hybrid Agile.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T21:12:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses workflow management principles that are somewhat aligned with agile practices, such as clarity, active management, and continuous improvement. However, it does not explicitly mention Agnostic Agile or its principles, nor does it engage with the broader philosophical context of agility. The focus is primarily on the Caman framework, which limits its relevance to the Agnostic Agile category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T21:12:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses workflow management principles related to Caman, with a focus on clarity, active management, and continuous improvement. While these concepts may align with Agile methodologies, there are no direct mentions of GitHub or its functionalities. The discussion lacks specific references to GitHub services, tools, or practices, resulting in a low confidence score for the GitHub category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T21:12:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the Caman workflow management framework, focusing on principles of clarity, active management, and continuous improvement. It does not mention or align with the concepts of Cell Structure Design, such as autonomous cells, decentralisation, or the Beta Codex. The discussion is centred around workflow management rather than organisational design models, leading to a very low confidence score.",
     "level": "Ignored"
   }
 }

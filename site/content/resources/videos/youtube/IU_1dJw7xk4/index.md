@@ -32,19 +32,19 @@ sitemap:
   priority: 0.6
 tags:
 - Operational Practices
-- Agile Project Management
 - Agile Frameworks
-- Metrics and Learning
 - Software Development
+- Metrics and Learning
 - Pragmatic Thinking
-- People and Process
-- Continuous Improvement
-- Practical Techniques and Tooling
 - Agile Transformation
+- Continuous Improvement
+- Flow Efficiency
+- Project Management
 resourceTypes:
 - video
 categories:
 - Kanban
+- Product Development
 
 ---
 ### Transitioning from Traditional Project Management to Kanban

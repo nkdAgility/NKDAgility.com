@@ -9,7 +9,7 @@ ResourceImportId: 9211
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-12-31
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,11 +28,10 @@ aliasesArchive:
 - /blog/upgrading-to-team-foundation-server-2012-update-1-in-production-–-done
 - /resources/blog/upgrading-to-team-foundation-server-2012-update-1-in-production-done
 tags:
+- Software Development
 - Install and Configuration
 - System Configuration
-- Practical Techniques and Tooling
 - Windows
-- Software Development
 - Troubleshooting
 - Release Management
 - Pragmatic Thinking

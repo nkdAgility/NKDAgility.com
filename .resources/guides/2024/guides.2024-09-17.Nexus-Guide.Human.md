@@ -30,7 +30,7 @@ videos:
 - title: Overview of The Scrum Framework with Martin Hinshelwood
   embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
 date: 2024-09-17
-weight: 770
+weight: 750
 creator: Martin Hinshelwood
 card:
   button:
@@ -39,18 +39,27 @@ card:
   title: Nexus Guide
 categories:
 - Scrum
-- Social Technologies
 tags:
-- Scaling Scrum
-- Increment
-- Scrum Product Development
-- Product Delivery
-- Scaled Agile
 - Professional Scrum
+- Agile Frameworks
 - Software Development
-- Agile Project Management
+- Increment
+- Product Delivery
+- Empirical Process Control
+- Social Technologies
 - Transparency
-- Accountability
+- Value Delivery
+- Large Scale Agility
+- Working Software
+- Product Backlog
+- Scrum Team
+- Agile Transformation
+- Agile Product Management
+- Pragmatic Thinking
+- Team Collaboration
+- Team Performance
+- Cross Functional Teams
+- Product Owner
 
 ---
 The Definitive Guide to Scaling Scrum with Nexus

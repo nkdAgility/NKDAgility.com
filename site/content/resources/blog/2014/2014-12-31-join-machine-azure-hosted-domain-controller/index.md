@@ -28,10 +28,9 @@ aliasesArchive:
 - /blog/join-a-machine-to-your-azure-hosted-domain-controller
 - /resources/blog/join-machine-azure-hosted-domain-controller
 tags:
-- Install and Configuration
 - System Configuration
+- Install and Configuration
 - Windows
-- Practical Techniques and Tooling
 categories: []
 preview: nakedalm-windows-logo-6-6.png
 

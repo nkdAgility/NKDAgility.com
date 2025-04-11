@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses workflow management and permissions in SharePoint, with no clear focus on Agile principles or product management.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T11:34:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses workflow management in SharePoint, with no focus on specific products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-16T11:34:31",
@@ -53,43 +44,16 @@
     "reasoning": "Content primarily focuses on technical implementation and workflow management in SharePoint, with no clear discussion on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T11:34:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses workflow setup and permissions in SharePoint, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T11:34:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on technical instructions for setting up workflows and permissions in SharePoint, with no clear discussion on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T09:40:08",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on enabling user interaction with workflows in MySite, discussing permissions and task lists. While it touches on collaboration, it lacks a direct connection to DevOps principles such as automation, shared accountability, or continuous improvement. The discussion is more aligned with SharePoint functionalities rather than the broader DevOps philosophy.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T11:34:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses workflow management in SharePoint without any mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -112,27 +76,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T09:40:21",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on enabling user interaction with workflows in a SharePoint environment, discussing permissions and task lists. It does not mention or align with the Agile Product Operating Model or its principles, making it irrelevant to the category.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:50:24",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content provides a detailed guide on how to set up and manage workflow permissions in SharePoint, which directly relates to practical techniques and tooling in Agile and DevOps contexts. It discusses specific steps for configuring task lists and permissions, which aligns well with the category's focus on methodologies and frameworks that enhance team collaboration and performance. The content is rich in detail, offering actionable insights and considerations, although it could benefit from a broader discussion on the implications of these practices within Agile or DevOps frameworks.",
-    "level": "Secondary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -154,15 +106,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:12:34",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 82.0,
     "ai_mentions": 16,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content provides a detailed step-by-step guide on how to configure user permissions for a workflow in SharePoint, which directly aligns with the installation and configuration category. It discusses specific actions such as adding users to the 'Contributors' group, setting permissions on task lists, and navigating through SharePoint settings. The content is rich in actionable instructions and addresses potential security considerations, which are key aspects of the category. However, while it is focused on configuration, it lacks broader context on system requirements or troubleshooting, which slightly lowers the depth score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -175,32 +127,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T09:40:27",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on enabling user interaction with workflows in MySite, discussing permissions and task management. It does not explicitly mention Evidence-Based Management or its key topics, nor does it provide any empirical evidence or metrics related to decision-making or value delivery.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T11:34:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses workflow setup and permissions in SharePoint, with no focus on code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T11:34:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical how-to guide for setting up workflow permissions in SharePoint, lacking discussions on news, updates, or reviews related to Agile, DevOps, or technology.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -241,19 +175,19 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T11:35:09",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses workflow setup and permissions in SharePoint, with no focus on metrics, data analysis, or learning principles.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T11:35:10",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on SharePoint workflows and user permissions, with no clear discussion on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
@@ -284,15 +218,6 @@
     "reasoning": "Content primarily focuses on technical instructions for setting up workflows in SharePoint, lacking personal reflections or experiences.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T11:35:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details related to setting up workflows and permissions in SharePoint, without discussing learning or discovery processes.",
-    "level": "Ignored"
-  },
   "Azure DevOps": {
     "category": "Azure DevOps",
     "calculated_at": "2025-02-16T11:35:16",
@@ -300,15 +225,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses SharePoint workflows and permissions, with no clear focus on Azure DevOps functionalities or practices.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T11:35:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses how to set up workflows and permissions in SharePoint, without a clear focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -328,18 +244,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on setting up workflows and permissions in SharePoint, with no clear discussion of Systems Thinking principles or applications.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-11T12:11:10",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the process of setting up workflows and permissions in a collaborative environment, which touches on team dynamics and the importance of user access. However, it primarily focuses on technical steps rather than deeply exploring the human factors or methodologies involved in team collaboration and process improvement.",
-    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -476,7 +380,7 @@
     "reasoning": "Content primarily focuses on SharePoint workflows and task list permissions, without any mention of Agile methodologies or large-scale agility.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T18:01:20",
     "ai_confidence": 0,
@@ -487,20 +391,11 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-16T18:01:20",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses permissions and workflows in SharePoint, which is unrelated to Site Reliability Engineering principles and practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T18:01:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily focuses on setting up workflows and permissions in SharePoint, which does not align with Agile Project Management principles or practices.",
+    "reasoning": "Content discusses permissions and workflows in SharePoint, which is unrelated to Site Reliability Engineering principles and practices.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -674,24 +569,6 @@
     "reasoning": "Content discusses workflow management and permissions in SharePoint, which is unrelated to Agile or Scrum estimation practices.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T18:01:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on how to manage permissions and workflows in SharePoint, which is not directly related to the roles of software developers in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T18:01:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses user permissions and workflows in SharePoint and does not relate to AI, Agile, or DevOps.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-16T18:01:20",
@@ -703,10 +580,10 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T18:01:20",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses workflow permissions in SharePoint, which is not specifically related to the Windows operating system.",
     "level": "Ignored"
   },
@@ -730,15 +607,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:28:21",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily discusses how to manage user permissions and workflows within a SharePoint environment, which is a specific aspect of software development related to collaborative tools. While it touches on aspects of workflow management, it lacks a broader discussion on software development methodologies, best practices, or coding principles. The focus is more on practical implementation rather than theoretical frameworks or methodologies, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -747,15 +624,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses SharePoint workflow implementation and user permissions, with no clear focus on Agile frameworks or principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T18:01:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses workflow setup and permissions in SharePoint, with no reference to Agile practices or scaling Agile methodologies.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -778,13 +646,13 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-15T07:28:16",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses setting up workflows and permissions in a SharePoint environment, which involves some decision-making aspects, such as considering security risks and user access. However, it lacks a structured, evidence-based approach to decision-making and does not delve into the core themes outlined in the category, such as evidence-based management principles or cognitive biases. The focus is primarily on procedural instructions rather than on the methodologies for informed decision-making.",
     "level": "Ignored"
   },
@@ -799,10 +667,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T18:01:20",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on managing workflows and task permissions in SharePoint, without discussing innovation practices or the ability to innovate.",
     "level": "Ignored"
   },
@@ -880,10 +748,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T18:01:20",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on setting up workflow permissions in SharePoint, which is unrelated to the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
@@ -898,13 +766,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T09:40:23",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on enabling user interaction with workflows in SharePoint, discussing permissions and task lists. It does not explicitly mention Continuous Delivery or its principles, nor does it align with the core themes of Continuous Delivery such as automation, rapid feedback, or software quality. The discussion is more about collaboration and task management rather than software delivery practices.",
     "level": "Ignored"
   },
@@ -937,13 +805,13 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-03-15T07:28:13",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses user permissions and task assignments within a workflow system, which touches on aspects of transparency in terms of access and visibility of tasks. However, it lacks a comprehensive discussion on the broader implications of transparency in Agile processes, such as team dynamics or trust-building. The focus is more on technical setup rather than fostering an environment of openness and accountability.",
     "level": "Ignored"
   },
@@ -958,10 +826,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T18:01:21",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on specifc SharePoint functionality regarding task lists and user permissions, which does not relate to organisational change methodologies or strategies.",
     "level": "Ignored"
   },
@@ -994,15 +862,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-11T17:04:46",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses practical steps for managing workflows and permissions in a SharePoint environment, which aligns with operational practices. It provides specific instructions on setting up task lists and permissions, indicating a focus on improving operational efficiency. However, it lacks broader discussions on methodologies like Agile or Lean, which limits its depth and alignment with the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1022,21 +890,12 @@
     "reasoning": "Content primarily focuses on SharePoint workflow management and user permissions, which is not aligned with the principles of empirical process control in Agile methodology.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T18:01:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses workflow permissions in SharePoint without reference to Kanban principles or large-scale applications of Kanban methodology.",
-    "level": "Ignored"
-  },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T18:01:21",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses workflow and task permissions in SharePoint, which does not relate to the Definition of Ready in Agile.",
     "level": "Ignored"
   },
@@ -1069,13 +928,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:40:32",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on enabling user interaction with workflows in MySite, discussing permissions and task management. It does not mention Test First Development principles, success criteria, or any testing methodologies, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
@@ -1108,10 +967,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T18:01:21",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses how to allow users to interact with workflows in SharePoint, which focuses on technical setup rather than change management principles or practices.",
     "level": "Ignored"
   },
@@ -1153,15 +1012,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T18:56:39",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content provides practical steps for setting up workflows and managing permissions in SharePoint, which aligns with pragmatic problem-solving in a real-world context. However, it lacks a deeper exploration of Agile, Scrum, or DevOps principles, and does not explicitly discuss adaptability or critical thinking, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -1201,13 +1060,13 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-03-11T15:14:20",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses how to set up workflows and permissions for task lists in a SharePoint environment, which relates to collaboration tools. However, it lacks a broader discussion on various collaboration tools or their integration with Agile methodologies. The focus is primarily on specific steps rather than a comprehensive overview or best practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1247,36 +1106,27 @@
     "reasoning": "Content primarily discusses setting up user permissions and workflow interactions in SharePoint, which does not directly relate to software deployment strategies.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T18:01:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses setting up workflow permissions in SharePoint and does not relate to Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T07:28:19",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on setting up permissions for a workflow in MySite, which is more about configuration than troubleshooting. While it touches on potential security risks and considerations, it lacks a clear emphasis on diagnosing or resolving specific technical issues. The discussion is more instructional than diagnostic, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:40:34",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on enabling user interaction with workflows in MySite, discussing permissions and task lists. It does not mention the role of a Scrum Master, nor does it align with the core themes of Scrum or agile principles. The discussion is more about technical implementation rather than the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
@@ -1291,15 +1141,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-11T10:45:24",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses how to set up workflows and permissions for task lists in a SharePoint environment, which indirectly relates to team collaboration by enabling task assignment and access for colleagues. However, it lacks a direct focus on enhancing team dynamics, communication, or shared ownership, which are core themes of the 'Team Collaboration' category. The discussion is primarily procedural and does not delve into strategies or techniques for improving collaboration or fostering a culture of trust.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Strategy": {
     "category": "Strategy",
@@ -1312,10 +1162,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T18:01:21",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on workflow management and permissions in SharePoint, with no significant discussion on Agile values or principles.",
     "level": "Ignored"
   },
@@ -1326,15 +1176,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses setting up workflow permissions in SharePoint, which is unrelated to Test Driven Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T18:01:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint workflow management and task assignment, with no mention of Scrum principles, practices, or scaling in any capacity.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1366,24 +1207,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-10T15:10:05",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on configuring user permissions and workflows within a SharePoint environment, which aligns with system configuration practices. It discusses specific steps for setting up task lists and managing user access, which are key aspects of system configuration. However, while it provides detailed instructions, it lacks broader discussions on optimisation strategies or configuration management tools, which slightly limits its depth of discussion.",
     "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T18:01:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses how to manage workflows and permissions in SharePoint, without any clear focus on scaling agility principles or practices.",
-    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1405,15 +1237,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:49:41",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on enabling user interaction with workflows in MySite, which touches on collaboration and task assignment. However, it lacks a deeper exploration of social technologies' principles such as self-organisation, collective intelligence, or transparency. While it mentions collaboration, it does so in a technical context without addressing the broader social frameworks or methodologies that underpin effective collaboration and decision-making in organisations.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1444,73 +1276,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T07:28:13",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on workflow management within SharePoint, discussing task assignment and permissions. It does not mention Scrum roles, events, or principles, nor does it align with the core themes of the Scrum framework. The discussion is more about technical implementation rather than Scrum practices.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:39:41",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on setting up workflows and managing permissions in SharePoint, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. While there are mentions of security risks, they do not align with the proactive principles of the Shift-Left Strategy. Overall, the content does not address the core themes or provide depth related to the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T09:40:12",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on enabling user interaction with workflows in MySite, discussing permissions and task lists. While it touches on collaboration, it lacks a direct focus on Continuous Improvement principles, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The discussion is more operational and procedural rather than reflective or strategic, which is essential for Continuous Improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T09:40:15",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical instructions for enabling user interaction with workflows on MySite, discussing permissions and task lists. While it touches on collaboration, it does not explicitly address the concept of Common Goals or their significance in Agile and DevOps frameworks. The discussion lacks depth in connecting individual contributions to overarching strategic objectives, which is essential for a higher confidence score in this category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T09:40:18",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on technical instructions for enabling user interaction with workflows on MySite, which does not directly address the concept of competence. While there are implications of collaboration and permissions that could relate to team effectiveness, the discussion lacks explicit references to continuous learning, skill development, or the professional principles outlined in the competence category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:40:29",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on enabling user interaction with workflows in MySite, discussing permissions and task management. While it touches on collaboration, it lacks explicit discussions on Agentic Agility principles, intent, or the interplay between human and AI capabilities. The content does not delve into the transformative capacity of individuals or systems, nor does it provide depth on the intentional shaping of outcomes, which are central to the category.",
     "level": "Ignored"
   }

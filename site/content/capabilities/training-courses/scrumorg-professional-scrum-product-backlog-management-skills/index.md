@@ -7,7 +7,7 @@ ResourceType: course
 ResourceContentOrigin: human
 shortTitle: Product Backlog Management Skills
 date: 2023-09-27
-weight: 775
+weight: 750
 creator: Martin Hinshelwood
 type: course
 slug: professional-scrum-product-backlog-management-skills-with-certification
@@ -31,18 +31,25 @@ delivery-audiences:
 - Scrum Masters
 - Lean Agile Practitioners
 tags:
-- Agile Project Management
-- Transparency
-- Agile Product Management
-- Scrum Product Development
-- Product Backlog
-- Product Owner
-- Professional Scrum
-- Transparency and Accountability
 - Agile Frameworks
 - Agile Planning
+- Agile Planning Tools
+- Agile Product Management
+- Agile Transformation
+- Backlog Refinement
+- Pragmatic Thinking
+- Product Backlog
+- Product Delivery
+- Product Owner
+- Professional Scrum
+- Software Development
+- Transparency
+- Value Delivery
+- Decision Making
+- Product Strategy
 categories:
 - Scrum
+- Product Development
 - Product Management
 preview: naked-agility-Professional-Scrum-PSPBMS-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PSPBMS-400x.png

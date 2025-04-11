@@ -32,13 +32,12 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
-- People and Process
-- Agile Values and Principles
-- Agile Project Management
+- Agnostic Agile
 - Agile Transformation
 - Organisational Agility
 - Personal
 - Pragmatic Thinking
+- Agile Values and Principles
 resourceTypes:
 - video
 layout: video

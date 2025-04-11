@@ -17,24 +17,24 @@
     - /learn/agile-delivery-kit/workshops/The-Importance-of-Batch-to-Optimise-Flow
     - /learn/agile-delivery-kit/workshops/the-importance-of-batch-to-optimise-flow/
     date: 2024-09-17
-    weight: 620
+    weight: 580
     creator: Martin Hinshelwood
     card:
       button:
         content: Learn More
       content: Discover more about The Importance of Batch to Optimise Flow and how it can help you in your Agile journey!
       title: The Importance of Batch to Optimise Flow
-    categories:
-    - Social Technologies
-    - Scrum
-    - Kanban
+    categories: []
     tags:
     - Flow Efficiency
     - Operational Practices
     - Lean Principles
     - Lean Thinking
-    - People and Process
-    - Practical Techniques and Tooling
+    - Continuous Improvement
+    - Pragmatic Thinking
+    - Software Development
+    - Throughput
+    - Product Delivery
     - Value Delivery
   BodyContent: |
     ## Duration
@@ -129,7 +129,7 @@
     - /learn/agile-delivery-kit/workshops/Customer-Working-Agreement
     - /learn/agile-delivery-kit/workshops/customer-working-agreement/
     date: 2024-09-17
-    weight: 855
+    weight: 840
     creator: Martin Hinshelwood
     draft: true
     card:
@@ -138,12 +138,12 @@
       content: Discover more about  and how it can help you in your Agile journey!
       title: 
     categories:
-    - Social Technologies
     - Scrum
-    - Product Management
     tags:
-    - Agile Project Management
+    - Common Goals
     - Working Agreements
+    - Transparency
+    - Agile Product Management
   BodyContent: |
     ## Customer Working Agreement
 
@@ -200,55 +200,6 @@
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\workshops\customer-working-agreement\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\workshops\customer-working-agreement
 - FrontMatter:
-    title: Definition of Done
-    description: Explore the Definition of Done (DoD) in this 4-hour workshop, featuring engaging exercises and insights to enhance your team's understanding of project completion.
-    ResourceId: IgRDk1wrh65
-    ResourceImport: false
-    ResourceType: workshops
-    ResourceContentOrigin: Human
-    resourceTypes: workshop
-    layout: workshop
-    aliases:
-    - /workshops/Definition-Of-Done.html
-    - /learn/agile-delivery-kit/workshops/Definition-Of-Done
-    - /learn/agile-delivery-kit/workshops/definition-of-done/
-    - /resources/IgRDk1wrh65
-    aliasesArchive:
-    - /workshops/Definition-Of-Done.html
-    - /learn/agile-delivery-kit/workshops/Definition-Of-Done
-    - /learn/agile-delivery-kit/workshops/definition-of-done/
-    date: 2024-09-17
-    weight: 1000
-    creator: Martin Hinshelwood
-    draft: true
-    card:
-      button:
-        content: Learn More
-      content: Discover more about  and how it can help you in your Agile journey!
-      title: 
-    categories:
-    - Scrum
-    tags: []
-  BodyContent: |
-    # What is the Definition of Done (DoD)
-
-    ## Duration
-
-    4h
-
-    ## Purpose
-
-    ## Steps
-
-    1. Definition of Done Icebreaker - Exercise 10 minutes
-    2. What is a Definition of Done? - Teaching Block 10 minutes
-    3. How "Done" is an increment? - Exercise 45 minutes
-    4.
-
-    ## Takeaways
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\workshops\definition-of-done\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\workshops\definition-of-done
-- FrontMatter:
     title: 'Sprint Review #1'
     resourceTypes: workshop
     layout: workshop
@@ -285,7 +236,7 @@
     - title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
       embed: https://www.youtube.com/embed/1-W64WdSbF4
     date: 2024-09-17
-    weight: 675
+    weight: 640
     card:
       button:
         content: Learn More
@@ -295,15 +246,25 @@
     - Scrum
     tags:
     - Sprint Review
-    - Agile Project Management
+    - Empirical Process Control
     - Transparency
-    - Scrum Product Development
-    - People and Process
     - Professional Scrum
+    - Agile Frameworks
     - Agile Product Management
+    - Agile Planning
     - Product Delivery
     - Software Development
     - Team Performance
+    - Scrum Team
+    - Team Collaboration
+    - Value Delivery
+    - Agile Transformation
+    - Pragmatic Thinking
+    - Working Software
+    - Common Goals
+    - Continuous Improvement
+    - Decision Making
+    - Product Backlog
   BodyContent: |
     While this workshop can be used on its own, it was designed to be used as part of the [Sprint Review Recipe](../_recipes/sprint-review-recipe.md).
 
@@ -391,4 +352,52 @@
     Close the Sprint Review by reiterating the purpose as well as the highlights that emerged. This is also an excellent opportunity to thank everyone who participated in the inspection and encourage them to join again for the next Sprint Review.
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\workshops\sprint-review-1\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\workshops\sprint-review-1
+- FrontMatter:
+    title: Definition of Done
+    description: Explore the Definition of Done (DoD) in this 4-hour workshop, featuring engaging exercises and insights to enhance your team's understanding of project completion.
+    ResourceId: IgRDk1wrh65
+    ResourceImport: false
+    ResourceType: workshops
+    ResourceContentOrigin: Human
+    resourceTypes: workshop
+    layout: workshop
+    aliases:
+    - /workshops/Definition-Of-Done.html
+    - /learn/agile-delivery-kit/workshops/Definition-Of-Done
+    - /learn/agile-delivery-kit/workshops/definition-of-done/
+    - /resources/IgRDk1wrh65
+    aliasesArchive:
+    - /workshops/Definition-Of-Done.html
+    - /learn/agile-delivery-kit/workshops/Definition-Of-Done
+    - /learn/agile-delivery-kit/workshops/definition-of-done/
+    date: 2024-09-17
+    weight: 1000
+    creator: Martin Hinshelwood
+    draft: true
+    card:
+      button:
+        content: Learn More
+      content: Discover more about  and how it can help you in your Agile journey!
+      title: 
+    categories: []
+    tags: []
+  BodyContent: |
+    # What is the Definition of Done (DoD)
+
+    ## Duration
+
+    4h
+
+    ## Purpose
+
+    ## Steps
+
+    1. Definition of Done Icebreaker - Exercise 10 minutes
+    2. What is a Definition of Done? - Teaching Block 10 minutes
+    3. How "Done" is an increment? - Exercise 45 minutes
+    4.
+
+    ## Takeaways
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\workshops\definition-of-done\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\workshops\definition-of-done
 

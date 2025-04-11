@@ -2,7 +2,7 @@
 title: "Navigating Team Conflict: How Scrum Masters Can Prevent 'War' in Agile Projects"
 description: Discover how to identify and manage escalating team conflicts in Agile. Learn strategies to foster collaboration and keep your projects on track!
 date: 2023-10-30T14:30:10Z
-weight: 670
+weight: 640
 ResourceId: Wk0no7MB0AM
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -27,12 +27,10 @@ preview: https://i.ytimg.com/vi/Wk0no7MB0AM/maxresdefault.jpg
 duration: 59
 isShort: true
 tags:
-- Agile Project Management
 - Scrum Master
 - Scrum Team
 - Agile Frameworks
 - Agile Product Management
-- People and Process
 - Software Development
 sitemap:
   filename: sitemap.xml

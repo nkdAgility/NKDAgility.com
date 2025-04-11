@@ -1,13 +1,13 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:11:15",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the tactical aspects of Scrum, specifically the concept of a sprint goal. While it touches on collaboration and team dynamics, it does not delve deeply into the broader themes of social technologies such as self-organisation, collective intelligence, or transparency. The discussion is more centred on the mechanics of Scrum rather than the underlying social frameworks that drive collaboration and decision-making within teams.",
     "level": "Ignored"
   },
@@ -22,27 +22,27 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T19:40:13",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the concept of sprint goals within the Scrum framework, which is a specific Agile methodology. While it touches on aspects of team collaboration and feedback, it does not engage with the broader principles of DevOps, such as automation, shared accountability, or continuous improvement. Therefore, it lacks sufficient alignment and depth in relation to the DevOps category.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T12:10:52",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the concept of a Sprint goal, which is a tactical aspect of Agile and Scrum frameworks. While it touches on the role of stakeholders and feedback, it lacks a broader discussion on strategic alignment, customer needs, or business objectives, which are central to product management. The focus is more on the tactical execution rather than the strategic implications of product management.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -73,13 +73,13 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-07T13:56:44",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the concept of a Sprint goal, which is a key element of the Scrum framework. However, it does not explicitly mention other Scrum roles, events, or principles, leading to a lower score in direct mentions. The discussion aligns conceptually with Scrum's focus on tactical goals within the framework, but lacks depth in exploring broader Scrum principles or practices.",
     "level": "Secondary"
   },
@@ -94,32 +94,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T19:40:32",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the concept of sprint goals within the Scrum framework, discussing their tactical nature and importance in guiding team efforts. However, it does not engage with the principles of Evidence-Based Management, such as data-informed decision-making or empirical metrics. The discussion is centred around Scrum practices rather than evidence-based practices, leading to a low confidence score.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T23:09:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T23:09:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -133,15 +115,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-10T12:10:55",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 65.0,
     "ai_mentions": 70.0,
     "ai_alignment": 60.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 58.0,
+    "final_score": 65.0,
     "reasoning": "The content discusses the concept of a Sprint goal, which is a key element of the Scrum framework, thus directly mentioning an Agile framework. It aligns with the core themes of Agile frameworks by focusing on tactical goals that contribute to product vision and stakeholder feedback. However, the discussion lacks depth in exploring broader Agile principles or comparative analysis with other frameworks, which slightly lowers the overall confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -154,10 +136,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T23:09:12",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of a Sprint goal, which is not directly related to the Definition of Ready.",
     "level": "Ignored"
   },
@@ -168,15 +150,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of a Sprint goal, which is tactical in nature and does not address trend analysis or its implications within Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T23:09:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the concept of a Sprint goal, which is specific to individual Agile practices rather than the scaling of Agile across multiple teams or at an enterprise level.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -199,13 +172,13 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-03-10T14:19:55",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 55.0,
     "ai_mentions": 30.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 52.0,
+    "final_score": 55.0,
     "reasoning": "The content briefly mentions the Sprint Review in the context of stakeholder feedback but primarily focuses on defining the Sprint goal. While it touches on the importance of stakeholder input during the review, it does not delve into the specifics of the Sprint Review process or its broader implications within the Scrum framework.",
     "level": "Tertiary"
   },
@@ -220,13 +193,13 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-14T23:52:28",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly discusses the concept of a Sprint goal, which is a tactical element of Agile methodology. However, it does not delve into team dynamics, collaboration, or performance metrics, which are central to the 'Team Performance' category. The mention of stakeholder feedback is relevant but does not provide sufficient depth or alignment with the broader themes of team effectiveness and collaboration.",
     "level": "Ignored"
   },
@@ -250,24 +223,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T10:12:56",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the concept of a Sprint goal, which is a tactical element of Agile methodologies relevant to product delivery. However, it lacks broader discussions on the end-to-end process of delivering software products, such as planning, testing, and deployment. While it aligns with Agile principles, it does not provide in-depth coverage of the overall product delivery framework.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T23:09:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -278,18 +242,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-11T11:35:57",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content briefly discusses the concept of a Sprint goal, which is a tactical element of Agile methodology. However, it lacks a deeper exploration of team dynamics, collaboration, or the human factors involved in achieving the Sprint goal. While it touches on stakeholder feedback, it does not delve into the broader implications for team processes or leadership roles, resulting in a moderate confidence score.",
-    "level": "Tertiary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-17T23:09:30",
@@ -298,18 +250,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of a Sprint goal within the context of Agile methodologies, without any reference to Test Driven Development principles or practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-11T14:40:37",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content focuses extensively on the concept of a sprint goal within the Scrum framework, which is a core aspect of Agile Project Management. It discusses the tactical nature of sprint goals, their importance in guiding team efforts, and how they relate to broader product goals. The depth of discussion is significant, providing insights into the role of sprint goals in facilitating feedback and stakeholder engagement. Overall, the content aligns well with Agile principles, making it a strong fit for the category.",
-    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -327,15 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of Sprint goals without addressing accountability or team ownership.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T23:09:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the concept of a Sprint goal and its tactical nature, without addressing transparency or accountability principles.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -385,34 +316,34 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T16:54:17",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses the concept of a sprint goal within the Scrum framework, which is relevant to the role of a Scrum Master. However, it does not explicitly address the responsibilities or influence of the Scrum Master, focusing instead on tactical aspects of Scrum. While it mentions the importance of goals in guiding the team, it lacks depth in discussing the Scrum Master's role in facilitating these processes or fostering team dynamics.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-11T16:29:55",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the concept of a sprint goal within the Scrum framework, which is a key aspect of Agile Planning. It explicitly mentions the tactical nature of sprint goals and their role in guiding team focus and progress, aligning well with Agile principles. The depth of discussion is substantial, providing insights into how sprint goals connect to broader product goals and the importance of stakeholder feedback. However, while it is focused on a specific Agile practice, it does not cover a wider range of Agile Planning topics, which slightly limits its overall alignment.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T23:09:45",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of a Sprint goal, which is specific to Scrum and does not focus on the underlying Agile values and principles.",
     "level": "Ignored"
   },
@@ -427,13 +358,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:54:22",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the concept of sprint goals within the Scrum framework, which is not directly related to Test First Development. While it touches on aspects of goal setting and feedback, it does not discuss success criteria, testing practices, or the principles of Test First Development. Therefore, the confidence score reflects minimal relevance to the category.",
     "level": "Ignored"
   },
@@ -493,22 +424,22 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T23:09:58",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of a Sprint goal, which is primarily tactical and does not focus on the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-11T17:42:33",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 75.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily discusses the concept of a sprint goal within the Scrum framework, which is a key aspect of Agile methodologies. While it does not explicitly mention Agile transformation, it aligns well with Agile principles and practices, particularly in how it addresses tactical objectives and the importance of feedback mechanisms. However, it lacks a broader discussion on organisational change or transformation strategies, which limits its depth in the context of Agile transformation.",
     "level": "Secondary"
   },
@@ -539,24 +470,6 @@
     "reasoning": "Content primarily discusses the concept of a Sprint goal, which is more related to Scrum events and roles rather than the Scrum Values themselves.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T23:10:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T23:10:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of a Sprint goal without reference to specific tools, methodologies, or practical techniques related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
     "calculated_at": "2025-02-17T23:10:07",
@@ -568,10 +481,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T23:10:09",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of a Sprint goal, which is tactical in nature and does not focus on the Product Backlog or its management.",
     "level": "Ignored"
   },
@@ -584,21 +497,12 @@
     "reasoning": "Content heavily discusses the concept of a Sprint goal without any personal reflections or experiences.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T23:10:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of a Sprint goal without reference to any events, presentations, or discussions related to Agile or DevOps gatherings.",
-    "level": "Ignored"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T23:10:14",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of a Sprint goal, which is more related to Scrum practices rather than working agreements or team collaboration norms.",
     "level": "Ignored"
   },
@@ -613,24 +517,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-13T15:41:42",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily discusses the concept of a sprint goal, which is a tactical element within the Scrum framework. While it does touch on the importance of the sprint goal for team focus and cohesion, it lacks a direct exploration of team dynamics, roles, or collaboration techniques that are central to the Scrum Team category. The discussion is somewhat aligned with the category's themes but does not delve deeply into the roles or interactions of team members.",
     "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T23:10:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the concept of a Sprint goal, which is focused on team-level agile practices rather than scaling agility across the organisation.",
-    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -652,13 +547,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T19:40:30",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the concept of sprint goals within the Scrum framework, which is a specific Agile methodology. While it touches on aspects of team focus and feedback, it does not discuss Continuous Delivery principles, practices, or tools. The discussion is centred around tactical objectives in Scrum rather than the broader context of Continuous Delivery, leading to a very low confidence score.",
     "level": "Ignored"
   },
@@ -673,10 +568,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T23:10:24",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of a Sprint goal without addressing remote working practices, challenges, or solutions.",
     "level": "Ignored"
   },
@@ -691,10 +586,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T23:10:26",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of a Sprint goal, focusing on tactical aspects rather than team collaboration dynamics or communication.",
     "level": "Ignored"
   },
@@ -707,7 +602,7 @@
     "reasoning": "Content primarily discusses the concept of a Sprint goal rather than the Daily Scrum event or its related practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T23:10:29",
     "ai_confidence": 0,
@@ -725,15 +620,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T23:10:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T23:10:32",
@@ -745,13 +631,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T19:40:27",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, which is a specific agile practice rather than a discussion on the Agile Product Operating Model as a whole. While it touches on product goals and vision, it does not delve into the broader principles or operational aspects of APOM, such as transitioning from project to product ethos or governance in product delivery.",
     "level": "Ignored"
   },
@@ -820,10 +706,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T23:10:44",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of Sprint goals in Scrum, which is more focused on tactical planning rather than metrics or learning processes.",
     "level": "Ignored"
   },
@@ -838,10 +724,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T23:10:46",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -852,15 +738,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of a Sprint goal, which is a tactical aspect of Scrum, rather than focusing on mentoring or coaching in Agile environments.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T23:10:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the concept of a Sprint goal without any mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -874,15 +751,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-14T23:52:28",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 42.0,
     "ai_mentions": 3,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the concept of a sprint goal within the Scrum framework, highlighting its tactical nature and its role in guiding immediate team efforts towards broader product goals. While it touches on strategic elements like product vision and goals, the primary focus remains on the tactical aspects of Scrum rather than a comprehensive strategic discussion. The content does not delve deeply into strategic alignment or broader strategic practices, which limits its alignment with the Strategy category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -967,15 +844,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-14T23:52:31",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, which is a key aspect of Agile Product Management. It discusses the tactical nature of sprint goals, their role in aligning team efforts with product vision, and the importance of stakeholder feedback, all of which are relevant to Agile principles. The depth of discussion is substantial, providing insights into how sprint goals function and their significance in the product development process.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -995,15 +872,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T23:11:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of a Sprint goal, which is a tactical aspect of Scrum, but does not address scaling Scrum practices or frameworks.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-17T23:11:09",
@@ -1011,15 +879,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T23:11:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the concept of a Sprint goal without reference to specific products, books, or tools related to Agile methodologies.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
@@ -1042,23 +901,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-14T23:52:34",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the concept of a sprint goal within the Scrum framework, focusing on its tactical nature and practical implications for team progress. It highlights the importance of actionable feedback and the immediate focus that a sprint goal provides, aligning well with pragmatic thinking principles. However, while it offers valuable insights, it does not delve deeply into broader problem-solving strategies or complex environments, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T23:11:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:52:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Sprint goals and their tactical nature, with no mention of Lead Time or related metrics.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, discussing its tactical nature and importance in guiding team efforts. There are no direct mentions of Lead Time, nor does it explore the relationship between Lead Time and other metrics like Cycle Time. The discussion lacks depth regarding Lead Time as an observability metric or strategies for optimising it, which are key aspects of the category. Overall, the content does not align with the core themes of Lead Time.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1072,15 +934,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-14T23:52:36",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the concept of a sprint goal within the Scrum framework, which is relevant to working software as it highlights the tactical aspects of achieving product goals. However, while it touches on the importance of feedback and alignment with broader objectives, it does not delve deeply into the delivery of functional software or best practices for ensuring software quality. The focus is more on the tactical nature of sprint goals rather than the overall delivery of working software.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1111,27 +973,27 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-03-14T23:52:40",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the tactical aspects of Scrum, specifically the concept of a sprint goal. While it briefly touches on the importance of a product vision and goal, the discussion is largely centred around immediate tasks and tactical execution rather than strategic planning or methodologies for product development. The content does not delve into broader product strategy themes such as market analysis, customer-centric approaches, or long-term vision formulation, which are essential for a higher confidence score in this category.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T23:52:43",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, which is a key aspect of Agile methodologies in software development. It discusses the tactical nature of sprint goals, their importance in guiding team efforts, and how they relate to broader product goals. The depth of discussion is substantial, providing insights into the practical application of sprint goals, which aligns well with the core themes of software development practices. The content is rich in detail and directly relevant to Agile practices, justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1178,18 +1040,6 @@
     "reasoning": "Content primarily discusses the concept of a Sprint goal, which is a tactical aspect of Agile methodologies, rather than focusing on cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-14T23:52:46",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 0,
-    "final_score": 70.0,
-    "reasoning": "The content primarily discusses the concept of a sprint goal within the Scrum framework, which is a key aspect of Agile methodologies. It directly addresses how sprint goals drive progress and their tactical importance, aligning well with the role of software developers in Agile practices. The depth of discussion is substantial, providing insights into the nature and evaluation of sprint goals, which are crucial for developers working in Agile teams. However, while it is focused on Agile, it does not delve deeply into broader DevOps principles or tools, slightly limiting its overall alignment with the category.",
-    "level": "Secondary"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-17T23:11:34",
@@ -1210,32 +1060,23 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T23:11:36",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of a Sprint goal within Agile methodology, which is not related to installation or configuration processes.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-03-14T23:52:49",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the concept of a sprint goal within the Scrum framework, which is more focused on Scrum practices rather than the specific responsibilities and skills of a Product Owner. While it touches on stakeholder feedback, it does not delve into the Product Owner's role in backlog management or prioritisation strategies, which are key aspects of the category.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T23:11:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of a Sprint goal within Scrum, lacking a focus on news, updates, or reviews related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1285,10 +1126,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T23:11:51",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of a Sprint goal in Scrum, focusing on tactical aspects rather than team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1303,41 +1144,47 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T23:11:54",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of a Sprint goal within the context of Scrum, focusing on tactical aspects rather than validating product ideas through user engagement.",
     "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T23:11:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:52:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the concept of a Sprint goal, which is more focused on tactical objectives rather than the measurement and optimisation of work completion rates.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, discussing its tactical nature and importance in guiding team efforts. However, it does not explicitly mention throughput as a delivery metric, nor does it analyse or visualise throughput in any way. The discussion is centred around the sprint goal rather than throughput as a metric of delivery capacity or performance, leading to a very low confidence score in alignment with the category.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-14T23:52:52",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the concept of a sprint goal within the Scrum framework, highlighting its tactical nature and importance in guiding team efforts towards a product vision. While it does not explicitly mention value delivery, it aligns with the core themes of iterative development and customer feedback, which are essential for delivering value. However, the focus remains primarily on the tactical aspects of Scrum rather than broader value delivery strategies, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T23:12:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:52:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses exclusively on the concept of sprint goals within the Scrum framework, which is related to Agile project management rather than system configuration. There are no direct mentions of system configuration, and the discussion does not align with the core themes of system setup, integration, or maintenance. The depth of discussion is also limited to Scrum practices, further distancing it from the category of system configuration.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1351,24 +1198,12 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T23:12:38",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-14T23:52:54",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
-    "non_ai_confidence": 20,
-    "final_score": 80.0,
-    "reasoning": "The content provides a thorough exploration of the concept of a sprint goal within the Scrum framework, discussing its tactical importance and how it aligns with broader product goals. It directly mentions Scrum principles and roles, demonstrating a strong alignment with the category. The depth of discussion is significant, offering insights into the nature of sprint goals and their role in product development, while also emphasising the importance of stakeholder feedback. Overall, the content is highly relevant to Scrum Product Development.",
-    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1381,24 +1216,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T23:12:42",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of a Sprint goal, which is not directly related to the Definition of Done.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-14T23:52:57",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on the tactical aspects of a sprint goal within the Scrum framework, which is a specific Agile practice. While it touches on the connection between sprint goals and broader product vision, it lacks a comprehensive discussion on Agile strategy as a whole. The emphasis is more on tactical execution rather than strategic alignment or implementation at scale, which diminishes its relevance to the Agile Strategy category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Increment": {
     "category": "Increment",
@@ -1420,13 +1255,13 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-14T23:52:59",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, which is a tactical aspect of Agile methodologies. While it touches on the importance of feedback and alignment with broader product goals, it does not delve into the broader themes of organisational agility, such as leadership roles, cultural shifts, or continuous improvement strategies. The discussion is more about the mechanics of Scrum rather than how these practices contribute to organisational adaptability and responsiveness.",
     "level": "Ignored"
   },
@@ -1468,86 +1303,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:23:07",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 75.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
+    "final_score": 75.0,
     "reasoning": "The content explicitly discusses the concept of a Sprint goal, which is a key element of the Scrum framework. It aligns with the Scrum principles by focusing on tactical objectives that contribute to the overall product goal and encourages stakeholder feedback, reflecting the iterative nature of Scrum. However, the depth of discussion is limited, as it does not cover other Scrum roles, events, or artifacts in detail.",
     "level": "Secondary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:02:36",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, discussing its tactical nature and importance in guiding team efforts. It does not address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is centred around Agile and Scrum practices, which are not directly related to integrating testing, security, or compliance earlier in the development process.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T19:40:16",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, which is more tactical than strategic. While it touches on aspects of feedback and team focus, it does not delve into Continuous Improvement principles such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The discussion lacks depth in relation to Continuous Improvement, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T19:40:19",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 72.0,
     "ai_mentions": 60.0,
     "ai_alignment": 80.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the concept of a sprint goal in detail, highlighting its tactical nature and its connection to broader strategic objectives like the product goal and vision. It explicitly mentions how the sprint goal serves as a guide for immediate tasks, which aligns well with the principles of Common Goals in Agile. However, while it touches on the importance of alignment with the product vision, it does not delve deeply into the broader implications of Common Goals or frameworks like OKRs, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T19:40:21",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the tactical aspect of sprint goals within the Scrum framework, which is more about process and methodology than directly discussing competence. While it touches on the importance of clear objectives and feedback mechanisms, it does not delve into continuous learning, skill development, or the broader implications of competence in Agile practices. Therefore, while there is some alignment with the category, it is not a primary focus.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:40:25",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the concept of sprint goals within the Scrum framework, which is a specific Agile methodology. It does not discuss the One Engineering System (1ES) or its principles, components, or implementation. The discussion is centred around Scrum practices, making it largely irrelevant to the 1ES category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:54:15",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the concept of sprint goals within the Scrum framework, discussing tactical aspects and immediate objectives. It does not explicitly address Agentic Agility or its principles, nor does it differentiate between human and AI capabilities in the context of agility. The discussion lacks depth regarding intentional shaping of outcomes and does not explore the transformative capacity of individuals or systems, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T11:52:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, which is a key aspect of Agile product development. It discusses the tactical nature of sprint goals and their importance in aligning immediate tasks with broader product objectives, thus directly addressing principles of Agile product development. The content provides a detailed exploration of how sprint goals facilitate progress and integrate customer feedback, aligning well with the core themes of the category. However, while it is rich in detail regarding sprint goals, it does not extensively cover other aspects of product development methodologies or practices, which slightly limits its depth of discussion.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T11:52:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of sprint goals within the Scrum framework, which is a traditional Agile methodology. It does not mention Open Space Agile or its principles, nor does it discuss topics such as psychological safety, co-creation, or iterative dialogue that are central to Open Space Agile. The discussion is tactical and specific to Scrum, lacking any broader organisational agility themes that would align with Open Space Agile.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T11:52:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, discussing its tactical nature and importance in guiding team efforts. However, it does not engage with the principles of Agnostic Agile, such as ethical considerations, critical thinking, or the adaptability of methods based on context. There are no direct mentions of Agnostic Agile or comparisons with other methodologies, which limits its relevance to the category.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T11:52:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, which is a tactical aspect of Agile rather than a discussion on scaling methodologies or frameworks. While it touches on the importance of alignment with broader product goals, it does not delve into the complexities of scaling Agile practices, cross-team collaboration, or managing dependencies, which are essential for the 'Scaling' category. Therefore, the confidence score reflects a very low alignment with the specified category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T11:52:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses exclusively on the concept of sprint goals within the Scrum framework, which is unrelated to Cell Structure Design. There are no direct mentions of the principles of the Beta Codex, autonomous cells, or decentralised structures. The discussion is centred around tactical objectives in Scrum, lacking any alignment with the core themes of Cell Structure Design.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T11:52:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, discussing its tactical nature and importance in guiding team efforts. However, it does not mention Liberating Structures or any related facilitation techniques. The discussion is centred around Scrum principles rather than the inclusive engagement and collaborative techniques that define Liberating Structures. Therefore, while there is a slight conceptual overlap in terms of team dynamics, the content does not align with the core themes of Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T11:52:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, discussing its tactical nature and importance in guiding team efforts. However, it does not explicitly address Time to Market or its associated metrics, strategies, or impacts. The discussion is more centred on Scrum practices rather than optimising processes for quicker delivery of value, which is the essence of Time to Market.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T11:52:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 30,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, which is a tactical aspect of Agile project management. It does not discuss the organisation as a product, customer-centric strategies, or the principles of CaaP. While it touches on feedback mechanisms, it does not align with the broader themes of organisational design or continuous improvement in the context of CaaP. Therefore, the confidence score reflects minimal relevance to the category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T11:52:23",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content focuses exclusively on the concept of sprint goals within the Scrum framework, with no direct mention of GitHub or its functionalities. While it discusses Agile methodologies, it does not align with GitHub's services or tools, nor does it provide any depth related to GitHub's collaboration features or project management capabilities. Therefore, the content is only tangentially related to the GitHub category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T11:52:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, discussing its tactical nature and importance in guiding team efforts. However, it does not explicitly mention or explore the concept of Unrealised Value or its relevance to Evidence-Based Management. The discussion lacks depth regarding indicators, strategies, or case studies related to untapped opportunities, which are central to the category of Unrealised Value. Overall, the content is more aligned with Scrum practices than with the exploration of potential value capture.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T11:52:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, which is more tactical than strategic. While it touches on the importance of feedback and stakeholder insights, it does not explicitly discuss Current Value or its metrics, nor does it provide a comprehensive analysis of how a sprint goal contributes to the real-time assessment of value delivered. The discussion lacks depth in terms of Current Value indicators and techniques for gathering data, leading to a low confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T11:52:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, discussing its tactical nature and importance in guiding team efforts. However, it does not mention Hybrid Agile or critically examine the integration of traditional and agile methodologies. The discussion lacks depth regarding the challenges and implications of Hybrid Agile, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T11:52:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, which is a specific agile practice. While it does touch on aspects of project management, such as goal setting and stakeholder feedback, it lacks broader discussions on project management principles, methodologies, or lifecycle phases. The depth of discussion is limited to tactical elements of Scrum, which does not fully align with the comprehensive scope of project management as defined in the category. Therefore, while there are relevant mentions, the overall focus is too narrow to warrant a higher confidence score.",
     "level": "Ignored"
   }
 }

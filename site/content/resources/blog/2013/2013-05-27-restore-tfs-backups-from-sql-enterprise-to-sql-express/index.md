@@ -9,7 +9,7 @@ ResourceImportId: 9902
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-05-27
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,11 +24,10 @@ aliasesArchive:
 - /restore-tfs-backups-from-sql-enterprise-to-sql-express
 - /resources/blog/restore-tfs-backups-from-sql-enterprise-to-sql-express
 tags:
-- Install and Configuration
 - Troubleshooting
-- System Configuration
+- Install and Configuration
 - Software Development
-- Practical Techniques and Tooling
+- System Configuration
 categories: []
 preview: lazy1-5-5.jpg
 

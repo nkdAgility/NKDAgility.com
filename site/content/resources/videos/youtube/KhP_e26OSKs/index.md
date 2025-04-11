@@ -27,15 +27,20 @@ duration: 57
 isShort: true
 tags:
 - Sprint Review
-- Agile Project Management
 - Product Owner
 - Team Collaboration
-- Agile Product Management
-- Scrum Product Development
 - Pragmatic Thinking
+- Agile Product Management
 - Software Development
+- Agile Planning
 - Customer Feedback Loops
-- People and Process
+- Professional Scrum
+- Scrum Team
+- Working Software
+- Product Delivery
+- Social Technologies
+- Team Motivation
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,7 +48,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
 One of the recurring challenges I encounter in organisations is the struggle that product owners, particularly those who are new to the role, face in securing stakeholder attendance at Sprint reviews. It’s a common scenario: you’ve put in the effort, crafted a compelling presentation, and yet, when the time comes, the room feels more like a ghost town than a vibrant discussion space. Even when stakeholders do show up, getting meaningful feedback can feel like pulling teeth. You ask for their thoughts, and all you hear is the sound of tumbleweeds rolling through the desert.

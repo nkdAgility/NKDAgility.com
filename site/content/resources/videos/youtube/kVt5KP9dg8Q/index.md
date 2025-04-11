@@ -2,7 +2,7 @@
 title: 'Detecting Agile BS: Lessons from the Department of Defense'
 description: "Is your development ecosystem truly Agile? Discover insights from the DoD and learn to eliminate bottlenecks for seamless, innovative delivery! \U0001F680"
 date: 2024-08-02T06:45:02Z
-weight: 420
+weight: 360
 ResourceId: kVt5KP9dg8Q
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -31,19 +31,25 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
-- Continuous Delivery
 - Agile Philosophy
+- Continuous Delivery
 - Continuous Improvement
 - Operational Practices
-- Agile Transformation
 - Pragmatic Thinking
-- People and Process
+- Agile Transformation
 - Software Development
 - Agile Strategy
+- Agile Product Management
+- Organisational Change
+- Technical Excellence
+- Working Software
+- Deployment Frequency
+- Organisational Agility
+- Product Delivery
 resourceTypes:
 - video
 categories:
+- Product Development
 - Engineering Excellence
 
 ---

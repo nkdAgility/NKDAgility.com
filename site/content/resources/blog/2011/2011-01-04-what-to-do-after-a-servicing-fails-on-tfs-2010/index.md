@@ -9,7 +9,7 @@ ResourceImportId: 20
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2011-01-04
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,9 +25,9 @@ aliasesArchive:
 - /resources/blog/what-to-do-after-a-servicing-fails-on-tfs-2010
 tags:
 - Troubleshooting
-- Windows
 - Software Development
 - System Configuration
+- Windows
 - Install and Configuration
 - Pragmatic Thinking
 categories: []

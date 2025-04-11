@@ -1,15 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:10:08",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 67.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses a referral program aimed at fostering collaborative learning, which aligns with the principles of social technologies. It explicitly mentions collaboration, community building, and the benefits of learning together, which are key themes in the category. However, while it touches on these concepts, the focus is primarily on the referral program itself rather than a deeper exploration of social technologies or frameworks. Therefore, while there is a strong alignment, the depth of discussion on the broader implications of social technologies is somewhat limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -22,13 +22,13 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T19:32:27",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 30,
-    "final_score": 14.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a referral program for collaborative learning, with only a brief mention of DevOps at the end. It lacks substantial discussion on DevOps principles, practices, or cultural shifts, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
@@ -88,32 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T19:32:45",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a referral program aimed at fostering collaborative learning, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on community building and collaborative learning, it lacks direct references to empirical decision-making or the key topics outlined in the EBM category.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T22:12:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a referral program for classes and does not address software code or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T22:12:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a referral program for classes and does not address Kanban principles or scaling practices.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -145,10 +127,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T22:12:17",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral program and does not address the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -159,15 +141,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral program for classes and does not focus on trend analysis within Agile, DevOps, or business agility frameworks.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T22:12:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a referral program for classes and does not focus on scaling Agile practices or methodologies.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -242,15 +215,6 @@
     "reasoning": "Content primarily focuses on a referral program for classes and does not discuss methodologies or practices related to product delivery.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T22:12:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses a referral program for collaborative learning and does not mention AI or its application in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Digital Transformation": {
     "category": "Digital Transformation",
     "calculated_at": "2025-02-17T22:12:41",
@@ -260,18 +224,6 @@
     "reasoning": "Content primarily discusses a referral program for classes and does not focus on digital technologies or business transformation.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-07T13:51:00",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses a referral program aimed at encouraging collaboration among individuals in an organisation, which aligns with the category's focus on human behaviour and team dynamics. However, the primary focus is on the referral program itself rather than a deep exploration of processes or methodologies. While it mentions collaboration and learning together, it lacks detailed discussion on structured methodologies or the interplay between people and processes, resulting in a moderate confidence score.",
-    "level": "Tertiary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-17T22:12:44",
@@ -279,18 +231,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral program for classes and does not address Test Driven Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-14T23:36:01",
-    "ai_confidence": 25.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 22.0,
-    "reasoning": "The content briefly mentions Agile, Scrum, and DevOps at the end, but the primary focus is on a referral program for classes, lacking substantial discussion on Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -309,15 +249,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral program and incentives for participation, with no clear focus on accountability or team dynamics in Agile.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T22:12:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a referral program and incentives, with no clear focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -367,13 +298,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T16:51:08",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a referral program for collaborative learning, with no direct mention of the Scrum Master role or its responsibilities. While it touches on themes of collaboration and community building, these concepts are not specifically tied to the Scrum framework or the role of a Scrum Master. The discussion lacks depth regarding Scrum practices, techniques, or the influence of a Scrum Master on team dynamics.",
     "level": "Ignored"
   },
@@ -388,10 +319,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T22:12:59",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral program for classes and does not focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -406,13 +337,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:51:11",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a referral program aimed at fostering collaborative learning, with no direct mention or discussion of Test First Development principles, practices, or methodologies. While it touches on collaboration, it does not align with the core themes of Test First Development, such as success criteria, testing practices, or the role of automated testing.",
     "level": "Ignored"
   },
@@ -472,10 +403,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T22:13:12",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral program for classes, with no clear focus on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -515,24 +446,6 @@
     "reasoning": "Content primarily discusses a referral program and does not focus on Scrum Values or their significance.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T22:13:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a referral program for classes and does not focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T22:13:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a referral program for classes and does not focus on practical techniques or tooling related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
     "calculated_at": "2025-02-17T22:13:21",
@@ -558,15 +471,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral program and its benefits, with minimal personal reflection or insights related to Agile, Scrum, or DevOps.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T22:13:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a referral program for classes rather than specific events or presentations.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -596,48 +500,39 @@
     "reasoning": "Content primarily discusses a referral program for classes and does not focus on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T22:13:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a referral program for classes and does not discuss scaling agility or related frameworks.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-10T14:18:43",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 62.0,
     "ai_mentions": 5,
     "ai_alignment": 25,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses a referral program for classes, which does not directly reference Agile, Scrum, DevOps, or Lean principles. While it briefly mentions 'Agile, Scrum, or DevOps' at the end, this is not the focus of the content. The main theme revolves around incentivising participation in classes, which aligns with the broader context of business agility but lacks a direct connection to established frameworks. The discussion is somewhat detailed regarding the referral program, but it does not delve into actionable insights or recognised practices within Agile methodologies.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-03-14T23:36:01",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a referral program designed to incentivise existing customers to bring in new participants, which can contribute to customer retention. However, it lacks a deeper exploration of strategies for maintaining user engagement or minimising churn. While it mentions rewards and discounts, it does not discuss broader themes such as customer satisfaction measurement, feedback mechanisms, or personalisation, which are crucial for the category. Therefore, while there are relevant elements, the overall depth and alignment with the core themes of customer retention are limited.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T19:32:41",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a referral program aimed at enhancing collaborative learning, with no direct mention or discussion of Continuous Delivery principles, practices, or related topics. While it touches on collaboration, it does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality. The depth of discussion is entirely unrelated to Continuous Delivery, further justifying a very low confidence score.",
     "level": "Ignored"
   },
@@ -670,15 +565,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-11T10:11:55",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content briefly mentions collaboration in the context of a referral program aimed at encouraging participation in classes. While it touches on the idea of learning together and pooling knowledge, it lacks a deep exploration of team dynamics, communication techniques, or shared ownership principles that are central to the Team Collaboration category. The focus is more on individual incentives rather than collective team performance or methodologies like Agile, Scrum, or DevOps.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -689,7 +584,7 @@
     "reasoning": "Content primarily discusses a referral program and does not focus on the Daily Scrum or its related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T22:13:43",
     "ai_confidence": 0,
@@ -707,50 +602,38 @@
     "reasoning": "Content primarily discusses a referral program for classes and does not relate to the Windows operating system or its functionalities.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-14T23:36:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content briefly mentions collaborative learning and the benefits of bringing others to classes, which aligns with the theme of fostering a culture of learning. However, it primarily focuses on a referral program and financial incentives rather than exploring deeper methodologies or processes related to discovery and learning. The discussion lacks substantial depth and does not provide detailed insights into the learning processes or frameworks that support innovation.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T22:13:47",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a referral program and incentives for participation, with only a brief mention of collaboration in learning, lacking a central discussion on self-organisation principles.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T19:32:38",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a referral program for collaborative learning, with no direct mention of the Agile Product Operating Model or its principles. While it touches on themes of collaboration and community, these are not specific to the APOM framework. The discussion lacks depth and detail related to agile methodologies or product management practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-03-11T14:39:33",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses a referral program aimed at enhancing collaborative learning and community building, which aligns with employee engagement principles. It mentions the benefits of learning together and fostering a supportive environment, indicating a focus on motivation and commitment. However, while it touches on relevant themes, it lacks in-depth exploration of employee engagement strategies and does not explicitly address all key topics outlined in the category definition.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -808,10 +691,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T22:14:07",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral program and incentives for participation, with no focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -840,15 +723,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral program for classes and does not focus on mentoring or coaching in Agile environments.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T22:14:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a referral program for classes and does not address AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -916,13 +790,13 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-11T16:28:56",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a referral program aimed at enhancing collaborative learning, which aligns with the principles of Continuous Learning. It explicitly mentions the benefits of learning together and building a community, which are key aspects of the category. However, while it touches on important themes, the depth of discussion on Continuous Learning principles such as feedback loops or a growth mindset is limited, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
@@ -980,15 +854,6 @@
     "reasoning": "Content primarily discusses a referral program for classes and does not relate to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T22:14:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a referral program for classes and does not focus on Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-17T22:14:40",
@@ -996,15 +861,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on a referral program for classes and does not address the interplay between technology and organisational structures.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T22:14:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a referral program for classes rather than specific products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
@@ -1036,11 +892,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T22:14:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a referral program and does not address Lead Time or its related concepts.",
+    "calculated_at": "2025-04-11T11:37:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a referral program aimed at enhancing collaborative learning and does not mention Lead Time or its related concepts. There is no discussion of metrics, processes, or strategies that pertain to Lead Time, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1099,13 +958,13 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T23:36:01",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on a referral program aimed at enhancing collaborative learning experiences rather than discussing software development practices. While it briefly mentions Agile, Scrum, and DevOps at the end, these are not the main focus of the content. The discussion lacks depth and detail on software development methodologies or practices, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -1154,15 +1013,6 @@
     "reasoning": "Content primarily discusses a referral program for classes and does not focus on cross-functional teams or their characteristics within Agile methodologies.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T22:15:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a referral program for classes and does not focus on the role of software developers in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-17T22:15:08",
@@ -1183,10 +1033,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T22:15:11",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral program for classes and does not address installation or configuration of tools or software.",
     "level": "Ignored"
   },
@@ -1197,15 +1047,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral program and does not focus on the responsibilities or practices of a Product Owner.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T22:15:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a referral program for classes, lacking substantial discussion on Agile, DevOps, or relevant industry news and reviews.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1255,15 +1096,15 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-03-13T15:40:51",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses a referral program aimed at fostering collaborative learning and community building, which aligns with the themes of team motivation. It mentions the benefits of learning together and creating a supportive network, indicating a focus on team dynamics. However, it lacks explicit strategies for enhancing engagement or trust within teams, which limits its depth in the context of team motivation.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1285,11 +1126,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T22:15:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:37:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a referral program and incentives for participation in classes, with no focus on throughput measurement or optimisation.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a referral program aimed at enhancing collaborative learning and does not discuss throughput as a delivery metric. There are no direct mentions of throughput, nor does it align with the core themes of defining, calculating, or visualising throughput. The discussion is more about community building and personal rewards rather than analysing or interpreting throughput metrics.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -1303,11 +1147,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T22:15:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a referral program for classes and does not address any aspects of system configuration.",
+    "calculated_at": "2025-04-11T11:37:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a referral program aimed at enhancing collaborative learning, with no direct mentions or discussions related to system configuration. While it touches on community building and learning environments, these themes do not align with the core topics of system configuration, such as configuration management tools or system optimisation. The depth of discussion is also minimal, as it lacks any technical details or practices relevant to system setup or maintenance.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1328,15 +1175,6 @@
     "reasoning": "Content primarily discusses a referral program and incentives for participation, with no focus on understanding customer needs or defining product features.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T22:15:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a referral program for classes and does not focus on Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
     "calculated_at": "2025-02-17T22:15:35",
@@ -1348,10 +1186,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T22:15:36",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral program and does not address the Definition of Done or its principles.",
     "level": "Ignored"
   },
@@ -1429,86 +1267,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T23:36:01",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 25.0,
     "ai_mentions": 5,
     "ai_alignment": 10,
     "ai_depth": 5,
     "non_ai_confidence": 30,
-    "final_score": 26.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly mentions Agile and Scrum at the end, but the primary focus is on a referral program for classes rather than Scrum principles or practices. The discussion lacks depth and detail on Scrum topics, making it a secondary mention rather than a primary focus.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:01:35",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a referral program for collaborative learning, with no direct mention of the Shift-Left Strategy or its principles. While it touches on collaboration, it does not discuss integrating testing, security, or compliance early in the software development lifecycle, which are core themes of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T19:32:29",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a referral program aimed at enhancing collaborative learning rather than discussing Continuous Improvement principles. While it mentions collaboration and community building, it lacks explicit references to Continuous Improvement methodologies, empirical evidence, or strategies for integrating such practices into organisational processes.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T19:32:32",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions collaborative learning and community building, which are tangentially related to the concept of Common Goals. However, it lacks a direct focus on aligning strategy with execution within Agile or DevOps frameworks. The discussion is more about a referral program and personal growth rather than the foundational principles of Common Goals, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T19:32:33",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 32.0,
     "ai_mentions": 100.0,
     "ai_alignment": 25.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions collaborative learning and community building, which are related to competence, but it primarily focuses on a referral program rather than discussing continuous development or skill enhancement in a professional context. The depth of discussion on competence is minimal, lacking specific strategies or insights into fostering a culture of competence.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:32:36",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a referral program for collaborative learning, which does not directly discuss the One Engineering System (1ES) framework or its principles. While it mentions collaboration, it does not delve into the integration of tools, processes, or methodologies relevant to 1ES. The discussion lacks depth and specificity regarding the core themes of 1ES, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:51:06",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a referral program aimed at fostering collaborative learning, which does not explicitly discuss Agentic Agility or its principles. While it touches on themes of collaboration and community building, it lacks a clear connection to the intentional shaping of outcomes, autonomy, or adaptability as defined in the category. The mention of learning together and community support is too general and does not differentiate between human and AI capabilities in the context of agility.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T11:37:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a referral program aimed at enhancing collaborative learning rather than discussing product development methodologies or practices. While it mentions the importance of collaboration and community building, which are relevant to product development, it lacks direct references to key topics such as Agile principles, iterative processes, or customer feedback loops. The discussion is more about incentivising participation in learning rather than exploring product development strategies, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T11:37:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a referral program aimed at fostering collaborative learning, which is a general concept and does not specifically address Open Space Agile principles or practices. While it mentions collaboration and community building, these themes are not directly tied to Open Space Agile or its core tenets. There are no explicit mentions of Open Space Technology, psychological safety, or Agile transformation, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T11:37:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a referral program aimed at fostering collaborative learning, with no direct mention of Agnostic Agile principles or methodologies. While it touches on collaboration, which is a general theme in agile practices, it lacks any specific discussion of agile frameworks, critical thinking, or ethical considerations that are central to Agnostic Agile. The content does not provide depth or detail related to the category, making it largely irrelevant to Agnostic Agile.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T11:37:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a referral program aimed at enhancing collaborative learning, which is not directly related to scaling methodologies or frameworks. While it briefly touches on the idea of collaboration, it lacks any specific discussion on scaling Agile practices, cross-team collaboration, or the complexities involved in scaling efforts. The mention of community building and collaborative learning is too general and does not align with the core themes of the Scaling category. Overall, the content does not provide substantial depth or direct relevance to the topic of scaling.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T11:37:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a referral program aimed at fostering collaborative learning, which is not directly related to Cell Structure Design. While it mentions collaboration and community building, these concepts are not explored in the context of decentralised organisational structures or the principles of the Beta Codex. The discussion lacks any direct references to autonomous cells, complexity theory, or the transition to a Cell Structure Design model, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T11:37:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses a referral program aimed at fostering collaborative learning, which aligns with the spirit of Liberating Structures. However, it does not explicitly mention any specific Liberating Structures techniques or principles. The focus is more on a promotional initiative rather than a detailed exploration of facilitation techniques or group dynamics. While there are elements of collaboration and community building, the depth of discussion on Liberating Structures is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T11:37:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a referral program aimed at enhancing collaborative learning and does not discuss Time to Market or its associated metrics, strategies, or impacts. While it mentions community building and collaborative learning, these themes do not directly relate to the efficiency of delivering market-ready products or features, which is the core of the Time to Market category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T11:37:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a referral program aimed at enhancing collaborative learning within classes. While it mentions the importance of collaboration and community building, it does not explicitly discuss the principles of treating the organisation as a product or integrating customer feedback into organisational design. The discussion lacks depth regarding CaaP concepts and does not provide any strategies or examples related to organisational agility or customer-centric strategies. Therefore, the content only marginally aligns with the CaaP category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T11:37:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a referral program for collaborative learning and does not mention GitHub or its functionalities at all. While it touches on themes of collaboration and community building, these are not specific to GitHub or its services. The discussion lacks any depth related to GitHub's tools, practices, or methodologies, leading to a very low confidence score for alignment with the GitHub category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T11:37:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a referral program aimed at enhancing collaborative learning and community building, which does not directly address the concept of Unrealised Value. While there are mentions of benefits and potential rewards, these are more operational and promotional in nature rather than exploring untapped opportunities or strategic insights related to Evidence-Based Management. The discussion lacks depth in terms of identifying or measuring unrealised value, and it does not provide any indicators or frameworks relevant to the category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T11:37:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a referral program aimed at enhancing collaborative learning and does not explicitly discuss Current Value or its metrics. While it touches on community building and mutual benefits, these concepts do not align with the core themes of Current Value in Evidence-Based Management. The discussion lacks depth and practical application related to measuring or assessing value in a real-time context.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T11:37:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a referral program for collaborative learning and does not mention Hybrid Agile or its related concepts. While it discusses collaboration, it does not critically examine the integration of traditional and agile methodologies, nor does it address any of the key topics outlined for the Hybrid Agile category. Therefore, the confidence score reflects a very low relevance to the category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T11:37:47",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on a referral program aimed at enhancing collaborative learning rather than discussing project management principles or methodologies. While it touches on themes of collaboration and community building, which are relevant to project management, it lacks direct mentions of project management concepts, methodologies, or tools. The depth of discussion is limited to the referral program's mechanics and benefits, with no substantial exploration of project management topics such as planning, execution, or risk management.",
     "level": "Ignored"
   }
 }

@@ -9,7 +9,7 @@ ResourceImportId: 125
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-03
-weight: 650
+weight: 610
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,10 +25,7 @@ aliasesArchive:
 - /resources/blog/developer-day-scotland
 tags:
 - Software Development
-- Events and Presentations
 - Technical Mastery
-- Code and Complexity
-- News and Reviews
 - Technical Excellence
 - Engineering Practices
 categories:

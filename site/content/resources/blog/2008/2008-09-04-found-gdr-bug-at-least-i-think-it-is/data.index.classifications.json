@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses a technical issue related to SQL and database views, with no clear connection to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T11:54:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to SQL and database views, with no focus on Agile methodologies, DevOps practices, or relevant literature.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-16T11:54:10",
@@ -53,43 +44,16 @@
     "reasoning": "Content primarily discusses a technical issue related to SQL and database views, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T11:54:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical bug related to SQL and does not reference any events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T11:54:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical bug related to SQL views and does not address organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T09:44:26",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a potential bug in SQL views and derived tables, which is not directly related to DevOps principles or practices. While there is a mention of improving a tool (Data Dude), it lacks explicit references to DevOps concepts such as collaboration, automation, or shared accountability. The discussion is technical and focused on a specific issue rather than the broader DevOps philosophy.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T11:54:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a bug related to SQL views and does not address AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -112,23 +76,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T09:44:36",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a technical bug related to SQL views and does not mention or align with any principles of the Agile Product Operating Model. There is no focus on product management, agile methodologies, or any related themes, making it irrelevant to the category.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T11:54:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific bug related to SQL views and does not focus on practical techniques or tooling related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -151,10 +106,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T11:54:27",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a bug related to SQL views and does not focus on installation or configuration processes.",
     "level": "Ignored"
   },
@@ -169,32 +124,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T09:44:42",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a potential bug in SQL views and derived tables, with no explicit mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any depth on these topics.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T11:54:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a bug related to SQL views and does not focus on code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T11:54:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical bug related to SQL and GDR, lacking a focus on industry news or reviews.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -235,10 +172,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T11:54:37",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a bug related to SQL views and does not focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -278,15 +215,6 @@
     "reasoning": "Content primarily discusses a technical issue related to SQL and a bug report, with no personal reflections or experiences shared.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T11:54:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical bug related to SQL views and does not focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Azure DevOps": {
     "category": "Azure DevOps",
     "calculated_at": "2025-02-16T11:54:44",
@@ -294,15 +222,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a bug related to SQL views and does not focus on Azure DevOps functionalities or practices.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T11:54:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical bug related to SQL views and does not address transparency or accountability within Agile teams.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -321,15 +240,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical bug related to SQL views and does not address Systems Thinking principles or applications.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T11:54:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to SQL and database views, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -442,13 +352,13 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:29:36",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 20,
     "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a specific SQL error related to creating views, which touches on technical aspects of software development. However, it primarily focuses on a bug report rather than broader principles of software craftsmanship or engineering practices. While there are mentions of SQL and database management, the discussion lacks depth in exploring best practices, clean code principles, or methodologies that contribute to technical mastery.",
     "level": "Ignored"
   },
@@ -470,7 +380,7 @@
     "reasoning": "Content primarily discusses a technical issue related to SQL views and database projects, with no focus on Agile methodologies or scaling practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T12:26:05",
     "ai_confidence": 0,
@@ -486,15 +396,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a bug related to SQL views and does not address any principles or practices of Site Reliability Engineering.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T12:26:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical bug related to SQL views and database projects, with no mention or relevance to Agile Project Management principles or practices.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -668,24 +569,6 @@
     "reasoning": "Content primarily discusses a technical SQL issue and a bug report, with no references to estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T12:26:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a specific technical bug related to SQL and database views, which is not centered on Agile or DevOps practices.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T12:26:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses a bug related to SQL views and database projects, without any mention of AI, Agile methodologies, or DevOps practices.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-16T12:26:05",
@@ -724,15 +607,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T15:10:33",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses a specific bug related to SQL views, which is a technical aspect of software development. However, while it mentions a bug and provides SQL code, it lacks a broader discussion on methodologies, best practices, or frameworks that guide software development. The focus is primarily on a specific issue rather than the development lifecycle or practices, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -741,15 +624,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses a technical SQL bug and issues related to database views, with no relation to Agile frameworks.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T12:26:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a technical issue related to SQL and database views without any mention of Agile practices or scaling Agile methodologies.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -790,10 +664,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T12:26:05",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a bug related to SQL and does not address innovation capabilities or Evidence-Based Management principles.",
     "level": "Ignored"
   },
@@ -871,10 +745,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T12:26:05",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a technical bug in SQL without any reference to the Definition of Done or Agile principles.",
     "level": "Ignored"
   },
@@ -889,13 +763,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T09:44:38",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a potential bug related to SQL views and derived tables, with no explicit mention of Continuous Delivery principles, practices, or related topics. It lacks any discussion on automation, incremental improvements, or user feedback, which are core themes of Continuous Delivery. The focus is on a specific technical issue rather than the broader context of software delivery practices.",
     "level": "Ignored"
   },
@@ -1007,21 +881,12 @@
     "reasoning": "The content primarily discusses a technical issue related to SQL and a bug report, with no clear connection to empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T12:26:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a database bug and SQL, which is unrelated to Kanban or its scaling principles.",
-    "level": "Ignored"
-  },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T12:26:05",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a bug related to SQL views and derived tables, which is not relevant to the Definition of Ready or backlog item readiness.",
     "level": "Ignored"
   },
@@ -1054,13 +919,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:42:17",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a potential bug in SQL views and derived tables, with no explicit mention of Test First Development principles, success criteria, or testing practices. It lacks alignment with the core themes of the category and provides minimal detail relevant to Test First Development.",
     "level": "Ignored"
   },
@@ -1226,36 +1091,27 @@
     "reasoning": "Content focuses on a bug related to SQL views and does not address deployment strategies or methodologies.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T12:26:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on an SQL bug related to database views and does not discuss Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-10T13:13:13",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses a specific bug encountered while creating a SQL view, which aligns with troubleshooting software issues. It provides a detailed description of the error message and the context in which it occurs, indicating a focus on diagnosing a technical problem. However, while it mentions the bug and the error, it lacks broader strategies or methodologies for troubleshooting, which affects the depth of discussion. Overall, the content is primarily focused on a specific issue, thus justifying a relatively high confidence score.",
     "level": "Secondary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:42:20",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a technical issue related to SQL views and derived tables, with no direct mention of Scrum Master responsibilities or concepts. It lacks alignment with the core themes of the Scrum Master role, such as facilitation, coaching, or team dynamics. The depth of discussion is focused on a specific bug rather than any aspect of Scrum or agile practices.",
     "level": "Ignored"
   },
@@ -1288,10 +1144,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T12:26:05",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical bug related to SQL queries and database projects, with no reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -1302,15 +1158,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses a bug related to SQL views and does not address Test Driven Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T12:26:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a technical SQL issue related to database views, with no mention of Scrum principles, scaling practices, or related frameworks.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1349,15 +1196,6 @@
     "reasoning": "Content discusses a bug related to SQL views and database projects, which does not primarily focus on system configuration or related practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T12:26:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses SQL and a bug in a database view, which is unrelated to scaling agility or agile practices.",
-    "level": "Ignored"
-  },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
     "calculated_at": "2025-02-16T12:26:05",
@@ -1378,13 +1216,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:50:13",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a technical bug related to SQL views and derived tables, with no explicit mention of social technologies or their principles. While it invites collaboration through voting on a bug report, this aspect is secondary and lacks depth in discussing frameworks or methodologies that promote collaboration or decision-making within organisations.",
     "level": "Ignored"
   },
@@ -1417,73 +1255,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:58:11",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a technical issue related to SQL and a bug report, with no direct references to Scrum principles, roles, events, or practices. While it touches on project management aspects indirectly through the mention of a bug affecting development, it lacks any substantial discussion or alignment with Scrum concepts.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:40:16",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a specific bug related to SQL views and does not address the Shift-Left Strategy or its principles. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any techniques or case studies relevant to the category.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T09:44:29",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a potential bug in SQL views and derived tables, focusing on a specific technical issue rather than the principles of Continuous Improvement. While there is a call for community input to improve the situation, it lacks a structured approach to ongoing enhancement or empirical evidence, which are core to Continuous Improvement. The discussion does not delve into strategies, techniques, or frameworks that support Continuous Improvement, nor does it reflect on team effectiveness or business agility.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T09:44:31",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a technical bug related to SQL views and does not address the concept of Common Goals within Agile or DevOps frameworks. There are no explicit mentions of shared objectives, alignment, or strategic goals, which are central to the category. The focus is on a specific issue rather than on fostering collaboration or accountability across teams.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T09:44:35",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily discusses a technical bug related to SQL views and does not explicitly address competence or its importance in Agile, Scrum, or DevOps methodologies. While there is a mention of improving a tool (Data Dude), it lacks a focus on continuous learning, skill development, or the professional standards associated with competence. The discussion is more about troubleshooting and bug reporting rather than fostering a culture of competence or discussing strategies for skill enhancement.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:42:15",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a potential bug in SQL views and derived tables, with no explicit mention of Agentic Agility or its principles. It lacks alignment with the core themes of intentionality, adaptability, or the interplay between human and AI capabilities. The discussion is technical and focused on a specific issue rather than the broader concept of shaping outcomes.",
     "level": "Ignored"
   }

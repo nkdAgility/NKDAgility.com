@@ -31,20 +31,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Transparency
 - Operational Practices
+- Transparency
 - Continuous Improvement
+- Software Development
 - Agile Frameworks
 - Flow Efficiency
-- Agile Project Management
-- Software Development
 - Pragmatic Thinking
-- Throughput
 - Continuous Learning
+- Lean Principles
+- Throughput
+- Lean Thinking
 resourceTypes:
 - video
 categories:
 - Kanban
+- Product Development
 
 ---
 In the world of Agile, we often hear about different tools and frameworks that help teams optimize their processes. One such tool is **Kanban**. Often misunderstood as a process in itself, Kanban is not a process but rather a powerful tool that provides clarity and insight into whatever process you're already using.

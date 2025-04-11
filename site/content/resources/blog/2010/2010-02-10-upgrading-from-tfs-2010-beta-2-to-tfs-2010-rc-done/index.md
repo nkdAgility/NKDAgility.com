@@ -9,7 +9,7 @@ ResourceImportId: 70
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-02-10
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,7 +27,6 @@ tags:
 - Install and Configuration
 - System Configuration
 - Software Development
-- Practical Techniques and Tooling
 preview: metro-visual-studio-2010-128-link-3-3.png
 categories: []
 

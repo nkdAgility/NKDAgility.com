@@ -9,7 +9,7 @@ ResourceImportId: 38300
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2018-01-30
-weight: 445
+weight: 390
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -30,19 +30,26 @@ aliasesArchive:
 - /resources/blog/work-can-flow-across-sprint-boundary
 tags:
 - Software Development
-- Transparency
-- Increment
 - Empirical Process Control
-- Scrum Product Development
 - Professional Scrum
+- Transparency
 - Working Software
-- Software Developers
-- Agile Project Management
+- Increment
+- Operational Practices
+- Pragmatic Thinking
+- Agile Frameworks
+- Agile Product Management
+- Agile Planning
+- Flow Efficiency
 - Product Delivery
-categories:
-- Social Technologies
-- Scrum
-- Engineering Excellence
+- Value Delivery
+- Agile Transformation
+- Scrum Master
+- Scrum Team
+- Continuous Delivery
+- Engineering Practices
+- Throughput
+categories: []
 preview: nkdagility-cross-sprint-boundary-2-1.png
 
 ---

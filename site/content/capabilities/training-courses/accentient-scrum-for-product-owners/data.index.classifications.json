@@ -1,13 +1,13 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-21T11:24:21",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the role of Product Owners within the Scrum framework, which is a specific methodology rather than a broader discussion on social technologies. While it mentions driving value, it lacks explicit discussions on collaboration, decision-making, or the underlying social frameworks that characterise social technologies. The depth of discussion is limited to the responsibilities of Product Owners without exploring the collaborative or adaptive aspects that are central to the category.",
     "level": "Ignored"
   },
@@ -22,22 +22,22 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T11:24:24",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on Scrum and the role of Product Owners, which is not aligned with the core principles of DevOps. While there is a mention of driving value, it does not discuss DevOps concepts such as collaboration, automation, or shared accountability, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T00:03:33",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on training for Product Owners within the Scrum framework, discussing their roles, responsibilities, and practices, which aligns closely with product management principles.",
     "level": "Secondary"
   },
@@ -52,10 +52,10 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training for Product Owners, which is a specific agile methodology rather than a broader discussion on business agility principles and practices.",
     "level": "Ignored"
   },
@@ -70,10 +70,10 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content is primarily focused on training for Product Owners specifically within the context of the Scrum framework, discussing roles, events, and practices related to Professional Scrum.",
     "level": "Secondary"
   },
@@ -88,49 +88,31 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T15:04:19",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on enhancing the effectiveness of Product Owners within the Scrum framework, which is more aligned with Agile practices than with Evidence-Based Management. While it mentions driving value, it lacks explicit discussions on empirical evidence, metrics, or data-informed decision-making that are central to EBM. The depth of discussion is limited to Scrum roles and responsibilities without a clear connection to the key topics of EBM.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T00:45:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and practices, which are not directly related to code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T00:45:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and practices rather than scaling Kanban principles.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without a focus on hypothesis formulation or experimentation.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on Scrum, a specific Agile framework, including its roles, events, and practices relevant to Product Owners, making it a central topic.",
     "level": "Secondary"
   },
@@ -145,29 +127,20 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content briefly mentions 'Definition of ready' as part of a broader discussion on Product Backlog Refinement and the roles of Product Owners, but it is not the primary focus of the course.",
     "level": "Tertiary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on Scrum training for Product Owners and does not discuss trend analysis or emerging trends within Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T00:45:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on Scrum and the role of Product Owners, which does not align with the Scaled Agile category that requires discussions on scaling Agile practices across multiple teams and at an enterprise level.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -181,10 +154,10 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on the Scrum framework and best practices for Product Owners, which are project management strategies and roles rather than technical craftsmanship principles.",
     "level": "Ignored"
   },
@@ -208,10 +181,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily discusses the role of a Product Owner within a Scrum Team, which includes improving team dynamics, collaboration, and practices for becoming a high-performance team.",
     "level": "Secondary"
   },
@@ -235,21 +208,12 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 70,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
+    "final_score": 70.0,
     "reasoning": "The content primarily focuses on training for Product Owners, emphasizing their role within the Scrum framework. While it is relevant to product delivery, the main focus is on training and the responsibilities of Product Owners rather than the entire product delivery process.",
     "level": "Secondary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T00:45:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and training for Product Owners, without mention of AI.",
-    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -260,32 +224,14 @@
     "reasoning": "Content heavily discusses Scrum roles and events, which is not focused on digital transformation.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T00:45:27",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on the role of the Product Owner within the Scrum framework, emphasizing team dynamics, collaboration, and practices aimed at improving effectiveness and collaboration in agile processes.",
-    "level": "Secondary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, with no focus on Test Driven Development principles or practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T00:45:27",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "Content is primarily focused on Scrum, its framework, roles, and specifically the responsibilities of the Product Owner, aligning well with agile principles.",
-    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -303,15 +249,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum roles and responsibilities for Product Owners without discussing accountability as a central theme.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T00:45:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the Scrum framework and training for Product Owners, without a clear focus on transparency and accountability principles.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -343,49 +280,49 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the role of the Product Owner within the Scrum framework, touching upon team dynamics and collaboration, which are relevant to technical leadership. However, the focus is primarily on the responsibilities and practices of the Product Owner rather than on broader technical leadership principles.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the role and responsibilities of a Product Owner within the Scrum framework, including product backlog refinement and planning, which are relevant to Agile planning tools, but it primarily focuses on training for the role rather than on specific tools.",
     "level": "Tertiary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T17:23:15",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the role of the Product Owner rather than the Scrum Master. While it mentions the Scrum Team and touches on responsibilities within that context, it does not delve into the specific responsibilities, skills, or impact of the Scrum Master. The discussion lacks depth regarding the Scrum Master's role and does not align closely with the key topics outlined for this category.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content is primarily focused on Scrum and the role of the Product Owner, which are related to Agile Planning concepts such as backlog refinement, user stories, and collaboration within a Scrum framework. However, it also covers topics outside pure Agile Planning, like myths and misconceptions, leading to a secondary classification.",
     "level": "Tertiary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum frameworks and roles without a clear focus on Agile Values and Principles.",
     "level": "Ignored"
   },
@@ -400,13 +337,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:23:18",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the role of Product Owners in Scrum, with no direct mention of Test First Development principles or practices. While it may touch on aspects of software delivery, it lacks any discussion on success criteria, testing methodologies, or the importance of testing in the development process.",
     "level": "Ignored"
   },
@@ -430,10 +367,10 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and practices without a primary focus on organisational culture.",
     "level": "Ignored"
   },
@@ -457,37 +394,37 @@
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content includes substantial discussions about Product Backlog Refinement as part of a course for Product Owners, highlighting its role in understanding user stories, acceptance criteria, and reducing waste in requirements.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum practices and roles, which do not primarily focus on the Ability to Innovate or the use of empirical data for decision-making.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on aspects of Scrum, specifically for Product Owners, which is a significant part of Agile practices. However, it does not extensively cover broader Agile transformation strategies or methodologies beyond Scrum.",
     "level": "Tertiary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum roles and training for Product Owners, which is not directly related to engineering practices such as clean code, TDD, or CI/CD.",
     "level": "Ignored"
   },
@@ -502,46 +439,28 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on training for Product Owners, detailing responsibilities and practices rather than discussing Scrum Values directly.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T00:45:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T00:45:27",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Product Owners within the Scrum framework and covers practical aspects of Scrum practices, but it focuses more on training and roles than on specific tooling or methodologies.",
-    "level": "Tertiary"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content is specifically aimed at training Product Owners, covering important aspects of the Product Backlog, including refinement and related Agile practices, making it a primary topic.",
     "level": "Secondary"
   },
@@ -554,21 +473,12 @@
     "reasoning": "Content primarily discusses a training course on Scrum for Product Owners, focusing on course structure and outcomes without personal insights or reflections.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T00:45:27",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content describes a training course that features presentations, discussions, and hands-on activities, which aligns well with the category of Events and Presentations.",
-    "level": "Secondary"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the responsibilities and practices of Product Owners within the Scrum framework without specifically addressing working agreements.",
     "level": "Ignored"
   },
@@ -583,21 +493,12 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "Content focuses primarily on the role and effectiveness of the Product Owner within a Scrum Team, including collaboration and team dynamics.",
     "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T00:45:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses specific Scrum roles and practices for individual Product Owners, without addressing broader organisational scaling of agility.",
-    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -619,13 +520,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T15:04:16",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the role of Product Owners within the Scrum framework, which does not directly address Continuous Delivery principles or practices. While there may be indirect implications for software delivery, the discussion lacks explicit references to Continuous Delivery concepts, automation, or the importance of rapid feedback and validation from users.",
     "level": "Ignored"
   },
@@ -640,10 +541,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Scrum roles and training for Product Owners, without addressing remote work practices or challenges.",
     "level": "Ignored"
   },
@@ -658,23 +559,23 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 70,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
+    "final_score": 70.0,
     "reasoning": "While the content primarily focuses on the role and responsibilities of the Product Owner within Scrum, it includes a significant section on 'Improving as a Team' and collaborating with the Development Team, indicating a major emphasis on team dynamics and collaboration.",
     "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the role of a Product Owner and various topics related to the Scrum framework, without specifically addressing the Daily Scrum event.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T00:45:27",
     "ai_confidence": 0,
@@ -692,33 +593,24 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T00:45:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without a clear focus on the processes of discovery and learning.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "Content discusses the role of Product Owners within the Scrum framework, touching on self-organisation but primarily focusing on responsibilities and practices related to Scrum roles.",
     "level": "Tertiary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T11:24:36",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the role of Product Owners within the Scrum framework, which is a specific agile practice rather than a comprehensive discussion on the Agile Product Operating Model. While it mentions driving value, it lacks a broader exploration of the APOM principles, such as transitioning to a product ethos or integrating product management practices. The depth of discussion is limited to Scrum-specific roles and does not address the wider implications of the Agile Product Operating Model.",
     "level": "Ignored"
   },
@@ -733,19 +625,19 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the Scrum framework and the role of Product Owners, with no clear focus on Behaviour Driven Development.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on Scrum and the role of the Product Owner, which are methodologies related to Agile practices that can contribute to market adaptability. However, it does not explicitly discuss market adaptability strategies or practices in depth, making it a secondary theme.",
     "level": "Tertiary"
   },
@@ -787,10 +679,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on Scrum roles and frameworks for Product Owners, not on metrics or learning mechanisms.",
     "level": "Ignored"
   },
@@ -805,10 +697,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on Scrum methodology rather than Lean Product Development principles.",
     "level": "Ignored"
   },
@@ -819,15 +711,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on training for Product Owners in Scrum, emphasizing roles and processes rather than the mentoring and coaching aspects.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T00:45:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on Scrum training for Product Owners, with no discussion of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -841,37 +724,37 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on training for Product Owners within the Scrum framework, which can relate to strategic roles in Agile environments, but it does not deeply engage with broader strategic discussions or alignment concepts.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the role of the Product Owner and includes themes of improving effectiveness within the Scrum framework, which relates to operational practices. However, the primary focus is on Scrum training rather than specifically operational efficiency strategies.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-21T11:24:16",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 40,
     "non_ai_confidence": 10,
-    "final_score": 37.0,
+    "final_score": 40.0,
     "reasoning": "The content primarily focuses on Scrum, particularly on the roles and responsibilities within the Scrum framework, rather than addressing the broader Agile philosophy or its fundamental principles.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum and the role of the Product Owner, with only a brief mention of acceptance criteria, which is not central to the content.",
     "level": "Ignored"
   },
@@ -895,10 +778,10 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions improving as a team and collaboration, which relates to Continuous Learning, but the primary focus is on Scrum roles and practices for Product Owners.",
     "level": "Tertiary"
   },
@@ -931,10 +814,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content is primarily focused on training for Product Owners within the Scrum framework, discussing their roles and responsibilities, which aligns closely with Agile Product Management principles.",
     "level": "Secondary"
   },
@@ -949,20 +832,11 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, which do not align with the core principles of Value Stream Management.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T00:45:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on training for Product Owners within a Scrum framework and does not discuss scaling Scrum practices or frameworks applicable to large organizations.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
@@ -974,21 +848,12 @@
     "reasoning": "Content heavily discusses Scrum roles and events without focusing on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T00:45:27",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content primarily discusses a training course for Product Owners, which is relevant to Agile practices and can be considered a product offering. The content mentions significant Agile concepts and the effectiveness of the training, but it does not delve deeply into specific literature or reviews.",
-    "level": "Secondary"
-  },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the Scrum Framework, focusing on the responsibilities and practices of a Product Owner, which includes elements related to decision-making and team dynamics. However, it only touches on empirical process control rather than delving deeply into its principles or practices.",
     "level": "Tertiary"
   },
@@ -1003,10 +868,10 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "While the content focuses primarily on Scrum roles and practices for Product Owners, it emphasizes the practical application of Scrum principles and hands-on activities, which aligns with pragmatic thinking. However, it does not delve deeply into complex problem-solving or adaptability in Agile environments.",
     "level": "Tertiary"
   },
@@ -1021,19 +886,19 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content briefly mentions 'tracking and handling technical debt' as part of a larger discussion on Scrum roles and responsibilities, but this is not the primary focus of the content.",
     "level": "Tertiary"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily discusses Scrum roles and practices, which are related to working software, but it does not focus primarily on the delivery or quality of working software itself.",
     "level": "Tertiary"
   },
@@ -1066,19 +931,19 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, which are focused on Agile practices rather than product strategy methodologies.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T00:45:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "Content primarily focuses on Scrum, which is a Software Development methodology, outlining the training for Product Owners, including the Scrum framework and its relevant practices.",
     "level": "Secondary"
   },
@@ -1127,15 +992,6 @@
     "reasoning": "The content primarily focuses on the role and practices of a Product Owner within the Scrum framework, without central emphasis on cross-functional teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T00:45:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the role of Product Owners in Scrum, not software developers' roles, practices, or methodologies.",
-    "level": "Ignored"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-18T00:45:28",
@@ -1156,30 +1012,21 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T00:45:28",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without any focus on installation or configuration processes.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T00:45:28",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on enhancing the effectiveness of Product Owners through training, covering their responsibilities and practices in a Scrum context.",
     "level": "Secondary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T00:45:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a training course for Product Owners without providing news, reviews, or industry updates.",
-    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1192,10 +1039,10 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-18T00:45:28",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Scrum roles and practices for Product Owners without direct references to technical engineering practices or methodologies that enhance software development and delivery.",
     "level": "Ignored"
   },
@@ -1210,28 +1057,28 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-18T00:45:28",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, which are centered around synchronous team interactions rather than asynchronous development principles.",
     "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T00:45:28",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without a focus on Agile leadership practices or discussions.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T00:45:28",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content includes a section on 'Improving as a Team' which touches on collaboration and high-performance team dynamics, but the primary focus is on Scrum roles and practices rather than specifically on team motivation strategies.",
     "level": "Tertiary"
   },
@@ -1246,10 +1093,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T00:45:28",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles, events, and practices for Product Owners, which are not directly related to validating product ideas through user engagement.",
     "level": "Ignored"
   },
@@ -1264,22 +1111,22 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-21T11:24:19",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 83.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly focuses on the role of the Product Owner within the Scrum framework, which is a key aspect of Scrum discussions. It mentions the responsibilities and practices associated with this role, indicating a strong alignment with Scrum principles. The depth of discussion is significant, as it involves interactive learning methods aimed at enhancing effectiveness in a Scrum context.",
     "level": "Primary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T00:45:28",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses enhancing effectiveness as a Product Owner to drive value within Scrum, making value delivery a major, but secondary theme, as it primarily focuses on roles and responsibilities in Scrum.",
     "level": "Tertiary"
   },
@@ -1303,21 +1150,12 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-18T00:45:28",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, and does not focus on methodologies or practices involved in identifying customer needs or defining product features.",
     "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T00:45:28",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "Content primarily focuses on training for Product Owners within the Scrum framework, covering responsibilities, practices, and the Scrum process, which are central to Scrum Product Development.",
-    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1330,28 +1168,28 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T00:45:28",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content includes a section titled 'Getting “Done”' that briefly mentions the Definition of 'done', but the overall focus is more on Scrum roles and activities for Product Owners, which makes it a secondary theme.",
     "level": "Tertiary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T00:45:28",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on Scrum training for Product Owners, which involves understanding roles and responsibilities within an Agile framework, making it a major theme. However, it lacks a broader discussion on Agile strategy or organizational alignment, making it secondary.",
     "level": "Tertiary"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-18T00:45:28",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on the role of the Product Owner and their responsibilities within the Scrum framework, which includes aspects of delivering value and managing the Product Backlog, but does not directly emphasize the concept of Increment as a standalone topic.",
     "level": "Tertiary"
   },
@@ -1366,10 +1204,10 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T00:45:28",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on Scrum methodology, which is related to organisational agility, but primarily targets the role of Product Owners rather than broader organisational agility principles and practices.",
     "level": "Tertiary"
   },
@@ -1393,97 +1231,97 @@
   },
   "Artificial Intelligence": {
     "category": "Artificial Intelligence",
-    "calculated_at": "2025-03-21T11:24:26",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum and the role of Product Owners, with no explicit mention of Artificial Intelligence or its application within Agile methodologies. The discussion lacks alignment with the core themes of AI enhancing Agile practices, and there is minimal depth regarding AI-related topics.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-03-21T11:24:30",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on Scrum practices and the role of Product Owners, which are unrelated to Internal Developer Platforms. There are no direct mentions of IDPs, and the discussion does not align with the core themes or provide any depth on the topic of Internal Developer Platforms.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-21T11:24:32",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on enhancing the effectiveness of Product Owners within the Scrum framework, with no direct mention or discussion of the Shift-Left Strategy. While there may be some implicit connections to early involvement in the development process, the core themes of integrating testing, security, and compliance earlier in the software lifecycle are not addressed.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T15:04:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on enhancing the effectiveness of Product Owners within the Scrum framework, which is related to team roles and responsibilities rather than Continuous Improvement as a primary focus. While there is a mention of driving value, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation and learning. The alignment with Continuous Improvement concepts is minimal, and the depth of discussion does not provide substantial insights into the category.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T15:04:09",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the role of Product Owners within Scrum, which is a specific aspect of Agile but does not explicitly discuss Common Goals or their significance in aligning strategy with execution. While it touches on the responsibilities of Product Owners, it lacks a clear connection to shared objectives or the broader implications of Common Goals in Agile and DevOps frameworks.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T15:04:11",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 52.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 47.0,
+    "final_score": 52.0,
     "reasoning": "The content focuses on enhancing the effectiveness of Product Owners, which indirectly relates to competence through skill development and understanding responsibilities. However, it lacks explicit discussions on continuous learning or the broader implications of competence in Agile methodologies.",
     "level": "Tertiary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T15:04:13",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum practices and the role of Product Owners, which are not directly related to the One Engineering System framework. There are no explicit mentions of 1ES principles, integration of tools, or standardisation of processes, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T17:23:13",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on enhancing the effectiveness of Product Owners within the Scrum framework, which does not explicitly discuss Agentic Agility or its principles. While there is a mention of driving value, it lacks a clear connection to intentional shaping of outcomes, autonomy, or adaptability as defined in the category. The discussion is more about Scrum practices than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }

@@ -27,7 +27,6 @@ tags:
 - Windows
 - Install and Configuration
 - System Configuration
-- Practical Techniques and Tooling
 categories: []
 preview: metro-server-instances-7-7.png
 

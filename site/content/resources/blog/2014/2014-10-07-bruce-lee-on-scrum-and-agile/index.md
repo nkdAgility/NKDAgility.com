@@ -9,7 +9,7 @@ ResourceImportId: 10800
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-07
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,9 +25,8 @@ aliasesArchive:
 - /resources/blog/bruce-lee-on-scrum-and-agile
 tags:
 - Agile Philosophy
-- People and Process
-- Agile Transformation
 - Organisational Agility
+- Agile Transformation
 categories: []
 preview: nakedalm-experts-professional-scrum-2-2.png
 

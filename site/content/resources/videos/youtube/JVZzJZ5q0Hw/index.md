@@ -2,7 +2,7 @@
 title: What is a sprint goal?
 description: "Unlock the secrets of sprint planning! Discover common pitfalls in agility and learn to empower your team for swift market responses. \U0001F680\U0001F4C8"
 date: 2023-05-25T14:00:20Z
-weight: 855
+weight: 840
 ResourceId: JVZzJZ5q0Hw
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -32,20 +32,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Scrum Product Development
 - Agile Product Management
-- Agile Project Management
 - Professional Scrum
 - Software Development
-- Product Delivery
 - Agile Frameworks
+- Product Delivery
 - Product Backlog
 - Agile Planning
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 
 ---
 ## What's a Sprint Goal and Why Does It Matter?

@@ -29,6 +29,7 @@ aliasesArchive:
 - /resources/blog/windows-vista-windows-mobile-device-center
 tags:
 - Windows
+- Install and Configuration
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

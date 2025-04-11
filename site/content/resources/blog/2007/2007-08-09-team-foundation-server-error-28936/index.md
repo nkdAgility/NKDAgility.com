@@ -25,8 +25,8 @@ aliasesArchive:
 - /resources/blog/team-foundation-server-error-28936
 tags:
 - Troubleshooting
-- Windows
 - Install and Configuration
+- Windows
 - System Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []

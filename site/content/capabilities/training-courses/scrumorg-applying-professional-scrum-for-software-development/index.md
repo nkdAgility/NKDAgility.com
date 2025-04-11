@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: course
 ResourceContentOrigin: human
 date: 2017-01-01
-weight: 405
+weight: 350
 creator: Martin Hinshelwood
 type: course
 slug: applying-professional-scrum-for-software-development-aps-sd-with-certification
@@ -47,15 +47,22 @@ delivery-audiences:
 - Developers
 tags:
 - Software Development
-- Practical Techniques and Tooling
-- Scrum Product Development
+- Agile Frameworks
+- Agile Planning
 - Agile Product Management
+- Agile Transformation
 - Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
 - Product Delivery
 - Professional Scrum
 - Scrum Team
 - Team Collaboration
+- Team Performance
+- Technical Excellence
+- Technical Mastery
 - Value Delivery
+- Working Software
 categories:
 - Scrum
 - Engineering Excellence

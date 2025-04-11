@@ -19,27 +19,27 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T10:36:21",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of frequent product releases and user feedback, which aligns with some DevOps principles such as continuous delivery and responsiveness to user needs. However, it lacks explicit mentions of DevOps as a philosophy or its core practices, focusing instead on market leadership and agility without delving into the collaborative and cultural aspects of DevOps.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:42:53",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of frequent product releases and user feedback, which aligns with the principles of agility and continuous improvement. However, it lacks a direct focus on social technologies as defined in the category, such as self-organisation and collective intelligence. While it touches on collaboration and adapting to user needs, it does not delve deeply into the frameworks or methodologies that promote these aspects within organisations.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -59,7 +59,7 @@
     "reasoning": "Content primarily focuses on Scrum processes and product development rather than leadership practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-20T18:47:55",
     "ai_confidence": 0,
@@ -95,21 +95,12 @@
     "reasoning": "Content lacks a clear discussion on Agile Product Management principles and primarily focuses on a Scrum team's activities without sufficient depth.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily promotes a mindset of leadership in the market rather than focusing on the human aspects or structured methodologies within a Scrum team. There is minimal discussion on team dynamics, collaboration, or processes which are central to the category.",
-    "level": "Ignored"
-  },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-20T18:47:55",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on Scrum roles and events rather than directly discussing team collaboration, communication, or dynamics.",
     "level": "Ignored"
   },
@@ -185,15 +176,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events, which are not central to Engineering Practices as defined.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum team practices and does not provide news, updates, or reviews relevant to the Agile or DevOps fields.",
-    "level": "Ignored"
-  },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
     "calculated_at": "2025-02-20T18:47:55",
@@ -210,15 +192,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile and product development rather than psychological aspects of organizational behaviour.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on general Agile and Scrum concepts without directly discussing the role of software developers in these contexts.",
     "level": "Ignored"
   },
   "Troubleshooting": {
@@ -246,15 +219,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum roles and events related to sprint goals, without a focus on alignment with organizational vision or broader Agile strategic principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum roles and does not specifically discuss practical techniques or tooling related to Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Lean Product Development": {
@@ -304,24 +268,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-06T13:23:09",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of frequent product releases and continuous delivery, which aligns with key themes of product delivery. However, it lacks explicit mentions of methodologies, testing, or deployment strategies, resulting in a moderate confidence score.",
     "level": "Secondary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -343,11 +298,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not directly related to the concept of Lead Time.",
+    "calculated_at": "2025-04-11T08:54:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of frequent product releases and the ability to adapt quickly to market changes, which indirectly relates to Lead Time. However, it does not explicitly mention Lead Time or provide a detailed exploration of its definition, measurement, or strategies for optimisation. The focus is more on release frequency and user feedback rather than the specific metric of Lead Time, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -397,13 +355,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T10:36:23",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of frequent product releases and user feedback, which aligns with agile principles. However, it lacks explicit references to the Agile Product Operating Model and does not delve into its core themes such as governance, organisational structure, or Evidence-Based Management. The focus is more on general agile practices rather than the specific framework of APOM.",
     "level": "Secondary"
   },
@@ -461,21 +419,12 @@
     "reasoning": "Content heavily discusses Scrum concepts and does not focus on technical mastery or software craftsmanship.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Scrum roles but does not focus on specific events, presentations, or discussions relevant to the category.",
-    "level": "Ignored"
-  },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-20T18:47:55",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not discuss Scrum Values; it focuses on a general approach to sprint goals and does not elaborate on commitment, courage, focus, openness, or respect.",
     "level": "Ignored"
   },
@@ -508,12 +457,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T16:41:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of frequent product releases and user feedback, which are relevant to innovation practices. However, it primarily focuses on market leadership and agility rather than explicitly addressing the mechanisms and metrics of innovation. While it mentions fostering a culture of innovation and collaboration, it lacks detailed exploration of innovation metrics or frameworks, which limits its depth in the context of the Ability to Innovate category.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -562,20 +514,11 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-20T18:47:55",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not discuss team performance or agile methodologies; it is promotional and lacks relevant details on team dynamics or collaboration.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "reasoning": "Content does not discuss team performance or agile methodologies; it is promotional and lacks relevant details on team dynamics or collaboration.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -587,15 +530,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events, with no focus on customer satisfaction or experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on creating a sprint goal without addressing scaling or the application of Scrum principles in larger organizations.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
     "calculated_at": "2025-02-20T18:47:55",
@@ -603,15 +537,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on Scrum, which is a specific Agile framework, but does not address broader themes of organisational agility. It does not discuss how organisations can improve adaptability and responsiveness outside of Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -686,15 +611,6 @@
     "reasoning": "Content primarily discusses Scrum team and sprint goals without focusing on the specific responsibilities or functions of a Product Owner.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not provide substantial information or discussion specific to Scrum practices or product development; it mainly consists of a motivational statement and a link to a video.",
-    "level": "Ignored"
-  },
   "Remote Working": {
     "category": "Remote Working",
     "calculated_at": "2025-02-20T18:47:55",
@@ -706,11 +622,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:00:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product release strategies and market leadership rather than system configuration. While it mentions the importance of agility and user feedback, it does not discuss any specific system configuration tools, methodologies, or best practices. The themes of system setup, automation, and maintenance are absent, leading to a very low confidence score in alignment with the category.",
     "level": "Ignored"
   },
   "Lean Startup": {
@@ -760,10 +679,10 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-20T18:47:55",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on creating a sprint goal rather than discussing the Sprint Review itself.",
     "level": "Ignored"
   },
@@ -778,15 +697,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T16:45:28",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of frequent product releases and user feedback, which aligns with the concept of 'Time to Market' in Evidence-Based Management. However, it lacks explicit references to empirical metrics or a structured approach to decision-making based on data, which diminishes its alignment with the core themes of EBM. The depth of discussion is also limited, focusing more on general practices rather than detailed evidence-based strategies.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -795,15 +714,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, which are primarily related to Agile methodologies rather than Lean Thinking.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events and does not focus on Kanban principles or scaling.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
@@ -898,10 +808,10 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-20T18:47:55",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses creating a sprint goal, which is not directly related to the Daily Scrum event. It does not focus on the structure, roles, or practices specific to the Daily Scrum.",
     "level": "Ignored"
   },
@@ -916,10 +826,10 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-20T18:47:55",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum roles and events without addressing market adaptability strategies directly.",
     "level": "Ignored"
   },
@@ -979,33 +889,15 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-20T18:47:55",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses solely on Scrum without addressing scaling Agile practices across multiple teams or at an enterprise level.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
     "calculated_at": "2025-02-20T18:47:55",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
@@ -1040,15 +932,6 @@
     "reasoning": "The content primarily focuses on Scrum and does not clearly discuss Agile transformation principles or strategies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on Scrum and Agile principles without any discussion of AI integration or applications in Agile practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-20T18:47:55",
@@ -1078,20 +961,11 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-20T18:47:55",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content briefly mentions 'scrum' within a broader context of product development and does not engage in any detailed discussion of Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses primarily on a general discussion about Scrum teams and sprint goals, without specific reference to products, tools, or literature.",
+    "reasoning": "The content briefly mentions 'scrum' within a broader context of product development and does not engage in any detailed discussion of Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
   "Decision Making": {
@@ -1157,22 +1031,16 @@
     "reasoning": "Content is primarily focused on Scrum roles and events, with no discussion of Azure Boards or its functionalities.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Scrum and hints at agile principles, but it lacks depth in discussing the topic specifically.",
-    "level": "Tertiary"
-  },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:00:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, without mentioning throughput or its measurement and optimization.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of frequent product releases and user feedback, which indirectly relates to throughput as a delivery metric. However, it does not explicitly mention throughput or provide a detailed analysis of it as a metric. The focus is more on agile practices and market responsiveness rather than on measuring or visualising throughput specifically.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1186,13 +1054,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T16:45:25",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of frequent releases and user feedback, which aligns well with Continuous Delivery principles. It emphasises the need for a tight release frequency and the ability to adapt quickly to market changes, both of which are core themes of Continuous Delivery. However, while it touches on these concepts, it lacks a deeper exploration of automation, testing, and specific tools that support Continuous Delivery practices, which slightly reduces the depth of discussion.",
     "level": "Secondary"
   },
@@ -1207,22 +1075,22 @@
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-20T18:47:55",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum roles and events without providing a clear focus on market share strategies or methodologies.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T15:32:14",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses agile principles and the importance of frequent product releases, which aligns with some aspects of the Scrum framework. However, it does not explicitly mention the role of a Scrum Master or delve into their specific responsibilities, techniques, or influence on team dynamics. The focus is more on product delivery and market leadership rather than the Scrum Master's role in facilitating a Scrum Team's effectiveness.",
     "level": "Ignored"
   },
@@ -1264,27 +1132,18 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T16:27:34",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of frequent product releases and continuous delivery, which are relevant to software development practices. However, it lacks explicit references to specific methodologies or frameworks, and the focus is more on market strategy than on software engineering processes. The alignment with core themes is moderate, and while there is some depth in discussing release frequency, it does not delve into the technical aspects of software development.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
     "calculated_at": "2025-02-20T18:47:55",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
@@ -1310,21 +1169,12 @@
     "reasoning": "Content does not discuss technical leadership principles; it primarily focuses on being a market leader and does not elaborate on any relevant themes in technical leadership.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-20T18:47:55",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content mentions Scrum and sprint goals but does not provide substantial discussion on Scrum team dynamics, roles, or collaboration.",
     "level": "Ignored"
   },
@@ -1405,86 +1255,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T16:27:34",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the importance of frequent product releases and adapting to market opportunities, which aligns with Agile principles and the iterative nature of Scrum. However, it lacks explicit mentions of Scrum roles, events, or artifacts, and does not delve into the Scrum framework or its implementation, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:36:50",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of frequent product releases and user feedback, which aligns with agile principles but does not explicitly address the Shift-Left Strategy. While it touches on aspects of early user engagement and adaptation, it lacks a focus on integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T16:45:16",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of frequent product releases and user feedback, which aligns with the principles of Continuous Improvement. However, it primarily focuses on market leadership and agility rather than explicitly addressing Continuous Improvement methodologies or frameworks. While it mentions adapting to market opportunities and enhancing team morale, it lacks a deeper exploration of Continuous Improvement techniques or empirical evidence, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T16:45:18",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of frequent product releases and user feedback, which are relevant to Agile principles. However, it lacks explicit references to Common Goals, strategic alignment, or frameworks like OKRs. The focus is more on tactical execution rather than the foundational principles of aligning strategy with execution, which diminishes its relevance to the category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T16:45:20",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of frequent product releases and user feedback, which indirectly relates to competence through the lens of agility and responsiveness. However, it lacks direct mentions of competence as a foundational principle and does not delve deeply into continuous learning or skill development, which are core themes of the category.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T16:45:22",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the importance of frequent product releases and user feedback, which are not directly related to the One Engineering System framework. While it touches on agile practices, it lacks explicit discussion of 1ES principles, integration of tools, or standardisation of processes, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T15:32:08",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses agility in the context of product releases and user feedback, which aligns with the concept of adaptability. However, it lacks a direct focus on the intentional shaping of outcomes and does not differentiate between human and AI capabilities. The discussion is more about general Agile practices rather than the specific principles of Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T13:00:40",
+    "ai_confidence": 87.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the importance of frequent product releases and user feedback, which are core principles of Agile product development. It aligns well with the themes of iterative learning and customer feedback loops, emphasising the need for continuous improvement and adaptation to market changes. The depth of discussion is substantial, providing real-world applications and outcomes from adopting these practices, which further supports its relevance to product development methodologies.",
+    "level": "Primary"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T13:00:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of frequent product releases and user feedback, which aligns with agile project management principles. However, it lacks explicit mentions of broader project management concepts, methodologies, or detailed discussions on project lifecycle phases, making it more focused on product delivery rather than comprehensive project management.",
+    "level": "Tertiary"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T12:34:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the benefits of frequent product releases and user feedback, which aligns more with agile principles rather than a critical examination of Hybrid Agile. There are no direct mentions of Hybrid Agile, nor does it discuss the challenges or implications of merging traditional and agile methodologies. The discussion lacks depth regarding the core themes of Hybrid Agile, such as command-and-control structures or accountability issues.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T13:00:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the importance of frequent product releases and user feedback, which are more aligned with Agile practices rather than the complexities of scaling methodologies. While it touches on agility and responsiveness, it lacks explicit discussions on frameworks for scaling, cross-team collaboration, or managing dependencies, which are central to the Scaling category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T13:00:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content discusses the importance of frequent product releases and user feedback, which aligns with Agile principles but does not mention GitHub or its functionalities. The focus is on general product management and market leadership rather than GitHub-specific practices or tools.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T16:41:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of a tight release frequency and how it contributes to market leadership, which aligns well with the concept of Time to Market. It explicitly mentions the need for frequent releases and quick adaptation to market changes, both of which are key aspects of reducing Time to Market. However, while the content is focused on the benefits of these practices, it lacks detailed metrics or specific strategies for measuring Time to Market, which slightly lowers the depth score. Overall, the primary focus on timely delivery and user feedback supports a high confidence score.",
+    "level": "Secondary"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T16:41:39",
+    "ai_confidence": 55.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 55.0,
+    "reasoning": "The content discusses the importance of frequent product releases and user feedback, which indirectly relates to the concept of Unrealised Value by highlighting the potential for organisations to adapt and maximise value through innovation. However, it lacks explicit discussions on Unrealised Value, its definition, or specific indicators and strategies for identifying untapped opportunities. The focus is more on operational practices rather than a deep exploration of unrealised potential.",
+    "level": "Tertiary"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T16:41:42",
+    "ai_confidence": 65.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 10,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of frequent product releases and user feedback, which are relevant to the concept of Current Value. It highlights how these practices can lead to increased user engagement and adaptability, aligning with the core themes of measuring value delivered to customers. However, while it touches on aspects of Current Value, it does not provide specific metrics or detailed techniques for measuring Current Value, which limits the depth of discussion.",
+    "level": "Secondary"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T16:41:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses agile principles such as frequent releases and user feedback, which align with the Agnostic Agile philosophy of adapting methods to deliver value. However, it lacks direct references to Agnostic Agile or its principles, focusing instead on general agile practices without a critical examination of frameworks or ethical considerations. The depth of discussion is limited, primarily offering practical advice rather than a thorough exploration of Agnostic Agile concepts.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T16:41:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of frequent product releases and user feedback, which aligns with some principles of CaaP, such as delivering customer value and adapting to market needs. However, it primarily focuses on product management and agile methodologies rather than explicitly treating the organisation itself as a product. The discussion lacks depth in organisational design and does not mention cross-functional collaboration or strategic alignment, which are key aspects of CaaP.",
+    "level": "Tertiary"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T16:41:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product release strategies and market leadership, with no direct mention of Cell Structure Design or its principles. While it discusses agility and responsiveness, these concepts are not aligned with the core themes of decentralised organisational structures or the Beta Codex. The depth of discussion is also limited to product management rather than organisational design.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T16:41:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product release strategies and market leadership, with no direct mention of Liberating Structures or facilitation techniques. While it touches on themes of agility and user feedback, which are relevant to collaborative environments, it lacks specific discussion on the principles, techniques, or applications of Liberating Structures. The depth of discussion is also minimal, as it does not explore any facilitation methods or their impact on group dynamics.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T16:41:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of frequent product releases and user feedback, which are Agile principles but do not specifically address Open Space Agile or its core themes such as psychological safety, co-creation, or emergence. There are no direct mentions of Open Space Agile or its practices, and the discussion lacks depth regarding the collaborative change processes that characterise this category.",
     "level": "Ignored"
   }
 }

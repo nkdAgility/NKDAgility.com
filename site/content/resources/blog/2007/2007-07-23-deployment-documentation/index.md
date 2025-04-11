@@ -9,7 +9,7 @@ ResourceImportId: 363
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-23
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,10 +28,10 @@ preview: metro-binary-vb-128-link-1-1.png
 tags:
 - Product Delivery
 - Install and Configuration
-- Release Management
-- System Configuration
 - Pragmatic Thinking
+- Release Management
 - Software Development
+- System Configuration
 
 ---
 Over the past week I have been working on creating and documenting a deployment process for our new main business application. This application is very complicated and requires twenty servers per four environments. We need to track and control deployment to UAT, pre-production, production and C&R (disaster recovery site), but my company as a larger organization only requires control of production.

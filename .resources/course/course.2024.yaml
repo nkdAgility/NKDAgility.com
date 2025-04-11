@@ -33,16 +33,15 @@
     - Product Managers
     - Teams
     tags:
-    - Experimentation
-    - Practical Techniques and Tooling
     - Decision Making
-    - Discovery and Learning
+    - Experimentation
     - Hypothesis Driven Development
+    - Metrics and Learning
+    - Pragmatic Thinking
     - Product Discovery
     - Product Validation
-    - Metrics and Learning
-    - Products and Books
     - Value Delivery
+    - Entrepreneurship
     categories:
     - Product Management
     preview: NKDAgility-Courses-PSVS-16x9-1.png
@@ -88,6 +87,88 @@
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\capabilities\training-courses\scrumorg-professional-product-discovery-and-validation-skills\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\capabilities\training-courses\scrumorg-professional-product-discovery-and-validation-skills
 - FrontMatter:
+    title: Applying Scaled Portfolio Kanban
+    description: Transform your organisation's efficiency with our 'Applying Scaled Portfolio Kanban' course. Learn to align work with goals and drive continuous improvement.
+    ResourceId: gUxi6u7gQcc
+    ResourceImport: true
+    ResourceType: course
+    ResourceContentOrigin: human
+    date: 2024-01-12
+    weight: 1000
+    creator: Martin Hinshelwood
+    type: course
+    slug: applying-scaled-portfolio-kanban
+    url: 
+    aliases:
+    - /training-courses/kanban-training-courses/applying-scaled-portfolio-kanban/
+    - /capabilities/training-courses/prokanban.org/prokanban-applying-scaled-portfolio-kanban/
+    - /resources/gUxi6u7gQcc
+    aliasesArchive:
+    - /training-courses/kanban-training-courses/applying-scaled-portfolio-kanban/
+    - /capabilities/training-courses/prokanban.org/prokanban-applying-scaled-portfolio-kanban/
+    course-topics:
+    - Kanban Training Courses
+    course-vendors:
+    - ProKanban.org
+    course-learning-experiences:
+    - Traditional
+    delivery-audiences:
+    - Teams
+    - Product Owners
+    - Lean Agile Practitioners
+    tags:
+    - Agile Frameworks
+    - Operational Practices
+    - Portfolio Management
+    - Pragmatic Thinking
+    - Transparency
+    categories:
+    - Kanban
+    preview: NKDAgility-Courses-SPK-16x9-1.jpg
+    previewIcon: SPK@600.png
+    brandColour: 
+    card:
+      button:
+        content: ""
+      title: Applying Scaled Portfolio Kanban
+      content: Discover the transformative 'Applying Scaled Portfolio Kanban' course, equipping you with the tools to positively influence your organization. From setting up transparent systems to managing portfolios effectively, gain actionable skills for real-world impact.
+    code: ASPK
+    level: intermediate
+    introduction: 
+    overview: Professionals in leadership and project management roles, including Heads of Departments, Agile Coaches, Project Managers, Development Leaders, Product Owners, Scrum Masters, and Product Managers, seeking to enhance their organization's efficiency, effectiveness, and predictability through the application of Scaled Portfolio Kanban principles.
+    outcomes: |2+
+
+      1. Defining and designing a Portfolio Kanban Board
+      2. Operating the Portfolio Kanban system effectively
+      3. Aligning active work with stated strategy
+      4. Managing dependencies and blockers
+      5. Forecasting completion dates for portfolio items
+      6. Leveraging data for organization-wide improvements
+      7. Validated Learning and Scaled Portfolio Kanban Certification
+
+    assessment: 
+    objectives: |+
+      After attending the course, learners will be able to: 
+      1. Set up transparent systems to track team progress.
+      2. Evaluate work alignment with strategic goals.
+      3. Manage portfolios efficiently and predict higher-level objectives.
+      4. Quickly identify obstacles to progress.
+      5. Predict completion dates for portfolio items.
+      6. Identify opportunities for process improvement.
+      7. Validate the organization's effectiveness in delivering the right outcomes.
+      8. Obtain the "Scaled Portfolio Kanban" (SPK) certification through assessment.
+
+    prerequisites: 
+    audience: 
+    trainers: 
+    roadmap: 
+    syllabus: 
+    events: 
+  BodyContent: |
+    Our 'Applying Scaled Portfolio Kanban' course is a game-changer for organizations seeking to enhance their efficiency and effectiveness. With a focus on practical outcomes, this course guides you through setting up transparent systems, aligning work with strategic goals, and managing portfolios effectively. You'll quickly grasp the reasons hindering progress, predict higher-level objectives, and identify opportunities for continuous improvement. By the course's end, you'll validate your organization's effectiveness in delivering the right outcomes. Whether you're a department head, Agile coach, project manager, or product owner, this course empowers you to make a tangible impact.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\capabilities\training-courses\prokanban-applying-scaled-portfolio-kanban\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\capabilities\training-courses\prokanban-applying-scaled-portfolio-kanban
+- FrontMatter:
     title: Applying Flow Metrics for Scrum
     description: Unlock the power of flow metrics in Scrum! This immersive course enhances your Agile practices, boosting team efficiency and project outcomes.
     ResourceId: Ej_UgfRAGhZ
@@ -95,7 +176,7 @@
     ResourceType: course
     ResourceContentOrigin: human
     date: 2024-01-12
-    weight: 550
+    weight: 500
     creator: Martin Hinshelwood
     type: course
     slug: applying-flow-metrics-for-scrum
@@ -120,16 +201,25 @@
     - Product Owners
     - Lean Agile Practitioners
     tags:
-    - Metrics and Learning
     - Flow Efficiency
-    - Practical Techniques and Tooling
-    - Scrum Product Development
-    - Throughput
+    - Metrics and Learning
+    - Agile Frameworks
+    - Agile Planning
     - Agile Product Management
-    - Agile Project Management
+    - Agile Transformation
     - Cycle Time
+    - Empirical Process Control
+    - Forecasting
+    - Operational Practices
+    - Pragmatic Thinking
+    - Professional Scrum
     - Scrum Team
+    - Software Development
     - Team Performance
+    - Throughput
+    - Value Delivery
+    - Product Backlog
+    - Scrum Master
     categories:
     - Scrum
     preview: NKDAgility-Courses-AFMS-16x9-1.jpg
@@ -183,7 +273,7 @@
     ResourceType: course
     ResourceContentOrigin: human
     date: 2024-01-12
-    weight: 550
+    weight: 500
     creator: Martin Hinshelwood
     type: course
     slug: applying-metrics-for-predictability
@@ -209,15 +299,14 @@
     - Lean Agile Practitioners
     tags:
     - Metrics and Learning
-    - Forecasting
-    - Throughput
-    - Agile Project Management
-    - Practical Techniques and Tooling
     - Agile Planning
-    - Flow Efficiency
     - Decision Making
+    - Flow Efficiency
+    - Forecasting
     - Operational Practices
     - Pragmatic Thinking
+    - Throughput
+    - Estimation
     categories: []
     preview: NKDAgility-Courses-AMP-16x9-1.jpg
     previewIcon: Course-logo-AMP@1x.png
@@ -266,90 +355,4 @@
     By the end of this course, you'll have the expertise needed to provide accurate forecasts, optimize your processes, and make informed decisions, ultimately boosting your project's success. Whether you're an executive, manager, or team member, our immersive learning experience will equip you with valuable skills for today's competitive environment.
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\capabilities\training-courses\prokanban-applying-metrics-for-predictability\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\capabilities\training-courses\prokanban-applying-metrics-for-predictability
-- FrontMatter:
-    title: Applying Scaled Portfolio Kanban
-    description: Transform your organisation's efficiency with our 'Applying Scaled Portfolio Kanban' course. Learn to align work with goals and drive continuous improvement.
-    ResourceId: gUxi6u7gQcc
-    ResourceImport: true
-    ResourceType: course
-    ResourceContentOrigin: human
-    date: 2024-01-12
-    weight: 995
-    creator: Martin Hinshelwood
-    type: course
-    slug: applying-scaled-portfolio-kanban
-    url: 
-    aliases:
-    - /training-courses/kanban-training-courses/applying-scaled-portfolio-kanban/
-    - /capabilities/training-courses/prokanban.org/prokanban-applying-scaled-portfolio-kanban/
-    - /resources/gUxi6u7gQcc
-    aliasesArchive:
-    - /training-courses/kanban-training-courses/applying-scaled-portfolio-kanban/
-    - /capabilities/training-courses/prokanban.org/prokanban-applying-scaled-portfolio-kanban/
-    course-topics:
-    - Kanban Training Courses
-    course-vendors:
-    - ProKanban.org
-    course-learning-experiences:
-    - Traditional
-    delivery-audiences:
-    - Teams
-    - Product Owners
-    - Lean Agile Practitioners
-    tags:
-    - Agile Project Management
-    - Portfolio Management
-    - Agile Frameworks
-    - Practical Techniques and Tooling
-    - Scaling Kanban
-    - Operational Practices
-    - Pragmatic Thinking
-    - Scaling Agility
-    - Transparency
-    categories:
-    - Kanban
-    preview: NKDAgility-Courses-SPK-16x9-1.jpg
-    previewIcon: SPK@600.png
-    brandColour: 
-    card:
-      button:
-        content: ""
-      title: Applying Scaled Portfolio Kanban
-      content: Discover the transformative 'Applying Scaled Portfolio Kanban' course, equipping you with the tools to positively influence your organization. From setting up transparent systems to managing portfolios effectively, gain actionable skills for real-world impact.
-    code: ASPK
-    level: intermediate
-    introduction: 
-    overview: Professionals in leadership and project management roles, including Heads of Departments, Agile Coaches, Project Managers, Development Leaders, Product Owners, Scrum Masters, and Product Managers, seeking to enhance their organization's efficiency, effectiveness, and predictability through the application of Scaled Portfolio Kanban principles.
-    outcomes: |2+
-
-      1. Defining and designing a Portfolio Kanban Board
-      2. Operating the Portfolio Kanban system effectively
-      3. Aligning active work with stated strategy
-      4. Managing dependencies and blockers
-      5. Forecasting completion dates for portfolio items
-      6. Leveraging data for organization-wide improvements
-      7. Validated Learning and Scaled Portfolio Kanban Certification
-
-    assessment: 
-    objectives: |+
-      After attending the course, learners will be able to: 
-      1. Set up transparent systems to track team progress.
-      2. Evaluate work alignment with strategic goals.
-      3. Manage portfolios efficiently and predict higher-level objectives.
-      4. Quickly identify obstacles to progress.
-      5. Predict completion dates for portfolio items.
-      6. Identify opportunities for process improvement.
-      7. Validate the organization's effectiveness in delivering the right outcomes.
-      8. Obtain the "Scaled Portfolio Kanban" (SPK) certification through assessment.
-
-    prerequisites: 
-    audience: 
-    trainers: 
-    roadmap: 
-    syllabus: 
-    events: 
-  BodyContent: |
-    Our 'Applying Scaled Portfolio Kanban' course is a game-changer for organizations seeking to enhance their efficiency and effectiveness. With a focus on practical outcomes, this course guides you through setting up transparent systems, aligning work with strategic goals, and managing portfolios effectively. You'll quickly grasp the reasons hindering progress, predict higher-level objectives, and identify opportunities for continuous improvement. By the course's end, you'll validate your organization's effectiveness in delivering the right outcomes. Whether you're a department head, Agile coach, project manager, or product owner, this course empowers you to make a tangible impact.
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\capabilities\training-courses\prokanban-applying-scaled-portfolio-kanban\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\capabilities\training-courses\prokanban-applying-scaled-portfolio-kanban
 

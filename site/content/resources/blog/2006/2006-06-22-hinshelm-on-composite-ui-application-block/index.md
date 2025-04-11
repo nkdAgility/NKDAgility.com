@@ -9,7 +9,7 @@ ResourceImportId: 467
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-06-22
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,7 +29,7 @@ aliasesArchive:
 - /resources/blog/hinshelm-on-composite-ui-application-block
 tags:
 - Software Development
-- Practical Techniques and Tooling
+- Technical Mastery
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

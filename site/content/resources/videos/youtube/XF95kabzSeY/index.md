@@ -28,9 +28,7 @@ duration: 67
 isShort: false
 tags:
 - Product Owner
-- People and Process
 - Agile Product Management
-- Scrum Product Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -38,6 +36,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

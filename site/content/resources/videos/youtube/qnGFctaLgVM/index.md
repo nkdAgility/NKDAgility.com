@@ -31,7 +31,8 @@ tags:
 - Product Owner
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 ## Why Russell is the Go-To PSPO Trainer for NKD Agility 🏆 

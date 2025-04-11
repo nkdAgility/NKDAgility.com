@@ -26,16 +26,17 @@ preview: https://i.ytimg.com/vi/UW26aDoBVbQ/maxresdefault.jpg
 duration: 31
 isShort: true
 tags:
+- Agile Product Management
 - Lean Product Development
 - Product Owner
 - Value Delivery
-- Agile Product Management
-- Lean
 - Lean Principles
 - Lean Thinking
 - Organisational Agility
-- Discovery and Learning
+- Pragmatic Thinking
+- Agile Strategy
 - Operational Practices
+- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,7 +44,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
+- Lean
 
 ---
 In our recent lean product development and product owner workshop, I found myself reflecting on the current landscape of product ownership and its critical role in shaping the future of organisations. It’s fascinating to see how the conversation around product ownership has evolved, and I want to share some insights from our discussions that I believe are vital for anyone involved in product delivery.

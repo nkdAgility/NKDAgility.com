@@ -9,7 +9,7 @@ ResourceImportId: 48
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-28
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -33,13 +33,9 @@ aliasesArchive:
 - /resources/blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
 tags:
 - Software Development
-- People and Process
 - Team Collaboration
-- Agile Project Management
-- Practical Techniques and Tooling
 - Pragmatic Thinking
-categories:
-- Scrum
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

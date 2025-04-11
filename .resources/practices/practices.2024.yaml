@@ -1,44 +1,145 @@
 - FrontMatter:
-    title: Site Reliability Engineering (SRE)
-    description: Site Reliability Engineering (SRE), part of the shift-left movement, focuses on creating a live site culture for your product.
-    ResourceId: K0i7PIZARDw
+    title: Metrics and Reports
+    description: Monitor key metrics for team and project performance at [Company] to enhance customer and employee satisfaction, streamline processes, and boost efficiency.
+    ResourceId: 26FWeqJuu0P
     ResourceImport: false
     ResourceType: practices
     ResourceContentOrigin: Human
     resourceTypes: practice
     layout: practice
     aliases:
-    - /learn/agile-delivery-kit/practices/site-reliability-engineering-sre
-    - /resources/K0i7PIZARDw
+    - /learn/agile-delivery-kit/practices/metrics-reports
+    - /resources/26FWeqJuu0P
     aliasesArchive:
-    - /learn/agile-delivery-kit/practices/site-reliability-engineering-sre
-    references:
-    - title: 'NDC Conferences: Live Site Culture & Site Reliability at Azure DevOps - Martin Hinshelwood (PDF)'
-      url: https://nkdagility.net/ndcoslo19-LiveSiteCulture
+    - /learn/agile-delivery-kit/practices/metrics-reports
     recommendedContent:
-    - collection: strategies
-      path: _strategies/one-engineering-system.md
-    videos:
-    - title: 'NDC Conferences: Live Site Culture & Site Reliability at Azure DevOps - Martin Hinshelwood'
-      embed: https://www.youtube.com/embed/CIDFB6XfoCg
+    - practices/Metrics-Reports/
+    - practices/Metrics-Reports.html
+    - metrics-reports
+    - metrics-reports.html
     date: 2024-09-17
-    weight: 690
+    weight: 300
     creator: Martin Hinshelwood
     card:
       button:
         content: Learn More
-      content: Discover more about Site Reliability Engineering (SRE) and how it can help you in your Agile journey!
-      title: Site Reliability Engineering (SRE)
+      content: Discover more about Metrics and Reports and how it can help you in your Agile journey!
+      title: Metrics and Reports
     categories:
-    - DevOps
+    - Product Management
     - Engineering Excellence
-    tags: []
+    tags:
+    - Operational Practices
+    - Metrics and Learning
+    - Transparency
+    - Evidence Based Leadership
+    - Evidence Based Management
+    - Flow Efficiency
+    - Product Delivery
+    - Value Delivery
+    - Team Performance
+    - Continuous Improvement
+    - Empirical Process Control
+    - Pragmatic Thinking
+    - Software Development
+    - Working Software
+    - Throughput
+    - Cycle Time
+    - Deployment Frequency
   BodyContent: |
-    With the shift-left movement pushing more responsibility to the engineering teams what practices will help them cope with running a production site. These are the experience of the Azure DevOps Services team and their journey from on premises to a fully fledged SAAS solution and way they need to do to run it and build trust with their customers.
+    In order to understand how your team is doing we need to have metrics that we can monitor across all of [Company]. There are two focuses of this work, first is the Product/Project/Organisation focus and second is the Team focus.
 
-    We will cover the importance of transparency, telemetry, on-call, and how to protect your feature teams from disruptions without them loosing touch with production.
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\site-reliability-engineering-sre\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\site-reliability-engineering-sre
+    ###Background material
+
+    - [EBM Guide]
+
+    ## Product/Project/Organisation Focus
+
+    Here are the key metrics that should be collected and made transparent for every Product/Project/Organisation.
+
+    - **Customer Satisfaction** - Some form of sentiment analysis to help gauge customer engagement and happiness with the product.
+    - **Employee Satisfaction** - Some form of sentiment analysis to help gauge employee engagement, energy, and enthusiasm.
+    - **Defect Trend** - Measurement of change in defects since the last measurement. A defect is anything that reduces the value of the product to a customer, user, or to the organization itself. Defects are generally things that don't work as intended.
+    - **Mean Time to Repair** - The average amount of time it takes from when an error is detected and when it is fixed. This helps reveal the efficiency of an organization to fix an error.
+    - **Release Stabilization** - The time spent correcting product problems between the point the developers say it is ready to release and the point where it is actually released to customers. This helps represent the impact of poor development practices and underlying design and codebase.
+    - **Deployment / Release Frequency** - The number of releases per time period, e.g. continuously, daily, weekly, monthly, quarterly, etc. This helps reflect the time needed to satisfy the customer with new and competitive products.
+
+    ## Team Focus
+
+    At the team level we should focus on the flow of value to the stakeholders. For this to work we should collect and monitor the following:
+
+    - **Work in Progress (WIP)**- The number of work items started but not finished. Note the difference between the WIP metric and the policies a Scrum Team uses to limit WIP. The team can use the WIP metric to provide transparency about their progress towards reducing their WIP and improving their flow.
+    - **Cycle Time** - The amount of elapsed time between when a work item starts and when a work item finishes.
+    - **Work Item Age ** - The amount of time between when a work item started and the current time. This applies only to items that are still in progress.
+    - **Throughput** - The number of work items finished per unit of time.
+
+    ![image.png](/.attachments/image-780125d0-ecac-43a2-8bfe-b1ad2939d02f.png =800x)
+
+    Things that we should not monitor (but the Team can for their own edification if they desire):
+
+    - Story Points
+    - Velocity
+    - Remaining Work
+    - Original Estimate
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\metrics-reports\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\metrics-reports
+- FrontMatter:
+    title: Service Level Expectation (SLE)
+    description: A service level expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the Scrum Team's Workflow.
+    ResourceId: b7fi5SAsyNb
+    ResourceImport: false
+    ResourceType: practices
+    ResourceContentOrigin: Human
+    resourceTypes: practice
+    layout: practice
+    aliases:
+    - /learn/agile-delivery-kit/practices/service-level-expectation-sle
+    - /resources/b7fi5SAsyNb
+    aliasesArchive:
+    - /learn/agile-delivery-kit/practices/service-level-expectation-sle
+    recommendedContent:
+    - practices/Service-Level-Expectation-SLE.html
+    - practices/Service-Level-Expectation-SLE/
+    date: 2024-09-17
+    weight: 1000
+    creator: Martin Hinshelwood
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Service Level Expectation (SLE) and how it can help you in your Agile journey!
+      title: Service Level Expectation (SLE)
+    categories:
+    - Scrum
+    tags:
+    - Forecasting
+    - Software Development
+    - Metrics and Learning
+    - Throughput
+    - Agile Frameworks
+    - Scrum Team
+    - Flow Efficiency
+    - Operational Practices
+    - Cycle Time
+    - Empirical Process Control
+    - Estimation
+    - Pragmatic Thinking
+    - Transparency
+  BodyContent: |
+    A service level expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the Scrum Team's Workflow. The Scrum Team uses its SLE to find active flow issues and to inspect and adapt in cases of falling below those expectations.
+
+    The SLE itself has two parts: a range of elapsed days and a probability associated with that period (e.g., 85% of work items should be finished in eight days or less). The SLE should be based on the Scrum Team's historical Cycle Time, and once calculated, the Scrum Team should make it transparent. If no historical Cycle Time data exists, the Scrum Team should make its best guess and then inspect and adapt once there is enough historical data to do a proper SLE calculation.
+
+    A reasonable SLE should be less than your Sprint length and shorter improves predictability.
+
+    ![image.png](/.attachments/image-8dc3304f-74c4-438e-935d-ad9fc5eed118.png)
+
+    ## Resources
+
+    - [The Kanban Guide for Scrum Teams](/Project-Management/Agile-Ways-of-Working/Guides-&-WhitePapers/Kanban-Guide-for-Scrum-Teams)
+
+    [References](https://dev.azure.com/newsigcode/NewSignature.UKProfessionalServices/_wiki/wikis/NewSignature.UKProfessionalServices.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FProject%20Management%2FAgile%20Ways%20of%20Working%2FCore%20Practices&pageId=5053&anchor=reference)
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\service-level-expectation-sle\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\service-level-expectation-sle
 - FrontMatter:
     title: Sprint Planning Event
     description: Professional Sprint Planning is a practice that helps teams to plan and execute work in a way that is sustainable and predictable. It serves as both a planning and a learning event that helps teams to understand their capacity and capability as well as a marketing event that helps teams to formulate their communication and intentions to stakeholders.
@@ -71,7 +172,7 @@
     - title: How does a scrum team plan and prioritize work effectively?
       embed: https://www.youtube.com/embed/sPmUuSy7G3I
     date: 2024-09-17
-    weight: 810
+    weight: 790
     creator: Martin Hinshelwood
     card:
       button:
@@ -81,16 +182,15 @@
     categories:
     - Scrum
     tags:
-    - Scrum Product Development
     - Scrum Team
+    - Agile Frameworks
     - Professional Scrum
     - Agile Planning
-    - Agile Frameworks
-    - Agile Project Management
     - Software Development
-    - People and Process
     - Agile Product Management
     - Product Delivery
+    - Team Collaboration
+    - Team Performance
   BodyContent: |
     We will endevour to explain not just the purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) but the additional practices and understanding that are required to make it effective. We will also look at how to market the outcome and help teams to communicate their intentions and plans to stakeholders so that they can support the team in their work.
 
@@ -224,158 +324,6 @@
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-backlog\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-backlog
 - FrontMatter:
-    title: Metrics and Reports
-    description: Monitor key metrics for team and project performance at [Company] to enhance customer and employee satisfaction, streamline processes, and boost efficiency.
-    ResourceId: 26FWeqJuu0P
-    ResourceImport: false
-    ResourceType: practices
-    ResourceContentOrigin: Human
-    resourceTypes: practice
-    layout: practice
-    aliases:
-    - /learn/agile-delivery-kit/practices/metrics-reports
-    - /resources/26FWeqJuu0P
-    aliasesArchive:
-    - /learn/agile-delivery-kit/practices/metrics-reports
-    recommendedContent:
-    - practices/Metrics-Reports/
-    - practices/Metrics-Reports.html
-    - metrics-reports
-    - metrics-reports.html
-    date: 2024-09-17
-    weight: 370
-    creator: Martin Hinshelwood
-    card:
-      button:
-        content: Learn More
-      content: Discover more about Metrics and Reports and how it can help you in your Agile journey!
-      title: Metrics and Reports
-    categories:
-    - Product Management
-    - Engineering Excellence
-    - DevOps
-    tags:
-    - Metrics and Learning
-    - Operational Practices
-    - Transparency
-    - Flow Efficiency
-    - Product Delivery
-    - Value Delivery
-    - Team Performance
-    - Evidence Based Management
-    - Evidence Based Leadership
-    - Throughput
-  BodyContent: |
-    In order to understand how your team is doing we need to have metrics that we can monitor across all of [Company]. There are two focuses of this work, first is the Product/Project/Organisation focus and second is the Team focus.
-
-    ###Background material
-
-    - [EBM Guide]
-
-    ## Product/Project/Organisation Focus
-
-    Here are the key metrics that should be collected and made transparent for every Product/Project/Organisation.
-
-    - **Customer Satisfaction** - Some form of sentiment analysis to help gauge customer engagement and happiness with the product.
-    - **Employee Satisfaction** - Some form of sentiment analysis to help gauge employee engagement, energy, and enthusiasm.
-    - **Defect Trend** - Measurement of change in defects since the last measurement. A defect is anything that reduces the value of the product to a customer, user, or to the organization itself. Defects are generally things that don't work as intended.
-    - **Mean Time to Repair** - The average amount of time it takes from when an error is detected and when it is fixed. This helps reveal the efficiency of an organization to fix an error.
-    - **Release Stabilization** - The time spent correcting product problems between the point the developers say it is ready to release and the point where it is actually released to customers. This helps represent the impact of poor development practices and underlying design and codebase.
-    - **Deployment / Release Frequency** - The number of releases per time period, e.g. continuously, daily, weekly, monthly, quarterly, etc. This helps reflect the time needed to satisfy the customer with new and competitive products.
-
-    ## Team Focus
-
-    At the team level we should focus on the flow of value to the stakeholders. For this to work we should collect and monitor the following:
-
-    - **Work in Progress (WIP)**- The number of work items started but not finished. Note the difference between the WIP metric and the policies a Scrum Team uses to limit WIP. The team can use the WIP metric to provide transparency about their progress towards reducing their WIP and improving their flow.
-    - **Cycle Time** - The amount of elapsed time between when a work item starts and when a work item finishes.
-    - **Work Item Age ** - The amount of time between when a work item started and the current time. This applies only to items that are still in progress.
-    - **Throughput** - The number of work items finished per unit of time.
-
-    ![image.png](/.attachments/image-780125d0-ecac-43a2-8bfe-b1ad2939d02f.png =800x)
-
-    Things that we should not monitor (but the Team can for their own edification if they desire):
-
-    - Story Points
-    - Velocity
-    - Remaining Work
-    - Original Estimate
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\metrics-reports\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\metrics-reports
-- FrontMatter:
-    title: Definition of Ready (DoR)
-    description: Definition of Ready can result in significant anti-patterns in teams.
-    ResourceId: afLYe__TZKq
-    ResourceImport: false
-    ResourceType: practices
-    ResourceContentOrigin: Human
-    resourceTypes: practice
-    layout: practice
-    aliases:
-    - /practices/Definition-of-Ready-DoR.html
-    - /learn/agile-delivery-kit/practices/definition-of-ready-dor
-    - /resources/afLYe__TZKq
-    aliasesArchive:
-    - /practices/Definition-of-Ready-DoR.html
-    - /learn/agile-delivery-kit/practices/definition-of-ready-dor
-    recommendedContent:
-    - /practices/Definition-of-Ready-DoR.html
-    date: 2024-09-17
-    weight: 1000
-    creator: Martin Hinshelwood
-    card:
-      button:
-        content: Learn More
-      content: Discover more about Definition of Ready (DoR) and how it can help you in your Agile journey!
-      title: Definition of Ready (DoR)
-    categories:
-    - Scrum
-    tags:
-    - Agile Project Management
-    - Software Development
-    - Definition of Ready
-    - Agile Product Management
-    - Scrum Product Development
-    - Professional Scrum
-    - Product Backlog
-    - Software Developers
-    - People and Process
-  BodyContent: |
-    From the perspective of Scrum, the idea of Ready, as applied to a Backlog Item, represents everyone's (Developers, Product Owner, & Stakeholders) understanding of what is needed to implement that Backlog Item. Since this is subjective and not objective, having a definition of what constitutes ready is not possible.
-
-    The danger of having a defined definition of Ready (DoR) is:
-
-    - **False sense of Ready** - First that it creates a false sense of Ready that encompasses the objective points that we can focus on, but misses the subjective. This can lead to false gating, where participants hold each other accountable for failing to achieve something that was not defined in the first place.
-    - **Neglecting Refinement** - If things are "ready" then why would we have to understand it better!
-    - **False Equivalence with DoD** - Using the DoR terminology generally leads participants to feel that the DoD and the DoR have an equivalence. This is dangerous as the DoD is an absolute boolean proposition, while the subjective nature of the DoR may lead it to be only partially implemented. If it's OK to only partially achieve the DoR, the logical fallacy is that the DoD can also be partially implemented.
-
-    A solution that may enable the effective use of this practice may be to a different formula of naming to create disambiguation between the DoR and the DoD.
-
-    ## Backlog Candidacy Test
-
-    Every candidate Backlog Item should have:
-
-    - has a clear outcome or objective.
-    - contains a clear hypothesis.
-    - defignes clear telemetry to be collected.
-
-    Once candidacy is achieved then the Team & Stakehodlers can determin Ready with conversation.
-
-    ## Rule of Thumb
-
-    _As a general rule Developers should not take Backlog Item into a Sprint that they do not fully understand and agree, as a team, that there is a reasonable likelihood of being successful._
-
-    ## INVEST
-
-    - I (Independent). The PBI should be self-contained and it should be possible to bring it into progress without a dependency upon another PBI or an external resource.
-    - N (Negotiable). A good PBI should leave room for discussion regarding its optimal implementation.
-    - V (Valuable). The value a PBI delivers to stakeholders should be clear.
-    - E (Estimable). A PBI must have a size relative to other PBIs.
-    - S (Small). PBIs should be small enough to estimate with reasonable accuracy and to plan into a time-box such as a Sprint.
-    - T (Testable). Each PBI should have clear acceptance criteria which allow its satisfaction to be tested.
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\definition-of-ready-dor\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\definition-of-ready-dor
-- FrontMatter:
     title: Definition of Done (DoD)
     description: Getting Started with the Definition of Done (DoD). Every team should define what is required, what criteria must be met, for a product increment to be considered releasable.
     ResourceId: mAZrKmLwc3L
@@ -409,7 +357,7 @@
     - title: Agile Evolution - An Enterprise transformation that shows that you can too - Martin Hinshelwood
       embed: https://www.youtube.com/embed/QA2QdBG5uLE
     date: 2024-09-17
-    weight: 410
+    weight: 355
     card:
       button:
         content: Learn More
@@ -417,18 +365,27 @@
       title: Definition of Done (DoD)
     categories:
     - Scrum
-    - Social Technologies
+    - Engineering Excellence
     tags:
-    - Increment
-    - Transparency
     - Definition of Done
-    - Scrum Product Development
-    - Software Development
-    - Working Software
     - Professional Scrum
+    - Increment
+    - Software Development
+    - Transparency
+    - Working Software
     - Product Delivery
-    - Agile Project Management
+    - Agile Frameworks
+    - Value Delivery
+    - Operational Practices
+    - Pragmatic Thinking
     - Empirical Process Control
+    - Engineering Practices
+    - Scrum Team
+    - Technical Mastery
+    - Agile Planning
+    - Agile Product Management
+    - Team Collaboration
+    - Team Performance
   BodyContent: |
     Every team should define what is required, what criteria must be met, for a product increment to be considered releasable. A definition of done. If the organization has not articulated a specific standard, or set of criteria, then the team should create a definition of done that is appropriate for the product. The work produced must comply with the definition of done for it to be considered usable, and if there are multiple teams working on a single product, then those teams must agree on a definition of done and ensure that all teams honour that standard.
     {: .lead}
@@ -641,9 +598,7 @@
         content: Learn More
       content: Discover more about Accountabilities for the Scrum Team and how it can help you in your Agile journey!
       title: Accountabilities for the Scrum Team
-    categories:
-    - Scrum
-    - Social Technologies
+    categories: []
     tags: []
   BodyContent: |
     While we have an overview of the [accountabilities](/Project-Management/Agile-Ways-of-Working/Core-Practices/Accountabilities) for the organisation it is worth diving into some of the accountabilities specifically.
@@ -652,57 +607,42 @@
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\accountabilities-for-the-scrum-team\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\accountabilities-for-the-scrum-team
 - FrontMatter:
-    title: Service Level Expectation (SLE)
-    description: A service level expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the Scrum Team's Workflow.
-    ResourceId: b7fi5SAsyNb
+    title: Site Reliability Engineering (SRE)
+    description: Site Reliability Engineering (SRE), part of the shift-left movement, focuses on creating a live site culture for your product.
+    ResourceId: K0i7PIZARDw
     ResourceImport: false
     ResourceType: practices
     ResourceContentOrigin: Human
     resourceTypes: practice
     layout: practice
     aliases:
-    - /learn/agile-delivery-kit/practices/service-level-expectation-sle
-    - /resources/b7fi5SAsyNb
+    - /learn/agile-delivery-kit/practices/site-reliability-engineering-sre
+    - /resources/K0i7PIZARDw
     aliasesArchive:
-    - /learn/agile-delivery-kit/practices/service-level-expectation-sle
+    - /learn/agile-delivery-kit/practices/site-reliability-engineering-sre
+    references:
+    - title: 'NDC Conferences: Live Site Culture & Site Reliability at Azure DevOps - Martin Hinshelwood (PDF)'
+      url: https://nkdagility.net/ndcoslo19-LiveSiteCulture
     recommendedContent:
-    - practices/Service-Level-Expectation-SLE.html
-    - practices/Service-Level-Expectation-SLE/
+    - collection: strategies
+      path: _strategies/one-engineering-system.md
+    videos:
+    - title: 'NDC Conferences: Live Site Culture & Site Reliability at Azure DevOps - Martin Hinshelwood'
+      embed: https://www.youtube.com/embed/CIDFB6XfoCg
     date: 2024-09-17
-    weight: 1000
+    weight: 660
     creator: Martin Hinshelwood
     card:
       button:
         content: Learn More
-      content: Discover more about Service Level Expectation (SLE) and how it can help you in your Agile journey!
-      title: Service Level Expectation (SLE)
-    categories:
-    - Scrum
-    - Social Technologies
-    tags:
-    - Forecasting
-    - Software Development
-    - Metrics and Learning
-    - Agile Project Management
-    - Throughput
-    - Scrum Team
-    - Cycle Time
-    - Scrum Product Development
-    - Flow Efficiency
+      content: Discover more about Site Reliability Engineering (SRE) and how it can help you in your Agile journey!
+      title: Site Reliability Engineering (SRE)
+    categories: []
+    tags: []
   BodyContent: |
-    A service level expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the Scrum Team's Workflow. The Scrum Team uses its SLE to find active flow issues and to inspect and adapt in cases of falling below those expectations.
+    With the shift-left movement pushing more responsibility to the engineering teams what practices will help them cope with running a production site. These are the experience of the Azure DevOps Services team and their journey from on premises to a fully fledged SAAS solution and way they need to do to run it and build trust with their customers.
 
-    The SLE itself has two parts: a range of elapsed days and a probability associated with that period (e.g., 85% of work items should be finished in eight days or less). The SLE should be based on the Scrum Team's historical Cycle Time, and once calculated, the Scrum Team should make it transparent. If no historical Cycle Time data exists, the Scrum Team should make its best guess and then inspect and adapt once there is enough historical data to do a proper SLE calculation.
-
-    A reasonable SLE should be less than your Sprint length and shorter improves predictability.
-
-    ![image.png](/.attachments/image-8dc3304f-74c4-438e-935d-ad9fc5eed118.png)
-
-    ## Resources
-
-    - [The Kanban Guide for Scrum Teams](/Project-Management/Agile-Ways-of-Working/Guides-&-WhitePapers/Kanban-Guide-for-Scrum-Teams)
-
-    [References](https://dev.azure.com/newsigcode/NewSignature.UKProfessionalServices/_wiki/wikis/NewSignature.UKProfessionalServices.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FProject%20Management%2FAgile%20Ways%20of%20Working%2FCore%20Practices&pageId=5053&anchor=reference)
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\service-level-expectation-sle\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\service-level-expectation-sle
+    We will cover the importance of transparency, telemetry, on-call, and how to protect your feature teams from disruptions without them loosing touch with production.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\site-reliability-engineering-sre\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\site-reliability-engineering-sre
 

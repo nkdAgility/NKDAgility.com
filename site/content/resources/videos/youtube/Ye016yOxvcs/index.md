@@ -35,7 +35,6 @@ sitemap:
   priority: 0.6
 tags:
 - Continuous Learning
-- Discovery and Learning
 - Pragmatic Thinking
 - Competence
 resourceTypes:

@@ -30,7 +30,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Install and Configuration
-- Practical Techniques and Tooling
 - Modern Source Control
 categories: []
 preview: clip_image001-1-1.png

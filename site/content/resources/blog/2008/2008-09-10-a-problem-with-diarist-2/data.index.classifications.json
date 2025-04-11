@@ -8,24 +8,15 @@
     "reasoning": "Content does not discuss Agile principles, product management, or related methodologies; it focuses on a personal experience with a blogging tool.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T11:51:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal issue with a blogging tool, lacking focus on Agile methodologies, DevOps practices, or relevant literature.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-07T15:51:33",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 72.0,
     "ai_mentions": 10.0,
     "ai_alignment": 60.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content expresses a personal frustration regarding a specific feature of a blogging tool, which does not directly relate to Agile, Scrum, DevOps, or Lean methodologies. While it does not explicitly mention the Miscellaneous category, it aligns with the core themes of personal reflections and anecdotal experiences that lack actionable insights. The depth of discussion is significant as it elaborates on a specific issue faced by the user, but it remains within the realm of personal opinion rather than established practices.",
     "level": "Secondary"
   },
@@ -56,43 +47,16 @@
     "reasoning": "Content primarily discusses a personal frustration with a blogging tool, lacking any focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T11:51:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses a personal issue with a blogging platform and does not relate to events or presentations.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T11:51:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal frustration with a blogging tool, lacking any focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T09:43:28",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal rant about a blogging experience with no direct mentions or alignment with DevOps principles. It lacks any discussion of collaboration, automation, or shared accountability, which are core to the DevOps philosophy.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T11:51:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not discuss AI, automation, or Agile practices; it focuses on a personal issue with a blogging tool.",
     "level": "Ignored"
   },
   "Lean": {
@@ -115,23 +79,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T09:43:38",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal rant about a specific blogging experience with Diarist 2, which does not relate to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM framework. The discussion lacks any depth or alignment with the category, making it irrelevant to the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T11:52:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily expresses frustration with a specific blogging tool and does not discuss practical techniques or methodologies related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -154,10 +109,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T11:52:09",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily expresses frustration with a user interface issue and does not discuss installation or configuration processes.",
     "level": "Ignored"
   },
@@ -172,32 +127,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T09:43:42",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal rant about a blogging experience with no mention of Evidence-Based Management principles or metrics. It lacks any discussion on data-informed decision-making or the key topics outlined in the category.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T11:52:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a user experience issue with a blogging tool, not related to software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T11:52:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily expresses frustration with a specific blogging tool and does not discuss Agile, DevOps, or technology updates.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -238,10 +175,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T11:52:19",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal frustration with a blogging tool, lacking any focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -281,15 +218,6 @@
     "reasoning": "Content primarily discusses a technical issue with a blogging tool rather than personal experiences or reflections related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T11:52:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily expresses frustration with a specific feature of a blogging tool, lacking any discussion on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
   "Azure DevOps": {
     "category": "Azure DevOps",
     "calculated_at": "2025-02-16T11:52:26",
@@ -297,15 +225,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss Azure DevOps or its functionalities; it focuses on a personal experience with a blogging tool.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T11:52:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal frustration with a blogging tool, lacking focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -324,15 +243,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal frustration with a blogging tool and does not address Systems Thinking principles or applications.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T11:52:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal frustration with a blogging tool, lacking focus on team dynamics, collaboration, or process methodologies.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -470,7 +380,7 @@
     "reasoning": "Content is a personal rant about a blogging issue and does not relate to Agile methodologies or large-scale Agile practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T12:36:22",
     "ai_confidence": 0,
@@ -486,15 +396,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses a personal frustration with a blogging interface, which is not related to Site Reliability Engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T12:36:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is a personal rant about a blogging tool and does not discuss any aspects of Agile Project Management.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -668,24 +569,6 @@
     "reasoning": "Content heavily discusses user interface issues and personal frustrations, unrelated to estimation in Agile or Scrum.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T12:36:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to software development, Agile, or DevOps topics; it focuses on a personal grievance with a blog platform.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T12:36:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content appears to discuss user interface issues of a blogging tool, with no relevance to AI, Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-16T12:36:22",
@@ -740,15 +623,6 @@
     "reasoning": "Content is primarily a personal rant about a blogging tool issue, with no relevance to Agile frameworks.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T12:36:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scaled Agile concepts, methodologies, or frameworks; it focuses on a personal rant about a blogging tool.",
-    "level": "Ignored"
-  },
   "Product Owner": {
     "category": "Product Owner",
     "calculated_at": "2025-02-16T12:36:22",
@@ -787,10 +661,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T12:36:22",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a personal frustration with a blog writing tool and does not discuss innovation capabilities or related topics.",
     "level": "Ignored"
   },
@@ -868,10 +742,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T12:36:22",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a personal experience and frustrations with a blog writing tool, without any mention of the Definition of Done or related Agile concepts.",
     "level": "Ignored"
   },
@@ -886,13 +760,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T09:43:40",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal rant about a frustrating experience with a blogging tool, which does not relate to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion lacks any alignment with the core themes such as automation, incremental improvements, or software quality. The depth of discussion is minimal and does not provide any relevant insights into Continuous Delivery.",
     "level": "Ignored"
   },
@@ -1004,21 +878,12 @@
     "reasoning": "Content is a personal rant about a technical issue and does not discuss empirical process control, Agile, or related concepts.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T12:36:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is a personal rant about a blogging issue, unrelated to Kanban principles or scaling.",
-    "level": "Ignored"
-  },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T12:36:22",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is unrelated to the Definition of Ready and discusses a personal issue with a blogging tool.",
     "level": "Ignored"
   },
@@ -1051,13 +916,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:41:56",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 5.0,
     "ai_mentions": 0.0,
     "ai_alignment": 0.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal rant about a frustrating experience with a blogging application, which does not relate to Test First Development principles or practices. There are no direct mentions of testing, success criteria, or any related concepts, leading to a very low confidence score.",
     "level": "Ignored"
   },
@@ -1223,15 +1088,6 @@
     "reasoning": "Content discusses a personal frustration with blog writing tools, which does not relate to software deployment methodologies or practices.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T12:36:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is a personal rant about a blog interface issue and does not relate to Scrum practices or product development.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
     "calculated_at": "2025-02-16T12:36:22",
@@ -1243,13 +1099,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:41:58",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not mention the Scrum Master role or any related concepts. It focuses on a personal experience with a blogging tool, which is unrelated to Scrum principles or practices.",
     "level": "Ignored"
   },
@@ -1282,10 +1138,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T12:36:22",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is a personal rant about a specific technical issue and does not discuss Agile values or principles.",
     "level": "Ignored"
   },
@@ -1296,15 +1152,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses a personal issue with a blogging tool and does not relate to Test Driven Development or its principles.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T12:36:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum or scaling practices; it pertains to a user interface issue unrelated to Scrum.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1343,15 +1190,6 @@
     "reasoning": "Content is a personal rant about a user interface issue, unrelated to system configuration topics.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T12:36:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Scaling Agility and focuses on user experience issues in a blogging application.",
-    "level": "Ignored"
-  },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
     "calculated_at": "2025-02-16T12:36:22",
@@ -1372,13 +1210,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:50:01",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal frustration with a blogging tool, lacking any discussion on collaboration, decision-making, or value delivery. It does not align with the core themes of social technologies, and the depth of discussion is minimal, primarily consisting of a rant without constructive insights or methodologies related to social frameworks.",
     "level": "Ignored"
   },
@@ -1411,73 +1249,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:58:04",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not mention Scrum or any related concepts. It focuses on a personal experience with a blogging tool, which is unrelated to Scrum principles, practices, or frameworks.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:40:03",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not discuss any aspects of the Shift-Left Strategy, focusing instead on a personal experience with a blogging tool. There are no mentions of software development processes, testing, security, or compliance, which are central to the Shift-Left concept.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T09:43:30",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily expresses frustration with a specific feature of Diarist 2 and does not engage with the principles of Continuous Improvement. While it hints at a desire for improvement, it lacks structured discussion on methodologies, empirical evidence, or strategies that align with the category's core themes.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T09:43:32",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal frustration with a specific blogging tool and does not discuss any concepts related to Common Goals, Agile, or DevOps. There are no direct mentions of shared objectives or alignment strategies, and the discussion lacks depth on any relevant themes.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T09:43:34",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal frustration with a blogging tool and does not discuss competence, skill development, or any related themes. There are no direct mentions of competence, and the discussion lacks depth or alignment with the principles of professionalism and quality delivery.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:41:54",
+    "calculated_at": "2025-04-10T15:56:29",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal frustration with a blogging tool and does not discuss any aspects of Agentic Agility, such as intentional shaping of outcomes, autonomy, or adaptability. It lacks any mention of human or AI capabilities in the context of agility, making it irrelevant to the category.",
     "level": "Ignored"
   }

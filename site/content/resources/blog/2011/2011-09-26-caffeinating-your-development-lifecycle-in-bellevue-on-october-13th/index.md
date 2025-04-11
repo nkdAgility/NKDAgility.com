@@ -9,7 +9,7 @@ ResourceImportId: 3796
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-09-26
-weight: 745
+weight: 715
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,8 +23,7 @@ aliasesArchive:
 - /blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 - /caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 - /resources/blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
-tags:
-- Events and Presentations
+tags: []
 categories: []
 preview: metro-nwc-128-link-3-3.png
 

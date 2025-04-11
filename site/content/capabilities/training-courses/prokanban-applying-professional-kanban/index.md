@@ -8,7 +8,7 @@ ResourceContentOrigin: human
 date: 2020-12-17
 creator: Martin Hinshelwood
 type: course
-weight: 995
+weight: 1000
 slug: applying-professional-kanban-apk-training-experience-with-certification
 url: /capabilities/training-courses/kanban-training-courses/:slug/
 aliases:
@@ -37,11 +37,10 @@ delivery-audiences:
 - Product Owners
 - Lean Agile Practitioners
 tags:
-- Practical Techniques and Tooling
-- Flow Efficiency
-- Operational Practices
 - Agile Frameworks
+- Flow Efficiency
 - Lean Thinking
+- Operational Practices
 - Pragmatic Thinking
 - Competence
 - Continuous Learning

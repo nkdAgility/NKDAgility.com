@@ -9,7 +9,7 @@ ResourceImportId: 4089
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-11-26
-weight: 775
+weight: 750
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,15 +29,19 @@ aliasesArchive:
 - /resources/blog/can-you-really-commit-to-delivering-work
 tags:
 - Software Development
-- Agile Project Management
-- Forecasting
 - Professional Scrum
-- Software Developers
-- People and Process
+- Forecasting
 - Pragmatic Thinking
-- Transparency
-- Scrum Product Development
+- Agile Philosophy
 - Agile Values and Principles
+- Agile Frameworks
+- Agile Planning
+- Agile Product Management
+- Agile Transformation
+- Scrum Values
+- Empirical Process Control
+- Product Delivery
+- Transparency
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-5-5.png

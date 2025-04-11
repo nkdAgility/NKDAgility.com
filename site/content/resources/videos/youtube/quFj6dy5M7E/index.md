@@ -2,7 +2,7 @@
 title: 'Building a High-Performance Delivery Engine: Unlocking Success Through Competence and Collaboration'
 description: Unlock the secrets to building a high-performance delivery engine! Discover how competence, collaboration, and core philosophies drive software success.
 date: 2024-12-03T06:30:00Z
-weight: 370
+weight: 305
 ResourceId: quFj6dy5M7E
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -27,22 +27,22 @@ duration: 266
 isShort: false
 tags:
 - Competence
-- People and Process
+- Pragmatic Thinking
 - Product Delivery
 - Value Delivery
-- Pragmatic Thinking
-- Team Collaboration
-- Team Performance
-- Software Development
 - Organisational Agility
+- Software Development
+- Social Technologies
+- Team Collaboration
 - Sociotechnical Systems
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 - Product Management
 
 ---

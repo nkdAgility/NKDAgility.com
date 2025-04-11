@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: course
 ResourceContentOrigin: human
 date: 2020-08-31
-weight: 640
+weight: 600
 creator: Martin Hinshelwood
 type: course
 slug: mastering-azure-repos-training
@@ -31,11 +31,9 @@ delivery-audiences:
 tags:
 - Azure DevOps
 - Azure Repos
-- Software Developers
-- Software Development
 - Install and Configuration
 - Modern Source Control
-- Practical Techniques and Tooling
+- Software Development
 - Technical Excellence
 - Technical Mastery
 categories:

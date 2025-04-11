@@ -30,20 +30,30 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Planning
 - Operational Practices
-- Agile Project Management
-- Agile Philosophy
-- People and Process
 - Software Development
-- Agile Values and Principles
-- Value Delivery
+- Agile Philosophy
+- Agile Planning
 - Agile Frameworks
 - Agile Transformation
+- Product Backlog
+- Value Delivery
+- Product Delivery
+- Agile Values and Principles
+- Agile Product Management
+- Agile Planning Tools
+- Agile Strategy
+- Lean Principles
+- Organisational Agility
+- Pragmatic Thinking
+- Flow Efficiency
+- Team Performance
+- Backlog Refinement
+- Personal
 resourceTypes:
 - video
 categories:
-- Scrum
+- Product Development
 
 ---
 In the fast-paced world of Agile, it's easy to fall into the trap of doing too much. Whether it's overloading your backlog, over-refining, or over-planning, too much of anything can be a bad thing. One of the key virtues that we embrace in Agile is **temperance**—the art of taking everything in moderation.

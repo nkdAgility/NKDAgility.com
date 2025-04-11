@@ -9,7 +9,7 @@ ResourceImportId: 376
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-20
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,10 +24,9 @@ aliasesArchive:
 - /solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 - /resources/blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 tags:
-- Install and Configuration
-- Practical Techniques and Tooling
 - Software Development
 - Troubleshooting
+- Install and Configuration
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

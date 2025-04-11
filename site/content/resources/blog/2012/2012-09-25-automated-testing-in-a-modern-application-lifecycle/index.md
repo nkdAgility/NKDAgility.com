@@ -9,7 +9,7 @@ ResourceImportId: 8868
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-09-25
-weight: 600
+weight: 565
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,14 +28,15 @@ aliasesArchive:
 tags:
 - Automated Testing
 - Software Development
-- Test Automation
 - Engineering Practices
-- Working Software
-- Practical Techniques and Tooling
+- Test Automation
 - Technical Mastery
+- Working Software
 - Technical Excellence
-- Product Delivery
 - Operational Practices
+- Product Delivery
+- Application Lifecycle Management
+- Technical Debt
 categories:
 - Engineering Excellence
 preview: metro-automated-test-icon-4-4.png

@@ -5,6 +5,7 @@
 . ./.powershell/_includes/HugoHelpers.ps1
 . ./.powershell/_includes/ResourceHelpers.ps1
 . ./.powershell/_includes/ClassificationHelpers.ps1
+. ./.powershell/_includes/PromptManager.ps1
 
 
 $levelSwitch.MinimumLevel = 'Debug'
@@ -37,7 +38,36 @@ foreach ($type in $distinctClassificationTypes) {
 }
 $classificationPeers | ConvertTo-Json -Depth 5 | Set-Content -Path ".\.resources\classificationPeers.json" -Encoding UTF8
 
+######################################################
 
+$classificationHierarchy = @{}
+$concepts = $hugoMarkdownList | Where-Object {
+    $_.FrontMatter.ClassificationType -in @('concepts')
+}
+
+foreach ($concept in $concepts) {
+    $conceptName = $concept.FrontMatter.title  # This assumes the "Title" field is set correctly for each item
+    # Ensure that the concept exists in the structure
+    if (-not $classificationHierarchy.ContainsKey($conceptName)) {
+        $classificationHierarchy[$conceptName] = @{
+            "tags"       = @()
+            "categories" = @()
+        }
+    }
+    $items = $hugoMarkdownList | Where-Object {
+        $_.FrontMatter.concepts -ne $null -and $_.FrontMatter.concepts.Contains($conceptName)
+    }    
+    foreach ($item in $items) {
+        $classificationType = $item.FrontMatter.ClassificationType  # This assumes the "ClassificationType" field is set correctly for each item
+        $classificationHierarchy[$conceptName].$classificationType += $item.FrontMatter.title
+    }       
+    
+}
+
+# Convert the resulting hierarchical structure into JSON format and write to file
+$classificationHierarchy | ConvertTo-Json -Depth 5 | Set-Content -Path ".\.resources\classificationHierarchy.json" -Encoding UTF8
+
+########################################
 
 
 $ResourceCatalogue = @{};
@@ -66,129 +96,65 @@ $hugoMarkdownList | ForEach-Object {
     Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ClassificationType' -fieldValue $ClassificationType -addAfter 'title' -Overwrite
 
     #=================description=================
-    if (-not $hugoMarkdown.FrontMatter.description -or $hugoMarkdown.FrontMatter.description -match "no specific details provided") {
+    if (-not $hugoMarkdown.FrontMatter.abstract) {
         # Generate a new description using OpenAI
-        $prompt = "Generate a concise, engaging description of no more than 160 characters for the following classification: '$($hugoMarkdown.FrontMatter.title)'. \n\n$($hugoMarkdown.BodyContent)"
+        $prompt = Get-Prompt -PromptName "classification-abstract.prompt" -Parameters @{
+            title   = $hugoMarkdown.FrontMatter.title
+            content = $hugoMarkdown.BodyContent
+        }
+        $abstract = Get-OpenAIResponse -Prompt $prompt
+        # Update the description in the front matter
+        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'abstract' -fieldValue $abstract -addAfter 'title' 
+    }
+
+    if (-not $hugoMarkdown.FrontMatter.description -or $hugoMarkdown.FrontMatter.description -match "no specific details provided" -or $hugoMarkdown.FrontMatter.description.Length -gt 180) {
+        # Generate a new description using OpenAI
+        $prompt = Get-Prompt -PromptName "classification-description.md" -Parameters @{
+            title    = $hugoMarkdown.FrontMatter.title
+            abstract = $hugoMarkdown.FrontMatter.abstract
+            content  = $hugoMarkdown.BodyContent
+        }
         $description = Get-OpenAIResponse -Prompt $prompt
         # Update the description in the front matter
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title' 
     }
     if (-not $hugoMarkdown.FrontMatter.Instructions) {
         # Generate a new Instructions using OpenAI
-        $prompt = @"
-            You are a classification systems architect working on a knowledge taxonomy for agile, DevOps, and modern product development.
-            
-            Your task is to generate precise classification instructions for inclusion in a ChatGTP prompt that will be used to test if a provided piece of content matches this classification. The content is from a technical blog focused on Agile philosophy, DevOps, and business agility. 
-            
-            Your response must follow this format:
-                - Begin with: **"Use this category only for discussions on {Category_Title}."**
-                - Clearly **define the category’s scope and purpose**.
-                - List **key topics** that should be discussed under this category.
-                - Ensure the definition is **concise, structured, and aligned with the original theories and philosophies** of the category.
-                - **Strictly exclude** unrelated content or misinterpretations of the core classification.
-            
-            For specific topics favour the original theory and philosophies based on these general contexts:
-             - Kanban Context: Kanban Guide, Daniel Vacanti, Donald Reinertsen, John Little
-             - Agile & Scrum Context:  Scrum Guide, Ken Schwaber, Martin Fowler, Mike Beedle, Ron Jeffries 
-             - DevOps Context: Gene Kim, Jez Humble, Patrick Debois, John Willis
-             - Lean Context: Taiichi Ohno, SEliyahu M. Goldratt, W. Edwards Deming, Mary & Tom Poppendieck
-             - DevOps & Continuous Delivery Context: Jez Humble, Dave Farley, Martin Fowler, Gene Kim
-             - Evidence-Based Management Context: Ken Schwaber, Jeff Sutherland, Patricia Kong, Kurt Bittner
-             - Complexity Theory Context: Dave Snowden, Cynefin Framework, Ralph Stacey, Mary Uhl-Bien
-
-
-            **Classification Title:** $($hugoMarkdown.FrontMatter.title)  
-            **Classification Description:** $($hugoMarkdown.FrontMatter.description)
-            **Classification Content:** 
-            ~~~
-            $($hugoMarkdown.BodyContent)
-            ~~~
-
-            Your generated classification must be **precise, consistent, and structured** to be **used as part of a prompt** that determines if a given piece of content **matches this classification**.
-"@
+        $prompt = Get-Prompt -PromptName "classification-instructions.md" -Parameters @{
+            title    = $hugoMarkdown.FrontMatter.title
+            abstract = $hugoMarkdown.FrontMatter.abstract
+            content  = $hugoMarkdown.BodyContent
+        }
         $Instructions = Get-OpenAIResponse -Prompt $prompt
         # Update the description in the front matter
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Instructions' -fieldValue $Instructions -addAfter 'description' -Overwrite
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ") -addAfter 'title' 
     } 
     if (-not $hugoMarkdown.FrontMatter.headline -or (([datetime]$hugoMarkdown.FrontMatter.headline.updated) -lt ([datetime]::Parse("2025-02-13T11:58:02Z")))) {
+        $classificationTitlePrompt = Get-Prompt -PromptName "classification-headline-title.md" -Parameters @{
+            title    = $hugoMarkdown.FrontMatter.title
+            abstract = $hugoMarkdown.FrontMatter.abstract
+            content  = $hugoMarkdown.BodyContent
+        }
+        $ClassificationTitle = Get-OpenAIResponse -Prompt $classificationTitlePrompt
 
-        $classificationHeadlinePrompt = @"
-You are an expert in Agile, Scrum, DevOps, and Evidence-Based Management.
-
-Your task is to generate a **headline subtitle** for a **classification** used to categorise blog posts.
-The subtitle should:
-
-- **Concisely convey the scope and purpose** of the classification.
-- **Fit within 160 characters**.
-- **Help users quickly understand** what topics fall under this classification.
-- Avoid using the words Agile, Lean, and DevOps and instead focus on the intent of the classification.
-
-**Classification Title:** $($hugoMarkdown.FrontMatter.title)  
-**Classification Description:** $($hugoMarkdown.FrontMatter.description)
-**Classification Content:** 
-~~~
-$($hugoMarkdown.BodyContent)
-~~~
-
-Generate the classification headline subtitle only with no additional text. 
-- Do not enclose in quotes
-
-When generating the subtitle, consider the following contexts and include relevant connections if applicable:
-
-- Kanban Context: Kanban Guide, Daniel Vacanti, Donald Reinertsen, John Little
-- Agile & Scrum Context: Scrum Guide, Ken Schwaber, Martin Fowler, Mike Beedle, Ron Jeffries 
-- DevOps Context: Gene Kim, Jez Humble, Patrick Debois, John Willis
-- Lean Context: Taiichi Ohno, Eliyahu M. Goldratt, W. Edwards Deming, Mary & Tom Poppendieck
-- DevOps & Continuous Delivery Context: Jez Humble, Dave Farley, Martin Fowler, Gene Kim
-- Evidence-Based Management Context: Ken Schwaber, Jeff Sutherland, Patricia Kong, Kurt Bittner
-- Complexity Theory Context: Dave Snowden, Cynefin Framework, Ralph Stacey, Mary Uhl-Bien
-"@
+        $classificationHeadlinePrompt = Get-Prompt -PromptName "classification-headline-subtitle.md" -Parameters @{
+            title    = $hugoMarkdown.FrontMatter.title
+            abstract = $hugoMarkdown.FrontMatter.abstract
+            content  = $hugoMarkdown.BodyContent
+        }
         $ClassificationHeadline = Get-OpenAIResponse -Prompt $classificationHeadlinePrompt
             
-        $classificationDescriptionPrompt = @"
-You are an expert in Agile, Scrum, DevOps, and Evidence-Based Management.
-
-Your task is to generate a **short description** for a **classification** used to categorise blog posts.
-The description should:
-- Use more detail and specific language than "$ClassificationHeadline"
-- **Define the scope and relevance** of the classification.
-- **Be clear and concise**, with **no more than 50 words**.
-- **Outline the key topics** that posts in this classification should cover.
-- Avoid using the words Agile, Lean, and DevOps and instead focus on the intent of the classification.
-- Do not use "This classification focuses.." just describe it
-- Do not use "Key topics in this classification.."
-- Do not start with "$($hugoMarkdown.FrontMatter.title): "
-- 
-
-**Classification Title:** $($hugoMarkdown.FrontMatter.title)  
-**Classification Description:** $($hugoMarkdown.FrontMatter.description)
-**Classification Content:** 
-~~~
-$($hugoMarkdown.BodyContent)
-~~~
-
-Generate the classification description only with no additional text.
-- Do not enclose in quotes
-- Never use the term "best practices" only "practices"
-
-When generating the description, consider the following contexts and include relevant connections if applicable:
-
-- Kanban Context: Kanban Guide, Daniel Vacanti, Donald Reinertsen, John Little
-- Agile & Scrum Context: Scrum Guide, Ken Schwaber, Martin Fowler, Mike Beedle, Ron Jeffries 
-- DevOps Context: Gene Kim, Jez Humble, Patrick Debois, John Willis
-- Lean Context: Taiichi Ohno, Eliyahu M. Goldratt, W. Edwards Deming, Mary & Tom Poppendieck
-- DevOps & Continuous Delivery Context: Jez Humble, Dave Farley, Martin Fowler, Gene Kim
-- Evidence-Based Management Context: Ken Schwaber, Jeff Sutherland, Patricia Kong, Kurt Bittner
-- Complexity Theory Context: Dave Snowden, Cynefin Framework, Ralph Stacey, Mary Uhl-Bien
-"@
+        $classificationDescriptionPrompt = Get-Prompt -PromptName "classification-headline-description.md" -Parameters @{
+            title    = $hugoMarkdown.FrontMatter.title
+            abstract = $hugoMarkdown.FrontMatter.abstract
+            content  = $hugoMarkdown.BodyContent
+        }
         $ClassificationDescription = Get-OpenAIResponse -Prompt $classificationDescriptionPrompt
-
-
 
         $headline = [ordered]@{
             cards    = @()
-            title    = $hugoMarkdown.FrontMatter.title
+            title    = ClassificationTitle
             subtitle = $ClassificationHeadline
             content  = $ClassificationDescription
             updated  = (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ")
@@ -198,62 +164,15 @@ When generating the description, consider the following contexts and include rel
 
     # =================CONTENT====================
     
-
-    $classificationContentPrompt = @"
-You are a classification systems architect working on a knowledge taxonomy for agile, lean, DevOps, and modern product development.
-
-Write a concise, authoritative explanation of the concept **$($hugoMarkdown.FrontMatter.title)** as used in an organisational knowledge taxonomy.
-
-This concept is part of the "$($hugoMarkdown.FrontMatter.ClassificationType)" classification group, which also includes: $peerTitleList
-
-Ensure your explanation distinguishes this concept clearly from the others listed above, even where there may be thematic overlap.
-
-Do not begin the response with contextual phrases like “In the context of…” or “Within this classification…”. Begin directly by discussing the concept itself.
-
-Content Requirements:
-- Define the concept clearly and explain why it matters.
-- Focus on how it enables teams to deliver value predictably and sustainably.
-- Emphasise its long-term, systemic, and enabling nature.
-- Make the writing suitable for internal knowledgebases or help documentation.
-- Avoid academic or abstract language—speak with clarity and precision.
-- Avoid unnecessary background—only provide historical or theoretical context if essential.
-- Avoid common misconceptions, but only clarify where needed—do not over-explain.
-- Do not refer to it as a “classification” or “category”; treat it as a concept being explained to an informed reader.
-- Use a free-flowing style without headings or structured sections.
-- Maintain a professional, direct tone—every sentence should add value.
-- Never use any summary or closing transition phrases such as “in conclusion,” “in summary,” “to conclude,” “ultimately,” “as a final point,” or anything similar. These phrases are forbidden.  
-- Do not imply or announce that the explanation is ending. Just stop when the point is fully made.  
-- The writing must end mid-flow—cut off naturally as if the next sentence was never needed. The last sentence should deliver value, not closure.
-- Do not exceed 200 words.
-
-Keep it concise, natural, and engaging. Do not generate a title. Do not enclose text in quotes.
-
-Classification Title: $($hugoMarkdown.FrontMatter.title)  
-Classification Description: $($hugoMarkdown.FrontMatter.description)  
-Classification Instruction:
-~~~
-$($hugoMarkdown.Instructions)
-~~~
-
-Guidance for Generating the Content:
-Assume the reader already understands Agile, Scrum, and DevOps—get straight to the point.
-When referencing theory or practices, favour these contexts:
-
-- Kanban: Kanban Guide, Daniel Vacanti, Donald Reinertsen, John Little
-- Agile & Scrum: Scrum Guide, Ken Schwaber, Martin Fowler, Mike Beedle, Ron Jeffries 
-- DevOps: Gene Kim, Jez Humble, Patrick Debois, John Willis
-- Lean: Taiichi Ohno, Eliyahu M. Goldratt, W. Edwards Deming, Mary & Tom Poppendieck
-- Continuous Delivery: Jez Humble, Dave Farley, Martin Fowler, Gene Kim
-- Evidence-Based Management: Ken Schwaber, Jeff Sutherland, Patricia Kong, Kurt Bittner
-- Complexity Theory: Dave Snowden, Cynefin Framework, Ralph Stacey, Mary Uhl-Bien
-
-Your response should be a fully-formed blog post—natural, sharp, and ready to publish. The post must end without summary, closure, or finality—just finish with a final valuable point and stop.
-"@
-
-
-
-
-
+    $classificationContentPrompt = get-Prompt -PromptName "classification-content.md" -Parameters @{
+        title              = $hugoMarkdown.FrontMatter.title
+        abstract           = $hugoMarkdown.FrontMatter.abstract
+        content            = $hugoMarkdown.BodyContent
+        classificationType = $hugoMarkdown.FrontMatter.ClassificationType
+        peerTitleList      = $peerTitleList
+        instructions       = $hugoMarkdown.Instructions
+    }
+    
     # =================COMPLETE===================
     Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile 
         

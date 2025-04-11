@@ -1,24 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T21:48:14",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of creating backups in Team Foundation Server, with no clear relation to Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:26:27",
-    "ai_confidence": 85.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 80.0,
-    "ai_depth": 90.0,
-    "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content provides a detailed, practical guide on creating backups in Team Foundation Server (TFS) using Power Tools, which directly relates to tooling in a DevOps context. It discusses specific steps, required permissions, and common errors encountered during the backup process, demonstrating a clear application of practical techniques. The depth of discussion is significant, as it includes troubleshooting and error resolution, which are essential for effective tool usage. Overall, the content aligns well with the category's focus on practical techniques and tooling.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -31,72 +19,36 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:33:17",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 0,
     "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical instructions for backing up Team Foundation Server 2010 and troubleshooting related issues. It does not discuss Evidence-Based Management principles, metrics, or data-informed decision-making, which are central to the category.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T21:48:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of creating backups in Team Foundation Server, focusing on permissions and error handling, without addressing the interplay between code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T21:48:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details related to creating backups in Team Foundation Server, with no clear emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T21:48:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses backup procedures and troubleshooting for Team Foundation Server, with no mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-15T21:48:24",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of creating backups in Team Foundation Server, with no reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T12:59:18",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 85.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
+    "final_score": 85.0,
     "reasoning": "The content provides a detailed guide on creating backups in Team Foundation Server (TFS), which directly relates to installation and configuration processes. It includes step-by-step instructions, required permissions, and troubleshooting common issues encountered during the backup process. The explicit mention of permissions, SQL service accounts, and error handling demonstrates a strong focus on the technical aspects of installation and configuration. The depth of discussion is significant, covering various errors and their resolutions, which aligns well with the category's purpose.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T21:48:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of creating backups in Team Foundation Server, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content primarily focuses on technical procedures for backing up Team Foundation Server, with no significant discussion on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T21:48:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses technical implementations of backup procedures in Team Foundation Server without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:33:05",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical aspects of backing up Team Foundation Server (TFS) and troubleshooting related issues. While it touches on operational concerns, it lacks a clear discussion of DevOps principles such as collaboration, automation, or shared accountability. The content does not engage with the broader DevOps philosophy or cultural shifts, making it only tangentially related to the category.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily discusses technical implementations and troubleshooting of backup processes in Team Foundation Server, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T21:48:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical details and troubleshooting related to Team Foundation Server backups, with no reference to events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T21:48:38",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of creating backups in Team Foundation Server, focusing on technical details and error handling rather than optimising work throughput or flow efficiency.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T21:48:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical aspects of creating backups in Team Foundation Server, with minimal discussion on team dynamics, collaboration, or human factors.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T21:48:43",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of creating backups in Team Foundation Server, including permissions and error handling, without any focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -220,13 +145,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T18:07:49",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 45.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 42.0,
+    "final_score": 45.0,
     "reasoning": "The content discusses technical aspects of creating backups in Team Foundation Server (TFS) and addresses specific errors encountered during the process. While it touches on some technical practices, such as permissions and SQL Server configurations, it lacks a broader discussion on methodologies like TDD, CI/CD, or modular architecture that are central to the 'Technical Excellence' category. The focus is more on troubleshooting and practical implementation rather than on enhancing engineering practices or methodologies.",
     "level": "Tertiary"
   },
@@ -250,10 +175,10 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T21:48:51",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical aspects of creating backups in Team Foundation Server, which does not align with the core principles of product delivery methodologies or practices.",
     "level": "Ignored"
   },
@@ -268,40 +193,31 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T21:48:53",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses backup procedures and troubleshooting for Team Foundation Server, with no relevance to Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T21:48:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues and solutions related to Team Foundation Server (TFS) backup processes, rather than focusing on products or literature relevant to Agile methodologies or DevOps practices.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-15T21:48:56",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical implementation details related to creating backups in Team Foundation Server, without discussing value delivery strategies or methodologies.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T06:19:14",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses backup procedures for Team Foundation Server (TFS), which is part of the Azure DevOps suite. However, it lacks a direct focus on Azure DevOps functionalities, best practices, or methodologies. While it mentions TFS, it does not delve into CI/CD pipelines, Agile project management, or integration with other tools, which are key topics for the Azure DevOps category. The discussion is more technical and procedural rather than strategic or best practice-oriented, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -325,22 +241,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T21:49:02",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses backup procedures for Team Foundation Server (TFS) without addressing the principles or integration aspects of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:33:15",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical aspects of backing up Team Foundation Server 2010, with no direct mention of Agile methodologies, product management principles, or the Agile Product Operating Model. While there are some references to team collaboration and troubleshooting, these do not align with the core themes of the Agile Product Operating Model, which emphasises customer-centric value delivery and continuous improvement in product management.",
     "level": "Ignored"
   },
@@ -353,21 +269,12 @@
     "reasoning": "Content primarily focuses on technical aspects of creating backups in Team Foundation Server, with no clear discussion on organisational agility or related methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T21:49:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical instructions and troubleshooting for Team Foundation Server backup processes, lacking relevance to industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T21:49:08",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on backup procedures and troubleshooting for Team Foundation Server, which does not align with the core principles of Application Lifecycle Management.",
     "level": "Ignored"
   },
@@ -382,43 +289,43 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T22:58:51",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the steps and issues related to creating backups in Team Foundation Server, which is unrelated to the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T18:46:53",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on the practical aspects of creating backups in Team Foundation Server, detailing specific steps and troubleshooting errors. While it touches on technical issues related to permissions and SQL Server configurations, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. The depth of discussion is limited to specific errors and solutions without exploring overarching themes of technical mastery.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T22:58:51",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details regarding backups in Team Foundation Server, with no focus on product discovery methodologies or practices.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:33:21",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the backup process for Team Foundation Server 2010, discussing permissions and troubleshooting related to SQL Server and TFS. It does not address Continuous Delivery principles, practices, or benefits, nor does it explore automation, rapid feedback, or cultural aspects of software delivery. The mention of TFS and backup processes is tangential and does not align with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
@@ -433,10 +340,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T22:58:51",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses backup procedures in Team Foundation Server and does not focus on Lead Time as defined.",
     "level": "Ignored"
   },
@@ -451,28 +358,28 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T22:58:51",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses backup procedures in Team Foundation Server and issues encountered during implementation, with no mention of Definition of Ready concepts.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-15T22:58:51",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the technical aspects of backing up a server and SQL databases, with no relevance to portfolio management or strategic alignment of projects.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T22:58:51",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on backup procedures for Team Foundation Server and issues related to SQL Server permissions, which is unrelated to the concept of a Product Backlog in Agile.",
     "level": "Ignored"
   },
@@ -487,10 +394,10 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-15T22:58:51",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses backup procedures for Team Foundation Server and SQL Server management, with no relation to Value Stream Mapping or Lean principles.",
     "level": "Ignored"
   },
@@ -505,22 +412,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T06:19:11",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of creating backups in Team Foundation Server, detailing specific errors and troubleshooting steps. While it touches on operational practices related to permissions and backup management, it lacks a broader discussion on process optimisation, continuous improvement, or integration of methodologies like Agile or DevOps. The operational efficiency aspect is present but not the primary focus, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T22:58:51",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of using Team Foundation Server for backups and does not focus on Scrum Team roles, collaboration, or dynamics.",
     "level": "Ignored"
   },
@@ -544,10 +451,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T22:58:51",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical details and troubleshooting processes related to setting up a backup system for Team Foundation Server, and does not address product validation methodologies, user testing, or market fit.",
     "level": "Ignored"
   },
@@ -580,10 +487,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T22:58:51",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical steps and challenges related to backing up Team Foundation Server, without discussing team dynamics, collaboration, or Agile practices.",
     "level": "Ignored"
   },
@@ -598,40 +505,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T22:58:51",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses backup procedures for Team Foundation Server and does not address Acceptance Test Driven Development, acceptance criteria, or related collaborative practices.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T10:36:58",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content provides a detailed discussion on creating backups in Team Foundation Server (TFS), which is a critical aspect of software development and maintenance. It explicitly mentions various technical steps, permissions, and error handling related to TFS and SQL Server, aligning well with best practices in software development. The depth of discussion includes specific errors encountered and solutions, showcasing a practical application of software engineering principles. Overall, the content is highly relevant to the Software Development category.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T22:58:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on creating backups in Team Foundation Server and managing permissions, which are unrelated to Agile Project Management principles, frameworks, or methodologies.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T22:58:51",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on technical instructions for creating backups in Team Foundation Server, with no discussion on Agile values or principles.",
     "level": "Ignored"
   },
@@ -646,19 +544,19 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T22:58:51",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on troubleshooting backup processes in Team Foundation Server, which does not directly address modern source control practices or methodologies.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T22:58:51",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical details regarding server backup procedures and troubleshooting in Team Foundation Server, with no significant discussion of empirical process control or any related Agile principles.",
     "level": "Ignored"
   },
@@ -682,19 +580,19 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T22:58:51",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on backup procedures for Team Foundation Server and does not discuss collaboration tools or their relevance to Agile teams.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T22:58:51",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of backing up Team Foundation Server and SQL Server, with no focus on organisational change or change management processes.",
     "level": "Ignored"
   },
@@ -725,15 +623,6 @@
     "reasoning": "Content primarily focuses on technical details and troubleshooting methods related to creating backups in Team Foundation Server, without any discussion or reference to customer satisfaction concepts or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T22:58:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on creating backups in Team Foundation Server and troubleshooting database issues, with no relation to Scrum or scaling practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T22:58:51",
@@ -750,15 +639,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on technical procedures and troubleshooting related to Team Foundation Server and does not relate to psychological safety in team dynamics or any of the key topics associated with it.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T22:58:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on the technical aspects of creating backups for Team Foundation Server and does not address scaling agile practices or frameworks.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -808,13 +688,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T14:58:41",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses practical problem-solving strategies related to creating backups in Team Foundation Server (TFS), highlighting real-world challenges and solutions encountered during the process. It provides specific examples of errors faced and the necessary permissions required, which aligns with the pragmatic thinking approach. However, while it touches on practical applications, it lacks a broader discussion on Agile, Scrum, or DevOps frameworks, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
@@ -829,29 +709,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T22:58:51",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical instructions and troubleshooting for creating backups in Team Foundation Server, with no clear focus on innovation practices, Evidence-Based Management, or the measurement and improvement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T22:58:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the technical aspects of backing up Team Foundation Server, without any reference to Scrum principles, practices, or product development. There is no clear connection to Scrum roles, sprints, product backlog management, or iterative development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T22:58:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on backup procedures and troubleshooting within Team Foundation Server, with no reference to Agile methodologies or scaling Agile practices.",
+    "reasoning": "Content primarily discusses technical instructions and troubleshooting for creating backups in Team Foundation Server, with no clear focus on innovation practices, Evidence-Based Management, or the measurement and improvement of innovation capabilities.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -874,10 +736,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-15T22:58:52",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses backup processes and troubleshooting in Team Foundation Server, with no mention of test automation principles or tools.",
     "level": "Ignored"
   },
@@ -901,10 +763,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T22:58:52",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on backup procedures and troubleshooting for Team Foundation Server, with no mention of Agile planning tools or methodologies.",
     "level": "Ignored"
   },
@@ -919,10 +781,10 @@
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-15T22:58:52",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses backup procedures for Team Foundation Server, which does not relate to market share strategies or analysis.",
     "level": "Ignored"
   },
@@ -982,28 +844,28 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T22:58:52",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the technical setup of backups in Team Foundation Server and troubleshooting related issues, not on release management strategies or practices.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-15T22:58:52",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about backing up Team Foundation Server and technical troubleshooting, with no clear focus on the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T22:58:52",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses backup procedures for Team Foundation Server and troubleshooting related to SQL Server permissions, without any mention of Cycle Time or its relevance to Agile or DevOps practices.",
     "level": "Ignored"
   },
@@ -1018,28 +880,28 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-15T22:58:52",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on creating backups for Team Foundation Server, with no direct discussion on deployment frequency or related practices in Agile and DevOps.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T22:58:52",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses backup strategies for Team Foundation Server and does not focus on change management principles or practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T22:58:52",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to backing up Team Foundation Server and SQL Server configuration, with no clear focus on team collaboration or Agile principles.",
     "level": "Ignored"
   },
@@ -1061,7 +923,7 @@
     "reasoning": "Content primarily discusses technical procedures and troubleshooting related to backup in Team Foundation Server, without any focus on digital transformation or strategic integration of digital technologies for business agility or innovation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T22:58:52",
     "ai_confidence": 0,
@@ -1070,42 +932,33 @@
     "reasoning": "Content discusses back up processes and error resolution in Team Foundation Server, which is unrelated to Minimum Viable Product or its development strategies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T22:58:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses backup procedures for Team Foundation Server and SQL Server configurations, with no mention of AI applications or integrations in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T15:06:32",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on the configuration and management of backups in Team Foundation Server (TFS), which is a critical aspect of system configuration. It discusses specific steps for setting up permissions, creating stored procedures, and troubleshooting errors related to SQL Server and TFS, all of which align closely with the key topics of system configuration. The depth of discussion is substantial, providing detailed insights into the configuration process and common issues encountered, thus justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T22:58:52",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical implementation details related to backup procedures in Team Foundation Server, lacking discussions on product strategy elements such as vision, roadmapping, or market analysis.",
     "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-15T22:58:52",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the practical aspects of creating backups in Team Foundation Server (TFS) and troubleshooting related issues, which does not align with discussions on technical leadership, mentoring, or agile methodologies.",
     "level": "Ignored"
   },
@@ -1129,34 +982,34 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:11:59",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses backup procedures for Team Foundation Server and does not mention Test First Development principles, success criteria, or testing practices. It lacks any relevant discussion on automated or manual testing methodologies, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T12:02:08",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on the backup procedures for Team Foundation Server (TFS) 2010, which operates within the Windows environment. It discusses specific permissions, error messages, and configurations relevant to Windows and SQL Server, demonstrating a strong alignment with Windows-related topics. The depth of discussion is substantial, providing detailed troubleshooting steps and insights into managing TFS backups, which are critical for Windows system administration. Overall, the content is highly relevant to the Windows category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-15T22:58:52",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily addresses backup procedures for Team Foundation Server, which is not related to deployment strategies.",
     "level": "Ignored"
   },
@@ -1171,10 +1024,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T22:58:52",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical details and error resolution related to Team Foundation Server without any focus on team motivation, dynamics, or engagement strategies.",
     "level": "Ignored"
   },
@@ -1198,15 +1051,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T16:56:37",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed account of troubleshooting issues encountered while creating backups in Team Foundation Server (TFS). It explicitly discusses various errors, their causes, and the steps taken to resolve them, which aligns closely with the core themes of the Troubleshooting category. The author shares specific error messages, permissions issues, and solutions, demonstrating a deep understanding of the troubleshooting process. The content is focused on diagnosing and resolving technical issues, making it a strong fit for the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1247,15 +1100,6 @@
     "reasoning": "Content is focused on technical instructions for backing up Team Foundation Server, with no discussion on working agreements or teamwork principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T22:58:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses troubleshooting and technical details related to backup procedures in Team Foundation Server, which is not central to the role of software developers within Agile and DevOps frameworks.",
-    "level": "Ignored"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-15T22:58:52",
@@ -1276,10 +1120,10 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-15T22:58:52",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily focused on creating a backup solution for Team Foundation Server, detailing specific database operations, permissions, and error handling. It does not discuss technical debt or its management in any form.",
     "level": "Ignored"
   },
@@ -1294,10 +1138,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T22:58:52",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical details and troubleshooting related to creating backups in Team Foundation Server, without focusing on the strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1348,10 +1192,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T22:58:52",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on technical issues and procedures related to backing up Team Foundation Server, with no clear relation to Lean principles or methodologies.",
     "level": "Ignored"
   },
@@ -1373,15 +1217,6 @@
     "reasoning": "Content focuses on technical aspects of backup procedures in Team Foundation Server rather than discussions about accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T22:58:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technicalities of creating backups in Team Foundation Server, with no relation to Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T22:58:52",
@@ -1393,22 +1228,22 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T22:58:52",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses backup procedures and issues related to Team Foundation Server, without any mention or focus on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:38:55",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical aspects of backing up Team Foundation Server 2010, detailing specific procedures and troubleshooting steps. It lacks any discussion on collaboration, decision-making, or value delivery, which are core themes of Social Technologies. While it briefly mentions the need for permissions and collaboration with colleagues, these points are not explored in the context of social frameworks or methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   },
@@ -1441,73 +1276,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:47:09",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical aspects of creating backups in Team Foundation Server, with no direct mention of Scrum principles, roles, events, or practices. While it discusses project management tools, it does not align with the core themes of Scrum, such as iterative progress or team dynamics.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:29:38",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the technical aspects of creating backups in Team Foundation Server, discussing permissions and error handling. It does not address the Shift-Left Strategy, which involves integrating testing, security, and compliance earlier in the software development lifecycle. There are no direct mentions of Shift-Left principles, nor does the content explore any related techniques or methodologies. Overall, the content is unrelated to the category.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:33:08",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical instructions for backing up Team Foundation Server 2010, with detailed troubleshooting steps. While it touches on problem-solving and learning from errors, it does not explicitly discuss Continuous Improvement principles or strategies. The content lacks a clear connection to the core themes of Continuous Improvement, such as fostering a culture of experimentation or integrating improvement into organisational processes.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:33:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical instructions for backing up Team Foundation Server 2010, with no explicit discussion of Common Goals, Agile, or DevOps principles. While it touches on permissions and operational challenges, it lacks alignment with the core themes of shared objectives and strategic alignment that define Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:33:12",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on technical instructions for backing up Team Foundation Server 2010, with minimal reference to competence in terms of skill development or professional growth. While it discusses troubleshooting and permissions, it does not engage with the broader themes of continuous learning or the importance of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:11:57",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical instructions for backing up Team Foundation Server 2010, with no explicit discussion of Agentic Agility or its principles. While it touches on issues of permissions and operational challenges, it does not engage with the intentional shaping of outcomes or the interplay between human and AI capabilities, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }

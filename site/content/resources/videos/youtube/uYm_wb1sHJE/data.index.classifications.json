@@ -10,13 +10,13 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-03-14T23:09:48",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the Sprint Review workshop and its benefits within Agile practices, but it does not explicitly discuss experimentation or hypothesis-driven approaches. While it touches on stakeholder engagement and reflection, which are related to learning and improvement, it lacks a direct emphasis on systematic testing of ideas or validating assumptions, which are core to the 'Experimentation' category.",
     "level": "Ignored"
   },
@@ -31,22 +31,22 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-12T00:14:07",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the Sprint Review workshop and its role in stakeholder engagement, rather than focusing on the Product Backlog itself.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-11T11:33:24",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on the Sprint Review event, which is a key aspect of the Scrum framework. It discusses the purpose of the Sprint Review, the engagement with stakeholders, and the tools and techniques to enhance the effectiveness of this event. However, while it touches on important Scrum principles, it lacks a comprehensive exploration of the broader Scrum framework, roles, and values, which limits its depth of discussion. The mention of Agile and Scrum in a general sense at the end indicates a broader context but does not detract from the primary focus on the Sprint Review.",
     "level": "Secondary"
   },
@@ -61,43 +61,43 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-14T23:09:28",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the Sprint Review workshop, discussing its structure and benefits rather than the coaching process itself. While it touches on stakeholder engagement and team dynamics, it lacks explicit discussions on coaching techniques, the role of a coach, or fostering a growth mindset, which are central to the Coaching category.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-12T00:14:14",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the Sprint Review workshop and its role in Scrum, without a focus on evidence-based leadership principles or empirical decision-making.",
     "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-12T00:14:15",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T13:44:06",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily discusses the Sprint Review workshop within the context of Scrum, highlighting its importance in engaging stakeholders and gathering feedback, which aligns with product management principles. However, it lacks a deeper exploration of strategic alignment with business objectives and does not provide extensive methodologies or frameworks beyond the Scrum event itself.",
     "level": "Secondary"
   },
@@ -121,11 +121,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T00:14:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:16:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses exclusively on the Sprint Review workshop within Agile development, discussing its importance for stakeholder engagement and product alignment. There are no direct mentions of system configuration, nor does it align with the core themes of system setup, automation, or maintenance. The discussion lacks depth in any relevant areas related to system configuration, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -139,25 +142,25 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T14:37:56",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the Sprint Review workshop, which is a key event in Agile methodologies that directly relates to the delivery of working software. It highlights the importance of stakeholder engagement, market alignment, and continuous improvement, all of which are essential for ensuring that software meets user needs. However, while it touches on these aspects, the focus is more on the workshop itself rather than on the broader implications for working software delivery, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-14T23:10:01",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the Sprint Review workshop, which indirectly relates to decision-making through stakeholder engagement and feedback loops. However, it lacks a structured, evidence-based approach to decision-making and does not delve into empirical methodologies or frameworks, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -181,10 +184,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-12T00:14:30",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -199,15 +202,15 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-03-11T16:27:27",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the Sprint Review workshop, which involves stakeholder engagement and feedback, but it primarily focuses on the workshop's structure and benefits rather than explicitly detailing mechanisms for integrating customer feedback into product development. While there are mentions of stakeholder input and market alignment, the depth of discussion on feedback loops is limited, making it a secondary topic rather than a primary focus.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -220,40 +223,40 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-03-14T23:10:07",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the Sprint Review workshop, which indirectly relates to transparency through stakeholder engagement and feedback mechanisms. However, it lacks a direct focus on transparency as a primary theme, and the discussion primarily revolves around the benefits and structure of the Sprint Review rather than the broader implications of transparency in Agile processes.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T00:14:40",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the Sprint Review workshop and its purpose, rather than the Definition of Done.",
     "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-12T00:14:41",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-17T16:42:12",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses stakeholder engagement and feedback mechanisms during the Sprint Review workshop, which are relevant to customer retention strategies, but the primary focus is on Scrum roles and events.",
     "level": "Tertiary"
   },
@@ -268,69 +271,60 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-14T23:10:15",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 67.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Sprint Review workshop, which is a key Agile practice, and highlights its importance in aligning teams with stakeholder expectations and market needs. It mentions strategic elements such as stakeholder engagement and market alignment, which are relevant to the Strategy category. However, while it touches on strategic concepts, the primary focus is on the workshop itself rather than a broader strategic framework or planning, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T00:14:46",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the Sprint Review workshop and Scrum events, which are not directly related to the measurement and improvement of innovation capabilities.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-11T17:40:18",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 78.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content focuses primarily on the Sprint Review, a key event within the Scrum framework, discussing its importance, phases, and benefits in detail. It aligns well with Agile principles, particularly in stakeholder engagement and continuous improvement. However, while it provides substantial insights into the Sprint Review, it does not explore other Agile frameworks or a comparative analysis, which slightly limits its depth in the broader Agile context.",
     "level": "Secondary"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T00:14:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Sprint Review workshop, focusing on Scrum events and team-level practices rather than scaling agility across the organisation.",
-    "level": "Ignored"
-  },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-13T15:39:34",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the Sprint Review workshop, which is a key Agile event that facilitates team collaboration and stakeholder engagement. It highlights the importance of stakeholder input and the collaborative nature of the Sprint Review process. However, while it touches on aspects of team dynamics and collaboration, the primary focus is on the workshop's structure and benefits rather than a broader exploration of team collaboration techniques or culture. Therefore, while there is a significant connection to the category, it does not delve deeply into the core themes of team collaboration as outlined in the classification criteria.",
     "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-03-14T23:09:21",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the Sprint Review workshop, focusing on stakeholder engagement and market alignment, which are indirectly related to customer satisfaction. However, it lacks explicit discussions on measuring customer satisfaction or strategies for enhancing customer experience, making it a secondary focus rather than a primary one.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -361,24 +355,24 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-12T00:14:58",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-13T16:47:50",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content focuses extensively on the Sprint Review workshop, a key component of Agile methodologies, which is a core aspect of software development practices. It discusses the importance of stakeholder engagement, market alignment, and continuous improvement, all of which are integral to the software development lifecycle. The depth of discussion is significant, providing a structured breakdown of the workshop phases, which aligns well with best practices in Agile development. Overall, the content is highly relevant to the Software Development category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -391,11 +385,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T00:15:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:16:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Sprint Review workshop and its role in Scrum, focusing on stakeholder engagement rather than throughput measurement or optimisation.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Sprint Review workshop and its benefits for stakeholder engagement and product alignment. While it discusses aspects of Agile methodology, it does not explicitly mention throughput as a delivery metric or provide any analysis or visualisation related to throughput. The discussion is more about enhancing processes and stakeholder interactions rather than measuring or interpreting throughput, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -409,10 +406,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:12",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the Sprint Review workshop, which is a Scrum event, but it also touches on themes of stakeholder engagement and feedback, which relate to Agile principles of customer collaboration and responding to change. However, the primary focus is on the Scrum framework rather than the underlying Agile values.",
     "level": "Tertiary"
   },
@@ -436,60 +433,60 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-03-14T23:10:05",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content primarily focuses on the Sprint Review workshop, which is a Scrum event rather than the specific responsibilities and practices of a Product Owner. While it mentions stakeholder engagement, which is relevant to the Product Owner's role, it does not delve deeply into the Product Owner's responsibilities or techniques for backlog management. The discussion is more about the workshop and its benefits rather than the Product Owner's role in Agile and Scrum.",
     "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-12T00:15:12",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the Sprint Review workshop and Scrum events, which are more focused on project management practices rather than change management principles.",
     "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-03-14T23:09:34",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the Sprint Review workshop, discussing its structure and benefits rather than mentoring. While it touches on aspects of guidance and stakeholder engagement, it lacks a direct focus on mentoring techniques or the role of a mentor in Agile environments.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-14T23:10:13",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the Sprint Review workshop, which is a key event in Agile methodologies, particularly Scrum. It highlights the importance of stakeholder engagement and feedback, aligning with the principles of empirical process control. However, while it touches on aspects of transparency and adaptation, it does not delve deeply into the theoretical foundations or broader implications of empirical process control, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-03-14T23:09:37",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the Sprint Review workshop, which is related to stakeholder engagement and market alignment, both of which are relevant to product validation. However, it primarily focuses on the workshop's structure and benefits rather than directly validating product ideas through user feedback or iterative testing. While it touches on aspects of user engagement and market relevance, it lacks a detailed exploration of methodologies specifically aimed at validating product concepts, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -508,18 +505,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-14T23:09:39",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 0,
-    "final_score": 70.0,
-    "reasoning": "The content primarily discusses the Sprint Review workshop within the Agile framework, which is relevant to software developers. It highlights the importance of stakeholder engagement and continuous improvement, aligning with Agile principles. However, it lacks direct mentions of software developers' roles and does not delve deeply into specific practices or tools that developers use, resulting in a moderately high confidence score.",
-    "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -562,15 +547,15 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-03-14T23:10:18",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily discusses the Sprint Review workshop, which is a key event in the Scrum framework that directly relates to the concept of Increment. It highlights the importance of stakeholder engagement and market alignment, which are crucial for delivering valuable software increments. However, while it touches on the significance of the Sprint Review in shaping the product's trajectory, it does not delve deeply into the specifics of how these reviews contribute to the quality and completeness of the Increment itself. The discussion is more focused on the workshop's structure and benefits rather than the Increment as a standalone concept.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Windows": {
     "category": "Windows",
@@ -583,45 +568,39 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-03-14T15:26:20",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the Sprint Review workshop, detailing its importance, phases, and benefits, which aligns closely with the core themes of the Sprint Review. It provides a comprehensive overview of stakeholder engagement and the iterative nature of the review process, demonstrating a strong understanding of its role within the Scrum framework. The depth of discussion is significant, covering various aspects of the Sprint Review, making it a primary focus rather than a secondary mention.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T00:15:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:16:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Sprint Review workshop and its role in Scrum, without a focus on Lead Time or its measurement.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T00:15:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Sprint Review workshop, which is a specific Scrum event, without reference to scaling Agile practices across multiple teams or at an enterprise level.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Sprint Review workshop and its benefits for stakeholder engagement and product alignment. There are no direct mentions of Lead Time, and while it touches on aspects of Agile processes, it does not delve into the measurement or optimisation of Lead Time as a metric. The discussion lacks depth regarding Lead Time's importance or its relationship with Cycle Time, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-14T23:09:02",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content extensively discusses the Sprint Review workshop, highlighting its practical applications in Agile development. It directly addresses how the workshop enhances stakeholder engagement, market alignment, and continuous improvement, which are core themes of pragmatic thinking. The depth of discussion is significant, covering the learning, implementation, and reflection phases, thus providing a comprehensive view of how to apply these concepts in real-world scenarios.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -631,18 +610,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the Sprint Review workshop and its role in stakeholder engagement, without a focus on deployment frequency or related optimisation strategies.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-14T23:09:05",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content focuses extensively on the Sprint Review, a key ceremony in the Scrum framework, which is a core aspect of Agile Project Management. It discusses the importance of stakeholder engagement, market alignment, and continuous improvement, all of which align with agile principles. The depth of discussion is significant, covering the workshop's phases and the benefits of effective Sprint Reviews, indicating a strong understanding of agile methodologies.",
-    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -655,43 +622,43 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-14T23:09:23",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on the Sprint Review workshop, which is a specific Agile practice rather than a broader Agile strategy. While it discusses stakeholder engagement and market alignment, which are relevant to Agile principles, it lacks a comprehensive exploration of strategic alignment, implementation at scale, or leadership roles in fostering an Agile culture. The discussion is more tactical than strategic, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T19:21:59",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Sprint Review workshop within the Agile framework, discussing its importance for stakeholder engagement and product alignment. While it touches on aspects of feedback and improvement, it does not explicitly address Continuous Delivery principles, practices, or tools. The discussion is centred around Agile methodologies rather than Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-12T00:15:43",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the Sprint Review workshop and its role in Scrum, without a focus on cross-functional teams.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T00:15:44",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the Sprint Review workshop and its purpose, which is not related to the Definition of Ready.",
     "level": "Ignored"
   },
@@ -706,42 +673,24 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T16:42:12",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the Sprint Review Workshop, which involves engaging with stakeholders and gathering feedback, indicating a focus on team dynamics and collaboration. However, the primary emphasis is on the workshop's structure and tools rather than directly on team motivation strategies.",
     "level": "Tertiary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-14T23:09:08",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content focuses extensively on the Sprint Review workshop, which is a key Agile ceremony that directly impacts team performance and collaboration. It discusses stakeholder engagement, market alignment, and continuous improvement, all of which are crucial for enhancing team dynamics and productivity. The depth of discussion is significant, covering the phases of learning, implementation, and reflection, which are essential for effective team practices. Overall, the content aligns well with the core themes of the 'Team Performance' category.",
-    "level": "Secondary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T00:15:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T00:15:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -772,13 +721,13 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-14T23:09:52",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on the Sprint Review workshop, which is a specific Agile practice. It discusses the importance of stakeholder engagement and continuous improvement, aligning with Agile principles. However, it lacks broader discussions on Agile transformation strategies, change management, or leadership roles, which limits its depth and overall alignment with the category.",
     "level": "Secondary"
   },
@@ -818,39 +767,27 @@
     "reasoning": "Content heavily discusses the Sprint Review workshop and Scrum practices, with no focus on test automation.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-14T23:09:11",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 20,
-    "final_score": 80.0,
-    "reasoning": "The content extensively discusses the Sprint Review, a key Scrum event, highlighting its importance in stakeholder engagement, market alignment, and continuous improvement. It provides a detailed breakdown of the workshop phases, demonstrating a strong alignment with Scrum principles and practices. The focus on actionable insights and enhancing stakeholder connections further solidifies its relevance to Scrum Product Development.",
-    "level": "Secondary"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-14T23:09:30",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses the Sprint Review workshop, which is a specific Agile practice. While it touches on aspects of stakeholder engagement and continuous improvement, it lacks a broader focus on operational efficiency techniques or strategies that enhance delivery within Agile frameworks. The discussion is more about the workshop's benefits rather than operational practices as a whole.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T19:22:01",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the Sprint Review workshop within Agile development, discussing its benefits for stakeholder engagement and product alignment. While it touches on aspects of value delivery and improvement, it lacks a direct emphasis on empirical evidence or data-informed decision-making, which are central to Evidence-Based Management. The discussion is more about Agile practices than evidence-based metrics or outcomes.",
     "level": "Ignored"
   },
@@ -863,26 +800,17 @@
     "reasoning": "Content heavily discusses the Sprint Review workshop, which is not directly related to backlog refinement.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T00:16:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the Sprint Review workshop and its importance within Scrum, without addressing scaling practices or frameworks for multiple teams.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T16:46:44",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily focuses on the Sprint Review workshop, which is a key event in the Scrum framework. It discusses the importance of stakeholder engagement and continuous improvement, aligning with the Scrum Master's role in facilitating these aspects. However, it lacks a direct discussion of the Scrum Master's responsibilities and influence, which limits its depth in relation to the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -904,25 +832,25 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-14T23:09:59",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily focuses on the Sprint Review workshop, which is a specific agile ceremony. While it discusses the importance of stakeholder engagement and continuous improvement, it lacks a broader discussion on technical leadership principles, mentoring, or team dynamics. The depth of discussion on the Sprint Review itself is substantial, but it does not fully align with the core themes of technical leadership, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-03-14T23:09:56",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the Sprint Review workshop, which is a specific Agile practice rather than a direct exploration of product discovery methodologies. While it touches on stakeholder engagement and market alignment, which are relevant to product discovery, the overall emphasis is on the mechanics of the Sprint Review process rather than on understanding customer needs or defining product features. Therefore, the confidence score reflects a low alignment with the core themes of product discovery.",
     "level": "Ignored"
   },
@@ -937,15 +865,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-14T23:09:17",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content focuses extensively on the Sprint Review, a key Agile practice, discussing its importance in stakeholder engagement, market alignment, and continuous improvement. It aligns well with Agile Planning principles by emphasising iterative feedback and collaboration. The depth of discussion is significant, covering phases of learning, implementation, and reflection, which are crucial for effective Agile planning. However, while it is primarily about the Sprint Review, it does not delve deeply into broader Agile planning methodologies or tools, slightly limiting its overall alignment.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -956,7 +884,7 @@
     "reasoning": "Content heavily discusses the Sprint Review workshop and its purpose in Scrum, focusing on stakeholder engagement rather than accountability or team ownership.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T00:16:36",
     "ai_confidence": 0,
@@ -967,10 +895,10 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-12T00:16:37",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the Sprint Review workshop and its role in Scrum, focusing on stakeholder engagement rather than collaboration tools.",
     "level": "Ignored"
   },
@@ -994,13 +922,13 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-14T23:09:19",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily focuses on the Sprint Review workshop, which is a specific event within the Scrum framework. While it discusses the importance of stakeholder engagement and the benefits of the Sprint Review, it does not delve deeply into the roles and dynamics of the Scrum Team itself. The discussion is relevant to Scrum but lacks a comprehensive exploration of team collaboration, roles, or communication strategies, which are key aspects of the 'Scrum Team' category.",
     "level": "Secondary"
   },
@@ -1015,10 +943,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-12T00:16:45",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -1060,10 +988,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-12T00:16:56",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the Sprint Review workshop and its role within Scrum, rather than focusing on Agile Planning Tools specifically.",
     "level": "Ignored"
   },
@@ -1105,13 +1033,13 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-14T23:10:21",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Sprint Review Workshop, which includes elements of learning, implementation, and reflection, aligning with continuous improvement principles. However, it primarily focuses on the workshop's structure and benefits rather than explicitly promoting a growth mindset or knowledge sharing among teams. The depth of discussion on continuous learning practices is moderate, but the primary focus remains on the Sprint Review process itself.",
     "level": "Secondary"
   },
@@ -1142,31 +1070,13 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T00:13:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T00:13:19",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the Sprint Review workshop and its role in Scrum, without any focus on installation or configuration of tools or software.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T00:13:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1178,49 +1088,28 @@
     "reasoning": "Content heavily discusses the Sprint Review workshop and its role in Scrum, without a focus on flow efficiency or optimisation of work throughput.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T00:13:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses the Sprint Review workshop and Scrum events without any mention of AI or automation.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-06T15:55:20",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on the Sprint Review workshop, which is a key event in the Scrum framework, directly related to product delivery. It discusses stakeholder engagement, feedback loops, and the importance of understanding customer needs, aligning well with the core themes of product delivery. The depth of discussion includes practical tools and techniques for conducting Sprint Reviews, which enhances the understanding of effective product delivery. However, while it is detailed, it does not cover all aspects of product delivery methodologies comprehensively, leading to a slightly lower score.",
     "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-07T13:44:09",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the Sprint Review workshop, a key event in the Scrum framework, which directly relates to Agile Product Management. It highlights the importance of stakeholder engagement, feedback incorporation, and the role of the Product Owner, aligning well with the core themes of the category. The depth of discussion includes practical tools and techniques for conducting the workshop, which adds to the overall relevance. However, while it is focused on Agile practices, it does not delve deeply into broader product management strategies or metrics, which slightly limits its depth score.",
-    "level": "Secondary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-14T23:09:44",
-    "ai_confidence": 67.0,
-    "ai_mentions": 12,
-    "ai_alignment": 28,
-    "ai_depth": 24,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the Sprint Review Workshop, highlighting its role in fostering stakeholder engagement, market alignment, and continuous improvement, which aligns with the themes of discovery and learning. However, the primary focus is on the mechanics of the Sprint Review rather than broader methodologies for innovation and learning. While it mentions learning and reflection phases, the depth of discussion on these aspects is somewhat limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -1241,48 +1130,15 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Sprint Review Workshop, which involves engaging with stakeholders and obtaining feedback, indicating a focus on transparency and accountability in the context of Scrum events. However, the primary emphasis is on the workshop's structure and tools rather than a deep exploration of transparency and accountability principles.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-10T12:06:31",
-    "ai_confidence": 72.0,
-    "ai_mentions": 60.0,
-    "ai_alignment": 80.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the Sprint Review Workshop, which is a practical application of Scrum methodology. It explicitly mentions tools and techniques that can be used during the workshop, aligning well with the category's focus on practical techniques and tooling. The discussion provides a good level of detail about the purpose of the workshop and how it can help teams engage with stakeholders, which enhances the understanding of Agile practices. However, the content leans more towards the event's description rather than a comprehensive exploration of various tools or methodologies, which slightly limits its depth.",
-    "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-10T14:16:31",
-    "ai_confidence": 82.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 20,
-    "final_score": 76.0,
-    "reasoning": "The content explicitly discusses a workshop focused on the Sprint Review, which is a key event in the Scrum framework. It highlights the importance of engaging stakeholders and provides insights into the structure and purpose of the workshop, aligning well with the category's focus on events and presentations. The depth of discussion is significant, as it covers both the objectives of the workshop and the tools and techniques to be used, indicating a thorough exploration of the topic.",
-    "level": "Secondary"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-14T23:10:24",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the Sprint Review workshop, which is a key Agile practice that enhances market adaptability through stakeholder engagement and continuous feedback. It explicitly mentions 'market alignment' and the importance of adapting to market rhythms, which directly relates to the category. However, while it provides a good level of detail on the workshop's structure and benefits, it does not delve deeply into broader strategies or methodologies beyond the Sprint Review itself, limiting its overall depth of discussion.",
     "level": "Secondary"
   },
@@ -1297,13 +1153,13 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T19:21:43",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Sprint Review workshop within Agile development, which is a specific methodology rather than a discussion on DevOps principles. While it touches on collaboration and stakeholder engagement, it lacks a direct connection to the core themes of DevOps, such as automation, shared accountability, or continuous improvement. The discussion is more aligned with Agile practices than with the broader DevOps philosophy.",
     "level": "Ignored"
   },
@@ -1314,15 +1170,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T00:13:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the Sprint Review workshop and its importance in Scrum, without focusing on specific products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -1345,13 +1192,13 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-10T18:12:25",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the Sprint Review Workshop, which is a key event in Scrum that facilitates stakeholder engagement and feedback, aligning with the principles of iterative development and customer value delivery. However, while it touches on the importance of stakeholder feedback and tools for engagement, it lacks a deeper exploration of value delivery strategies or methodologies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1366,13 +1213,13 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-14T23:09:54",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 68.0,
     "ai_mentions": 3,
     "ai_alignment": 75.0,
     "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the Sprint Review workshop, which is a key Agile practice that fosters stakeholder engagement and market alignment, aligning well with the principles of organisational agility. It highlights the importance of adapting to market needs and continuous improvement, which are core themes of the category. However, the focus is primarily on the Sprint Review itself rather than broader organisational strategies, which slightly limits the depth of discussion on organisational agility as a whole.",
     "level": "Secondary"
   },
@@ -1385,66 +1232,45 @@
     "reasoning": "Content heavily discusses the Sprint Review workshop and its importance in Scrum, lacking personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-11T10:10:22",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content primarily discusses the Sprint Review workshop, which is a key event in Scrum that involves stakeholder engagement and feedback. It highlights the importance of communication and collaboration between teams and stakeholders, aligning well with the category's focus on human behaviour and structured methodologies. However, while it touches on these themes, the depth of discussion on broader team dynamics and process improvement is somewhat limited, preventing a higher confidence score.",
-    "level": "Secondary"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-14T23:09:26",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the Sprint Review Workshop, focusing on stakeholder engagement and team dynamics, which are relevant to sociotechnical systems. However, it primarily centres on the technical aspects of Agile practices without a thorough exploration of the organisational context or the interplay between social and technical elements. While there are mentions of collaboration and stakeholder involvement, the depth of discussion on sociotechnical interactions is limited.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T00:13:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the Sprint Review workshop and its practical application in Scrum, rather than providing news or reviews related to Agile or DevOps.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-14T23:09:32",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the Sprint Review workshop, which is related to Agile practices and stakeholder engagement. However, it primarily focuses on the workshop's structure and benefits rather than on metrics, data analysis, or evidence-based decision-making. While there are mentions of improvement and reflection, the discussion lacks depth in terms of metrics and learning principles, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T00:14:00",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-12T00:14:01",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -1468,27 +1294,27 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:08:46",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Sprint Review workshop, which is a key Agile practice that promotes collaboration and stakeholder engagement. While it does mention aspects of collaboration and stakeholder involvement, the primary focus is on the workshop itself rather than broader social technologies or frameworks. The discussion aligns with the category's themes but lacks depth in exploring the underlying social frameworks and methodologies that drive collaboration and decision-making within organisations.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T19:21:57",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on the Sprint Review workshop, which is a specific Agile practice rather than a broader discussion on the Agile Product Operating Model. While it touches on stakeholder engagement and market alignment, which are relevant to APOM, it lacks a comprehensive exploration of the core principles and broader themes of the Agile Product Operating Model. The discussion is more about the mechanics of the Sprint Review rather than the integration of agile methodologies with product management principles.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1528,86 +1354,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:21:11",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 82.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 28,
     "non_ai_confidence": 30,
-    "final_score": 77.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on the Sprint Review workshop, which is a key event in the Scrum framework. It discusses the purpose of the Sprint Review, the engagement with stakeholders, and the tools and techniques to enhance the effectiveness of this event. The direct mention of Scrum and its principles is strong, and the content aligns well with the core themes of Scrum, particularly in terms of stakeholder collaboration and continuous improvement. The depth of discussion is substantial, providing insights into the workshop's structure and objectives, which further supports the high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:00:10",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Sprint Review workshop within Agile development, discussing its importance for stakeholder engagement and product alignment. It does not address the Shift-Left Strategy, which emphasises early integration of testing, security, and compliance in the software development lifecycle. The discussion is centred around Agile practices rather than the proactive measures associated with Shift-Left methodologies.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T19:21:46",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Sprint Review workshop, which is a key Agile event that facilitates stakeholder engagement and product alignment. While it touches on aspects of continuous improvement, such as reflection and enhancement, the primary focus is on the workshop itself rather than a broader discussion of continuous improvement principles. The content does not provide extensive detail on continuous improvement strategies or frameworks, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T19:21:49",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the Sprint Review workshop, which is a specific Agile event, but it does not explicitly address the concept of Common Goals. While it touches on stakeholder engagement and market alignment, which are related to shared objectives, the primary focus remains on the mechanics of the Sprint Review rather than on aligning strategy with execution or fostering collaboration across teams. Therefore, the confidence score reflects a moderate alignment with the category, but it lacks depth in discussing Common Goals directly.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T19:21:51",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 62.0,
     "ai_mentions": 3,
     "ai_alignment": 35.0,
     "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the Sprint Review workshop, which indirectly relates to competence through the emphasis on learning, implementation, and reflection phases. However, while it touches on skill development and stakeholder engagement, it lacks a deeper exploration of continuous learning and mastery, which are core to the competence category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:21:53",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Sprint Review workshop within the Agile framework, discussing its benefits and implementation. It does not mention or align with the principles of the One Engineering System, which is centred on standardising and integrating software development practices across teams. The discussion is narrowly focused on Scrum practices, lacking any reference to the broader integration or standardisation themes of 1ES.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:46:41",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Sprint Review workshop within Agile practices, discussing stakeholder engagement and product alignment. While it touches on themes of reflection and adaptation, it does not explicitly address Agentic Agility or differentiate between human and AI capabilities. The discussion lacks depth in exploring the intentional shaping of outcomes, which is central to the category.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T11:15:56",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
+    "non_ai_confidence": 20,
+    "final_score": 87.0,
+    "reasoning": "The content focuses extensively on the Sprint Review workshop, a key Agile practice that directly relates to product development. It discusses the importance of stakeholder engagement, market alignment, and continuous improvement, all of which are core themes of product development methodologies. The depth of discussion is significant, covering the phases of learning, implementation, and reflection, which are crucial for iterative processes. The explicit mention of Agile principles and the workshop's role in enhancing product delivery further solidifies its alignment with the category.",
+    "level": "Primary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T11:15:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Sprint Review workshop, which is a specific Agile practice, rather than discussing Open Space Agile principles or methodologies. While it touches on stakeholder engagement and collaboration, it does not explicitly mention Open Space Agile or its core themes such as psychological safety, co-creation, or emergence. The discussion lacks depth regarding Open Space Agile, making it clear that the content is not aligned with the category's focus.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T11:16:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Sprint Review workshop within the Scrum framework, discussing its mechanics and benefits without addressing the principles of Agnostic Agile. There are no direct mentions of Agnostic Agile or its core themes, and the discussion lacks depth regarding ethical considerations or the adaptability of agile practices based on context. Overall, it does not align with the category's focus on a broader, context-driven approach to agility.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T11:16:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Sprint Review workshop, which is a specific Agile practice rather than a discussion on scaling methodologies or frameworks. While it touches on stakeholder engagement and market alignment, these aspects do not delve into the complexities of scaling Agile practices across multiple teams or the broader enterprise context. The content lacks direct mentions of scaling frameworks, cross-team collaboration, or strategies for managing dependencies, which are essential for a higher confidence score in the 'Scaling' category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T11:16:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Sprint Review workshop within Agile development, discussing its importance for stakeholder engagement and product alignment. There are no direct mentions of Cell Structure Design or its principles, and the discussion does not align with the core themes of decentralised organisational structures or autonomous cells. The depth of discussion is also limited to the specifics of the Sprint Review process, which is unrelated to the category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T11:16:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the Sprint Review workshop within the Agile framework, discussing its importance for stakeholder engagement and product development. While it touches on collaborative aspects, it does not explicitly mention Liberating Structures or their techniques. The discussion aligns somewhat with the principles of enhancing collaboration and decision-making but lacks depth in exploring specific Liberating Structures methods or their broader applications. Therefore, the confidence score reflects a low direct mention, moderate conceptual alignment, and limited depth.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T11:16:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": 20,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the Sprint Review workshop, which is related to Agile practices and stakeholder engagement. While it mentions aspects like 'market alignment' and 'stakeholder engagement', it does not explicitly focus on Time to Market as a primary theme. The discussion is more centred on the benefits of the Sprint Review process rather than on metrics or strategies for improving Time to Market. Therefore, while there are relevant mentions, the overall alignment and depth of discussion do not strongly support the category.",
+    "level": "Tertiary"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T11:16:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the Sprint Review workshop within Agile development, discussing its benefits for stakeholder engagement and product alignment. While it touches on themes of collaboration and feedback, it does not explicitly frame the company as a product or delve into organisational strategies that align with the CaaP concept. The discussion lacks depth in exploring how these practices contribute to a broader organisational design or culture, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T11:16:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content focuses exclusively on the Sprint Review workshop within the Agile methodology, discussing its importance and implementation. There are no direct mentions of GitHub or its services, and the discussion does not align with GitHub's functionalities or best practices. The depth of discussion is centred on Agile practices rather than GitHub, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T11:16:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the Sprint Review workshop and its benefits for Agile teams, with limited direct mention of Unrealised Value. While it discusses stakeholder engagement and market alignment, which are tangentially related to the concept of unrealised value, it does not delve into identifying or measuring untapped opportunities or potential improvements in a way that aligns with the core themes of the category. The discussion lacks depth regarding strategies for recognising unrealised value, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T11:16:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the Sprint Review workshop, which is related to stakeholder engagement and product alignment, both of which can contribute to assessing Current Value. However, it does not explicitly define or measure Current Value, nor does it provide detailed metrics or techniques for gathering Current Value data. The focus is more on the process and benefits of the Sprint Review rather than a real-time assessment of value delivered, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T11:16:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Sprint Review workshop within Agile practices, discussing its benefits and implementation without addressing Hybrid Agile concepts or challenges. There are no direct mentions of Hybrid Agile, and the discussion lacks critical examination of merging traditional and agile methodologies. The content does not explore the implications of Hybrid Agile or its pitfalls, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T11:16:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the Sprint Review workshop, which is a specific Agile practice rather than a broader project management discussion. While it mentions stakeholder engagement and the importance of aligning with market needs, it lacks a comprehensive exploration of core project management principles, methodologies, or lifecycle phases. The depth of discussion is limited to the workshop's structure and benefits, which does not sufficiently cover the wider scope of project management as defined in the category. Therefore, while there are relevant mentions, the overall alignment and depth do not strongly support a high confidence score.",
     "level": "Ignored"
   }
 }

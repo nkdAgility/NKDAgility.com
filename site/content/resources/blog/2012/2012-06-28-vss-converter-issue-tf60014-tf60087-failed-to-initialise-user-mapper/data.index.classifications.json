@@ -8,18 +8,6 @@
     "reasoning": "Content primarily discusses technical issues related to VSS to TFS import and user mapping errors, with no relevance to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T15:04:30",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content discusses a specific issue related to the VSSConverter tool and provides a workaround for a common error encountered during its use. While it mentions a practical tool (VSSConverter.exe) and offers a solution, the discussion lacks depth in exploring broader Agile or DevOps methodologies or frameworks. The focus is primarily on troubleshooting rather than on the application of techniques or tooling in a wider context, which limits its alignment with the category.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-15T20:23:22",
@@ -31,41 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:19:52",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical issues related to VSS to TFS migration and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of EBM concepts, and the discussion lacks depth in relation to data-informed decision-making or value delivery.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T20:23:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an error related to user mapping in VSSConverter.exe and does not address code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T20:23:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to user mapping in VSSConverter.exe without any focus on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T20:23:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses an error related to VSS to TFS import and user mapping issues, with no mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -79,24 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-07T15:19:57",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 75.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
+    "final_score": 75.0,
     "reasoning": "The content discusses a specific error encountered during the installation and configuration of VSSConverter.exe when importing to TFS, which aligns with the category. It provides a workaround for resolving the issue, indicating a focus on configuration best practices. However, the depth of discussion is limited to a specific error without broader installation or configuration guidance, which affects the overall confidence score.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T20:23:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to user mapping in VSSConverter and does not address transparency or accountability within Agile teams.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content primarily discusses technical issues related to VSS to TFS import without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T20:23:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a technical issue related to user mapping in VSSConverter.exe and does not address organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:19:38",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on resolving specific errors related to VSS to TFS migration, which is more aligned with technical troubleshooting rather than the broader principles of DevOps. While it touches on user permissions and mapping, it lacks a discussion on collaboration, automation, or cultural shifts that are central to DevOps. The mention of user mapping issues does not sufficiently connect to the core themes of DevOps, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily discusses technical issues related to VSS to TFS import and user mapping errors, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T20:23:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to VSS to TFS import, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T20:23:44",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses an error related to user mapping in VSS to TFS import, which does not focus on optimising work throughput or flow efficiency.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T20:23:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to VSS to TFS import and user mapping errors, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T20:23:49",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an error related to user mapping in VSS to TFS import, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -272,15 +197,6 @@
     "reasoning": "Content primarily discusses issues related to VSS to TFS import and user mapping errors, which are not relevant to Value Stream Management.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T20:24:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to VSSConverter.exe and Team Foundation Server, without focusing on products or literature relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T20:24:02",
@@ -292,13 +208,13 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T05:54:57",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses an issue related to the VSSConverter tool, which is associated with Team Foundation Server (TFS), a component of Azure DevOps. However, the focus is primarily on a specific error message and its workaround rather than a broader discussion of Azure DevOps functionalities or best practices. While it mentions TFS, it does not delve into the core themes of Azure DevOps, such as CI/CD pipelines or agile project management, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -331,13 +247,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:19:50",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on resolving technical issues related to VSS to TFS migration, with no direct mention or discussion of Agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any alignment with the core themes of the category, such as continuous delivery or product-oriented mindsets, and provides minimal detail relevant to the Agile Product Operating Model.",
     "level": "Ignored"
   },
@@ -348,15 +264,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to user mapping in VSS to TFS import, with no focus on organisational agility principles or practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T20:24:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to VSS to TFS import, focusing on error messages and workarounds, rather than industry news or reviews.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -406,13 +313,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:19:55",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on resolving specific errors related to VSS to TFS import issues, which does not directly address Continuous Delivery principles or practices. There are no explicit mentions of Continuous Delivery, and the discussion lacks depth in terms of automation, incremental improvements, or user feedback, which are key themes of the category.",
     "level": "Ignored"
   },
@@ -481,10 +388,10 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-15T21:31:22",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical issues related to VSSConverter and Team Foundation Server, with no discussion of Value Stream Mapping principles or techniques.",
     "level": "Ignored"
   },
@@ -508,10 +415,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T21:31:22",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on a technical issue related to VSS to TFS conversion and does not discuss Scrum Teams, their roles, or any relevant practices.",
     "level": "Ignored"
   },
@@ -571,10 +478,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T21:31:22",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to VSS to TFS import and user mappings, which are not focused on team performance or collaboration.",
     "level": "Ignored"
   },
@@ -598,31 +505,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T14:55:45",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a specific issue related to the VSS to TFS import process, which is a part of software development practices, particularly in version control and collaborative development. It mentions tools like VSSConverter.exe and Visual Studio Team Foundation Server, which are relevant to software engineering. However, the discussion is primarily focused on a specific error and workaround rather than broader methodologies or practices in software development, leading to a moderate confidence score.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T21:31:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses technical issues related to VSS to TFS import and user mapping errors, with no mention of Agile Project Management principles, frameworks, or practices.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T21:31:22",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an issue related to VSS Converter and Team Foundation Server, without any mention of Agile values or principles.",
     "level": "Ignored"
   },
@@ -682,10 +580,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T21:31:22",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a technical issue related to VSS to TFS import and does not discuss organisational change or methodologies for transforming organizations.",
     "level": "Ignored"
   },
@@ -716,15 +614,6 @@
     "reasoning": "Content heavily discusses technical issues related to VSS to TFS import failures and does not address customer satisfaction or related themes.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T21:31:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scaling Scrum or any related topics; it focuses on technical errors in VSS to TFS import.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T21:31:22",
@@ -741,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical issues related to VSSConverter and does not discuss psychological safety or its relevance at all.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T21:31:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses errors related to user mapping in VSS to TFS import, which is unrelated to scaling agility or agile frameworks.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -817,29 +697,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T21:31:22",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily addresses technical issues related to VSS to TFS import errors and user permissions, without discussing innovation capabilities or the use of Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T21:31:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to VSSConverter and TFS, with no clear connection to Scrum practices or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T21:31:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting issues related to VSS Converter and Team Foundation Server, with no connection to Scaled Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1015,19 +877,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T21:31:22",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily addresses technical errors related to a software tool and does not discuss Change Management principles or practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T21:31:22",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to user mapping in VSS to TFS imports and does not address team collaboration or dynamics within Agile, Scrum, or DevOps frameworks.",
     "level": "Ignored"
   },
@@ -1049,7 +911,7 @@
     "reasoning": "Content primarily discusses technical errors related to user mapping in a specific software tool, without addressing digital transformation concepts or strategies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T21:31:22",
     "ai_confidence": 0,
@@ -1058,26 +920,17 @@
     "reasoning": "Content discusses technical issues related to VSS to TFS import, focusing on user mapping errors and permissions, which does not relate to Minimum Viable Product concepts or Agile methodologies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T21:31:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on an error related to VSS to TFS import processes and does not discuss AI or its integration into Agile, DevOps, or software development methodologies.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T11:59:32",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a specific error related to the configuration of user permissions in a system (Team Foundation Server) during a migration process. While it touches on aspects of system configuration, such as user mapping and permissions, it lacks a broader discussion on configuration management practices or optimisation strategies. The focus is primarily on troubleshooting a specific issue rather than exploring the methodologies of system configuration in depth.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1117,27 +970,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:06:14",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily addresses issues related to VSS to TFS import errors and user mapping problems, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any alignment with the core themes of Test First Development, focusing instead on troubleshooting and technical guidance unrelated to testing methodologies.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T10:34:38",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses an issue related to the VSSConverter.exe and Team Foundation Server, which are tools that operate within the Windows environment. However, the primary focus is on specific error messages and user mapping issues rather than broader Windows installation, configuration, or troubleshooting topics. While it does touch on user permissions and Active Directory, it lacks comprehensive detail on Windows-specific functionalities, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1159,10 +1012,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T21:31:22",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to user mapping in VSS to TFS imports, with no focus on team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1186,15 +1039,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-10T12:56:09",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses a specific issue (TF60014 & TF60087) encountered during a VSS to TFS import, providing a clear identification of the problem and a practical workaround. It aligns well with the core themes of troubleshooting by detailing the diagnosis of the error related to user permissions and suggesting a solution. The depth of discussion is substantial, as it not only identifies the issue but also offers a method to resolve it, demonstrating effective problem-solving in a technical context.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1207,13 +1060,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:06:16",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses entirely on technical issues related to VSS to TFS migration and does not mention the Scrum Master role or any related responsibilities, skills, or concepts. There is no discussion of Scrum principles, team dynamics, or organisational change, which are central to the Scrum Master category.",
     "level": "Ignored"
   },
@@ -1233,15 +1086,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses issues related to VSS to TFS imports, error messages, and user permissions, without mentioning working agreements or team collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T21:31:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to VSS to TFS import processes, which does not focus on software developer roles in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1318,15 +1162,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-03-15T05:54:57",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 45.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 40.0,
+    "final_score": 45.0,
     "reasoning": "The content discusses issues related to Team Foundation Server (TFS) and user mapping during a VSS to TFS import, which is relevant to Azure Repos as TFS is part of the Azure DevOps suite. However, the focus is primarily on a specific error and workaround rather than a broader discussion of Azure Repos functionalities, best practices, or integration. The mention of user permissions aligns with security management in Azure Repos, but the overall depth and breadth of the discussion do not fully encompass the key topics outlined for the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1364,15 +1208,6 @@
     "reasoning": "Content primarily discusses technical issues related to user mapping in VSS and TFS, with no focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T21:31:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily addresses issues related to VSSConverter.exe and Team Foundation Server, with no discussion of Kanban principles or scaling.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T21:31:22",
@@ -1393,13 +1228,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:36:48",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical issues related to VSS to TFS migration, specifically addressing error messages and user mapping problems. There is no discussion of collaboration, decision-making, or value delivery, which are core themes of Social Technologies. The content lacks any mention of social frameworks or methodologies that promote teamwork or organisational culture, resulting in a very low confidence score.",
     "level": "Ignored"
   },
@@ -1432,73 +1267,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:45:02",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily discusses issues related to VSS to TFS import errors and does not mention Scrum principles, roles, events, or any related topics. It lacks any substantial discussion on Scrum, making it only tangentially related at best.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:27:25",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a specific error related to user mapping in the context of VSS to TFS import, with no mention of integrating testing, security, or compliance earlier in the software development lifecycle. It does not align with the core themes of the Shift-Left Strategy, nor does it provide any depth or detail on the topic.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:19:40",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on resolving specific technical issues related to VSS to TFS migration, with no explicit discussion of Continuous Improvement principles. While there is a suggestion for enhancing clarity in error messaging, it lacks a broader context of ongoing reflection, adaptation, or empirical evidence that characterises Continuous Improvement. Therefore, the content does not align with the core themes or depth required for this category.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:19:43",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical issues related to VSS to TFS migration errors, specifically addressing user mapping problems. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it mention shared objectives or strategic alignment. The discussion is strictly technical and lacks any connection to the overarching themes of collaboration or accountability within teams.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:19:46",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on resolving specific technical issues related to VSS to TFS import errors. While it touches on user mapping and permissions, it does not explicitly discuss competence, continuous learning, or skill development. The mention of user permissions could be loosely related to competence in terms of ensuring proper access, but it lacks depth and does not align with the core themes of competence as defined in Agile and DevOps contexts.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:06:12",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on resolving specific technical issues related to VSS to TFS import errors, with no discussion of Agentic Agility principles, intent, or the interplay between human and AI capabilities. It lacks any mention of autonomy, adaptability, or value alignment, which are central to the category.",
     "level": "Ignored"
   }

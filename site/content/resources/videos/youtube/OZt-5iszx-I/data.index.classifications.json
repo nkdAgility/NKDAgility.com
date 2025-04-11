@@ -1,25 +1,25 @@
 {
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-03-06T13:42:48",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 55.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 50.0,
+    "final_score": 55.0,
     "reasoning": "The content discusses the importance of user feedback in improving product value, which aligns with the principles of Value Stream Management. However, it primarily focuses on the agile process of incorporating feedback rather than explicitly addressing value stream mapping or waste elimination. The discussion lacks depth in terms of specific techniques or metrics related to Value Stream Management.",
     "level": "Tertiary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-06T14:51:56",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the importance of user feedback and its transformation into actionable work items, which aligns with the iterative learning cycle in Agile. However, it lacks explicit references to metrics, data analysis, or structured methodologies for continuous improvement, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -34,13 +34,13 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-07T13:00:02",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly discusses the importance of user feedback and its integration into actionable work items, which aligns with Agile principles of responsiveness and continuous delivery. However, while it touches on key aspects of Agile Product Management, such as maximising product value and engaging with users, it lacks detailed exploration of specific Agile roles, techniques for backlog prioritisation, or broader strategies for aligning product vision with organisational goals.",
     "level": "Secondary"
   },
@@ -55,76 +55,58 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-03-14T18:52:53",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of user feedback and its transformation into actionable work items, which aligns with the Kanban principle of continuous improvement and maximising value delivery. However, it lacks explicit references to Kanban practices such as visualisation, WIP limits, or flow management. The discussion is more focused on general agile principles rather than the specific methodologies of Kanban, leading to a lower confidence score.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T12:38:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses user feedback and agile practices, with no clear focus on code quality or complexity.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T17:30:50",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Agile product management and user feedback loops, which are not strictly aligned with DevOps principles. While it touches on aspects of continuous improvement and responsiveness to user needs, it lacks a direct discussion of DevOps as a philosophy, automation, shared accountability, or the integration of development and operations. The emphasis is more on Agile methodologies rather than the broader DevOps culture and practices.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T12:38:41",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses user feedback and its impact on product value, rather than installation or configuration processes.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-10T11:43:40",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of user feedback and its transformation into actionable work items, which aligns with the principles of Agile methodologies. However, while it touches on responsiveness to user needs, it lacks a broader discussion on market adaptability strategies, such as the role of cross-functional teams or data analytics. The depth of discussion is limited, focusing primarily on user feedback without exploring other aspects of market adaptability.",
     "level": "Secondary"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T12:38:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on user feedback and agile practices without discussing industry news, updates, or reviews.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T17:31:05",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on the importance of user feedback in Agile product management, which aligns with the Agile Product Operating Model's emphasis on customer-centric value delivery. However, while it discusses Agile principles and practices, it does not delve deeply into the broader aspects of the APOM framework, such as governance, operational stability, or the integration of Scrum with product management. The discussion is rich in practical advice but lacks a comprehensive exploration of the APOM's core themes.",
     "level": "Secondary"
   },
@@ -137,38 +119,17 @@
     "reasoning": "Content primarily focuses on user feedback and Agile practices rather than decision-making processes in uncertain environments.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-10T17:56:06",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the importance of user feedback and its integration into the development process, which aligns with the themes of collaboration and communication within teams. However, while it touches on agile principles, it lacks a deeper exploration of team dynamics or leadership roles, resulting in a moderate confidence score.",
-    "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T12:38:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on user feedback and agile practices rather than organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-11T09:55:01",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses the importance of turning user feedback into actionable work items, which directly aligns with the principles of iterative development and maximising customer value. It emphasises the need for quick feedback loops and adapting work items to enhance product value, showcasing a strong conceptual alignment with value delivery practices. The depth of discussion is substantial, as it not only mentions the need for user engagement but also highlights the implications of not acting on feedback in an agile context.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -190,15 +151,15 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-03-11T11:18:03",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of turning user feedback into actionable work items quickly, which aligns with the principles of Flow Efficiency by emphasising speed and responsiveness. However, it lacks explicit mentions of flow efficiency concepts, such as bottlenecks or metrics like cycle time. The depth of discussion is limited, focusing primarily on user feedback rather than broader flow efficiency strategies.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -211,48 +172,39 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-14T18:52:53",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the importance of user feedback and its integration into product development, which is a component of the application lifecycle. However, it lacks explicit discussion of the broader stages of the application lifecycle, governance, or tools specific to Application Lifecycle Management. The mention of agility suggests a connection to ALM principles, but the depth and focus on user feedback do not sufficiently cover the core themes of the category.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-03-14T18:52:53",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Agile methodologies and the importance of user feedback in product development. While it touches on concepts like continuous improvement, which is a Lean principle, the overall emphasis is on Agile practices rather than Lean strategies. The discussion lacks direct references to Lean tools or methodologies, and the depth of Lean-related content is minimal, leading to a low confidence score in alignment with the Lean category.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T12:39:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses user feedback and product value maximisation, without reference to specific events or presentations.",
     "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-11T16:12:05",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the importance of responding quickly to user feedback, which aligns with the principles of business agility. It emphasises the need for organisations to adapt swiftly to user needs and market changes, showcasing strategies for integrating feedback into agile processes. However, while it touches on key aspects of business agility, such as the role of the Product Owner and continuous improvement, it primarily focuses on user feedback mechanisms rather than broader organisational agility principles, which slightly limits its depth in the context of business agility.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Personal": {
     "category": "Personal",
@@ -272,29 +224,17 @@
     "reasoning": "Content heavily discusses user feedback and agile practices without a direct connection to platform engineering or internal developer platforms.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T17:24:58",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses practical techniques for integrating user feedback into Agile processes, including specific methods like prioritisation techniques (MoSCoW) and the role of the Product Owner. However, while it touches on Agile practices, it lacks a detailed exploration of specific tools or frameworks that enhance Agile and DevOps practices, which limits its alignment with the category.",
-    "level": "Secondary"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-13T15:03:02",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of user feedback in Agile development, which is a core aspect of product delivery. It highlights methodologies for integrating feedback into the development process, emphasises the role of the Product Owner, and provides actionable strategies for improving the feedback loop. The depth of discussion on practical techniques and real-world examples further solidifies its alignment with the principles of product delivery.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -307,82 +247,37 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-13T15:25:33",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of user feedback in Agile development, emphasising the need for organisations to respond quickly to user needs, which aligns closely with the principles of organisational agility. It provides actionable strategies for integrating feedback into product development, highlighting the role of leadership and cross-functional teams in fostering a culture of agility. The depth of discussion on continuous improvement and the feedback loop further supports its relevance to the category.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-14T18:52:53",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses the importance of user feedback and the processes to integrate it into Agile practices, which indirectly touches on accountability and transparency. However, it primarily focuses on user engagement and feedback loops rather than explicitly addressing transparency and accountability within the team dynamics or organisational context. The discussion lacks depth in exploring how these principles are implemented or their impact on team performance.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-14T14:51:41",
-    "ai_confidence": 87.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content extensively discusses the importance of user feedback in Agile development, emphasising the need for quick action and continuous improvement. It aligns well with the core themes of the category, particularly in terms of integrating user feedback into the development cycle and fostering a culture of responsiveness and learning. The depth of discussion is significant, providing actionable advice and real-world examples that illustrate the principles of discovery and learning in practice.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:31:10",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of user feedback in Agile product management, which aligns with the concept of empirical decision-making. However, it primarily focuses on Agile practices rather than explicitly addressing Evidence-Based Management principles. While it mentions metrics like feedback KPIs, it lacks a comprehensive exploration of current value, unrealised value, or outcome management, which are central to EBM.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T12:39:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on user feedback and Agile practices but does not discuss AI or automation technologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-14T18:52:55",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the importance of user feedback in Agile development, which aligns with Agile principles but does not explicitly mention specific products or books. While it provides actionable advice and examples relevant to Agile practices, it lacks direct references to literature or tools that would solidify its classification under 'Products and Books'. The focus is more on methodology and personal experience rather than on specific resources.",
-    "level": "Secondary"
+    "level": "Tertiary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-14T18:52:57",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of user feedback in Agile development, which touches on aspects of team dynamics and communication. However, it primarily focuses on technical processes and methodologies without a strong emphasis on the interplay between social and technical systems. While there are mentions of team roles and the importance of communication, the content lacks a comprehensive exploration of how these elements collectively influence software delivery and organisational effectiveness.",
     "level": "Ignored"
   },
@@ -397,13 +292,13 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-14T18:53:00",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily focuses on team-level agile practices, specifically around user feedback and its integration into product development. While it discusses the importance of responsiveness and continuous improvement, it lacks a broader organisational context and does not address enterprise-level frameworks or structures that support agility. The discussion is valuable but remains too focused on individual team dynamics rather than the enterprise agility principles outlined in the category definition.",
     "level": "Secondary"
   },
@@ -418,49 +313,34 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:53:58",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses Agile methodologies and the importance of user feedback in enhancing product value, which aligns with the principles of collaboration and continuous improvement. However, while it touches on aspects of team dynamics and decision-making, it primarily focuses on practical advice for product management rather than a broader discussion of social technologies as frameworks. The depth of discussion on social technologies is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T13:55:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on user feedback and agile practices without discussing scaling Kanban or its principles in a multi-team context.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T13:55:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T21:59:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses user feedback and agile methodology, with no focus on system configuration principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T13:55:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses user feedback and its integration into Agile work items, without reference to scaling Agile practices across multiple teams or an enterprise-level context.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile product management and the importance of user feedback in enhancing product value. It does not discuss system configuration, configuration management tools, or any related methodologies. While there are mentions of processes that could tangentially relate to system performance, they are not the main focus, leading to a low confidence score in alignment with the 'System Configuration' category.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T13:55:51",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily discusses the importance of user feedback and how it relates to delivering value quickly, which are key tenets of the Agile Philosophy. It emphasizes collaboration with users and adapting work based on feedback, aligning closely with the principles of Agile.",
     "level": "Secondary"
   },
@@ -484,14 +364,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-03-14T18:54:00",
-    "ai_confidence": 78.0,
+    "calculated_at": "2025-04-11T09:13:02",
+    "ai_confidence": 67.0,
     "ai_mentions": 3,
-    "ai_alignment": 85.0,
-    "ai_depth": 70.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of quickly transforming user feedback into actionable work items, which directly relates to Lead Time as it emphasises the speed of delivering value to customers. It mentions the timeline for feedback integration and provides strategies to shorten this timeline, aligning well with the core themes of Lead Time. However, while it touches on the concept, it does not delve deeply into specific metrics or case studies related to Lead Time, which slightly lowers the depth score.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of quickly transforming user feedback into actionable work items, which directly relates to the concept of Lead Time. It mentions the timeline for feedback integration and the impact of delays on product value, aligning well with the core themes of Lead Time as an observability metric. However, while it touches on the concept of Lead Time, it does not delve deeply into specific measurement techniques or strategies for optimising Lead Time, which slightly limits the depth of discussion. Overall, the content is primarily focused on the implications of Lead Time in the context of Agile practices, justifying a moderate confidence score.",
     "level": "Secondary"
   },
   "Team Motivation": {
@@ -523,10 +403,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T13:55:51",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the importance of user feedback and its conversion into actionable work items, but it does not specifically address the criteria or practices related to Definition of Ready.",
     "level": "Ignored"
   },
@@ -550,28 +430,28 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-17T13:55:51",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 70,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
+    "final_score": 70.0,
     "reasoning": "The content focuses on the importance of user feedback, which is a key aspect of customer retention strategies, particularly in enhancing customer engagement and addressing user needs. However, it only touches on these themes without fully exploring customer retention methodologies.",
     "level": "Secondary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T13:55:51",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content emphasizes the importance of quickly turning user feedback into actionable work items, which is aligned with the principles of incremental improvements and user feedback integration related to frequent releases. However, the primary focus appears to be on the feedback processes rather than on the release frequency itself.",
     "level": "Tertiary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T13:55:51",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "While the content discusses maximizing product value and user feedback, which can relate to Lean principles, it primarily focuses on the Agile process and does not deeply engage with key Lean concepts such as waste elimination or specific Lean tools.",
     "level": "Tertiary"
   },
@@ -586,15 +466,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-14T18:53:09",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of user feedback in Agile development, emphasising how it can be transformed into actionable work items to enhance product value. It aligns closely with the core themes of working software by highlighting the iterative process of incorporating user insights into development cycles, which is crucial for delivering functional software that meets user needs. The depth of discussion is significant, providing practical advice and real-world examples that illustrate successful integration of feedback into the software development process.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -607,57 +487,48 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-14T18:53:39",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Agile development practices and the importance of user feedback in product development. While it touches on aspects of agility and responsiveness, it does not explicitly discuss organisational change strategies, frameworks, or leadership roles in driving change. The discussion is more about operational efficiency and product management rather than the broader organisational change processes outlined in the category definition.",
     "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T13:55:51",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "Content discusses the importance of user feedback and the iterative process of turning that feedback into actionable work, which aligns with continuous improvement principles, though it primarily focuses on feedback rather than broader continuous learning practices.",
     "level": "Tertiary"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T13:55:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on user feedback and its integration into work items rather than discussions on scaling Scrum frameworks, coordination among teams, or scaling practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-03-14T18:53:17",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of user feedback in Agile development, which aligns with evidence-based practices. However, it primarily focuses on practical implementation rather than explicitly discussing evidence-based leadership principles or frameworks. While it mentions KPIs and the role of the Product Owner, it lacks a deeper exploration of how these practices inform leadership decisions or organisational improvements.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-14T18:53:27",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses Agile methodologies and the importance of user feedback in product development, which aligns with the principles of digital transformation. However, it primarily focuses on Agile practices rather than the broader strategic adoption of digital technologies for business transformation. While it touches on themes of agility and responsiveness, it lacks a comprehensive exploration of digital tools or methodologies that drive organisational change, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -670,55 +541,55 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-14T18:53:22",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of user feedback in Agile development, emphasising the need for quick responses and continuous improvement, which aligns with empirical process control principles. However, it lacks direct references to empirical process control concepts and does not delve deeply into the theoretical foundations or specific practices associated with it.",
     "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-03-14T18:53:35",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of user feedback in Agile development, highlighting how it directly impacts customer satisfaction and product value. It provides actionable strategies for integrating user feedback into the development process, which aligns well with the principles of customer satisfaction. The depth of discussion is significant, with practical examples and techniques for measuring and responding to user needs, reinforcing the holistic approach to customer satisfaction within Agile practices.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T13:55:51",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses user feedback and its conversion into actionable work items, which is related to validating assumptions in Agile. However, it does not focus explicitly on experimentation or hypothesis-driven approaches.",
     "level": "Tertiary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T13:55:51",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "Content discusses the importance of user feedback and responsiveness, which aligns with Agile principles, but it primarily focuses on product management rather than leadership roles within an Agile context.",
     "level": "Tertiary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-03-14T18:53:47",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 38,
     "non_ai_confidence": 10,
-    "final_score": 84.0,
+    "final_score": 92.0,
     "reasoning": "The content extensively discusses the importance of user feedback in Agile development, detailing methods for collecting and integrating feedback into the product backlog. It provides actionable strategies for shortening feedback loops and emphasises the role of the Product Owner in prioritising user insights. The depth of discussion is significant, with practical examples and tips that align closely with the core themes of customer feedback loops.",
     "level": "Primary"
   },
@@ -733,10 +604,10 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T13:55:51",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "Content primarily discusses how to engage with users and turn their feedback into actionable work items, which aligns with the responsibilities of a Product Owner in maximizing product value and managing the backlog.",
     "level": "Secondary"
   },
@@ -751,34 +622,34 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T12:59:48",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly discusses the importance of user feedback in product development, which aligns with the core themes of product management, particularly in relation to Agile methodologies. However, while it touches on gathering and acting on feedback, it lacks depth in exploring broader strategic aspects such as stakeholder alignment or resource allocation.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-17T13:55:51",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses turning user feedback into actionable work items, which is related to refining the backlog, but it focuses more on user feedback processes rather than detailed backlog refinement practices.",
     "level": "Tertiary"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-03-14T18:53:44",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on the importance of user feedback in Agile development, which aligns with Lean principles of continuous improvement and delivering value. However, it lacks direct discussions on Lean methodologies, waste reduction, and specific Lean tools. While it touches on concepts relevant to Lean Product Development, such as prioritising user feedback and rapid iteration, it does not delve deeply into Lean-specific practices or frameworks, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -811,10 +682,10 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T13:55:51",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 70,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
+    "final_score": 70.0,
     "reasoning": "The content focuses on the importance of user feedback and its integration into product development, aligning with customer needs, which is a significant aspect of product strategy. However, it leans more towards the operational aspects of implementing feedback rather than overarching strategic planning.",
     "level": "Secondary"
   },
@@ -838,24 +709,24 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T13:55:51",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "Content discusses the importance of user feedback in agile processes and emphasizes responsiveness, which are key principles of Agile transformation.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-14T18:53:15",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses techniques for optimising the feedback loop in Agile development, which directly relates to operational efficiency. It provides actionable strategies for integrating user feedback into the development process, emphasising the importance of swift action and continuous improvement. The depth of discussion includes specific methods like prioritisation techniques and the role of the Product Owner, aligning well with the core themes of operational practices.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -877,27 +748,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-14T18:53:32",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content extensively discusses the importance of user feedback in Agile development, aligning closely with Agile principles such as continuous value delivery and adaptability. It provides actionable strategies for integrating user feedback into the development process, which is a key aspect of Agile strategy. The depth of discussion is significant, with detailed examples and practical advice, indicating a strong focus on how to implement Agile methodologies effectively. Overall, the content is highly relevant to the Agile Strategy category.",
-    "level": "Secondary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-14T18:53:42",
-    "ai_confidence": 87.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 90.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content extensively discusses the role of software developers in the context of Agile methodologies, particularly focusing on how to effectively integrate user feedback into development processes. It highlights best practices, such as prioritising feedback and engaging with users, which are crucial for developers in Agile environments. The depth of discussion on actionable strategies and real-world examples further solidifies its relevance to the category, making it a strong fit.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -928,10 +787,10 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-17T13:55:51",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses user feedback and product value maximization, without a focus on cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
@@ -946,10 +805,10 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-17T13:55:51",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses maximizing product value and the importance of transforming user feedback into actionable work items, which relates to value creation and customer alignment in an entrepreneurial context. However, the focus is primarily on product management and agility rather than core entrepreneurial principles.",
     "level": "Tertiary"
   },
@@ -982,14 +841,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-14T18:53:23",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-04-10T21:59:49",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
     "final_score": 62.0,
-    "reasoning": "The content discusses the importance of user feedback in Agile development, which indirectly relates to the Ability to Innovate by emphasising continuous improvement and responsiveness to user needs. However, it lacks a direct focus on frameworks or metrics for measuring innovation capabilities, and while it touches on the role of the Product Owner in driving value, it does not delve deeply into Evidence-Based Management principles or specific strategies for fostering a culture of innovation.",
+    "reasoning": "The content primarily focuses on the importance of user feedback in Agile product management, which is related to innovation but does not explicitly discuss the mechanisms or practices that foster and sustain innovation as defined in the category. While it mentions the need for quick responses to user feedback and provides actionable advice, it lacks a deeper exploration of innovation metrics, learning cycles, or strategies for enhancing organisational innovation capacity. Therefore, while there are elements of innovation present, they are not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -1003,13 +862,13 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-14T18:53:19",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses Agile principles and practices, particularly focusing on the importance of user feedback in Agile development. It mentions the role of the Product Owner and references Scrum indirectly through the discussion of Sprints. However, it lacks a comprehensive exploration of specific Agile frameworks or a comparative analysis, which limits its depth in the category.",
     "level": "Secondary"
   },
@@ -1024,13 +883,13 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-14T18:54:05",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of quickly transforming user feedback into actionable work items, which aligns with the concept of throughput in Agile. It highlights the significance of reducing the feedback loop and improving the flow of work, which are key aspects of throughput. However, while it touches on related themes, it does not delve deeply into specific metrics or strategies for measuring throughput, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1061,66 +920,57 @@
     "reasoning": "Content primarily discusses user feedback and product value, rather than employee engagement strategies or theories.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T13:55:51",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on the importance of user feedback in agile practices, emphasizing iterative development and backlog management.",
-    "level": "Secondary"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-03-14T18:53:04",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of user feedback and its integration into Agile processes, which aligns with the principles of hypothesis-driven development. However, it lacks explicit mentions of hypothesis formulation and experimentation, focusing more on feedback loops and Agile practices. While it touches on KPIs and continuous improvement, it does not delve deeply into empirical testing or the validation of hypotheses.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-03-14T18:53:12",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of user feedback in Agile development and how to integrate it into the backlog, which aligns with Agile planning concepts. However, it lacks a direct focus on specific Agile planning tools and methodologies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T17:31:08",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily discusses Agile practices and the importance of user feedback in product management, which are related to Continuous Delivery but do not explicitly focus on its principles or practices. While it touches on rapid feedback and iterative improvements, it lacks a direct emphasis on Continuous Delivery as a disciplined software delivery practice. The discussion is more about Agile methodologies rather than the specific practices of Continuous Delivery.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T13:55:51",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 60,
     "non_ai_confidence": 10,
-    "final_score": 55.0,
+    "final_score": 60.0,
     "reasoning": "The content predominantly discusses the importance of user feedback and how it translates into actionable work, which aligns with the discussions on gathering and analyzing customer feedback as part of product discovery.",
     "level": "Tertiary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T13:55:51",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses user feedback and its integration into work items, without addressing the Definition of Done criteria or its importance in Agile or Scrum.",
     "level": "Ignored"
   },
@@ -1144,24 +994,24 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T13:55:51",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of turning user feedback into actionable work items, aligning with the decision-making process in product management. However, the focus is primarily on user engagement and maximizing product value rather than structured decision-making methodologies.",
     "level": "Tertiary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T18:53:37",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses Agile methodologies, particularly focusing on the importance of user feedback in the development process. It aligns well with key topics in software development, such as Agile frameworks, continuous improvement, and the role of the Product Owner. The depth of discussion is significant, providing actionable advice and real-world examples that illustrate best practices in integrating user feedback into the development lifecycle.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1174,34 +1024,22 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-03-14T18:53:49",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of user feedback in Agile development and how it can be transformed into actionable work items, which aligns with the concept of managing a Product Backlog. It mentions techniques like MoSCoW for prioritisation and highlights the role of the Product Owner in integrating feedback into the backlog. However, while it touches on backlog management, the primary focus is on user feedback and its integration into the development process rather than a comprehensive discussion of the Product Backlog itself.",
     "level": "Secondary"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-14T18:53:57",
-    "ai_confidence": 87.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 90.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 30,
-    "final_score": 81.0,
-    "reasoning": "The content extensively discusses the importance of user feedback in Agile development, particularly within a Scrum context. It highlights the roles of the Product Owner and the Development Team, emphasising the integration of feedback into Sprint Planning and execution. The depth of discussion on actionable strategies for incorporating user feedback aligns well with Scrum principles, showcasing a strong understanding of iterative development and continuous improvement. Overall, the content is highly relevant to Scrum Product Development.",
-    "level": "Primary"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T13:55:51",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses maximizing product value and the importance of turning user feedback into actionable work, which aligns with Lean principles of value creation and continuous improvement. However, it primarily focuses on agile practices and doesn't delve deeply into core Lean concepts like waste reduction or specific Lean tools.",
     "level": "Tertiary"
   },
@@ -1225,10 +1063,10 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T13:55:51",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "Content primarily discusses how to utilize user feedback to inform Agile planning processes, emphasizing the need for quick iterations and adapting work items based on feedback, which aligns with Agile principles.",
     "level": "Secondary"
   },
@@ -1252,15 +1090,15 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-03-14T18:53:02",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of user feedback and agile methodologies, which are relevant to Lean Startup principles. However, it primarily focuses on Agile practices rather than explicitly addressing Lean Startup concepts like MVPs or the Build-Measure-Learn loop. While there are elements of rapid iteration and responsiveness to user needs, the depth of discussion on Lean principles is limited, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1273,22 +1111,22 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-03-14T18:53:55",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of user feedback in Agile development, focusing on how to transform that feedback into actionable work items. It aligns well with key topics of Product Validation, such as customer feedback loops and the role of user testing in improving product value. The depth of discussion is significant, providing practical advice and real-world examples that illustrate the process of validating product ideas through user engagement. Overall, the content is highly relevant to the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T13:55:51",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 70,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
+    "final_score": 70.0,
     "reasoning": "The content emphasizes the importance of user feedback and responsiveness, which align with Agile principles, but it primarily focuses on the practice of incorporating feedback rather than a thorough discussion of Agile values and principles.",
     "level": "Secondary"
   },
@@ -1312,33 +1150,24 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-03-14T18:53:10",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of responding quickly to user feedback and transforming it into actionable work items, which indirectly relates to deployment frequency. However, it does not explicitly focus on deployment intervals or strategies for increasing deployment frequency. The emphasis is more on the feedback loop and agile responsiveness rather than the optimisation of deployment processes, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T13:55:51",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of user feedback in agile processes and maximizing product value, which relates to the strategic alignment of Agile teams, but it is more focused on the operational aspect of utilizing feedback rather than developing strategic approaches.",
     "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T13:55:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses maximizing product value through user feedback and agility, but does not address AI or its applications in Agile or DevOps methodologies.",
-    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1399,15 +1228,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-14T18:53:52",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses practical strategies for integrating user feedback into Agile processes, emphasising the importance of swift action and continuous improvement. It aligns well with the core themes of Pragmatic Thinking by providing real-world examples, actionable advice, and techniques for navigating complexity in project management. The depth of discussion is significant, with detailed insights into the roles of team members and methods for prioritising feedback, making it a strong fit for the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1427,68 +1256,59 @@
     "reasoning": "Content heavily discusses user feedback and agile methodologies rather than focusing on coaching practices or the role of coaching in team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T13:55:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses primarily on turning user feedback into actionable work items for teams, which is more about team-level agile practices rather than scaling agility at an organizational level.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T15:57:45",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses Agile principles and the importance of user feedback in product management, which aligns with Scrum practices. However, it primarily focuses on product management rather than the specific role and responsibilities of a Scrum Master. While there are mentions of integrating feedback into Sprints and the role of the Product Owner, the content lacks a direct focus on the Scrum Master’s influence, techniques, or responsibilities, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-03-14T18:54:02",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of quickly turning user feedback into actionable work, which indirectly relates to Cycle Time by emphasising the need for a swift feedback loop. However, it does not explicitly define or measure Cycle Time, nor does it delve deeply into strategies specifically aimed at reducing it. The focus is more on user feedback and Agile practices rather than on Cycle Time as a standalone metric.",
     "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-17T13:55:51",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on user feedback and agile processes rather than Value Stream Mapping techniques or principles.",
     "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T13:55:51",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses turning user feedback into actionable work, which relates to the concept of delivering increments that increase product value. However, the primary focus is on user feedback rather than the specific mechanics of the Increment itself.",
     "level": "Tertiary"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
-    "calculated_at": "2025-03-14T18:53:25",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of user feedback in Agile development, which is relevant to MVP principles. However, it does not explicitly define MVP or focus on its core aspects, such as identifying core features or validating market assumptions. The discussion is more about the feedback loop and Agile practices rather than the MVP concept itself.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -1501,13 +1321,13 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-14T18:53:06",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of user feedback in Agile development, which indirectly relates to team collaboration by highlighting the need for effective communication and prioritisation within teams. However, it primarily focuses on individual actions and processes rather than explicit team dynamics or collaboration techniques. While it mentions roles like the Product Owner and suggests engaging stakeholders, it lacks a deeper exploration of team collaboration strategies or shared ownership principles.",
     "level": "Secondary"
   },
@@ -1540,63 +1360,63 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:46:34",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 65.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 58.0,
+    "final_score": 65.0,
     "reasoning": "The content discusses the importance of user feedback and its integration into work items, which aligns with Agile principles and the iterative nature of Scrum. However, it lacks explicit mentions of Scrum roles, events, or artifacts, and does not delve deeply into Scrum practices, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:45:09",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of user feedback in Agile development, focusing on how to quickly integrate that feedback into actionable work. While it touches on aspects of early integration and responsiveness, it does not explicitly mention the Shift-Left Strategy or its principles. The discussion is primarily centred on user feedback rather than the broader context of testing, security, or compliance integration early in the development lifecycle, which are key components of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:30:53",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of user feedback in Agile development, emphasising the need for rapid response and continuous improvement. It aligns well with the principles of Continuous Improvement by highlighting techniques for shortening feedback loops, integrating user insights into product development, and fostering a culture of responsiveness. The depth of discussion is significant, providing actionable advice and real-world examples that illustrate the impact of these practices on product value and team effectiveness.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:30:55",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of user feedback in Agile development, which indirectly relates to Common Goals by emphasising the need for alignment between user needs and product development. However, it primarily focuses on feedback loops and actionable work rather than explicitly addressing shared objectives or strategic alignment within teams. The discussion lacks depth in connecting these concepts to the broader framework of Common Goals.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:31:00",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 62.0,
     "ai_mentions": 3,
     "ai_alignment": 75.0,
     "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of user feedback in Agile development, which indirectly relates to competence through the lens of continuous improvement and skill development. However, while it touches on aspects of competence, such as the role of the Product Owner and the need for swift action, it primarily focuses on feedback processes rather than a deep exploration of competence as a foundational principle. The discussion lacks a thorough examination of strategies for fostering a culture of competence or the distinction between performative activity and genuine progress.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
@@ -1612,14 +1432,170 @@
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T15:57:38",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the importance of responding to user feedback in Agile development, which aligns with the concept of agility but does not explicitly discuss Agentic Agility or its principles. While it touches on themes of responsiveness and continuous improvement, it lacks a clear distinction between human and AI capabilities, and does not delve into the intentional shaping of outcomes or the mechanisms of AI Agentic Agility. Therefore, while there are relevant elements, the overall focus is more on general Agile practices rather than the specific category of Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T21:59:08",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 36,
+    "non_ai_confidence": 20,
+    "final_score": 92.0,
+    "reasoning": "The content extensively discusses the importance of user feedback in Agile product development, emphasising the need for quick responses to user insights and the integration of feedback into the product backlog. It aligns closely with key topics such as customer feedback loops, continuous improvement practices, and the role of cross-functional teams, particularly the Product Owner. The depth of discussion is significant, providing actionable advice and real-world examples that illustrate the principles of Agile product development. Overall, the content is highly relevant and focused on methodologies that enhance product value through iterative learning and customer engagement.",
+    "level": "Primary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T21:59:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile product management and the importance of user feedback in that context. While it discusses aspects of team collaboration and responsiveness, it does not explicitly mention Liberating Structures or delve into specific techniques associated with them. The discussion is more aligned with general Agile principles rather than the facilitation techniques that Liberating Structures encompass. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T21:59:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on Agile product management and the importance of user feedback in that context. While it discusses aspects of project management, such as prioritisation and stakeholder engagement, it does not cover broader project management principles or methodologies comprehensively. The discussion is heavily centred on Agile practices, which may limit its alignment with the wider project management category. However, it does touch on relevant themes like continuous improvement and the role of the Product Owner, contributing to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T21:59:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile product management and the importance of user feedback in enhancing product value. While it discusses Agile principles, it does not explicitly mention Open Space Agile or its core themes such as psychological safety, co-creation, or emergence. The discussion is more aligned with traditional Agile practices rather than the specific collaborative change processes associated with Open Space Agile.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T21:59:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the importance of user feedback in Agile product management, discussing how to turn feedback into actionable work items. While it touches on the concept of value delivery, it does not explicitly discuss Unrealised Value or its indicators, strategies, or frameworks. The discussion is more about operational efficiency and responsiveness rather than exploring untapped opportunities or potential improvements in the context of Evidence-Based Management. Therefore, while there is some alignment with the themes of value, it lacks depth and direct mentions of Unrealised Value.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T21:59:23",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 87.0,
+    "reasoning": "The content focuses heavily on the importance of quickly transforming user feedback into actionable work items, which directly relates to the concept of Time to Market. It discusses the need for short feedback loops and the impact of rapid response on product value and customer satisfaction. The depth of discussion includes specific strategies for improving the feedback process, such as prioritisation techniques and the role of the Product Owner, which aligns well with the core themes of Time to Market. Overall, the content is primarily centred on optimising processes to enhance delivery speed, justifying a high confidence score.",
+    "level": "Primary"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T21:59:27",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of user feedback in Agile development, which directly relates to the concept of Current Value. It highlights how quickly transforming user feedback into actionable work items can enhance product value and customer satisfaction, aligning well with the core themes of Current Value. The depth of discussion is substantial, providing practical techniques for gathering and analysing feedback, as well as real-world examples demonstrating the impact of swift action on user needs. However, while the content is focused on improving product value through feedback, it does not explicitly mention metrics or indicators typically associated with Current Value, which slightly lowers the confidence score.",
+    "level": "Secondary"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T21:59:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Agile product management and the importance of user feedback in enhancing product value. While it touches on concepts of responsiveness and continuous improvement, it does not explicitly discuss the organisation as a product or the broader implications of CaaP. The discussion is more centred on product management practices rather than organisational strategy, which limits its alignment with the CaaP category. Therefore, while there are relevant themes, the content does not sufficiently meet the criteria for a strong confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T21:59:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the importance of user feedback in Agile product management, which is more aligned with general Agile practices rather than the specific complexities of scaling Agile across multiple teams. While it touches on aspects of collaboration and prioritisation, it lacks a direct discussion on frameworks for scaling, cross-team communication, or managing dependencies, which are critical to the Scaling category. The depth of discussion is limited to individual team practices rather than enterprise-level scaling strategies.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T21:59:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile product management and the importance of user feedback, without any explicit mention or critical examination of Hybrid Agile methodologies. While it discusses Agile principles, it does not address the challenges or implications of merging traditional project management with Agile practices, which is essential for the Hybrid Agile category. The discussion lacks depth regarding the core themes of Hybrid Agile, such as command-and-control structures or accountability issues.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T21:59:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the mechanics of Agile product management and the importance of user feedback, which aligns with Agile principles but does not explicitly discuss Agnostic Agile or its distinct philosophy. While it touches on concepts like responsiveness and continuous improvement, it lacks a direct mention of Agnostic Agile principles or comparisons with traditional frameworks. The depth of discussion is more about practical advice rather than a critical examination of Agnostic Agile as a movement.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T21:59:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile product management and the importance of user feedback in that context. While it touches on concepts relevant to Agile methodologies, it does not mention GitHub or its functionalities, nor does it provide insights into GitHub services, tools, or best practices. Therefore, it does not align with the GitHub category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T21:59:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile product management and the importance of user feedback in enhancing product value. It does not directly mention or discuss the principles of Cell Structure Design, nor does it explore the characteristics of autonomous cells or the decentralised structures outlined in the category definition. While there are themes of responsiveness and continuous improvement, these are framed within the context of Agile practices rather than the specific organisational design model of Cell Structure Design.",
     "level": "Ignored"
   }
 }

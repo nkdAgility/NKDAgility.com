@@ -30,8 +30,8 @@ aliasesArchive:
 - /blog/windows-8-1-preview-issue---the-update-is-not-applicable-to-your-computer
 - /resources/blog/windows-8-1-preview-issue-the-update-is-not-applicable-to-your-computer
 tags:
-- Windows
 - Troubleshooting
+- Windows
 - Install and Configuration
 - System Configuration
 categories: []

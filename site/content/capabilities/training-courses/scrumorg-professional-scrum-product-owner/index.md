@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: course
 ResourceContentOrigin: human
 shortTitle: Professional Scrum Product Owner
-weight: 770
+weight: 750
 date: 2019-11-07
 creator: Martin Hinshelwood
 type: course
@@ -41,18 +41,26 @@ delivery-audiences:
 - Entrepreneurs
 tags:
 - Product Owner
-- Agile Project Management
-- Agile Product Management
-- Empirical Process Control
-- People and Process
-- Practical Techniques and Tooling
-- Scrum Product Development
+- Agile Frameworks
 - Agile Planning
+- Agile Product Management
 - Agile Strategy
+- Agile Transformation
 - Business Agility
+- Continuous Learning
+- Empirical Process Control
+- Market Adaptability
+- Organisational Agility
+- Pragmatic Thinking
+- Product Backlog
+- Product Delivery
+- Professional Scrum
+- Scrum Team
+- Software Development
+- Value Delivery
 categories:
-- Scrum
 - Product Management
+- Scrum
 preview: naked-agility-Professional-Scrum-PSPO-I-1600x900-1.jpg
 card:
   title: Professional Scrum Product Owner

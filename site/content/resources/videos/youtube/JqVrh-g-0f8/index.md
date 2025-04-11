@@ -29,14 +29,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Backlog
 - Software Development
-- Agile Product Management
+- Product Backlog
 - Product Owner
-- Scrum Product Development
+- Agile Product Management
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 ## The Order of Product Backlogs

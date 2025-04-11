@@ -28,37 +28,37 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T20:40:01",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on training and workshops related to agility and Scrum, which are methodologies rather than core DevOps principles. While there are mentions of collaboration and feedback, these are not explored in the context of DevOps. The discussion lacks depth on key DevOps topics such as automation, shared accountability, or continuous improvement, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:18:43",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses training and workshops that enhance collaboration and knowledge retention, which aligns with the principles of social technologies. However, the primary focus is on the logistics of training delivery rather than a deep exploration of social frameworks or methodologies. While there are mentions of techniques that promote engagement and collaboration, the depth of discussion on social technologies is limited, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-03-15T02:22:04",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses live-virtual delivery and the benefits of engaging with customers remotely, which hints at asynchronous practices. However, it primarily focuses on live interactions rather than the core principles of asynchronous development. The mention of time zones and optimising time suggests some alignment, but the depth of discussion on asynchronous methodologies is limited.",
     "level": "Ignored"
   },
@@ -73,57 +73,36 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T13:07:17",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses training schedules, workshop offerings, and personal reflections on virtual training effectiveness, rather than focusing on metrics, data analysis, or evidence-based decision-making.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-15T02:22:02",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Scrum in the context of workshops and training sessions, but it primarily focuses on the delivery methods and personal experiences of the author rather than an in-depth exploration of Scrum principles, roles, or practices. While there are references to Scrum workshops, the overall discussion lacks substantial detail on the core themes of the Professional Scrum category.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-15T02:22:02",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content mentions Agile frameworks and includes references to specific workshops on Scrum and Kanban, indicating a focus on Agile principles. However, the primary discussion revolves around training delivery methods and personal experiences rather than a deep exploration of Agile frameworks themselves. While there is some alignment with Agile concepts, the depth of discussion on the frameworks is limited, leading to a moderate confidence score.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T13:07:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on training delivery methods and does not address Scrum product development practices or principles.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-15T02:22:08",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 32.0,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content discusses live virtual workshops and training sessions, which aligns with the category of Events and Presentations. It explicitly mentions free workshops and provides links to specific sessions, indicating a focus on structured learning experiences. However, while the content is rich in detail about the workshops, it lacks broader discussions on events or presentations beyond the specific training sessions, which slightly limits its overall alignment with the category.",
-    "level": "Secondary"
+    "level": "Tertiary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -181,13 +160,13 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-03-13T16:57:22",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses live-virtual delivery of training and the benefits of remote engagement, which aligns with remote working practices. However, it lacks a strong focus on Agile methodologies and does not delve deeply into specific Agile practices or challenges related to remote work. The mention of virtual classrooms and workshops indicates some relevance, but the overall discussion is more about training delivery than remote working strategies within Agile frameworks.",
     "level": "Secondary"
   },
@@ -202,19 +181,19 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T13:07:17",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses virtual training schedules and offerings, not the Definition of Done.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-18T13:07:17",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on training techniques and scheduling rather than on evidence-based decision-making or leadership practices.",
     "level": "Ignored"
   },
@@ -268,10 +247,10 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-18T13:07:17",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on training schedules and methods rather than on customer feedback integration into product development processes.",
     "level": "Ignored"
   },
@@ -295,15 +274,15 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-03-15T02:22:10",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses techniques for engaging customers through live virtual classes and workshops, which aligns with customer retention strategies. However, it lacks a direct focus on measuring customer satisfaction or implementing feedback mechanisms, which are crucial for the category. The depth of discussion on customer retention is moderate, primarily highlighting the shift to virtual engagement rather than comprehensive retention strategies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -316,61 +295,61 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T14:47:57",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses training workshops related to Agile methodologies, specifically Scrum and Kanban, which are relevant to software development practices. However, the primary focus is on training delivery and personal experiences rather than in-depth software engineering methodologies or practices. While there are mentions of Agile frameworks, the overall discussion lacks depth in software development concepts and does not provide substantial detail on coding practices, CI/CD, or software architecture.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-07T14:20:18",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses various coaching techniques and the impact of virtual training on participant engagement, which aligns with the coaching category. However, it primarily focuses on training schedules and logistics rather than in-depth coaching practices or methodologies. The mention of coaching sessions and the advocate's program indicates a connection to coaching, but the overall emphasis is more on training delivery than on the coaching process itself.",
     "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-15T02:22:02",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses training and workshops related to Agile methodologies, including Scrum and Kanban, which are relevant to Agile Planning. However, it primarily focuses on the delivery of training rather than the planning aspects themselves. While there are mentions of adapting to feedback and optimising delivery, the core principles of Agile Planning are not deeply explored, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-15T02:22:02",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses various training workshops related to Agile methodologies, such as Scrum and Kanban, which indicates a connection to Agile principles. However, it primarily focuses on the delivery methods and personal experiences rather than a strategic alignment of Agile practices within an organisational context. The mention of adapting to feedback and customer engagement hints at Agile values but lacks a comprehensive discussion on strategic implementation or long-term success, which are central to the Agile Strategy category.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-15T02:22:02",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses training techniques and workshops that may indirectly relate to team performance, particularly through the lens of Agile and Scrum. However, it primarily focuses on the delivery of training rather than specific strategies or methodologies aimed at enhancing team dynamics or collaboration. While there are mentions of workshops that could foster team building, the overall emphasis is on personal training experiences and logistics rather than a deep exploration of team performance metrics or practices.",
     "level": "Ignored"
   },
@@ -403,19 +382,19 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T13:07:17",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses training delivery methods and workshop schedules, focusing on Agile and Scrum without a clear emphasis on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-18T13:07:18",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly focuses on training schedules and delivery methods, lacking a clear emphasis on change management themes.",
     "level": "Ignored"
   },
@@ -430,34 +409,34 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-03-15T02:22:44",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 55.0,
     "ai_mentions": 30.0,
     "ai_alignment": 40.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 50.0,
+    "final_score": 55.0,
     "reasoning": "The content discusses the author's experiences with live virtual classrooms and how they have adapted their training methods based on feedback, which aligns with the concept of experimentation. However, while there are mentions of experimenting with new ideas and optimising training delivery, the focus is more on personal experiences and training logistics rather than a systematic approach to hypothesis-driven experimentation within Agile workflows. The depth of discussion on experimentation techniques is moderate, but it lacks a structured analysis of results or a clear connection to Agile methodologies.",
     "level": "Tertiary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-15T02:23:07",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses various training techniques and the transition to live virtual classrooms, which suggests a focus on improving delivery methods and engaging with learners. However, while it touches on aspects of continuous learning, such as optimising training and experimenting with new ideas, it lacks a strong emphasis on the principles of a growth mindset, knowledge sharing, or feedback loops that are central to the Continuous Learning category. The discussion is more about personal experiences and training logistics rather than a deep exploration of continuous learning practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-03-15T02:22:02",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
-    "final_score": 18.0,
+    "final_score": 20.0,
     "reasoning": "While the content discusses training and coaching, it primarily focuses on delivery formats and personal training approaches rather than explicit organizational dynamics or systems thinking principles.",
     "level": "Ignored"
   },
@@ -488,15 +467,6 @@
     "reasoning": "Content primarily discusses training methods and workshops on agility and Scrum, which deviates from software craftsmanship principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T13:07:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on training methodologies and virtual workshops, with very little direct relevance to the role of software developers in Agile and DevOps contexts.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T13:07:18",
@@ -504,15 +474,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses techniques and experiences related to training delivery and virtual workshops rather than Lean Product Development principles.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T13:07:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses training techniques and scheduling rather than any aspects of code quality or complexity in software development.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -544,43 +505,43 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T17:17:42",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions Scrum in the context of workshops and training but does not focus on the role or responsibilities of a Scrum Master. While it discusses agile principles and training techniques, it lacks depth in exploring the Scrum Master's specific impact on team dynamics or organisational change. The primary focus is on training delivery rather than the Scrum Master's role.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T13:07:18",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses training techniques, virtual classroom formats, and specific workshops rather than large scale Agile principles or frameworks.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-15T02:22:24",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses various training methodologies and the shift to live virtual classrooms, which indirectly relates to value delivery by enhancing customer engagement and satisfaction. However, it lacks a direct focus on value delivery principles, such as iterative development or customer feedback mechanisms, and does not provide in-depth analysis or strategies specifically aimed at maximising customer value.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-15T02:22:02",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "While the content includes references to training on agile methodologies and techniques, the primary focus revolves around the organization of training sessions and personal experiences rather than direct discussions on technical leadership principles or practices.",
     "level": "Ignored"
   },
@@ -622,23 +583,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-15T02:22:18",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses training techniques and virtual delivery methods, which are related to organisational change in terms of adapting to new environments. However, it lacks a direct focus on the principles of organisational change, such as frameworks or methodologies like ADKAR or Kotter's 8-Step Process. While it mentions agility and the shift in training delivery, it does not delve deeply into the strategies or leadership roles necessary for effective organisational change.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T13:07:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses training schedules and techniques rather than scaled Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -649,18 +601,6 @@
     "final_score": 0.0,
     "reasoning": "Content discusses training, workshops, and virtual delivery methods, but does not primarily focus on Lean Thinking principles or practices.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T02:23:14",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses training methodologies and the shift to live virtual classrooms, which touches on human behaviour and collaboration in training contexts. However, while it mentions concepts like engagement and knowledge retention, it lacks a deeper exploration of team dynamics or structured methodologies in technology and product development. The focus is more on personal experiences and training logistics rather than a comprehensive analysis of people and processes.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -673,13 +613,13 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-15T02:22:39",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses training techniques and the shift to live virtual classrooms, which hints at adaptability and innovation in training delivery. However, it primarily focuses on specific training methods and schedules rather than the broader principles of business agility. While there are mentions of agility and workshops related to agile methodologies, the overall emphasis is on training logistics rather than a comprehensive exploration of business agility principles or practices.",
     "level": "Ignored"
   },
@@ -712,23 +652,23 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T13:07:18",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses training methodologies and offerings, with no focus on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-18T13:07:18",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on training techniques, the transition to virtual classrooms, and scheduling of workshops, with no significant discussion on Lead Time or its relevant metrics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T13:07:18",
     "ai_confidence": 0,
@@ -739,23 +679,14 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-15T02:23:20",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on training schedules and techniques for delivering virtual classes, with only brief mentions of Agile concepts. While it discusses engaging with customers and adapting to new delivery methods, it lacks a strong emphasis on leadership roles or practices within an Agile context. The discussion does not delve deeply into the core themes of Agile Leadership, such as empowering teams or fostering a culture of trust and collaboration.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T13:07:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses training schedules and virtual workshops without any mention or relevance to AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -769,13 +700,13 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-15T02:23:11",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Agile and Scrum, particularly in the context of workshops, but does not delve deeply into empirical process control principles. While there are references to adapting training based on feedback, the overall focus is more on training delivery methods rather than the core themes of empirical process control.",
     "level": "Ignored"
   },
@@ -790,52 +721,43 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-15T02:22:35",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses training techniques and the effectiveness of live virtual classrooms, which indirectly relates to team collaboration by enhancing communication and engagement. However, it primarily focuses on individual training experiences and does not delve deeply into team dynamics or shared ownership principles within Agile or DevOps frameworks. The mention of workshops and training sessions suggests a collaborative effort, but the overall emphasis is more on personal delivery methods rather than collective team performance.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-15T02:23:04",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the adaptation of training methods to virtual environments, which reflects some aspects of market adaptability. However, it lacks a strong focus on Agile, DevOps, or Lean methodologies, and does not provide in-depth strategies or principles related to market responsiveness. The mention of feedback loops and continuous improvement is present but not elaborated upon, leading to a lower confidence score.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T13:07:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses training techniques and scheduling for workshops, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T13:07:18",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses training methodologies and virtual classroom delivery, with no clear focus on working software or software development processes.",
     "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T13:07:18",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses training techniques and workshops, with no clear focus on Daily Scrum or its associated practices.",
     "level": "Ignored"
   },
@@ -850,10 +772,10 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T13:07:18",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly focuses on training delivery methods and schedules, with little connection to organizational agility or enterprise-level practices.",
     "level": "Ignored"
   },
@@ -865,18 +787,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses training schedules and methods, with no clear focus on the Product Backlog or related practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-15T02:23:18",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses various agile methodologies, including Scrum and Kanban, and mentions workshops focused on agility and team building. However, it primarily centres on training delivery methods and personal experiences rather than deeply exploring agile principles or project management techniques. While there are relevant mentions, the overall focus is more on training logistics than on agile project management itself.",
-    "level": "Tertiary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -896,27 +806,6 @@
     "reasoning": "Content primarily discusses training techniques and schedules without addressing any troubleshooting issues, diagnostic methods, or problem-solving strategies.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T13:07:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on the organization of training schedules and workshops, with no clear analysis or reviews of books, tools, or software related to Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T02:22:56",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content primarily focuses on personal experiences and techniques in training rather than providing industry news or reviews. While it mentions workshops and training schedules, it lacks a broader discussion on Agile or DevOps trends, tools, or literature. The references to workshops could be seen as a form of review, but they are not detailed enough to align strongly with the category's requirements.",
-    "level": "Ignored"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
     "calculated_at": "2025-02-18T13:07:18",
@@ -928,52 +817,43 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-15T02:22:52",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 62.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 61.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on the author's personal experiences and reflections regarding the transition to live virtual classrooms and the impact on their training business. It discusses the benefits of virtual delivery, personal engagement with customers, and adaptations made during the pandemic, which aligns with the Personal category's emphasis on individual insights and experiences. However, while there are personal anecdotes, the content also includes technical details about training schedules and workshop offerings, which detracts from the personal focus. Thus, the confidence score reflects a moderate alignment with the Personal category.",
     "level": "Secondary"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T13:07:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses training techniques and schedules, with a focus on live-virtual classrooms and coaching programs rather than scaling Scrum principles or frameworks.",
-    "level": "Ignored"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-18T13:07:18",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on training formats, virtual classrooms, and course offerings rather than on cross-functional teams in Agile methodologies.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T13:07:18",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses training schedules and personal experiences with training methodologies, with no direct discussion of Scrum Values.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-15T02:22:15",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Agile concepts and workshops related to Scrum and Kanban, which are relevant to Agile Product Management. However, it primarily focuses on training delivery methods and personal experiences rather than in-depth discussions on Agile product management practices, roles, or strategies. The depth of discussion on Agile principles is limited, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -988,13 +868,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:17:39",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on training workshops related to agility and Scrum, with no explicit discussion of Test First Development principles or practices. While it mentions concepts like knowledge retention and collaboration, these are not directly tied to the Test First Development category. The content lacks depth and detail on any relevant topics, resulting in a very low confidence score.",
     "level": "Ignored"
   },
@@ -1009,10 +889,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T13:07:18",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on various training techniques and virtual classroom delivery, with minimal reference to Scrum Team dynamics or specific roles. It mainly discusses training schedules and related programs without in-depth discussion on Scrum principles or team collaboration.",
     "level": "Ignored"
   },
@@ -1054,72 +934,63 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-03-15T02:22:37",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on training schedules and workshop offerings rather than mentoring. While it mentions coaching sessions and the importance of engaging with participants, it lacks a direct discussion on mentoring techniques, the role of a mentor, or strategies for developing leadership skills. The alignment with the core themes of mentoring is minimal, and the depth of discussion on mentoring is superficial, primarily touching on coaching without delving into the mentoring process itself.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-15T02:23:02",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Agile concepts and workshops, but primarily focuses on training delivery methods and personal experiences rather than discussing the foundational principles of Agile Philosophy. While there are references to Agile and Scrum, they are not the main focus, and the content lacks a deep exploration of Agile values or principles.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T02:22:31",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses training methodologies and the delivery of virtual classes, which aligns with the broader theme of product delivery in terms of optimising customer engagement and experience. However, it lacks a direct focus on the end-to-end process of delivering software products, as it primarily centres on training rather than software development practices. While there are mentions of Agile and Scrum, they are not explored in depth regarding their application to product delivery, leading to a moderate confidence score.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T13:07:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on training and delivery methods for agile workshops and does not discuss scaling agile practices at an organisational level.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-15T02:22:13",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses various training methodologies and the shift to live-virtual classrooms, which suggests an adaptation to changing circumstances. However, while it touches on concepts related to agility, such as customer engagement and feedback, it lacks a focused discussion on organisational agility principles, leadership roles, or structural alignment. The mention of workshops on agility and Scrum indicates some relevance, but the overall depth and primary focus are more on training delivery rather than organisational agility itself.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-15T02:22:54",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses various training workshops related to Agile methodologies, including Scrum and Kanban, which aligns with the principles of Agile transformation. However, the primary focus is on training delivery methods and personal experiences rather than a comprehensive discussion on Agile transformation strategies or frameworks. While Agile concepts are mentioned, they are not the central theme, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1130,33 +1001,12 @@
     "reasoning": "Content does not discuss portfolio management; it focuses on training techniques and workshop schedules.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-03-15T02:22:59",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 20,
-    "final_score": 40.0,
-    "reasoning": "The content discusses the adaptation of training methods in response to the shift towards virtual classrooms, which aligns with the theme of change. However, it lacks a direct focus on organisational resilience or comprehensive change management strategies. While it mentions optimising time and engaging with customers, it does not delve deeply into frameworks or methodologies that enhance organisational resilience. The discussion is more centred on personal experiences and training logistics rather than broader organisational strategies.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T13:07:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses training schedules and methods without directly addressing transparency or accountability in Agile teams.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T13:07:18",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on training delivery methods, workshops, and coaching, without direct relevance to Agile Planning Tools or their methodologies.",
     "level": "Ignored"
   },
@@ -1168,18 +1018,6 @@
     "final_score": 0.0,
     "reasoning": "Content mainly discusses training techniques and schedules rather than frequent software releases or related principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T02:22:29",
-    "ai_confidence": 68.0,
-    "ai_mentions": 60.0,
-    "ai_alignment": 70.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 20,
-    "final_score": 63.0,
-    "reasoning": "The content discusses various training techniques and methodologies, such as Liberating Structures and Training from the Back of the Room, which align with practical techniques in Agile and DevOps. It also mentions specific workshops on Agile and Scrum, indicating a focus on practical application. However, while it provides insights into the delivery of training and engagement strategies, it lacks detailed exploration of specific tools or frameworks that enhance Agile practices, which slightly lowers the confidence score.",
-    "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -1228,27 +1066,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T20:40:16",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on training and workshops related to agility and Scrum, which are tangentially related to the Agile Product Operating Model. However, it lacks a direct discussion of the APOM framework, its principles, or its application in product management. While there are mentions of agile practices, they do not delve into the product-oriented mindset or the integration of product management principles that are central to the APOM. The depth of discussion is limited to training formats and personal experiences rather than a comprehensive exploration of the Agile Product Operating Model.",
     "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-15T02:22:27",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses various training methodologies and the effectiveness of live virtual classrooms, which aligns with the themes of continuous learning and experimentation. However, while it mentions the importance of adapting based on feedback and experiences, the primary focus is on scheduling and promoting training sessions rather than a deep exploration of discovery and learning processes. The discussion lacks extensive detail on fostering innovation or capturing knowledge across teams, which limits its depth in the category.",
-    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1277,33 +1103,24 @@
     "reasoning": "Content is primarily about training schedules and virtual class delivery, with no discussions related to automated testing principles, practices, or methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T13:07:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses training schedules, virtual classrooms, and workshops related to agility and Scrum, without a clear focus on scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T02:22:41",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses practical techniques for delivering training in a virtual environment, which aligns with pragmatic thinking in terms of adapting to new circumstances and optimising processes. It mentions Agile and Scrum workshops, indicating a focus on real-world applications. However, the discussion lacks depth in terms of specific problem-solving strategies or case studies, which limits its alignment with the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-18T13:07:18",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on training methodologies and schedules, with no clear discussion of Cycle Time or its measurement.",
     "level": "Ignored"
   },
@@ -1327,10 +1144,10 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-18T13:07:18",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses training techniques and workshop offerings without focusing on working agreements, norms, or team collaboration.",
     "level": "Ignored"
   },
@@ -1363,31 +1180,31 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-15T02:23:09",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Agile concepts and workshops, but it primarily focuses on training delivery methods and scheduling rather than a deep exploration of Agile values and principles. While there are references to customer engagement and adapting to feedback, the discussion lacks a thorough examination of the Agile Manifesto or its core principles.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-18T13:07:18",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about training techniques and schedules, without any focus on Value Stream Mapping or related Lean principles.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T13:07:18",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on training techniques and virtual delivery rather than the interaction between social and technical systems in organizations.",
     "level": "Ignored"
   },
@@ -1423,10 +1240,10 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-18T13:07:18",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on training schedules, workshop facilitation, and the use of various coaching techniques without a central emphasis on Systems Thinking principles or holistic analysis of organizational dynamics.",
     "level": "Ignored"
   },
@@ -1462,10 +1279,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T13:07:18",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on training schedules and workshop announcements rather than installation and configuration topics.",
     "level": "Ignored"
   },
@@ -1480,15 +1297,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T02:23:16",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses various training techniques and the shift to live virtual classrooms, which indirectly relates to operational practices by highlighting optimised delivery methods and engagement strategies. However, it lacks a focused discussion on specific operational efficiency techniques or metrics, making it more of a general overview rather than a deep dive into operational practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1510,61 +1327,61 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:29:37",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 55.0,
     "ai_mentions": 30.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 54.0,
+    "final_score": 55.0,
     "reasoning": "The content includes a mention of 'Introduction to Scrum' in the context of workshops, indicating a direct reference to Scrum principles. However, the primary focus is on training delivery methods and personal experiences rather than a detailed exploration of Scrum roles, events, or artifacts. While there is some alignment with Scrum concepts, such as iterative learning and adaptation, the depth of discussion on Scrum itself is limited, making it a secondary rather than primary focus.",
     "level": "Tertiary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:10:09",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on training schedules and methodologies for virtual classrooms, with no direct mention of the Shift-Left Strategy or its principles. While there is a brief mention of optimising time and improving engagement, these concepts do not align with the core themes of integrating testing, security, or compliance earlier in the software development lifecycle. The discussion lacks depth regarding Shift-Left practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T20:40:04",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the evolution of training methods and the effectiveness of live-virtual workshops, which aligns with the principles of Continuous Improvement. However, it primarily focuses on personal experiences and specific training offerings rather than a broader discussion on Continuous Improvement strategies or frameworks. The mention of adapting based on feedback indicates some alignment with the category, but the depth of discussion is limited, focusing more on personal anecdotes than on systematic improvement processes.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T20:40:07",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on training schedules and personal experiences with virtual workshops, lacking a direct discussion on Common Goals. While it mentions agility and Scrum, it does not delve into how these relate to shared objectives or strategic alignment within teams. The depth of discussion on the category is minimal, as it does not explore the significance of Common Goals in Agile or DevOps frameworks.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T20:40:09",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses training and workshops aimed at enhancing skills and knowledge retention, which aligns with the concept of competence. However, while it mentions techniques and methods for improving training delivery, it lacks a deeper exploration of continuous learning and the professional development aspect of competence. The focus is more on the logistics of training rather than a thorough examination of competence as a principle in Agile and DevOps.",
     "level": "Secondary"
   },
@@ -1582,13 +1399,13 @@
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T17:17:37",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 24.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on training and workshops related to agility and Scrum, with limited direct mention of Agentic Agility. While there are elements of adaptability and engagement with customers, the discussion lacks depth in exploring the intentional shaping of outcomes or the distinction between human and AI capabilities. Overall, it does not sufficiently align with the core themes of Agentic Agility.",
     "level": "Ignored"
   }

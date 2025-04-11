@@ -10,13 +10,13 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-14T18:32:51",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content touches on the importance of understanding user needs and the potential lack of data evidence, which aligns with the concept of evidence-based decision-making. However, it lacks explicit discussions on metrics, performance data analysis, or feedback loops, which are crucial for a stronger alignment with the category. The depth of discussion is limited, focusing more on user understanding and collaboration rather than on metrics or continuous improvement methodologies.",
     "level": "Ignored"
   },
@@ -31,15 +31,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-06T14:50:02",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content touches on user understanding and stakeholder collaboration, which are relevant to Agile Product Management. However, it lacks explicit discussion of Agile methodologies, roles, or practices, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -59,66 +59,48 @@
     "reasoning": "Content primarily discusses user understanding and collaboration issues in software development, with no clear focus on Kanban principles or practices.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T12:27:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses user understanding and stakeholder collaboration, which are not directly related to software code quality or complexity.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T11:16:45",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses user understanding and collaboration in software development, which are relevant to DevOps principles like collaboration and data-driven decision-making. However, it lacks direct mentions of DevOps practices or principles, and the focus is primarily on user insights rather than the integration of development and operations.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T12:27:41",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses user understanding and collaboration in software development, which is not related to installation or configuration processes.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-14T18:32:51",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content touches on the importance of understanding user needs and the potential pitfalls of reactionary development, which aligns with the concept of adapting to market demands. However, it lacks explicit discussions on Agile methodologies, DevOps practices, or Lean principles, which are crucial for a higher confidence score in the Market Adaptability category. The depth of discussion is moderate, raising valid questions but not providing concrete strategies or methodologies for enhancing market adaptability.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T12:27:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses user understanding and development practices without focusing on Agile, DevOps, or industry news and reviews.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T11:16:48",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses user understanding and collaboration, which are relevant to the Agile Product Operating Model. However, it primarily focuses on user feedback and strategic planning rather than the core principles of APOM. The discussion lacks explicit references to agile methodologies or product management practices, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -131,38 +113,17 @@
     "reasoning": "Content primarily discusses user understanding and collaboration in software development, without a clear focus on decision-making processes or the principles of decision theory.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-10T11:42:06",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the importance of understanding user needs and the potential pitfalls of reactionary development, which touches on team dynamics and stakeholder collaboration. However, it lacks explicit references to structured methodologies like Agile or Scrum, and while it hints at collaboration, it does not delve deeply into the processes or human factors involved. Therefore, while it aligns conceptually with the category, the depth and direct mentions are limited.",
-    "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T12:27:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses user understanding and development practices rather than organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-14T18:32:51",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of understanding user needs and the potential pitfalls of reactionary development, which aligns with the core themes of value delivery. However, it lacks explicit mentions of Agile methodologies or structured strategies for delivering value, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -218,15 +179,6 @@
     "reasoning": "Content primarily discusses user understanding and collaboration in software development, without a clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T12:28:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses user understanding and development challenges, with no clear focus on events or presentations.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
     "calculated_at": "2025-02-17T12:28:06",
@@ -254,116 +206,65 @@
     "reasoning": "Content primarily discusses user understanding and collaboration in software development, with no clear focus on platform engineering or related topics.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T12:28:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses user understanding and collaboration issues without reference to specific tools, methodologies, or practical techniques related to Agile and DevOps.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-14T18:32:51",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content touches on user understanding and stakeholder collaboration, which are relevant to product delivery. However, it lacks explicit discussions on methodologies, practices, or detailed processes involved in delivering software products. The focus is more on user insights rather than the end-to-end delivery process.",
     "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-11T00:22:25",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 67.0,
     "ai_mentions": 5,
     "ai_alignment": 25,
     "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses general user understanding and collaboration issues in software development without referencing specific Agile, Scrum, DevOps, or Lean frameworks. While it raises valid questions about user needs and stakeholder collaboration, it lacks actionable insights or direct connections to established methodologies, aligning it with the Miscellaneous category. However, the depth of discussion is moderate, focusing on user insights rather than established practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-14T18:32:51",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content touches on user understanding and the need for collaboration with stakeholders, which are relevant to organisational agility. However, it lacks explicit discussions on agile methodologies, leadership roles, or structured strategies for enhancing adaptability. The focus is more on user insights rather than the broader organisational practices that enable agility.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-14T18:32:51",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content touches on user understanding and stakeholder collaboration, which are related to transparency and accountability. However, it lacks explicit discussions on the principles of openness, responsibility, and clear communication within Agile teams. The focus is more on user insights and development practices rather than a thorough exploration of transparency and accountability, leading to a lower confidence score.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-11T13:11:34",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the importance of understanding user needs and the potential pitfalls of reactionary development, which aligns with the themes of discovery and learning. However, it lacks explicit methodologies or frameworks for fostering innovation and does not delve deeply into the processes of learning from feedback or failures.",
-    "level": "Secondary"
+    "level": "Tertiary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:23:45",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of understanding user needs and making data-driven decisions, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on user feedback and collaboration rather than explicitly addressing the core themes of EBM such as current value metrics or outcome management. The depth of discussion on data-driven decision-making contributes positively, but the overall focus remains more on user insights than on EBM itself.",
     "level": "Secondary"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T12:28:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses user understanding and collaboration in software development, without a clear focus on AI or automation within Agile frameworks.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T12:28:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses user understanding and development challenges, without focusing on specific products, books, or Agile methodologies.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-11T16:10:46",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses user understanding and collaboration, which are relevant to sociotechnical systems, but it primarily focuses on user feedback and strategic planning without a strong emphasis on the interplay between social and technical systems. While it touches on collaboration and stakeholder engagement, it lacks depth in exploring how these elements influence software delivery and team effectiveness.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -394,52 +295,37 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:52:55",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of collaboration and stakeholder engagement, which aligns with social technologies. However, it primarily focuses on user understanding and data-driven decisions rather than the broader themes of self-organisation, collective intelligence, or iterative processes central to social technologies. The depth of discussion on these themes is limited, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T13:54:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses user understanding and collaboration challenges without addressing Kanban principles or scaling practices.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T13:54:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T21:21:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses user understanding and collaboration in software development, not system configuration.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T13:54:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on user understanding and collaboration with stakeholders, without addressing scaling Agile practices or frameworks relevant to multiple teams or enterprise-level strategies.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on understanding user needs and software development strategies rather than system configuration. There are no direct mentions of system configuration topics such as configuration management tools, system optimisation, or integration of hardware and software. While there is a brief mention of strategic planning, it does not delve into the specifics of system setup or maintenance, which are crucial for the category. Overall, the content lacks the necessary focus and depth to align with the System Configuration category.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-13T15:01:51",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of understanding user needs and collaboration, which aligns with Agile principles of customer collaboration and value delivery. However, it lacks direct references to Agile methodologies or the Agile Manifesto, resulting in a lower confidence score.",
     "level": "Secondary"
   },
@@ -463,11 +349,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T13:54:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses user understanding and collaboration, without a clear focus on Lead Time as a metric or related strategies.",
+    "calculated_at": "2025-04-11T09:02:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on understanding user needs and the importance of collaboration in software development. While it touches on aspects of decision-making and strategic planning, it does not explicitly mention Lead Time or its significance as an observability metric. The discussion lacks depth regarding Lead Time, its measurement, or its optimisation, which are critical to the category. Overall, the content does not align with the core themes of Lead Time, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Team Motivation": {
@@ -526,13 +415,13 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-03-14T18:32:56",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of understanding user needs and the role of collaboration in delivering value, which aligns well with customer retention strategies. It emphasises the need for data-driven decisions and ongoing engagement with users, which are crucial for minimising churn. However, while it touches on relevant themes, it does not explicitly focus on customer retention as a primary topic, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
@@ -565,10 +454,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-14T18:32:51",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 40,
     "non_ai_confidence": 10,
-    "final_score": 37.0,
+    "final_score": 40.0,
     "reasoning": "Content touches on user understanding and collaboration but does not primarily focus on the delivery of functional software or the characteristics of working software in Agile and Scrum frameworks.",
     "level": "Ignored"
   },
@@ -599,24 +488,15 @@
     "reasoning": "Content primarily discusses user understanding and collaboration with stakeholders, which does not align with the principles of Continuous Learning.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T13:54:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on user understanding, collaboration, and reactionary development rather than on scaling Scrum or related frameworks.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-03-13T15:24:28",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of data-driven decisions and understanding user needs, which aligns with evidence-based practices. However, it primarily focuses on user insights and software development rather than leadership specifically. While it touches on collaboration and strategic planning, it lacks a direct connection to leadership decision-making and empirical evidence in that context.",
     "level": "Secondary"
   },
@@ -640,22 +520,22 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-14T18:32:51",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
-    "final_score": 18.0,
+    "final_score": 20.0,
     "reasoning": "The content discusses user understanding and data evidence, which are related to empirical process control concepts, but it does not directly focus on transparency, inspection, and adaptation in Agile methodologies.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-03-14T18:33:11",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of understanding user needs and differentiating between user feedback and actual needs, which aligns with customer satisfaction principles. However, it lacks explicit mentions of customer satisfaction metrics or methodologies, and while it touches on collaboration and strategic planning, it does not delve deeply into specific strategies for enhancing customer satisfaction.",
     "level": "Secondary"
   },
@@ -697,13 +577,13 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-03-11T17:23:54",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses user understanding and stakeholder engagement, which are relevant to the Product Owner's role. However, it lacks direct mentions of the Product Owner and does not delve deeply into specific responsibilities or techniques related to backlog management or prioritisation strategies. The focus is more on general software development practices rather than the specific duties of a Product Owner.",
     "level": "Secondary"
   },
@@ -718,15 +598,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-06T13:39:45",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of understanding user needs and the potential pitfalls of reactionary development, which aligns with the core themes of product management. However, it lacks explicit mentions of product management frameworks or methodologies, and the depth of discussion is somewhat limited, focusing more on questions than on established practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -739,10 +619,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T13:54:25",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses user understanding and collaboration but does not primarily focus on Lean product development principles or practices.",
     "level": "Ignored"
   },
@@ -775,13 +655,13 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-03-14T18:32:58",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses user understanding and the importance of aligning product development with user needs, which aligns with customer-centric approaches in product strategy. However, it lacks explicit mentions of product vision, roadmapping, or competitive analysis, which are crucial for a higher confidence score. The depth of discussion is moderate, focusing on user feedback and collaboration but not delving deeply into strategic frameworks or methodologies.",
     "level": "Secondary"
   },
@@ -848,15 +728,6 @@
     "reasoning": "Content discusses user understanding and collaboration, but does not focus on Agile methodologies or strategic integration. The main topics are not aligned with Agile Strategy principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T13:54:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses user understanding and stakeholder collaboration, which are not directly related to the role of software developers within Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "Engineering Practices": {
     "category": "Engineering Practices",
     "calculated_at": "2025-02-17T13:54:25",
@@ -895,10 +766,10 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T13:54:25",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses user understanding and stakeholder collaboration, lacking focus on specific tools or practices related to enhancing collaboration within Agile teams.",
     "level": "Ignored"
   },
@@ -913,10 +784,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-17T13:54:25",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses user understanding and collaboration without directly addressing asynchronous development principles or practices.",
     "level": "Ignored"
   },
@@ -940,15 +811,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-14T18:33:09",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
+    "calculated_at": "2025-04-10T21:21:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the importance of understanding user needs and making data-driven decisions, which aligns with the core themes of the Ability to Innovate category. However, it does not explicitly mention the category or frameworks for measuring innovation capabilities. The depth of discussion on collaboration and strategic planning contributes positively, but the overall focus is more on user understanding than on innovation practices specifically.",
-    "level": "Secondary"
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of understanding user needs and making data-driven decisions, which are relevant to innovation. However, it primarily focuses on user feedback and collaboration rather than on mechanisms or practices that foster innovation within an organisation. The discussion lacks explicit references to innovation metrics, learning cycles, or strategies for enhancing innovation capacity, which are key aspects of the 'Ability to Innovate' category.",
+    "level": "Tertiary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -979,11 +850,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T13:54:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T21:21:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on user insights and understanding user needs, which is not directly related to the measurement or optimization of throughput in Agile or DevOps contexts.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on understanding user needs and the importance of collaboration in software development. It does not explicitly mention throughput as a delivery metric, nor does it discuss how throughput relates to team delivery capacity or performance. While there are elements of data-driven decision-making, they do not connect to throughput analysis or visualisation. Overall, the content lacks a direct focus on throughput, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -997,10 +871,10 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-17T13:54:25",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses user understanding and collaboration without focusing on acceptance criteria or ATDD principles.",
     "level": "Ignored"
   },
@@ -1013,21 +887,12 @@
     "reasoning": "Content heavily discusses user understanding and collaboration with stakeholders, but it does not address employee engagement or the psychological and social aspects of work that contribute to employee satisfaction and productivity.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T13:54:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "While the content touches on user understanding and collaboration with stakeholders, it does not explicitly address Agile methodologies, principles, or practices central to Agile Project Management.",
-    "level": "Ignored"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T13:54:25",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses concerns about user understanding and reactionary development but does not articulate or test specific hypotheses. It does not focus on experimentation or validated learning.",
     "level": "Ignored"
   },
@@ -1042,27 +907,27 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T17:23:42",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on understanding user needs and the importance of collaboration in software development, which are not directly related to Continuous Delivery principles. While it touches on aspects of user feedback and strategic planning, it lacks explicit discussions on Continuous Delivery practices, automation, or delivery cycles, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-03-13T16:32:36",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the importance of understanding user needs, differentiating between user feedback and actual needs, and emphasises data-driven decision-making, which aligns well with the core themes of product discovery. It also highlights the significance of collaboration with stakeholders, which is crucial in the discovery phase. However, while it touches on these topics, it does not delve deeply into specific methodologies or frameworks for product discovery, which slightly lowers the depth score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -1093,22 +958,22 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-14T15:10:58",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of understanding user needs and making data-driven decisions, which aligns with evidence-based decision-making principles. However, while it touches on collaboration and strategic planning, it lacks a structured approach to decision-making frameworks and empirical evidence, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T13:54:25",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses user understanding and stakeholder collaboration but does not focus on specific software development methodologies, practices, or technical aspects related to the development lifecycle.",
     "level": "Ignored"
   },
@@ -1128,15 +993,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses user understanding and stakeholder collaboration but does not directly address the Product Backlog or its management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-14T18:32:51",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content discusses user insights and the importance of understanding user needs, but it does not specifically address Scrum principles, roles, or practices. It touches on issues relevant to product development, but does not clearly engage with Scrum methodologies.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -1159,13 +1015,13 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-03-14T14:50:41",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of understanding user needs and the complexities involved in interpreting user feedback, which aligns with the principles of sensemaking. It highlights the need for data-driven decisions and strategic planning, reflecting the core themes of navigating complexity and uncertainty. However, while it touches on collaboration and stakeholder engagement, it lacks a deeper exploration of frameworks or models specific to sensemaking, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
@@ -1216,25 +1072,25 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-03-14T18:33:01",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of understanding user needs and differentiating between user feedback and actual needs, which aligns well with the core themes of product validation. It emphasises data-driven decisions and the necessity of collaboration with stakeholders, both of which are crucial for validating product ideas. However, while it touches on relevant topics, it does not delve deeply into specific methodologies or practices like user testing or A/B testing, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-14T18:32:54",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of understanding user needs and collaboration, which aligns with Agile principles of customer collaboration and responding to change. However, it does not explicitly mention Agile values or principles, nor does it delve deeply into the Agile Manifesto or its twelve principles. The focus is more on user insights and collaboration rather than the foundational beliefs of Agile methodologies.",
     "level": "Secondary"
   },
@@ -1272,15 +1128,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on user understanding and collaboration but does not primarily discuss strategic approaches in Agile, Scrum, or DevOps. It is more about user insights than strategic alignment or planning.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T13:54:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses user understanding and collaboration issues in software development without specifically addressing AI applications or methodologies.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1342,13 +1189,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-14T18:33:04",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses practical strategies for understanding user needs and the importance of data-driven decision-making, which aligns well with pragmatic thinking. It emphasises collaboration and strategic planning, key aspects of Agile and Scrum methodologies. However, while it touches on these themes, it does not delve deeply into specific Agile or DevOps practices, which slightly lowers the depth score.",
     "level": "Secondary"
   },
@@ -1370,24 +1217,15 @@
     "reasoning": "Content focuses primarily on user understanding and stakeholder collaboration rather than coaching practices or techniques.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T13:54:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on understanding user needs and collaboration, which are not specific to scaling agile practices across the organization.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T15:54:21",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses user understanding and collaboration, which are relevant to Scrum principles, but it does not explicitly mention the role of a Scrum Master or delve into Scrum-specific practices. The focus is more on user needs and stakeholder engagement rather than the responsibilities and impact of a Scrum Master.",
     "level": "Ignored"
   },
@@ -1418,7 +1256,7 @@
     "reasoning": "Content primarily discusses user understanding and collaboration rather than the delivery of software increments in an Agile context.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T13:54:25",
     "ai_confidence": 0,
@@ -1429,31 +1267,31 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-17T13:54:25",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses user understanding and collaboration challenges in software development, with no focus on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-14T18:33:07",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of collaboration with stakeholders and building relationships, which aligns with the themes of team collaboration. However, the primary focus is on understanding user needs and data-driven decisions rather than on team dynamics or Agile methodologies. While collaboration is mentioned, it is not the central theme, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-17T13:54:25",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses user understanding and collaboration, but it does not focus specifically on Behaviour Driven Development principles, practices, or its key topics.",
     "level": "Ignored"
   },
@@ -1477,86 +1315,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T18:32:51",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the importance of understanding user needs and collaboration with stakeholders, which are relevant to Scrum principles. However, it lacks explicit mentions of Scrum roles, events, or artifacts, and does not delve into the Scrum framework or its implementation. The discussion is more focused on user insights and collaboration rather than the structured practices of Scrum.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:44:01",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on understanding user needs and the importance of collaboration in software development. While it touches on strategic planning and data-driven decisions, it does not explicitly discuss the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is more about user insights and stakeholder engagement rather than integrating testing, security, or compliance early in the development process.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:23:31",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of understanding user needs and making data-driven decisions, which aligns with the principles of Continuous Improvement. However, it primarily focuses on user insights and collaboration rather than explicitly addressing Continuous Improvement methodologies or frameworks. The depth of discussion on related themes is moderate, but it lacks a direct focus on Continuous Improvement as a primary topic.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:23:34",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses user understanding and collaboration, which are important for aligning development efforts with user needs. However, it does not explicitly mention Common Goals or their significance in Agile and DevOps frameworks. The focus is more on user feedback and collaboration rather than on shared objectives or strategic alignment, which are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:23:38",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of understanding user needs and the role of data-driven decisions, which indirectly relates to competence in delivering quality outcomes. However, it primarily focuses on user insights and collaboration rather than explicitly addressing competence as a foundational principle in Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:23:40",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on understanding user needs and collaboration in software development, which does not directly address the principles or components of the One Engineering System. While it touches on collaboration, it lacks specific discussions on integration of tools, processes, or methodologies that are central to 1ES. Therefore, the confidence score reflects a minimal connection to the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T15:54:15",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses user understanding and the importance of data-driven decisions, which aligns with the principles of Agentic Agility. However, it lacks explicit mentions of the category and does not differentiate between human and AI capabilities in the context of agility. The focus is more on user feedback and collaboration rather than on intentional shaping of outcomes through agency.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T21:20:56",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
+    "non_ai_confidence": 20,
+    "final_score": 82.0,
+    "reasoning": "The content focuses heavily on understanding user needs and the importance of data-driven decision-making, which aligns well with the principles of Agile product development and customer feedback loops. It discusses the differentiation between user feedback and actual needs, emphasising the need for evidence-based decision-making, which is a core theme in product development. Additionally, the content highlights the importance of collaboration with stakeholders, aligning with the role of cross-functional teams in delivering products. The depth of discussion is substantial, covering various aspects of product development, including strategic planning and the dangers of reactionary development. Overall, the content is a strong fit for the Product Development category.",
+    "level": "Primary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T21:20:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content discusses user understanding and collaboration in software development but does not mention Liberating Structures or any specific facilitation techniques. While it touches on themes of collaboration and stakeholder engagement, it lacks a direct focus on the principles or methods of Liberating Structures, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T21:21:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of understanding user needs and stakeholder collaboration, which are relevant to project management. However, it primarily focuses on user insights and software development rather than core project management principles or methodologies. While there are mentions of strategic planning and stakeholder engagement, the depth of discussion does not fully align with the broader project management themes outlined in the category description.",
+    "level": "Tertiary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T21:21:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on understanding user needs and the importance of collaboration in software development. While it touches on themes of collaboration and stakeholder engagement, it does not explicitly mention Open Space Agile or its principles. The discussion lacks depth regarding Open Space Technology, psychological safety, or shared ownership, which are core to the Open Space Agile category. Therefore, the content does not align well with the category's focus.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T21:21:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of understanding user needs and making data-driven decisions, which aligns with the concept of unrealised value in terms of identifying potential improvements. However, it does not explicitly mention unrealised value or provide detailed strategies for measuring or identifying untapped opportunities. The focus is more on user understanding and collaboration rather than on the broader implications of unrealised value in an organisational context.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T21:21:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses user understanding and collaboration in software development, which indirectly relates to Time to Market by emphasising the importance of aligning product features with user needs. However, it lacks direct mentions of Time to Market metrics or strategies for improving delivery speed. The focus is more on user insights and collaboration rather than the efficiency of transforming ideas into market-ready products, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T21:21:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of understanding user needs and differentiating between user feedback and actual needs, which aligns with the concept of Current Value in assessing the value delivered by a product. It mentions data-driven decisions and the need for collaboration, which are relevant to measuring and enhancing Current Value. However, it lacks specific metrics or indicators used to measure Current Value and does not provide detailed techniques for gathering and analysing Current Value data, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T21:21:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on understanding user needs and the importance of collaboration in software development. While it touches on aspects of user feedback and strategic planning, it does not explicitly discuss the concept of treating the organisation as a product or how this approach can enhance organisational agility or culture. The discussion is more centred on software development practices rather than organisational design or customer-centric strategies, leading to a low confidence score in alignment with the CaaP category.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T21:21:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on understanding user needs and the importance of collaboration in software development. While it touches on aspects of stakeholder engagement and strategic planning, it does not explicitly discuss scaling methodologies, frameworks, or the complexities involved in coordinating multiple teams. The themes of user feedback and collaboration are relevant to Agile practices but do not align with the specific focus on scaling as defined in the category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T21:21:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on understanding user needs and the importance of collaboration in software development. It does not explicitly mention Hybrid Agile or discuss its characteristics, challenges, or implications. While there are elements of agile principles, such as collaboration and user feedback, the content lacks a critical examination of the integration of traditional and agile methodologies, which is essential for the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T21:21:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of understanding user needs and collaboration, which aligns with the principles of Agnostic Agile in terms of value delivery and context-driven decision-making. However, it does not explicitly mention Agnostic Agile or its principles, nor does it provide a detailed exploration of the category. The focus is more on user insights and development strategies rather than on agile methodologies or comparisons with frameworks like Scrum or Kanban.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T21:21:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on understanding user needs and collaboration in software development, without any direct mention of GitHub or its functionalities. While it touches on themes relevant to software development practices, it does not align with GitHub-specific topics such as version control, CI/CD, or project management within the GitHub ecosystem. The discussion lacks depth regarding GitHub tools or methodologies, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T21:21:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on understanding user needs in software development, discussing user feedback, data-driven decisions, and collaboration with stakeholders. It does not mention or align with the principles of Cell Structure Design, nor does it explore the characteristics of autonomous cells or decentralised structures. The discussion is centred around traditional software development practices rather than the decentralised, network-based organisational model described in the category.",
     "level": "Ignored"
   }
 }

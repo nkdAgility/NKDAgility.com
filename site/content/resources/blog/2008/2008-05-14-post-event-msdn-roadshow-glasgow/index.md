@@ -27,8 +27,7 @@ aliasesArchive:
 - /post-event--msdn-roadshow-(glasgow)
 - /blog/post-event--msdn-roadshow-(glasgow)
 - /resources/blog/post-event-msdn-roadshow-glasgow
-tags:
-- Events and Presentations
+tags: []
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

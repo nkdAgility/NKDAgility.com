@@ -2,7 +2,7 @@
 title: Why is Satya Nadella a better example of agile leadership than Steve Jobs?
 description: Discover why Satya Nadella exemplifies agile leadership better than Steve Jobs, as Martin Hinshelwood explores vision and teamwork in this insightful video.
 date: 2023-02-01T07:00:10Z
-weight: 515
+weight: 465
 ResourceId: HTv3NkNJovk
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,21 +29,31 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Agile Leadership
 - Organisational Agility
 - Pragmatic Thinking
-- Business Agility
-- Agile Project Management
+- Agile Leadership
 - Agile Strategy
 - Agile Transformation
-- Technical Leadership
+- Business Agility
 - Agile Philosophy
+- Organisational Culture
+- Organisational Change
+- Ability to Innovate
+- Agile Frameworks
+- Agile Values and Principles
+- Digital Transformation
+- Empirical Process Control
+- Enterprise Agility
+- Evidence Based Leadership
+- Social Technologies
+- Sociotechnical Systems
+- Software Development
+- Value Delivery
 resourceTypes:
 - video
 categories:
 - Leadership
-- Social Technologies
+- Technical Leadership
 
 ---
 This is a great question, although I imagine I might pick up a bit of flack because of the hordes of people who love [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) and think of him as one of the most iconic leaders of the past century.

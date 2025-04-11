@@ -37,13 +37,13 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-06T13:34:31",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 75.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
+    "final_score": 75.0,
     "reasoning": "The content explicitly mentions 'Empirical Process Control' as a key aspect of Scrum, which aligns with the category's focus on Scrum principles. It discusses the importance of transparency, inspection, and adaptation, which are core themes in Scrum. However, the depth of discussion is limited, providing only a brief overview without delving into specific roles, events, or detailed applications of these principles within a Scrum framework.",
     "level": "Secondary"
   },
@@ -67,13 +67,13 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-03-14T17:57:34",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 35.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 32.0,
+    "final_score": 35.0,
     "reasoning": "The content discusses the principles of empirical process control within Scrum, which relates to evidence-based practices. However, it does not explicitly focus on leadership decisions or the application of empirical evidence to enhance leadership effectiveness. The mention of transparency, inspection, and adaptation aligns with the core themes of evidence-based leadership but lacks depth in discussing how these principles inform leadership decisions specifically.",
     "level": "Ignored"
   },
@@ -88,15 +88,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-14T17:57:21",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses Scrum as an empirical process, which is relevant to product management, particularly in Agile methodologies. However, it lacks a broader discussion on strategic alignment with customer needs or business objectives, limiting its depth and overall focus on product management.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -109,20 +109,23 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-12T21:07:28",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of empirical process control in Scrum without specific reference to the Daily Scrum event or its practices.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T21:07:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:23:33",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses Scrum, which is related to project management and agile methodologies rather than system configuration. There are no direct mentions of system configuration topics, and the discussion lacks depth in relation to the key themes of system setup, automation, or maintenance.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -208,13 +211,13 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-03-06T14:46:44",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 73.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly mentions transparency as a key component of the Scrum framework, highlighting its importance in the context of empirical process control. It aligns well with the core themes of transparency, such as the need for openness and regular inspection of progress. However, the discussion lacks depth, as it does not explore techniques or tools for promoting transparency or provide examples or case studies. Overall, while transparency is a primary focus, the content could benefit from a more detailed exploration of its implications and practices.",
     "level": "Secondary"
   },
@@ -265,43 +268,37 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T21:07:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:23:36",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on empirical process control rather than the measurement and improvement of innovation capabilities.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses the principles of empirical process control within Scrum, focusing on transparency, inspection, and adaptation. While these principles are important in Agile methodologies, they do not directly address the mechanisms or practices that foster innovation. There are no explicit mentions of innovation metrics, learning cycles, or strategies for enhancing innovation capacity, which are crucial for the 'Ability to Innovate' category. Therefore, the content's relevance to the category is minimal.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-06T15:45:15",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 78.0,
     "ai_mentions": 90.0,
     "ai_alignment": 70.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly discusses Scrum as an Agile framework, highlighting its empirical process control principles. This direct mention contributes significantly to the confidence score. The alignment with core themes of Agile frameworks is strong, as it addresses transparency, inspection, and adaptation, which are fundamental to Agile methodologies. However, the depth of discussion is somewhat limited, focusing primarily on the principles without exploring broader implications or comparisons with other frameworks.",
     "level": "Secondary"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T21:07:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-14T17:57:38",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions the Scrum team and stakeholders, which relates to team dynamics, but it primarily focuses on the principles of empirical process control rather than exploring techniques or strategies for enhancing team collaboration. The discussion lacks depth in addressing the core themes of teamwork and communication, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -352,15 +349,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-07T12:52:57",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses Scrum, which is a key Agile framework within the Software Development category. It highlights the principles of transparency, inspection, and adaptation, which are central to Agile methodologies. The depth of discussion is significant as it outlines the importance of these principles in the context of software development processes. Overall, the content aligns well with the core themes of the category, focusing on methodologies that guide the development lifecycle.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -373,11 +370,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T21:08:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:23:39",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum principles rather than focusing on throughput measurement or optimisation.",
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions inspection and adaptation, which are relevant to throughput in terms of monitoring progress. However, it does not explicitly discuss throughput as a metric, nor does it provide any detailed analysis or visualisation of throughput. The focus is more on the principles of empirical process control rather than on throughput as a delivery metric.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -391,15 +391,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-14T17:57:49",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the concept of empirical process control within the context of Scrum, which is a specific Agile framework. While it touches on principles such as transparency, inspection, and adaptation, it does not explicitly reference the Agile Manifesto or its core values. The focus is more on Scrum practices rather than the underlying Agile values and principles, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -448,15 +448,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-10T11:38:43",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 85.0,
     "ai_mentions": 90.0,
     "ai_alignment": 80.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 30,
-    "final_score": 80.0,
+    "final_score": 85.0,
     "reasoning": "The content explicitly discusses empirical process control within the context of Scrum, highlighting the key principles of transparency, inspection, and adaptation. It aligns well with the core themes of the category, providing a solid overview of how these principles are applied in practice. However, while it covers the essential aspects, it lacks detailed examples or case studies that would enhance the depth of discussion.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -485,27 +485,15 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-10T17:52:03",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses Scrum, which is a framework within Agile methodologies, indicating a direct mention of a relevant topic. However, it lacks depth in exploring the role of software developers specifically, focusing more on the process rather than the developers' practices or tools. The alignment with the category is moderate as it touches on Agile principles but does not delve into how developers can leverage these methodologies for productivity or collaboration.",
-    "level": "Tertiary"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:43:51",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the principles of empirical process control within Scrum, focusing on transparency, inspection, and adaptation. It does not explicitly mention Test First Development or its core themes, such as success criteria, automated testing practices, or the role of testing in the development process. Therefore, the alignment with the Test First Development category is minimal.",
     "level": "Ignored"
   },
@@ -565,33 +553,27 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T21:08:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:59:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, with no focus on Lead Time or its measurement.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T21:08:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content discusses the principles of empirical process control in Scrum, focusing on transparency, inspection, and adaptation. However, it does not explicitly mention Lead Time or its significance as an observability metric. The discussion lacks depth and does not align with the core themes of Lead Time, such as its measurement, optimisation, or impact on business agility and customer satisfaction. Therefore, the confidence score is low.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-14T17:57:54",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the principles of Empirical Process Control within Scrum, highlighting transparency, inspection, and adaptation. While it touches on practical aspects of Scrum, it lacks a broader discussion on pragmatic problem-solving strategies or real-world applications, which are essential for a higher confidence score in the 'Pragmatic Thinking' category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -601,18 +583,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-10T13:55:52",
-    "ai_confidence": 82.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 0,
-    "final_score": 74.0,
-    "reasoning": "The content explicitly discusses Scrum as an empirical process, which is a key aspect of Agile Project Management. It highlights the principles of transparency, inspection, and adaptation, aligning well with the core themes of agile methodologies. The depth of discussion is significant, focusing on how these principles apply to Scrum teams and stakeholders, thus providing a strong basis for understanding agile practices.",
-    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -634,13 +604,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T17:04:53",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the principles of transparency, inspection, and adaptation, which are relevant to Continuous Delivery. However, it primarily focuses on Scrum, which is a framework that does not specifically address Continuous Delivery practices. The mention of adapting plans aligns somewhat with Continuous Delivery, but the overall focus is more on Scrum methodology rather than the specific practices and principles of Continuous Delivery.",
     "level": "Ignored"
   },
@@ -673,42 +643,24 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-12T21:08:45",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-14T17:57:40",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the principles of Scrum, which are foundational to team performance in an Agile context. However, it lacks specific strategies or practices aimed at enhancing team dynamics or collaboration, making it a secondary mention rather than a primary focus.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T21:08:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, with no mention of AI or its application in Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T21:08:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -739,13 +691,13 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-14T17:57:45",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content explicitly mentions Scrum, which is a key framework in Agile transformation, indicating a direct mention. It aligns conceptually with Agile principles by discussing transparency, inspection, and adaptation, which are core to Agile methodologies. However, the depth of discussion is limited, focusing primarily on the empirical process without exploring broader Agile transformation strategies or change management aspects.",
     "level": "Secondary"
   },
@@ -760,10 +712,10 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-12T21:08:57",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of empirical process control in Scrum, which is not directly related to the specific Scrum Values of commitment, courage, focus, openness, and respect.",
     "level": "Ignored"
   },
@@ -785,18 +737,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-14T17:57:43",
-    "ai_confidence": 55.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 5.0,
-    "non_ai_confidence": 10,
-    "final_score": 50.0,
-    "reasoning": "The content briefly mentions Scrum principles related to empirical process control, which is a foundational aspect of Scrum. However, it lacks specific discussions on product development practices, roles, or detailed processes such as sprint planning or backlog management. The focus is more on the general concept of transparency and adaptation rather than on the application of Scrum in product development.",
-    "level": "Tertiary"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
     "calculated_at": "2025-02-12T21:09:02",
@@ -808,13 +748,13 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:04:55",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions the importance of transparency, inspection, and adaptation, which are principles of empirical process control in Scrum. However, it does not explicitly discuss Evidence-Based Management or its key topics such as current value, time to market, or empirical decision-making. The focus is more on Scrum practices rather than a data-informed management approach.",
     "level": "Ignored"
   },
@@ -827,26 +767,17 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T21:09:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the principles of empirical process control in Scrum without addressing scaling practices or frameworks relevant to large organisations.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T15:43:48",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the principles of empirical process control within the Scrum framework, which is relevant to the role of a Scrum Master. However, it does not explicitly mention the Scrum Master or delve into their specific responsibilities, skills, or impact. The focus is more on the general principles of Scrum rather than the Scrum Master's role, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -895,13 +826,13 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-14T17:57:52",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the principles of empirical process control within the context of Scrum, which is a key Agile framework. While it mentions transparency, inspection, and adaptation—important aspects of Agile Planning—it does not delve deeply into specific Agile planning techniques or practices. The focus is more on the Scrum process rather than on broader Agile planning methodologies, which limits the depth of discussion.",
     "level": "Secondary"
   },
@@ -914,7 +845,7 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T21:09:17",
     "ai_confidence": 0,
@@ -952,15 +883,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-14T17:57:29",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions the Scrum team in the context of empirical process control, focusing on transparency, inspection, and adaptation. However, it lacks detailed discussion on specific roles, collaboration techniques, or team dynamics, which are crucial for a comprehensive understanding of a Scrum Team. The primary focus is on the principles of empirical process control rather than the Scrum Team itself.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -1000,22 +931,22 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-14T17:57:47",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Scrum as an empirical process, which touches on Agile principles like transparency and adaptation. However, it primarily focuses on Scrum as a framework rather than the broader Agile philosophy, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-12T21:09:29",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -1100,31 +1031,13 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T21:06:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T21:06:25",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum principles rather than installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T21:06:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1136,47 +1049,29 @@
     "reasoning": "Content heavily discusses Scrum principles rather than focusing on flow efficiency or optimisation of work throughput.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T21:06:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-14T17:57:36",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Scrum as an empirical process, which is relevant to product delivery methodologies. However, it lacks detailed exploration of the broader aspects of product delivery, such as planning, testing, and deployment. The mention of transparency, inspection, and adaptation aligns with Agile principles but does not provide sufficient depth or a comprehensive view of the product delivery process.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-14T17:57:56",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Scrum as an empirical process, which is a key aspect of Agile methodologies. However, it lacks a direct focus on product management practices, such as the role of the Product Owner or techniques for prioritising product backlogs. While it aligns conceptually with Agile principles, the depth of discussion is limited to the process rather than product management specifics.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T21:06:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1194,36 +1089,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-14T17:57:24",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content mentions transparency as a key aspect of Scrum, which aligns with the category. However, it primarily focuses on the concept of empirical process control without delving deeply into accountability or the broader implications of transparency within Agile teams. The discussion lacks detailed exploration of techniques for enhancing accountability or the relationship between transparency and team performance, resulting in a moderate confidence score.",
-    "level": "Secondary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T21:06:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the principles of Scrum without focusing on specific tools, methodologies, or practical techniques for implementation.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T21:06:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without reference to specific presentations or discussions related to events or presentations.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1246,13 +1111,13 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T11:13:08",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses Scrum, which is a framework that does not align with the core principles of DevOps. While it mentions transparency and adaptation, these concepts are not exclusive to DevOps and are more relevant to Agile methodologies. The focus on Scrum roles and processes detracts from a direct discussion of DevOps principles.",
     "level": "Ignored"
   },
@@ -1263,15 +1128,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T21:06:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the principles of Scrum rather than specific products or literature related to Agile methodologies.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -1294,15 +1150,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-14T17:57:26",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the principles of empirical process control within Scrum, which indirectly relates to value delivery through transparency and adaptation. However, it lacks explicit discussions on strategies for delivering value or measuring customer satisfaction, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1315,15 +1171,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-14T17:58:02",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses Scrum as an empirical process, which is a key aspect of Agile methodologies. However, it primarily focuses on the mechanics of Scrum rather than broader organisational agility strategies. While it mentions transparency, inspection, and adaptation, it lacks depth in exploring how these principles contribute to organisational agility as a whole. The discussion is somewhat aligned with the category but does not delve into leadership roles, cross-functional teams, or continuous improvement strategies, which are crucial for a higher confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
@@ -1334,18 +1190,6 @@
     "reasoning": "Content heavily discusses Scrum principles and processes without personal anecdotes or insights.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-14T17:57:58",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
-    "non_ai_confidence": 20,
-    "final_score": 63.0,
-    "reasoning": "The content discusses Scrum as an empirical process, highlighting the importance of transparency, inspection, and adaptation. While it touches on team dynamics and the need for collaboration among Scrum teams and stakeholders, it lacks a deeper exploration of human behaviour and structured methodologies. The focus is primarily on the process itself rather than the interplay between people and processes, which limits the overall depth of discussion.",
-    "level": "Secondary"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-12T21:07:05",
@@ -1355,21 +1199,12 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T21:07:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the principles of Scrum and empirical process control without providing news, updates, or reviews related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T21:07:07",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -1411,15 +1246,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:49:53",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses transparency and adaptation within the context of Scrum, which aligns with the principles of self-organisation and continuous improvement. However, it lacks a broader exploration of collaboration techniques or the impact on organisational culture, limiting its depth and overall alignment with the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1432,13 +1267,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T11:13:11",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the principles of empirical process control within Scrum, which is a component of agile methodologies. However, it does not explicitly address the Agile Product Operating Model or its core themes such as product management principles, transitioning to a product ethos, or operational stability in product delivery. The focus is more on Scrum practices rather than the broader APOM framework, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -1471,86 +1306,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:43:30",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 78.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 50,
-    "final_score": 75.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly mentions Scrum and discusses the concept of empirical process control, which is a core principle of Scrum. However, it lacks depth in exploring the roles, events, and artifacts of Scrum, focusing primarily on the transparency, inspection, and adaptation aspects. While it aligns with the Scrum principles, it does not provide a comprehensive discussion on the framework itself.",
     "level": "Secondary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:41:41",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses Scrum and its principles of empirical process control, which do not directly relate to the Shift-Left Strategy. There are no explicit mentions of integrating testing, security, or compliance earlier in the development process, nor does it provide any depth on the benefits or techniques associated with the Shift-Left approach.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:04:42",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the principles of transparency, inspection, and adaptation, which are foundational to Continuous Improvement. However, it lacks a comprehensive exploration of how these principles contribute to ongoing enhancements in processes or team effectiveness. The focus is primarily on the Scrum framework rather than a broader discussion of Continuous Improvement strategies or empirical evidence.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:04:46",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the principles of transparency, inspection, and adaptation within the Scrum framework, which are essential for achieving common goals. However, it does not explicitly mention common goals or their significance in aligning strategy with execution. The discussion is somewhat aligned with the category's themes but lacks depth and direct references to shared objectives or frameworks like OKRs.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:04:48",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the principles of transparency, inspection, and adaptation within the context of Scrum, which are related to competence. However, it does not explicitly mention competence or delve into the importance of continuous learning or skill development. The focus is more on the process rather than on the development of capabilities, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:04:50",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses Scrum, which is a specific methodology rather than the One Engineering System framework. While it touches on principles like transparency and adaptation, it does not explicitly mention 1ES or its components, nor does it provide depth on how these principles integrate into a unified engineering system.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T15:43:46",
+    "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions the need for adaptation to achieve desired outcomes, which aligns with the concept of agility. However, it lacks explicit discussion on Agentic Agility, such as the intentional shaping of outcomes, the distinction between human and AI capabilities, or the role of intent and accountability. The focus is primarily on Scrum practices rather than the transformative capacity of individuals and systems.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T17:22:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the principles of empirical process control within the context of Scrum, which is a key Agile methodology relevant to product development. While it mentions transparency, inspection, and adaptation—important aspects of iterative development—the discussion lacks depth and does not explore broader product development practices or customer feedback integration. The focus is primarily on Scrum mechanics rather than a comprehensive exploration of product development methodologies.",
+    "level": "Secondary"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T17:22:53",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 15.0,
+    "reasoning": "The content briefly touches on the concepts of transparency and inspection, which are relevant to Agile methodologies, but it does not explicitly discuss Time to Market or its associated metrics, strategies, or impacts. The focus is more on the principles of empirical process control rather than on optimising the delivery speed of value to customers.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T17:22:56",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses Scrum principles, specifically focusing on empirical process control, which is not directly related to GitHub. There are no mentions of GitHub services or functionalities, and the discussion does not align with the core themes of GitHub, such as version control or collaboration features. The depth of discussion is also minimal, as it does not provide any insights into GitHub practices or tools.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T17:22:59",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the mechanics of Scrum, specifically discussing empirical process control within that framework. While it touches on concepts like transparency, inspection, and adaptation, which are relevant to Agnostic Agile, it does not explicitly mention Agnostic Agile or its principles. The discussion lacks depth regarding the broader context of agility and does not explore the ethical or contextual considerations that are central to the Agnostic Agile philosophy. Therefore, while there is some alignment, it is limited and does not meet the criteria for a strong focus on Agnostic Agile.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T17:23:02",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions concepts related to transparency and adaptation, which are relevant to the principles of CaaP. However, it primarily focuses on Scrum and empirical process control without explicitly discussing the organisation as a product or integrating customer feedback into organisational design. The depth of discussion is limited, lacking detailed exploration of CaaP themes.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T17:23:05",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content briefly mentions transparency and adaptation, which are relevant to the principles of Cell Structure Design. However, it primarily focuses on Scrum, an unrelated framework, and does not discuss the core themes or characteristics of Cell Structure Design, such as autonomous cells or decentralisation. The lack of depth and direct relevance to the category results in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T17:23:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the principles of empirical process control within the context of Scrum, focusing on transparency, inspection, and adaptation. It does not mention Liberating Structures or any related facilitation techniques, nor does it explore the core themes of participation, collaboration, or group dynamics that are central to Liberating Structures. The discussion is limited in depth and does not provide any specific techniques or applications related to the category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T17:23:12",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content briefly touches on Scrum principles, which are related to agile practices, but it does not explicitly discuss Hybrid Agile or its challenges. There is no critical examination of the integration of traditional and agile methodologies, nor does it address any of the key topics outlined for the Hybrid Agile category. The focus is primarily on empirical process control within Scrum, lacking depth and alignment with the core themes of Hybrid Agile.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T17:23:16",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content briefly touches on the concepts of transparency and adaptation within the context of Scrum, which are related to the broader themes of Evidence-Based Management. However, it does not explicitly discuss Unrealised Value or its indicators, nor does it delve into potential improvements or innovation opportunities. The focus is primarily on the empirical process rather than on identifying or measuring untapped value.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T17:23:18",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content briefly mentions the concept of transparency and adaptation within the context of Scrum, which is related to Agile practices. However, it does not explicitly address scaling methodologies, frameworks, or the complexities involved in coordinating multiple teams. The focus is primarily on the Scrum process rather than on scaling Agile practices or the associated challenges and strategies.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T17:23:21",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content briefly touches on the importance of transparency and inspection, which are related to assessing progress and outcomes. However, it does not explicitly mention Current Value or provide any metrics or indicators related to it. The discussion lacks depth and does not align closely with the core themes of Current Value in Evidence-Based Management, focusing instead on the general principles of Scrum.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T17:23:24",
+    "ai_confidence": 55.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 55.0,
+    "reasoning": "The content discusses the principles of empirical process control within the context of Scrum, which is a specific agile methodology. While it touches on transparency, inspection, and adaptation—key concepts in project management—the focus is primarily on Scrum roles and practices rather than broader project management principles or methodologies. Therefore, while there is some alignment with project management themes, the depth and direct mentions are limited, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T17:23:27",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content briefly mentions principles of transparency and adaptation, which are relevant to Agile methodologies, but it does not explicitly discuss Open Space Agile or its core themes. The focus is primarily on Scrum, which is a traditional Agile framework, rather than the collaborative and emergent aspects of Open Space Agile. Therefore, while there is some alignment with Agile principles, the content lacks depth and direct relevance to Open Space Agile.",
     "level": "Ignored"
   }
 }

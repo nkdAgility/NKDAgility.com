@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-03-15
-weight: 620
+weight: 590
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -28,14 +28,15 @@ tags:
 - Professional Scrum
 - Scrum Team
 - Software Development
-- People and Process
-- Agile Project Management
-- Technical Leadership
 - Agile Frameworks
-- Coaching
 - Team Performance
+- Agile Product Management
+- Coaching
+- Competence
+- Agile Leadership
 categories:
 - Scrum
+- Technical Leadership
 - Leadership
 preview: Wide-screen-scrum-master-3-3.jpg
 

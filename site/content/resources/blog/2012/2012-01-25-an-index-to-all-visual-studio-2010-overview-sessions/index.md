@@ -9,7 +9,7 @@ ResourceImportId: 4128
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-25
-weight: 850
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,7 +29,6 @@ aliasesArchive:
 - /resources/blog/an-index-to-all-visual-studio-2010-overview-sessions
 tags:
 - Application Lifecycle Management
-- Events and Presentations
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories: []
 

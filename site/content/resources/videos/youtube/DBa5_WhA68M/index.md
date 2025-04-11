@@ -2,7 +2,7 @@
 title: 'The Art of Negotiation for Product Owners: Essential Skills to Master'
 description: Unlock essential negotiation skills for product owners! Learn strategies from an FBI expert to enhance your influence and success. Watch now!
 date: 2023-12-13T07:00:07Z
-weight: 995
+weight: 1000
 ResourceId: DBa5_WhA68M
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -31,13 +31,12 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
-- People and Process
 - Value Delivery
 - Agile Product Management
-- Products and Books
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

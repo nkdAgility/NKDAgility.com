@@ -9,7 +9,7 @@ ResourceImportId: 66
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-04
-weight: 540
+weight: 490
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,8 +27,6 @@ tags:
 - Software Development
 - Troubleshooting
 - Pragmatic Thinking
-- Software Developers
-- Practical Techniques and Tooling
 preview: metro-visual-studio-2010-128-link-8-8.png
 categories:
 - Scrum

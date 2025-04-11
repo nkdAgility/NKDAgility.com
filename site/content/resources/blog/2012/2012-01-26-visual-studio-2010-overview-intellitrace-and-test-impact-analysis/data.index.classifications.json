@@ -1,24 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T21:23:27",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses IntelliTrace and Test Impact Analysis in the context of Visual Studio, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:24:53",
-    "ai_confidence": 78.0,
-    "ai_mentions": 70.0,
-    "ai_alignment": 80.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content provides a detailed overview of IntelliTrace and Test Impact Analysis, which are practical tools that enhance debugging and testing processes in Agile environments. It explicitly mentions the need for tools to help find and fix bugs faster, aligning well with the category's focus on practical techniques and tooling. The depth of discussion is significant, as it outlines specific goals and demos related to the tools, demonstrating their application in real scenarios. Overall, the content is highly relevant to the category.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -31,48 +19,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:29:41",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses tools like IntelliTrace and Test Impact Analysis that can aid in bug fixing and regression testing, which are relevant to Agile practices. However, it does not explicitly mention Evidence-Based Management or its core themes such as empirical decision-making or current value metrics. The focus is more on specific tools rather than a strategic approach to management based on empirical evidence.",
     "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T06:10:49",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10,
-    "ai_alignment": 15,
-    "ai_depth": 20,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses IntelliTrace and Test Impact Analysis, which are tools aimed at improving debugging and regression testing in software development. While these topics touch on aspects of code quality and complexity management, the primary focus is on specific tools rather than a broader discussion of code quality principles or complexity theory. The mention of Agile environments and the need for prioritising regression testing indicates some alignment with the category, but the depth of discussion is limited to tool functionalities rather than exploring the interplay between code quality and complexity in a comprehensive manner.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T21:23:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical features of Visual Studio 2010, specifically IntelliTrace and Test Impact Analysis, without a clear emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-03-15T06:11:05",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses IntelliTrace and Test Impact Analysis, which are tools that can aid in Agile environments by automating aspects of testing and debugging. However, the primary focus is on the tools themselves rather than a broader discussion on AI and automation within Agile frameworks. While there are mentions of automation in testing, the content lacks a comprehensive exploration of how these tools integrate with Agile methodologies or their impact on team dynamics and decision-making processes.",
-    "level": "Tertiary"
   },
   "Lean": {
     "category": "Lean",
@@ -85,33 +40,24 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T21:23:39",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features and functionalities of IntelliTrace and Test Impact Analysis, rather than installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T21:23:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses IntelliTrace and Test Impact Analysis in the context of debugging and testing, without a focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-15T06:11:18",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses IntelliTrace and Test Impact Analysis, which are tools that can enhance responsiveness in Agile environments. However, the primary focus is on specific features and functionalities rather than broader strategies for market adaptability. While there are mentions of Agile practices and the need for rapid bug fixing, the discussion lacks depth in exploring how these tools contribute to overall market adaptability strategies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -122,24 +68,15 @@
     "reasoning": "Content primarily focuses on technical features of Visual Studio 2010, specifically IntelliTrace and Test Impact Analysis, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T21:23:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical aspects of IntelliTrace and Test Impact Analysis without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:29:24",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on IntelliTrace and Test Impact Analysis within Visual Studio 2010, which are tools aimed at improving bug fixing and regression testing. While these topics are relevant to software development practices, they do not explicitly discuss the broader DevOps philosophy or its core principles such as collaboration, automation, or shared accountability. The mention of Agile environments hints at a connection to DevOps, but the discussion lacks depth in addressing the cultural and process-oriented aspects of DevOps. Therefore, the content aligns only tangentially with the DevOps category.",
     "level": "Ignored"
   },
@@ -161,38 +98,17 @@
     "reasoning": "Content primarily discusses Visual Studio features and tools for debugging and testing, with no clear focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-10T12:58:23",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses a series of webcasts related to Visual Studio ALM, which aligns with the category of Events and Presentations. However, while it mentions the webcasts, the primary focus is on the features of IntelliTrace and Test Impact Analysis rather than the events themselves. The depth of discussion on the events is limited, focusing more on the tools and their applications in Agile environments.",
-    "level": "Secondary"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-03-15T06:11:16",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses tools like IntelliTrace and Test Impact Analysis that aim to improve the speed of bug detection and regression testing, which aligns with the principles of Flow Efficiency. However, the primary focus is on specific tools rather than a broader discussion of flow efficiency concepts, metrics, or strategies. The depth of discussion is limited, focusing more on tool functionalities than on overarching flow efficiency principles.",
-    "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T21:23:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical features of IntelliTrace and Test Impact Analysis without a focus on human behaviour or team processes.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -214,15 +130,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-15T06:11:07",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses IntelliTrace and Test Impact Analysis, which are tools that can aid in identifying and prioritising tests in Agile environments. However, while it touches on the importance of these tools in improving bug tracking and regression testing, it lacks a comprehensive exploration of metrics, feedback loops, or continuous improvement methodologies. The discussion is more focused on specific tools rather than the broader principles of metrics and learning, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -235,13 +151,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T14:57:55",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses IntelliTrace and Test Impact Analysis, which are tools that enhance code quality and reliability, aligning with the principles of Technical Excellence. However, while these tools are relevant, the discussion lacks depth in exploring broader engineering practices or methodologies. The focus is primarily on specific features rather than a comprehensive examination of technical excellence principles.",
     "level": "Secondary"
   },
@@ -265,13 +181,13 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T06:11:12",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 68.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses IntelliTrace and Test Impact Analysis, which are tools that aid in bug tracking and regression testing, aligning with the themes of quality assurance and iterative development. However, while it touches on important aspects of product delivery, such as prioritising regression testing and the need for effective testing methodologies, it lacks a comprehensive exploration of broader product delivery practices and methodologies. The focus is more on specific tools rather than the end-to-end process of delivering software products.",
     "level": "Secondary"
   },
@@ -293,29 +209,17 @@
     "reasoning": "Content primarily discusses IntelliTrace and Test Impact Analysis in the context of Visual Studio ALM, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-15T06:10:46",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content primarily discusses the features of IntelliTrace and Test Impact Analysis within Visual Studio 2010, which are tools relevant to Agile practices. However, it lacks a detailed review or analysis of these tools as products, and does not engage in broader discussions about Agile methodologies or literature. The focus is more on functionality rather than a comprehensive evaluation of how these tools enhance Agile practices.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-15T06:10:58",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses IntelliTrace and Test Impact Analysis, which are tools that can enhance the efficiency of bug tracking and regression testing in Agile environments. However, while it touches on aspects of iterative development and the need for prioritising tests, it lacks a comprehensive exploration of value delivery principles or methodologies. The focus is more on technical implementation rather than a strategic discussion on delivering value to customers.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -355,13 +259,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:29:39",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Agile environments and discusses tools that can aid Agile teams, but it does not focus on the Agile Product Operating Model itself. The primary emphasis is on specific features of Visual Studio 2010, such as IntelliTrace and Test Impact Analysis, rather than on the principles or practices of the Agile Product Operating Model. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the category.",
     "level": "Ignored"
   },
@@ -374,24 +278,15 @@
     "reasoning": "Content primarily discusses IntelliTrace and Test Impact Analysis in the context of Visual Studio 2010, with a focus on debugging and testing rather than organisational agility.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T21:24:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on features and functionalities of Visual Studio 2010, rather than providing industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-10T18:46:09",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses IntelliTrace and Test Impact Analysis, which are tools relevant to the application lifecycle, particularly in the context of debugging and regression testing. However, while it mentions ALM and is part of a series on Visual Studio ALM, the primary focus is on specific features rather than a comprehensive discussion of the application lifecycle stages or best practices. The content lacks depth in exploring the broader methodologies and practices of Application Lifecycle Management.",
     "level": "Secondary"
   },
@@ -406,22 +301,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T21:24:39",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses IntelliTrace and Test Impact Analysis in Visual Studio, with no focus on the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T10:36:27",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses IntelliTrace and Test Impact Analysis, which are tools that enhance debugging and testing practices, aligning with the principles of improving code quality and maintainability. It explicitly mentions the importance of automated testing and regression testing in Agile environments, which are key aspects of technical mastery. However, while it provides a good overview of these tools, the depth of discussion is somewhat limited, focusing more on the tools rather than broader engineering practices or methodologies.",
     "level": "Secondary"
   },
@@ -436,22 +331,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:29:45",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses tools like IntelliTrace and Test Impact Analysis that can aid in bug fixing and regression testing, which are relevant to Continuous Delivery practices. However, it primarily focuses on Agile environments and does not explicitly address Continuous Delivery principles or practices. The discussion lacks depth in exploring Continuous Delivery as a primary focus, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-15T21:24:45",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses tools and techniques for debugging and testing in Visual Studio, with no clear focus on long-term strategic objectives or business agility.",
     "level": "Ignored"
   },
@@ -475,10 +370,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T21:24:49",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio features and testing methodologies, with no focus on the Definition of Ready.",
     "level": "Ignored"
   },
@@ -502,10 +397,10 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-15T21:24:53",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses IntelliTrace and Test Impact Analysis in the context of Visual Studio 2010, with no clear focus on Agile Planning principles or methodologies.",
     "level": "Ignored"
   },
@@ -529,31 +424,31 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T06:11:22",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses IntelliTrace and Test Impact Analysis, which are tools aimed at improving operational efficiency in Agile environments. It mentions the need to find and fix bugs faster, which aligns with the core themes of operational practices. However, the discussion lacks depth in terms of broader operational strategies and metrics, focusing more on specific tools rather than comprehensive practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T21:24:58",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio features and tools, with no focus on Scrum roles, collaboration, or team dynamics.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-15T21:24:59",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of IntelliTrace and Test Impact Analysis without a focus on Agile principles or philosophy.",
     "level": "Ignored"
   },
@@ -577,10 +472,10 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-15T21:25:07",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Visual Studio features and tools for debugging and testing, with no substantial discussion on Agile transformation principles or methodologies.",
     "level": "Ignored"
   },
@@ -595,22 +490,22 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-03-11T12:01:33",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 72.0,
     "ai_mentions": 60.0,
     "ai_alignment": 80.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses automated testing in the context of IntelliTrace and Test Impact Analysis, highlighting its role in Agile environments and the challenges of managing large automated test suites. It aligns well with the core themes of automated testing, such as its impact on regression testing and bug fixing. However, while it provides a good level of detail, it does not delve deeply into specific methodologies or tools, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T21:25:14",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses IntelliTrace and Test Impact Analysis in the context of Visual Studio 2010, with no clear focus on team performance or collaboration strategies.",
     "level": "Ignored"
   },
@@ -625,43 +520,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T21:25:17",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses IntelliTrace and Test Impact Analysis in the context of Visual Studio 2010, without a focus on Acceptance Test Driven Development or acceptance criteria.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T15:06:01",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses IntelliTrace and Test Impact Analysis, which are tools relevant to software development practices, particularly in debugging and regression testing. It aligns with the themes of automated testing and Agile methodologies, but lacks extensive detail on broader software development methodologies or practices. The focus is primarily on specific tools rather than a comprehensive discussion of software development processes.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-15T06:11:02",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content briefly mentions Agile environments and discusses aspects of regression testing and automated testing, which can relate to Agile practices. However, it does not delve into Agile principles, frameworks, or roles in detail. The focus is more on specific tools and techniques rather than a comprehensive discussion of Agile Project Management.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T21:25:21",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio features and tools, with no clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -755,15 +638,6 @@
     "reasoning": "Content primarily discusses technical features of Visual Studio 2010, focusing on debugging and testing tools, without addressing customer satisfaction or experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T21:25:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio features and tools for bug tracking and testing, with no clear focus on Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T21:25:37",
@@ -782,24 +656,15 @@
     "reasoning": "Content heavily discusses IntelliTrace and Test Impact Analysis in the context of software development, with no mention of psychological safety or related themes.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T21:25:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses IntelliTrace and Test Impact Analysis in the context of Visual Studio 2010, with no clear focus on scaling agile practices or organisational agility.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:24:47",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses IntelliTrace and Test Impact Analysis, which are tools that contribute to improving software quality and debugging efficiency. However, while it touches on aspects of software craftsmanship and testing methodologies, it lacks a comprehensive exploration of engineering excellence principles. The focus is more on specific tools rather than broader best practices or continuous improvement strategies in engineering processes.",
     "level": "Secondary"
   },
@@ -841,13 +706,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T06:11:14",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses practical tools like IntelliTrace and Test Impact Analysis that are designed to enhance bug tracking and regression testing in Agile environments. While it does mention Agile contexts and focuses on practical problem-solving strategies, the depth of discussion is limited to specific tools without broader implications or case studies. The content aligns with the category's themes but lacks comprehensive exploration of pragmatic thinking principles.",
     "level": "Secondary"
   },
@@ -862,29 +727,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T21:25:51",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010, specifically IntelliTrace and Test Impact Analysis, without a clear focus on measuring or improving innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T21:25:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio features and tools, with no clear focus on Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T21:25:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses IntelliTrace and Test Impact Analysis in the context of Visual Studio 2010, without a focus on scaling Agile practices or coordination among multiple teams.",
+    "reasoning": "Content primarily discusses features of Visual Studio 2010, specifically IntelliTrace and Test Impact Analysis, without a clear focus on measuring or improving innovation capabilities.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -907,13 +754,13 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-03-15T06:10:51",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses automated testing and its role in regression testing, which aligns with the principles of test automation. However, it primarily focuses on IntelliTrace and Test Impact Analysis without delving deeply into broader test automation frameworks or best practices. The mention of automated testing is significant but not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -928,36 +775,36 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T06:11:10",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses tools like IntelliTrace and Test Impact Analysis that are designed to improve the debugging and testing processes, which are essential for delivering working software. It highlights the importance of finding and fixing bugs quickly, aligning with the core themes of ensuring software quality and functionality. However, while it touches on relevant practices, it lacks a comprehensive exploration of working software principles and does not explicitly mention Agile or Scrum frameworks, which limits its depth and direct relevance.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T21:26:02",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses IntelliTrace and Test Impact Analysis in the context of debugging and testing, without a focus on Agile planning tools or methodologies.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-15T06:11:00",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses automated testing and its role in identifying affected tests, which aligns with CI principles. However, it primarily focuses on IntelliTrace and Test Impact Analysis without a comprehensive exploration of CI practices or tools. The mention of Agile environments suggests a connection to CI, but the overall discussion lacks depth and does not explicitly address CI as a primary focus.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -970,10 +817,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-15T21:26:07",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical features of Visual Studio 2010, specifically IntelliTrace and Test Impact Analysis, without a focus on Agile leadership or related practices.",
     "level": "Ignored"
   },
@@ -1006,13 +853,13 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-15T06:11:20",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses tools like IntelliTrace and Test Impact Analysis that can aid in prioritising testing and debugging processes, which indirectly relates to decision-making in software development. However, it lacks explicit discussions on structured decision-making methodologies, evidence-based practices, or collaborative insights, which are central to the category. The focus is more on technical features rather than the decision-making process itself.",
     "level": "Ignored"
   },
@@ -1027,13 +874,13 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T06:10:55",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses IntelliTrace and Test Impact Analysis, which are tools that can aid in debugging and regression testing, relevant to release management. However, it does not explicitly focus on release management strategies, scheduling, or coordination between teams. The mention of Agile environments and regression testing indicates some alignment with release processes, but the overall depth and focus on release management is limited.",
     "level": "Ignored"
   },
@@ -1084,10 +931,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T21:26:22",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on IntelliTrace and Test Impact Analysis tools, with no clear discussion on team collaboration or Agile principles.",
     "level": "Ignored"
   },
@@ -1109,22 +956,13 @@
     "reasoning": "Content primarily discusses features of Visual Studio 2010, focusing on debugging and testing tools rather than strategic digital transformation initiatives.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T21:26:27",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses IntelliTrace and Test Impact Analysis in the context of Visual Studio 2010, with no clear focus on Minimum Viable Product concepts.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T21:26:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Visual Studio features and tools for debugging and testing, with no clear focus on AI applications in Agile or DevOps.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1174,15 +1012,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:10:23",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses automated testing and regression testing, which are relevant to Test First Development, but it does not explicitly mention the principles or practices of Test First Development itself. The focus is more on tools like IntelliTrace and Test Impact Analysis rather than on defining success criteria or the broader implications of Test First practices. While there is some alignment with the themes of automated testing and the need for prioritisation in testing, the depth of discussion does not fully explore the core concepts of Test First Development.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Windows": {
     "category": "Windows",
@@ -1204,19 +1042,19 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-15T21:26:42",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses IntelliTrace and Test Impact Analysis in the context of Visual Studio 2010, with no clear focus on scaling Agile methodologies across an organisation.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T21:26:43",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical features of Visual Studio and testing methodologies without addressing team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1240,13 +1078,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T16:56:05",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 78.0,
     "ai_mentions": 70.0,
     "ai_alignment": 85.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly discusses tools like IntelliTrace and Test Impact Analysis that are designed to help diagnose and resolve bugs, which aligns well with the troubleshooting category. It provides specific goals related to eliminating bugs and prioritising regression testing, indicating a focus on problem-solving. However, while the content is detailed, it primarily serves as an overview rather than an in-depth troubleshooting guide, which slightly lowers the depth score.",
     "level": "Secondary"
   },
@@ -1261,13 +1099,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:10:27",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical aspects of Visual Studio 2010, specifically IntelliTrace and Test Impact Analysis, which are tools for bug fixing and regression testing in Agile environments. While it mentions Agile teams, it does not discuss the role or responsibilities of a Scrum Master, nor does it delve into the core themes associated with the Scrum Master role. Therefore, the content does not align well with the category.",
     "level": "Ignored"
   },
@@ -1289,18 +1127,6 @@
     "reasoning": "Content primarily discusses Visual Studio features and tools, with no focus on working agreements or team collaboration principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-11T18:07:19",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses IntelliTrace and Test Impact Analysis, which are tools relevant to software developers, particularly in Agile environments. It mentions the need for faster bug resolution and prioritisation in regression testing, aligning with Agile principles. However, the discussion lacks depth on broader Agile and DevOps methodologies and does not explicitly explore the role of developers in these contexts, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-15T21:26:57",
@@ -1312,13 +1138,13 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T06:11:25",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses automated testing and Test Impact Analysis, which are relevant to engineering practices, particularly in Agile environments. It highlights the importance of regression testing and how IntelliTrace can help in bug diagnosis, aligning with the principles of clean code and automation. However, while it touches on these topics, the depth of discussion is somewhat limited, focusing more on the tools rather than broader engineering methodologies. Therefore, while it is relevant, it does not provide an extensive exploration of the core themes of the category.",
     "level": "Secondary"
   },
@@ -1360,19 +1186,19 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-15T21:27:04",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio 2010 features and tools, with no clear focus on Agile frameworks or their principles.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-15T21:27:06",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical features of Visual Studio 2010, specifically IntelliTrace and Test Impact Analysis, without a clear focus on Agile strategy or methodologies.",
     "level": "Ignored"
   },
@@ -1405,10 +1231,10 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-15T21:27:11",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses IntelliTrace and Test Impact Analysis in the context of Visual Studio 2010, without a focus on identifying patterns or shifts in Agile, DevOps, or business agility frameworks.",
     "level": "Ignored"
   },
@@ -1421,45 +1247,36 @@
     "reasoning": "Content heavily discusses debugging and testing tools in Visual Studio, with no focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T21:27:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio features and testing methodologies, with no focus on Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-15T06:10:53",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses tools like IntelliTrace and Test Impact Analysis that can indirectly relate to throughput by helping teams find and fix bugs faster, which may improve the flow of work. However, it does not explicitly focus on throughput as a primary topic, nor does it provide in-depth analysis or strategies for measuring or optimising throughput in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T21:27:16",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses IntelliTrace and Test Impact Analysis in the context of debugging and regression testing, without a clear focus on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:38:23",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on technical aspects of IntelliTrace and Test Impact Analysis in Visual Studio 2010, which are tools aimed at improving bug fixing and regression testing. While it mentions Agile environments, the discussion does not delve into the social frameworks or methodologies that promote collaboration, decision-making, or value delivery within organisations. The content lacks a strong emphasis on the principles of self-organisation, adaptability, or continuous improvement, which are central to the category of Social Technologies. Therefore, the confidence score reflects a low alignment with the category's core themes.",
     "level": "Ignored"
   },
@@ -1492,73 +1309,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T06:10:42",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Visual Studio 2010 features, specifically IntelliTrace and Test Impact Analysis, with no direct mention of Scrum principles, roles, or events. While it briefly references Agile environments, it does not delve into Scrum-specific practices or frameworks, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:29:04",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses tools like IntelliTrace and Test Impact Analysis that aim to improve bug detection and regression testing, which aligns with the Shift-Left Strategy's goal of integrating testing earlier in the development process. However, the primary focus is on specific tools rather than a broader discussion of the Shift-Left principles or methodologies. The mention of Agile environments suggests some alignment, but the depth of discussion on the Shift-Left Strategy itself is limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:29:26",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses tools like IntelliTrace and Test Impact Analysis that can enhance bug fixing and regression testing, which are relevant to Continuous Improvement. However, it does not explicitly focus on the principles of Continuous Improvement or provide a detailed exploration of its methodologies. The mention of Agile environments suggests some alignment, but the overall depth and direct discussion of Continuous Improvement concepts are limited.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:29:33",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses tools that can enhance Agile practices, such as IntelliTrace and Test Impact Analysis, which indirectly relate to the concept of Common Goals by improving team efficiency and bug resolution. However, it lacks a direct focus on shared objectives or strategic alignment within teams, which are central to the Common Goals category. The discussion is more about specific tools and their functionalities rather than the overarching principles of alignment and ownership in Agile and DevOps.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:29:36",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses tools like IntelliTrace and Test Impact Analysis that can enhance bug fixing and regression testing in Agile environments. However, it does not explicitly address the concept of competence or continuous skill development. While it touches on improving processes, it lacks a deeper exploration of how these tools contribute to team competence or professional growth, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:10:19",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on tools and techniques for bug fixing and regression testing in Agile environments, without explicitly discussing the concept of Agentic Agility. While it mentions Agile teams and the need for prioritisation in testing, it does not delve into the intentional shaping of outcomes or the principles of Agentic Agility. The discussion lacks depth and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }

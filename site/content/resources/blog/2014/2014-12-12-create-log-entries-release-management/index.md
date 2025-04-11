@@ -9,7 +9,7 @@ ResourceImportId: 10975
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-12-12
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,10 +28,10 @@ aliasesArchive:
 - /blog/create-log-entries-in-release-management
 - /resources/blog/create-log-entries-release-management
 tags:
-- Windows
 - Troubleshooting
-- Practical Techniques and Tooling
 - Software Development
+- Windows
+- Azure Pipelines
 categories: []
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 

@@ -2,7 +2,7 @@
 title: 'Unlocking Success: Join Me for a Virtual Coffee to Tackle Your Agile and Technical Challenges'
 description: Join me for a virtual coffee chat to tackle your agile and technical challenges. Let's explore actionable solutions together and empower your organisation's success!
 date: 2023-12-06T11:01:01Z
-weight: 805
+weight: 790
 ResourceId: zro-li2QIMM
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,8 +26,8 @@ preview: https://i.ytimg.com/vi/zro-li2QIMM/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
-- Team Motivation
 - Coaching
+- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

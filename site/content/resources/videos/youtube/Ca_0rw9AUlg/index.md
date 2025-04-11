@@ -31,13 +31,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Organisational Change
-- Organisational Physics
 - Systems Thinking
-- Agile Philosophy
+- Organisational Physics
 - Organisational Agility
 - Sociotechnical Systems
+- Agile Philosophy
 - Software Development
 - Pragmatic Thinking
 resourceTypes:

@@ -1,13 +1,13 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T07:33:50",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the release of a specific tool (TFS Stick Buddy) and its features, with only brief mentions of work items and queries. While it touches on aspects of application management, such as displaying work items and customisation, it lacks a comprehensive discussion on the stages of the application lifecycle, governance, or best practices. The alignment with the core themes of Application Lifecycle Management is minimal, and the depth of discussion does not provide substantial insights into the lifecycle management processes.",
     "level": "Ignored"
   },
@@ -40,10 +40,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T18:23:27",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release and features of a specific software tool (TFS Sticky Buddy) without addressing the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -58,15 +58,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-15T07:33:55",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses the release of a software tool (TFS Sticky Buddy) and its features, with some mention of selecting work items and connecting to a Team Server. However, it lacks detailed installation or configuration instructions, which are essential for the 'Install and Configuration' category. The focus is more on the tool's functionality rather than the processes of setting up or configuring it, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -86,15 +86,6 @@
     "reasoning": "Content primarily discusses the features and functionalities of a specific software tool (TFS Sticky Buddy) without any direct reference to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T18:23:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release and features of a software tool, with no clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T18:23:37",
@@ -103,18 +94,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release and features of a software tool, TFS Stick Buddy, without reference to complexity science or its principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-10T13:15:39",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses the release of a specific tool (TFS Stick Buddy) and its features, which aligns with the category of Practical Techniques and Tooling. It provides some details on how to use the tool, including customisation options and work item queries, which reflects a practical application of tooling. However, the discussion lacks depth in terms of methodologies or frameworks that enhance Agile and DevOps practices, and it does not provide broader insights or best practices for tool selection or integration. Therefore, while it is relevant, it does not fully meet the criteria for a high confidence score.",
-    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -127,10 +106,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T18:23:41",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release and features of a software tool without focusing on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -163,38 +142,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-04-08T19:56:50",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the release of a software tool (TFS Stick Buddy) and its features, with no explicit discussion of Evidence-Based Management principles or metrics. While it mentions project management and work item display, it does not align with the core themes of EBM such as empirical decision-making or value delivery.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-04-08T19:56:46",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the release of a software tool (TFS Stick Buddy) and its features related to project management. It does not discuss the Agile Product Operating Model or its principles, nor does it align with the key topics outlined for the category. The mention of project management is too general and does not specifically relate to agile methodologies or product management practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T07:33:47",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on the release of a specific software version (TFS Stick Buddy v0.4.0 CTP2) and provides details about its features and functionalities. While it does mention a new release, which aligns with the 'News' aspect, it lacks broader industry context or analysis that would typically be expected in a news or review article. The depth of discussion is more technical and practical, focusing on usage rather than providing insights or evaluations relevant to Agile or DevOps trends.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -222,42 +189,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release and features of a specific tool (TFS Sticky Buddy) without a clear focus on platform engineering principles or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T18:23:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the release and features of a software tool (TFS Stick Buddy) without any mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T18:23:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the release and features of a software tool without addressing code quality, complexity, or related best practices.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T18:23:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release and features of a software tool, with no mention of events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T18:24:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and functionalities of a software release, with no clear focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -298,24 +229,24 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T18:24:07",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and functionalities of a software release, lacking personal reflections or experiences related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T07:34:10",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses the release of a tool related to TFS (Team Foundation Server), which is part of the Azure DevOps suite. However, it lacks a comprehensive exploration of Azure DevOps functionalities, best practices, or methodologies. While it mentions work items and queries, it does not delve into CI/CD pipelines, integration with other tools, or agile project management practices, which are key topics for the Azure DevOps category. Therefore, while there is some relevance, the overall focus is limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -328,13 +259,13 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-04-08T19:56:32",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the release of a specific tool (TFS Stick Buddy) for project management, with no explicit discussion of DevOps principles or practices. While it touches on aspects of work item management, it does not align with the core themes of DevOps such as collaboration, automation, or shared accountability. The depth of discussion is limited to the features of the tool rather than any DevOps philosophy.",
     "level": "Ignored"
   },
@@ -346,36 +277,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on the release of a software tool and its features, lacking a central discussion on engineering practices or methodologies that enhance technical excellence.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T18:24:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and functionalities of a software tool without addressing human behaviour or structured methodologies in technology and product development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T18:24:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the release and features of a software tool, lacking discussions on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-10T18:58:44",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 30,
-    "ai_depth": 25,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content primarily focuses on the release and features of the TFS Stick Buddy tool, which is a software product relevant to Agile and DevOps practices. It discusses specific functionalities, user interactions, and potential customisations, aligning well with the category's emphasis on tools that facilitate Agile methodologies. However, while it provides a fair amount of detail about the product, it lacks in-depth analysis or reviews that would enhance understanding of Agile principles, thus slightly lowering the confidence score.",
-    "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -406,10 +307,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T19:12:00",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a software release and its features rather than innovation capabilities or evidence-based management.",
     "level": "Ignored"
   },
@@ -438,15 +339,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and usage of a software tool (TFS Sticky Buddy) related to work item management, and does not focus on portfolio management practices or strategic alignment.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T19:12:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on the release of a software tool (TFS Stick Buddy), discussing its features and usage, with little to no mention of Scrum principles, practices, or product development processes.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -478,10 +370,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T19:12:00",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release and features of a software tool related to TFS (Team Foundation Server) without referencing Agile values or principles.",
     "level": "Ignored"
   },
@@ -514,20 +406,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T19:12:00",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about a software release and its features, with no mention or discussion of the Definition of Done.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T19:12:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content mainly discusses a specific software release and its features, with no connection to scaled Agile methodologies or frameworks.",
+    "reasoning": "Content is primarily about a software release and its features, with no mention or discussion of the Definition of Done.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -586,37 +469,25 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-03-15T07:34:19",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses TFS Sticky Buddy, a tool that facilitates task management and team coordination within Agile environments. However, it lacks a comprehensive exploration of collaboration tools as a category, focusing more on the specific features of the tool rather than broader discussions on collaboration practices or comparisons with other tools. While it mentions aspects of team server connection and work item management, it does not delve into best practices or the impact of such tools on team performance, which are key topics in the category.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T07:34:17",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the release of a specific software tool (TFS Sticky Buddy) and its features, which does not directly engage with the role of software developers in Agile or DevOps contexts. While it mentions aspects of work item management and customisation, it lacks a discussion on best practices, methodologies, or the impact of Agile and DevOps on developer productivity and collaboration. Therefore, the content is only tangentially related to the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T17:06:01",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the release of a software tool (TFS Stick Buddy) and its features, which relates to software development. However, it primarily focuses on the tool's functionality rather than broader software development methodologies or practices. While it mentions aspects of work item management and customisation, it lacks in-depth discussion on software development principles or methodologies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -647,7 +518,7 @@
     "reasoning": "Content primarily focuses on the release and features of a software tool and does not discuss estimation techniques, empirical data, or Agile practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T19:12:00",
     "ai_confidence": 0,
@@ -721,22 +592,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-04-08T19:56:56",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the release of a specific software version (TFS Stick Buddy v0.4.0 CTP2) and its features, without discussing Continuous Delivery principles, practices, or benefits. There are no direct mentions of Continuous Delivery, and the discussion lacks depth in terms of automation, incremental improvements, or user feedback, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T19:12:00",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of TFS Stick Buddy and its features without mentioning Lead Time or related measurement topics.",
     "level": "Ignored"
   },
@@ -774,15 +645,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of a software tool without any focus on hypothesis formulation, experimentation, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T19:12:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses the release of a software tool (TFS Stick Buddy) and its features without any mention of AI applications in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -868,25 +730,25 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-03-15T07:34:02",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a specific tool (TFS Sticky Buddy) that can be used for managing work items, which is relevant to Agile planning. However, it lacks a comprehensive exploration of Agile methodologies, techniques for backlog management, or strategies for sprint planning. The focus is primarily on the tool's functionalities rather than its role within Agile frameworks, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-15T07:34:07",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the release of a specific tool (TFS Sticky Buddy) related to Team Foundation Server (TFS), which is a version control system. However, it lacks a detailed exploration of modern source control practices, methodologies, or strategies. While it mentions work items and queries, it does not delve into broader topics such as branching strategies, code review processes, or integration with DevOps practices, which are essential for a higher confidence score in the 'Modern Source Control' category.",
     "level": "Ignored"
   },
@@ -901,22 +763,22 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-15T07:33:47",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the release of a specific version of TFS Stick Buddy, mentioning the features and improvements in that release. However, it lacks a broader discussion on the principles of frequent releases, continuous delivery, or the strategies and practices that support such an approach. While it does mention the release itself, it does not delve into the implications of frequent releases or how they fit into a larger agile or DevOps framework.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T19:12:00",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the release and functionality of a software tool (TFS Sticky Buddy) rather than focusing on team performance, collaboration, or Agile principles. There is no substantive analysis or strategies related to team dynamics or effectiveness.",
     "level": "Ignored"
   },
@@ -931,15 +793,15 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-03-15T07:34:22",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses a tool related to TFS (Team Foundation Server), which is part of the Azure DevOps suite, and mentions work items and queries, which are relevant to Azure Boards. However, it lacks a comprehensive exploration of Azure Boards' functionalities, best practices, or Agile project management principles. The focus is more on the specific tool rather than the broader context of Azure Boards.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -961,19 +823,19 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T19:12:00",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the release and features of a software tool (TFS Stick Buddy) without a clear focus on team collaboration dynamics, techniques, or strategies relevant to Agile, Scrum, or DevOps frameworks.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T19:12:00",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a software release and its features without any mention of the Definition of Ready or related concepts.",
     "level": "Ignored"
   },
@@ -1013,15 +875,6 @@
     "reasoning": "Content primarily discusses a software release (TFS Sticky Buddy) without focusing on remote work practices, challenges, or solutions within an Agile framework.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T19:12:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release and features of a software tool without any reference to Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T19:12:00",
@@ -1029,15 +882,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and functionalities of the TFS Sticky Buddy application, with no clear focus on customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T19:12:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of a software tool and its functionalities, with no clear focus on Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1060,10 +904,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T19:12:00",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the release of a software tool (TFS Stick Buddy) and features related to it, with no focus on Cycle Time or its measurement and implications.",
     "level": "Ignored"
   },
@@ -1132,13 +976,13 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T10:47:09",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 63.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the TFS Sticky Buddy application, which is related to Windows as it operates within the Windows environment and integrates with Visual Studio and TFS. However, the primary focus is on the application itself rather than on Windows as an operating system. While there are mentions of Windows-related functionalities, the depth of discussion is more about the application features than Windows-specific topics like installation, configuration, or troubleshooting. Therefore, the confidence score reflects a moderate alignment with the Windows category.",
     "level": "Secondary"
   },
@@ -1153,13 +997,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T07:33:53",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the release of a software tool and its features, with only a brief mention of potential issues (e.g., connection problems due to proxy settings). While there is some alignment with troubleshooting concepts, such as the need to report bugs and request features, the overall depth of discussion on diagnosing or resolving technical issues is minimal.",
     "level": "Ignored"
   },
@@ -1237,15 +1081,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T15:16:00",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the release of a software tool (TFS Sticky Buddy) and its features, which aligns with the concept of working software. It mentions user customisation and functionality, indicating a focus on meeting user needs. However, it lacks in-depth discussion on best practices or metrics for assessing software quality, which limits its alignment with the core themes of the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1258,45 +1102,45 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T19:12:00",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses a software release and its features, with no focus on Scrum roles, team dynamics, or practices specific to a Scrum Team.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T19:12:00",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on a software release and its functionality rather than team dynamics or motivation.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T07:33:58",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the release of a software tool (TFS Stick Buddy) and its features, with minimal direct discussion of pragmatic thinking or problem-solving strategies. While it mentions customisation and user experience, which align with practical applications, it lacks depth in exploring Agile, Scrum, or DevOps principles. The content does not provide substantial insights into navigating complexity or decision-making processes, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T07:34:14",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on the release of a specific version of TFS Stick Buddy, providing details about its features and usage. While it mentions the release itself, it lacks a comprehensive discussion on release management strategies, practices, or metrics. The content does not delve into planning, scheduling, or controlling the release process, which are key aspects of release management. Therefore, while there is a mention of a release, the overall alignment and depth of discussion regarding release management principles are limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -1325,15 +1169,6 @@
     "reasoning": "Content focuses on the release of a specific software tool, TFS Stick Buddy, and does not discuss any principles or practices of asynchronous development.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T19:12:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the release of a software tool and its features, with no discussion relevant to scaling Scrum practices or principles.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T19:12:00",
@@ -1345,13 +1180,13 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T07:34:05",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the release of a software tool (TFS Stick Buddy) and its features, with limited discussion on operational practices. While it mentions customisation and workflow management through queries, it lacks a deeper exploration of techniques or strategies that enhance operational efficiency within Agile, DevOps, or Lean frameworks. The content does not provide substantial insights into process optimisation, continuous improvement, or metrics for operational efficiency, which are key topics in the category.",
     "level": "Ignored"
   },
@@ -1373,24 +1208,15 @@
     "reasoning": "The content primarily discusses the release and functionalities of a software tool (TFS Stick Buddy) related to TFS (Team Foundation Server), with no mention or discussion of Scrum principles, roles, events, or artifacts.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T19:12:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release and features of a software tool related to TFS and does not address scaling agility or related organizational strategies.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:56:48",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the release of a software tool (TFS Stick Buddy) and does not discuss the role, responsibilities, or impact of a Scrum Master. There are no direct mentions of Scrum or related concepts, and the discussion lacks depth regarding any Scrum-related themes.",
     "level": "Ignored"
   },
@@ -1414,25 +1240,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:56:53",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 3.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the release of a software tool (TFS Stick Buddy) and its features, with no explicit discussion of Test First Development principles, success criteria, or testing practices. While it mentions quality control in passing, it does not delve into the core themes of Test First Development, such as TDD or ATDD, nor does it provide any depth on the subject.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:52:09",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the release of a software tool (TFS Stick Buddy) and its features, with minimal discussion on collaboration, decision-making, or value delivery. While it mentions customization and project management, it lacks a deeper exploration of social technologies or their impact on team dynamics and organisational culture.",
     "level": "Ignored"
   },
@@ -1465,73 +1291,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T07:33:47",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the release of a software tool (TFS Stick Buddy) and its features, with no explicit mention of Scrum principles, roles, events, or artifacts. While it touches on work items and project management, it does not align with the core themes of Scrum or provide any depth in discussing Scrum practices.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:42:13",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the release of a software tool (TFS Stick Buddy) and its features, with no explicit discussion of the Shift-Left Strategy. While there is a brief mention of quality control, it does not delve into integrating testing, security, or compliance early in the development process, nor does it provide any techniques, case studies, or tools related to the Shift-Left approach.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-04-08T19:56:35",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the release of a software tool (TFS Stick Buddy) and its features, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it mentions project management and work item customisation, these topics do not connect to the core themes of aligning strategy with execution or shared objectives. The content lacks depth in discussing how these features contribute to organisational performance or team alignment.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-04-08T19:56:37",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the release of a software tool, TFS Stick Buddy, and its features. While it mentions aspects of project management and customisation, it does not explicitly discuss competence, continuous learning, or skill development. The connection to the category of competence is minimal and lacks depth, making it a secondary theme rather than a primary focus.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-04-08T19:56:40",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the release of a software tool (TFS Stick Buddy) and its features, with no explicit discussion on Continuous Improvement principles. While there are mentions of customisation and user feedback, these are not explored in the context of Continuous Improvement methodologies or strategies. The content lacks depth in discussing how the tool contributes to ongoing enhancements or team effectiveness, which are core themes of Continuous Improvement.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:56:43",
+    "calculated_at": "2025-04-10T15:56:41",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the release of a software tool (TFS Stick Buddy) and its features, with no explicit discussion of Agentic Agility or its principles. While there are mentions of customisation and project management, these do not align with the core themes of intentionality, autonomy, or adaptability in shaping outcomes. The content lacks depth in exploring the interplay between human and AI capabilities, making it largely irrelevant to the category.",
     "level": "Ignored"
   }

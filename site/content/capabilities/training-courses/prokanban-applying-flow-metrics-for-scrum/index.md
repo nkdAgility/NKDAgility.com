@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: course
 ResourceContentOrigin: human
 date: 2024-01-12
-weight: 550
+weight: 500
 creator: Martin Hinshelwood
 type: course
 slug: applying-flow-metrics-for-scrum
@@ -31,18 +31,28 @@ delivery-audiences:
 - Product Owners
 - Lean Agile Practitioners
 tags:
-- Metrics and Learning
 - Flow Efficiency
-- Practical Techniques and Tooling
-- Scrum Product Development
-- Throughput
+- Metrics and Learning
+- Agile Frameworks
+- Agile Planning
 - Agile Product Management
-- Agile Project Management
+- Agile Transformation
 - Cycle Time
+- Empirical Process Control
+- Forecasting
+- Operational Practices
+- Pragmatic Thinking
+- Professional Scrum
 - Scrum Team
+- Software Development
 - Team Performance
+- Throughput
+- Value Delivery
+- Product Backlog
+- Scrum Master
 categories:
 - Scrum
+- Product Development
 preview: NKDAgility-Courses-AFMS-16x9-1.jpg
 previewIcon: AFMS.png
 brandColour: 

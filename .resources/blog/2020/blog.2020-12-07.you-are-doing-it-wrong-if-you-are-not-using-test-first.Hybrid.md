@@ -9,7 +9,7 @@ ResourceImportId: 9469
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-12-07
-weight: 330
+weight: 255
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -25,20 +25,25 @@ aliasesArchive:
 - /you-are-doing-it-wrong-if-you-are-not-using-test-first
 - /resources/blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
 tags:
-- Test First Development
-- Software Development
 - Technical Excellence
 - Engineering Practices
-- Test Driven Development
+- Software Development
+- Test First Development
+- Operational Practices
 - Test Automation
 - Working Software
 - Automated Testing
-- Software Developers
-- Operational Practices
+- Technical Mastery
+- Test Driven Development
+- Pragmatic Thinking
+- Value Delivery
+- Shift-Left Strategy
+- Competence
+- Product Delivery
+- Acceptance Test Driven Development
+- Product Validation
 categories:
 - Engineering Excellence
-- Social Technologies
-- DevOps
 preview: nkdAgility-PSD-Krakow-0-1-1.jpg
 
 ---

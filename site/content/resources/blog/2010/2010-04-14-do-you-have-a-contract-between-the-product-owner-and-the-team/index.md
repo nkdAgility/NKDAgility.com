@@ -9,7 +9,7 @@ ResourceImportId: 52
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-14
-weight: 810
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,15 +28,12 @@ aliasesArchive:
 - /blog/do-you-have-a-contract-between-the-product-owner-and-the-team-
 - /resources/blog/do-you-have-a-contract-between-the-product-owner-and-the-team
 tags:
-- Agile Project Management
 - Software Development
-- Agile Product Management
-- Scrum Product Development
-- Scrum Team
 - Agile Planning
 - Professional Scrum
 - Agile Frameworks
-- People and Process
+- Agile Product Management
+- Scrum Team
 - Product Delivery
 categories:
 - Scrum

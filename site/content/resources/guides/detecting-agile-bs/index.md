@@ -25,7 +25,7 @@ videos:
 - title: 'Agile Evolution: Live Site Culture & Site Reliability at Azure DevOps'
   embed: https://www.youtube.com/embed/5bgcpPqcGlw
 date: 2024-09-17
-weight: 420
+weight: 360
 creator: Martin Hinshelwood
 card:
   button:
@@ -40,18 +40,19 @@ aliasesArchive:
 - /Guides/Detecting-Agile-BS.html
 - /learn/agile-delivery-kit/guides/detecting-agile-bs
 categories:
+- Product Development
 - Engineering Excellence
 tags:
 - Software Development
-- Software Developers
-- Agile Project Management
-- Product Delivery
 - Operational Practices
+- Product Delivery
+- Agile Transformation
 - Agile Values and Principles
 - Working Software
-- People and Process
-- Agile Transformation
-- Practical Techniques and Tooling
+- Agile Philosophy
+- Agile Strategy
+- Pragmatic Thinking
+- Value Delivery
 
 ---
 Agile is a buzzword of software development, and so all DoD software development projects are, almost by default, now declared to be “agile.” The purpose of this document is to provide guidance to DoD program executives and acquisition professionals on how to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing (“agile-scrum-fall”).

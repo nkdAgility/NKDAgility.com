@@ -8,15 +8,6 @@
     "reasoning": "Content does not discuss Agile Product Management; it focuses on a personal blog and unrelated topics.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T02:01:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal blog and does not focus on practical techniques or tooling related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-16T02:01:41",
@@ -28,41 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T09:10:37",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal journey related to corporate blogging and does not mention or align with any principles of Evidence-Based Management. There is no discussion of metrics, data-informed decision-making, or any of the key topics outlined in the category.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T02:01:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a colleague's blogging experience and personal anecdotes, with no focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T02:01:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a colleague's blog post and personal experiences, lacking a focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T02:01:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not discuss AI, automation, or Agile practices; it focuses on a personal blog post about SQL Server functions.",
     "level": "Ignored"
   },
   "Lean": {
@@ -76,20 +40,11 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T02:01:48",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a colleague's blogging experience and personal insights, with no focus on installation or configuration topics.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T02:01:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a colleague's blogging experience and personal achievements, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -110,24 +65,15 @@
     "reasoning": "Content primarily discusses a personal blog post and does not address the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T02:01:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a colleague's blogging experience and does not address organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T09:10:25",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal journey related to corporate blogging and SQL Server functions, with no direct mention or discussion of DevOps principles, practices, or cultural shifts. It lacks any alignment with the core themes of DevOps, such as collaboration, automation, or shared accountability, and does not provide any depth on the topic. Therefore, it is classified as having a very low confidence score for the DevOps category.",
     "level": "Ignored"
   },
@@ -149,15 +95,6 @@
     "reasoning": "Content primarily discusses a colleague's blogging experience and a specific SQL Server function, with no focus on decision-making processes or related themes.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T02:01:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a colleague's personal blog and does not reference any events, presentations, or discussions related to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T02:02:04",
@@ -165,15 +102,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a colleague's blogging experience and does not relate to flow efficiency or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T02:02:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a personal blog post and does not discuss team dynamics, collaboration, or any structured methodologies related to technology and product development.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -196,10 +124,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T02:02:10",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal blog and a colleague's experience, with no focus on metrics, learning, or related themes.",
     "level": "Ignored"
   },
@@ -266,15 +194,6 @@
     "reasoning": "Content primarily discusses a colleague's blogging experience and does not relate to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T02:02:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a colleague's blogging experience and personal insights, with no focus on products, books, or Agile/DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-16T02:02:21",
@@ -295,10 +214,10 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T02:02:25",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a colleague's blogging experience and does not focus on personal reflections or insights related to Agile, Scrum, DevOps, or business agility.",
     "level": "Ignored"
   },
@@ -313,22 +232,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T02:02:27",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a colleague's blogging experience and personal insights, with no focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T09:10:35",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses on a personal blog journey and SQL Server functions, with no relevant discussion on Agile methodologies, product management, or the Agile Product Operating Model. It does not mention any key topics related to APOM, nor does it provide any depth or alignment with the category's principles.",
     "level": "Ignored"
   },
@@ -339,15 +258,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a colleague's personal blogging experience and does not address organisational agility or related themes.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T02:02:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a personal blog and a colleague's experience rather than industry news or reviews related to Agile, DevOps, or technology.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -370,10 +280,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T02:06:50",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a colleague's blog and personal experiences, with no reference to the Definition of Done or Agile principles.",
     "level": "Ignored"
   },
@@ -397,13 +307,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T09:10:40",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal blog journey and does not mention Continuous Delivery or its principles. There is no alignment with the core themes of Continuous Delivery, and the depth of discussion is non-existent regarding the category.",
     "level": "Ignored"
   },
@@ -436,10 +346,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T02:06:50",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not discuss the Definition of Ready or any related topics; it appears to focus on a personal blog and updates about a colleague.",
     "level": "Ignored"
   },
@@ -596,21 +506,12 @@
     "reasoning": "The content primarily discusses a colleague's blogging experience and highlights a particular blog post about SQL Server without delving into software development methodologies, techniques, or practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T02:06:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal blog post and does not relate to Agile Project Management principles, frameworks, or practices.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T02:06:50",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal blog and SQL Server functionality without any focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -704,15 +605,6 @@
     "reasoning": "Content primarily discusses a colleague's blogging experience and is unrelated to customer satisfaction or practices related to it.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T02:06:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scaling Scrum or related topics; it is personal in nature and focused on a colleague's blog post.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T02:06:50",
@@ -729,15 +621,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses a colleague starting a blog and their personal experience, but does not relate to psychological safety or its importance in team dynamics.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T02:06:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a personal blog and the author's colleague, with no discussion on scaling agility or related topics.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -805,29 +688,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T02:06:50",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a personal blog and does not discuss innovation capabilities, empirical data, or Evidence-Based Management principles.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T02:06:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not discuss Scrum principles, practices, or product development; it seems to be more personal in nature and unrelated to Scrum.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T02:06:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss any aspects of Scaled Agile or related frameworks; it focuses on a personal blog and a colleague's writing experience.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -868,10 +733,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-16T02:06:50",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a colleague's blog and a specific SQL Server function without focusing on working software principles, discussions, or practices.",
     "level": "Ignored"
   },
@@ -1037,22 +902,13 @@
     "reasoning": "Content primarily discusses a colleague's blogging experience and does not relate to digital transformation strategies or technologies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T02:06:50",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on a personal blog and a colleague's writing, with no discussion of Minimum Viable Products or related topics.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T02:06:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is primarily about a colleague's blog and does not discuss AI or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1102,13 +958,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:28:27",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses on a personal journey in corporate blogging and does not mention Test First Development or its principles. There is no discussion of success criteria, testing practices, or any related topics, making it irrelevant to the category.",
     "level": "Ignored"
   },
@@ -1150,10 +1006,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-16T02:06:50",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not discuss remote working practices, challenges, or Agile methodologies; it focuses on a personal blog post about SQL Server functions.",
     "level": "Ignored"
   },
@@ -1186,13 +1042,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:28:30",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not discuss the role or responsibilities of a Scrum Master, nor does it touch on any related themes such as agile principles or team dynamics. It focuses entirely on a colleague's blogging journey and SQL Server functions, which are unrelated to the Scrum framework.",
     "level": "Ignored"
   },
@@ -1207,20 +1063,11 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-16T02:06:50",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about a colleague's blogging experiences and does not discuss working agreements or teamwork principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T02:06:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a personal blog post by a support analyst and does not discuss software development methodologies or the role of software developers in Agile or DevOps contexts.",
+    "reasoning": "Content is primarily about a colleague's blogging experiences and does not discuss working agreements or teamwork principles.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1340,15 +1187,6 @@
     "reasoning": "Content is primarily focused on a colleague's blogging and does not relate to accountability in Agile practices or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T02:06:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a personal blogging experience and SQL Server rather than any aspects of Scaling Kanban.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T02:06:50",
@@ -1369,13 +1207,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:44:55",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a personal narrative about a colleague's blogging experience, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. It lacks alignment with the core themes of the category and provides minimal depth on any relevant topics.",
     "level": "Ignored"
   },
@@ -1408,73 +1246,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:53:09",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not mention Scrum or any related concepts. It focuses on a personal blog post about SQL Server, which is unrelated to Scrum principles, practices, or frameworks.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:35:25",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not discuss the Shift-Left Strategy or any related concepts. It focuses on a personal blog post and a colleague's experience, which is unrelated to software development processes or the integration of testing, security, and compliance in the development lifecycle.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T09:10:27",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal journey related to corporate blogging and does not discuss Continuous Improvement principles or practices. There are no direct mentions of Continuous Improvement, nor does it align with the core themes such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is minimal, as it lacks any relevant detail on Continuous Improvement strategies or frameworks.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T09:10:29",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal anecdote about a colleague's blogging journey and does not discuss any aspects related to Common Goals in Agile or DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, which are essential for this category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T09:10:32",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a personal journey of a colleague in corporate blogging, with no explicit discussion of competence, continuous learning, or skill development. While it mentions a blog post about SQL Server functions, it does not delve into the importance of competence in Agile or DevOps contexts, nor does it provide any strategies for fostering a culture of competence. Therefore, the alignment with the category is minimal.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:28:25",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal journey in corporate blogging and does not discuss Agentic Agility or its principles. There are no direct mentions of autonomy, adaptability, or intentional shaping of outcomes, nor does it explore the interplay between human and AI capabilities. The discussion is unrelated to the core themes of the category.",
     "level": "Ignored"
   }

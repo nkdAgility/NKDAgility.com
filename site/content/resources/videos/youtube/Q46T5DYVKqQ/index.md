@@ -26,23 +26,32 @@ preview: https://i.ytimg.com/vi/Q46T5DYVKqQ/maxresdefault.jpg
 duration: 54
 isShort: true
 tags:
-- Experimentation
-- Empirical Process Control
 - Evidence Based Leadership
 - Decision Making
 - Metrics and Learning
-- Discovery and Learning
+- Experimentation
+- Empirical Process Control
 - Pragmatic Thinking
 - Agile Philosophy
 - Continuous Improvement
+- Ability to Innovate
+- Agile Product Management
+- Continuous Learning
+- Organisational Agility
+- Agile Planning
+- Agile Transformation
+- Evidence Based Management
 - Agile Values and Principles
+- Market Adaptability
+- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 Empiricism is an interesting beast, isn’t it? At its core, empiricism is the idea that all knowledge stems from observable data. This principle is the foundation of science, and it has found a comfortable home within the agile way of working, as well as in various other business methodologies. 

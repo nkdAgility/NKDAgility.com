@@ -2,7 +2,7 @@
 title: 'The Power of Kaizen: Continuous Improvement in Scrum and Beyond'
 description: Unlock the power of Kaizen in Kanban! Discover how continuous improvement can elevate your workflows and drive optimal results. Embrace the journey!
 date: 2024-08-25T22:00:34Z
-weight: 485
+weight: 430
 ResourceId: pVPzgsemxEY
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -31,20 +31,25 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Continuous Improvement
 - Operational Practices
+- Continuous Improvement
 - Agile Frameworks
-- Agile Project Management
 - Software Development
 - Continuous Learning
 - Lean Principles
 - Pragmatic Thinking
-- Discovery and Learning
 - Team Performance
+- Agile Transformation
+- Lean Thinking
+- Organisational Agility
+- Agile Values and Principles
+- Scrum Master
+- Social Technologies
+- Competence
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
 In the world of Scrum, Agile, and Kanban, we often borrow terms from other languages to express important principles. One such term is **Kaizen** – a Japanese word that signifies continuous improvement. While we may not always use the word exactly as intended in its native language, the underlying concept is something we should all embrace in our professional lives.

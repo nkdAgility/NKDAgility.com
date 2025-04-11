@@ -29,7 +29,6 @@ tags:
 - Install and Configuration
 - Release Management
 - System Configuration
-- Practical Techniques and Tooling
 - Software Development
 - Product Delivery
 sitemap:

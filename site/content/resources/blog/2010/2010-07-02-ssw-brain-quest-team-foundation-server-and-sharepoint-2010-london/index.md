@@ -9,7 +9,7 @@ ResourceImportId: 36
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-07-02
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,10 +28,7 @@ aliasesArchive:
 - /blog/ssw-brain-quest--team-foundation-server-and-sharepoint-2010-(london)
 - /resources/blog/ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london
 tags:
-- Events and Presentations
 - Software Development
-- Practical Techniques and Tooling
-- Products and Books
 - Application Lifecycle Management
 - Product Delivery
 categories: []

@@ -33,16 +33,15 @@ delivery-audiences:
 - Product Managers
 - Teams
 tags:
-- Experimentation
-- Practical Techniques and Tooling
 - Decision Making
-- Discovery and Learning
+- Experimentation
 - Hypothesis Driven Development
+- Metrics and Learning
+- Pragmatic Thinking
 - Product Discovery
 - Product Validation
-- Metrics and Learning
-- Products and Books
 - Value Delivery
+- Entrepreneurship
 categories:
 - Product Management
 preview: NKDAgility-Courses-PSVS-16x9-1.png

@@ -26,7 +26,7 @@ references:
 recommendedContent: 
 videos: 
 date: 2024-09-17
-weight: 445
+weight: 390
 creator: Martin Hinshelwood
 card:
   button:
@@ -34,20 +34,29 @@ card:
   content: Discover more about The Evidence-Based Management Guide
   title: The Evidence-Based Management Guide Improving Value Delivery under Conditions of Uncertainty
 categories:
+- Product Development
 - Product Management
-- Social Technologies
-- Scrum
 tags:
-- Ability to Innovate
 - Strategic Goals
-- Evidence Based Management
-- Value Delivery
 - Decision Making
 - Evidence Based Leadership
+- Evidence Based Management
 - Metrics and Learning
-- Experimentation
+- Value Delivery
 - Agile Product Management
-- People and Process
+- Agile Strategy
+- Business Agility
+- Organisational Agility
+- Product Strategy
+- Software Development
+- Enterprise Agility
+- Common Goals
+- Continuous Improvement
+- Current Value
+- Hypothesis Driven Development
+- Unrealised Value
+- Empirical Process Control
+- Pragmatic Thinking
 
 ---
 # The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty

@@ -37,22 +37,22 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-12T05:10:02",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban, its implementation, and related tools, with no significant focus on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-03-14T19:38:09",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the implementation of Kanban as a workflow management strategy, which is more about process optimisation than the systems thinking principles central to Organisational Physics. While it touches on aspects like continuous improvement and metrics, it lacks a deep exploration of organisational dynamics, structure, or culture, which are key themes in the category. The discussion is practical and process-oriented rather than theoretical or systemic.",
     "level": "Ignored"
   },
@@ -67,15 +67,15 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-03-14T19:37:54",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Kanban and its implementation, focusing on metrics and continuous improvement, which aligns with evidence-based practices. However, it primarily centres on the Kanban methodology rather than explicitly addressing leadership decisions or organisational improvements based on empirical evidence. The mention of metrics is relevant but does not delve deeply into leadership implications, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -115,22 +115,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T05:10:14",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban methodology and project management practices, with no focus on system configuration or related technical aspects.",
     "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-14T19:37:22",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the Kanban methodology, which is a workflow management tool rather than a direct discussion on digital transformation. While it mentions metrics and continuous improvement, which can relate to operational efficiency, it lacks a clear emphasis on the strategic adoption of digital technologies for business transformation. The discussion is more about implementing Kanban rather than how it fits into a broader digital transformation strategy.",
     "level": "Ignored"
   },
@@ -145,48 +145,48 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-14T15:14:09",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Kanban and its implementation, focusing on metrics and continuous improvement, which are relevant to decision-making. However, it lacks a structured discussion on decision-making methodologies and frameworks, making it a secondary focus rather than a primary one.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-12T05:10:21",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation of Kanban and the use of metrics, rather than focusing on self-organisation principles or practices.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-03-14T19:38:19",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban as a workflow management strategy and does not explicitly address remote working practices or challenges. While it mentions collaboration and team engagement, these concepts are not tied to remote Agile teams or the specific challenges of remote work. The discussion lacks depth in relation to remote working strategies, tools, or practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-03-14T19:37:07",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses Kanban, which is related to Lean principles, particularly in terms of continuous improvement and workflow optimisation. However, it does not explicitly mention Lean Product Development or its core themes, such as waste reduction or customer feedback. The focus is more on Kanban as a methodology rather than a discussion of Lean principles in product development, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -208,31 +208,31 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-12T05:10:29",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban methodologies and the use of JIRA and Azure DevOps for work management, without a clear focus on Azure Repos functionalities or source control topics.",
     "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-03-14T19:38:17",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses Kanban and its benefits, including visibility and metrics, which are related to transparency. However, it does not explicitly focus on transparency as a primary theme, nor does it delve deeply into the broader implications of transparency in Agile processes. The mention of visibility in the context of workflow is relevant but not comprehensive enough to classify the content as primarily about transparency.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T05:10:32",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban implementation and metrics, with no clear focus on the Definition of Done.",
     "level": "Ignored"
   },
@@ -265,60 +265,51 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-13T15:05:27",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses Kanban as a strategy for improving workflow and productivity, which aligns with the Strategy category's focus on optimising delivery processes. It mentions metrics and continuous improvement, both of which are key topics in the Strategy category. However, while it provides a good level of detail on implementing Kanban, it does not delve deeply into strategic alignment with organisational goals or leadership roles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-14T19:37:47",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Kanban and its role in continuous improvement and metrics, which are relevant to innovation. However, it primarily focuses on workflow optimisation rather than directly addressing the broader themes of the Ability to Innovate category, such as Evidence-Based Management or organisational innovation capabilities.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-10T11:46:50",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on Kanban, an Agile framework, discussing its implementation and the importance of metrics in facilitating conversations about workflow. It provides practical advice on starting with Kanban and highlights the role of data in driving improvements, which aligns well with the core themes of Agile frameworks. However, while it discusses Kanban in detail, it does not explore other Agile frameworks or provide a comparative analysis, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T05:10:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on getting started with Kanban and individual team practices, without discussing scaling agility or organisational-level strategies.",
-    "level": "Ignored"
-  },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-14T19:38:02",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Kanban as a methodology for improving workflows and productivity, which indirectly relates to team collaboration. However, it primarily focuses on the implementation of Kanban rather than explicitly addressing team dynamics, communication, or shared ownership within Agile frameworks. While there are mentions of engaging stakeholders and fostering a culture of continuous improvement, these points are not explored in depth, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -331,27 +322,27 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-03-13T16:35:54",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 78.0,
     "ai_mentions": 3,
     "ai_alignment": 85.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on Kanban, which is a Lean tool, and discusses its principles such as continuous improvement and workflow optimisation. It explicitly mentions metrics and fostering a culture of continuous improvement, aligning well with Lean Thinking concepts. However, it does not delve deeply into broader Lean principles or waste identification, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-03-10T14:02:36",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses Cycle Time explicitly, particularly in the context of using metrics to analyse workflow efficiency. It mentions measuring Cycle Time, visualising it through scatter plots, and encourages discussions around it during retrospectives. While the primary focus is on Kanban and its implementation, Cycle Time is a significant aspect of the discussion, aligning well with the key topics of the category. The depth of discussion is substantial, providing practical insights and examples, but it is somewhat secondary to the broader topic of Kanban implementation.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -373,13 +364,13 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T17:58:37",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses Kanban, a methodology within the Agile framework, which is a key topic in software development. It mentions tools like JIRA and Azure DevOps, which are used for managing software projects, and touches on metrics and workflow discussions that are relevant to software development practices. However, the focus is more on the implementation and initial steps rather than in-depth exploration of software development methodologies or best practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -394,31 +385,31 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-11T09:57:24",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the use of metrics, specifically cycle time, to analyse and improve workflows, which aligns with the concept of throughput. However, the primary focus is on introducing Kanban rather than a deep exploration of throughput itself. While it mentions measuring cycle time and using data to drive discussions, it lacks a comprehensive examination of throughput's significance or strategies for optimisation, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-12T05:10:57",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban methodologies and practices, with only brief mentions of Azure DevOps in the context of work management, lacking a focus on Azure Pipelines or CI/CD processes.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-12T05:10:59",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Kanban implementation and tools without reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -469,15 +460,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-14T19:38:14",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on Kanban, which is related to Agile methodologies but does not explicitly discuss empirical process control principles. While it mentions metrics and continuous improvement, it lacks a detailed exploration of transparency, inspection, and adaptation as core themes of empirical process control.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -490,13 +481,13 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-03-14T19:37:10",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Kanban as a methodology rather than Azure Boards specifically. While Azure DevOps is mentioned in the context of creating a Kanban board, the discussion does not delve into Azure Boards' functionalities, best practices, or its role in Agile project management. The content lacks depth in discussing Azure Boards and does not align closely with the key topics outlined for this category.",
     "level": "Ignored"
   },
@@ -508,18 +499,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Kanban implementation and metrics without any reference to revenue per employee or related financial efficiency topics.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-11T17:27:16",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses Kanban as a workflow strategy, which is relevant to software development, but it does not specifically focus on the role of software developers within Agile or DevOps frameworks. While it mentions tools like JIRA and Azure DevOps, the discussion lacks depth in terms of best practices or the impact on developer productivity and collaboration. Overall, it touches on relevant themes but does not provide a comprehensive exploration of the role of software developers in these contexts.",
-    "level": "Tertiary"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -589,31 +568,25 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T05:11:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:15:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Kanban implementation and metrics like cycle time, without a clear focus on Lead Time as defined in the category.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T05:11:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban implementation and individual team practices without reference to scaling Agile across multiple teams or an enterprise level.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses Kanban and mentions metrics like cycle time, which is related to Lead Time, but it does not focus on Lead Time as a primary topic. The discussion is more about implementing Kanban and improving workflows rather than specifically addressing Lead Time as an observability metric. While there is some conceptual alignment with the idea of measuring efficiency, the depth of discussion on Lead Time itself is minimal.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T11:20:21",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses practical strategies for implementing Kanban in an organisation, emphasising the importance of data analysis and team discussions to improve workflow. It aligns well with the core themes of pragmatic thinking by providing real-world applications of Kanban principles, highlighting the role of metrics in decision-making, and suggesting workshops to foster team collaboration. However, while it touches on Agile concepts, it lacks a deeper exploration of the complexities and uncertainties typically associated with project management, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -626,18 +599,6 @@
     "reasoning": "Content primarily discusses the implementation of Kanban and the use of metrics to understand workflow, without a clear focus on deployment frequency or its optimisation.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-11T14:25:19",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 32.0,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content primarily focuses on Kanban, a key agile framework, discussing its implementation, metrics, and continuous improvement. It aligns well with agile principles, emphasising flexibility and collaboration, but lacks detailed exploration of broader agile concepts and roles like Scrum Master or Product Owner.",
-    "level": "Secondary"
-  },
   "Continuous Integration": {
     "category": "Continuous Integration",
     "calculated_at": "2025-02-12T05:11:32",
@@ -649,15 +610,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-14T19:37:19",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on the practical implementation of Kanban as a workflow management tool rather than discussing Agile Strategy in a strategic context. While it touches on continuous improvement and metrics, which are relevant to Agile principles, it lacks a comprehensive exploration of how these practices align with an organisation's vision or strategic planning. The discussion is more operational than strategic, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -682,63 +643,42 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T05:11:39",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses getting started with Kanban and does not focus on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-03-14T19:37:02",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content primarily discusses the implementation of Kanban and the use of metrics in project management, with only brief mentions of conversations and questions that could relate to sensemaking. However, it does not focus on the principles or frameworks of sensemaking in complex environments.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-12T05:11:42",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation of Kanban and the use of metrics without a clear focus on team motivation or dynamics.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-14T19:37:29",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 62.0,
     "ai_mentions": 3,
     "ai_alignment": 70.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Kanban as a methodology for improving team workflows and productivity, which aligns with the core themes of enhancing team performance and collaboration. It mentions metrics and continuous improvement, both of which are relevant to measuring team effectiveness. However, the focus is primarily on Kanban rather than directly addressing Agile or Scrum principles, and while it touches on team dynamics, it lacks in-depth exploration of team performance strategies or Agile ceremonies.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T05:11:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Kanban methodology and its implementation, with no clear focus on AI applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-03-14T19:37:52",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on initiating a Kanban pilot within a single team rather than discussing the scaling of Kanban across multiple teams or departments. While it touches on Kanban principles and metrics, it lacks depth in exploring how these principles can be applied in large organisations or how to manage dependencies and improve flow in complex systems.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -760,25 +700,25 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-03-14T19:37:04",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses Kanban, which is closely related to Lean Principles, particularly in its focus on continuous improvement and waste reduction. However, it primarily centres on the implementation of Kanban rather than explicitly addressing Lean Principles as a primary focus. While it mentions concepts like continuous improvement and metrics, it lacks a deeper exploration of Lean's core principles and tools, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-14T19:38:04",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily focuses on Kanban, which is a framework within Agile methodologies. While it discusses aspects of continuous improvement and metrics, it lacks a broader discussion on Agile transformation principles, change management strategies, or leadership roles. The depth of discussion on Kanban is substantial, but it does not fully encompass the wider scope of Agile transformation as defined in the category.",
     "level": "Secondary"
   },
@@ -802,13 +742,13 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-14T19:37:17",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the implementation of Kanban as a workflow management strategy, which is more aligned with operational efficiency than with organisational change. While it briefly touches on aspects like overcoming resistance and fostering a culture of continuous improvement, these discussions do not delve deeply into the broader principles of organisational change or frameworks like ADKAR or Kotter's 8-Step Process. The emphasis is on practical steps for initiating a Kanban pilot rather than on strategic methodologies for transforming an organisation.",
     "level": "Ignored"
   },
@@ -821,38 +761,29 @@
     "reasoning": "Content primarily discusses Kanban implementation and team workflow management, with no focus on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T05:12:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban, not Scrum principles or practices, and lacks a clear connection to Scrum product development.",
-    "level": "Ignored"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-11T16:14:30",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a comprehensive guide on implementing Kanban, which is a key operational practice aimed at enhancing workflow and productivity. It directly discusses techniques for process optimisation, the importance of metrics, and strategies for continuous improvement, all of which align closely with the core themes of the Operational Practices category. The depth of discussion is significant, covering practical steps and considerations for initiating a Kanban pilot, thus demonstrating a strong focus on operational efficiency.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:46:33",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses metrics and their importance in the context of Kanban, which aligns with the Evidence-Based Management category. However, the primary focus is on Kanban implementation rather than a comprehensive exploration of EBM principles. While it mentions metrics like cycle time and throughput, it does not delve deeply into the broader themes of EBM such as current value, unrealised value, or empirical decision-making. Therefore, while there is some relevant content, it is not the main focus.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -863,24 +794,15 @@
     "reasoning": "Content primarily discusses Kanban implementation and metrics, with no clear focus on backlog refinement or related Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T05:12:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban and its implementation, with no clear focus on scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T16:04:43",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content focuses exclusively on Kanban, a different methodology, and does not mention the role or responsibilities of a Scrum Master. While it touches on concepts like continuous improvement and team dynamics, these are not specific to the Scrum Master role, leading to a very low confidence score.",
     "level": "Ignored"
   },
@@ -931,10 +853,10 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-14T19:37:02",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses Kanban and its implementation, but it primarily focuses on the practical aspects of using Kanban tools and metrics rather than Agile Planning principles or methodologies. Agile Planning is not the central theme.",
     "level": "Ignored"
   },
@@ -947,7 +869,7 @@
     "reasoning": "Content primarily discusses the implementation of Kanban and the use of metrics without a clear focus on accountability or team ownership principles.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T05:12:20",
     "ai_confidence": 0,
@@ -958,13 +880,13 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-03-14T19:37:14",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the Kanban methodology, detailing its implementation and metrics rather than discussing specific collaboration tools or their integration with Agile principles. While it mentions tools like JIRA and Azure DevOps, these references are secondary to the main topic of Kanban. The discussion lacks depth on collaboration tools themselves, which diminishes its alignment with the category.",
     "level": "Ignored"
   },
@@ -988,10 +910,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-12T05:12:25",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban and its implementation, with no clear focus on Scrum roles, team dynamics, or practices specific to a Scrum Team.",
     "level": "Ignored"
   },
@@ -1051,15 +973,15 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-03-14T19:37:56",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on Kanban as a methodology rather than explicitly discussing Agile Planning Tools. While it mentions tools like JIRA and Azure DevOps, the discussion is more about the Kanban process and its benefits rather than the tools' functionalities in the context of Agile planning. The alignment with Agile Planning Tools is present but not the primary focus, and the depth of discussion on specific planning tools is limited.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1099,13 +1021,13 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-14T19:38:11",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses Kanban and its principles, including continuous improvement and the importance of metrics, which aligns with the Continuous Learning category. However, while it touches on fostering a culture of continuous improvement, it lacks a deeper exploration of knowledge sharing and growth mindset principles. The focus is more on the implementation of Kanban rather than a broader discussion on continuous learning practices.",
     "level": "Secondary"
   },
@@ -1120,87 +1042,60 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-14T19:37:45",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Kanban as a methodology for improving team workflows and productivity, which is more aligned with team-level practices rather than enterprise-level agility. While it mentions metrics and continuous improvement, it lacks a broader organisational context and does not discuss frameworks, structures, or leadership roles that support enterprise agility.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-03-14T19:37:25",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses Kanban, which is a Lean tool, and touches on continuous improvement and metrics, aligning with Lean principles. However, it primarily focuses on Kanban as a standalone methodology without deeply integrating Lean concepts or discussing waste reduction or value stream mapping, which are central to Lean. Therefore, while there is a connection to Lean, it is not the primary focus.",
     "level": "Secondary"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T05:09:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the implementation of Kanban and the use of metrics without a clear focus on organisational resilience or change management strategies.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T05:09:06",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation and use of Kanban strategies and tools like JIRA and Azure DevOps, rather than focusing on installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T05:09:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Kanban implementation and team dynamics, with no focus on software code quality or complexity theory.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-03-06T13:49:11",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the implementation of Kanban and the importance of metrics like cycle time, which are directly related to flow efficiency. It highlights the need for visualising data to identify bottlenecks and improve throughput, aligning well with the core themes of flow efficiency. However, while it provides practical advice and examples, the depth of discussion on specific flow efficiency techniques and metrics could be more comprehensive.",
     "level": "Secondary"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T05:09:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Kanban implementation and team dynamics without a focus on AI or automation technologies within Agile frameworks.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-14T19:37:59",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 24,
     "ai_depth": 26,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Kanban as a methodology for improving workflow and productivity, which aligns with product delivery principles. It mentions metrics, continuous improvement, and stakeholder engagement, all relevant to the delivery process. However, it lacks a direct focus on the end-to-end product delivery process and does not delve deeply into deployment or testing phases, which slightly lowers the confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1211,77 +1106,35 @@
     "reasoning": "Content primarily discusses Kanban implementation and metrics, without a clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-14T19:37:43",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 17.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses Kanban as a methodology for improving workflows and enhancing productivity, which aligns with the principles of continuous improvement and learning. However, the primary focus is on the implementation of Kanban rather than on the broader themes of discovery and learning. While it mentions fostering a culture of continuous improvement and using metrics to drive insights, these aspects are not explored in depth, leading to a moderate confidence score.",
-    "level": "Secondary"
-  },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-12T05:09:20",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban implementation and metrics without a focus on Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-12T05:09:21",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation of Kanban and the use of metrics in project management, without a clear focus on complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T05:09:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the implementation of Kanban and the use of metrics without a clear focus on transparency and accountability principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-06T14:55:37",
-    "ai_confidence": 87.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 90.0,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content provides a detailed exploration of implementing Kanban as a practical technique, discussing specific tools like JIRA and Azure DevOps. It outlines methodologies for starting a Kanban pilot, emphasises the importance of metrics, and suggests best practices for team discussions and workflow definitions. The depth of discussion is significant, with practical advice on using data analytics to drive team behaviour and improve processes, aligning well with the core themes of the category.",
-    "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T05:09:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the implementation of Kanban and does not reference any specific events, presentations, or discussions related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-14T19:38:07",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses Kanban as a methodology for improving workflow and productivity, which indirectly relates to market adaptability through continuous improvement and metrics. However, it lacks a direct focus on market shifts or competitive pressures, and while it mentions concepts like flexibility and continuous improvement, it does not delve deeply into how these practices enhance an organisation's agility in response to market changes.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1294,39 +1147,27 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T17:46:13",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 50,
-    "final_score": 16.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban, a methodology for workflow improvement, rather than discussing DevOps principles or practices. While it briefly mentions collaboration and continuous improvement, these concepts are not explored in the context of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-14T19:37:35",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Kanban as a methodology and does not delve deeply into Azure DevOps specifically. While Azure DevOps is mentioned in the context of creating a Kanban board and using data analytics tools, it is not the main focus of the discussion. The content lacks detailed exploration of Azure DevOps functionalities, best practices, or integration with other tools, which are key aspects of the Azure DevOps category.",
     "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-13T15:28:05",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content primarily focuses on the implementation of Kanban as a methodology rather than discussing specific products or books. While it mentions tools like JIRA and Azure DevOps, it does not provide in-depth reviews or analyses of these tools or any literature related to Agile or DevOps. The discussion is more about the process and benefits of Kanban rather than evaluating resources that support Agile practices.",
-    "level": "Tertiary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1339,27 +1180,27 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-03-06T13:49:08",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 73.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly discusses Kanban principles, such as starting with metrics, visualising work, and engaging in conversations about workflow. It mentions tools like JIRA and Azure DevOps in the context of Kanban, which aligns with the visualisation of work processes. The depth of discussion is significant, covering practical steps to implement Kanban and the importance of understanding workflow. However, the content occasionally veers into general task management and lacks a more structured exploration of Kanban's core philosophies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-14T19:37:31",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Kanban as a methodology for improving workflow and productivity, which aligns with the principles of continuous improvement and iterative development. However, it lacks a direct focus on value delivery to customers and does not delve deeply into strategies for maximising customer value or aligning product development with customer needs. The discussion is more about the implementation of Kanban rather than its impact on delivering value, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1372,15 +1213,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-14T14:53:44",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 67.0,
     "ai_mentions": 3,
     "ai_alignment": 75.0,
     "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses Kanban as a strategy for improving workflow and enhancing productivity, which aligns with the principles of organisational agility. It mentions continuous improvement and metrics, both of which are key themes in the category. However, the focus is primarily on the implementation of Kanban rather than broader organisational agility strategies, which slightly limits the depth of discussion.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1391,48 +1232,27 @@
     "reasoning": "Content primarily discusses the implementation and use of Kanban, focusing on technical aspects and strategies rather than personal experiences or reflections.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-06T15:49:16",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the implementation of Kanban and highlights the importance of team dynamics, communication, and the human factors influencing workflow. It mentions how people behave based on metrics and the need for workshops to facilitate discussions about work processes, which aligns well with the category's focus on human behaviour and structured methodologies. The depth of discussion is substantial, as it explores the nuances of team interactions and the role of data in driving conversations, but it also includes references to tools, which slightly detracts from the primary focus on people and processes.",
-    "level": "Secondary"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-14T19:37:37",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of implementing Kanban, such as workflow visualisation and metrics, with limited discussion on the sociotechnical interplay. While it mentions team dynamics and continuous improvement, it lacks a thorough exploration of how these elements influence organisational structures or software delivery outcomes.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T05:09:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on practical guidance for implementing Kanban rather than discussing news, updates, or reviews related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-07T13:05:43",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of metrics in the context of Kanban, specifically mentioning how metrics can drive team behaviour and facilitate discussions about workflow. It highlights the use of cycle time data and scatter plots to identify outliers and improve processes, which aligns well with the core themes of the category. However, while metrics are a significant focus, the overall discussion is somewhat broader, touching on team dynamics and the implementation of Kanban without delving deeply into continuous improvement methodologies or evidence-based management principles. This results in a high confidence score, but not the maximum.",
     "level": "Secondary"
   },
@@ -1447,10 +1267,10 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-03-14T19:37:02",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses Kanban and metrics related to workflow but primarily focuses on practical implementation and team dynamics rather than the core principles of Value Stream Management.",
     "level": "Ignored"
   },
@@ -1504,15 +1324,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:56:14",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Kanban as a workflow improvement strategy, which touches on collaboration and continuous improvement. However, it primarily focuses on the technical aspects of implementing Kanban rather than the underlying social frameworks and methodologies that promote collaboration and decision-making within teams. While there are mentions of metrics and fostering a culture of continuous improvement, the depth of discussion on social technologies and their impact on team dynamics is limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1534,13 +1354,13 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:49:10",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses Kanban, a different framework, and does not mention Scrum roles, events, or principles. While it touches on team dynamics and continuous improvement, these concepts are framed within the context of Kanban, not Scrum. Therefore, the alignment with Scrum is minimal.",
     "level": "Ignored"
   },
@@ -1558,37 +1378,37 @@
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:46:15",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses Kanban as a method for improving workflow and productivity, with a strong emphasis on continuous improvement through metrics and team feedback. It aligns well with the principles of Continuous Improvement, particularly in fostering a culture of experimentation and learning. However, while it mentions continuous improvement, it does not delve deeply into the broader implications or strategies for integrating Continuous Improvement into organisational processes, which slightly limits its depth of discussion.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:46:19",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the implementation of Kanban as a workflow management strategy, with little to no direct discussion of Common Goals within Agile or DevOps frameworks. While it touches on collaboration and continuous improvement, it does not explicitly connect these concepts to shared objectives or strategic alignment, which are central to the category of Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:46:22",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Kanban and continuous improvement, which are related to competence, but it primarily focuses on implementation strategies rather than the development of skills or professional capabilities. While it mentions fostering a culture of continuous improvement, it lacks a deep exploration of competence as a foundational principle in Agile or DevOps.",
     "level": "Ignored"
   },
@@ -1606,14 +1426,170 @@
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:04:41",
+    "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on implementing Kanban as a workflow strategy, discussing metrics and continuous improvement without addressing the intentional shaping of outcomes or the distinction between human and AI capabilities. It lacks a direct connection to the principles of Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T22:34:12",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
+    "non_ai_confidence": 0,
+    "final_score": 82.0,
+    "reasoning": "The content focuses on implementing Kanban, which is a key methodology in product development. It discusses principles of continuous improvement, metrics for workflow enhancement, and the importance of collaboration, all of which align closely with the core themes of product development. The depth of discussion is substantial, providing a step-by-step guide and addressing common challenges, which indicates a strong understanding of the iterative processes involved in product development. However, while it is primarily focused on Kanban, it does not explicitly mention Agile or DevOps, which slightly lowers the confidence score.",
+    "level": "Primary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T22:34:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Kanban as a workflow management strategy and does not mention Liberating Structures or their principles. While it discusses collaboration and continuous improvement, these themes are not directly tied to the specific facilitation techniques of Liberating Structures. The depth of discussion is centred around Kanban implementation rather than the facilitation methods that enhance group dynamics.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T22:34:18",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 26,
+    "non_ai_confidence": 0,
+    "final_score": 68.0,
+    "reasoning": "The content primarily focuses on implementing Kanban, which is a project management methodology. It discusses key aspects such as defining workflows, engaging stakeholders, and using metrics for continuous improvement, aligning well with core project management principles. However, the discussion is heavily centred on Kanban specifically, with less emphasis on broader project management concepts or methodologies, which slightly limits its depth in the overall project management context.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T22:34:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content focuses exclusively on Kanban, a different Agile methodology, without any mention of Open Space Agile principles or practices. While it discusses collaboration and continuous improvement, these themes are not specifically tied to Open Space Agile. The lack of direct references to Open Space Technology or its core tenets results in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T22:34:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on implementing Kanban as a workflow improvement strategy, with an emphasis on metrics and continuous improvement. While it touches on the idea of enhancing productivity, it does not explicitly discuss Unrealised Value or its indicators, nor does it explore untapped opportunities or potential innovations within an organisation. The discussion is more operational and tactical rather than strategic, which is essential for the category of Unrealised Value.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T22:34:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 42.0,
+    "reasoning": "The content discusses metrics such as cycle time and throughput, which are relevant to Time to Market, but the primary focus is on implementing Kanban rather than explicitly addressing Time to Market as a concept. While there is some alignment with the category through the mention of metrics and continuous improvement, the depth of discussion does not fully explore the broader implications of Time to Market in the context of Evidence-Based Management. Therefore, the confidence score reflects a moderate relevance to the category.",
+    "level": "Tertiary"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T22:34:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses metrics related to Kanban, such as cycle time and throughput, which are relevant to assessing performance and value. However, it does not explicitly connect these metrics to the concept of Current Value in Evidence-Based Management. While it touches on the importance of data and continuous improvement, it lacks a comprehensive exploration of how these metrics inform decision-making or prioritisation in the context of Current Value. Therefore, while there are relevant mentions, the overall alignment and depth of discussion do not fully meet the criteria for a strong focus on Current Value.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T22:34:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on implementing Kanban as a workflow improvement strategy, which does not directly discuss the concept of treating the organisation as a product. While it touches on continuous improvement and metrics, these themes are more aligned with operational efficiency rather than the broader organisational strategy of CaaP. There are no explicit mentions of customer insights or cross-functional collaboration in the context of organisational design, which are key aspects of the CaaP framework.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T22:34:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on implementing Kanban as a workflow improvement strategy rather than discussing scaling methodologies or frameworks. While it mentions metrics and continuous improvement, which are relevant to scaling, it does not address the complexities of coordinating multiple teams or maintaining alignment with business goals, which are central to the Scaling category. The discussion lacks depth in terms of cross-team collaboration or managing dependencies, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T22:34:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Kanban as a standalone methodology without any reference to Hybrid Agile concepts. There are no direct mentions of merging traditional project management with agile practices, nor does it critically examine the challenges associated with such integrations. The discussion lacks depth in addressing the implications of Hybrid Agile, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T22:34:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the mechanics of implementing Kanban, discussing its benefits and practical steps without addressing the principles of Agnostic Agile. While it mentions continuous improvement and flexibility, it does not engage with the broader philosophical discussions or comparisons with other agile frameworks that are central to Agnostic Agile. The lack of direct references to Agnostic Agile principles or ethical considerations further diminishes its relevance to the category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T22:34:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content focuses exclusively on Kanban methodology and its implementation, without any mention of GitHub or its services. While it discusses concepts related to Agile and continuous improvement, these are not tied to GitHub functionalities or practices, leading to a very low confidence score for alignment with the GitHub category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T22:34:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses exclusively on Kanban, a workflow management method, without any mention or discussion of Cell Structure Design or its principles. There is no alignment with the core themes of decentralised structures or autonomous cells, and the depth of discussion is entirely centred on Kanban practices, making it irrelevant to the specified category.",
     "level": "Ignored"
   }
 }

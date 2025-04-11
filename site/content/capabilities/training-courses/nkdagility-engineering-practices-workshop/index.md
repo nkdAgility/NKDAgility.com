@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: course
 ResourceContentOrigin: human
 date: 2013-09-06
-weight: 770
+weight: 750
 creator: Martin Hinshelwood
 type: course
 slug: engineering-practices-workshop
@@ -26,7 +26,6 @@ delivery-audiences:
 - Teams
 - Developers
 tags:
-- Events and Presentations
 - Software Development
 categories: []
 preview: 

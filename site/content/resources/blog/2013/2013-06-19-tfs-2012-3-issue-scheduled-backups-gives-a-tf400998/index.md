@@ -31,10 +31,10 @@ aliasesArchive:
 - /resources/blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
 tags:
 - Troubleshooting
-- Windows
 - System Configuration
-- Install and Configuration
+- Windows
 - Software Development
+- Install and Configuration
 categories: []
 preview: puzzle-issue-problem-128-link-3-3.png
 

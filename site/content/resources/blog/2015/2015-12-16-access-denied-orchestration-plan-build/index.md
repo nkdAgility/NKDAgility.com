@@ -9,7 +9,7 @@ ResourceImportId: 11411
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-12-16
-weight: 695
+weight: 660
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,16 +28,16 @@ aliasesArchive:
 - /blog/access-denied-for-orchestration-plan-on-build
 - /resources/blog/access-denied-orchestration-plan-build
 tags:
-- Install and Configuration
-- Windows
 - Software Development
 - Azure DevOps
 - Azure Pipelines
 - Troubleshooting
-- System Configuration
-- Practical Techniques and Tooling
+- Install and Configuration
 - Azure Repos
 - Pragmatic Thinking
+- Windows
+- System Configuration
+- Continuous Integration
 categories: []
 preview: clip_image004-4-4.png
 

@@ -2,7 +2,7 @@
 title: 'Where Agile Went Wrong: Understanding the Competence Crisis'
 description: "Explore the competence crisis in Agile! Discover why skilled Scrum Masters matter and how to bridge the gap for real-world success. \U0001F331\U0001F680 #AgileLeadership"
 date: 2024-10-14T07:00:38Z
-weight: 320
+weight: 250
 ResourceId: txN41c6znbE
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -32,20 +32,27 @@ sitemap:
   priority: 0.6
 tags:
 - Competence
-- People and Process
 - Continuous Learning
 - Scrum Master
-- Discovery and Learning
 - Software Development
-- Agile Project Management
 - Agile Leadership
 - Sociotechnical Systems
 - Agile Strategy
+- Organisational Culture
+- Agile Philosophy
+- Pragmatic Thinking
+- Team Performance
+- Agile Transformation
+- Continuous Improvement
+- Scrum Team
+- Organisational Agility
+- Organisational Physics
 resourceTypes:
 - video
 categories:
+- Product Development
 - Leadership
-- Scrum
+- Technical Leadership
 
 ---
 Agile was supposed to revolutionize the way we build and deliver products, but it veered off track surprisingly early. The seeds of these challenges were planted during the creation of the Agile Manifesto itself. At Snowbird, a group of experienced and capable practitioners crafted a vision for agility in software development. However, they made some assumptions that have come to haunt us.

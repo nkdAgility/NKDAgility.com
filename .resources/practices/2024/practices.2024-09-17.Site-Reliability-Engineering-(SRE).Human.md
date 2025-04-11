@@ -22,16 +22,14 @@ videos:
 - title: 'NDC Conferences: Live Site Culture & Site Reliability at Azure DevOps - Martin Hinshelwood'
   embed: https://www.youtube.com/embed/CIDFB6XfoCg
 date: 2024-09-17
-weight: 690
+weight: 660
 creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
   content: Discover more about Site Reliability Engineering (SRE) and how it can help you in your Agile journey!
   title: Site Reliability Engineering (SRE)
-categories:
-- DevOps
-- Engineering Excellence
+categories: []
 tags: []
 
 ---

@@ -2,7 +2,7 @@
 title: 'Empowering Teams for Success: The Key to Thriving Product Development'
 description: Unlock the secret to successful product development! Discover how to empower your team, foster collaboration, and boost morale for exceptional results.
 date: 2024-05-07T11:02:49Z
-weight: 290
+weight: 220
 ResourceId: EyqLSLHk_Ik
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -25,16 +25,26 @@ preview: https://i.ytimg.com/vi/EyqLSLHk_Ik/maxresdefault.jpg
 duration: 423
 isShort: false
 tags:
-- People and Process
 - Team Collaboration
 - Team Motivation
 - Sociotechnical Systems
 - Team Performance
-- Employee Engagement
-- Organisational Culture
-- Product Delivery
 - Organisational Agility
 - Agile Leadership
+- Employee Engagement
+- Organisational Culture
+- Pragmatic Thinking
+- Product Delivery
+- Continuous Learning
+- Agile Philosophy
+- Agile Product Management
+- Social Technologies
+- Software Development
+- Coaching
+- Mentoring
+- Organisational Psychology
+- Value Delivery
+- Self Organisation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,9 +52,9 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Leadership
+- Product Development
 - Engineering Excellence
-- Product Management
+- Leadership
 
 ---
 In my journey as a product development mentor, I've come to realise that the heart of successful software organisations lies in the people who build the products. In Scrum, we refer to these individuals as developers, but this term encompasses a diverse group: testers, coders, analysts, product owners, and even those in cyber security operations. Each plays a crucial role in the creation of a product, and it’s essential that we foster an environment where they can thrive.

@@ -25,9 +25,8 @@ aliasesArchive:
 - /resources/blog/wpf-scale-transform-behaviour
 tags:
 - Software Development
-- Windows
 - Technical Mastery
-- Practical Techniques and Tooling
+- Windows
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

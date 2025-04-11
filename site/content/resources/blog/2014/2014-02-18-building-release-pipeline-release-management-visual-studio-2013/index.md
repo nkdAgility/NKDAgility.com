@@ -9,7 +9,7 @@ ResourceImportId: 10372
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-02-18
-weight: 385
+weight: 315
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,14 +30,24 @@ aliasesArchive:
 tags:
 - Software Development
 - Continuous Delivery
-- Practical Techniques and Tooling
-- Release Management
-- Software Developers
-- Product Delivery
-- Application Lifecycle Management
-- Working Software
-- Operational Practices
 - Frequent Releases
+- Technical Excellence
+- Technical Mastery
+- Working Software
+- Release Management
+- Product Delivery
+- Engineering Practices
+- Operational Practices
+- Application Lifecycle Management
+- Deployment Strategies
+- Metrics and Learning
+- Deployment Frequency
+- Pragmatic Thinking
+- Value Delivery
+- Continuous Integration
+- Continuous Improvement
+- Azure Pipelines
+- Market Adaptability
 categories:
 - DevOps
 - Engineering Excellence

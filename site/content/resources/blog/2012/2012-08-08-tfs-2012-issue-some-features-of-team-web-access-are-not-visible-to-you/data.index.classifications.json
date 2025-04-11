@@ -1,24 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T19:49:39",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no clear focus on Agile product management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:17:35",
-    "ai_confidence": 65.0,
-    "ai_mentions": 70.0,
-    "ai_alignment": 60.0,
-    "ai_depth": 60.0,
-    "non_ai_confidence": 10,
-    "final_score": 60.0,
-    "reasoning": "The content discusses specific features and licensing requirements of TFS 2012, which relates to tooling in a practical context. It provides a solution for managing user access based on licensing, which aligns with the category's focus on practical techniques. However, it lacks a broader discussion on methodologies or frameworks that enhance Agile and DevOps practices, limiting its depth and overall alignment.",
-    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -31,41 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:13:15",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS 2012 and licensing requirements. It does not discuss Evidence-Based Management principles, nor does it provide any empirical evidence or metrics related to management decisions. The mention of licensing and feature access is not aligned with the core themes of EBM, which emphasises data-informed decision-making and value delivery.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T19:49:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses licensing issues related to TFS 2012 and does not address software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T19:49:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T19:49:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -79,24 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T12:54:30",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content provides a detailed discussion on the configuration of Team Foundation Server (TFS) 2012, specifically addressing licensing requirements and how to manage user permissions to access various features. It includes step-by-step instructions for adding users to the appropriate license groups, which aligns well with the category's focus on installation and configuration processes. The mention of specific licensing levels and the implications for feature access further supports the content's relevance to the category. Overall, the content is primarily focused on practical configuration steps, justifying a high confidence score.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T19:49:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses licensing issues and access to features in TFS 2012, without addressing transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012 without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T19:49:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses licensing issues and access features in TFS 2012, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:13:03",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on resolving a specific issue related to TFS 2012 and licensing requirements, which does not align with the core principles of DevOps. While it touches on administrative tasks, it lacks discussions on collaboration, automation, or cultural shifts that are central to DevOps. The mention of features and licensing is more about tool management than the DevOps philosophy.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no focus on decision-making processes or uncertainty.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T19:49:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses licensing issues related to TFS 2012 and does not reference any events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T19:49:59",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing issues related to TFS 2012 and does not address flow efficiency or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T19:50:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no significant focus on team dynamics, collaboration, or human factors in processes.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T19:50:05",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing issues and access to features in TFS 2012, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -272,15 +197,6 @@
     "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, which does not align with the principles or practices of Value Stream Management.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T19:50:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses licensing issues and access features of TFS 2012, which does not align with the category focus on reviews or discussions of products and books related to Agile and DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T19:50:16",
@@ -292,15 +208,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T11:58:26",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Team Foundation Server (TFS), which is part of the Azure DevOps suite, but it primarily focuses on licensing issues rather than the broader functionalities or best practices associated with Azure DevOps. While it mentions features related to TFS, it lacks a comprehensive exploration of Azure DevOps services or methodologies, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -322,22 +238,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T19:50:20",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing issues related to TFS 2012 and does not address the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:13:13",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on resolving a specific issue related to TFS 2012 and licensing requirements, with no direct mention or discussion of the Agile Product Operating Model or its principles. It does not align with the core themes of APOM, such as product management or agile methodologies, and lacks depth in discussing any relevant concepts.",
     "level": "Ignored"
   },
@@ -348,15 +264,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no focus on organisational agility or related practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T19:50:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS 2012 and licensing, without providing industry news or reviews.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -379,10 +286,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T19:50:41",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing issues and access features in TFS 2012, which is unrelated to the Definition of Done.",
     "level": "Ignored"
   },
@@ -406,13 +313,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:13:18",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on resolving a specific issue related to TFS 2012 and licensing requirements, which does not align with the principles or practices of Continuous Delivery. There are no direct mentions of Continuous Delivery concepts, and the discussion lacks depth in any related themes such as automation, incremental improvements, or user feedback.",
     "level": "Ignored"
   },
@@ -427,10 +334,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T19:50:47",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing issues and access features in TFS 2012, with no mention of Lead Time or related metrics.",
     "level": "Ignored"
   },
@@ -445,10 +352,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T19:50:50",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing issues related to TFS 2012 and does not address the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -463,19 +370,19 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T19:50:52",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing issues related to TFS 2012 and does not focus on the Product Backlog or its management.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-15T19:50:54",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing issues related to TFS 2012 and does not focus on Agile Planning methodologies or practices.",
     "level": "Ignored"
   },
@@ -490,10 +397,10 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-15T19:50:56",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing issues and access to features in TFS 2012, with no focus on customer feedback mechanisms or practices.",
     "level": "Ignored"
   },
@@ -508,19 +415,19 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T19:50:59",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no focus on Scrum roles, collaboration, or team dynamics.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-15T19:51:00",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no focus on Agile principles or philosophy.",
     "level": "Ignored"
   },
@@ -544,10 +451,10 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-15T19:51:04",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing issues related to TFS 2012 and does not address Agile transformation principles, methodologies, or practices.",
     "level": "Ignored"
   },
@@ -571,10 +478,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T19:51:08",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, which does not align with team performance or collaboration strategies.",
     "level": "Ignored"
   },
@@ -589,49 +496,40 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T19:51:10",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing issues related to TFS 2012 and does not address Acceptance Test Driven Development or its principles.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T05:48:44",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses licensing and access issues related to Team Foundation Server (TFS), which is a tool used in software development. However, it primarily focuses on administrative aspects and licensing rather than core software development methodologies or practices. While it touches on aspects of software development tools, it lacks depth in discussing development processes or methodologies, leading to a moderate confidence score.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T19:51:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no clear focus on Agile Project Management principles or practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T19:51:14",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no clear focus on Agile values or principles.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-15T19:51:16",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing issues related to TFS 2012 and does not address Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
@@ -664,28 +562,28 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T19:51:21",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing issues related to TFS 2012 and Team Web Access, with no clear focus on Azure Boards or Agile project management.",
     "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T19:51:22",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing issues related to TFS 2012 and does not focus on collaboration tools or their impact on Agile teams.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T19:51:23",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, which is not relevant to organisational change.",
     "level": "Ignored"
   },
@@ -716,15 +614,6 @@
     "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, without a focus on customer satisfaction or experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T19:51:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses licensing issues related to TFS 2012 and does not address Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T19:51:30",
@@ -741,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no mention of psychological safety or related themes.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T19:51:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses licensing issues related to TFS 2012 and does not address scaling agility or related frameworks.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -799,50 +679,32 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T05:48:44",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses practical solutions for managing access to features in TFS 2012 based on licensing, which aligns with pragmatic problem-solving in a specific context. However, it lacks a broader discussion on Agile or Scrum principles and does not delve deeply into the complexities of project management or decision-making processes.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-15T19:51:42",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing issues related to TFS 2012 and does not address backlog refinement or Agile practices.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T19:51:43",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses licensing issues and access to features in TFS 2012, with no focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T19:51:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses licensing issues related to TFS 2012 and does not focus on Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T19:51:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no reference to scaling Agile practices or frameworks.",
+    "reasoning": "Content primarily discusses licensing issues and access to features in TFS 2012, with no focus on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -865,10 +727,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-15T19:51:51",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no focus on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
@@ -892,10 +754,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T19:51:55",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing issues related to TFS 2012 and does not focus on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
@@ -919,10 +781,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-15T19:52:00",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no focus on Agile leadership or related themes.",
     "level": "Ignored"
   },
@@ -937,10 +799,10 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-15T19:52:05",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing issues related to TFS 2012 and does not address any principles or practices of Site Reliability Engineering.",
     "level": "Ignored"
   },
@@ -991,10 +853,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T19:52:12",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no mention of Cycle Time or its implications.",
     "level": "Ignored"
   },
@@ -1018,19 +880,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T19:52:16",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no focus on change management principles or practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T19:52:17",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing issues related to TFS 2012 and does not focus on team collaboration or Agile principles.",
     "level": "Ignored"
   },
@@ -1052,7 +914,7 @@
     "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, without a focus on digital transformation strategies or technologies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T19:52:21",
     "ai_confidence": 0,
@@ -1061,24 +923,15 @@
     "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no focus on Minimum Viable Product concepts.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T19:52:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no mention of AI or its application in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-10T14:54:21",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the configuration of user access and licensing in TFS 2012, which directly relates to system configuration. It provides specific details on how to manage permissions based on licensing levels, aligning well with the category's focus on configuration management and optimisation strategies. However, while it touches on important aspects of system configuration, the depth of discussion is somewhat limited to licensing issues rather than broader configuration practices, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
@@ -1120,27 +973,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:03:27",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 20,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses licensing issues related to TFS 2012 and does not mention Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T15:03:36",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses an issue related to Team Foundation Server (TFS) 2012, which operates within the Windows environment. However, it primarily focuses on licensing and permissions rather than broader Windows operating system topics such as installation, configuration, or troubleshooting. While it mentions aspects of user management and permissions, it does not delve deeply into Windows-specific features or functionalities, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1162,10 +1015,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T19:52:41",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no focus on team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1189,15 +1042,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-10T18:43:07",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content directly addresses a specific issue related to TFS 2012, detailing the problem of visibility of features based on licensing. It provides a clear solution for resolving the issue by adjusting user permissions based on their licensing level. The discussion is focused on diagnosing and resolving a technical problem, aligning well with the core themes of troubleshooting. However, while it provides a practical solution, the depth of discussion on broader troubleshooting techniques or methodologies is limited, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1210,13 +1063,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:03:29",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses licensing issues related to TFS 2012 and does not mention the role or responsibilities of a Scrum Master. It lacks any direct references to Scrum principles, team dynamics, or the impact of a Scrum Master, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
@@ -1236,15 +1089,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no focus on working agreements or team collaboration.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T19:52:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses licensing issues related to TFS 2012 and does not focus on the role of software developers within Agile or DevOps frameworks.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1276,10 +1120,10 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-15T19:52:59",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses TFS 2012 licensing issues and features, which are unrelated to Sprint Reviews or the Scrum framework.",
     "level": "Ignored"
   },
@@ -1303,19 +1147,19 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-15T19:53:03",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no focus on Agile frameworks or principles.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-15T19:53:04",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses licensing and access issues related to TFS 2012, with no clear focus on Agile methodologies or strategic planning.",
     "level": "Ignored"
   },
@@ -1364,15 +1208,6 @@
     "reasoning": "Content primarily discusses licensing and access issues in TFS 2012, with no focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T19:53:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses licensing issues related to TFS 2012 and does not address Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T19:53:13",
@@ -1384,22 +1219,22 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T19:53:14",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses licensing and access issues related to TFS 2012, which is unrelated to Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:35:43",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on resolving a technical issue related to TFS 2012 and licensing requirements, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it touches on administrative roles, it lacks depth in exploring how these roles contribute to team dynamics or organisational culture, which are key aspects of the Social Technologies category.",
     "level": "Ignored"
   },
@@ -1432,73 +1267,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:44:04",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily discusses licensing issues related to Team Foundation Server (TFS) and does not mention Scrum principles, roles, events, or any related topics. While it touches on project management tools, it does not align with the core themes of Scrum, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:26:22",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses licensing issues related to TFS 2012 and does not address the Shift-Left Strategy or its principles, benefits, or practices. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. The focus is entirely on administrative access and licensing, which is unrelated to the Shift-Left concept.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:13:06",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS 2012 and licensing requirements. It does not discuss Continuous Improvement principles, nor does it provide insights into processes, team effectiveness, or empirical evidence. The mention of enhancing the admin experience is too vague and does not align with the core themes of Continuous Improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:13:08",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS 2012 and licensing requirements. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment. The mention of administrative roles and licensing does not connect to the core themes of Common Goals, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:13:11",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS 2012 and licensing requirements. While it touches on the necessity of having the correct licenses for accessing features, it does not delve into the broader themes of competence, such as continuous learning, skill development, or fostering a culture of competence. The discussion is more about administrative tasks rather than the development of capabilities or professionalism within teams.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:03:23",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS 2012 and licensing requirements. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The mention of administrative roles and permissions is tangential and does not align with the core themes of intentionality or proactive engagement in outcomes.",
     "level": "Ignored"
   }

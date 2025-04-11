@@ -9,7 +9,7 @@ ResourceImportId: 9164
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-12-03
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,12 +30,11 @@ aliasesArchive:
 - /blog/tfs-2012-update-1---tf255430--the-database-was-partially-upgraded-during-a-failed-upgrade
 - /resources/blog/tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
 tags:
-- Windows
 - Troubleshooting
+- Software Development
+- Windows
 - Install and Configuration
 - System Configuration
-- Software Development
-- Practical Techniques and Tooling
 categories: []
 preview: metro-problem-icon-2-2.png
 

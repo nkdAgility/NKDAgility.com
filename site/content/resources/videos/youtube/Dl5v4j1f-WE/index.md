@@ -33,11 +33,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Personal
 - Scrum Values
-- Agile Project Management
-- Transparency and Accountability
 - Pragmatic Thinking
 resourceTypes:
 - video

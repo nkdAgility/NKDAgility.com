@@ -9,7 +9,7 @@ ResourceImportId: 11115
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-02-04
-weight: 465
+weight: 415
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,16 +28,26 @@ aliasesArchive:
 - /blog/my-journey-into-professional-scrum
 - /resources/blog/journey-professional-scrum
 tags:
-- People and Process
-- Professional Scrum
-- Agile Project Management
-- Software Development
 - Agile Transformation
+- Professional Scrum
 - Pragmatic Thinking
-- Software Developers
+- Software Development
 - Agile Frameworks
-- Scrum Product Development
 - Organisational Agility
+- Business Agility
+- Product Delivery
+- Enterprise Agility
+- Agile Planning
+- Agile Product Management
+- Competence
+- Continuous Improvement
+- Continuous Learning
+- Self Organisation
+- Sociotechnical Systems
+- Value Delivery
+- Agile Strategy
+- Market Adaptability
+- Organisational Culture
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-5-5.png

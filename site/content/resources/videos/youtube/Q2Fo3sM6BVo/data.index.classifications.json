@@ -1,25 +1,25 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T20:36:21",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum, a framework for agile project management, rather than discussing DevOps principles or practices. While there are some elements of collaboration and team dynamics that could tangentially relate to DevOps, the core themes and depth of discussion do not align with the DevOps philosophy. The content does not mention automation, shared accountability, or continuous improvement in the context of DevOps, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:18:12",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses Scrum, which is a framework that promotes collaboration and decision-making within teams. It highlights the importance of values such as transparency and trust, which align with the principles of social technologies. However, while it touches on these themes, the primary focus is on Scrum's roles, events, and artifacts rather than a broader discussion of social technologies as a category. The depth of discussion on social frameworks is moderate, but it lacks extensive exploration of how these frameworks can drive innovation and value delivery in a wider organisational context.",
     "level": "Secondary"
   },
@@ -70,57 +70,36 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T11:22:17",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without focusing on metrics, learning, or data-driven decision-making.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-15T02:12:55",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 92.0,
     "ai_mentions": 90.0,
     "ai_alignment": 95.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 85.0,
+    "final_score": 92.0,
     "reasoning": "The content provides a comprehensive overview of Scrum, explicitly discussing its values, roles, artifacts, and events, which are core components of the Professional Scrum category. It aligns closely with the key topics outlined, such as the Scrum framework, values, and empirical process control. The depth of discussion is significant, offering detailed explanations of each component, which enhances understanding and application of Scrum principles.",
     "level": "Primary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-13T16:56:57",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 92.0,
     "ai_mentions": 90.0,
     "ai_alignment": 95.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 83.0,
+    "final_score": 92.0,
     "reasoning": "The content provides a thorough exploration of the Scrum framework, detailing its core components such as values, roles, artifacts, and events. It aligns closely with the principles of Agile frameworks, particularly in its emphasis on collaboration, transparency, and adaptability. The depth of discussion is significant, covering various aspects of Scrum and its application in real-world scenarios, which supports a high confidence score in the Agile Frameworks category.",
     "level": "Primary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-15T02:13:05",
-    "ai_confidence": 92.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 95.0,
-    "ai_depth": 90.0,
-    "non_ai_confidence": 20,
-    "final_score": 85.0,
-    "reasoning": "The content provides a comprehensive overview of Scrum principles, including detailed discussions on roles, events, and artifacts, which are central to Scrum Product Development. It explicitly mentions the Product Owner's role in managing the product backlog and highlights the importance of customer feedback during the Sprint Review. The depth of discussion on Scrum values and the iterative nature of the framework further solidifies its alignment with the category.",
-    "level": "Primary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on explaining the Scrum framework and does not discuss any specific events or presentations.",
-    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -196,10 +175,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T11:22:17",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the Scrum framework and its components, but does not mention the Definition of Done.",
     "level": "Ignored"
   },
@@ -250,13 +229,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T20:36:39",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum, discussing its values, roles, artifacts, and events. While Scrum can be related to Continuous Delivery in a broader context, the content does not explicitly address Continuous Delivery principles, practices, or benefits. It lacks direct mentions of automation, rapid feedback, or delivery strategies, which are central to Continuous Delivery discussions.",
     "level": "Ignored"
   },
@@ -271,10 +250,10 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T11:22:17",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the Scrum framework, which is related to project management methodologies rather than core engineering practices like clean code or TDD.",
     "level": "Ignored"
   },
@@ -307,13 +286,13 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T02:13:08",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 38,
     "ai_depth": 36,
     "non_ai_confidence": 0,
-    "final_score": 83.0,
+    "final_score": 92.0,
     "reasoning": "The content provides a comprehensive overview of the Scrum framework, which is a key methodology within the Software Development category. It explicitly discusses Scrum values, roles, artifacts, and events, aligning closely with core themes of software development practices. The depth of discussion is significant, covering various aspects of Scrum in detail, which supports its relevance to the category. Overall, the content is highly focused on software development methodologies, justifying a high confidence score.",
     "level": "Primary"
   },
@@ -328,15 +307,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-15T02:12:49",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on the Scrum framework, detailing its values, roles, artifacts, and events. While it does touch on aspects of Agile Planning, such as Sprint Planning and the importance of adapting to change, the discussion is heavily centred on Scrum-specific elements rather than broader Agile Planning principles. The depth of discussion on Scrum roles and events is significant, but it lacks a comprehensive exploration of Agile Planning methodologies and practices as outlined in the category definition.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
@@ -349,15 +328,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-10T14:29:26",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 87.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses Scrum roles, events, and values, which are crucial for enhancing team dynamics and performance. It highlights the importance of trust, collaboration, and accountability within the Scrum team, aligning well with the core themes of team performance. The depth of discussion on Scrum events, particularly the Sprint retrospective, directly addresses strategies for continuous improvement and effectiveness, making it a primary focus of the content.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Lean": {
     "category": "Lean",
@@ -388,10 +367,10 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T11:22:17",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -451,10 +430,10 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-18T11:22:17",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -467,18 +446,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events, which are project management topics without a direct focus on software craftsmanship or technical engineering practices.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-07T14:18:39",
-    "ai_confidence": 82.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content provides a detailed exploration of the Scrum framework, which is directly relevant to software developers working within Agile methodologies. It discusses the roles of Scrum developers, the importance of collaboration, and the accountability of team members, all of which are crucial for developers in Agile environments. The depth of discussion on Scrum events and artifacts further enhances its relevance, although it could benefit from more explicit connections to DevOps practices.",
-    "level": "Secondary"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T11:22:17",
@@ -486,15 +453,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the Scrum framework, which is focused on Agile methodologies rather than Lean Product Development principles.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum framework and its components, which are unrelated to code quality or software complexity.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -526,13 +484,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T17:16:02",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly mentions the Scrum Master role and discusses its responsibilities within the Scrum framework, which is a direct mention. However, while it touches on the importance of the Scrum Master in facilitating team effectiveness, the overall focus is broader, covering various aspects of Scrum, including values, roles, artifacts, and events. The depth of discussion on the Scrum Master is moderate, providing some detail but not extensively exploring the nuances of the role or its impact on organisational change and agility.",
     "level": "Secondary"
   },
@@ -547,27 +505,27 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-15T02:13:03",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses Scrum principles and roles, which are relevant to value delivery, particularly the role of the Product Owner in maximising value. However, while it touches on value-related aspects, the primary focus is on Scrum's structure rather than explicit strategies for delivering value to customers. The depth of discussion on value delivery practices is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-11T14:47:32",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on the Scrum framework, detailing its values, roles, artifacts, and events. While it touches on aspects of team dynamics and collaboration, it lacks a direct emphasis on technical leadership principles such as mentoring, coaching, or aligning technical decisions with business objectives. The discussion is more about the Scrum process itself rather than the role of a technical leader in guiding teams through these practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -614,15 +572,6 @@
     "reasoning": "Content heavily discusses the Scrum framework, which is primarily focused on project management and agile practices, rather than organisational change strategies and methodologies.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Scrum framework, which focuses on individual Agile practices rather than scaling Agile across multiple teams or an enterprise level.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "calculated_at": "2025-02-18T11:22:17",
@@ -631,18 +580,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the Scrum framework and does not focus on Lean principles or practices.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-10T18:23:31",
-    "ai_confidence": 87.0,
-    "ai_mentions": 16,
-    "ai_alignment": 35,
-    "ai_depth": 30,
-    "non_ai_confidence": 30,
-    "final_score": 81.0,
-    "reasoning": "The content extensively discusses the roles, values, and events within the Scrum framework, highlighting the importance of team dynamics, accountability, and collaboration. It addresses how trust and transparency are essential for effective teamwork, which aligns well with the category's focus on human behaviour and structured methodologies. The depth of discussion on Scrum events and roles indicates a strong emphasis on the interplay between people and processes, justifying a high confidence score.",
-    "level": "Primary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -664,13 +601,13 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-03-15T02:12:43",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the Scrum framework, which is a structured approach to managing complex projects. While it touches on concepts like adaptation and transparency, it does not explicitly engage with complexity science or its principles. The discussion lacks depth in exploring non-linear dynamics, emergence, or the role of uncertainty in management, which are key aspects of Complexity Thinking. Therefore, while there are relevant elements, they are not the primary focus, leading to a moderate confidence score.",
     "level": "Ignored"
   },
@@ -694,10 +631,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T11:22:17",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the Scrum framework and its roles and events, without explicitly addressing the Definition of Ready.",
     "level": "Ignored"
   },
@@ -710,12 +647,12 @@
     "reasoning": "Content heavily discusses the Scrum framework and related Scrum roles and events, but does not address Lead Time as a primary topic.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
-    "calculated_at": "2025-02-18T11:22:17",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, without focusing on Minimum Viable Product concepts.",
     "level": "Ignored"
   },
@@ -726,15 +663,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on the Scrum framework itself rather than Agile leadership aspects.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses the Scrum framework and its components without mentioning AI or automation.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -748,10 +676,10 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T11:22:17",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without focusing on empirical process control principles or practices.",
     "level": "Ignored"
   },
@@ -766,36 +694,27 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-10T12:24:00",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses Scrum in detail, including the roles and responsibilities of team members, which indirectly relates to team collaboration. However, while it touches on trust and transparency, it primarily focuses on the framework and processes rather than specific techniques or strategies for enhancing team collaboration. The depth of discussion on collaboration is limited, as it does not explore the dynamics of teamwork or provide case studies or examples of successful collaboration.",
     "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-15T02:12:51",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 47.0,
     "ai_mentions": 3,
     "ai_alignment": 35.0,
     "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 42.0,
+    "final_score": 47.0,
     "reasoning": "The content discusses Scrum, which is a framework that can enhance market adaptability through its principles of transparency, inspection, and adaptation. However, while it touches on the importance of adapting to change and fostering collaboration, it primarily focuses on Scrum roles, values, and events rather than explicitly detailing strategies for market adaptability. The discussion lacks depth in terms of specific methodologies or case studies related to Agile, DevOps, or Lean principles that would strengthen its alignment with the category.",
     "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses the Scrum framework and its components, with no mention of AI or its application within Agile methodologies or DevOps practices.",
-    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
@@ -808,10 +727,10 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T11:22:17",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content provides a general overview of the Scrum framework and does not specifically focus on the Daily Scrum event or its key topics.",
     "level": "Ignored"
   },
@@ -842,18 +761,6 @@
     "reasoning": "Content primarily discusses the Scrum framework and its components, without a specific focus on the Product Backlog.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-15T02:13:10",
-    "ai_confidence": 92.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 95.0,
-    "ai_depth": 90.0,
-    "non_ai_confidence": 0,
-    "final_score": 83.0,
-    "reasoning": "The content provides a comprehensive overview of the Scrum framework, detailing its values, roles, artifacts, and events, which are all central to Agile Project Management. It explicitly discusses the roles of the Product Owner and Scrum Master, the importance of team collaboration, and the iterative nature of Scrum, aligning closely with the core themes of agile methodologies. The depth of discussion is significant, covering multiple aspects of Scrum in detail, which reinforces its primary focus on Agile Project Management.",
-    "level": "Primary"
-  },
   "Psychological Safety": {
     "category": "Psychological Safety",
     "calculated_at": "2025-02-18T11:22:17",
@@ -870,24 +777,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, without a focus on troubleshooting technical issues.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the Scrum framework and its components without focusing on specific products or literature relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content mainly focuses on the Scrum framework and its components, without discussing industry news, updates, or reviews.",
     "level": "Ignored"
   },
   "Team Motivation": {
@@ -908,15 +797,6 @@
     "reasoning": "Content heavily discusses the Scrum Framework, its components, and the speaker's professional background without sharing personal experiences or reflections.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the Scrum Framework and its components, not scaling Scrum practices in large organizations.",
-    "level": "Ignored"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
     "calculated_at": "2025-02-18T11:22:17",
@@ -928,24 +808,24 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T11:22:17",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on an overview of the Scrum framework and its components, rather than a discussion of the Scrum values specifically.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-11T16:37:15",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a comprehensive overview of Scrum, which is a key Agile framework, and discusses the role of the Product Owner in maximising product value. It aligns well with Agile Product Management principles, particularly in terms of stakeholder engagement, prioritising product backlogs, and incorporating feedback through Scrum events. The depth of discussion on Scrum roles, values, and events indicates a strong focus on Agile methodologies, justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -958,13 +838,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:15:59",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Scrum framework, discussing its values, roles, artifacts, and events. There is no explicit mention of Test First Development or its principles, nor does it delve into topics such as success criteria, TDD, or ATDD, which are central to the Test First Development category. The discussion is more aligned with Scrum practices rather than testing methodologies.",
     "level": "Ignored"
   },
@@ -979,10 +859,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T11:22:17",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the Scrum framework as a whole rather than specifically on Scrum Teams and their dynamics.",
     "level": "Ignored"
   },
@@ -1042,46 +922,37 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T17:49:49",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on the Scrum framework, which is a key methodology in product delivery. It discusses Scrum values, roles, artifacts, and events, all of which are integral to the planning, development, and iterative processes of delivering software products. The depth of discussion on these components indicates a strong alignment with product delivery principles, although it does not explicitly cover deployment or release management strategies. Overall, the content is relevant and detailed, justifying a high confidence score.",
     "level": "Secondary"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Scrum framework at the team level without addressing the scaling of agile practices across organizations.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-14T15:34:47",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily focuses on the Scrum framework, detailing its roles, values, artifacts, and events. While it does touch on aspects of organisational agility, such as adaptability and the importance of transparency and collaboration, it does not explicitly discuss broader organisational strategies or cultural shifts necessary for agility. The depth of discussion on Scrum principles provides some alignment with the category, but the primary focus remains on Scrum rather than organisational agility as a whole.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-13T15:48:17",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on the Scrum framework, which is a key methodology within Agile transformation. It discusses Scrum values, roles, artifacts, and events in detail, aligning well with Agile principles. However, while it provides substantial information on Scrum, it lacks broader discussions on organisational agility, change management strategies, and leadership roles in Agile transformations, which are crucial for a comprehensive understanding of Agile transformation as a whole.",
     "level": "Secondary"
   },
@@ -1092,24 +963,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, which are more related to team-level Agile practices than to portfolio management.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, without a focus on transparency or accountability.",
     "level": "Ignored"
   },
   "Agile Planning Tools": {
@@ -1129,18 +982,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the Scrum framework and its components, with no focus on software release frequency or related practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T02:12:59",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content primarily focuses on the Scrum framework, detailing its values, roles, artifacts, and events. While it provides a comprehensive overview of Scrum, it lacks direct discussion of specific tools or methodologies that enhance Agile and DevOps practices. The mention of Scrum as a framework aligns with the category's themes, but the depth of practical techniques and tooling is limited, resulting in a moderate confidence score.",
-    "level": "Tertiary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -1189,23 +1030,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T20:36:34",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the Scrum framework, detailing its values, roles, artifacts, and events. While Scrum is an agile methodology, the discussion does not explicitly address the Agile Product Operating Model or its principles. The content lacks a direct connection to product management practices and does not explore the transition from project to product ethos, which are key aspects of the Agile Product Operating Model. Therefore, the confidence score reflects a low alignment with the category.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1233,15 +1065,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, with no focus on automated testing.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the Scrum framework and its components without clear relevance to Scaling Kanban.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
@@ -1318,19 +1141,19 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T11:22:17",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, rather than focusing on Agile values and principles.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-18T11:22:17",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the Scrum Framework, which is unrelated to Value Stream Mapping.",
     "level": "Ignored"
   },
@@ -1363,10 +1186,10 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-18T11:22:17",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -1399,43 +1222,43 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T20:36:36",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on Scrum, detailing its roles, values, and events, which are not directly related to Evidence-Based Management. While it mentions empiricism, it does not delve into data-informed decision-making or metrics that assess value delivery, which are central to EBM. The discussion lacks a strong connection to the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T11:22:17",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the Scrum framework and its roles, events, and principles, without focusing on installation or configuration of tools.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T11:22:17",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, which are not directly related to the measurement and improvement of innovation capabilities.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T02:12:46",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the Scrum framework, detailing its values, roles, artifacts, and events. While it touches on aspects of operational practices, such as team roles and processes, it lacks a direct emphasis on techniques for enhancing operational efficiency or delivery within Agile, DevOps, or Lean frameworks. The discussion is more about the theoretical underpinnings of Scrum rather than practical applications aimed at improving operational performance.",
     "level": "Ignored"
   },
@@ -1459,85 +1282,85 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:29:07",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 95.0,
     "ai_mentions": 90.0,
     "ai_alignment": 95.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 50,
-    "final_score": 90.0,
+    "final_score": 95.0,
     "reasoning": "The content provides a comprehensive overview of the Scrum framework, detailing its values, roles, artifacts, and events. It explicitly discusses the Scrum Master, Product Owner, and Development Team roles, as well as the five Scrum events and three artifacts, aligning closely with the core themes of the Scrum category. The depth of discussion is significant, covering the principles of empiricism and the importance of transparency, inspection, and adaptation, which are central to Scrum. Overall, the content is highly relevant and detailed, making it a strong fit for the Scrum category.",
     "level": "Primary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:09:38",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Scrum framework, discussing its values, roles, artifacts, and events. There is no explicit mention of the Shift-Left Strategy or its principles, benefits, or techniques. While some concepts of early collaboration and transparency may tangentially relate to Shift-Left, they are not the main focus, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T20:36:23",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on the Scrum framework, detailing its values, roles, artifacts, and events. While it touches on concepts like empiricism and adaptation, which are relevant to Continuous Improvement, the main emphasis is on Scrum's structure rather than on the ongoing practice of Continuous Improvement itself. The discussion lacks depth in exploring how Continuous Improvement can be integrated into Scrum processes or how it impacts team effectiveness beyond the framework's inherent practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T20:36:27",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the Scrum framework, detailing its values, roles, artifacts, and events. While it touches on the importance of team goals and collaboration, it does not explicitly discuss the concept of Common Goals as defined in the category. The mention of the 'Sprint goal' is relevant but is not explored in depth, and the overall discussion lacks a strong connection to aligning strategy with execution or the operationalisation of Common Goals. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T20:36:29",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on the Scrum framework, detailing its values, roles, artifacts, and events. While it touches on the importance of trust and collaboration, which are indirectly related to competence, it does not explicitly discuss continuous learning, skill development, or the professional growth aspects that are central to the competence category. The discussion lacks depth in exploring how competence impacts decision-making or commitment fulfilment, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:36:31",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Scrum framework, discussing its values, roles, artifacts, and events in detail. While it touches on themes of collaboration and team dynamics, it does not explicitly mention or align with the principles of the One Engineering System (1ES). The discussion is centred around Scrum, which is a specific methodology rather than the broader integration and standardisation of engineering processes that 1ES encompasses.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T17:15:56",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum practices, roles, and events, with no explicit discussion of Agentic Agility or its principles. While it touches on themes of collaboration and adaptability, it does not delve into the intentional shaping of outcomes or the distinction between human and AI capabilities in this context.",
     "level": "Ignored"
   }

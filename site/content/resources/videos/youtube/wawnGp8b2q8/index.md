@@ -26,7 +26,6 @@ preview: https://i.ytimg.com/vi/wawnGp8b2q8/maxresdefault.jpg
 duration: 196
 isShort: false
 tags:
-- Discovery and Learning
 - Continuous Learning
 sitemap:
   filename: sitemap.xml

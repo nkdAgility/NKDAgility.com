@@ -46,10 +46,10 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-12T20:20:21",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses compatibility issues and migration from TFS to Azure DevOps, with no clear focus on systems thinking or organisational dynamics.",
     "level": "Ignored"
   },
@@ -109,15 +109,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-14T17:18:55",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 42.0,
     "ai_mentions": 3,
     "ai_alignment": 35.0,
     "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the migration from TFS to Azure DevOps, touching on compatibility issues and the need for planning around customisations. While it does mention aspects of system configuration, such as the need for compliance and the functionality of on-prem build agents, the primary focus is on migration challenges rather than detailed system configuration practices. The discussion lacks depth in exploring configuration management tools or optimisation strategies, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -130,10 +130,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-12T20:20:33",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses compatibility issues and migration from TFS to Azure DevOps, rather than focusing on the delivery of functional software or Agile principles.",
     "level": "Ignored"
   },
@@ -157,10 +157,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-12T20:20:36",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses compatibility issues related to migrating from TFS on-prem to Azure DevOps, without any focus on remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
@@ -175,10 +175,10 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-12T20:20:39",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of migrating from TFS to Azure DevOps, focusing on compatibility issues and system functionalities without addressing organisational culture.",
     "level": "Ignored"
   },
@@ -193,15 +193,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-03-14T17:18:55",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily discusses the migration from TFS to Azure DevOps, which is related to Azure Repos but does not focus specifically on its functionalities or best practices. While it touches on aspects of code safety and customisations, it lacks a detailed exploration of Azure Repos features such as branching strategies, pull requests, or CI/CD integration.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -214,10 +214,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T20:20:44",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses compatibility issues during migration from TFS to Azure DevOps, with no focus on the Definition of Done or its principles.",
     "level": "Ignored"
   },
@@ -259,11 +259,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T20:20:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:07:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses compatibility issues and migration from TFS to Azure DevOps, with no focus on innovation capabilities or Evidence-Based Management.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, addressing compatibility issues and customisations. While it touches on the importance of planning and adapting to new environments, it does not explicitly discuss innovation or the mechanisms that foster it. The discussion lacks depth in exploring innovation metrics, learning cycles, or strategies for enhancing innovation capacity, which are central to the category of 'Ability to Innovate'. Therefore, the confidence score reflects a minimal alignment with the category.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -275,21 +278,12 @@
     "reasoning": "Content primarily discusses compatibility issues related to DevOps migration and TFS, with no focus on Agile frameworks or principles.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T20:20:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses compatibility issues related to migrating from TFS on-prem to Azure DevOps, with no focus on scaling agile practices or organisational agility.",
-    "level": "Ignored"
-  },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-12T20:20:59",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses compatibility issues and migration from TFS to Azure DevOps, with no clear focus on team collaboration or Agile principles.",
     "level": "Ignored"
   },
@@ -340,52 +334,55 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-06T14:43:00",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the migration from TFS to Azure DevOps, which is a significant aspect of software development practices, particularly in the context of version control and CI/CD. It explicitly mentions compatibility issues, the importance of maintaining code integrity, and the need for planning around customisations, all of which are core themes in software development. The depth of discussion is substantial, covering practical considerations and implications of the migration process, thus aligning well with the category.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-14T17:18:55",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the migration from TFS to Azure DevOps, touching on compatibility issues and the importance of maintaining functionality and data integrity. However, it lacks a direct focus on engineering excellence principles such as coding standards, quality assurance, or best practices in software craftsmanship. While it does mention the need for compliance and the significance of organisational assets, these points are more about operational concerns rather than a deep exploration of engineering excellence. The discussion is somewhat relevant but does not delve into the core themes of the category.",
     "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T20:21:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:43:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses compatibility issues during migration from TFS to Azure DevOps, with no focus on throughput measurement or optimisation.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the migration process from TFS to Azure DevOps, discussing compatibility issues and customisations. It does not explicitly mention throughput as a delivery metric or provide any analysis, visualisation, or interpretation of throughput. The discussion is centred around migration challenges rather than throughput as a measure of delivery capacity or performance.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-12T20:21:15",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration issues from TFS to Azure DevOps without a clear focus on Azure Pipelines or CI/CD practices.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-12T20:21:16",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses compatibility issues and migration from TFS to Azure DevOps, with no clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -454,10 +451,10 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-12T20:21:30",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses compatibility issues during migration from TFS to Azure DevOps, without focusing on Azure Boards or Agile project management functionalities.",
     "level": "Ignored"
   },
@@ -470,27 +467,15 @@
     "reasoning": "Content heavily discusses compatibility issues in DevOps migration and does not address revenue per employee or related financial metrics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-14T17:18:55",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses the migration from TFS to Azure DevOps, which is relevant to software developers, particularly in the context of DevOps practices. However, it lacks explicit discussions on Agile methodologies or best practices in software development. While it touches on compatibility and operational concerns, it does not delve deeply into the role of developers in enhancing productivity or collaboration, which are key themes of the category.",
-    "level": "Ignored"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:40:35",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the migration from TFS to Azure DevOps, focusing on compatibility issues and customisations. It does not mention Test First Development principles, success criteria, or testing practices, which are central to the category. The discussion lacks any depth related to testing methodologies or practices, resulting in a very low confidence score.",
     "level": "Ignored"
   },
@@ -514,15 +499,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-13T14:46:55",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses potential compatibility issues during the migration from TFS to Azure DevOps, which aligns with troubleshooting themes. It provides insights into challenges faced during migration, such as customisations and upgrade necessities, indicating a focus on identifying and resolving issues. However, while it touches on troubleshooting aspects, it does not delve deeply into systematic problem-solving techniques or tools, which limits its depth of discussion.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
@@ -553,31 +538,25 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T20:21:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:57:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses compatibility issues during migration from TFS to Azure DevOps, with no focus on Lead Time or its measurement.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T20:21:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses compatibility issues related to migrating from TFS to Azure DevOps, without reference to scaling Agile practices or frameworks.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the migration process from TFS to Azure DevOps, discussing compatibility issues and customisations. It does not mention Lead Time or its significance as an observability metric, nor does it explore its relationship with Cycle Time or strategies for optimisation. The discussion lacks depth regarding Lead Time, making it clear that this category is not a primary focus of the content.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-06T15:43:43",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses practical considerations and problem-solving strategies related to migrating from TFS to Azure DevOps, which aligns with the core themes of Pragmatic Thinking. It addresses real-world challenges, such as compatibility issues and the need for planning around customisations, demonstrating adaptability and critical thinking. However, while it touches on relevant topics, the depth of discussion on Agile or Scrum principles is limited, and the focus is more on technical migration rather than broader Agile methodologies.",
     "level": "Secondary"
   },
@@ -588,15 +567,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses compatibility issues during migration from TFS to Azure DevOps, without a focus on deployment frequency or related practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T20:21:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses compatibility issues related to migrating from TFS to Azure DevOps, with no focus on agile methodologies or principles.",
     "level": "Ignored"
   },
   "Continuous Integration": {
@@ -619,13 +589,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T16:58:49",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the migration from TFS to Azure DevOps, discussing compatibility and customisations rather than Continuous Delivery principles. While it touches on aspects of software delivery, such as planning and ensuring code safety, it lacks a direct discussion on Continuous Delivery practices, automation, or rapid feedback mechanisms. The content does not delve into the core themes of Continuous Delivery, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -640,10 +610,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T20:22:09",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses compatibility issues during migration from TFS to Azure DevOps, with no focus on backlog item readiness or Definition of Ready criteria.",
     "level": "Ignored"
   },
@@ -658,38 +628,20 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-12T20:22:12",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of DevOps migration and compatibility issues, with no focus on team dynamics or motivation.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-12T20:22:13",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses compatibility issues related to migration from TFS to Azure DevOps, with no focus on team dynamics, collaboration, or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T20:22:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses compatibility issues during migration from TFS to Azure DevOps, with no mention of AI or its applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T20:22:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses compatibility issues during migration from TFS to Azure DevOps, with no focus on Kanban principles or scaling practices.",
+    "reasoning": "Content primarily discusses compatibility issues related to migration from TFS to Azure DevOps, with no focus on team dynamics, collaboration, or Agile methodologies.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -703,10 +655,10 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-12T20:22:18",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses compatibility issues and migration from TFS to Azure DevOps, with no focus on working agreements or team collaboration principles.",
     "level": "Ignored"
   },
@@ -748,10 +700,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-12T20:22:27",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of migrating from TFS to Azure DevOps, focusing on compatibility issues and system functionality rather than organisational change strategies or methodologies.",
     "level": "Ignored"
   },
@@ -764,36 +716,27 @@
     "reasoning": "Content primarily discusses compatibility issues during migration from TFS to Azure DevOps, with no focus on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T20:22:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses compatibility issues related to DevOps migration and does not focus on Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-13T14:57:51",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the migration from TFS to Azure DevOps, touching on compatibility issues and the importance of planning for customisations. While it does mention operational aspects like safety and security of the codebase, the primary focus is on migration challenges rather than specific operational practices or methodologies aimed at enhancing efficiency. The discussion lacks depth in terms of operational strategies or metrics, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T16:58:51",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, discussing compatibility issues and customisations. It does not explicitly mention Evidence-Based Management or its key topics, nor does it provide a data-informed decision-making framework. The discussion lacks depth in relation to EBM principles, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
@@ -806,24 +749,15 @@
     "reasoning": "Content primarily discusses compatibility issues and migration from TFS to Azure DevOps, with no focus on backlog refinement or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T20:22:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses compatibility issues related to migrating from TFS to Azure DevOps, with no focus on Scrum principles, frameworks, or scaling practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T15:40:33",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, discussing compatibility issues and customisations. It does not mention the role of a Scrum Master or any related responsibilities, nor does it align with the core themes of Scrum methodology. The discussion lacks depth regarding Scrum practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
@@ -890,7 +824,7 @@
     "reasoning": "Content primarily discusses compatibility issues and migration from TFS to Azure DevOps, with no focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T20:22:53",
     "ai_confidence": 0,
@@ -928,24 +862,24 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-12T20:23:02",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses compatibility issues related to DevOps migration and does not focus on Scrum Team dynamics, roles, or practices.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-14T17:18:55",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the migration from TFS to Azure DevOps, touching on compatibility issues and the importance of maintaining code integrity and security. However, while it mentions technical aspects, it lacks a deep exploration of software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. The focus is more on migration challenges rather than on broader technical mastery concepts.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -985,13 +919,13 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-14T17:18:55",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the migration from TFS to Azure DevOps, touching on compatibility issues and the importance of maintaining code integrity. However, it primarily focuses on migration challenges rather than best practices or methodologies related to modern source control. While it mentions aspects of version control, such as the need for secure code management and the role of build agents, these points are not explored in depth or as a primary focus. Therefore, the overall confidence score reflects a moderate relevance to the category.",
     "level": "Ignored"
   },
@@ -1076,35 +1010,17 @@
     "reasoning": "Content primarily discusses compatibility issues related to DevOps migration and does not address Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T20:19:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses compatibility issues and technical aspects of migrating from TFS to Azure DevOps, without a focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-11T00:17:56",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses the migration process from TFS to Azure DevOps, which involves installation and configuration considerations. It addresses compatibility issues, the need for upgrades, and the implications of customisations during the migration. While it does not provide a step-by-step guide, it offers insights into the configuration challenges and considerations that arise during the transition, aligning well with the core themes of the category. However, the depth of actionable instructions is somewhat limited, preventing a higher score.",
     "level": "Secondary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T20:19:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses compatibility issues during migration from TFS to Azure DevOps, focusing on operational concerns rather than the interplay between code quality and complexity.",
-    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1115,26 +1031,17 @@
     "reasoning": "Content primarily discusses compatibility issues during migration from TFS to Azure DevOps, with no focus on optimising work throughput or flow efficiency.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T20:19:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses compatibility issues during migration from TFS to Azure DevOps, with no mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-14T17:18:55",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 42.0,
     "ai_mentions": 3,
     "ai_alignment": 35.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the migration from TFS to Azure DevOps, touching on compatibility issues and the need for planning around customisations. While it mentions aspects of product delivery, such as ensuring code safety and compliance, the primary focus is on migration challenges rather than the broader methodologies and practices of delivering software products. The discussion lacks depth in key areas like Agile methodologies, testing, or deployment strategies, which are central to the Product Delivery category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1145,21 +1052,12 @@
     "reasoning": "Content primarily discusses compatibility issues related to DevOps migration and does not address Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T20:19:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses compatibility issues and technical details related to migrating from TFS to Azure DevOps, without a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-12T20:19:27",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses compatibility issues and migration from TFS to Azure DevOps, without a focus on Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
@@ -1170,36 +1068,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses compatibility issues and migration from TFS to Azure DevOps, without reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T20:19:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses compatibility issues and migration from TFS to Azure DevOps, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T14:17:44",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the practical aspects of migrating from TFS to Azure DevOps, including compatibility concerns, customisations, and planning for change. It provides insights into specific challenges and considerations during the migration process, which aligns with the category's focus on practical techniques and tooling. However, while it touches on relevant tools and methodologies, the depth of discussion on specific Agile or DevOps practices is limited, leading to a moderately high confidence score.",
-    "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T20:19:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses compatibility issues during migration from TFS to Azure DevOps, without reference to any events, presentations, or discussions related to Agile or DevOps conferences.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1222,36 +1090,27 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T10:41:19",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on the migration process from TFS to Azure DevOps, which is a specific technical task rather than a broader discussion on DevOps principles. While it touches on aspects like customisations and the importance of code safety, it lacks a comprehensive exploration of DevOps philosophies such as collaboration, automation, and shared accountability. The discussion is more about practical migration strategies than the cultural and process-oriented aspects of DevOps.",
     "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-06T13:29:19",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the migration from TFS to Azure DevOps, which is a direct mention of Azure DevOps and its functionalities. It addresses compatibility concerns, the transition process, and the implications of using Azure DevOps compared to on-premises solutions. The discussion aligns well with the core themes of Azure DevOps, particularly in terms of implementation and integration. However, while it provides a good level of detail, it does not delve deeply into specific Azure DevOps services or best practices, which slightly lowers the depth score.",
     "level": "Secondary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T20:19:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses compatibility issues and migration from TFS to Azure DevOps, without focusing on specific products or literature related to Agile or DevOps methodologies.",
-    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1282,22 +1141,22 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-14T17:18:55",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the migration from TFS to Azure DevOps, touching on compatibility issues and the importance of maintaining code integrity and security. However, it lacks a direct focus on engineering practices or methodologies that enhance agility in software development. While it mentions aspects of technical considerations, it does not delve deeply into specific practices like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-12T20:19:56",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses compatibility issues related to migration from TFS to Azure DevOps, focusing on technical aspects rather than organisational agility strategies or practices.",
     "level": "Ignored"
   },
@@ -1310,56 +1169,35 @@
     "reasoning": "Content primarily discusses technical aspects of migrating from TFS to Azure DevOps, focusing on compatibility issues and system functionalities without personal reflections or experiences.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-12T20:19:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of migrating from TFS to Azure DevOps, focusing on compatibility issues and system functionalities rather than human behaviour or team processes.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-12T20:19:59",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of migrating from TFS to Azure DevOps, focusing on compatibility issues and system functionalities without addressing the interplay between social and technical systems.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-11T13:07:38",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 28,
-    "ai_depth": 22,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the migration from TFS to Azure DevOps, addressing compatibility concerns and practical implications of the transition. While it provides insights into the challenges faced during this migration, it lacks a broader context of industry news or reviews. The focus is primarily on technical details rather than evaluating tools or trends in Agile or DevOps, which diminishes its alignment with the category. However, it does touch on relevant practices and considerations for practitioners, justifying a moderate confidence score.",
-    "level": "Tertiary"
-  },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T20:20:08",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses compatibility issues during migration from TFS to Azure DevOps, focusing on technical aspects rather than metrics or learning.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-11T17:20:12",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 67.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the migration from TFS to Azure DevOps, which is relevant to the application lifecycle, particularly in the deployment and maintenance stages. It addresses compatibility issues, customisations, and the importance of planning for changes, aligning well with the core themes of Application Lifecycle Management. However, it lacks a comprehensive exploration of governance, compliance, and metrics, which limits its depth. Overall, while it is focused on a specific aspect of ALM, it does not cover the full lifecycle or best practices extensively.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1372,10 +1210,10 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-12T20:20:12",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of DevOps migration and compatibility issues, with no focus on psychological principles or organisational behaviour.",
     "level": "Ignored"
   },
@@ -1420,13 +1258,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:46:04",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, discussing compatibility issues and customisations. While it touches on planning and adapting to change, it lacks a strong emphasis on collaboration, decision-making, or value delivery, which are core themes of social technologies. The discussion is more about technical migration rather than the social frameworks that underpin effective teamwork and organisational culture.",
     "level": "Ignored"
   },
@@ -1450,86 +1288,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T17:18:55",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the migration from TFS to Azure DevOps, focusing on compatibility issues and system functionality. There are no direct mentions of Scrum roles, events, or principles, and the discussion does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is also limited to technical migration concerns rather than any Scrum-related practices.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:39:27",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the migration from TFS to Azure DevOps, focusing on compatibility and customisations rather than integrating testing, security, or compliance early in the development process. While it touches on the importance of planning and safety, it does not explicitly address the Shift-Left Strategy or its core principles, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T16:58:39",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, discussing compatibility and customisations rather than Continuous Improvement principles. While it touches on planning and adapting to changes, it lacks a strong emphasis on empirical evidence, data-driven decision-making, or fostering a culture of experimentation, which are core themes of Continuous Improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T16:58:42",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, discussing compatibility issues and customisations. While it touches on the importance of planning and adapting to changes, it does not explicitly address the concept of Common Goals or their significance in Agile and DevOps frameworks. The discussion lacks depth in connecting individual contributions to overarching strategic objectives, which is a core theme of Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T16:58:45",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the migration from TFS to Azure DevOps, focusing on compatibility and planning, but it does not explicitly address the concept of competence or continuous skill development. While it touches on the importance of careful planning and understanding of existing systems, it lacks a direct emphasis on professional growth, quality outcomes, or fostering a culture of competence, which are central to the category. Therefore, the confidence score reflects a low alignment with the core themes of competence.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T16:58:47",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the migration from TFS to Azure DevOps, discussing compatibility issues and customisations rather than the One Engineering System framework. While it touches on aspects of integration and planning, it does not explicitly mention 1ES or its principles, nor does it provide in-depth discussion on standardising engineering practices across teams.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T15:40:30",
+    "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, discussing compatibility and customisations without addressing the intentional shaping of outcomes or the principles of Agentic Agility. While it mentions planning and adapting to changes, it lacks a clear connection to the core themes of agency and intentionality in both human and AI contexts.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T13:43:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, discussing compatibility and customisations rather than product development methodologies. While it touches on planning and considerations that could relate to product delivery, it lacks a strong emphasis on iterative learning, customer feedback, or continuous improvement practices central to product development. The discussion is more about technical implementation than the strategic alignment of product development processes.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T17:07:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, discussing compatibility issues and customisations. While it touches on the importance of planning and adapting to new environments, it does not explicitly address Time to Market or its associated metrics, nor does it explore strategies for improving delivery speed. The discussion lacks depth in relation to the core themes of Time to Market, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T13:43:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the migration process from TFS to Azure DevOps, which involves project management principles such as planning, risk management, and stakeholder communication. However, it primarily focuses on technical aspects of migration rather than broader project management methodologies or lifecycle phases. While it touches on planning and customisations, it lacks in-depth exploration of project management roles and governance structures, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T17:07:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, addressing compatibility concerns and the importance of customisations. While it touches on the need for careful planning and the potential for growth in the cloud, it does not explicitly discuss Unrealised Value or its indicators, nor does it explore untapped opportunities or strategic decision-making related to Evidence-Based Management. The discussion lacks depth in relation to the category, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T13:43:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, discussing compatibility and customisations without addressing Hybrid Agile concepts or challenges. There are no direct mentions of Hybrid Agile, and the discussion lacks alignment with the core themes of the category, such as the integration of traditional and agile methodologies or the implications of such integrations.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T17:07:51",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, discussing compatibility issues and customisations. While it touches on the importance of code and planning for change, it does not explicitly address Current Value or its metrics, nor does it provide insights into customer satisfaction or revenue impact. The discussion lacks depth in relation to the core themes of Current Value, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T13:43:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, discussing compatibility and customisations rather than scaling methodologies or frameworks. While it touches on planning and adaptation, it does not delve into the complexities of scaling Agile practices or cross-team collaboration, which are central to the Scaling category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T13:43:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the migration from TFS to Azure DevOps, focusing on compatibility and customisations, which are not directly related to GitHub. While it touches on concepts relevant to version control and project management, it does not specifically address GitHub services or functionalities, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T17:07:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, discussing compatibility issues and customisations without any reference to Agnostic Agile principles or methodologies. There are no direct mentions of Agnostic Agile, and the discussion lacks alignment with its core themes, such as ethical considerations or the importance of adapting practices based on context.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T17:07:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 30,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, discussing compatibility issues, customisations, and the importance of code safety. It does not explicitly mention the concept of 'Company as a Product' or align with its core themes, such as customer-centric strategies or organisational design. The discussion lacks depth regarding organisational culture or cross-functional collaboration, which are key elements of CaaP. Therefore, the confidence score reflects a minimal connection to the category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T17:07:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, discussing compatibility issues, customisations, and the importance of code safety. It does not mention or align with the principles of Cell Structure Design, nor does it explore topics related to decentralised organisational structures or the Beta Codex. The discussion is centred around migration strategies rather than organisational design models.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T17:07:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, discussing compatibility issues, customisations, and the importance of code safety. There are no direct mentions of Liberating Structures or facilitation techniques, and the discussion does not align with the core themes of enhancing participation or collaboration within groups. The depth of discussion is also limited to technical migration strategies rather than group dynamics or facilitation methods.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T17:07:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TFS to Azure DevOps, discussing compatibility issues, customisations, and the importance of code safety. It does not mention Open Space Agile or its principles, nor does it engage with themes such as psychological safety, co-creation, or iterative dialogue. The discussion lacks depth regarding Open Space Agile methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   }
 }

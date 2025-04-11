@@ -9,7 +9,7 @@ ResourceImportId: 64
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-09
-weight: 805
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,7 +25,6 @@ aliasesArchive:
 - /resources/blog/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
 tags:
 - Application Lifecycle Management
-- Practical Techniques and Tooling
 - Software Development
 - Operational Practices
 - Pragmatic Thinking

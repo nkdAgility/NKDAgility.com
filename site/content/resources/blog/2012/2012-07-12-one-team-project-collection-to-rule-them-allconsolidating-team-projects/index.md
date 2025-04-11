@@ -9,7 +9,7 @@ ResourceImportId: 6109
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-12
-weight: 810
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,12 +30,11 @@ aliasesArchive:
 - /blog/one-team-project-collection-to-rule-them-all---consolidating-team-projects
 - /resources/blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
 tags:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Troubleshooting
 - Software Development
-- System Configuration
+- Install and Configuration
+- Troubleshooting
 - Pragmatic Thinking
+- System Configuration
 - Operational Practices
 categories: []
 preview: nakedalm-experts-visual-studio-alm-10-10.png

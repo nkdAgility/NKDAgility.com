@@ -1,31 +1,31 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T14:16:40",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses evidence-based management in Agile environments, which is not directly related to the management of the application lifecycle.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-06T14:57:44",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses the need for evidence-based management, which is a core principle of the Metrics and Learning category. It highlights the importance of measuring the impact of changes, aligning well with the themes of data utilisation and evidence-based decision-making. The depth of discussion is strong, focusing on the necessity of measurement for success in Agile environments, although it could benefit from more specific examples or techniques for data collection and analysis.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T14:16:43",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of evidence-based management in Agile environments, which does not relate to installation or configuration processes.",
     "level": "Ignored"
   },
@@ -49,13 +49,13 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:55:49",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 40,
     "non_ai_confidence": 30,
-    "final_score": 86.0,
+    "final_score": 92.0,
     "reasoning": "The content explicitly discusses Evidence-Based Management (EBM) as a framework for measuring and improving value delivery in Agile environments. It provides a thorough explanation of EBM, including its key elements such as Current Value, Time to Market, Ability to Innovate, and Unrealised Value. The depth of discussion is significant, with practical examples and actionable steps for implementation, demonstrating a strong alignment with the core themes of the category.",
     "level": "Primary"
   },
@@ -70,59 +70,26 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-03-10T11:48:30",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content briefly mentions the importance of understanding and measuring the impact of changes within a system, which aligns with Systems Thinking principles. However, it lacks detailed discussion on the interconnectedness of components, feedback loops, or specific techniques related to Systems Thinking. The focus is more on evidence-based management rather than a comprehensive exploration of Systems Thinking.",
-    "level": "Tertiary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T14:16:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses evidence-based management in Agile environments, which is not directly related to software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-14T20:00:20",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses the importance of measuring the impact of changes, which relates to accountability in understanding success. However, it lacks explicit mentions of transparency and does not delve deeply into the principles of open communication or team dynamics, making it a secondary focus rather than a primary discussion on transparency and accountability.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-10T17:59:59",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of measuring the impact of changes in an Agile environment, which aligns with the principles of adaptability. However, it lacks explicit references to Agile methodologies or practices that enhance market responsiveness, resulting in a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-11T09:58:40",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the importance of evidence-based management, which relates to measuring the impact of changes in a team environment. While it touches on the need for understanding and measuring success, it lacks explicit references to team dynamics or collaboration processes. However, it aligns conceptually with the category by emphasising the need for measurement and adaptation in Agile environments, indicating a moderate depth of discussion on how these practices can enhance productivity.",
     "level": "Secondary"
   },
   "Organisational Psychology": {
@@ -143,38 +110,29 @@
     "reasoning": "Content primarily discusses Evidence-Based Management, which is directly related to Agile principles, rather than being a miscellaneous topic.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T14:17:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of evidence-based management in Agile environments without providing news, updates, or reviews related to Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-11T11:21:40",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 78.0,
     "ai_mentions": 70.0,
     "ai_alignment": 80.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly discusses the importance of evidence-based management, which is a key practice in assessing value delivery effectiveness. It aligns well with the core themes of measuring and maximising customer value, as well as the iterative nature of Agile methodologies. The depth of discussion is substantial, focusing on the need to measure the impact of changes to ensure successful value delivery, although it could benefit from more specific examples or strategies related to value management.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-14T20:00:20",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses evidence-based management in Agile environments, which touches on the interplay between organisational practices and technology. However, it primarily focuses on metrics and decision-making processes without deeply exploring the broader sociotechnical interactions or organisational culture. While it mentions team dynamics and the importance of data in decision-making, it lacks a comprehensive examination of how these elements collectively influence software delivery and team effectiveness.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -187,27 +145,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-11T16:15:58",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses evidence-based management (EBM) within Agile environments, highlighting its importance in measuring success and making informed decisions. It aligns well with Agile Product Management principles by focusing on metrics that drive product value and continuous improvement. The depth of discussion on implementing EBM and its impact on team dynamics further supports its relevance to the category.",
-    "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-03-11T17:28:37",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses evidence-based management (EBM) in Agile environments, which indirectly relates to resilience and change by emphasising the importance of data-driven decision-making and adaptability. However, while it touches on themes of continuous improvement and informed decision-making, it lacks a direct focus on organisational resilience frameworks or change management practices. The discussion is more centred on technical implementations rather than the broader human and cultural aspects of change.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -220,46 +166,37 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-13T15:06:39",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content extensively discusses evidence-based management (EBM) within Agile environments, highlighting its importance in measuring success and adapting strategies based on data. It aligns well with the core themes of organisational agility, such as continuous improvement, the role of metrics in decision-making, and fostering a culture of adaptability. The depth of discussion is significant, providing practical tips and personal examples that illustrate the application of EBM in enhancing organisational agility.",
-    "level": "Secondary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T14:17:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on evidence-based management in Agile environments without discussing AI or automation technologies.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-03-13T15:29:20",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses evidence-based management, which aligns with decision-making processes by emphasising the importance of data in making informed choices. However, it primarily focuses on Agile practices rather than explicitly exploring decision theory concepts such as heuristics or biases. The depth of discussion on metrics and their impact on decision-making is significant, but the primary focus remains on Agile methodologies.",
     "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:57:34",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses Evidence-Based Management (EBM) within Agile environments, which aligns with the principles of decision-making and value delivery. However, while it touches on collaboration and transparency, it primarily focuses on metrics and tools rather than the broader social frameworks that underpin social technologies. The discussion lacks depth in exploring how EBM fosters collective intelligence or self-organisation, which are key themes in the Social Technologies category.",
     "level": "Secondary"
   },
@@ -292,114 +229,75 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-13T16:37:06",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses evidence-based management (EBM) in the context of Agile environments, which aligns with the principles of business agility. It highlights the importance of measuring success and adapting strategies based on data, which are key aspects of business agility. The discussion includes specific metrics relevant to agility, such as time to market and current value, and provides practical tips for implementation. However, while it is focused on Agile practices, it does not delve deeply into broader business agility concepts like leadership roles or cultural aspects, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T14:17:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on the concept of evidence-based management without discussing specific tools, methodologies, or practical techniques related to Agile or DevOps practices.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T14:17:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses evidence-based management in Agile environments without reference to specific events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-14T14:54:49",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses evidence-based management (EBM) within Agile environments, which directly relates to product delivery by emphasising the importance of metrics and data in improving delivery processes. It covers key aspects such as measuring current value, time to market, and the ability to innovate, all of which are crucial for effective product delivery. The depth of discussion on implementing EBM and its impact on decision-making and continuous improvement further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-14T15:15:18",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses evidence-based management (EBM) within Agile environments, which aligns with the principles of measuring and improving organisational performance. However, it primarily focuses on team-level practices rather than broader organisational agility. While it touches on metrics and decision-making, it lacks a comprehensive exploration of enterprise-level agility frameworks or cultural implications, leading to a moderate confidence score.",
     "level": "Secondary"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T14:17:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of evidence-based management rather than specific products or literature related to Agile methodologies.",
-    "level": "Ignored"
-  },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-03-14T20:00:23",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses evidence-based management, which is related to measuring and improving value delivery in Agile environments. However, it does not explicitly focus on Value Stream Management principles or techniques. While it touches on metrics and continuous improvement, it lacks a direct connection to value stream mapping or waste elimination, which are core aspects of Value Stream Management.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T17:55:45",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily discusses Evidence-Based Management (EBM) within Agile environments, which is a relevant aspect of the Agile Product Operating Model. However, it does not explicitly address the broader principles of the APOM or the transition from project to product ethos. While it aligns with the themes of data-driven decision-making and continuous improvement, it lacks depth in discussing the integration of product management practices and operational governance, which are key components of the APOM.",
     "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T17:55:32",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Evidence-Based Management (EBM) within Agile environments, which is not directly aligned with the core principles of DevOps. While it touches on concepts like measuring success and continuous improvement, it does not explicitly discuss DevOps practices, collaboration between teams, or automation, which are central to the DevOps philosophy. The mention of feedback loops is relevant but not sufficient to classify the content as primarily about DevOps.",
     "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-14T20:00:31",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 30,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses evidence-based management (EBM) in Agile environments, which aligns well with the principles of continuous learning and adaptation. It explicitly mentions the importance of measuring success and using data to inform decisions, which are key aspects of discovery and learning. The depth of discussion is significant, providing practical tips and examples that illustrate how EBM fosters a culture of improvement and innovation. However, while it touches on learning, the primary focus is on management practices rather than broader discovery methodologies, which slightly lowers the confidence score.",
-    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -419,54 +317,36 @@
     "reasoning": "Content primarily discusses evidence-based management in Agile environments without a clear focus on Kanban principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T15:05:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses evidence-based management in Agile environments without a focus on Kanban principles, scaling, or any specific applications related to Kanban.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T15:05:43",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on evidence-based management and measuring impact in Agile environments, with minimal relevance to system configuration practices or methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T15:05:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses evidence-based management in Agile environments, but it does not focus on scaling Agile practices or coordination among multiple teams at an enterprise level.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-14T20:01:24",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses evidence-based management (EBM) within Agile environments, highlighting its importance in measuring success and driving continuous improvement. It aligns well with Agile principles, particularly in terms of value delivery, adaptability, and the role of data in decision-making. However, while it touches on Agile philosophy, the primary focus is on EBM as a framework, which slightly detracts from a broader discussion of Agile principles.",
     "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-03-14T20:00:46",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses evidence-based management (EBM) in Agile environments, which relates to change management by emphasising the importance of measuring the impact of changes. It mentions the need for data to inform decisions about changes, aligning with the principles of effective change management. However, while it touches on relevant themes, the primary focus is on EBM rather than a comprehensive exploration of change management strategies, which limits its depth in that specific category.",
     "level": "Secondary"
   },
@@ -481,11 +361,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T15:05:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on evidence-based management and measuring the impact of changes rather than specifically discussing Lead Time as a primary topic.",
+    "calculated_at": "2025-04-11T09:16:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses metrics related to performance in Agile environments, including 'Time to Market' and 'Cycle Time', which are tangentially related to Lead Time. However, the primary focus is on Evidence-Based Management rather than Lead Time itself. While there are mentions of relevant metrics, the depth of discussion does not provide a comprehensive exploration of Lead Time as defined in the category. The content lacks a clear emphasis on Lead Time's importance as an observability metric and does not delve into strategies for optimising it, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Team Motivation": {
@@ -517,10 +400,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T15:05:43",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on evidence-based management rather than the specific criteria or discussions surrounding the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -580,81 +463,72 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-14T20:00:33",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses evidence-based management (EBM) in Agile environments, which indirectly relates to working software by emphasising the importance of measuring success and delivering value to customers. However, it does not explicitly focus on the characteristics of working software or provide in-depth discussions on software quality and functionality. The primary focus is on management practices rather than the software itself.",
     "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T15:05:43",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses evidence-based management in Agile environments, focusing on measuring the impact of changes rather than on release processes specifically.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-14T20:01:04",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses evidence-based management (EBM) within Agile environments, which relates to organisational change by emphasising the importance of measuring the impact of changes made. While it does not explicitly mention organisational change frameworks or methodologies, it aligns with the core themes of adapting processes and improving agility through data-driven decision-making. The depth of discussion on how EBM can empower teams and drive continuous improvement contributes to a moderate confidence score, but the lack of direct references to organisational change principles limits its overall alignment.",
     "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-14T20:01:29",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses evidence-based management (EBM) in Agile environments, which aligns with the principles of Continuous Learning by emphasising the importance of data-driven decision-making and continuous improvement. It mentions key aspects such as measuring success, tracking metrics, and creating feedback loops, which are essential for fostering a growth mindset and adaptability. However, while it touches on these themes, the primary focus is on EBM rather than a broader exploration of Continuous Learning practices, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T15:05:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on evidence-based management in Agile environments and does not specifically address the scaling of Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-03-14T20:00:38",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 85.0,
+    "final_score": 92.0,
     "reasoning": "The content extensively discusses evidence-based management (EBM) within Agile environments, aligning closely with the principles of Evidence-Based Leadership. It provides a thorough explanation of EBM, its key elements, and practical steps for implementation, demonstrating a strong focus on data-driven decision-making. The depth of discussion includes personal examples and practical tips, reinforcing the importance of metrics and continuous improvement, which are core themes of the category.",
     "level": "Primary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-14T20:00:53",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses evidence-based management (EBM) within Agile environments, which indirectly relates to digital transformation by emphasising the importance of data-driven decision-making and continuous improvement. However, it lacks a direct focus on the strategic adoption of digital technologies for business transformation, which is central to the Digital Transformation category. While it touches on metrics and the impact of changes, it does not provide a comprehensive exploration of digital tools or methodologies that enhance business agility or innovation.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -667,15 +541,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-14T20:00:43",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 87.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses evidence-based management (EBM) within Agile environments, which aligns closely with the principles of empirical process control. It highlights the importance of metrics, transparency, and informed decision-making based on observed evidence, all of which are core themes of the category. The depth of discussion is significant, providing practical tips and personal examples that illustrate the application of EBM in real-world scenarios. However, while it is focused on EBM, it does not explicitly mention empirical process control as a term, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -688,22 +562,22 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-03-14T20:01:18",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses evidence-based management, which aligns with the principles of experimentation in Agile by emphasising the importance of measuring and analysing data to inform decisions. However, it does not explicitly focus on hypothesis-driven experimentation or specific techniques like A/B testing, which limits its depth in the context of the 'Experimentation' category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T15:05:43",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses evidence-based management rather than leadership roles or practices specifically related to Agile Leadership.",
     "level": "Ignored"
   },
@@ -745,13 +619,13 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T13:08:19",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of evidence-based management, which is a key aspect of product management. It highlights the need to measure the impact of changes, aligning with the category's focus on metrics and KPIs for product success. However, it lacks detailed exploration of methodologies or frameworks, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -802,15 +676,15 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-03-14T20:01:11",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses evidence-based management in Agile environments, which touches on metrics and decision-making that can inform product strategy. However, it primarily focuses on Agile practices and team dynamics rather than explicitly addressing product vision, roadmapping, or competitive analysis, which are core to product strategy.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -832,27 +706,27 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-14T20:01:21",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses evidence-based management (EBM) within Agile environments, highlighting its importance for measuring success and driving improvements. It aligns with Agile transformation principles by focusing on metrics, informed decision-making, and continuous improvement. However, while it touches on Agile practices, it does not delve deeply into broader Agile transformation strategies or frameworks, which slightly limits its depth of discussion.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-14T20:00:36",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses evidence-based management (EBM) within Agile environments, focusing on metrics and data-driven decision-making, which are core to operational practices. It provides detailed insights into how EBM can enhance operational efficiency by measuring success and adapting strategies based on data. The discussion includes practical steps for implementation, aligning closely with the key topics of the category. The depth of the discussion is significant, with multiple examples and actionable advice, reinforcing its relevance to operational practices.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -874,24 +748,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-14T20:00:57",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content extensively discusses evidence-based management (EBM) within Agile environments, highlighting its importance in measuring success and making informed decisions. It aligns well with Agile Strategy by focusing on continuous value delivery, adaptability, and the integration of Agile principles into decision-making processes. The depth of discussion is significant, providing practical tips and personal examples that illustrate the application of EBM in Agile contexts, thus reinforcing its relevance to the category.",
-    "level": "Secondary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T15:05:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses evidence-based management rather than focusing on the role of software developers in Agile or DevOps contexts.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -904,15 +769,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-03-14T20:00:55",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses evidence-based management (EBM) in Agile environments, focusing on metrics and decision-making processes. While it touches on the importance of measuring success and adapting strategies, it does not explicitly define or articulate long-term strategic goals. The discussion is more operational and tactical, lacking a clear connection to overarching strategic objectives that enhance business agility. Therefore, while there are relevant elements, the primary focus remains on immediate performance metrics rather than strategic alignment.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -961,15 +826,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-14T20:01:44",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses evidence-based management in Agile environments, which is relevant to technical leadership. However, it primarily focuses on metrics and decision-making rather than directly addressing the principles of technical leadership, such as mentoring, team dynamics, or agile ceremonies. While it touches on the importance of data in decision-making, it lacks depth in exploring how technical leaders can influence teams or foster collaboration.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -982,15 +847,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-14T20:00:50",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses the concept of Evidence-Based Management (EBM) and its role in measuring the Ability to Innovate within Agile environments. It highlights key metrics related to innovation, such as 'Ability to Innovate' and 'Current Value', and provides a detailed exploration of how EBM can drive informed decision-making and continuous improvement. The depth of discussion is substantial, with practical tips and personal examples illustrating the importance of data in fostering innovation. Overall, the content aligns well with the core themes of the Ability to Innovate category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -1003,34 +868,34 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-14T20:00:40",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses evidence-based management (EBM) within Agile environments, highlighting its importance for measuring success and driving improvements. While it does mention Agile teams and the context of Agile practices, the primary focus is on EBM rather than a detailed exploration of Agile frameworks themselves. The discussion aligns with Agile principles but lacks depth in comparing or analysing specific Agile frameworks, which limits its classification as primarily about Agile frameworks.",
     "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-14T20:01:15",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content extensively discusses evidence-based management (EBM) within Agile environments, focusing on metrics and their impact on team performance. It highlights the importance of measuring success, tracking key metrics, and making informed decisions, which aligns closely with the core themes of team performance and collaboration. The depth of discussion is significant, providing practical tips and personal examples that illustrate the application of EBM in enhancing team dynamics and productivity.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T15:05:43",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of measuring impacts and changes within Agile environments, which relates to throughput, but it does not focus specifically on the rate of work items completed or specific techniques for measuring throughput.",
     "level": "Tertiary"
   },
@@ -1061,45 +926,36 @@
     "reasoning": "Content heavily focuses on evidence-based management in agile environments, without addressing the psychological and social aspects of employee engagement.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T15:05:43",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content focuses on measurement and value delivery, which are important in Agile environments, but does not explicitly discuss agile methodologies or frameworks.",
-    "level": "Tertiary"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-03-14T20:01:06",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses evidence-based management, which aligns with the principles of data-driven decision-making and measuring success. However, it lacks explicit mentions of hypothesis formulation and experimentation, which are central to hypothesis-driven development. The focus is more on metrics and general Agile practices rather than on the specific process of testing hypotheses.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T15:05:43",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on evidence-based management and measuring success, without discussing Agile Planning Tools or their functionalities.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T17:55:47",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Evidence-Based Management (EBM) within Agile environments, which is not directly related to Continuous Delivery. While it touches on aspects like measuring success and making informed decisions, it lacks a focus on Continuous Delivery principles, practices, and the role of automation in deployment. The discussion is more about Agile methodologies rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
@@ -1114,10 +970,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T15:05:43",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses evidence-based management in Agile rather than the Definition of Done.",
     "level": "Ignored"
   },
@@ -1141,27 +997,27 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-14T20:01:39",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 85.0,
+    "final_score": 92.0,
     "reasoning": "The content extensively discusses evidence-based management (EBM) as a structured approach to decision-making in Agile environments. It directly addresses the importance of metrics and data in guiding decisions, aligning closely with the core themes of the category. The depth of discussion is significant, providing detailed steps for implementing EBM and illustrating its impact through examples. Overall, the content is highly relevant to the category of Decision Making.",
     "level": "Primary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T20:01:01",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on Evidence-Based Management (EBM) within Agile environments, which is a crucial aspect of software development methodologies. It discusses how EBM can enhance decision-making, transparency, and continuous improvement in Agile teams, aligning well with the core themes of the Software Development category. The depth of discussion is substantial, providing practical tips and real-world examples that illustrate the importance of metrics in software development processes.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1179,15 +1035,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses evidence-based management rather than the Product Backlog, its definition, techniques, or practices related to backlog management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T15:05:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses evidence-based management in Agile environments but does not specifically address Scrum practices or product development within a Scrum framework.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -1210,22 +1057,22 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T15:05:43",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of understanding and measuring the impact of changes, which aligns with the themes of sensemaking, but it is more focused on evidence-based management rather than a deep exploration of sensemaking principles or frameworks.",
     "level": "Tertiary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-14T20:01:41",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses evidence-based management (EBM) in Agile environments, which aligns with Agile Planning principles by emphasising the importance of metrics and data-driven decision-making. However, while it touches on Agile concepts, it primarily focuses on EBM rather than directly addressing Agile Planning methodologies, techniques, or practices. The discussion lacks depth in specific Agile Planning strategies, which affects the overall confidence score.",
     "level": "Secondary"
   },
@@ -1267,45 +1114,45 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T15:05:43",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions the importance of measuring changes and their impact, which relates to validating assumptions about product effectiveness, but it does not focus explicitly on product validation methodologies or user testing.",
     "level": "Tertiary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-14T20:01:34",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses evidence-based management (EBM) in Agile environments, which indirectly relates to Agile values such as continuous improvement and customer-centricity. However, it primarily focuses on the practical application of EBM rather than explicitly discussing Agile values and principles. While it touches on themes like informed decision-making and transparency, it lacks a direct exploration of the Agile Manifesto or its core principles, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T15:05:43",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on evidence-based management and measuring impact, which is not directly about managing a portfolio of projects.",
     "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-03-14T20:01:27",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses evidence-based management, which aligns with systems thinking principles by emphasising the importance of measuring and analysing organisational performance. However, it primarily focuses on Agile methodologies and individual team dynamics rather than a broader organisational context. While it touches on key elements like feedback loops and decision-making, it lacks a comprehensive exploration of organisational structure and culture, which are central to the category of Organisational Physics.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1318,24 +1165,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-14T20:01:31",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 75.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses evidence-based management (EBM) in Agile environments, which aligns closely with strategic approaches to optimising delivery processes and enhancing team performance. It explicitly mentions key metrics and their role in decision-making, reflecting a strong focus on strategic alignment and continuous improvement. The depth of discussion on implementing EBM and its impact on team dynamics further supports its relevance to the Strategy category.",
     "level": "Secondary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T15:05:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses evidence-based management in Agile environments without any clear focus on AI technology or its integration with Agile methodologies.",
-    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1366,13 +1204,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:09:16",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses Evidence-Based Management in Agile environments, focusing on metrics and decision-making rather than the principles of Test First Development. While it touches on the importance of measuring success, it does not explicitly mention Test First practices, success criteria, or the role of testing in the development process.",
     "level": "Ignored"
   },
@@ -1396,15 +1234,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-14T20:01:09",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses evidence-based management (EBM) within Agile environments, highlighting practical strategies for measuring success and making informed decisions. It aligns well with the core themes of pragmatic thinking by focusing on real-world applications of metrics to enhance team performance and adaptability. The depth of discussion is significant, providing detailed examples and actionable steps for implementation, which reinforces its relevance to pragmatic problem-solving in complex environments.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1424,24 +1262,15 @@
     "reasoning": "Content heavily focuses on evidence-based management and measuring success in Agile environments, rather than on coaching practices or support for team development.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T15:05:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on evidence-based management in agile environments, which is more related to team-level practices and measuring impacts rather than discussing scaling agility across an organization.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T16:09:21",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses evidence-based management in Agile environments, which is relevant to Scrum but does not focus specifically on the role of the Scrum Master. While it touches on decision-making and continuous improvement—key themes for Scrum Masters—the primary focus is on EBM rather than the responsibilities or influence of a Scrum Master. Therefore, it lacks direct mentions and depth regarding the Scrum Master role.",
     "level": "Ignored"
   },
@@ -1456,26 +1285,26 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-17T15:05:43",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses evidence-based management in Agile environments, not focusing on Value Stream Mapping or its principles.",
     "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-03-14T20:01:37",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses evidence-based management in Agile environments, which indirectly relates to the concept of Increment by focusing on measuring value and performance. However, it does not explicitly address the delivery of software increments or the specific practices associated with ensuring the quality and completeness of an Increment. The primary focus is on metrics and decision-making rather than the Increment itself.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T15:05:43",
     "ai_confidence": 0,
@@ -1531,86 +1360,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T20:00:20",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the concept of delivering value and measuring success, which aligns with Scrum principles. However, it lacks explicit mentions of Scrum roles, events, or artifacts, and does not delve deeply into Scrum practices, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:48:44",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses evidence-based management in Agile environments, focusing on metrics and decision-making. While it touches on aspects of early measurement and continuous improvement, it does not explicitly address the Shift-Left Strategy or its principles. The primary focus is on evidence-based management rather than integrating testing, security, or compliance earlier in the development process.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:55:35",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses Evidence-Based Management (EBM) within Agile environments, highlighting its role in measuring and improving processes, which aligns closely with the principles of Continuous Improvement. It directly addresses the importance of data-driven decision-making and the need for ongoing reflection and adaptation, key themes of Continuous Improvement. The depth of discussion is significant, providing practical tips and personal examples that illustrate the application of EBM to foster a culture of continuous improvement. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:55:38",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Evidence-Based Management (EBM) in Agile environments, which indirectly relates to Common Goals by emphasising the importance of metrics and data-driven decision-making. However, it does not explicitly address the concept of Common Goals or their significance in aligning strategy with execution. The focus is more on the implementation of EBM rather than on shared objectives or alignment within teams, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:55:40",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 62.0,
     "ai_mentions": 3,
     "ai_alignment": 75.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of evidence-based management in Agile environments, which indirectly relates to competence through the emphasis on informed decision-making and continuous improvement. However, while it touches on aspects of competence, such as measuring success and adapting strategies based on data, it does not delve deeply into the foundational principles of competence itself, such as skill development or fostering a culture of mastery.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:55:42",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Evidence-Based Management (EBM) within Agile environments, which is not directly related to the One Engineering System (1ES). While it discusses metrics and decision-making processes, it does not address the principles, components, or implementation of 1ES. The discussion is centred on Agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:09:13",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses evidence-based management in Agile environments, which touches on the importance of data-driven decision-making and adaptability. However, it does not explicitly address the concept of Agentic Agility or differentiate between human and AI capabilities. The focus is more on general Agile practices rather than the intentional shaping of outcomes through agency.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T22:54:01",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 87.0,
+    "reasoning": "The content focuses heavily on Evidence-Based Management (EBM) within Agile environments, which is a key aspect of product development methodologies. It discusses the importance of measuring success, tracking metrics, and making informed decisions based on data, all of which align closely with the principles of Agile product development. The depth of discussion is substantial, providing practical tips and personal examples that illustrate the application of EBM in real-world scenarios. The content is primarily centred on product development practices, making it a strong fit for the category.",
+    "level": "Primary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T22:54:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Evidence-Based Management in Agile environments, discussing its importance, key elements, and implementation strategies. There are no direct mentions of Liberating Structures or their techniques, and the discussion does not align with the core themes of facilitation techniques or group dynamics that are central to Liberating Structures. The content lacks depth in relation to the principles and applications of Liberating Structures, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T22:54:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) within Agile environments, which aligns with project management principles such as measuring success, managing risk, and ensuring timely delivery. While it focuses on Agile practices, it does touch on broader project management concepts like metrics, decision-making, and continuous improvement. However, the primary focus on Agile and specific practices limits its depth in traditional project management methodologies, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T22:54:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Evidence-Based Management (EBM) within Agile environments, discussing its importance and implementation. While it touches on Agile principles, it does not directly address Open Space Agile or its core themes such as psychological safety, co-creation, or iterative dialogue. The discussion lacks depth regarding Open Space Agile practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T22:54:12",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content explicitly mentions 'Unrealized Value' as one of the key elements of Evidence-Based Management, indicating a direct mention. However, while it touches on the concept, the discussion primarily revolves around the importance of measuring current value and making informed decisions rather than deeply exploring unrealised value or its indicators. The depth of discussion on unrealised value is limited, focusing more on the overall framework of EBM and its application in Agile environments. Therefore, while the category is present, it is not the primary focus of the content, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T22:54:16",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 30,
+    "final_score": 75.0,
+    "reasoning": "The content explicitly mentions 'Time to Market' as a key metric within the context of Evidence-Based Management, indicating a direct discussion of the category. It aligns well with the core themes by discussing how measuring this metric can lead to informed decision-making and process improvements. The depth of discussion is substantial, providing examples and practical tips on how to implement evidence-based management to enhance delivery speed. However, while it covers Time to Market, the primary focus is on Evidence-Based Management as a whole, which slightly dilutes the emphasis on Time to Market specifically.",
+    "level": "Secondary"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T22:54:19",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses Current Value as a key metric within the framework of Evidence-Based Management (EBM). It highlights the importance of measuring Current Value to assess whether value is being delivered to customers in real-time. The discussion aligns well with the core themes of the category, as it provides insights into how Current Value can be tracked and analysed, and its role in decision-making. The depth of the discussion is substantial, with practical examples and a structured approach to implementing EBM, which includes Current Value as a focal point. Overall, the content is highly relevant and provides a comprehensive view of Current Value in the context of EBM.",
+    "level": "Primary"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T22:54:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) within Agile environments, focusing on metrics and decision-making processes. While it touches on themes of measurement and improvement, it does not explicitly frame the company as a product or discuss organisational design in the context of CaaP. The primary focus is on EBM rather than the broader implications of treating the organisation as a product, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T22:54:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) within Agile environments, focusing on metrics and decision-making. While it touches on aspects of measuring success and improving processes, it does not explicitly address scaling methodologies or frameworks, nor does it explore cross-team collaboration or alignment with business goals, which are central to the Scaling category. The discussion is primarily about individual team performance rather than the complexities of scaling Agile practices across multiple teams or the enterprise level.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T22:54:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Evidence-Based Management (EBM) within Agile environments, discussing its importance and implementation. However, it does not explicitly mention Hybrid Agile or engage with the critical examination of merging traditional project management methodologies with agile practices. The discussion lacks depth regarding the challenges and pitfalls of Hybrid Agile, and it does not address the core themes outlined for this category. Therefore, while there is some conceptual alignment with Agile practices, it does not meet the criteria for a strong connection to Hybrid Agile.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T22:54:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) within Agile environments, focusing on metrics and data-driven decision-making. However, it does not explicitly mention Agnostic Agile or its principles. While it aligns with the idea of adapting practices based on context, it primarily centres on EBM as a framework rather than exploring the broader philosophical underpinnings of Agnostic Agile. The depth of discussion on Agnostic Agile principles is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T22:54:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses evidence-based management in Agile environments without any direct mention of GitHub or its services. While it touches on Agile principles, it does not align with GitHub's functionalities or best practices, nor does it provide any depth related to GitHub tools or methodologies. Therefore, the confidence score is low.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T22:54:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management in Agile environments, with no direct mention of Cell Structure Design or its principles. While it touches on themes of decentralisation and team autonomy, these are not explored in the context of Cell Structure Design, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

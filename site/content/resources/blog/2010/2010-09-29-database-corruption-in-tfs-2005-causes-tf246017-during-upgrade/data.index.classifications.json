@@ -8,18 +8,6 @@
     "reasoning": "Content primarily discusses a technical issue related to database corruption during a software upgrade, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:34:01",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses a specific technical issue encountered during an upgrade of TFS, including error messages and troubleshooting steps. It mentions the use of SQL commands like 'dbcc checkdb' to identify and repair database corruption, which aligns with practical techniques for resolving issues in tooling. However, while it provides some practical insights, the focus is primarily on a specific incident rather than a broader exploration of methodologies or frameworks that enhance Agile and DevOps practices.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-16T00:12:26",
@@ -31,72 +19,36 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:49:37",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a technical issue related to upgrading TFS and database corruption, with no explicit mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and does not provide any depth on these topics.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T00:12:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific error encountered during a database upgrade process, focusing on troubleshooting and SQL commands rather than the interplay between code quality and complexity in software development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T00:12:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to database corruption during an upgrade process, without a focus on learning methodologies or discovery processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T00:12:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a technical issue related to upgrading TFS and database corruption, with no mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-16T00:12:33",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to database corruption during a software upgrade, with no reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:03:09",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses an upgrade process for TFS 2005 to TFS 2010, detailing an error encountered during the installation and providing a troubleshooting step (using 'dbcc checkdb') to resolve database corruption. This aligns with the category of Install and Configuration as it focuses on a specific installation issue and offers actionable insights. However, while it does mention installation and configuration, the depth of discussion on broader configuration best practices is limited, hence the score reflects a strong but not complete alignment.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T00:12:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to database corruption during an upgrade process, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content primarily discusses a technical issue related to database corruption during a software upgrade, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T00:12:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to database corruption during an upgrade process, without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:49:25",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a specific technical issue related to upgrading TFS (Team Foundation Server) and resolving a database error. While TFS is a tool often used in DevOps practices, the discussion does not explicitly address DevOps principles, practices, or cultural shifts. The mention of TFS and database management is more aligned with technical troubleshooting rather than the broader DevOps philosophy of collaboration, automation, and continuous improvement. Therefore, the confidence score reflects a low alignment with the core themes of DevOps.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily discusses a technical issue related to database corruption during a software upgrade, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T00:12:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue encountered during a software upgrade, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T00:12:48",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to database corruption during an upgrade process, with no clear focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T00:12:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to database corruption during a software upgrade, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T00:12:53",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to database corruption during a software upgrade, without any focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -220,13 +145,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T06:47:38",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses a specific technical issue encountered during a database upgrade process, detailing error messages and troubleshooting steps. While it touches on aspects of technical excellence, such as identifying and resolving database corruption, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The focus is more on a specific problem and its resolution rather than on principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
     "level": "Secondary"
   },
@@ -275,15 +200,6 @@
     "reasoning": "Content primarily discusses a technical issue related to upgrading TFS and database corruption, which does not align with the principles or practices of Value Stream Management.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T00:13:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue encountered during a software upgrade, with no focus on products, books, or Agile/DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-16T00:13:06",
@@ -295,15 +211,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T15:01:51",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 62.0,
     "ai_mentions": 80.0,
     "ai_alignment": 50.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses an upgrade issue related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. It provides specific error messages and troubleshooting steps, indicating a focus on Azure DevOps functionalities. However, the discussion is primarily technical and does not delve into broader Azure DevOps practices or methodologies, which slightly limits its alignment with the category's core themes.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -325,22 +241,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T00:13:11",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific technical issue related to upgrading TFS 2005 to TFS 2010, focusing on database errors and troubleshooting, rather than the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:49:35",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a technical issue related to upgrading TFS (Team Foundation Server) and does not mention or align with the Agile Product Operating Model. It focuses on database errors and resolutions, which are unrelated to agile methodologies or product management principles.",
     "level": "Ignored"
   },
@@ -353,24 +269,15 @@
     "reasoning": "Content primarily discusses a technical issue related to database corruption during a software upgrade, with no focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T00:13:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue encountered during a database upgrade, lacking a focus on industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T06:47:41",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a specific technical issue encountered during an upgrade of TFS (Team Foundation Server), which is related to application maintenance. However, it lacks a broader discussion on the application lifecycle stages, governance, or best practices. While it touches on a problem that could be part of the maintenance phase, it does not provide sufficient depth or alignment with the core themes of Application Lifecycle Management.",
     "level": "Ignored"
   },
@@ -385,22 +292,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T01:08:51",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical error encountered during a software upgrade process, which is unrelated to the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T10:39:31",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a specific technical issue encountered during a software upgrade, focusing on database corruption and the resolution process. While it does touch on technical aspects, such as SQL commands and error handling, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that would align it more closely with the 'Technical Mastery' category. The primary focus is on troubleshooting rather than on overarching engineering practices.",
     "level": "Secondary"
   },
@@ -415,13 +322,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:49:41",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a specific error encountered during an upgrade of TFS (Team Foundation Server) from 2005 to 2010, focusing on database corruption and resolution steps. While it touches on aspects of software deployment, it does not explicitly address Continuous Delivery principles, practices, or benefits. The discussion lacks depth in Continuous Delivery concepts and does not explore automation, rapid feedback, or cultural aspects related to Continuous Delivery.",
     "level": "Ignored"
   },
@@ -454,10 +361,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T01:08:52",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a specific error encountered during a software upgrade process, with no discussion of backlog items, Definition of Ready criteria, or Agile practices.",
     "level": "Ignored"
   },
@@ -508,22 +415,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T06:47:45",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses a specific technical issue encountered during a TFS upgrade, focusing on troubleshooting a database connection error. While it touches on operational practices related to database management, such as using the 'dbcc checkdb' command for repair, it lacks a broader discussion on operational efficiency or methodologies like Agile, DevOps, or Lean. The primary focus is on resolving a technical problem rather than enhancing operational practices, which limits its alignment with the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T01:08:52",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical issues related to upgrading TFS and database errors, which are unrelated to Scrum Team roles, collaboration, or dynamics.",
     "level": "Ignored"
   },
@@ -583,10 +490,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T01:08:52",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a technical issue regarding a database upgrade in TFS, which does not relate to team performance or collaboration in an agile context.",
     "level": "Ignored"
   },
@@ -601,40 +508,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T01:08:52",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on a technical issue related to database corruption in TFS during an upgrade, with no mention of Acceptance Test Driven Development or related principles.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T15:08:53",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses a specific issue encountered during a software upgrade process involving Team Foundation Server (TFS), which is relevant to software development practices. It provides a detailed account of an error message, troubleshooting steps, and a solution involving SQL commands. While it does not explicitly mention broader software development methodologies or practices, it aligns with the category through its focus on a technical problem and resolution within the software development lifecycle. The depth of discussion is moderate, primarily centred on a specific technical issue rather than a comprehensive exploration of software development principles.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T01:08:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical issue related to upgrading Team Foundation Server and does not focus on any aspects of Agile Project Management or methodologies.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T01:08:52",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to upgrading Team Foundation Server, with no focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -649,22 +547,22 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-15T06:47:48",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses an upgrade issue related to Team Foundation Server (TFS), which is a version control system. However, the focus is primarily on a specific error encountered during the upgrade process rather than on broader best practices or methodologies of modern source control. While it mentions TFS, it does not delve into topics like branching strategies, code review processes, or collaboration workflows, which are key themes of the category. Therefore, the confidence score reflects a low alignment with the core themes of modern source control.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T01:08:52",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on addressing a technical issue related to database corruption during an upgrade process, without any significant relation to empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
@@ -731,15 +629,6 @@
     "reasoning": "Content primarily discusses a technical issue related to upgrading Team Foundation Server, without any reference to customer satisfaction or customer experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T01:08:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical issue related to upgrading TFS and does not address Scrum principles, practices, or their scaling in organizations.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T01:08:52",
@@ -756,15 +645,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical issues related to upgrading Team Foundation Server, including error messages and database corruption, without addressing psychological safety in any capacity.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T01:08:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical issues related to upgrading TFS, specifically database errors, without discussing scaling agility practices.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -814,13 +694,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T18:49:49",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses a practical problem encountered during a TFS upgrade, detailing the error and the steps taken to resolve it. It highlights the importance of real-world application of problem-solving techniques, such as using the 'dbcc checkdb' command to identify and repair database corruption. However, while it aligns with pragmatic thinking through its focus on practical solutions, it lacks a broader discussion on Agile, Scrum, or DevOps frameworks, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
@@ -835,29 +715,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T01:08:52",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a technical error and resolution process during a software upgrade, without any focus on innovation capability or evidence-based management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T01:08:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to a database upgrade in TFS and does not focus on Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T01:08:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to upgrading TFS (Team Foundation Server) and database errors, with no clear relation to Scaled Agile methodologies or practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -880,10 +742,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-16T01:08:52",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a specific error encountered during a database upgrade for TFS, detailing troubleshooting steps rather than discussing test automation principles or practices.",
     "level": "Ignored"
   },
@@ -898,10 +760,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T06:47:33",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
+    "final_score": 40.0,
     "reasoning": "The content primarily focuses on technical issues encountered during a database upgrade for TFS, which is related to operational software but does not discuss working software characteristics, delivery, or customer feedback.",
     "level": "Ignored"
   },
@@ -988,13 +850,13 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T06:47:33",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a specific upgrade process for TFS, which is related to release management. However, it primarily focuses on troubleshooting a database error rather than broader release management strategies or practices. While it touches on aspects of the upgrade process, it lacks a comprehensive discussion on planning, scheduling, or coordination typically associated with release management.",
     "level": "Ignored"
   },
@@ -1045,10 +907,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T01:08:52",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a technical issue related to upgrading TFS 2005 to TFS 2010, specifically focusing on database errors and solutions, with no mention of team dynamics or collaboration.",
     "level": "Ignored"
   },
@@ -1070,7 +932,7 @@
     "reasoning": "Content discusses a technical issue related to upgrading TFS databases, with no focus on digital transformation strategies or methodologies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T01:08:52",
     "ai_confidence": 0,
@@ -1079,24 +941,15 @@
     "reasoning": "Content primarily discusses a technical issue related to upgrading software (TFS), not related to the concepts of Minimum Viable Product or related methodologies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T01:08:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses a technical issue related to upgrading TFS with no mention or application of AI within Agile or DevOps practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T12:04:44",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses a specific issue encountered during the upgrade of TFS 2005 to TFS 2010, which directly relates to system configuration. It details the error message, the troubleshooting steps taken, and the command used to check and repair the database, all of which are relevant to system configuration practices. The discussion includes practical steps for resolving a configuration issue, aligning well with the category's focus. However, while the content is rich in detail regarding the specific problem, it does not cover broader best practices or methodologies for system configuration, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -1138,27 +991,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:18:56",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 3.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a specific error encountered during an upgrade of TFS 2005 to TFS 2010, focusing on database corruption and resolution steps. It does not mention Test First Development principles, success criteria, or any related testing practices. The discussion is technical but does not align with the core themes of Test First Development, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T06:47:36",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily discusses an upgrade process related to Team Foundation Server (TFS), which operates within the Windows environment. While it does not explicitly mention Windows frequently, the context of TFS and SQL Server implies a Windows-centric discussion. The troubleshooting of a specific error (TF246017) and the mention of commands like 'dbcc checkdb' indicate a focus on managing a Windows-based application. However, the content lacks a broader discussion on Windows installation, configuration, or updates, which limits its alignment with the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1180,10 +1033,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T01:08:52",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical issues related to database upgrades and does not address team dynamics or motivational aspects.",
     "level": "Ignored"
   },
@@ -1207,15 +1060,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T16:59:23",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed account of a specific technical issue encountered during a software upgrade, including error messages and troubleshooting steps taken to resolve the problem. It explicitly discusses the identification of the issue (database corruption) and the resolution method (using the 'dbcc checkdb' command), which aligns closely with the core themes of the Troubleshooting category. The depth of discussion is significant, as it includes specific error codes, logs, and the process of diagnosing and fixing the issue, demonstrating a thorough understanding of troubleshooting methodologies.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1228,13 +1081,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:18:59",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a technical issue related to upgrading TFS (Team Foundation Server) and does not mention the role or responsibilities of a Scrum Master. There is no alignment with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles. The depth of discussion is focused on database errors and resolutions, which are unrelated to Scrum practices.",
     "level": "Ignored"
   },
@@ -1254,15 +1107,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical issues related to TFS upgrade and SQL Server database errors, with no mention of working agreements or team collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T01:08:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific error related to database upgrade in TFS, not focusing on the role of software developers within Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1382,15 +1226,6 @@
     "reasoning": "Content primarily discusses a technical issue related to database upgrades in TFS and does not address themes of accountability, ownership, or team dynamics within Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T01:08:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses database upgrade issues related to TFS 2005 and TFS 2010, with no mention or relevance to Kanban principles or their application in scaling environments.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T01:08:52",
@@ -1402,22 +1237,22 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T01:08:52",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a specific error encountered during a database upgrade of Team Foundation Server (TFS), detailing troubleshooting steps and resolution, which are unrelated to Test Driven Development principles.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:41:34",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a technical issue related to database corruption during a software upgrade, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it mentions problem-solving in a technical context, it does not align with the core themes of social technologies or provide depth in those areas.",
     "level": "Ignored"
   },
@@ -1450,73 +1285,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:49:52",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a technical issue related to upgrading Team Foundation Server (TFS) and does not mention Scrum principles, roles, events, or any related topics. While TFS is often used in Agile environments, the content does not focus on Scrum or its practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:32:09",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a specific technical issue encountered during a database upgrade process in TFS, focusing on error messages and troubleshooting steps. It does not address the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any insights into collaboration or metrics related to Shift-Left practices.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:49:27",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a technical issue related to upgrading TFS and resolving a specific error. While it does touch on problem-solving and fixing a database issue, it lacks a broader discussion on Continuous Improvement principles, such as fostering a culture of experimentation or integrating improvement strategies into processes. The mention of identifying and repairing a database corruption does not align with the core themes of Continuous Improvement, which emphasises ongoing reflection and adaptation rather than addressing a one-time technical issue.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:49:30",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a technical issue related to upgrading TFS and does not discuss Common Goals or their significance in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or frameworks like OKRs. The discussion is centred around troubleshooting a specific error, which does not connect to the principles of Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:49:33",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on a technical issue related to upgrading TFS and resolving a specific error. While it demonstrates a level of competence in troubleshooting and problem-solving, it does not explicitly discuss the broader themes of continuous learning, skill development, or the importance of competence in Agile or DevOps environments. The mention of using commands like 'dbcc checkdb' indicates some level of technical skill, but it lacks depth in exploring how this relates to professional competence or team dynamics.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:18:53",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a technical issue related to upgrading TFS and resolving a specific error. It does not address the concept of Agentic Agility, nor does it explore themes such as intentional shaping of outcomes, autonomy, or adaptability. The focus is on troubleshooting and technical resolution rather than on the principles or mechanisms of Agentic Agility.",
     "level": "Ignored"
   }

@@ -1,10 +1,10 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T18:26:00",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details of a specific application and its design, without addressing the broader aspects of application lifecycle management.",
     "level": "Ignored"
   },
@@ -37,10 +37,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T18:26:06",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of a specific application using WPF and VB.NET, with no clear focus on the principles or practices of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:26:13",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the design and implementation of a WPF application, focusing on data representation and programming concepts rather than installation or configuration processes.",
     "level": "Ignored"
   },
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses technical aspects of a software application and programming concepts without any direct reference to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T18:26:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementation details related to WPF and data representation, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T18:26:18",
@@ -96,15 +87,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of software development and design patterns, with no clear focus on complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T18:26:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the implementation of a specific application using WPF and VB.NET, without a clear focus on Agile or DevOps methodologies or tools.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +100,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T18:26:22",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details of a software application, focusing on WPF and data representation, without any mention of metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -154,35 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-04-08T19:57:41",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 5.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical aspects of enhancing a software application using WPF and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of EBM concepts, and the discussion lacks any alignment with the core themes of data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-04-08T19:57:36",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical aspects of enhancing a software application using WPF and does not mention or align with the Agile Product Operating Model. It lacks any discussion on agile methodologies, product management principles, or the key topics outlined in the APOM framework.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T18:26:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details and design considerations for a specific application, lacking a focus on industry news or reviews.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -210,45 +183,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation of a specific application using WPF and VB.NET, with no clear focus on platform engineering principles or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T18:26:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the development of a WPF application and does not address AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T07:34:22",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses the implementation of a WPF application and the use of generics and observable collections, which touches on aspects of code quality and complexity. However, it lacks a direct focus on the broader themes of complexity theory or best practices in software development. The discussion is more technical and specific to a particular implementation rather than exploring the interplay between code quality and complexity in a general sense.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T18:26:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of a software application, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T18:26:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementation details and design patterns without addressing transparency or accountability in Agile teams.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -316,54 +250,27 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-04-08T19:57:25",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on enhancing a specific application (TFS Sticky Buddy) using WPF and does not discuss any DevOps principles, practices, or cultural shifts. There are no direct mentions of DevOps, and the content lacks alignment with the core themes of collaboration, automation, or shared accountability. The depth of discussion is also minimal, as it revolves around technical implementation details rather than DevOps-related topics.",
     "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T13:15:54",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses technical aspects of software development, particularly focusing on WPF and the implementation of design patterns like Observable Collections and INotifyPropertyChanged. However, while it touches on technical practices, it lacks a comprehensive exploration of broader engineering methodologies such as TDD, CI/CD, or Agile integration, which are central to the category of Technical Excellence. The discussion is more about specific implementation details rather than a holistic view of technical excellence in software engineering.",
     "level": "Secondary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T18:26:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of application development and design, with no clear focus on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T18:27:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details related to WPF and data representation, with no clear focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T18:27:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of a software application, with no focus on products or literature related to Agile or DevOps.",
-    "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
@@ -385,19 +292,19 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T18:55:13",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses programming concepts and application development with WPF and does not focus on system configuration topics.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T18:55:13",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical implementation details of a specific application and does not discuss innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -426,15 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of application development using WPF and does not focus on portfolio management or related topics.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T18:55:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of developing a software application and does not cover Scrum principles, practices, or product development contextualized within a Scrum framework.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -466,10 +364,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T18:55:13",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical implementation details and specific programming practices without discussing Agile values or principles.",
     "level": "Ignored"
   },
@@ -502,20 +400,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T18:55:13",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content is primarily focused on technical implementation of a software application and does not discuss the Definition of Done or its principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T18:55:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details of a WPF application and does not relate to Agile practices or scaling Agile frameworks.",
+    "reasoning": "Content is primarily focused on technical implementation of a software application and does not discuss the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -581,27 +470,15 @@
     "reasoning": "Content primarily discusses software development details, specifically about WPF and hierarchy representation, with no focus on collaboration tools or Agile methodologies.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T07:34:22",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses technical aspects of software development, specifically focusing on WPF and VB.NET, which are relevant to software developers. However, it lacks explicit references to Agile or DevOps methodologies, and the discussion is more about implementation details rather than the broader context of developer roles within Agile frameworks. The depth of technical detail is present, but it does not align closely with the key themes of the category.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T18:58:53",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the development of a WPF application, focusing on the implementation of core objects and design patterns such as Observable Collections and INotifyPropertyChanged. It aligns with software development practices, particularly in the context of coding and design principles. However, while it provides some technical detail, it lacks a comprehensive exploration of broader software development methodologies or frameworks, which limits its depth of discussion.",
     "level": "Secondary"
   },
@@ -632,7 +509,7 @@
     "reasoning": "Content primarily discusses technical implementation details and design principles for a software application, without focusing on estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T18:55:13",
     "ai_confidence": 0,
@@ -706,13 +583,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-04-08T19:57:46",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on enhancing a specific application (TFS Sticky Buddy) using WPF and does not discuss Continuous Delivery principles, practices, or related topics. There are no direct mentions of Continuous Delivery, and the discussion is centred around coding techniques and data management rather than software delivery practices.",
     "level": "Ignored"
   },
@@ -759,15 +636,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of WPF application development without any mention of hypothesis formulation or experimentation.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T18:55:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses WPF application development and data representation, with no mention or focus on AI, Agile, or DevOps.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -862,10 +730,10 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T18:55:13",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on developing a specific application and discusses technical aspects of WPF and data representation, without addressing modern source control practices or version control methodologies.",
     "level": "Ignored"
   },
@@ -943,10 +811,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T18:55:13",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical implementation details and software development rather than discussing backlog item readiness or Definition of Ready.",
     "level": "Ignored"
   },
@@ -970,15 +838,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T15:12:44",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses technical aspects of software development, particularly focusing on WPF and the implementation of design patterns like Observable Collections and INotifyPropertyChanged. However, while it touches on software craftsmanship and design principles, it lacks a comprehensive exploration of best practices or methodologies that would elevate it to a primary focus on Technical Mastery.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -989,15 +857,6 @@
     "reasoning": "Content primarily discusses technical aspects of a software application and design patterns, not related to remote working or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T18:55:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on software design and development with .NET and WPF, and does not mention Kanban or its scaling in any way.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T18:55:13",
@@ -1005,15 +864,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content mainly focuses on software development techniques and design patterns, with no clear discussion or strategies related to customer retention or engagement.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T18:55:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of developing a WPF application and does not relate to Agile Project Management principles or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1108,10 +958,10 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T18:55:13",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on application development using WPF and VB.NET, without central discussions on the Windows operating system itself.",
     "level": "Ignored"
   },
@@ -1261,15 +1111,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T07:34:22",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses technical aspects of software development, such as using WPF and implementing design patterns like Observable Collections and INotifyPropertyChanged. However, it lacks a direct focus on broader engineering excellence principles, such as coding standards or continuous improvement practices. While it touches on some relevant technical details, it does not provide a comprehensive discussion on engineering excellence as defined in the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1287,15 +1137,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on developing a specific software application and technical implementation details, without discussing asynchronous development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T18:55:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of application development and design without any reference to Scrum principles or scaling practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1334,24 +1175,15 @@
     "reasoning": "Content primarily discusses application development and graphical representation using WPF, with no clear focus on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T18:55:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical details of a software application and does not address concepts related to scaling agility.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:57:39",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical aspects of software development, specifically enhancing a TFS Sticky Buddy application using WPF. There are no direct mentions of the Scrum Master role or its responsibilities, and the discussion does not align with the core themes of Scrum or agile principles. The content lacks depth regarding Scrum practices, making it irrelevant to the category.",
     "level": "Ignored"
   },
@@ -1387,13 +1219,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:52:17",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical aspects of enhancing a software application using WPF and does not discuss social technologies, collaboration, or decision-making. While it mentions managing hierarchical data, it lacks any connection to the principles of self-organisation or collective intelligence that define the category of Social Technologies.",
     "level": "Ignored"
   },
@@ -1426,73 +1258,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:00:20",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical aspects of a software application and does not mention Scrum principles, roles, or practices. There is minimal conceptual alignment with Scrum, as it lacks discussions on team dynamics, iterative processes, or continuous improvement.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:42:24",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the technical implementation of a WPF application and does not address the Shift-Left Strategy or its principles, benefits, or techniques. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. The focus is on software design and development without any reference to the proactive measures associated with Shift-Left practices.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-04-08T19:57:28",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical aspects of enhancing a software application using WPF and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth in relation to the category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-04-08T19:57:30",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions improving coding skills, which aligns with the concept of competence. However, it primarily focuses on technical implementation details and does not deeply explore continuous learning or the broader implications of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-04-08T19:57:32",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical aspects of enhancing a specific application (TFS Sticky Buddy) using WPF and does not explicitly discuss Continuous Improvement principles. While there are elements of innovation and enhancement, they are not framed within the context of Continuous Improvement methodologies or philosophies. The discussion lacks depth in terms of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation, which are key to the Continuous Improvement category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:57:34",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical aspects of enhancing a software application using WPF and does not discuss Agentic Agility or its principles. There are no direct mentions of agency, intentionality, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }

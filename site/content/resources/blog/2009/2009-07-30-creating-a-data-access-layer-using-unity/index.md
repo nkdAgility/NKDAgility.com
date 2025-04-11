@@ -9,7 +9,7 @@ ResourceImportId: 95
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-30
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,7 +26,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Technical Mastery
-- Practical Techniques and Tooling
 categories: []
 preview: metro-binary-vb-128-link-5-5.png
 

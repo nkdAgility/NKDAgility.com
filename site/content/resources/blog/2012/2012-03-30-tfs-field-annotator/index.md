@@ -24,9 +24,8 @@ aliasesArchive:
 - /tfs-field-annotator
 - /resources/blog/tfs-field-annotator
 tags:
-- Troubleshooting
 - Install and Configuration
-- Windows
+- Troubleshooting
 categories: []
 preview: metro-cloud-azure-link-4-4.png
 

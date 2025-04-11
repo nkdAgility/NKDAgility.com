@@ -1,13 +1,13 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:09:53",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the challenges of adopting Scrum, which is a framework within Agile methodologies. While it touches on themes of mindset and culture, it lacks a direct focus on social technologies as defined in the category. The discussion is more about individual and organisational challenges rather than fostering collaboration or enhancing decision-making through social technologies. Therefore, the confidence score reflects a low alignment with the core themes of the category.",
     "level": "Ignored"
   },
@@ -22,13 +22,13 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T19:30:25",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum, an Agile methodology, rather than discussing DevOps principles or practices. While it touches on themes of continuous learning and adaptability, which are relevant to DevOps, it does not explicitly mention DevOps or its core concepts. The discussion is centred around the challenges of adopting Scrum, making it largely unrelated to the DevOps philosophy.",
     "level": "Ignored"
   },
@@ -70,15 +70,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-14T23:31:35",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly touches on the challenges of adopting Scrum but lacks explicit discussion of Scrum roles, events, or principles. While it aligns conceptually with the need for change and understanding in Scrum adoption, it does not delve into the core themes or provide detailed insights into Scrum practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -91,32 +91,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T19:30:43",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses challenges in adopting Scrum, focusing on misconceptions and cultural shifts rather than evidence-based management practices. There are no direct mentions of empirical evidence or metrics related to EBM, and the discussion lacks depth in terms of data-informed decision-making.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T21:56:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T21:56:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and its challenges, with no mention of Kanban principles or scaling practices.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -130,13 +112,13 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-10T12:08:30",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 68.0,
     "ai_mentions": 60.0,
     "ai_alignment": 70.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content explicitly discusses Scrum, which is a specific Agile framework, and highlights challenges associated with its adoption. This aligns well with the core themes of the category, particularly regarding the practical applications and challenges of implementing Agile frameworks. However, the discussion is somewhat limited in scope, focusing primarily on a single aspect of Scrum without delving into broader comparisons or principles of Agile frameworks as a whole.",
     "level": "Secondary"
   },
@@ -151,10 +133,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T21:56:31",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses challenges in adopting Scrum rather than focusing on the Definition of Ready.",
     "level": "Ignored"
   },
@@ -165,15 +147,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses challenges in adopting Scrum rather than analysing trends in Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T21:56:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -241,23 +214,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-14T23:31:35",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on Scrum, which is a methodology relevant to product delivery, but it primarily focuses on the challenges of adopting Scrum rather than discussing the broader aspects of product delivery. The mention of Scrum does not delve into key topics such as iterative development, testing, or deployment strategies, leading to a low confidence score.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T21:56:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -269,18 +233,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-10T18:14:02",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the challenges of adopting Scrum, particularly focusing on human beliefs and behaviours that hinder effective implementation. It highlights the misconception that success can be achieved without effort or change, which directly relates to team dynamics and the need for a cultural shift in organisations. However, while it touches on these themes, the discussion lacks depth and specific strategies for improving processes or collaboration, which limits its overall alignment with the category.",
-    "level": "Secondary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-17T21:56:46",
@@ -289,18 +241,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and its challenges, with no mention of Test Driven Development principles or practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-11T10:11:41",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
-    "non_ai_confidence": 0,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the challenges of adopting Scrum, which is a key framework within Agile Project Management. It highlights misconceptions about Scrum and the need for change, aligning with the principles of flexibility and responsiveness. However, it lacks detailed exploration of Scrum roles, ceremonies, or specific agile practices, resulting in a moderate confidence score.",
-    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -318,15 +258,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the challenges of adopting Scrum but does not focus on accountability or team ownership.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T21:56:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses misconceptions about Scrum and the challenges of adoption, rather than focusing on transparency and accountability.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -376,39 +307,39 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T16:50:19",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the challenges of adopting Scrum, which indirectly relates to the role of a Scrum Master in facilitating change and promoting agile principles. However, it lacks direct mentions of the Scrum Master role and does not delve deeply into the responsibilities or techniques specific to Scrum Masters. The focus is more on general Scrum adoption rather than the specific contributions of a Scrum Master.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-11T14:39:16",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the challenges of adopting Scrum, which is a key Agile framework, and touches on the importance of mindset and continuous learning. However, it lacks direct mentions of Agile Planning principles and does not delve deeply into specific planning techniques or strategies. The focus is more on the adoption challenges rather than the planning aspects of Agile methodologies.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-14T23:31:35",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the challenges of adopting Scrum, which is a specific Agile framework, rather than focusing on the underlying Agile values and principles. While it touches on the need for a shift in mindset and continuous learning, it does not explicitly mention the Agile Manifesto or its core values. The discussion is more about the practicalities of Scrum adoption than the foundational beliefs of Agile, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -421,13 +352,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:50:22",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses challenges in adopting Scrum, focusing on misconceptions and cultural shifts rather than any principles or practices related to Test First Development. There are no direct mentions of success criteria, testing practices, or the importance of automated testing, which are central to the Test First Development category.",
     "level": "Ignored"
   },
@@ -451,13 +382,13 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-03-11T17:41:21",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the challenges of adopting Scrum, particularly the misconceptions surrounding it, which indirectly touches on organisational culture. It highlights the need for a culture of continuous learning and adaptability, aligning with the category's focus. However, the primary emphasis is on Scrum practices rather than a thorough exploration of cultural elements, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -490,22 +421,25 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T21:57:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses challenges in adopting Scrum rather than focusing on innovation capabilities or Evidence-Based Management.",
+    "calculated_at": "2025-04-11T11:34:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges of adopting Scrum, focusing on misconceptions and the need for a cultural shift rather than innovation itself. While it touches on continuous learning, it does not explicitly address innovation metrics, practices, or strategies that align with the category's definition. The discussion lacks depth in exploring innovation as a primary focus, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-13T15:40:38",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 78.0,
     "ai_mentions": 70.0,
     "ai_alignment": 80.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly discusses the challenges of adopting Scrum, which is a key framework within Agile transformation. It addresses the misconceptions surrounding Scrum adoption and emphasises the need for a cultural shift and continuous learning, aligning well with the core themes of Agile transformation. The depth of discussion is significant, as it explores the mindset changes required for successful adoption, although it could benefit from more specific strategies or case studies.",
     "level": "Secondary"
   },
@@ -529,29 +463,11 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T21:57:18",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses challenges in adopting Scrum rather than focusing on the Scrum Values themselves.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T21:57:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the challenges of adopting Scrum, focusing on misconceptions rather than organisational resilience or change management strategies.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T21:57:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges of adopting Scrum without providing practical techniques, tools, or methodologies for implementation.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
@@ -574,31 +490,22 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-13T16:48:53",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 68.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses personal reflections on the challenges of adopting Scrum, particularly the misconceptions surrounding it. While it does not provide a deep personal anecdote, it aligns with the core themes of the Personal category by addressing individual insights and experiences related to Scrum adoption. The discussion is primarily focused on personal interpretations of the challenges faced, which supports a higher confidence score.",
     "level": "Secondary"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T21:57:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses challenges in adopting Scrum rather than focusing on specific events or presentations related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T21:57:29",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses challenges in adopting Scrum rather than focusing on working agreements or team collaboration principles.",
     "level": "Ignored"
   },
@@ -613,20 +520,11 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T21:57:33",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses challenges in adopting Scrum rather than focusing on Scrum Team dynamics, roles, or collaboration.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T21:57:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "reasoning": "Content primarily discusses challenges in adopting Scrum rather than focusing on Scrum Team dynamics, roles, or collaboration.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -670,10 +568,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T21:57:44",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses challenges in adopting Scrum but does not address remote working practices or Agile methodologies in a remote context.",
     "level": "Ignored"
   },
@@ -697,14 +595,14 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-17T21:57:47",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses challenges in adopting Scrum but does not focus on the Daily Scrum event or its specific practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T21:57:48",
     "ai_confidence": 0,
@@ -722,15 +620,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T21:57:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T21:57:51",
@@ -742,13 +631,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T19:30:39",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the challenges of adopting Scrum, which is a specific agile framework, rather than the broader Agile Product Operating Model. While it touches on themes of mindset and continuous learning, it lacks a direct focus on product management principles or the integration of agile methodologies with product management, which are central to the APOM. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
@@ -817,10 +706,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T21:58:01",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the challenges of adopting Scrum rather than focusing on metrics, data utilisation, or learning mechanisms.",
     "level": "Ignored"
   },
@@ -849,15 +738,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses challenges in adopting Scrum rather than mentoring practices or guidance.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T21:58:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses challenges in adopting Scrum without any mention of AI or automation.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -889,15 +769,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-14T15:27:11",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the challenges of adopting Scrum, which is a specific Agile framework, rather than focusing on the broader Agile Philosophy. While it touches on the need for a cultural shift and continuous learning, it primarily revolves around Scrum practices and misconceptions, limiting its alignment with the core themes of Agile Philosophy.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -964,13 +844,13 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-14T23:31:42",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the challenges of adopting Scrum, which is a key Agile framework, but it does not delve deeply into product management aspects such as the role of the Product Owner, backlog prioritisation, or stakeholder engagement. While it touches on Agile principles, the focus is more on the adoption process rather than product management strategies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -992,34 +872,16 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T21:58:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses challenges in adopting Scrum rather than scaling practices or frameworks.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-14T23:31:46",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the challenges of adopting Scrum, touching on cultural aspects and mindset shifts, which are relevant to sociotechnical systems. However, it lacks explicit references to organisational structures or the interplay between social and technical elements, leading to a lower confidence score.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T21:58:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses challenges in adopting Scrum rather than specific products or literature related to Agile methodologies.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
@@ -1042,23 +904,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-14T23:31:49",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the challenges of adopting Scrum, particularly the misconceptions surrounding its implementation. It highlights the need for practical effort and a shift in mindset, which aligns with pragmatic thinking. However, while it touches on real-world challenges, it lacks detailed practical strategies or case studies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T21:58:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:34:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses challenges in adopting Scrum rather than focusing on Lead Time as a metric or its implications.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges of adopting Scrum and addresses misconceptions about its implementation. There are no direct mentions of Lead Time or its significance as an observability metric. While it touches on themes of continuous learning and adaptability, which could indirectly relate to process efficiency, it does not provide any specific insights or techniques related to measuring or optimising Lead Time. Therefore, the overall alignment with the category is minimal.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1072,10 +937,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T21:58:39",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses challenges in adopting Scrum rather than focusing on the delivery of functional software.",
     "level": "Ignored"
   },
@@ -1117,13 +982,13 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T23:31:51",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the challenges of adopting Scrum, which is a key Agile framework within the Software Development category. It directly addresses misconceptions about Scrum and emphasises the need for a cultural shift in organisations, aligning well with the core themes of Agile methodologies and practices. The depth of discussion is substantial, as it explores the complexities and realities of Scrum adoption, although it could benefit from more technical details or specific practices related to Scrum implementation.",
     "level": "Secondary"
   },
@@ -1172,18 +1037,6 @@
     "reasoning": "Content primarily discusses challenges in adopting Scrum rather than focusing on cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-14T23:31:54",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the challenges of adopting Scrum, which is relevant to Agile methodologies. However, it lacks direct mentions of software developers' roles and does not delve deeply into specific practices or tools that enhance developer productivity or collaboration. The focus is more on the mindset and cultural aspects of Scrum adoption rather than the technical or practical implications for developers.",
-    "level": "Secondary"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-17T21:58:53",
@@ -1204,10 +1057,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T21:58:55",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the challenges of adopting Scrum rather than installation or configuration processes.",
     "level": "Ignored"
   },
@@ -1218,15 +1071,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses challenges in adopting Scrum rather than focusing on the responsibilities or practices of the Product Owner.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T21:58:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses challenges in adopting Scrum rather than providing news or reviews related to Agile methodologies.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1303,11 +1147,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T21:59:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:34:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the challenges of adopting Scrum rather than focusing on throughput measurement or optimisation.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the challenges of adopting Scrum and addresses misconceptions about its implementation. It does not mention throughput as a delivery metric, nor does it analyse or visualise throughput in any way. The focus is on cultural beliefs and practices rather than on measurable delivery capacity or performance metrics.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -1321,11 +1168,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T21:59:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:34:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the challenges of adopting Scrum, which is a framework for Agile project management, rather than focusing on system configuration. There are no direct mentions of system configuration, and the themes of the content do not align with the core topics outlined for the category. The depth of discussion is also minimal regarding system configuration, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1346,15 +1196,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T21:59:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses challenges in adopting Scrum rather than focusing on Scrum practices or product development.",
-    "level": "Ignored"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
     "calculated_at": "2025-02-17T21:59:17",
@@ -1366,10 +1207,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T21:59:18",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses challenges in adopting Scrum rather than the Definition of Done.",
     "level": "Ignored"
   },
@@ -1402,15 +1243,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-14T23:31:56",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the challenges of adopting Scrum, which is a framework within Agile methodologies. It touches on the need for a cultural shift and continuous learning, aligning with the principles of organisational agility. However, it primarily focuses on the adoption of Scrum rather than broader organisational agility strategies, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1450,63 +1291,63 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:22:03",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the challenges of adopting Scrum, specifically addressing misconceptions and beliefs that hinder effective implementation. While it does not explicitly mention Scrum roles or events, it aligns with the core themes of Scrum by highlighting the need for change and effort in the adoption process. The depth of discussion is moderate, focusing on a specific challenge rather than providing a comprehensive overview of Scrum principles.",
     "level": "Secondary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:01:19",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the challenges of adopting Scrum and does not mention the Shift-Left Strategy or its principles. While it touches on Agile concepts, it lacks any direct reference to integrating testing, security, or compliance early in the development process, which are core to the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T19:30:28",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the challenges of adopting Scrum and the need for a culture of continuous learning and adaptability, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the misconceptions surrounding Scrum rather than providing a detailed exploration of Continuous Improvement practices or strategies. The mention of continuous learning is relevant but not the primary focus, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T19:30:30",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the challenges of adopting Scrum, focusing on misconceptions and the need for a cultural shift rather than explicitly addressing Common Goals. While it touches on themes of alignment and transformation, it lacks a direct connection to shared objectives or strategic alignment within Agile and DevOps frameworks.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T19:30:33",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 62.0,
     "ai_mentions": 3,
     "ai_alignment": 50.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the challenges of adopting Scrum, particularly the misconception of a 'magic' solution without genuine effort, which aligns with the importance of continuous learning and skill development. It highlights the need for a shift in mindset and the cultivation of a culture of adaptability, which are key aspects of competence. However, while competence is a significant theme, the focus is more on the challenges of Scrum adoption rather than a deep exploration of competence itself, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
@@ -1522,14 +1363,170 @@
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:50:17",
+    "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the challenges of adopting Scrum and addresses misconceptions about Agile practices. While it touches on themes of adaptability and continuous learning, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. The focus remains on Scrum rather than the intentional shaping of outcomes, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T11:33:47",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 0,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the challenges of adopting Scrum, which is a methodology within Agile product development. However, it primarily focuses on the misconceptions and cultural shifts required for successful adoption rather than providing a comprehensive exploration of product development practices. While it touches on the importance of continuous learning and adaptability, it lacks detailed discussions on iterative processes, customer feedback integration, or risk minimisation strategies that are central to the Product Development category.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T11:33:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the challenges of adopting Scrum, which is a specific Agile methodology, rather than discussing Open Space Agile or its principles. There are no direct mentions of Open Space Technology or its core themes such as psychological safety, co-creation, or iterative dialogue. While it touches on the need for a cultural shift and continuous learning, these concepts are not explored in the context of Open Space Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T11:33:53",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the challenges of adopting Scrum, discussing specific Scrum practices and misconceptions rather than the broader principles of Agnostic Agile. While it touches on the need for adaptability and continuous learning, it does not explicitly mention Agnostic Agile or its core themes, nor does it provide a detailed exploration of its principles. The discussion is heavily centred on Scrum, which does not align with the Agnostic Agile philosophy of context-driven agility.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T11:33:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the challenges of adopting Scrum, which is a specific Agile framework, rather than discussing scaling methodologies or frameworks. While it touches on the need for a shift in mindset and continuous learning, it does not address the complexities of scaling Agile practices across multiple teams or the coordination required for delivering complex products. Therefore, it lacks direct mentions and depth related to the Scaling category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T11:33:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the challenges of adopting Scrum, which is a framework within Agile methodologies, rather than focusing on Cell Structure Design or its principles. There are no direct mentions of the Beta Codex, autonomous cells, or decentralised structures. The discussion is centred around misconceptions in Scrum adoption, lacking any substantial connection to the core themes of Cell Structure Design.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T11:34:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the challenges of adopting Scrum, discussing misconceptions and the need for a cultural shift. It does not mention Liberating Structures or their techniques, nor does it explore facilitation methods that enhance participation or collaboration. The discussion is centred around Agile and Scrum without any reference to the principles or applications of Liberating Structures, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T11:34:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges of adopting Scrum, focusing on misconceptions and cultural shifts rather than on Time to Market. There are no direct mentions of Time to Market metrics or strategies for improvement, and the discussion lacks depth in relation to the category's core themes.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T11:34:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges of adopting Scrum, focusing on misconceptions and the need for a cultural shift towards continuous learning. While it touches on themes relevant to organisational change, it does not explicitly mention or align with the principles of Company as a Product. The discussion lacks depth regarding customer-centric strategies or organisational design, which are central to the CaaP framework. Therefore, the confidence score reflects minimal relevance to the category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T11:34:08",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses Scrum and Agile methodologies without any direct mention of GitHub or its functionalities. While it touches on challenges in adopting Scrum, it does not align with GitHub's core themes or provide any depth regarding GitHub services, tools, or best practices. The focus is entirely on Scrum, making it irrelevant to the GitHub category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T11:34:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges of adopting Scrum and addresses misconceptions about its implementation. While it touches on themes of change and adaptability, it does not explicitly mention or explore the concept of Unrealised Value or its indicators, strategies, or frameworks. The focus is on overcoming obstacles in Scrum adoption rather than identifying untapped opportunities or potential improvements within an organisation.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T11:34:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges of adopting Scrum, focusing on misconceptions and cultural shifts rather than on Current Value or its measurement. There are no direct mentions of Current Value, and the discussion lacks alignment with the core themes of Evidence-Based Management. The depth of discussion is minimal, as it does not provide practical insights or metrics related to Current Value.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T11:34:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the challenges of adopting Scrum, which is a specific agile methodology, rather than discussing Hybrid Agile as a concept. There are no direct mentions of Hybrid Agile or its implications, and the discussion lacks depth regarding the integration of traditional project management with agile practices. The content does not critically examine the challenges associated with Hybrid Agile, nor does it address the key topics outlined for this category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T11:34:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the challenges of adopting Scrum, which is a specific Agile methodology. While it touches on themes relevant to project management, such as the need for a cultural shift and continuous learning, it lacks a broader discussion of project management principles, methodologies, or lifecycle phases. The mention of Scrum roles and the emphasis on Agile practices suggest a limited scope that does not fully align with the comprehensive nature of project management as defined in the category.",
     "level": "Ignored"
   }
 }

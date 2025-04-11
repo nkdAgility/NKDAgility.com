@@ -9,7 +9,7 @@ ResourceImportId: 207
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-22
-weight: 810
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,7 +24,6 @@ aliasesArchive:
 - /heat-itsm
 - /resources/blog/heat-itsm
 tags:
-- Practical Techniques and Tooling
 - Software Development
 categories: []
 preview: metro-visual-studio-2005-128-link-4-4.png

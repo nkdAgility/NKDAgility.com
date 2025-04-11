@@ -9,7 +9,7 @@ ResourceImportId: 40168
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-10-14
-weight: 415
+weight: 360
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,19 +28,24 @@ aliasesArchive:
 - /blog/can-the-definition-of-done-change-per-sprint-
 - /resources/blog/can-the-definition-of-done-change-per-sprint
 tags:
-- Scrum Product Development
-- Definition of Done
-- Agile Project Management
 - Professional Scrum
-- Software Development
-- Software Developers
 - Working Software
-- Increment
+- Software Development
+- Definition of Done
+- Agile Frameworks
 - Scrum Team
+- Increment
+- Pragmatic Thinking
 - Scrum Master
+- Agile Planning
+- Empirical Process Control
+- Team Performance
+- Product Delivery
+- Agile Product Management
+- Continuous Improvement
 categories:
 - Scrum
-- Social Technologies
+- Engineering Excellence
 preview: 20190906_152025-2-2.gif
 
 ---

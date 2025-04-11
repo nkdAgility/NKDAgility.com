@@ -10,10 +10,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T12:06:41",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses flexibility and inflexibility in project management without a clear focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -28,10 +28,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T12:06:43",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses flexibility and inflexibility in project management without a clear focus on Agile principles or product management practices.",
     "level": "Ignored"
   },
@@ -53,103 +53,61 @@
     "reasoning": "Content primarily discusses flexibility and inflexibility in project management without a clear focus on Kanban principles or practices.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T12:06:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses flexibility and inflexibility in project management, without a clear focus on code quality or complexity.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T10:42:47",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses agile methodologies, focusing on flexibility and inflexibility in project management. While it touches on collaboration and adaptability, which are relevant to DevOps, it does not explicitly mention DevOps principles or practices. The discussion lacks depth in terms of DevOps-specific concepts such as automation, shared accountability, or continuous improvement, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T12:06:50",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses flexibility and inflexibility in project management rather than installation or configuration processes.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-14T17:31:55",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses flexibility in project management, which is a component of market adaptability, but it lacks explicit references to Agile methodologies or practices that enhance responsiveness to market changes. While it touches on the importance of context in decision-making, it does not delve deeply into strategies or frameworks that would strengthen an organisation's adaptability to market shifts.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T12:06:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses concepts of flexibility and inflexibility in project management without providing industry news, updates, or reviews related to Agile or DevOps.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T10:42:50",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses agile methodologies and the balance between flexibility and inflexibility, but it does not explicitly mention the Agile Product Operating Model or its core principles. While it touches on themes relevant to agile practices, such as team dynamics and decision-making, it lacks a direct focus on product management or the specific elements of the APOM framework. The depth of discussion is moderate, providing insights into agile practices but not delving into the product-oriented mindset or continuous delivery aspects central to the APOM.",
     "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-03-14T17:31:55",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on decision-making in the context of flexibility and inflexibility, suggesting a consideration of outcomes and goals. However, it lacks explicit discussions on heuristics, biases, or decision-making frameworks, which are core to Decision Theory. The focus is more on Agile project management rather than a thorough exploration of decision-making processes in uncertain environments.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-14T17:31:55",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses flexibility and inflexibility in project management, hinting at team dynamics and decision-making processes. However, it lacks explicit references to Agile or Scrum methodologies and does not delve deeply into human factors or structured methodologies. The focus is more on project management strategies rather than the interplay between people and processes.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-03-14T17:31:55",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses flexibility and inflexibility in project management, which touches on adaptability but lacks a direct focus on organisational resilience or change management. While it hints at the importance of context in achieving goals, it does not delve into strategies, frameworks, or leadership roles that are central to the category of Resilience and Change.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -215,24 +173,15 @@
     "reasoning": "Content heavily discusses flexibility and inflexibility in project management, primarily focusing on Agile principles without reference to Lean methodologies.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T12:07:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses concepts of flexibility and inflexibility in project management without reference to specific events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-10T13:55:16",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 47.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 42.0,
+    "final_score": 47.0,
     "reasoning": "The content discusses flexibility and adaptability in project management, which aligns with the principles of business agility. However, it lacks explicit mentions of business agility as a concept and does not delve deeply into strategies or frameworks that support it. The discussion is somewhat abstract and does not provide concrete examples or case studies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
@@ -254,15 +203,6 @@
     "reasoning": "Content heavily discusses flexibility and inflexibility in project management without a direct connection to platform engineering principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T12:07:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concepts of flexibility and inflexibility in project management without specific reference to practical techniques, tools, or methodologies related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
     "calculated_at": "2025-02-17T12:07:19",
@@ -274,75 +214,39 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-10T17:51:26",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 62.0,
     "ai_mentions": 5,
     "ai_alignment": 25,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses flexibility and inflexibility in project management without directly referencing Agile, Scrum, DevOps, or Lean methodologies. While it touches on concepts relevant to business agility, it does not provide actionable insights or align with recognised practices, making it suitable for the Miscellaneous category. The discussion is somewhat detailed but lacks a strong focus on any specific framework, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-11T00:18:46",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses flexibility in project management, which aligns with the principles of organisational agility. However, it lacks explicit mentions of agile methodologies or cultural shifts, and the depth of discussion is limited, focusing more on the balance between flexibility and inflexibility rather than on broader agile practices or frameworks.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T12:07:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses flexibility and inflexibility in project management without addressing transparency or accountability.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:07:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses project management concepts of flexibility and inflexibility without a clear focus on discovery or learning processes.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:03:32",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the balance between flexibility and inflexibility in agile methodologies, touching on the importance of data integrity and informed decision-making. However, it primarily focuses on agile practices rather than explicitly addressing Evidence-Based Management principles. While there are mentions of data and decision-making, the overall emphasis is more on agile methodologies than on empirical evidence and metrics central to EBM.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T12:07:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses flexibility and inflexibility in project management without any mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T12:07:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses flexibility and inflexibility in project management without reference to specific products, books, or Agile methodologies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -364,13 +268,13 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-14T17:31:55",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses flexibility and adaptability in project management, which are relevant to enterprise agility. However, it lacks explicit mentions of organisational structures, frameworks, or broader implications of agility on organisational performance. The focus is more on individual project management rather than enterprise-level agility, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -385,52 +289,37 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:46:52",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the balance between flexibility and inflexibility in agile methodologies, which touches on themes of adaptability and decision-making. However, it lacks explicit references to social technologies or frameworks that promote collaboration and collective intelligence. While it does provide some depth on agile practices and their impact on team dynamics, it does not fully explore the broader implications of social technologies within organisations.",
-    "level": "Tertiary"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T14:40:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses flexibility and inflexibility in project management without focusing on Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T14:40:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:17:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses project management concepts and flexibility in executing projects, which does not pertain to system configuration.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T14:40:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses flexibility in project management without a clear focus on scaling Agile practices or frameworks.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses agile methodologies and the balance between flexibility and inflexibility in project management. It does not directly mention system configuration or related topics such as configuration management tools, system optimisation, or integration of hardware and software components. While there are some tangential references to decision-making and resource allocation, these are not aligned with the core themes of system configuration. The depth of discussion is focused on agile practices rather than system setup or maintenance, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-13T15:21:46",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the balance between flexibility and inflexibility in agile methodologies, which aligns well with the Agile Philosophy's emphasis on adaptability and responsiveness to change. It touches on key themes such as the importance of clear goals, dynamic team structures, and the iterative nature of agile practices. However, while it does mention agile practices, it does not delve deeply into the foundational principles or the Agile Manifesto itself, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
@@ -454,19 +343,22 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T14:40:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses flexibility and inflexibility in project management without a clear focus on Lead Time or its measurement.",
+    "calculated_at": "2025-04-11T08:58:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content discusses flexibility and inflexibility in agile methodologies but does not mention Lead Time directly or provide insights into its measurement or optimisation. While it touches on project management and decision-making, it lacks a focus on Lead Time as a metric, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T14:40:14",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses project management flexibility and inflexibility rather than team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -587,15 +479,6 @@
     "reasoning": "Content primarily discusses flexibility and inflexibility in project management rather than principles of Continuous Learning or a growth mindset.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T14:40:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses general concepts of flexibility and inflexibility in project management without a clear focus on Scrum frameworks, roles, or scaling practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-17T14:40:14",
@@ -652,10 +535,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T14:40:14",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on the concepts of flexibility and inflexibility in project management rather than specifically on Agile leadership roles or practices.",
     "level": "Ignored"
   },
@@ -760,10 +643,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T14:40:14",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily addresses general principles of flexibility and inflexibility in project management, without specific focus on Scrum team dynamics or roles.",
     "level": "Ignored"
   },
@@ -778,10 +661,10 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T14:40:14",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses flexibility and inflexibility in project management but does not clearly address Agile transformation principles or methodologies.",
     "level": "Ignored"
   },
@@ -814,24 +697,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-14T17:31:55",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses flexibility and inflexibility in project management, which touches on adaptability—a key theme in Agile Strategy. However, it lacks explicit mentions of Agile methodologies or strategic planning, and the depth of discussion is more focused on operational aspects rather than strategic alignment or implementation of Agile principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T14:40:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on flexibility and inflexibility in project management without specifically discussing software developers' roles or Agile methodologies in depth.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -844,15 +718,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-03-13T14:58:36",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of defining clear goals and understanding the context of projects, which aligns with the concept of strategic goals. However, it primarily focuses on the balance between flexibility and inflexibility in agile methodologies rather than articulating long-term objectives or frameworks for measuring strategic goals. The discussion lacks depth in terms of strategic frameworks and their impact on business agility, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -919,11 +793,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T14:40:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses flexibility and inflexibility in project management but does not focus on the measurement or improvement of innovation capabilities.",
+    "calculated_at": "2025-04-10T17:17:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 7,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses flexibility and inflexibility in agile methodologies, which indirectly relates to innovation by highlighting adaptability and dynamic team structures. However, it lacks a direct focus on innovation metrics, learning cycles, or specific strategies for enhancing innovation capacity. The discussion is more centred on project management practices rather than the mechanisms that foster innovation, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Accountability": {
@@ -937,29 +814,32 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T14:40:14",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses flexibility in project management but does not directly address Agile frameworks or their principles. It lacks a clear focus on Agile concepts, making the category irrelevant.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T14:40:14",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the concepts of flexibility and inflexibility in project management rather than focusing on team dynamics, collaboration, or performance within an Agile framework.",
     "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T14:40:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:17:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on flexibility and inflexibility in project management rather than measuring or optimizing throughput.",
+    "final_score": 12.0,
+    "reasoning": "The content discusses flexibility and inflexibility in agile methodologies but does not explicitly mention throughput as a delivery metric. While it touches on concepts like resource allocation and decision-making, it lacks a direct focus on measuring or analysing throughput. The discussion is more about general agile practices rather than the specific metrics and analysis associated with throughput.",
     "level": "Ignored"
   },
   "Windows": {
@@ -989,18 +869,6 @@
     "reasoning": "Content predominantly discusses flexibility and inflexibility in project management without focusing on employee engagement or the psychological and social aspects of work.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-13T16:30:00",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 30,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the balance between flexibility and inflexibility in agile methodologies, highlighting the importance of adaptability and cross-functional teams, which aligns with agile principles. However, it lacks specific references to frameworks like Scrum or Kanban, and does not delve deeply into agile roles or practices, resulting in a moderate confidence score.",
-    "level": "Secondary"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
     "calculated_at": "2025-02-17T14:40:14",
@@ -1012,22 +880,22 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T14:40:14",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses flexibility and inflexibility in project management without focusing on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T17:03:29",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses agile methodologies, focusing on flexibility and inflexibility in project management. While it touches on themes relevant to Continuous Delivery, such as adaptability and iterative processes, it does not explicitly mention Continuous Delivery or its principles. The discussion lacks depth in terms of Continuous Delivery practices, automation, or specific strategies for software delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -1078,13 +946,13 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T17:20:57",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses agile methodologies, which are a key aspect of software development practices. It explores the balance between flexibility and inflexibility in project management, directly relating to Agile frameworks. However, while it touches on important concepts, the depth of technical detail regarding specific software development practices is somewhat limited, focusing more on personal reflections and general strategies rather than concrete methodologies or frameworks.",
     "level": "Secondary"
   },
@@ -1104,15 +972,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses flexibility and inflexibility in project management without a clear focus on Product Backlog concepts.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T14:40:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum principles, roles, or product development processes. It focuses on general project management concepts of flexibility and inflexibility.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -1144,13 +1003,13 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-14T14:48:16",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the balance between flexibility and inflexibility in agile methodologies, touching on key Agile Planning principles such as adaptability and iterative processes. However, it lacks direct references to specific Agile Planning techniques like user stories, backlogs, or sprints, which limits its depth and direct alignment with the category.",
     "level": "Secondary"
   },
@@ -1201,39 +1060,39 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-11T16:07:45",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the balance between flexibility and inflexibility in agile methodologies, which aligns with Agile principles of adaptability and responsiveness to change. However, it lacks direct references to the Agile Manifesto or its core values, and while it touches on concepts like team dynamics and iterative processes, it does not delve deeply into the foundational beliefs of Agile. Therefore, while there is a strong conceptual alignment, the lack of explicit mentions and depth in discussing Agile values results in a moderate confidence score.",
     "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-03-14T17:31:55",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses agile methodologies and the balance between flexibility and inflexibility in project management. While it touches on themes relevant to portfolio management, such as resource allocation and project adjustments, it primarily focuses on team-level practices and does not explicitly address the strategic alignment of projects with organisational goals or the management of a portfolio of projects. Therefore, it lacks the depth and direct focus required for a higher confidence score in the Portfolio Management category.",
     "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-03-14T17:31:55",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses agile methodologies and the balance between flexibility and inflexibility, which touches on organisational dynamics. However, it lacks a direct focus on systems thinking principles or the broader implications of organisational structure and culture. While it mentions the importance of context and decision-making, it does not delve deeply into the systemic interactions within organisations, which is central to the category of Organisational Physics.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1246,24 +1105,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-11T14:18:44",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 67.0,
     "ai_mentions": 3,
     "ai_alignment": 75.0,
     "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the balance between flexibility and inflexibility in agile methodologies, which aligns with strategic considerations in Agile environments. It mentions the importance of defining clear goals and evaluating context, which are key aspects of strategic alignment. However, while it touches on strategic themes, the depth of discussion on specific strategic frameworks like Scrum or DevOps is limited, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T14:40:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses project management concepts like flexibility and inflexibility in Agile without any focus on AI or its application in Agile methodologies.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1294,13 +1144,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:43:04",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the balance between flexibility and inflexibility in agile methodologies without any direct mention of Test First Development principles or practices. While it touches on aspects of agile, it does not align with the core themes of Test First Development, such as defining success criteria or the role of testing in the development process. The discussion lacks depth regarding Test First practices, resulting in a very low confidence score.",
     "level": "Ignored"
   },
@@ -1324,13 +1174,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T11:13:55",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the balance between flexibility and inflexibility in project management, which aligns with pragmatic thinking in Agile contexts. It touches on practical decision-making based on outcomes and context, indicating a real-world application of problem-solving techniques. However, it lacks explicit references to Agile, Scrum, or DevOps frameworks, and the depth of discussion is somewhat limited, focusing more on general concepts rather than specific strategies or case studies.",
     "level": "Secondary"
   },
@@ -1352,24 +1202,15 @@
     "reasoning": "Content heavily discusses flexibility and inflexibility in project management without focus on coaching principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T14:40:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on flexibility and inflexibility in project management rather than on scaling agile principles or frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T15:43:07",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses agile methodologies and the balance between flexibility and inflexibility, which are relevant to the Scrum framework. However, it does not explicitly mention the role of the Scrum Master or delve into specific responsibilities, techniques, or the impact of the Scrum Master on team dynamics. The focus is more on general agile practices rather than the specific role of a Scrum Master.",
     "level": "Ignored"
   },
@@ -1400,7 +1241,7 @@
     "reasoning": "Content heavily discusses flexibility and inflexibility in project management, with no clear focus on the concept of Increment in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T14:40:14",
     "ai_confidence": 0,
@@ -1420,10 +1261,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T14:40:14",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the balance of flexibility and inflexibility in project management rather than on team dynamics, collaboration techniques, or Agile principles.",
     "level": "Ignored"
   },
@@ -1456,63 +1297,63 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T17:31:55",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly touches on flexibility and inflexibility in project management but does not explicitly mention Scrum or its core components. While it hints at project management principles, it lacks a direct focus on Scrum roles, events, or artifacts, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:40:10",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the balance between flexibility and inflexibility in agile methodologies, without any explicit mention of the Shift-Left Strategy or its core principles. While it touches on project management and team dynamics, it does not delve into integrating testing, security, or compliance earlier in the development process, which are essential aspects of the Shift-Left approach.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:03:19",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 47.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 35.0,
     "non_ai_confidence": 0,
-    "final_score": 42.0,
+    "final_score": 47.0,
     "reasoning": "The content discusses the balance between flexibility and inflexibility in agile methodologies, which touches on aspects of Continuous Improvement, such as adapting processes and enhancing productivity. However, it lacks direct mentions of Continuous Improvement principles and does not delve deeply into empirical evidence or specific strategies for fostering a culture of experimentation. The focus is more on agile practices rather than a dedicated exploration of Continuous Improvement.",
     "level": "Tertiary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:03:22",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses flexibility and inflexibility in agile methodologies but does not explicitly focus on Common Goals. While it mentions the importance of defining clear goals, the primary emphasis is on adaptability and decision-making rather than aligning strategy with execution. The discussion lacks depth in connecting these concepts to the overarching principles of Agile and DevOps, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:03:25",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses flexibility and inflexibility in agile methodologies, which indirectly relates to competence through the need for informed decision-making and adaptability. However, it lacks direct mentions of competence and does not delve deeply into continuous learning or skill development, which are core themes of the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
@@ -1528,14 +1369,170 @@
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T15:43:01",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses flexibility and inflexibility in agile methodologies, which touches on adaptability but lacks a direct focus on the intentional shaping of outcomes or the specific principles of Agentic Agility. While it mentions decision-making and context, it does not differentiate between human and AI capabilities or delve into the transformative capacity of individuals and systems, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T17:16:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content discusses agile methodologies, focusing on the balance between flexibility and inflexibility, which aligns well with the principles of Agile product development. It mentions the importance of cross-functional teams and iterative processes, both of which are key topics in product development. The depth of discussion is substantial, providing strategies for enhancing productivity and decision-making, which are relevant to continuous improvement practices. However, while it touches on important aspects, it does not delve deeply into customer feedback loops or risk minimisation techniques, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T17:16:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses flexibility and inflexibility in agile methodologies, which indirectly relates to Time to Market by highlighting the importance of adaptability in project management. However, it lacks direct mentions of Time to Market metrics or strategies specifically aimed at reducing delivery time. The discussion is more focused on general agile practices rather than the specific measurement or improvement of Time to Market.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T17:16:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses agile methodologies without any direct mention of GitHub or its services. While it touches on concepts relevant to project management and team dynamics, it does not align with GitHub's functionalities or best practices. The discussion lacks depth regarding GitHub-specific tools or practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T17:16:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the balance between flexibility and inflexibility in agile methodologies, which aligns with the Agnostic Agile principle of adapting methods based on context. However, it lacks direct mentions of Agnostic Agile and does not delve deeply into its specific principles or comparisons with traditional frameworks. The focus is more on general agile practices rather than a critical examination of Agnostic Agile as a distinct philosophy.",
+    "level": "Tertiary"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T17:16:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses agile methodologies and the balance between flexibility and inflexibility, which are relevant to organisational dynamics. However, it does not explicitly mention the concept of 'Company as a Product' or delve into customer-centric strategies or organisational design principles. The focus is more on project management rather than treating the organisation itself as a product, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T17:16:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content discusses agile methodologies, focusing on flexibility and inflexibility in project management. While it touches on concepts like dynamic team structures and adaptability, it does not explicitly mention or align with the principles of Cell Structure Design or the Beta Codex. The discussion is more centred on general agile practices rather than the specific characteristics and functions of autonomous cells or decentralised structures.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T17:16:58",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses agile methodologies and the balance between flexibility and inflexibility, but it does not explicitly mention Liberating Structures or any specific techniques associated with them. While there are themes of collaboration and adaptability that align with the principles of Liberating Structures, the focus is primarily on general agile practices rather than on facilitation techniques or group dynamics. The depth of discussion is moderate, but it lacks direct relevance to the core topics of Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T17:17:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the balance between flexibility and inflexibility in agile methodologies, which is somewhat relevant to Hybrid Agile concepts. However, it lacks direct mentions of Hybrid Agile and does not critically examine the integration of traditional and agile practices. The discussion is more focused on general agile principles rather than the specific challenges and implications of Hybrid Agile, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T17:17:04",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the balance between flexibility and inflexibility in agile methodologies, which is somewhat related to the concept of Unrealised Value in terms of adaptability and potential improvements. However, it does not explicitly mention Unrealised Value or its indicators, nor does it delve into specific strategies for identifying untapped opportunities. The focus is more on general agile practices rather than on the potential value that can be captured through improvements and innovations.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T17:17:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses flexibility and inflexibility in agile methodologies but does not specifically address scaling practices or frameworks. While it touches on team dynamics and adaptability, it lacks a focus on cross-team collaboration, alignment with business goals, or strategies for managing dependencies, which are critical to the Scaling category. The discussion is more general and does not delve into the complexities of scaling Agile or DevOps practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T17:17:11",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses flexibility and inflexibility in agile methodologies but does not explicitly mention Current Value or its metrics. While it touches on decision-making and the importance of data integrity, it lacks a direct focus on the real-time assessment of value delivered by a product or service, which is central to Current Value. The discussion is more about project management strategies rather than evaluating tangible benefits or customer satisfaction.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T17:17:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses agile methodologies, focusing on the balance between flexibility and inflexibility in project management. While it does not explicitly mention traditional project management principles or methodologies like Waterfall or PRINCE2, it aligns well with agile project management concepts. The discussion includes practical strategies for resource allocation and decision-making, which are relevant to project management. However, the depth of discussion is somewhat limited to agile practices, which may not fully encompass the broader project management category.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T17:17:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses agile methodologies broadly, focusing on flexibility and inflexibility, but does not specifically mention Open Space Agile or its principles. While it touches on themes of adaptability and team dynamics, it lacks direct references to Open Space Technology, psychological safety, or co-creation, which are central to the Open Space Agile category. The depth of discussion is moderate, providing strategies for balancing flexibility and inflexibility, but it does not delve into the collaborative change processes or challenges specific to Open Space Agile.",
     "level": "Ignored"
   }
 }

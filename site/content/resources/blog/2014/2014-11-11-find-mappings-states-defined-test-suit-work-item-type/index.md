@@ -9,7 +9,7 @@ ResourceImportId: 10899
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-11-11
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,9 +30,8 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Install and Configuration
-- System Configuration
 - Software Development
-- Practical Techniques and Tooling
+- System Configuration
 - Azure DevOps
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png

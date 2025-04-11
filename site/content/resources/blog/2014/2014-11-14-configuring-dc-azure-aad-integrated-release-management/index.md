@@ -9,7 +9,7 @@ ResourceImportId: 10865
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-11-14
-weight: 805
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,12 +28,11 @@ aliasesArchive:
 - /blog/configuring-a-dc-in-azure-for-aad-integrated-release-management
 - /resources/blog/configuring-dc-azure-aad-integrated-release-management
 tags:
-- Windows
 - Install and Configuration
-- Practical Techniques and Tooling
+- Windows
 - System Configuration
-- Technical Mastery
 - Software Development
+- Technical Mastery
 categories: []
 preview: nakedalm-windows-logo-22-22.png
 

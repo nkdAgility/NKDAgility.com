@@ -2,7 +2,7 @@
 title: 'Empowering Teams with Financial Insights: The Key to Maximising ROI and Fostering Ownership'
 description: Empower your team to thrive by fostering a culture of ownership and financial insight. Discover how team-level P&L can boost ROI and drive success!
 date: 2024-12-12T06:30:00Z
-weight: 555
+weight: 505
 ResourceId: uetzybp7bf4
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,16 +26,18 @@ preview: https://i9.ytimg.com/vi/uetzybp7bf4/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 379
 isShort: false
 tags:
-- People and Process
-- Transparency and Accountability
 - Value Delivery
-- Accountability
-- Continuous Improvement
 - Business Agility
+- Continuous Improvement
 - Decision Theory
-- Discovery and Learning
+- Organisational Agility
+- Pragmatic Thinking
+- Sociotechnical Systems
+- Current Value
 - Decision Making
+- Entrepreneurship
 - Organisational Culture
+- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -44,6 +46,7 @@ resourceTypes:
 categories:
 - Product Management
 - Leadership
+- Product Development
 
 ---
 If you want to maximise your return on investment for the time and effort that people put into the products you're creating, fostering a culture where your team genuinely cares about the products and your customers is essential. When individuals feel ownership over what they create, they naturally invest more of themselves into their work. This sense of ownership is crucial; people care about things they have a stake in.

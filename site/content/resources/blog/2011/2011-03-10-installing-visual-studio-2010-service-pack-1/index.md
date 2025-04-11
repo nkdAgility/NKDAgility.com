@@ -24,8 +24,8 @@ aliasesArchive:
 - /installing-visual-studio-2010-service-pack-1
 - /resources/blog/installing-visual-studio-2010-service-pack-1
 tags:
-- Windows
 - Install and Configuration
+- Windows
 preview: metro-visual-studio-2010-128-link-13-13.png
 categories: []
 

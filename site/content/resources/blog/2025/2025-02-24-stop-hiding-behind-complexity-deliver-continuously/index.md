@@ -6,7 +6,7 @@ ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-02-24T09:00:00
-weight: 250
+weight: 175
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -28,16 +28,27 @@ tags:
 - Software Development
 - Continuous Delivery
 - Product Delivery
+- Digital Transformation
 - Metrics and Learning
+- Organisational Agility
+- Technical Excellence
 - Working Software
 - Continuous Improvement
 - Frequent Releases
 - Azure DevOps
+- Business Agility
 - Release Management
+- Flow Efficiency
+- Market Adaptability
+- Operational Practices
+- Pragmatic Thinking
+- Technical Mastery
+- Deployment Frequency
 - Engineering Practices
 categories:
 - DevOps
 - Engineering Excellence
+- Product Development
 preview: 2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg
 
 ---

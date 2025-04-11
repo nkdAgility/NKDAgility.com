@@ -2,7 +2,7 @@
 title: 'Transforming Agility: How Azure DevOps Went from Two-Year Releases to 880,000 Deployments'
 description: Unlock your organisation's potential with continuous delivery! Discover how to shorten feedback loops and stay ahead in a fast-paced market.
 date: 2025-02-06T10:20:34Z
-weight: 305
+weight: 230
 ResourceId: _gyzx59-AJk
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,15 +29,25 @@ duration: 358
 isShort: false
 tags:
 - Market Adaptability
-- Resilience and Change
-- Continuous Delivery
-- Deployment Frequency
-- Product Delivery
-- Value Delivery
 - Business Agility
 - Continuous Improvement
 - Digital Transformation
 - Metrics and Learning
+- Operational Practices
+- Organisational Agility
+- Continuous Delivery
+- Frequent Releases
+- Working Software
+- Pragmatic Thinking
+- Deployment Frequency
+- Product Delivery
+- Value Delivery
+- Enterprise Agility
+- Software Development
+- Time to Market
+- Azure DevOps
+- Technical Excellence
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -46,8 +56,8 @@ layout: video
 resourceTypes:
 - video
 categories:
+- Product Development
 - DevOps
-- Product Management
 - Engineering Excellence
 
 ---

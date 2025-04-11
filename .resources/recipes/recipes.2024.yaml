@@ -1,130 +1,4 @@
 - FrontMatter:
-    title: Sprint Review Recipe
-    description: A starter recipe for a Sprint Planning event with suggested facilitation options.
-    ResourceId: K4kkSAG3R7m
-    ResourceImport: false
-    ResourceType: recipes
-    ResourceContentOrigin: Human
-    resourceTypes: recipe
-    layout: recipe
-    date: 2024-09-17
-    weight: 775
-    image: /images/naked-Agility-Scrum-Framework-Sprint-Review.jpg
-    aliases:
-    - /learn/agile-delivery-kit/recipes/sprint-review-recipe/
-    - /resources/K4kkSAG3R7m
-    aliasesArchive:
-    - /learn/agile-delivery-kit/recipes/sprint-review-recipe/
-    creator: Martin Hinshelwood
-    recommendedContent:
-    - collection: guides
-      path: _guides/manifesto-for-agile-software-development.md
-    - collection: guides
-      path: _guides/scrum-guide.md
-    - collection: practices
-      path: _practices/service-level-expectation-sle.md
-    - collection: technologies
-      path: _technologies/liberating-structures/shift-share.md
-    - collection: technologies
-      path: _technologies/liberating-structures/what-so-what-now-what.md
-    - collection: workshops
-      path: _workshops/sprint-review-1.md
-    videos:
-    - title: Overview of The Scrum Framework
-      embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
-    - title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
-      embed: https://www.youtube.com/embed/1-W64WdSbF4
-    card:
-      button:
-        content: Learn More
-      content: Discover more about Sprint Review Recipe and how it can help you in your Agile journey!
-      title: Sprint Review Recipe
-    categories:
-    - Scrum
-    - Social Technologies
-    tags:
-    - Sprint Review
-    - Software Development
-    - Increment
-    - Scrum Product Development
-    - Product Owner
-    - Professional Scrum
-    - Agile Product Management
-    - Product Delivery
-    - Pragmatic Thinking
-    - Agile Planning
-  BodyContent: |
-    When designing a flow for an event, it is hugely important to be clear on the purpose. For the Sprint Review, the purpose is to inspect the increment that was created during the Sprint as well as to adapt the Product Backlog based on new insights, ideas, and changes that result from this inspection. The Sprint Review is about answering the question: “Based on what we learned this Sprint, what are the next steps?”. This provides valuable input for Sprint Planning.
-
-    _This recipe is an example and starting point with a number of different facilitation examples provided. Please inherit from it and make it your own. If you have a great idea please submit a new recipe_
-
-    ![Scrum Framework Sprint Review](./../assets/images/naked-agility-scrum-framework-sprint-review.jpg)
-
-    ## Flow Steps
-
-    This workshop leverages a simple flow and consists of the following:
-
-    The Product Owner presents the vision and goals, followed by a summary of what happened, and a review of the product increment. Update the product backlog and discuss likely release dates and budgeting.
-
-    Although Scrum Masters can certainly facilitate the Sprint Review, there is nothing holding others back from facilitating. Since the Sprint Review is particularly important for the Product Owner, as he or she will be sharing the increment with stakeholders, it makes sense for him or her to also play a role.
-
-    ### Part 1: Product Owner Presents Product Vision and Goal [5 mins]
-
-    The purpose here is for the Product Owner to set the tone and direction. Let's be 100% clear to stakeholders, ourselves, and the customer that they are in control of what we build and if they get value or not.
-
-    ### Part 2: Sprint Summery - What was done, and was not [5 mins]
-
-    There will always be Backlog Items that we were unable to complete during a Sprint. This is OK and just needs to be presented as here are the things that we did, and here are the things we did not get to. Did we meet the Sprint Goal?
-
-    ![Cycle Time Scatter Plot](./../assets/images/naked-agility-kanban-cycle-time-scatter-plot.jpg)
-
-    Review both the **Cycle Time Scatter Plot** and the **Throughput Run Chart** to understand what happened during this Sprint.
-
-    ### Part 3: Sprint Demo - Show what was created [~15 mins]
-
-    Depending on the scale there are many ways to facilitate this. The more engaging the better. If you have a lot of stakeholder participation then more advanced techniques involving [liberating structures](../_technologies/liberating-structures.md) encourage the most engagement.
-
-    #### Facilitation Options
-
-    - Just Present your Features [15 mins]
-    - Provide short videos of the features before the event. [0 min]
-    - [Shift & Share](../_technologies/liberating-structures/shift-share.md) [40 mins]
-
-    ### Part 4: Feedback - Gather feedback from Stakeholders [~30 min]
-
-    The main purpose of the Sprint Review is actionable feedback and updating the Product Backlog to reflect what's next, based on what just happened. Guide the feedback and facilitate the engagement of stakeholders. It is never good enough to just ask for feedback!
-
-    #### Facilitation Options
-
-    - [What, So What, Now What](../_technologies/liberating-structures/what-so-what-now-what.md) [30 min]
-    - [Sprint Review 1](../_workshops/sprint-review-1.md) [240 Min]
-
-    ### Part 5: What's Next? - Likely Sprint Goal and Forecast [10 mins]
-
-    Share what is the rough draft plan for the next Sprint. Share your teams [Service Level Expectation (SLE)](../_practices/service-level-expectation-sle.md) and what the options are for Sprint Goals.
-
-    ![Throughput Run Chart.png](./../assets/images/naked-agility-kanban-throughput-run-chart.jpg)
-
-    You can use a **Throughput Run Chart** to present predictions based on empirical data with your expected confidence levels.\_
-
-    ### Part 6: Release Projections & Budgeting [10 mins]
-
-    Based on our historical data and our [Service Level Expectation (SLE)](../_practices/service-level-expectation-sle.md) you should be able to answer any Stakeholder questions on "When will I get feature A?" or "When will Feature B ship?". Express all your predictions coupled with your confidence level of achieving it.
-
-    ![image.png](./../assets/images/naked-agility-kanban-cycle-time-scatter-plot.jpg)
-
-    Use a **Monte Carlo How Many** or **Monte Carlo When**n to answer Stakeholder questions like "What will I get by 23/01/2024?" and "When will item x be completed?" As this is calculated using your team's historical data you will need to discuss the [Service Level Expectation](../_practices/service-level-expectation-sle.md) for the Team(s).
-
-    ### Part 7: Compliance Summery [10 mins]
-
-    Do you have architectural reviews, technology overviews or legal compliance? Discuss them here.
-
-    ### Part 8: Any Other Business
-
-    Just as it says!
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\recipes\sprint-review-recipe\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\recipes\sprint-review-recipe
-- FrontMatter:
     title: Sprint Planning Recipe
     description: Master Sprint Planning with this guide! Learn to craft effective goals, select backlog items, and create actionable plans for successful sprints.
     ResourceId: D1dSEM9ni3C
@@ -136,7 +10,7 @@
     image: /images/naked-Agility-Scrum-Framework-Sprint-Planning.jpg
     creator: Martin Hinshelwood
     date: 2024-09-17
-    weight: 810
+    weight: 790
     aliases:
     - /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
     - /resources/D1dSEM9ni3C
@@ -165,18 +39,20 @@
       title: Sprint Planning Recipe
     categories:
     - Scrum
-    - Social Technologies
     tags:
     - Software Development
-    - Scrum Product Development
-    - Scrum Team
     - Agile Planning
     - Professional Scrum
+    - Scrum Team
     - Agile Product Management
     - Product Delivery
-    - Agile Project Management
-    - Practical Techniques and Tooling
+    - Agile Frameworks
     - Agile Planning Tools
+    - Team Performance
+    - Product Backlog
+    - Operational Practices
+    - Team Collaboration
+    - Pragmatic Thinking
   BodyContent: |
     The purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) is to create a plan for the Sprint. The entire Scrum Team attends as well as anyone they deem necessary to help them. While there is a maximum of 8h for this event, the greater the degree of understanding that the Scrum Team has going in, the shorter it will be. That is, if the Product Backlog is well understood and the Product Goal is clear, then the Sprint Planning will be short. If the Product Backlog is not well understood or the Product Goal is not clear, then the Sprint Planning will be longer.
 
@@ -286,7 +162,7 @@
     - title: Avoid the Bug as Task anti-pattern in Azure DevOps
       url: https://nkdagility.com/blog/avoid-bug-task-anti-pattern-azure-devops
     date: 2024-09-17
-    weight: 555
+    weight: 505
     card:
       button:
         content: Learn More
@@ -294,18 +170,22 @@
       title: Daily Scrum Recipe
     categories:
     - Scrum
-    - Social Technologies
     tags:
     - Daily Scrum
     - Software Development
-    - Agile Project Management
-    - Scrum Product Development
+    - Agile Frameworks
     - Scrum Team
-    - People and Process
-    - Software Developers
     - Professional Scrum
     - Team Performance
+    - Team Collaboration
+    - Agile Product Management
+    - Social Technologies
+    - Agile Planning
+    - Pragmatic Thinking
+    - Product Delivery
     - Transparency
+    - Operational Practices
+    - Scrum Master
   BodyContent: |
     The Daily Scrum is an essential event in the Scrum framework. It offers the
     Developers an opportunity to reflect on their progress, and plan for the next 24
@@ -431,4 +311,140 @@
     # Reference
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\recipes\daily-scrum-recipe\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\recipes\daily-scrum-recipe
+- FrontMatter:
+    title: Sprint Review Recipe
+    description: A starter recipe for a Sprint Planning event with suggested facilitation options.
+    ResourceId: K4kkSAG3R7m
+    ResourceImport: false
+    ResourceType: recipes
+    ResourceContentOrigin: Human
+    resourceTypes: recipe
+    layout: recipe
+    date: 2024-09-17
+    weight: 750
+    image: /images/naked-Agility-Scrum-Framework-Sprint-Review.jpg
+    aliases:
+    - /learn/agile-delivery-kit/recipes/sprint-review-recipe/
+    - /resources/K4kkSAG3R7m
+    aliasesArchive:
+    - /learn/agile-delivery-kit/recipes/sprint-review-recipe/
+    creator: Martin Hinshelwood
+    recommendedContent:
+    - collection: guides
+      path: _guides/manifesto-for-agile-software-development.md
+    - collection: guides
+      path: _guides/scrum-guide.md
+    - collection: practices
+      path: _practices/service-level-expectation-sle.md
+    - collection: technologies
+      path: _technologies/liberating-structures/shift-share.md
+    - collection: technologies
+      path: _technologies/liberating-structures/what-so-what-now-what.md
+    - collection: workshops
+      path: _workshops/sprint-review-1.md
+    videos:
+    - title: Overview of The Scrum Framework
+      embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
+    - title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
+      embed: https://www.youtube.com/embed/1-W64WdSbF4
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Sprint Review Recipe and how it can help you in your Agile journey!
+      title: Sprint Review Recipe
+    categories:
+    - Scrum
+    - Product Management
+    tags:
+    - Sprint Review
+    - Software Development
+    - Pragmatic Thinking
+    - Professional Scrum
+    - Agile Planning
+    - Agile Product Management
+    - Product Owner
+    - Increment
+    - Product Delivery
+    - Empirical Process Control
+    - Value Delivery
+    - Working Software
+    - Agile Frameworks
+    - Forecasting
+    - Team Performance
+    - Estimation
+    - Scrum Team
+    - Transparency
+    - Decision Making
+    - Metrics and Learning
+  BodyContent: |
+    When designing a flow for an event, it is hugely important to be clear on the purpose. For the Sprint Review, the purpose is to inspect the increment that was created during the Sprint as well as to adapt the Product Backlog based on new insights, ideas, and changes that result from this inspection. The Sprint Review is about answering the question: “Based on what we learned this Sprint, what are the next steps?”. This provides valuable input for Sprint Planning.
+
+    _This recipe is an example and starting point with a number of different facilitation examples provided. Please inherit from it and make it your own. If you have a great idea please submit a new recipe_
+
+    ![Scrum Framework Sprint Review](./../assets/images/naked-agility-scrum-framework-sprint-review.jpg)
+
+    ## Flow Steps
+
+    This workshop leverages a simple flow and consists of the following:
+
+    The Product Owner presents the vision and goals, followed by a summary of what happened, and a review of the product increment. Update the product backlog and discuss likely release dates and budgeting.
+
+    Although Scrum Masters can certainly facilitate the Sprint Review, there is nothing holding others back from facilitating. Since the Sprint Review is particularly important for the Product Owner, as he or she will be sharing the increment with stakeholders, it makes sense for him or her to also play a role.
+
+    ### Part 1: Product Owner Presents Product Vision and Goal [5 mins]
+
+    The purpose here is for the Product Owner to set the tone and direction. Let's be 100% clear to stakeholders, ourselves, and the customer that they are in control of what we build and if they get value or not.
+
+    ### Part 2: Sprint Summery - What was done, and was not [5 mins]
+
+    There will always be Backlog Items that we were unable to complete during a Sprint. This is OK and just needs to be presented as here are the things that we did, and here are the things we did not get to. Did we meet the Sprint Goal?
+
+    ![Cycle Time Scatter Plot](./../assets/images/naked-agility-kanban-cycle-time-scatter-plot.jpg)
+
+    Review both the **Cycle Time Scatter Plot** and the **Throughput Run Chart** to understand what happened during this Sprint.
+
+    ### Part 3: Sprint Demo - Show what was created [~15 mins]
+
+    Depending on the scale there are many ways to facilitate this. The more engaging the better. If you have a lot of stakeholder participation then more advanced techniques involving [liberating structures](../_technologies/liberating-structures.md) encourage the most engagement.
+
+    #### Facilitation Options
+
+    - Just Present your Features [15 mins]
+    - Provide short videos of the features before the event. [0 min]
+    - [Shift & Share](../_technologies/liberating-structures/shift-share.md) [40 mins]
+
+    ### Part 4: Feedback - Gather feedback from Stakeholders [~30 min]
+
+    The main purpose of the Sprint Review is actionable feedback and updating the Product Backlog to reflect what's next, based on what just happened. Guide the feedback and facilitate the engagement of stakeholders. It is never good enough to just ask for feedback!
+
+    #### Facilitation Options
+
+    - [What, So What, Now What](../_technologies/liberating-structures/what-so-what-now-what.md) [30 min]
+    - [Sprint Review 1](../_workshops/sprint-review-1.md) [240 Min]
+
+    ### Part 5: What's Next? - Likely Sprint Goal and Forecast [10 mins]
+
+    Share what is the rough draft plan for the next Sprint. Share your teams [Service Level Expectation (SLE)](../_practices/service-level-expectation-sle.md) and what the options are for Sprint Goals.
+
+    ![Throughput Run Chart.png](./../assets/images/naked-agility-kanban-throughput-run-chart.jpg)
+
+    You can use a **Throughput Run Chart** to present predictions based on empirical data with your expected confidence levels.\_
+
+    ### Part 6: Release Projections & Budgeting [10 mins]
+
+    Based on our historical data and our [Service Level Expectation (SLE)](../_practices/service-level-expectation-sle.md) you should be able to answer any Stakeholder questions on "When will I get feature A?" or "When will Feature B ship?". Express all your predictions coupled with your confidence level of achieving it.
+
+    ![image.png](./../assets/images/naked-agility-kanban-cycle-time-scatter-plot.jpg)
+
+    Use a **Monte Carlo How Many** or **Monte Carlo When**n to answer Stakeholder questions like "What will I get by 23/01/2024?" and "When will item x be completed?" As this is calculated using your team's historical data you will need to discuss the [Service Level Expectation](../_practices/service-level-expectation-sle.md) for the Team(s).
+
+    ### Part 7: Compliance Summery [10 mins]
+
+    Do you have architectural reviews, technology overviews or legal compliance? Discuss them here.
+
+    ### Part 8: Any Other Business
+
+    Just as it says!
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\recipes\sprint-review-recipe\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\recipes\sprint-review-recipe
 

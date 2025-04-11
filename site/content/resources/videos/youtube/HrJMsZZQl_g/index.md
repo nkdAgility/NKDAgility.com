@@ -2,7 +2,7 @@
 title: When is an APS course appropriate for a scrum team?
 description: "Discover when the APS course is ideal for Scrum teams and how it tailors Scrum practices to your organisation's unique needs. \U0001F4DA\U0001F680"
 date: 2023-10-12T08:32:45Z
-weight: 775
+weight: 750
 ResourceId: HrJMsZZQl_g
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -30,20 +30,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
-- People and Process
 - Agile Frameworks
 - Software Development
 - Pragmatic Thinking
-- Scrum Product Development
-- Agile Product Management
-- Discovery and Learning
-- Scrum Master
 - Team Collaboration
+- Agile Product Management
+- Team Performance
+- Scrum Master
 resourceTypes:
 - video
 categories:
-- Scrum
+- Product Development
 
 ---
 ## Empowering Teams with the APS Approach: Elevating Your Scrum Journey

@@ -9,7 +9,7 @@ ResourceImportId: 10489
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-04-10
-weight: 775
+weight: 750
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,16 +28,15 @@ aliasesArchive:
 - /blog/does-your-organisation-have-both-project-mangers-as-well-as-product-owners-
 - /resources/blog/organisation-project-mangers-well-product-owners
 tags:
-- People and Process
-- Agile Project Management
-- Agile Product Management
-- Product Owner
 - Agile Strategy
 - Organisational Agility
+- Agile Product Management
+- Pragmatic Thinking
 - Software Development
 - Agile Transformation
 - Organisational Change
-- Pragmatic Thinking
+- Product Owner
+- Sociotechnical Systems
 categories:
 - Product Management
 - Scrum

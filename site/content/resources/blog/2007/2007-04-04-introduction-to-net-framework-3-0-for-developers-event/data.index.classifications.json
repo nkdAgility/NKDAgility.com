@@ -1,19 +1,10 @@
 {
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T09:16:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses .NET Framework and related technologies, with no mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:16:14",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a developer event and insights on .NET Framework features, without focusing on installation or configuration processes.",
     "level": "Ignored"
   },
@@ -24,24 +15,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a .NET Framework event and technical aspects of software development, with no focus on decision-making processes or related themes.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:16:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of .NET Framework and a specific event, with minimal focus on team dynamics or process methodologies.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:16:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses .NET Framework and a developer event, with no focus on organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -109,10 +82,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:16:30",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a developer event focused on .NET Framework and specific technologies, with no mention of metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -125,24 +98,15 @@
     "reasoning": "Content primarily discusses .NET Framework and related technologies, with no clear focus on platform engineering or internal developer platforms.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:16:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a developer event focused on .NET Framework features and personal experiences, with no significant emphasis on code quality or complexity theory.",
-    "level": "Ignored"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-04-08T21:22:37",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a .NET Framework event and discusses technical aspects of software development, with no direct mention or alignment to Evidence-Based Management principles. It lacks any empirical decision-making or metrics related to value delivery.",
     "level": "Ignored"
   },
@@ -200,27 +164,6 @@
     "reasoning": "Content primarily discusses .NET Framework and related technologies, with no mention of Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T07:48:42",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 25,
-    "ai_depth": 15,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on a personal experience at a developer event, discussing specific technologies like .NET Framework 3.0 and Windows Workflow Foundation. While it provides insights into the session and the speaker's expertise, it lacks broader industry news or reviews that would typically characterise the 'News and Reviews' category. The discussion is more anecdotal and does not delve into trends or evaluations relevant to Agile or DevOps, which diminishes its alignment with the category's core themes.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:16:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a developer event and personal experiences with .NET Framework, lacking a focus on practical techniques or tooling related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-17T09:16:48",
@@ -250,27 +193,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-04-08T21:22:36",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a .NET Framework event and discusses technical aspects of software development, specifically around CardSpace and Windows Workflow Foundation. There are no direct mentions of the Agile Product Operating Model or its principles, and the discussion does not align with the core themes of product management or agile methodologies. The depth of discussion is also minimal regarding the category, leading to a very low confidence score.",
     "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-10T15:21:09",
-    "ai_confidence": 82.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content explicitly discusses a specific event, a session led by Mike Taulty on .NET Framework 3.0, which aligns directly with the category of Events and Presentations. The author shares personal insights and experiences from attending the event, indicating a strong engagement with the presentation's content. The discussion includes details about the topics covered, such as CardSpace and Windows Workflow Foundation, which are relevant to software engineering. The depth of the discussion is significant, as it reflects on the value gained from the session and the interaction with the speaker. Overall, the content is well-aligned with the category, focusing on a specific event and providing detailed reflections on the presentation.",
-    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -301,41 +232,11 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:16:59",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical event related to .NET Framework, with no significant personal reflections or insights on Agile, Scrum, or DevOps.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-15T07:48:42",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on a specific event related to .NET Framework 3.0 and the insights gained from it. While there are mentions of learning and understanding new concepts, such as CardSpace and Windows Workflow Foundation, the discussion lacks a broader exploration of methodologies or processes that foster innovation and continuous learning. The content does not delve into techniques for fostering a culture of innovation or the significance of learning from failures and successes, which are key themes in the 'Discovery and Learning' category.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:17:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a .NET Framework event and personal experiences, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:17:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a developer event and personal experiences with .NET Framework, rather than focusing on products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -349,13 +250,13 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-04-08T21:22:20",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on .NET Framework 3.0 and specific technologies like CardSpace and Windows Workflow Foundation, with no direct mention of DevOps principles or practices. While there is a brief mention of development skills, it does not align with the core themes of DevOps such as collaboration, automation, or shared accountability. The discussion lacks depth regarding DevOps concepts, resulting in a very low confidence score.",
     "level": "Ignored"
   },
@@ -388,13 +289,13 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T07:48:42",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 34.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a .NET Framework event and its features, with only brief mentions of Windows-related technologies like Windows Workflow Foundation and Windows Communication Foundation. While there is some conceptual alignment with Windows as it relates to .NET development, the focus is not on the Windows operating system itself, but rather on the .NET framework and its components. The depth of discussion on Windows is limited, as it does not cover installation, configuration, or troubleshooting of the Windows OS, which are key topics in the Windows category.",
     "level": "Ignored"
   },
@@ -409,22 +310,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T09:52:36",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on a presentation related to .NET Framework 3.0 and does not discuss the Definition of Done.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-04-08T21:22:42",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a specific event discussing .NET Framework 3.0, including topics like CardSpace and Windows Workflow Foundation. There is no mention of Continuous Delivery principles, practices, or related topics, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
@@ -444,15 +345,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses a .NET Framework event without any focus on empirical process control principles or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T09:52:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on .NET Framework and related technologies, with no mention of Scrum or scaling practices.",
     "level": "Ignored"
   },
   "Increment": {
@@ -529,13 +421,13 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-15T07:48:42",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions attending a session and learning about .NET Framework, which aligns with the concept of continuous learning. However, it primarily focuses on specific technologies and personal experiences rather than discussing broader principles of continuous learning, such as growth mindset or knowledge sharing within teams.",
     "level": "Ignored"
   },
@@ -550,25 +442,25 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:48:46",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a session on .NET Framework 3.0, which is relevant to software development, particularly in the context of specific technologies like CardSpace and Windows Workflow Foundation. However, the focus is more on personal experiences and opinions rather than a structured discussion of software development methodologies or practices. While there are mentions of development tools and concepts, the depth of technical discussion is limited, and the primary focus is on the event rather than software engineering principles.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T21:22:40",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a Microsoft event discussing .NET Framework 3.0, specifically features like CardSpace and Windows Workflow Foundation. There is no mention of Test First Development principles, success criteria, or testing practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
@@ -633,15 +525,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a developer event focused on .NET Framework and technical aspects rather than strategic goals or business agility.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T09:52:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses .NET Framework and related technologies, with no reference to Agile methodologies or scaling Agile practices.",
     "level": "Ignored"
   },
   "Lean Product Development": {
@@ -736,13 +619,13 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:48:42",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily recounts an event attended by the author, focusing on the insights gained from a session about .NET Framework 3.0. While it touches on specific technical topics like CardSpace and Windows Workflow Foundation, the discussion lacks depth in software craftsmanship principles and best practices. The mention of technical concepts is present but not the primary focus, leading to a lower confidence score in alignment with the 'Technical Mastery' category.",
     "level": "Ignored"
   },
@@ -811,10 +694,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T09:52:36",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a .NET Framework event and discusses technical aspects, without any mention of Agile values or principles.",
     "level": "Ignored"
   },
@@ -892,10 +775,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T09:52:36",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on a .NET Framework event and does not discuss Definition of Ready or related Agile practices.",
     "level": "Ignored"
   },
@@ -908,7 +791,7 @@
     "reasoning": "Content primarily discusses .NET Framework and related technologies, with no mention of Azure Boards or Agile project management.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T09:52:36",
     "ai_confidence": 0,
@@ -960,18 +843,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on a .NET Framework event and does not discuss Agile methodologies or strategies.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T07:48:42",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses a specific event related to .NET development, which is relevant to software developers. However, it lacks a direct focus on Agile or DevOps methodologies, and the discussion is more about personal experiences and specific technologies rather than broader practices or principles that enhance productivity and collaboration in software development.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -1026,15 +897,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about a .NET Framework event and does not discuss Scrum Values.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T09:52:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses .NET Framework features and a developer event, with no mention of Kanban or related scaling practices.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -1235,15 +1097,6 @@
     "reasoning": "Content primarily discusses the .NET Framework and its components without any mention of test automation or related practices.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:52:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a .NET framework event and does not relate to Scrum or product development.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
     "calculated_at": "2025-02-17T09:52:36",
@@ -1264,13 +1117,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T21:22:45",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a .NET Framework event and does not discuss the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum or related concepts, and the discussion lacks any depth regarding Scrum practices or the impact of a Scrum Master.",
     "level": "Ignored"
   },
@@ -1294,29 +1147,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:52:36",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a session about .NET Framework and its features, without addressing the capacity to innovate, Evidence-Based Management, or strategies for fostering a culture of innovation.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T09:52:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a .NET Framework event and discusses technical details rather than strategies for scaling agility within an organization.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:52:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a session on .NET Framework and related technologies, with no relevant discussion on Agile Project Management or its principles.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -1364,15 +1199,6 @@
     "reasoning": "Content is focused on .NET Framework and discusses technical aspects of software development, not Value Stream Mapping or Lean principles.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T09:52:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses .NET Framework and related technologies, with no mention of AI or its application in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-17T09:52:36",
@@ -1393,13 +1219,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-04-08T21:22:22",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on a technical event related to the .NET Framework and does not discuss social technologies, collaboration, or decision-making. While there are mentions of interactions with a speaker, these do not align with the core themes of social technologies as defined in the category.",
     "level": "Ignored"
   },
@@ -1432,73 +1258,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:22:28",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a .NET Framework event and does not mention Scrum or its principles, roles, events, or artifacts. There is no alignment with Scrum concepts, and the depth of discussion is focused on technical aspects of .NET rather than project management methodologies.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:50:58",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a .NET Framework event and the speaker's insights on specific technologies like CardSpace and Windows Workflow Foundation. There is no mention of the Shift-Left Strategy, nor does it align with its principles of integrating testing, security, or compliance early in the development process. The focus is on personal experiences and technical details rather than on proactive software development practices.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-04-08T21:22:25",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a personal experience at a Microsoft event discussing .NET Framework 3.0, with no explicit mention of Common Goals, Agile, or DevOps principles. While it touches on development skills, it lacks any discussion on shared objectives or alignment within teams, which are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-04-08T21:22:27",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a developer event focused on .NET Framework 3.0, highlighting the author's learning experience and areas of uncertainty. While there are mentions of skill enhancement and learning, the primary focus is on specific technologies rather than a broader discussion of competence in Agile or DevOps contexts. The alignment with the core themes of competence is present but limited, and the depth of discussion does not extensively cover strategies for fostering a culture of competence or the impact of competence on decision-making.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-04-08T21:22:30",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a specific event related to .NET Framework 3.0 and does not discuss Continuous Improvement principles. While there are mentions of learning and development, they are not framed within the context of Continuous Improvement or its methodologies. The discussion lacks depth and does not provide empirical evidence or strategies related to Continuous Improvement.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T21:22:33",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a .NET Framework event and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is limited to technical aspects of .NET and does not explore the interplay between human and AI capabilities or organisational agility.",
     "level": "Ignored"
   }

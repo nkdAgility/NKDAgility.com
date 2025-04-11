@@ -1,22 +1,13 @@
 {
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T09:33:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the installation of TFS and personal experiences related to server management, with no mention of AI, automation, or Agile practices.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:26:23",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 63.0,
+    "final_score": 68.0,
     "reasoning": "The content primarily focuses on the installation of TFS, detailing personal experiences and challenges faced during the process. While it does mention specific issues related to installation, such as permission problems, the overall discussion lacks structured, actionable instructions or best practices that are typically expected in the 'Install and Configuration' category. The narrative style and personal anecdotes detract from the depth and clarity required for a comprehensive guide, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -27,24 +18,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of TFS and personal experiences related to it, with no focus on decision-making processes or related theories.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:33:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of installing TFS and personal experiences, with minimal focus on team dynamics or processes.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:34:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation of TFS and personal experiences related to technical issues, with no focus on organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -94,13 +67,13 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T07:49:14",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the installation of TFS (Team Foundation Server), which is a component of Azure DevOps. However, it lacks a detailed exploration of Azure DevOps functionalities, best practices, or methodologies. The focus is more on personal experiences and challenges faced during installation rather than on the broader context of Azure DevOps as a suite of tools. Therefore, while there are mentions of TFS, the overall alignment with the Azure DevOps category is limited.",
     "level": "Ignored"
   },
@@ -115,10 +88,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:34:13",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of TFS and personal experiences, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -131,24 +104,15 @@
     "reasoning": "Content primarily discusses the installation of TFS and personal experiences, with no clear focus on platform engineering principles or enhancing developer productivity.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:34:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation of TFS and personal experiences, with no focus on code quality or complexity.",
-    "level": "Ignored"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-04-08T21:27:40",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the installation of TFS and personal experiences related to it, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and provides minimal detail relevant to the category.",
     "level": "Ignored"
   },
@@ -172,10 +136,10 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:34:22",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of TFS and personal experiences, with no focus on enterprise agility principles or organisational context.",
     "level": "Ignored"
   },
@@ -206,36 +170,15 @@
     "reasoning": "Content primarily discusses the installation of TFS and personal experiences related to it, with no clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:34:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on personal experiences and challenges faced during the installation of TFS, lacking broader industry news or reviews.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-10T19:06:49",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content provides a personal account of installing TFS, which is a tool relevant to Agile and DevOps practices. However, it lacks a structured discussion on methodologies or frameworks, focusing instead on anecdotal experiences. While it mentions practical aspects of installation, it does not delve into broader implications or best practices, resulting in a moderate confidence score.",
-    "level": "Tertiary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T07:49:14",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions TFS (Team Foundation Server), which is a tool related to Application Lifecycle Management, but it primarily focuses on the installation experience rather than discussing the broader aspects of ALM. There is a lack of depth in exploring the stages of the application lifecycle or best practices, and the discussion does not align closely with the core themes of governance, compliance, or metrics. Overall, while there is a connection to ALM through the mention of TFS, the content does not provide substantial insights into the management of software applications.",
     "level": "Ignored"
   },
@@ -259,23 +202,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-04-08T21:27:38",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the installation of TFS (Team Foundation Server) and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or the key topics outlined in the APOM framework. The discussion is centred around technical challenges and solutions related to TFS installation, which is unrelated to the core themes of the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:34:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal experience with installing TFS, with no reference to events, presentations, or discussions related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Agile Product Management": {
@@ -307,41 +241,14 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-15T07:49:14",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content provides a personal anecdote about assisting a friend with TFS installation, which aligns with the Personal category. However, it primarily focuses on technical aspects of TFS rather than personal reflections or insights related to Agile, Scrum, or DevOps methodologies. The mention of personal experience is present but not the primary focus, leading to a lower confidence score.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:34:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the installation process of TFS and personal experiences, with no significant discussion on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:34:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation of TFS and personal experiences, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:34:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with installing TFS, rather than providing reviews or analyses of products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -355,13 +262,13 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-04-08T21:27:24",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on the installation of TFS (Team Foundation Server) and personal experiences related to it. While it touches on aspects of server management and some challenges faced during installation, it does not explicitly discuss DevOps principles or practices. The mention of TFS could relate to DevOps tools, but the overall discussion lacks depth and alignment with the core themes of DevOps, such as collaboration, automation, or continuous improvement.",
     "level": "Ignored"
   },
@@ -394,15 +301,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T07:49:14",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the installation of TFS (Team Foundation Server), which is a Microsoft product that typically runs on Windows servers. However, the focus is primarily on the personal experience of the author rather than detailed guidance on Windows installation or configuration. While there are mentions of permissions and server ownership, the discussion lacks depth in terms of Windows-specific troubleshooting or performance optimisation. Overall, the content aligns with the Windows category but does not provide comprehensive insights or detailed procedures, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -415,22 +322,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T11:46:34",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the installation of TFS and personal experiences, which does not relate to the Definition of Done.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-04-08T21:27:45",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the installation of TFS (Team Foundation Server) and personal experiences related to that process. There are no direct mentions of Continuous Delivery principles, practices, or benefits. The discussion lacks alignment with key topics such as automation, incremental improvements, or cultural aspects of Continuous Delivery. Overall, the content does not provide substantial detail or depth regarding Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
@@ -450,15 +357,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on the installation of TFS and personal experiences rather than discussions on empirical process control principles or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T11:46:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the installation of TFS (Team Foundation Server) and does not discuss Scrum principles, scaling frameworks, or related challenges in scaling Scrum.",
     "level": "Ignored"
   },
   "Increment": {
@@ -481,15 +379,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T15:21:35",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the installation of TFS, which is a specific aspect of system configuration. However, it lacks detailed exploration of best practices or methodologies for configuration management. The mention of permission issues and external SSL hints at configuration challenges but does not delve deeply into troubleshooting or optimisation strategies. Overall, while the topic is relevant, the depth and breadth of discussion are limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -529,10 +427,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T11:46:34",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of TFS rather than the delivery of functional software or principles relating to working software.",
     "level": "Ignored"
   },
@@ -556,25 +454,25 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:49:19",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 55.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 50.0,
+    "final_score": 55.0,
     "reasoning": "The content discusses the installation of TFS (Team Foundation Server), which is relevant to software development practices, particularly in the context of version control and project management. However, the discussion is primarily anecdotal and lacks depth in terms of methodologies or best practices. While it mentions a specific tool used in software development, it does not delve into broader concepts or frameworks that guide the development lifecycle, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T21:27:43",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the installation of TFS and personal experiences related to it, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of the category.",
     "level": "Ignored"
   },
@@ -641,15 +539,6 @@
     "reasoning": "Content is focused on the installation process of TFS and personal experiences, with no mention of strategic goals or business agility.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T11:46:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the installation of TFS and personal experiences rather than discussions on scaling Agile or related frameworks.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-17T11:46:34",
@@ -706,13 +595,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T07:49:16",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses a specific instance of troubleshooting during the installation of TFS, mentioning permission issues that were resolved. However, the focus is more on the narrative of the installation experience rather than a systematic approach to troubleshooting. While there are direct mentions of problems encountered, the depth of discussion on methodologies or tools for troubleshooting is limited.",
     "level": "Secondary"
   },
@@ -817,10 +706,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T11:46:35",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on installation experiences with TFS and does not discuss Agile values or principles.",
     "level": "Ignored"
   },
@@ -898,10 +787,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T11:46:35",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on installing TFS and does not discuss the Definition of Ready in any capacity.",
     "level": "Ignored"
   },
@@ -914,7 +803,7 @@
     "reasoning": "Content primarily discusses the installation of TFS (Team Foundation Server) and does not focus on Azure Boards or Agile project management practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T11:46:35",
     "ai_confidence": 0,
@@ -966,15 +855,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses installing TFS (Team Foundation Server) and personal experiences related to setup, which does not align with Agile Strategy principles or discussions.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T11:46:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation of TFS and personal experiences related to it, without focusing on the role of software developers in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -1029,15 +909,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of TFS and related technical challenges, with no focus on Scrum values.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T11:46:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about installing TFS and does not address Kanban principles, scaling, or relevant topics related to Scaling Kanban.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -1168,10 +1039,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T11:46:35",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of TFS (Team Foundation Server) and does not address remote work strategies, tools, or Agile practices.",
     "level": "Ignored"
   },
@@ -1195,10 +1066,10 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T11:46:35",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and technical aspects of TFS, without any mention of working agreements, teamwork, or collaboration principles.",
     "level": "Ignored"
   },
@@ -1238,15 +1109,6 @@
     "reasoning": "Content primarily discusses the installation and configuration of TFS rather than any aspects of test automation.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T11:46:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on an individual's experience with TFS installation and administration, with no discussion of Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
     "calculated_at": "2025-02-17T11:46:35",
@@ -1267,13 +1129,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T21:27:48",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 0.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the installation of TFS (Team Foundation Server) and does not discuss the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, team dynamics, or the impact of a Scrum Master on organisational change, which are key topics in the category. The discussion is more about technical challenges related to TFS installation rather than any aspect of Scrum or the Scrum Master's role.",
     "level": "Ignored"
   },
@@ -1297,29 +1159,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T11:46:35",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of installing TFS and personal experiences, with no focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T11:46:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about the installation of TFS and does not discuss scaling agile practices or related topics.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T11:46:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses TFS installation and related issues, which is not central to Agile Project Management.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -1367,15 +1211,6 @@
     "reasoning": "Content is primarily about installing TFS and addresses unrelated issues, lacking focus on Value Stream Mapping or Lean principles.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T11:46:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the installation of TFS (Team Foundation Server) and related issues, without any focus on AI or its application in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-17T11:46:35",
@@ -1396,13 +1231,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-04-08T21:27:26",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical aspects of installing TFS and does not discuss collaboration, decision-making, or value delivery. While it mentions challenges faced during installation, it lacks a connection to the core themes of social technologies, such as self-organisation or collective intelligence. The discussion is superficial and does not provide depth on the category.",
     "level": "Ignored"
   },
@@ -1435,73 +1270,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T07:49:14",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the installation of TFS (Team Foundation Server) and does not explicitly mention Scrum or its principles, roles, events, or artifacts. While it touches on project management in a general sense, it lacks any direct references to Scrum practices or frameworks, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:51:30",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the installation of TFS and personal experiences related to it, with no explicit discussion of the Shift-Left Strategy or its principles. There are no mentions of integrating testing, security, or compliance early in the development process, nor any relevant techniques or tools associated with the Shift-Left approach.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-04-08T21:27:28",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on a personal installation experience of TFS and does not discuss Common Goals, Agile, or DevOps principles. It lacks explicit mentions of shared objectives or alignment strategies, and the depth of discussion is limited to technical challenges without connecting to broader organisational goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-04-08T21:27:31",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on the practical aspects of installing TFS and the challenges faced during the process. While there are brief mentions of problem-solving and experience, it lacks a direct discussion on competence as defined in the category. The emphasis is more on the installation journey rather than on continuous learning, skill development, or fostering a culture of competence.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-04-08T21:27:33",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a personal experience with TFS installation, discussing challenges and solutions in a specific context. While there are elements of problem-solving, it lacks a clear emphasis on Continuous Improvement principles, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The discussion does not delve into strategies for integrating Continuous Improvement into processes or the impact on team effectiveness, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T21:27:35",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the installation of TFS and personal experiences related to it, with no explicit discussion of Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }

@@ -27,8 +27,7 @@ aliasesArchive:
 - /get-a-free-team-companion-licence-for-visual-studio-2012-launch-
 - /blog/get-a-free-team-companion-licence-for-visual-studio-2012-launch-
 - /resources/blog/get-a-free-team-companion-licence-for-visual-studio-2012-launch
-tags:
-- Products and Books
+tags: []
 categories: []
 
 ---

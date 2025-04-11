@@ -9,7 +9,7 @@ ResourceImportId: 5112
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-04-02
-weight: 650
+weight: 610
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,15 +24,13 @@ aliasesArchive:
 - /unit-testing-against-the-team-foundation-server-2012-api
 - /resources/blog/unit-testing-against-the-team-foundation-server-2012-api
 tags:
-- Software Development
 - Technical Excellence
-- Practical Techniques and Tooling
+- Software Development
 - Engineering Practices
 - Technical Mastery
 - Automated Testing
-- Test Driven Development
-- Software Developers
 - Troubleshooting
+- Test Driven Development
 categories:
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png

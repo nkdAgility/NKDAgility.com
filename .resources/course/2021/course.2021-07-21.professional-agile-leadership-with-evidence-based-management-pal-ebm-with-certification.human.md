@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: course
 ResourceContentOrigin: human
 date: 2021-07-21
-weight: 410
+weight: 350
 creator: Martin Hinshelwood
 type: course
 slug: professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification
@@ -39,18 +39,29 @@ delivery-audiences:
 - Entrepreneurs
 tags:
 - Metrics and Learning
-- Experimentation
-- Agile Product Management
 - Ability to Innovate
+- Agile Frameworks
 - Agile Leadership
-- Agile Project Management
+- Agile Philosophy
+- Agile Product Management
+- Agile Strategy
+- Agile Transformation
 - Business Agility
-- Discovery and Learning
+- Continuous Learning
+- Decision Making
+- Empirical Process Control
 - Evidence Based Leadership
+- Experimentation
+- Market Adaptability
 - Operational Practices
+- Organisational Agility
+- Organisational Culture
+- Pragmatic Thinking
+- Software Development
 categories:
 - Leadership
 - Product Management
+- Technical Leadership
 preview: naked-agility-Professional-Scrum-PALEBM-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PALEBM-400x.png
 brandColour: 

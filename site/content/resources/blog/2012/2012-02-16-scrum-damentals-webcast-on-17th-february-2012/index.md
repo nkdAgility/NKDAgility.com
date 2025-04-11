@@ -9,7 +9,7 @@ ResourceImportId: 4389
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-16
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,9 +24,7 @@ aliasesArchive:
 - /scrum-damentals-webcast-on-17th-february-2012
 - /resources/blog/scrum-damentals-webcast-on-17th-february-2012
 tags:
-- Events and Presentations
 - Agile Frameworks
-- Agile Project Management
 - Software Development
 categories:
 - Scrum

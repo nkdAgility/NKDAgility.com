@@ -1,13 +1,13 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T07:31:49",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a specific project involving the migration and management of a SharePoint portal, which touches on aspects of the application lifecycle such as development and deployment. However, it lacks a comprehensive exploration of the broader methodologies, practices, and tools associated with Application Lifecycle Management. The focus is more on personal experiences and challenges faced during the project rather than structured discussions on ALM principles or best practices.",
     "level": "Ignored"
   },
@@ -40,10 +40,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T18:17:51",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to SharePoint and project management rather than the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -58,13 +58,13 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-15T07:31:56",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a project involving the migration and rewriting of a SharePoint portal, which touches on installation and configuration aspects. However, it primarily focuses on personal experiences, challenges faced, and a narrative around deadlines rather than providing clear, actionable instructions or detailed configuration best practices. The mention of a proof of concept and the intention to create a portal site indicates some relevance, but the overall depth and focus on installation and configuration are limited.",
     "level": "Ignored"
   },
@@ -86,15 +86,6 @@
     "reasoning": "Content primarily discusses a specific project involving SharePoint and does not align with the Miscellaneous category as it relates to technical challenges and project management rather than general discussions on Agile methodologies.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T18:17:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical challenges and project management related to SharePoint, without a clear focus on organisational resilience or change management strategies.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T18:17:59",
@@ -103,18 +94,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a project involving SharePoint migration and the challenges faced, without a focus on complexity science or its principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T07:32:19",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses a project involving the migration and rewriting of a SharePoint portal, which touches on practical techniques and tooling. However, it lacks a structured exploration of methodologies or frameworks that enhance Agile and DevOps practices. While there are mentions of tools like SharePoint and TFS, the focus is more on personal experiences and challenges rather than a detailed examination of practical techniques or best practices. The depth of discussion is limited, primarily recounting issues faced rather than providing actionable insights or case studies.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -127,10 +106,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T18:18:03",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses project management challenges and technical issues related to SharePoint, without a focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -163,48 +142,39 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-04-08T19:54:40",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the challenges of managing a SharePoint migration project and does not focus on Evidence-Based Management principles. While there are mentions of project management and innovation, there is no explicit discussion of empirical evidence, metrics, or data-informed decision-making that are central to EBM. The content lacks depth in relation to the key topics outlined for EBM, such as current value, time to market, or outcome management.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-04-08T19:54:33",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the challenges of managing a SharePoint migration project, focusing on project management issues rather than the Agile Product Operating Model. There are no direct mentions of agile principles, product management practices, or the core themes of APOM. The discussion is centred around project deadlines and technical challenges, lacking depth in agile methodologies or product-oriented mindsets.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T18:18:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and challenges related to SharePoint migration, lacking a focus on industry news, updates, or reviews.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T07:32:03",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a project involving the migration and deployment of a SharePoint portal, which relates to product delivery. It mentions a proof of concept and the challenges faced in meeting a deadline, indicating a focus on planning and execution. However, it lacks detailed exploration of methodologies, best practices, or metrics typically associated with product delivery, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -217,58 +187,19 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-03-15T07:31:45",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses a project related to SharePoint and its migration, but it primarily focuses on personal experiences and challenges rather than the principles of platform engineering or internal developer platforms.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T18:18:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues related to SharePoint migration and project management without any mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T07:32:24",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 10,
     "final_score": 30.0,
-    "reasoning": "The content discusses a specific project involving SharePoint and the challenges faced during migration and development. While it touches on aspects of software development, such as performance issues and the need for a custom application, it lacks a focused discussion on code quality principles, complexity theory, or best practices in software development. The primary emphasis is on project management and personal experiences rather than a deep exploration of the interplay between code and complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T18:18:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a project involving SharePoint migration and personal experiences, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T18:18:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical challenges and project management related to SharePoint, without a focus on transparency or accountability principles.",
+    "reasoning": "The content discusses a project related to SharePoint and its migration, but it primarily focuses on personal experiences and challenges rather than the principles of platform engineering or internal developer platforms.",
     "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-16T18:18:31",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical challenges and project management related to SharePoint, without a clear focus on business agility principles or practices.",
     "level": "Ignored"
   },
@@ -331,53 +262,26 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-04-08T19:54:15",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses a SharePoint migration project, focusing on challenges and solutions related to project management rather than DevOps principles. While there are elements of urgency and collaboration implied, the core themes of DevOps, such as automation, shared accountability, and continuous improvement, are not explicitly addressed. The discussion lacks depth in relation to DevOps practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T07:31:58",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a project involving the migration and rewriting of a SharePoint portal, which touches on technical challenges and solutions. However, it lacks a focused discussion on engineering practices or methodologies that enhance agility in software development. While it mentions the use of a custom ASP.NET application and a plan for deployment, it does not delve into principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence. The overall emphasis is more on project management and personal experiences rather than on technical excellence itself.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T18:18:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses technical challenges and project management related to SharePoint, with minimal focus on team dynamics, collaboration, or human factors in processes.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T18:18:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses project management and technical challenges related to SharePoint migration without a focus on learning or discovery processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T18:18:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a personal project involving SharePoint and does not focus on specific products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -400,25 +304,25 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T07:31:53",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the challenges and processes involved in migrating and configuring a SharePoint server, which aligns with system configuration. However, the focus is more on project management and personal experiences rather than detailed technical aspects of system configuration. The mention of a proof of concept and performance issues indicates some relevance, but the depth of technical discussion is limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-15T07:32:16",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a project involving the migration and rewriting of a SharePoint portal, which indicates some level of innovation in addressing a specific problem. However, it lacks a clear focus on the broader themes of the Ability to Innovate category, such as frameworks for measuring innovation or the role of Evidence-Based Management. The discussion is more about personal experiences and challenges faced during the project rather than a structured approach to fostering a culture of innovation or empirical data analysis.",
     "level": "Ignored"
   },
@@ -449,15 +353,6 @@
     "reasoning": "Content primarily focuses on a personal project related to SharePoint management and technical challenges, which does not align with portfolio management practices or strategic alignment.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T18:48:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a personal experience with a SharePoint project and does not focus on Scrum principles, practices, or product development methodologies.",
-    "level": "Ignored"
-  },
   "Engineering Practices": {
     "category": "Engineering Practices",
     "calculated_at": "2025-02-16T18:48:25",
@@ -469,10 +364,10 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-16T18:48:25",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses a project related to Sharepoint systems management and specific challenges faced without focusing on self-organisation principles or practices.",
     "level": "Ignored"
   },
@@ -487,10 +382,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T18:48:25",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a project management scenario related to Sharepoint migrations, deadlines, and technical challenges, with no clear references to Agile values or principles.",
     "level": "Ignored"
   },
@@ -523,20 +418,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T18:48:25",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a project involving SharePoint migrations and immediate project management issues, without mentioning the Definition of Done or Agile principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T18:48:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal experience with a SharePoint project and does not mention any Agile practices, scaling Agile frameworks, or organizational strategies related to Scaled Agile.",
+    "reasoning": "Content focuses on a project involving SharePoint migrations and immediate project management issues, without mentioning the Definition of Done or Agile principles.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -595,43 +481,31 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-03-15T07:31:45",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
-    "final_score": 18.0,
+    "final_score": 20.0,
     "reasoning": "While the content discusses SharePoint, which is a collaboration tool, the main focus is on personal challenges, project management issues, and technical problems encountered, rather than on enhancing collaboration within Agile teams or discussing features of collaboration tools.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T07:31:45",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses a specific project involving SharePoint and the challenges faced by the developer, which relates to the role of software developers. However, it lacks explicit references to Agile or DevOps methodologies, and the discussion is primarily focused on a single project rather than broader practices or principles that enhance productivity and collaboration in software development.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T15:12:19",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a project involving the migration and rewriting of a SharePoint portal, which is a software development task. It mentions specific technologies (MOSS, SharePoint, .NET) and touches on challenges faced during the development process. However, while it does relate to software development, the focus is more on personal experiences and project management rather than on methodologies or best practices in software development. The depth of technical discussion is limited, primarily recounting issues faced rather than providing a structured analysis or insights into software development practices.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-16T18:48:25",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on project management issues and challenges related to SharePoint migration, without directly addressing Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
@@ -653,7 +527,7 @@
     "reasoning": "The content primarily discusses project challenges and deadlines without focusing on estimation techniques or methodologies within Agile and Scrum frameworks.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T18:48:25",
     "ai_confidence": 0,
@@ -727,13 +601,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-04-08T19:54:45",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the challenges of managing a SharePoint migration project and does not explicitly mention Continuous Delivery principles or practices. While there are elements of project management and urgency in deployment, the focus is on problem-solving within a specific project context rather than on Continuous Delivery as a disciplined practice. The discussion lacks depth in terms of Continuous Delivery concepts, automation, or cultural aspects, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -766,15 +640,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-11T12:12:37",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a project involving the migration and rewriting of a SharePoint portal, which aligns with the theme of digital transformation through the adoption of modern digital technologies. However, while it touches on the challenges and strategies related to this transformation, it lacks a broader discussion on organisational culture, change management, or metrics for success, which are key aspects of the category. The focus is primarily on technical implementation rather than strategic adoption, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -783,15 +657,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content discusses a personal experience with project management and SharePoint server migration, focusing on challenges faced rather than on hypothesis formulation, experimentation, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T18:48:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses primarily on SharePoint server issues, project management, and deployment, with no mention or discussion of AI.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -823,13 +688,13 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-03-15T07:32:09",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a project involving a migration to Microsoft Office SharePoint Server and mentions a deployment schedule, but it lacks a focused discussion on deployment frequency as a core theme. While there are references to deadlines and deployment plans, the content primarily revolves around challenges faced during the migration process and does not delve into strategies for optimising deployment intervals or the significance of deployment frequency in Agile or DevOps practices.",
     "level": "Ignored"
   },
@@ -916,10 +781,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T18:48:25",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses project management and issues related to SharePoint deployment, without a focus on team dynamics, collaboration, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -961,19 +826,19 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T18:48:25",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on individual experiences with SharePoint and project challenges rather than on team collaboration dynamics.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T18:48:25",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a project timeline and technical challenges faced in migrating SharePoint without addressing the Definition of Ready principles or preparation for sprint planning.",
     "level": "Ignored"
   },
@@ -997,15 +862,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T10:46:56",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a project involving the migration and rewriting of a SharePoint portal, which touches on software architecture and problem-solving in a technical context. However, it primarily focuses on the challenges faced and the urgency of deadlines rather than delving deeply into best practices, principles of clean code, or methodologies that contribute to software craftsmanship. While there are elements of technical mastery, they are not the primary focus, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1016,31 +881,13 @@
     "reasoning": "Content primarily discusses SharePoint portal development and project management issues, without any mention of remote working challenges or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T18:48:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on SharePoint migration and project management challenges, with no mention of Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-16T18:48:25",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical challenges and project management related to a SharePoint migration, without discussing customer retention strategies or user engagement techniques.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T18:48:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on managing a SharePoint project, discussing challenges and technical solutions rather than Agile principles or methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1081,19 +928,19 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-16T18:48:25",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues and project management related to SharePoint and does not focus on customer satisfaction, customer experience, or related metrics.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-16T18:48:25",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a project management challenge related to SharePoint and does not focus on customer feedback mechanisms or practices for integrating feedback into the product development process.",
     "level": "Ignored"
   },
@@ -1135,13 +982,13 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T07:31:51",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 65.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses SharePoint, which is a Microsoft product that operates within the Windows ecosystem. While it does mention Windows indirectly through references to SharePoint and its integration with Microsoft Office SharePoint Server (MOSS), the primary focus is on project management and SharePoint functionality rather than on Windows itself. The discussion includes some technical aspects related to SharePoint's performance and deployment, which aligns with the Windows category, but it lacks a direct focus on Windows operating system features or troubleshooting. Therefore, while there is some relevance, it does not fully meet the criteria for a strong alignment with the Windows category.",
     "level": "Secondary"
   },
@@ -1156,15 +1003,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-10T18:58:30",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses various problems encountered while attempting to copy a SharePoint 2003 portal and the subsequent performance issues faced by users. It provides insights into the challenges of troubleshooting these issues, including failed export and import commands. However, while troubleshooting is a significant aspect of the narrative, the primary focus is on project management and the author's personal experiences rather than a systematic approach to troubleshooting. Therefore, while there is a relevant discussion, it is not the primary focus, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1186,13 +1033,13 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-15T07:32:01",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a project involving the migration and deployment of a SharePoint portal, which touches on deployment strategies. However, it primarily focuses on the challenges faced during the migration process rather than providing a structured discussion on specific deployment methodologies. The mention of a deployment schedule and the plan to use the Business Data Catalog indicates some alignment with deployment strategies, but the overall depth and focus on actionable insights are limited.",
     "level": "Ignored"
   },
@@ -1243,15 +1090,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T07:32:06",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the challenges and plans surrounding the migration and deployment of a SharePoint portal, which relates to the delivery of functional software. It mentions a proof of concept and the urgency of meeting customer needs, indicating an understanding of working software principles. However, it lacks a structured discussion on best practices or metrics for assessing software quality, which limits its depth in the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1264,55 +1111,55 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T18:48:25",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on a project involving SharePoint and does not discuss Scrum roles, team collaboration, or any related Scrum dynamics.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T18:48:25",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical project related to SharePoint migration, deadlines, and implementation challenges, without addressing team motivation or dynamics.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T13:15:18",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a real-world scenario involving a project to migrate a SharePoint portal, highlighting practical problem-solving strategies and the challenges faced. It reflects on adaptability and critical thinking in response to unexpected changes in project deadlines. However, while it touches on pragmatic approaches, the depth of discussion on Agile or DevOps principles is limited, and the focus is more on personal experience rather than structured methodologies.",
     "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T07:32:21",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a project involving the migration and deployment of a SharePoint portal, which touches on aspects of release management such as scheduling and planning. However, it lacks a structured approach to release management practices and does not delve into key topics like version control, risk management, or CI/CD. The focus is more on personal experiences and challenges rather than a comprehensive discussion on release management strategies.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T07:31:45",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a project involving the migration and rewriting of a SharePoint portal, which touches on aspects of software development and problem-solving. However, it lacks explicit discussions on engineering excellence principles, best practices, or continuous improvement processes. The focus is more on project challenges and personal experiences rather than a structured approach to engineering excellence.",
     "level": "Ignored"
   },
@@ -1334,15 +1181,6 @@
     "reasoning": "Content primarily discusses issues related to SharePoint server management and project planning, with no clear focus on asynchronous development principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T18:48:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses challenges related to Sharepoint and a project involving its migration, without addressing Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T18:48:26",
@@ -1354,13 +1192,13 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T07:32:13",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a project involving the migration and management of a SharePoint server, which touches on operational practices. However, it primarily focuses on personal experiences and challenges faced during the project rather than providing structured techniques or strategies for enhancing operational efficiency. The discussion lacks depth in terms of specific methodologies or best practices related to Agile, DevOps, or Lean frameworks.",
     "level": "Ignored"
   },
@@ -1382,24 +1220,15 @@
     "reasoning": "Content primarily discusses a project involving SharePoint and specific development challenges, with no clear connection to Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T18:48:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a project related to SharePoint and technical challenges faced, without any mention of scaling agile practices or methodologies.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:54:37",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a SharePoint migration project and the challenges faced in managing it. There are no direct mentions of the Scrum Master role or its responsibilities. While there are elements of project management and urgency, the content does not align with the core themes of the Scrum Master category, such as facilitating team effectiveness or promoting agile principles. The discussion lacks depth regarding Scrum practices or the influence of a Scrum Master on team dynamics.",
     "level": "Ignored"
   },
@@ -1423,25 +1252,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:54:42",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses the challenges of managing a SharePoint migration project and does not mention Test First Development principles, success criteria, or any testing methodologies. It focuses on project management and technical issues rather than the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:51:56",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on the technical challenges of managing a SharePoint migration project, with little emphasis on social technologies or collaboration frameworks. While there are mentions of user interactions and project management, these are not explored in the context of self-organisation, collective intelligence, or value delivery. The discussion lacks depth regarding social frameworks and does not align with the core themes of the category.",
     "level": "Ignored"
   },
@@ -1456,10 +1285,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:43:12",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to SharePoint and project management rather than focusing on the concept of Internal Developer Platforms.",
     "level": "Ignored"
   },
@@ -1474,73 +1303,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T07:31:45",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a project involving SharePoint and does not mention Scrum principles, roles, events, or artifacts. While it touches on project management challenges, it lacks any direct references to Scrum or its methodologies, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:42:00",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a project involving SharePoint migration and the challenges faced, with no explicit mention of the Shift-Left Strategy or its principles. While there are elements of project management and deadlines, the focus is not on integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-04-08T19:54:18",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on the challenges of managing a SharePoint migration project and the urgency of meeting a deadline. While it touches on project management aspects, it lacks explicit discussions on Common Goals within Agile or DevOps frameworks. The mention of a deployment schedule hints at alignment with objectives, but it does not delve into the significance of shared goals or strategic alignment, which are central to the category of Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-04-08T19:54:21",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content discusses a project involving SharePoint migration and the challenges faced, but it primarily focuses on the project management aspects and technical difficulties rather than on competence as a foundational principle. While there are hints of skill development and problem-solving, the discussion lacks depth in exploring continuous learning or the role of competence in delivering quality outcomes. The mention of being the only .NET developer in EMEA suggests a level of competence, but it is not the primary focus of the content.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-04-08T19:54:26",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a project involving SharePoint migration and the challenges faced, but it does not explicitly mention Continuous Improvement principles. While there is some alignment with the themes of adaptation and problem-solving, the focus is primarily on project management and immediate solutions rather than a systematic approach to Continuous Improvement. The depth of discussion on Continuous Improvement concepts is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:54:30",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily discusses the challenges of managing a SharePoint migration project and the urgency of meeting a deadline. While it touches on problem-solving and adapting to project demands, it lacks explicit discussions on Agentic Agility principles such as intentional shaping of outcomes, the role of intent, or the interplay between human and AI capabilities. The focus is more on project management and technical challenges rather than on the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }

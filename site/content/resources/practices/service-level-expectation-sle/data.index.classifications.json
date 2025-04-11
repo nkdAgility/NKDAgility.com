@@ -1,26 +1,17 @@
 {
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-13T09:33:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-14T18:03:05",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the Service Level Expectation (SLE) within the context of a Scrum Team's workflow, which touches on team dynamics and performance. However, it primarily focuses on the technical aspects of SLE calculation and its implications for workflow rather than exploring broader themes of team collaboration, communication, or shared ownership. While there are mentions of the Scrum Team, the discussion lacks depth in addressing the key topics outlined for the Team Collaboration category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-13T09:33:15",
     "ai_confidence": 0,
@@ -40,22 +31,22 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-06T15:44:51",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the Service Level Expectation (SLE) in relation to cycle time and flow within a Scrum Team's workflow, which directly ties into the concept of throughput. It highlights the importance of measuring how long it takes for work items to be completed, aligning with the definition of throughput. However, while it provides a good overview of SLE and its components, the depth of discussion on broader throughput strategies and techniques is somewhat limited, preventing a higher confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-13T09:33:19",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Service Level Expectations (SLE) and workflow management within Scrum, without a focus on Scrum Values.",
     "level": "Ignored"
   },
@@ -106,25 +97,25 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-07T12:51:47",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the Service Level Expectation (SLE) within the context of a Scrum Team's workflow, highlighting the importance of transparency, inspection, and adaptation, which are core principles of empirical process control. It explicitly mentions how the SLE is used to identify flow issues and adapt based on historical data, aligning well with the category's themes. However, while it provides a good level of detail, it primarily focuses on SLE rather than a broader discussion of empirical process control principles, which slightly limits its depth.",
     "level": "Secondary"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T11:38:34",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the concept of Service Level Expectation (SLE) within the context of Scrum, highlighting its practical application in forecasting workflow efficiency and addressing flow issues. It directly mentions Scrum practices and the importance of historical data for decision-making, aligning well with the core themes of pragmatic thinking. The depth of discussion is substantial, providing specific details on how to calculate and use SLE effectively, which supports the category's focus on real-world applications and problem-solving strategies.",
     "level": "Secondary"
   },
@@ -148,36 +139,39 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-13T09:33:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:27:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Service Level Expectations (SLE) within Scrum, focusing on workflow and predictability rather than innovation capabilities or Evidence-Based Management.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of Service Level Expectation (SLE) within a Scrum context, discussing its role in forecasting workflow efficiency and addressing flow issues. While it touches on aspects of inspection and adaptation, which are relevant to Agile practices, it does not explicitly discuss innovation or the mechanisms that foster it. The content lacks direct mentions of innovation metrics, learning cycles, or strategies for enhancing innovation capacity, leading to a low confidence score in relation to the 'Ability to Innovate' category.",
     "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-13T16:22:08",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Service Level Expectation (SLE) within the context of a Scrum Team's workflow, which relates to strategic alignment and optimisation of delivery processes. However, while it touches on the importance of historical data and predictability, it lacks a broader discussion on strategic approaches or leadership roles in fostering a strategic mindset. The focus is primarily on a specific metric rather than a comprehensive strategy, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-03-14T18:02:58",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the Service Level Expectation (SLE) within the context of a Scrum Team's workflow, which is related to Agile methodologies. However, it primarily focuses on the concept of SLE rather than Agile Planning Tools specifically. While it touches on aspects of predictability and flow, it lacks a comprehensive exploration of Agile Planning Tools, their functionalities, or techniques for backlog management. The discussion is somewhat relevant but does not delve deeply into the core themes of Agile Planning Tools.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -190,73 +184,73 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T15:45:57",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Service Level Expectation (SLE) within the context of a Scrum Team's workflow, which is relevant to the Scrum Master's role in facilitating team effectiveness and promoting agile principles. However, while it touches on aspects of Scrum, such as the importance of historical Cycle Time and the need for transparency, it does not delve deeply into the broader responsibilities or skills of the Scrum Master. The focus is more on a specific practice rather than a comprehensive discussion of the Scrum Master's role, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-14T18:02:41",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the Service Level Expectation (SLE) within the context of a Scrum Team's workflow, which directly relates to team performance metrics and the inspection and adaptation practices of Agile. It provides a clear explanation of how SLE can help identify flow issues and improve predictability, aligning with the category's focus on enhancing team dynamics and productivity. However, while it touches on important aspects of team performance, it lacks a broader discussion on collaboration, conflict resolution, or leadership roles, which limits its depth of discussion.",
     "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-10T13:55:45",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 72.0,
     "ai_mentions": 80.0,
     "ai_alignment": 65.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the Service Level Expectation (SLE) within the context of a Scrum Team's workflow, which is a key aspect of Agile Planning. It explicitly mentions how the SLE is used to forecast delivery times and improve predictability, aligning with Agile principles of iterative planning and adapting based on empirical data. The depth of discussion is substantial, providing insights into how SLEs are calculated and their importance in the Scrum framework. However, while it is focused on Agile methodologies, it does not cover broader Agile Planning strategies or techniques extensively, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-03-10T17:51:55",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the concept of Service Level Expectation (SLE) as a forecasting tool within the Scrum framework, detailing how it is used to predict delivery timelines based on historical Cycle Time data. It aligns well with the core themes of forecasting, such as using empirical data to manage flow issues and improve predictability. The depth of discussion is substantial, providing insights into the calculation and application of SLE, which enhances the overall understanding of forecasting in Agile contexts.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-03-11T00:19:12",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses Service Level Expectations (SLE) in the context of Scrum, focusing on forecasting and managing flow within the team's workflow. It explicitly mentions the use of historical Cycle Time data for estimation, aligning well with the core themes of estimation in Agile. The depth of discussion includes the importance of transparency and adapting based on empirical data, which are crucial for effective estimation practices. However, while it is relevant, it does not cover a broad range of estimation techniques or collaborative practices, which slightly limits its overall depth.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:08:48",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the concept of Service Level Expectation (SLE) within the context of Scrum, focusing on workflow and cycle time. While it touches on empirical data (historical Cycle Time) and the need for transparency, it does not explicitly engage with the broader themes of Evidence-Based Management, such as current value, ability to innovate, or outcome management. The discussion is more about Scrum practices than evidence-based decision-making, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -298,13 +292,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T17:08:45",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses Service Level Expectations (SLE) within the context of Scrum, focusing on workflow and predictability rather than Continuous Delivery principles. While it touches on aspects of flow and efficiency, it does not explicitly address Continuous Delivery practices, automation, or rapid feedback mechanisms. The discussion is more aligned with Scrum methodologies than with Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -355,19 +349,19 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-13T09:34:03",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Service Level Expectations (SLE) and its role in the Scrum Team's workflow, without a clear focus on the Daily Scrum event.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-13T09:34:04",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -382,19 +376,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-13T09:34:07",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Service Level Expectations (SLE) within the Scrum framework, which is not directly related to the Definition of Ready.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-13T09:34:08",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Service Level Expectations (SLE) and their role in Scrum, without addressing the Definition of Done.",
     "level": "Ignored"
   },
@@ -407,38 +401,17 @@
     "reasoning": "Content primarily discusses Service Level Expectations (SLE) within the context of Scrum, without a focus on cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-14T18:02:55",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 30,
-    "ai_depth": 25,
-    "non_ai_confidence": 0,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the Service Level Expectation (SLE) within the context of a Scrum Team's workflow, which is a key aspect of Agile methodologies. It directly mentions Scrum, a framework that software developers often use, and explains how SLE can help teams inspect and adapt their processes. However, while it aligns with Agile principles, it lacks broader discussions on DevOps practices and other modern engineering methodologies. The depth of discussion is moderate, focusing primarily on SLE without delving into related Agile practices or tools that support developers' roles.",
-    "level": "Secondary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-13T09:34:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T09:50:59",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily discusses the concept of Service Level Expectation (SLE) within the context of Scrum, a key Agile framework in software development. It explicitly mentions Scrum roles and practices, aligning well with the Software Development category. The depth of discussion includes details on how SLE is calculated and its importance in improving workflow predictability, which adds to its relevance. Overall, the content is focused on a specific aspect of software development methodologies, justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -487,58 +460,58 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-14T18:03:10",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Service Level Expectation (SLE) within the context of a Scrum Team's workflow, which is a specific Agile framework. While it mentions Scrum and touches on aspects of flow and predictability, it does not delve into broader Agile transformation strategies or principles. The focus is primarily on a tactical element of Scrum rather than the overarching themes of Agile transformation, such as cultural shifts or leadership roles. Therefore, while there is some relevance, it does not fully align with the category's primary focus.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-11T11:14:17",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the Service Level Expectation (SLE) within the context of a Scrum Team's workflow, which directly relates to operational practices in Agile. It mentions how SLE can help identify flow issues and improve predictability, aligning with the core themes of process optimisation and continuous improvement. However, while it provides a practical application of SLE, the depth of discussion is somewhat limited, focusing primarily on the definition and calculation of SLE rather than broader operational strategies or metrics.",
     "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-14T18:03:16",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the concept of Service Level Expectation (SLE) within the context of Scrum, which indirectly relates to decision-making by emphasising the importance of historical data and transparency in setting expectations. However, it lacks a direct focus on structured decision-making methodologies or evidence-based practices as outlined in the category definition. The discussion is primarily about workflow management rather than the broader principles of decision-making.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-14T18:03:18",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the Service Level Expectation (SLE) within the context of a Scrum Team's workflow, which is relevant to the delivery of working software. It mentions how SLE helps identify flow issues and adapt processes, aligning with the iterative development aspect of working software. However, the focus is more on the SLE concept rather than directly on working software itself, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-13T09:34:38",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Service Level Expectations (SLE) and its role in Scrum workflow, without focusing on the Sprint Review process or its key topics.",
     "level": "Ignored"
   },
@@ -614,29 +587,17 @@
     "reasoning": "Content heavily discusses Scrum roles and events, with no direct reference to Azure Pipelines or related CI/CD practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-11T13:08:52",
-    "ai_confidence": 82.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 0,
-    "final_score": 74.0,
-    "reasoning": "The content explicitly discusses the Service Level Expectation (SLE) within the context of a Scrum Team's workflow, which is a key aspect of Agile Project Management. It directly mentions Scrum, a core framework of Agile, and elaborates on how SLE can help teams inspect and adapt their processes, aligning well with agile principles of flexibility and iterative progress. The depth of discussion is significant, providing details on how to calculate and use SLE effectively, which enhances understanding of agile practices. However, while it is focused on Scrum, it does not cover broader agile principles or other frameworks, slightly limiting its overall alignment.",
-    "level": "Secondary"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-03-14T18:02:31",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the Service Level Expectation (SLE) within the context of a Scrum Team's workflow, which touches on aspects of flow and predictability. However, it primarily focuses on Scrum practices rather than Lean principles. While there are mentions of flow and cycle time, which are relevant to Lean, the overall discussion lacks depth in Lean concepts such as waste identification or continuous improvement. Therefore, while there is some alignment, it is not the primary focus of the content.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -667,10 +628,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-13T09:34:58",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of Service Level Expectation (SLE) within the Scrum framework, focusing on workflow and predictability rather than team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -730,15 +691,15 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-03-14T14:49:21",
-    "ai_confidence": 62.0,
+    "calculated_at": "2025-04-11T09:00:10",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses Service Level Expectations (SLE) in the context of Scrum, which indirectly relates to Lead Time by forecasting how long it should take for work items to flow from start to finish. However, the primary focus is on Cycle Time and the SLE itself, rather than a direct exploration of Lead Time as defined. While there are mentions of timeframes and expectations, the depth of discussion on Lead Time specifically is limited, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses Service Level Expectations (SLE), which relates to the time it takes for items to flow through a workflow, hinting at Lead Time. However, it primarily focuses on SLE rather than Lead Time itself. While it mentions the importance of historical Cycle Time and the need for transparency, it does not delve deeply into Lead Time as a distinct metric or its broader implications. The discussion lacks comprehensive detail on optimising Lead Time or its impact on business agility and customer satisfaction, which are key aspects of the category. Therefore, while there is some relevance, the primary focus remains on SLE rather than Lead Time, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -748,18 +709,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Service Level Expectations (SLE) within the context of Scrum, which is unrelated to Behaviour Driven Development principles and practices.",
     "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-11T14:19:03",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content explicitly discusses the concept of Service Level Expectation (SLE) within the context of a Scrum Team's workflow, which directly relates to Scrum practices. It highlights the importance of historical Cycle Time and the need for transparency, aligning well with Scrum principles of inspection and adaptation. However, while it touches on key aspects of Scrum, such as predictability and flow issues, it does not delve deeply into broader Scrum roles or the full spectrum of product development processes, which slightly limits its depth of discussion.",
-    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -790,37 +739,37 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-03-11T16:08:10",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the concept of Service Level Expectation (SLE) within the context of a Scrum Team's workflow, highlighting the importance of making the SLE transparent. It explicitly mentions the need for transparency in the calculation and use of SLE, which aligns well with the core themes of transparency in Agile processes. The depth of discussion is significant as it explains the components of SLE and its implications for team dynamics and predictability. However, while it focuses on transparency, it does not delve deeply into broader techniques or tools for promoting transparency beyond the SLE context.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-11T17:21:15",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly discusses the Scrum Team's use of Service Level Expectations (SLE) to manage workflow and improve predictability, which directly relates to team dynamics and performance. It aligns well with the core themes of Scrum, particularly in terms of inspection and adaptation practices. The depth of discussion is moderate, providing a clear explanation of SLE and its implications for the Scrum Team, but it could benefit from more detail on roles and collaboration techniques.",
     "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-03-13T14:58:59",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses Service Level Expectation (SLE) in relation to Cycle Time, highlighting its importance in forecasting workflow efficiency within a Scrum Team. It explicitly mentions Cycle Time as a basis for calculating SLE and emphasises the need for historical data to inform this metric. The discussion aligns well with the core themes of Cycle Time, particularly in terms of measuring and improving workflow efficiency. However, while it provides a good level of detail, the primary focus is on SLE rather than Cycle Time itself, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
@@ -871,11 +820,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-13T09:35:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:27:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Service Level Expectations (SLE) within the context of Scrum methodology, focusing on workflow and team performance rather than system configuration. There are no direct mentions of system configuration tools, practices, or methodologies. The discussion is centred around Scrum processes, which do not align with the core themes of system configuration. The depth of discussion is limited to Scrum practices, further indicating a lack of relevance to the category.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -885,15 +837,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Service Level Expectations (SLE) within the context of Scrum, which is not directly related to the management or implications of technical debt.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-13T09:35:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Service Level Expectations (SLE) within a single Scrum Team's workflow, without addressing scaling Scrum practices or frameworks.",
     "level": "Ignored"
   },
   "Remote Working": {
@@ -907,13 +850,13 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-03-14T18:02:52",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the Service Level Expectation (SLE) within a Scrum Team's workflow, focusing on how historical Cycle Time data informs the SLE calculation. While it touches on data-driven decision-making, it primarily centres on Scrum practices rather than explicitly addressing evidence-based leadership principles. The discussion lacks depth in exploring leadership implications or broader organisational improvements, which diminishes its alignment with the category.",
     "level": "Ignored"
   },
@@ -935,26 +878,17 @@
     "reasoning": "Content primarily discusses Service Level Expectations (SLE) and its role in Scrum workflow, without focusing on backlog refinement practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-13T09:35:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum Team's Workflow and service level expectations, which are focused on team-level practices rather than scaling agility across the organisation.",
-    "level": "Ignored"
-  },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-14T18:02:31",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the Service Level Expectation (SLE) within the context of a Scrum Team's workflow, which is relevant to product management methodologies. However, it primarily focuses on technical aspects of Scrum rather than the strategic alignment of product management. While it touches on the importance of historical data and predictability, it lacks a broader discussion on customer needs, business objectives, or the integration of Lean principles, which are core themes of product management.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -999,15 +933,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Service Level Expectations (SLE) within the context of Scrum, focusing on workflow and cycle time rather than validating product ideas through user engagement.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-13T09:35:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -1066,37 +991,37 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-13T15:22:04",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the Service Level Expectation (SLE) within the context of a Scrum Team's workflow, which is a specific Agile framework. It explicitly mentions Scrum and its practices, indicating a direct focus on Agile frameworks. The discussion aligns well with core themes of Agile, such as inspection and adaptation, and the importance of historical data for improving processes. However, while it provides a good level of detail about SLE, it does not explore other Agile frameworks or broader principles extensively, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:46:01",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses Service Level Expectations (SLE) within the context of Scrum, focusing on workflow and cycle time rather than the principles of Test First Development. There are no direct mentions of testing practices, success criteria, or the importance of automated testing, which are core to the Test First Development category. The discussion is more aligned with process management and flow efficiency rather than testing methodologies.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-14T18:03:07",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the concept of Service Level Expectation (SLE) within the context of a Scrum Team's workflow, which aligns with Scrum principles. However, it primarily focuses on a specific aspect of Scrum (SLE) rather than providing a comprehensive exploration of Scrum roles, events, or artifacts. The mention of historical Cycle Time and the need for transparency reflects some core Scrum values, but the overall depth and breadth of discussion are limited, preventing a higher confidence score.",
     "level": "Secondary"
   },
@@ -1107,15 +1032,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-13T09:32:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of Service Level Expectation (SLE) within Scrum, without a focus on specific products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -1129,13 +1045,13 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-03-06T13:33:11",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses Service Level Expectations (SLE) in the context of Scrum, which relates to flow efficiency by forecasting cycle times and identifying flow issues. However, while it touches on cycle time and the importance of transparency, it does not delve deeply into broader flow efficiency principles or techniques for optimising throughput. The focus is primarily on SLE rather than a comprehensive exploration of flow efficiency concepts.",
     "level": "Secondary"
   },
@@ -1157,29 +1073,17 @@
     "reasoning": "Content primarily discusses Service Level Expectations (SLE) within the context of Scrum, focusing on workflow and cycle time without addressing the interplay between social and technical systems.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-14T15:09:17",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 17.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the concept of Service Level Expectation (SLE) within a Scrum Team, highlighting the importance of making the SLE transparent. However, while it touches on transparency, it primarily focuses on the mechanics of SLE and flow within Scrum, rather than a broader discussion on transparency and accountability principles. The mention of transparency is explicit but limited in scope, and the depth of discussion does not fully explore the implications of accountability or the relationship between transparency and team dynamics.",
-    "level": "Secondary"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-14T18:02:34",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the Service Level Expectation (SLE) within the context of a Scrum Team's workflow, which is a specific Agile practice. While it touches on aspects of adaptability and inspection/adaptation, it primarily focuses on a tactical element of Scrum rather than broader organisational agility principles. The mention of historical Cycle Time and predictability aligns somewhat with agility concepts, but the overall discussion lacks depth in exploring organisational culture, leadership roles, or cross-functional team impacts, which are crucial for a higher confidence score in the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1192,78 +1096,48 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-06T14:45:40",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the concept of Service Level Expectation (SLE) in the context of Scrum, which directly relates to metrics and performance measurement. It highlights the importance of historical Cycle Time data for establishing SLE, emphasising evidence-based decision-making and the iterative learning cycle. The discussion on using SLE to identify flow issues and adapt processes aligns well with the core themes of continuous improvement and feedback loops. The depth of the content is substantial, providing a clear explanation of SLE and its implications for team dynamics and predictability.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-14T18:03:20",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the Service Level Expectation (SLE) within the context of a Scrum Team's workflow, which is relevant to Agile methodologies. However, it primarily focuses on operational aspects rather than broader product management strategies. While it mentions Scrum and the importance of historical data for improving predictability, it lacks a comprehensive exploration of Agile Product Management principles such as stakeholder engagement, product vision alignment, or customer feedback integration.",
     "level": "Secondary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-13T09:32:34",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses service level expectations within Scrum, which is not related to installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-13T09:32:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Service Level Expectations (SLE) within Scrum, without any mention of AI or automation technologies.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-13T09:32:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of Service Level Expectation (SLE) within Scrum, focusing on its definition and application rather than providing news or reviews related to Agile or DevOps.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T10:44:35",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Service Level Expectations (SLE) within the context of a Scrum Team's workflow, which is more aligned with Agile methodologies than with DevOps principles. While there are elements of flow and predictability mentioned, the focus is on Scrum practices rather than the broader DevOps philosophy of collaboration, automation, and shared accountability. The discussion lacks depth in terms of DevOps concepts and does not explicitly mention key DevOps themes such as continuous improvement or cross-functional collaboration.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-14T18:03:13",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the Service Level Expectation (SLE) within the context of a Scrum Team's workflow, highlighting the importance of team collaboration and adaptation based on historical data. It directly mentions Scrum practices, which are inherently tied to team dynamics and process improvement. The discussion aligns well with the category's focus on how teams communicate and adapt their processes to enhance productivity. However, while it provides a solid overview of SLE, it lacks deeper exploration of human factors and leadership roles, which slightly limits its depth of discussion.",
-    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1272,24 +1146,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Service Level Expectation (SLE) within the context of Scrum, focusing on workflow and predictability rather than engineering practices or methodologies that enhance technical excellence.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-13T09:32:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Service Level Expectations (SLE) within Scrum, with no reference to events, presentations, or discussions related to Agile or DevOps gatherings.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-13T09:32:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on service level expectations rather than code quality or complexity.",
     "level": "Ignored"
   },
   "Lean": {
@@ -1303,13 +1159,13 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-14T18:02:45",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the Service Level Expectation (SLE) within the context of a Scrum Team's workflow, which relates to value delivery by focusing on predictability and flow efficiency. However, while it touches on aspects of iterative development and the importance of historical data for improving delivery, it lacks a broader discussion on customer value, alignment with customer needs, or comprehensive strategies for maximising value delivery. The primary focus is on the SLE itself rather than on overarching value delivery principles.",
     "level": "Secondary"
   },
@@ -1322,33 +1178,12 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-13T09:32:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Service Level Expectations (SLE) within the context of Scrum, focusing on workflow and predictability rather than organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-14T18:02:47",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 75.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the Service Level Expectation (SLE) within the context of Scrum, which is a practical technique used to enhance Agile practices. It explicitly mentions how the SLE is calculated and its role in identifying flow issues, aligning well with the category's focus on practical techniques. The depth of discussion is substantial, providing insights into the SLE's components and its application in Scrum teams. However, while it touches on Agile methodologies, it does not delve deeply into tooling or broader DevOps practices, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
-  },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-13T09:33:00",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Service Level Expectations (SLE) within the context of Scrum, not Kanban principles.",
     "level": "Ignored"
   },
@@ -1399,24 +1234,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-14T18:03:02",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the concept of Service Level Expectation (SLE) within the context of a Scrum Team's workflow, which is directly related to product delivery methodologies. It explicitly mentions how SLE helps in identifying flow issues and adapting processes, aligning well with the iterative development and feedback loops central to product delivery. However, while it provides a good level of detail on SLE, it does not cover broader aspects of product delivery such as deployment strategies or cross-functional team roles, which limits its depth of discussion.",
     "level": "Secondary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-13T09:33:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1456,13 +1282,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T10:44:38",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the concept of Service Level Expectation (SLE) within the context of a Scrum Team's workflow. While it touches on agile practices, it does not explicitly address the Agile Product Operating Model or its core principles. The focus is more on Scrum-specific metrics and processes rather than the broader product-oriented mindset and governance aspects of APOM. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
@@ -1477,13 +1303,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:48:35",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the concept of Service Level Expectation (SLE) within a Scrum Team's workflow, which is more about process optimisation than the broader themes of social technologies. While it mentions transparency and adaptation, which are relevant to social technologies, the discussion lacks depth in exploring collaboration, decision-making, or the impact on organisational culture. The content does not explicitly address self-organisation or collective intelligence, which are key aspects of the category.",
     "level": "Ignored"
   },
@@ -1507,86 +1333,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:42:43",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 75.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly discusses the concept of Service Level Expectation (SLE) within the context of a Scrum Team's workflow, highlighting its role in inspecting and adapting processes. It aligns well with Scrum principles, particularly in terms of transparency and continuous improvement. However, while it provides a good level of detail about SLE, it does not delve deeply into other Scrum roles or events, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:40:58",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses Service Level Expectations (SLE) within the context of Scrum, focusing on workflow and cycle time rather than integrating testing, security, or compliance earlier in the development process. There are no direct mentions of the Shift-Left Strategy, and the discussion does not align with its core themes or provide depth on the topic.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:08:34",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Service Level Expectation (SLE) within the context of a Scrum Team's workflow, highlighting its role in identifying flow issues and the importance of inspecting and adapting based on historical data. While it does touch on aspects of Continuous Improvement, such as the need for empirical data and adaptation, the primary focus is on the SLE itself rather than a broader discussion of Continuous Improvement principles. The content provides a moderate level of detail about the SLE and its implications for team effectiveness, but it lacks a comprehensive exploration of Continuous Improvement strategies or frameworks.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:08:36",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Service Level Expectations (SLE) within the context of Scrum, focusing on workflow and predictability. While it touches on aspects of team performance and adaptation, it does not explicitly address the concept of Common Goals or their significance in aligning strategy with execution. The discussion lacks depth regarding shared objectives or frameworks like OKRs, which are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:08:39",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the Service Level Expectation (SLE) within a Scrum Team's workflow, which indirectly relates to competence through the concepts of inspection and adaptation. However, it primarily focuses on the mechanics of SLE rather than the broader themes of continuous learning, skill development, or fostering a culture of competence. The discussion lacks depth in exploring how competence impacts quality outcomes or decision-making, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:08:43",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the concept of Service Level Expectation (SLE) within a Scrum Team's workflow, which is a specific agile methodology. While it touches on aspects of workflow and predictability, it does not discuss the One Engineering System framework, its principles, or its integration across teams. The content lacks direct mentions of 1ES and does not align with the core themes of standardisation and integration of engineering practices.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T15:45:54",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses Service Level Expectations (SLE) within the context of Scrum, focusing on workflow and predictability. It does not explicitly mention Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes, autonomy, or adaptability. The discussion is centred around operational metrics rather than the transformative capacity of individuals or systems, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T17:26:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of Service Level Expectation (SLE) within the context of a Scrum Team's workflow, which is a key aspect of Agile product development. It explicitly mentions the use of SLE to identify flow issues and adapt processes, aligning well with the principles of iterative learning and continuous improvement. The depth of discussion is moderate, providing a clear explanation of SLE and its components, but it lacks broader context on how this fits into overall product strategy or customer feedback integration. Overall, while the content is relevant and detailed, it could benefit from a more comprehensive exploration of its implications for product development.",
+    "level": "Secondary"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T17:26:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Service Level Expectations (SLE) in the context of Scrum, which relates to measuring and forecasting the time it takes for items to flow through the workflow. This aligns with the Time to Market category as it touches on metrics like Cycle Time and the importance of predictability in delivery. However, while it provides a good overview of SLE and its implications for workflow efficiency, it lacks a broader discussion on strategies for improving Time to Market or its impact on customer satisfaction, which limits the depth of the discussion. Overall, the content is relevant but not comprehensive enough to fully encapsulate the Time to Market category.",
+    "level": "Secondary"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T17:26:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of Service Level Expectation (SLE) within the context of Scrum, focusing on workflow and team dynamics. There are no direct mentions of GitHub or its services, and while it touches on Agile methodologies, it does not align with GitHub's functionalities or best practices. The depth of discussion is limited to Scrum processes, which are outside the scope of GitHub discussions.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T17:26:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of Service Level Expectation (SLE) within the context of Scrum, discussing its mechanics and application without addressing the principles of Agnostic Agile. There are no direct mentions of Agnostic Agile or its core themes, and the discussion lacks depth regarding the ethical and context-driven aspects of agility. The content is more aligned with traditional Scrum practices rather than the broader, principle-based approach advocated by Agnostic Agile.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T17:27:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of Service Level Expectation (SLE) within a Scrum Team's workflow, which is a specific aspect of Agile project management. It does not directly discuss the principles of treating the organisation as a product, nor does it explore customer-centric strategies or organisational design. While there is a mention of inspecting and adapting processes, this is more about internal workflow management rather than a broader organisational strategy. Therefore, the content has minimal relevance to the 'Company as a Product' category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T17:27:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Service Level Expectations (SLE) within a Scrum Team's workflow, which is focused on operational efficiency and predictability rather than the principles of Cell Structure Design. There are no direct mentions of autonomous cells, decentralisation, or the Beta Codex, and the discussion lacks depth regarding the core themes of Cell Structure Design. Overall, the content is more aligned with traditional Scrum practices than with the decentralised organisational model described in the category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T17:27:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Service Level Expectations (SLE) within a Scrum context, discussing flow and predictability in team workflows. There are no direct mentions of Liberating Structures or their facilitation techniques. The content does not align with the core themes of Liberating Structures, which emphasise inclusive engagement and collaborative decision-making. The depth of discussion is limited to SLE, lacking any exploration of group dynamics or facilitation methods associated with Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T17:27:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of Service Level Expectation (SLE) within a Scrum Team's workflow, which is a specific agile practice. There are no direct mentions of Hybrid Agile or its challenges. While it touches on aspects of agile methodologies, it does not critically examine the integration of traditional project management with agile practices, nor does it discuss the implications or dysfunctions associated with Hybrid Agile. The depth of discussion is limited to explaining SLE without addressing the broader context of Hybrid Agile.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T17:27:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Service Level Expectations (SLE) within a Scrum framework, discussing how to forecast and manage workflow efficiency. While it touches on aspects of performance measurement, it does not explicitly mention or explore the concept of Unrealised Value or its indicators. The discussion lacks depth regarding potential improvements or innovation opportunities, which are central to the category of Unrealised Value. Overall, the content is more operational and tactical rather than strategic, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T17:27:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Service Level Expectations (SLE) within the context of a Scrum Team's workflow, focusing on flow issues and cycle time. While it touches on aspects of flow and predictability, which are relevant to scaling, it does not explicitly address the complexities of scaling Agile practices or frameworks. The discussion is more centred on Scrum-specific practices rather than broader scaling methodologies or cross-team collaboration, leading to a low confidence score in the context of the 'Scaling' category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T17:27:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Service Level Expectations (SLE) in the context of Scrum, which relates to measuring performance and flow within a team. However, it does not explicitly address Current Value or its importance in Evidence-Based Management. While it touches on metrics like Cycle Time and the need for transparency, it lacks a comprehensive exploration of how these metrics contribute to assessing Current Value or decision-making processes. The focus is more on operational aspects rather than the broader implications of Current Value.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T17:27:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 27,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the concept of Service Level Expectation (SLE) within the context of a Scrum Team's workflow. While it does touch on project management principles such as predictability and flow issues, it is heavily focused on specific Scrum practices rather than broader project management methodologies or principles. The mention of historical Cycle Time and the need for transparency aligns with project management concepts, but the depth of discussion is limited to Scrum, which is a specific agile methodology. Therefore, while there is some alignment with project management, the focus is too narrow to warrant a higher confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T17:27:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Service Level Expectations (SLE) within a Scrum context, which is a traditional Agile framework. It does not mention Open Space Agile or its principles, nor does it discuss psychological safety, co-creation, or iterative dialogue, which are key themes of the Open Space Agile category. The discussion is narrowly centred on workflow and predictability in Scrum, lacking any depth or alignment with the core tenets of Open Space Agile.",
     "level": "Ignored"
   }
 }

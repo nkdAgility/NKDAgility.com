@@ -7,7 +7,7 @@ ResourceType: course
 ResourceContentOrigin: human
 shorttitle: Applying Professional Scrum
 date: 2017-01-01
-weight: 770
+weight: 750
 creator: Martin Hinshelwood
 type: course
 kind: page
@@ -48,13 +48,17 @@ tags:
 - Agile Frameworks
 - Agile Planning
 - Agile Product Management
-- Market Adaptability
-- Practical Techniques and Tooling
-- Professional Scrum
-- Scrum Product Development
-- Scrum Team
-- Agile Project Management
 - Agile Transformation
+- Continuous Learning
+- Market Adaptability
+- Organisational Agility
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Team
+- Software Development
+- Team Collaboration
+- Team Performance
+- Scrum Master
 categories:
 - Scrum
 preview: naked-agility-Professional-Scrum-APS-Minecraft-1600x900-1.jpg

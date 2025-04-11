@@ -1,25 +1,25 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T20:55:57",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 50,
-    "final_score": 34.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum practices, such as the Definition of Done, spikes, and managing ad hoc work, which are not central to the DevOps philosophy. While there are brief mentions of productivity and team dynamics, these do not align closely with the core principles of DevOps, such as automation, shared accountability, or continuous improvement. The discussion lacks depth in DevOps-specific topics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:20:48",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum practices, such as the Definition of Done, spikes, and managing ad hoc work, which are more technical than social in nature. While there are elements of collaboration and decision-making, they are not the main focus. The discussion lacks depth in exploring social technologies as frameworks for enhancing collaboration or decision-making within teams, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -70,24 +70,24 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T12:22:54",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on general questions related to DevOps and Agility without an emphasis on metrics or learning principles.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-10T18:26:25",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 85.0,
     "ai_mentions": 90.0,
     "ai_alignment": 80.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
+    "final_score": 85.0,
     "reasoning": "The content provides a detailed discussion on various Scrum concepts, including the definition of done, acceptance criteria, spikes, and ad hoc work within the context of Scrum. It explicitly mentions Scrum roles, artifacts, and events, demonstrating a strong alignment with the core themes of Professional Scrum. The depth of discussion is significant, as it explores the nuances of these concepts and their implications for Scrum practice, indicating a thorough understanding of Scrum principles.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -97,27 +97,6 @@
     "final_score": 0.0,
     "reasoning": "The content provides a general invitation for questions on various topics including DevOps and Agility, but does not specifically focus on Agile frameworks themselves.",
     "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T12:22:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content is mainly about an open Q&A session covering various topics, including DevOps and Agility, without a specific focus on Scrum product development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-10T12:28:23",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content primarily revolves around a live event where the speaker answers questions related to Scrum, Agile, and DevOps. It explicitly mentions the event's schedule and format, indicating a clear connection to the category of 'Events and Presentations.' However, while it discusses the event and its context, the depth of discussion on specific presentations or structured learning experiences is somewhat limited, focusing more on the Q&A format rather than formal presentations or workshops. Therefore, while it aligns well with the category, it does not delve deeply into the structured learning aspect typically expected in this classification.",
-    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -247,13 +226,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T20:56:17",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum practices, specifically discussing the Definition of Done, spikes, and managing ad hoc work. While there are elements of quality assurance mentioned, they do not directly relate to Continuous Delivery principles or practices. The discussion lacks a clear emphasis on automation, rapid feedback, or delivery cycles, which are central to Continuous Delivery.",
     "level": "Ignored"
   },
@@ -304,15 +283,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T14:49:58",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on Scrum, a key Agile framework within software development. It discusses specific concepts such as the Definition of Done, acceptance criteria, spikes, and managing ad hoc work, all of which are integral to effective software development practices. The depth of discussion is substantial, providing clear explanations and practical insights that align well with the core themes of the Software Development category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -370,10 +349,10 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-18T12:22:54",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an Ask Me Anything session with a focus on Agile and general DevOps topics, with no specific mention of Azure Repos functionalities.",
     "level": "Ignored"
   },
@@ -442,10 +421,10 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-18T12:22:54",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about an AMA session that covers various topics from DevOps to Agility and does not focus specifically on Azure DevOps functionalities.",
     "level": "Ignored"
   },
@@ -458,18 +437,6 @@
     "reasoning": "Content primarily invites questions across a broad range of topics including DevOps and Agility without a clear focus on technical mastery, software craftsmanship, or engineering practices.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-07T14:26:01",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses various aspects of Scrum, including the definition of done, spikes versus refinement, and managing ad hoc work, which are relevant to software developers working within Agile frameworks. However, while it touches on these topics, the overall focus is more on a personal narrative and event description rather than a structured exploration of best practices or methodologies. The depth of discussion on Agile principles is present but not exhaustive, leading to a moderate confidence score.",
-    "level": "Secondary"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T12:22:54",
@@ -477,15 +444,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses general DevOps and Agility topics without a focus on Lean Product Development principles.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T12:22:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses DevOps and Agility without a clear focus on code quality or complexity theory.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -517,22 +475,22 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T17:25:38",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses key Scrum concepts such as Definition of Done, spikes, and managing ad hoc work, which are relevant to the Scrum Master's role. However, it lacks a direct focus on the responsibilities and influence of the Scrum Master, making it more of a general discussion on Scrum practices rather than a deep dive into the Scrum Master role specifically.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T12:22:54",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on a Q&A session about various topics, including DevOps and Agility, but does not specifically address Large Scale Agility or its principles and practices. It primarily mentions Scrum, which falls under team-level Agile practices.",
     "level": "Ignored"
   },
@@ -599,15 +557,6 @@
     "reasoning": "Content primarily focuses on a general Q&A session about various topics including DevOps and Agility, without specifically addressing organisational change processes or strategies.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T12:22:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on a Q&A session regarding various topics in DevOps and Agility without specifically addressing scaled Agile methodologies or practices.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "calculated_at": "2025-02-18T12:22:54",
@@ -616,18 +565,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on DevOps and Agile topics without addressing Lean Thinking principles or practices.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-10T14:34:44",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses various aspects of Scrum, including the roles, events, and the importance of team dynamics in achieving productivity. It touches on the definition of done, acceptance criteria, and how to manage ad hoc work, which are all relevant to team processes and collaboration. However, while it mentions these topics, the focus is more on technical details rather than a deep exploration of the human factors and methodologies that drive effective teamwork and process improvement.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -640,10 +577,10 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T12:22:54",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a general Q&A session regarding various topics including DevOps and Agility, but does not specifically discuss the principles or practices of Business Agility.",
     "level": "Ignored"
   },
@@ -667,10 +604,10 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-18T12:22:54",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a general Q&A session on DevOps and Agility without focusing specifically on Azure Boards.",
     "level": "Ignored"
   },
@@ -692,12 +629,12 @@
     "reasoning": "Content is an open Q&A session regarding various topics in DevOps and Agile, with no primary focus on Lead Time.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
-    "calculated_at": "2025-02-18T12:22:54",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on an AMA session covering various topics including DevOps and Agility, without a clear focus on Minimum Viable Product discussions.",
     "level": "Ignored"
   },
@@ -708,15 +645,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is about a general Q&A session with no focus on Agile leadership principles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T12:22:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is focused on a general Ask Me Anything session regarding DevOps and Agility, without a specific emphasis on AI and automation in Agile practices.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -764,15 +692,6 @@
     "reasoning": "The content primarily invites questions on various topics, including DevOps and Agility, without directly discussing market adaptability strategies or practices.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T12:22:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily invites questions on DevOps and Agility without a specific focus on AI applications in these areas.",
-    "level": "Ignored"
-  },
   "Working Software": {
     "category": "Working Software",
     "calculated_at": "2025-02-18T12:22:54",
@@ -784,10 +703,10 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T12:22:54",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a general Q&A session on various topics including DevOps and Agility, without a focus on Daily Scrum or its specific elements.",
     "level": "Ignored"
   },
@@ -802,10 +721,10 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T12:22:54",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content invites questions on various topics including DevOps and Agility, with no clear focus on Enterprise Agility specifically.",
     "level": "Ignored"
   },
@@ -816,15 +735,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is an open Q&A session on various topics without a focused discussion on Product Backlog.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T12:22:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not primarily focus on Agile Project Management; it invites questions on a wide range of topics including DevOps and Agility, without a detailed discussion on agile principles or practices.",
     "level": "Ignored"
   },
   "Psychological Safety": {
@@ -845,24 +755,6 @@
     "reasoning": "The content is primarily about an open forum for questions related to various topics in DevOps and Agile, and does not focus on the identification or resolution of technical issues.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T12:22:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about an AMA session with a focus on general topics related to DevOps and Agility rather than specific products or literature.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T12:22:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on an interactive Q&A session without specific news updates or reviews related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
     "calculated_at": "2025-02-18T12:22:54",
@@ -881,15 +773,6 @@
     "reasoning": "Content focuses on a Q&A session about DevOps and Agility with no personal anecdotes, reflections, or individual insights shared.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T12:22:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not primarily discuss scaling Scrum but invites questions on a variety of topics related to DevOps and Agility.",
-    "level": "Ignored"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
     "calculated_at": "2025-02-18T12:22:54",
@@ -901,10 +784,10 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T12:22:54",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily invites questions on various topics, not specifically focusing on Scrum values.",
     "level": "Ignored"
   },
@@ -928,13 +811,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:25:35",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the concepts of Definition of Done and acceptance criteria, which are related to quality assurance in software development. However, it does not explicitly discuss Test First Development principles or practices such as Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). The focus is primarily on Scrum roles and processes rather than on the Test First approach, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -949,10 +832,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T12:22:54",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily about an open Q&A session and does not focus specifically on Scrum Teams or their dynamics; it is too broad and lacks a central theme related to the Scrum framework.",
     "level": "Ignored"
   },
@@ -1019,21 +902,12 @@
     "reasoning": "Content primarily invites questions on a wide range of topics, including DevOps and Agility, without a specific focus on product delivery methodologies or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T12:22:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a Q&A session about various topics including DevOps and Agility, without a specific focus on scaling agile practices across organizations.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T12:22:54",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content provides an opportunity to ask questions on multiple topics, including DevOps and Agility, but does not focus primarily on organisational agility or discuss it as a central theme.",
     "level": "Ignored"
   },
@@ -1055,24 +929,6 @@
     "reasoning": "Content heavily discusses general DevOps and Agility topics without a focus on portfolio management.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T12:22:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily invites questions on various topics including DevOps and Agility, without a clear focus on resilience or organizational change.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T12:22:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily focuses on general questions and answers related to DevOps and Agile, without specifically addressing transparency or accountability.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
     "calculated_at": "2025-02-18T12:22:54",
@@ -1089,15 +945,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on an AMA session about various DevOps and Agility topics, but does not specifically discuss frequent releases or the relevant practices around them.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T12:22:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content is an invitation for questions related to DevOps and Agility but does not provide specific discussions or insights on practical techniques or tooling.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1129,10 +976,10 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-18T12:22:54",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on general DevOps and Scrum practices without specifically addressing Azure Pipelines.",
     "level": "Ignored"
   },
@@ -1147,23 +994,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T20:56:12",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum practices, such as the Definition of Done and managing ad hoc work, which are more aligned with Scrum methodology than the Agile Product Operating Model. While there are mentions of productivity and team dynamics, the discussion lacks a direct connection to the core principles of APOM, such as product-oriented mindset and continuous delivery. The depth of discussion on Scrum elements is significant, but it does not sufficiently address the broader themes of the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T12:22:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on providing answers to questions on various topics, notably DevOps and Agility, without a clear emphasis on discovery methodologies, learning processes, or fostering innovation.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1191,15 +1029,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on a Q&A session about DevOps and Agility without specific discussions on automated testing.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T12:22:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses general Agile topics and Scrum, with no clear focus on Scaling Kanban.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
@@ -1276,10 +1105,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T12:22:54",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not specifically discuss Agile values or principles but mentions Agile as one of many topics. The focus is on an Ask Me Anything session led by a Scrum Trainer, which primarily suggests discussions related to Scrum rather than the underlying values and principles of Agile.",
     "level": "Ignored"
   },
@@ -1357,31 +1186,31 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T20:56:15",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum practices and concepts, such as Definition of Done, spikes, and managing ad hoc work, without a clear emphasis on evidence-based management principles. While there are mentions of productivity and team capacity, these are not grounded in empirical metrics or data-informed decision-making, which are central to Evidence-Based Management.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T12:22:54",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily promotes an Ask Me Anything session without focusing on installation or configuration topics.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T12:22:54",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on general questions about DevOps and Agility without a clear focus on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -1414,63 +1243,63 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:31:32",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 85.0,
     "ai_mentions": 75.0,
     "ai_alignment": 90.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 82.0,
+    "final_score": 85.0,
     "reasoning": "The content extensively discusses various aspects of Scrum, including the definition of done, spikes versus refinement, and managing ad hoc work within a sprint. It provides detailed explanations of Scrum roles, events, and artifacts, demonstrating a strong alignment with Scrum principles. The depth of discussion is significant, as it addresses common misconceptions and practical applications of Scrum concepts, indicating a primary focus on the Scrum framework.",
     "level": "Primary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:12:12",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum practices, specifically the Definition of Done, spikes, and managing ad hoc work, without any direct mention or discussion of the Shift-Left Strategy. While there are references to quality and testing within the context of Scrum, these do not align with the proactive integration of testing and security earlier in the software development lifecycle as defined by the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T20:56:00",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum practices, such as the Definition of Done, spikes, and managing ad hoc work, which are relevant to team productivity and process improvement. However, it lacks a direct emphasis on Continuous Improvement as a primary focus. While it touches on aspects of refining processes and enhancing team effectiveness, it does not delve deeply into the broader principles of Continuous Improvement or provide empirical evidence or case studies that would strengthen its alignment with the category.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T20:56:03",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum practices, such as the Definition of Done and managing ad hoc work, rather than discussing Common Goals directly. While there are elements that touch on team productivity and capacity planning, these are not explicitly linked to the overarching strategic objectives or alignment principles central to Common Goals. The discussion lacks a clear connection to how these practices contribute to shared objectives within Agile or DevOps frameworks.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T20:56:05",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses key Scrum concepts such as the Definition of Done and the importance of managing ad hoc work, which indirectly relates to competence in terms of ensuring quality and effective delivery. However, it lacks a strong focus on continuous learning or skill development, which are central to the competence category. The discussion is more about Scrum practices than about fostering a culture of competence or professional growth.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
@@ -1486,13 +1315,13 @@
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T17:25:33",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum practices, such as the Definition of Done and managing ad hoc work, without discussing the intentional shaping of outcomes or the principles of Agentic Agility. There are no explicit mentions of agency, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }

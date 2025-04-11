@@ -9,7 +9,7 @@ ResourceImportId: 7149
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-15
-weight: 695
+weight: 660
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,7 +29,6 @@ aliasesArchive:
 - /resources/blog/visual-studio-2012-rtm-available-installed
 tags:
 - Install and Configuration
-- Products and Books
 - Software Development
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png

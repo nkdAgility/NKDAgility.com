@@ -2,7 +2,7 @@
 title: Is Your Engineering Culture Ready to Scale with Your Technology?
 description: Is your tech culture ready to scale? Discover how to foster collaboration, embrace continuous learning, and ensure your culture evolves with your growth.
 date: 2025-02-20T07:33:26Z
-weight: 770
+weight: 750
 ResourceId: yu9CmrDiBPc
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -33,17 +33,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Social Technologies
 - Organisational Culture
-- People and Process
-- Continuous Improvement
 - Sociotechnical Systems
+- Continuous Improvement
 - Organisational Change
 - Competence
+- Enterprise Agility
 resourceTypes:
 - video
 categories:
 - DevOps
-- Social Technologies
 
 ---
 Hex stacks can scale, but can your culture? This is a question that resonates deeply with me, and I believe it’s one of the most critical challenges we face in today’s fast-paced tech landscape. Scaling technology is often seen as the straightforward part of the equation. You simply add more servers, more clusters, and more automation, and voilà, you’re done. However, if your engineering culture doesn’t evolve alongside your technology, you’re setting yourself up for a fall.

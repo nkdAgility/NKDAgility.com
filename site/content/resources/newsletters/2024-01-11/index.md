@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: newsletters
 ResourceContentOrigin: Human
 date: 2024-01-11
-weight: 880
+weight: 875
 preview: naked-agility-technically-agile-1280×720-24Q1-Change-1.jpg
 author: MrHinsh
 resourceTypes: newsletter
@@ -20,9 +20,7 @@ aliasesArchive:
 - /newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
 - /resources/newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
 categories: []
-tags:
-- Events and Presentations
-- Products and Books
+tags: []
 
 ---
 **Kickstart 2024 with Our Unmissable Scrum Training Offer: Buy 1, Get 1 FREE!**

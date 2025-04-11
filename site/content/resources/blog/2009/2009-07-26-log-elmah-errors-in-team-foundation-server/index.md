@@ -9,7 +9,7 @@ ResourceImportId: 97
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-26
-weight: 675
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,16 +24,15 @@ aliasesArchive:
 - /log-elmah-errors-in-team-foundation-server
 - /resources/blog/log-elmah-errors-in-team-foundation-server
 tags:
-- Practical Techniques and Tooling
 - Azure DevOps
 - Software Development
 - Troubleshooting
 - Technical Mastery
-- Application Lifecycle Management
-- Software Developers
 - Azure Boards
 - Pragmatic Thinking
 - Technical Excellence
+- Working Software
+- Application Lifecycle Management
 preview: metro-binary-vb-128-link-1-1.png
 categories: []
 

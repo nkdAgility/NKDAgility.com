@@ -24,9 +24,8 @@ aliasesArchive:
 - /installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 - /resources/blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 tags:
-- Windows
 - Install and Configuration
-- Practical Techniques and Tooling
+- Windows
 - System Configuration
 - Software Development
 categories: []

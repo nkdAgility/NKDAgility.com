@@ -1,13 +1,13 @@
 {
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-14T16:19:34",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of engineering culture in scaling technology, which indirectly relates to product management by highlighting the need for collaboration and alignment within teams. However, it lacks direct mentions of product management methodologies, frameworks, or strategic decision-making processes. The focus is more on cultural aspects rather than the strategic alignment of customer needs and business objectives, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -22,47 +22,47 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T10:35:01",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 78.0,
     "ai_mentions": 60.0,
     "ai_alignment": 85.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 50,
-    "final_score": 75.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of culture in scaling technology, which aligns with DevOps principles of collaboration and continuous improvement. It mentions DevOps as a concept and critiques its superficial use, indicating a deeper understanding of its role in fostering a productive environment. The discussion on breaking down silos and promoting shared responsibility further supports its relevance to DevOps. However, while it touches on key themes, it does not delve deeply into specific DevOps practices or methodologies, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:42:14",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses the importance of collaboration, continuous learning, and cultural evolution in the context of scaling technology, which aligns closely with the core themes of Social Technologies. It provides detailed insights into how culture impacts team dynamics and decision-making, emphasising the need for genuine collaboration and reframing DevOps as a holistic approach. The depth of discussion on fostering a culture that supports innovation and continuous improvement further strengthens its relevance to the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-20T18:14:23",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of culture in scaling technology rather than focusing on software craftsmanship or engineering practices.",
     "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-20T18:14:24",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of culture in scaling organisations, which is a significant aspect of leadership, but it primarily focuses on cultural issues rather than direct leadership practices.",
     "level": "Tertiary"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-20T20:03:39",
     "ai_confidence": 0,
@@ -73,10 +73,10 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 70,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
+    "final_score": 70.0,
     "reasoning": "Content discusses the importance of culture in scaling Agile and DevOps practices, highlighting practical issues and strategies related to collaboration and learning in complex environments.",
     "level": "Secondary"
   },
@@ -91,46 +91,37 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "While the content discusses team dynamics and cultural scaling which are relevant to Agile, it focuses more on culture rather than specific Agile product management practices or methodologies.",
     "level": "Tertiary"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the interplay between culture and collaboration within teams as they scale, emphasizing the importance of human factors in the Agile and DevOps environments.",
-    "level": "Secondary"
-  },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 70,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
+    "final_score": 70.0,
     "reasoning": "The content discusses the importance of culture in scaling teams and the role of collaboration within that culture, though it primarily focuses more on the cultural aspects rather than directly on team collaboration techniques or strategies.",
     "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of culture in organizational scaling, which is related to value delivery through effective collaboration and Agile principles, but the primary focus is on cultural aspects rather than clear strategies for value delivery.",
     "level": "Tertiary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "While the content primarily discusses the importance of culture in scaling organizations, it references Scrum and mentions Agile concepts. However, the main focus is on culture rather than a detailed exploration of Agile frameworks.",
     "level": "Tertiary"
   },
@@ -154,10 +145,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses aspects of Agile culture and collaboration, which are aligned with Agile values, but it primarily emphasizes scaling culture over specific Agile principles.",
     "level": "Tertiary"
   },
@@ -181,28 +172,19 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on cultural and organizational aspects of scaling and Agile teams, rather than specific engineering practices such as clean code, TDD, or CI/CD.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses cultural challenges in scaling technology but does not primarily address news, updates, or reviews related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the importance of culture in scaling technology and organizations, with only a brief mention of continuous learning and collaboration, but not specifically on metrics or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -214,15 +196,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses engineering culture and scaling technologies, focusing more on tools and processes than on psychological principles of motivation or team dynamics.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agile and DevOps in the context of scaling engineering culture, which is related to the role of software developers, but the primary focus is on culture rather than specific software development practices.",
-    "level": "Tertiary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -244,21 +217,12 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses scaling engineering culture in the context of Agile practices and emphasizes the importance of culture in successful Agile execution, though it primarily focuses on cultural aspects rather than strategic planning directly.",
     "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of culture in scaling organizations and the limitations of tools. It does not focus on specific tools, methodologies, or practical applications related to Agile or DevOps frameworks.",
-    "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
@@ -271,10 +235,10 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses engineering culture and team dynamics, with a focus on Agile and DevOps, but does not address Continuous Integration principles or practices.",
     "level": "Ignored"
   },
@@ -298,30 +262,21 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of culture in scaling organizations, touching upon collaboration and learning which are related to self-organisation, but is primarily focused on the cultural aspects rather than self-organisation as a clear primary theme.",
     "level": "Tertiary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "While the content discusses the importance of culture in scaling technology and improving collaboration, it primarily focuses on cultural aspects rather than direct methodologies or practices of product delivery.",
     "level": "Tertiary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses scaling culture and organizational dynamics rather than code quality or complexity in software development.",
-    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -334,20 +289,23 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the importance of engineering culture in scaling technology rather than installation or configuration of tools.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of engineering culture in scaling technology rather than directly addressing Lead Time or its measurement.",
+    "calculated_at": "2025-04-11T08:54:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of engineering culture in scaling technology, with no direct mention of Lead Time or its measurement. While it touches on themes of efficiency and collaboration, which could indirectly relate to Lead Time, it does not provide a focused discussion on Lead Time as an observability metric or its relationship with Cycle Time. The depth of discussion is more about cultural aspects rather than specific metrics or strategies for optimising Lead Time, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -370,10 +328,10 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of culture in scaling Agile practices, which is a major theme, but it does not focus on specific large-scale Agile frameworks or practices.",
     "level": "Tertiary"
   },
@@ -397,22 +355,22 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T10:35:04",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of culture in scaling technology, which indirectly relates to agile principles like collaboration and continuous improvement. However, it does not explicitly mention the Agile Product Operating Model or its core themes, focusing instead on cultural aspects rather than product management practices.",
     "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "Content primarily discusses the importance of scaling culture alongside technology in Agile and DevOps contexts, emphasizing how culture affects collaboration, continuous learning, and overall success.",
     "level": "Secondary"
   },
@@ -445,10 +403,10 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 75,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
+    "final_score": 75.0,
     "reasoning": "The content discusses the importance of culture in scaling organizations and mentions concepts related to collaboration and continuous learning, aligning with themes of enterprise agility, though it primarily focuses on culture and not the broader organizational agility frameworks.",
     "level": "Secondary"
   },
@@ -461,30 +419,21 @@
     "reasoning": "Content heavily discusses engineering culture, collaboration, and ethos, with a focus on cultural aspects rather than technical practices in software craftsmanship.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on scaling culture in engineering and does not primarily discuss specific events or presentations.",
-    "level": "Ignored"
-  },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses more on cultural issues in scaling technology and teams rather than directly discussing Scrum Values like commitment, courage, focus, openness, or respect.",
     "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of culture in scaling teams and its relation to Agile and DevOps principles, which reflects on strategic aspects of implementing these methodologies. However, the primary focus is more on culture rather than specific strategic frameworks or techniques, making it a major but secondary theme.",
     "level": "Tertiary"
   },
@@ -508,19 +457,22 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T16:08:43",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on scaling engineering culture and collaboration, not specifically on measuring or enhancing innovation capabilities.",
-    "level": "Ignored"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of culture in scaling technology, touching on aspects like collaboration, continuous learning, and the role of DevOps. However, while it hints at innovation through cultural practices, it does not explicitly focus on innovation metrics or frameworks. The discussion is more about cultural readiness than a direct exploration of innovation capabilities, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile and engineering culture without a direct connection to platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
@@ -535,10 +487,10 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of culture in scaling organizations and the pitfalls of relying solely on tools, which aligns with human-centric approaches and adaptive cultures, but does not focus specifically on Beta Codex principles.",
     "level": "Tertiary"
   },
@@ -562,21 +514,12 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of culture in scaling teams and how it relates to collaboration, DevOps, and continuous learning, which are key elements of team performance. However, the focus is more on culture rather than direct techniques or metrics for team performance.",
     "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on scaling culture in Agile environments rather than on AI and automation in Agile practices.",
-    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -587,32 +530,14 @@
     "reasoning": "Content primarily discusses scaling technology and culture in organizations, rather than focusing on customer satisfaction principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on the significance of culture in scaling organizations rather than on specific Scrum principles or frameworks for scaling.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 70,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
+    "final_score": 70.0,
     "reasoning": "The content discusses the importance of culture in scaling and adapting within organizations, aligning well with the principles of organisational agility. However, it touches on Agile practices and tools like Scrum only tangentially, making agility a significant but secondary theme.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses scaling culture and the challenges associated with it, without a clear focus on transparency and accountability principles.",
-    "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -652,12 +577,12 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 65,
     "non_ai_confidence": 20,
-    "final_score": 60.0,
+    "final_score": 65.0,
     "reasoning": "The content discusses the importance of culture in relation to continuous learning and collaboration, indicating that learning should be integral to the operation of teams rather than a checkbox. However, it primarily focuses on scaling culture and collaboration rather than explicitly detailing practices or principles of continuous learning.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -670,10 +595,10 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 70,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
+    "final_score": 70.0,
     "reasoning": "The content discusses the cultural aspects and mindset required in Agile environments, emphasizing collaboration and the importance of culture over tools. While it mentions 'Scrum,' it primarily focuses on the broader implications of Agile as a philosophy rather than specific practices.",
     "level": "Secondary"
   },
@@ -684,15 +609,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses engineering culture and scaling challenges, with only a brief mention of the Product Owner role in a broader context. It does not focus on the specific responsibilities or practices of the Product Owner.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the importance of culture in scaling technology and teams, rather than focusing specifically on Scrum principles or product development processes.",
     "level": "Ignored"
   },
   "Remote Working": {
@@ -706,11 +622,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:00:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses engineering culture and the importance of collaboration and DevOps, which are not directly related to system configuration.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of engineering culture in relation to scaling technology, rather than focusing on system configuration. While it touches on aspects of collaboration and tools, it does not delve into specific system configuration practices, methodologies, or best practices. The discussion is more philosophical and cultural, lacking the technical depth required for the System Configuration category.",
     "level": "Ignored"
   },
   "Lean Startup": {
@@ -724,10 +643,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of scaling culture alongside technology in organizations, which aligns with change management principles, but it mainly focuses on cultural aspects rather than explicit change management strategies.",
     "level": "Tertiary"
   },
@@ -751,10 +670,10 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of culture in scaling teams and engineering, with minimal focus on collaboration tools themselves.",
     "level": "Ignored"
   },
@@ -769,22 +688,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the importance of culture in scaling organizations and teams, without addressing the concept of Definition of Done.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T16:42:16",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of culture in scaling technology, which indirectly relates to Evidence-Based Management principles, particularly in fostering collaboration and continuous learning. However, it lacks direct mentions of empirical evidence or specific metrics that are central to EBM. The focus is more on cultural aspects rather than data-informed decision-making, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -795,15 +714,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses scaling culture and DevOps, without a primary focus on Lean principles or methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content predominantly discusses the importance of organizational culture and its impact on scaling, with a focus on Agile methodologies and DevOps, but does not address Kanban principles or practices specifically.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
@@ -871,22 +781,22 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and the importance of culture in scaling organizations, without any clear focus on Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-06T13:21:57",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of organisational culture in scaling technology, which aligns with the themes of organisational change. It highlights the need for a culture that supports agility and collaboration, which is relevant to the category. However, it lacks specific frameworks or methodologies for implementing change and does not delve deeply into change management practices, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -901,28 +811,28 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses the importance of engineering culture and its implications for scaling technology, not the Daily Scrum specifically.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the importance of culture in scaling technology but does not address cross-functional teams as a primary topic.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of engineering culture, collaboration, and DevOps in scaling technology, which are relevant to market adaptability. However, the primary focus is on culture rather than specific adaptability strategies, making it a secondary theme.",
     "level": "Tertiary"
   },
@@ -937,19 +847,19 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "While the content primarily discusses the importance of culture in scaling organizations, it also mentions Agile principles and their relationship to business agility, classifying it as a major but secondary theme.",
     "level": "Tertiary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content discusses the importance of culture in scaling technology and its interplay with tools and processes in organizations, focusing on collaboration, DevOps, and continuous learning, which aligns well with the Sociotechnical Systems category.",
     "level": "Secondary"
   },
@@ -964,10 +874,10 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses culture in relation to scaling and DevOps without mentioning Azure DevOps specifically.",
     "level": "Ignored"
   },
@@ -982,10 +892,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of culture in team dynamics and collaboration, which is closely related to team motivation, though the primary focus is on scaling culture rather than specific motivational strategies.",
     "level": "Tertiary"
   },
@@ -997,24 +907,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, emphasizing culture in relation to Agile practices.",
     "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of culture in scaling Agile but does not focus primarily on frameworks or methodologies for scaling Agile practices.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of culture in scaling engineering teams and continuous learning, which aligns with the category's emphasis on fostering a culture of innovation and learning, though it is largely focused on culture rather than specific discovery methodologies.",
-    "level": "Tertiary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
@@ -1036,21 +928,12 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of culture in scaling agile practices and mentions Agile principles, but it primarily focuses on cultural issues versus being a direct discussion on transforming towards Agile methodologies.",
     "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses engineering culture, collaboration, and the challenges of scaling, but does not focus on AI or its application in Agile or DevOps.",
-    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -1072,29 +955,20 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the scaling of engineering culture and its importance in managing complexity in organizations, which aligns with the themes of complexity thinking. However, it primarily focuses on culture rather than directly addressing complexity science principles.",
     "level": "Tertiary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the importance of culture in scaling organizations and does not focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses engineering culture and scaling challenges rather than specific products or books relevant to Agile and DevOps.",
     "level": "Ignored"
   },
   "Decision Making": {
@@ -1144,15 +1018,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-06T14:32:55",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of organisational culture in scaling technology, which aligns with the themes of digital transformation. However, it primarily focuses on cultural aspects rather than the strategic adoption of digital technologies. While it mentions tools and methodologies, the emphasis is more on culture than on digital transformation initiatives or metrics for success.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -1163,22 +1037,16 @@
     "reasoning": "Content primarily discusses cultural aspects of scaling technology and Agile teams, with no clear focus on Azure Boards or its features.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content addresses aspects of scaling engineering culture and mentions Agile principles indirectly, linking them to project management practices, but the primary focus is on culture rather than specific Agile methodologies.",
-    "level": "Tertiary"
-  },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:00:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses organizational culture and its impact on scaling, rather than focusing on throughput measurement or optimization.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of engineering culture in scaling technology, with a focus on collaboration, continuous learning, and the pitfalls of relying solely on tools. While it touches on themes of efficiency and productivity, it does not explicitly mention throughput as a delivery metric or provide any analysis or visualisation of throughput. The discussion is more philosophical and cultural rather than metric-driven, leading to a low confidence score in alignment with the 'Throughput' category.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1192,13 +1060,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T16:42:14",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of culture in scaling technology, touching on themes like collaboration and continuous learning, which are relevant to Continuous Delivery. However, it does not explicitly mention Continuous Delivery or its principles, nor does it delve into specific practices or tools associated with it. The focus is more on cultural aspects rather than the delivery process itself.",
     "level": "Ignored"
   },
@@ -1222,13 +1090,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T15:30:06",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of culture in scaling technology, touching on collaboration and continuous learning, which are relevant to the Scrum Master's role. However, it does not explicitly mention the Scrum Master or delve into specific Scrum practices, making it a secondary focus rather than a primary discussion on the role.",
     "level": "Ignored"
   },
@@ -1243,10 +1111,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of culture in scaling agile practices and implies a leadership role in fostering that culture, although it primarily focuses on cultural aspects rather than explicit leadership strategies.",
     "level": "Tertiary"
   },
@@ -1261,19 +1129,19 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "While the content primarily discusses the importance of organizational culture in scaling operations and addresses the issues that arise as teams grow, it relates to systems thinking through the lens of organizational dynamics. However, it leans more toward cultural considerations than a focused analysis of organizational physics and systems thinking principles.",
     "level": "Tertiary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses aspects of engineering culture in relation to scaling and Agile practices, making Software Development a significant theme, but not the primary focus.",
     "level": "Tertiary"
   },
@@ -1286,15 +1154,6 @@
     "reasoning": "Content heavily discusses the importance of culture in scaling technology and teams without addressing frequent releases or software delivery principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of scaling organizational culture alongside technology to ensure resilience and adaptability but primarily focuses on engineering culture, which is a secondary theme.",
-    "level": "Tertiary"
-  },
   "Technical Debt": {
     "category": "Technical Debt",
     "calculated_at": "2025-02-20T20:03:39",
@@ -1306,37 +1165,28 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of culture in scaling engineering teams and relates to agile practices, but it primarily focuses on cultural aspects rather than specific technical leadership strategies.",
     "level": "Tertiary"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of scaling culture alongside technology and mentions key aspects of collaboration and continuous learning, which aligns with the themes of scaling agility. However, it does not explicitly address specific frameworks or metrics related to scaling agility, making it a secondary theme.",
-    "level": "Secondary"
-  },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses the importance of culture in scaling organizations, but it does not focus specifically on Scrum roles, team collaboration techniques, or specific Scrum practices.",
     "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on culture and scaling within organizations rather than discussing Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
@@ -1360,10 +1210,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-20T20:03:39",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of culture in scaling organizations and does not address the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -1408,86 +1258,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:37:54",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 41.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions Scrum in the context of daily scrums and tools like JIRA, but it primarily focuses on the cultural aspects of scaling technology rather than the Scrum framework itself. While there is some alignment with Scrum principles regarding collaboration and continuous improvement, the depth of discussion on Scrum-specific roles, events, or artifacts is minimal.",
     "level": "Tertiary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:36:14",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the importance of engineering culture in scaling technology, with a focus on collaboration, continuous learning, and the pitfalls of relying solely on tools. While it touches on themes relevant to software development, it does not explicitly mention or align with the Shift-Left Strategy, which focuses on integrating testing, security, and compliance earlier in the development lifecycle. The discussion is more about cultural aspects rather than the proactive measures associated with Shift-Left practices.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T16:42:03",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of fostering a culture of continuous learning and collaboration, which aligns with the principles of Continuous Improvement. However, while it touches on these themes, it does not delve deeply into specific Continuous Improvement strategies or frameworks, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T16:42:06",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of culture in scaling technology, touching on collaboration and continuous learning, which are relevant to Common Goals. However, it lacks explicit references to shared objectives or strategic alignment, making it more focused on cultural aspects rather than the core principles of Common Goals in Agile and DevOps.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T16:42:08",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of continuous learning and collaboration within engineering culture, which aligns well with the principles of competence. It highlights the need for ongoing skill development and the dangers of neglecting cultural evolution in the face of technological growth. The depth of discussion on fostering collaboration and embracing continuous learning indicates a strong focus on competence, although it does not explicitly mention the term 'competence' itself.",
     "level": "Secondary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T16:42:10",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of engineering culture in scaling technology, which is tangentially related to the principles of collaboration and integration found in the One Engineering System. However, it does not explicitly mention 1ES or its components, nor does it delve into specific practices or case studies related to 1ES. The focus is more on cultural aspects rather than the standardisation and integration of engineering processes.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T15:30:00",
+    "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of culture in scaling technology, touching on themes of collaboration and continuous learning, which are relevant to Agentic Agility. However, it lacks explicit mentions of the category and does not delve into the intentional shaping of outcomes or the distinction between human and AI capabilities. The focus is more on cultural aspects rather than the proactive agency described in Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T13:00:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of scaling culture alongside technology, which aligns with the core themes of scaling. It addresses collaboration, continuous learning, and the need for cultural evolution as teams grow, which are relevant to scaling methodologies. However, while it touches on these topics, it lacks specific frameworks or detailed strategies for scaling Agile practices, which slightly lowers the depth of discussion.",
+    "level": "Secondary"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T13:00:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of engineering culture in relation to scaling technology, which aligns with product development principles such as collaboration, continuous learning, and the integration of DevOps. It highlights the need for a culture that supports iterative improvement and customer-centric approaches, which are key themes in product development. However, while it touches on relevant topics, it does not delve deeply into specific product development methodologies or practices, leading to a moderately high confidence score.",
+    "level": "Secondary"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T13:00:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content discusses engineering culture and its importance in scaling technology but does not mention GitHub or its specific functionalities. While it touches on concepts related to collaboration and DevOps, these are not directly tied to GitHub services or practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T13:00:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of organisational culture in scaling technology, which indirectly relates to project management principles such as collaboration and continuous improvement. However, it lacks direct mentions of project management methodologies, tools, or roles, making it more of a secondary focus rather than a primary discussion on project management.",
+    "level": "Tertiary"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T13:00:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content discusses the importance of culture in scaling technology but does not explicitly mention Hybrid Agile or its specific challenges. While it touches on themes of collaboration and continuous learning, it lacks a critical examination of the integration of traditional and agile methodologies, which is central to the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T16:08:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of engineering culture in scaling technology, which indirectly relates to Time to Market by emphasising the need for collaboration and continuous learning to enhance efficiency. However, it does not explicitly mention Time to Market or its associated metrics, nor does it provide detailed strategies for improving it. The focus is more on cultural aspects rather than the direct measurement or improvement of Time to Market.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T16:08:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of engineering culture in relation to scaling technology, which indirectly touches on the concept of unrealised value by highlighting the potential risks and opportunities associated with cultural evolution. However, it does not explicitly mention 'unrealised value' or provide detailed indicators or strategies for identifying untapped opportunities. The focus is more on cultural aspects rather than a structured exploration of unrealised value within the context of Evidence-Based Management, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T16:08:58",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the importance of engineering culture in relation to scaling technology, but it does not explicitly mention Current Value or its metrics. While it touches on themes of collaboration and continuous learning, which can relate to customer satisfaction and performance feedback, it lacks a direct focus on the real-time assessment of value delivered by a product or service. The discussion is more about cultural challenges rather than evaluating tangible benefits, which is essential for Current Value.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T16:08:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of culture in scaling technology, which aligns with the Agnostic Agile principle of adapting practices to context. However, it does not explicitly mention Agnostic Agile or its principles, nor does it provide a detailed exploration of agile methodologies. The focus is more on cultural aspects rather than agile frameworks, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T16:08:48",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of organisational culture in scaling technology, which aligns with the principles of treating the organisation as a product. It mentions fostering collaboration, continuous learning, and the need for cultural evolution, which are key aspects of CaaP. However, while it touches on these themes, it does not explicitly frame the organisation as a product or delve deeply into customer-centric strategies or measurable outcomes, which limits the depth of discussion. Overall, the content is relevant but not fully aligned with the core focus of CaaP.",
+    "level": "Secondary"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T16:08:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of organisational culture in scaling technology but does not explicitly mention Cell Structure Design or its principles. While it touches on themes of collaboration and continuous learning, which are relevant to the decentralised nature of cells, it lacks a direct focus on the core concepts of the Beta Codex or the characteristics of autonomous cells. The depth of discussion is limited to general cultural aspects rather than specific strategies or challenges related to Cell Structure Design.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T16:08:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of culture in scaling technology and fostering collaboration, which aligns with some principles of Liberating Structures. However, it does not explicitly mention Liberating Structures or specific techniques related to facilitation. The focus is more on general cultural challenges and solutions rather than on structured facilitation methods that enhance participation and collaboration in groups. Therefore, while there is some conceptual alignment, the lack of direct mentions and depth in discussing Liberating Structures results in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T16:09:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of organisational culture in scaling technology, which aligns with some principles of Open Space Agile, such as fostering collaboration and continuous learning. However, it does not explicitly mention Open Space Agile or its specific practices, nor does it delve deeply into the core themes of the category. The focus is more on general cultural challenges rather than the specific methodologies or principles of Open Space Agile.",
     "level": "Ignored"
   }
 }

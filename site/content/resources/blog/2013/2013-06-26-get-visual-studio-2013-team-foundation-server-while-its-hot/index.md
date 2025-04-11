@@ -9,7 +9,7 @@ ResourceImportId: 9677
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-26
-weight: 760
+weight: 740
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,16 +28,17 @@ aliasesArchive:
 - /blog/what's-new-in-visual-studio-2013-team-foundation-server-preview
 - /resources/blog/get-visual-studio-2013-team-foundation-server-while-its-hot
 tags:
-- News and Reviews
-- Practical Techniques and Tooling
-- Software Developers
 - Software Development
+- Agile Planning
 - Agile Planning Tools
-- Agile Project Management
+- Application Lifecycle Management
+- Azure DevOps
 - Collaboration Tools
 - Portfolio Management
 - Team Collaboration
+- Working Software
 - Product Delivery
+- Agile Product Management
 categories: []
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 

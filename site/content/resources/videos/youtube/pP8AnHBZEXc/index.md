@@ -27,10 +27,6 @@ duration: 1906
 isShort: false
 tags:
 - Software Development
-- Agile Project Management
-- Events and Presentations
-- People and Process
-- Software Developers
 - Agile Transformation
 sitemap:
   filename: sitemap.xml

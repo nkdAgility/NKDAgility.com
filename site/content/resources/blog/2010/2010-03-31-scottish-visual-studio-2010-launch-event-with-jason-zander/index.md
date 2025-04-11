@@ -9,7 +9,7 @@ ResourceImportId: 57
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-31
-weight: 995
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,8 +23,7 @@ aliasesArchive:
 - /blog/scottish-visual-studio-2010-launch-event-with-jason-zander
 - /scottish-visual-studio-2010-launch-event-with-jason-zander
 - /resources/blog/scottish-visual-studio-2010-launch-event-with-jason-zander
-tags:
-- Events and Presentations
+tags: []
 categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 

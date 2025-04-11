@@ -29,9 +29,9 @@ aliasesArchive:
 - /resources/blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
 tags:
 - Troubleshooting
+- Software Development
 - Install and Configuration
 - System Configuration
-- Software Development
 categories: []
 preview: metro-problem-icon-2-2.png
 

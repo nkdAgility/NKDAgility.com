@@ -6,7 +6,7 @@ ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-01-13
-weight: 295
+weight: 230
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -20,20 +20,30 @@ aliasesArchive:
 - /why-handoffs-are-killing-your-agility
 - /blog/why-handoffs-are-killing-your-agility
 tags:
+- Operational Practices
 - Software Development
 - Business Agility
 - Cross Functional Teams
+- Flow Efficiency
+- Lean Principles
 - Organisational Agility
+- Pragmatic Thinking
 - Product Delivery
 - Team Collaboration
-- Operational Practices
-- Lean Principles
-- People and Process
 - Team Performance
+- Value Delivery
+- Enterprise Agility
+- Lean Product Development
+- Agile Strategy
+- Agile Transformation
+- Continuous Improvement
+- Cycle Time
+- Technical Excellence
+- Engineering Practices
 categories:
-- Social Technologies
+- Product Development
+- Lean
 - Engineering Excellence
-- DevOps
 preview: 2025-01-11-why-handoffs-are-killing-your-agility.jpg
 
 ---

@@ -31,8 +31,7 @@ tags:
 - Software Development
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
 ## Debunking the "Magic" Myth

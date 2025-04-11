@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:12:11",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an event and personal experiences rather than installation or configuration topics.",
     "level": "Ignored"
   },
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses a specific event (Developer Day Scotland) and personal experiences related to it, without any direct connection to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T18:12:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an event and personal experiences related to Developer Day Scotland, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T18:12:16",
@@ -96,15 +87,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses an event and personal experiences related to Developer Day Scotland, with no reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T18:12:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an event announcement without focusing on practical techniques or tooling related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +100,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T18:12:24",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on an event announcement and personal experiences, with no discussion on metrics or learning.",
     "level": "Ignored"
   },
@@ -154,38 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-04-08T19:52:49",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on an event announcement for Developer Day Scotland, with no explicit discussion or mention of Evidence-Based Management principles or metrics. It lacks any alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and does not provide any depth on the topic.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-04-08T19:52:44",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a networking event and does not mention or align with any principles of the Agile Product Operating Model. It lacks any discussion of agile methodologies, product management, or related topics.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T07:31:45",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content briefly mentions an event (Developer Day Scotland) but lacks substantial discussion on Agile or DevOps practices. While it provides a location and encourages attendance, it does not delve into industry news, updates, or reviews that would typically characterise the 'News and Reviews' category. The focus is more on personal experience and event promotion rather than providing insights or evaluations relevant to the core themes.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -213,45 +183,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a developer event and does not focus on platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T18:12:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a developer event and does not relate to AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T18:12:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an event and personal experiences, with no focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-10T13:15:07",
-    "ai_confidence": 78.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 70.0,
-    "ai_depth": 80.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content explicitly mentions 'Developer Day Scotland', which is a specific event, indicating a direct reference to an event. It aligns well with the category as it discusses a gathering focused on developers, which fits the theme of presentations and networking. The depth of discussion includes details about the event location and related activities, enhancing its relevance to the category.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T18:12:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an event and personal experiences, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -322,13 +253,13 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-04-08T19:52:32",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a networking event for developers and does not discuss any principles, practices, or cultural shifts related to DevOps. There are no direct mentions of DevOps concepts, and the discussion lacks depth in any relevant topics. Overall, it does not align with the core themes of the DevOps category.",
     "level": "Ignored"
   },
@@ -339,33 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on a social event rather than engineering practices or methodologies related to technical excellence.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T18:12:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on an event announcement and personal experiences rather than discussions on team dynamics, collaboration, or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T18:12:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on an event announcement and personal invitation rather than discussions on discovery, learning, or innovation methodologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T18:12:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an event rather than specific products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -397,10 +301,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T18:45:22",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses an event announcement without addressing innovation capabilities or practices.",
     "level": "Ignored"
   },
@@ -429,15 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on a developer event and social gathering, with no relevance to portfolio management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T18:45:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on an event announcement for Developer Day Scotland, with no clear connection to Scrum principles or product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -469,10 +364,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T18:45:22",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on an event announcement rather than Agile values or principles.",
     "level": "Ignored"
   },
@@ -510,15 +405,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses an event related to developers without mentioning the Definition of Done or its principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T18:45:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a specific event in Scotland without any reference or discussion related to scaled Agile methodologies, frameworks, or practices.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -584,15 +470,6 @@
     "reasoning": "Content primarily discusses a developer event and social gathering, with no focus on collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T18:45:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily promotes an event and does not discuss software development practices, Agile methodologies, or DevOps principles.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
     "calculated_at": "2025-02-16T18:45:22",
@@ -629,7 +506,7 @@
     "reasoning": "Content heavily focuses on a developer event and does not discuss estimation techniques or Agile practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T18:45:22",
     "ai_confidence": 0,
@@ -703,13 +580,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-04-08T19:52:54",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a networking event for developers and does not mention Continuous Delivery or related principles, practices, or tools. It lacks any discussion on software delivery practices, automation, or user feedback, which are essential to the category.",
     "level": "Ignored"
   },
@@ -756,15 +633,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on an event announcement and personal experiences related to Developer Day Scotland, with no connection to hypothesis-driven development or experimentation.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T18:45:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses a local event for developers, with no focus on AI or its applications in Agile or DevOps.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -983,15 +851,6 @@
     "reasoning": "Content primarily focuses on a local event in Glasgow and does not discuss remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T18:45:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a developer event and does not discuss Scaling Kanban or its principles.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T18:45:22",
@@ -999,15 +858,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on an event announcement and does not address customer retention strategies or user engagement.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T18:45:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a local developer event and does not discuss Agile Project Management concepts.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1280,15 +1130,6 @@
     "reasoning": "Content primarily discusses an event happening in-person, with no mention of asynchronous development principles, practices, or tools.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T18:45:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a developer event and does not discuss scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T18:45:22",
@@ -1325,24 +1166,15 @@
     "reasoning": "Content primarily discusses an event and personal experiences rather than Scrum principles, roles, and practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T18:45:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily announces an event without discussing scaling agility or relevant frameworks, practices, or leadership roles.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:52:47",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a networking event for developers and does not mention the Scrum Master role or its responsibilities. There is no discussion of Scrum principles, coaching, or team dynamics, which are essential to the category. The content is unrelated to the Scrum framework, leading to a very low confidence score.",
     "level": "Ignored"
   },
@@ -1366,25 +1198,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:52:51",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on an event announcement for Developer Day Scotland, with no direct mentions or discussions related to Test First Development principles, practices, or concepts. It lacks any relevant detail or context that aligns with the category, making it irrelevant to the topic.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:51:49",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on an event announcement for Developer Day Scotland, which includes networking and social activities. While it mentions networking, it does not delve into the principles of self-organisation, collaboration, or value delivery that are central to the category of Social Technologies. The discussion lacks depth and does not provide insights into methodologies or frameworks that promote collaboration or decision-making within organisations.",
     "level": "Ignored"
   },
@@ -1399,10 +1231,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:43:03",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a developer event and personal experiences, with no focus on Internal Developer Platforms.",
     "level": "Ignored"
   },
@@ -1417,73 +1249,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:59:52",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a developer event in Scotland and does not mention Scrum or its principles, roles, events, or practices. There is no discussion of Agile methodologies or team dynamics, which are core to the Scrum framework. The content lacks any depth or relevant information related to Scrum, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:41:51",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a developer event and does not discuss any aspects of the Shift-Left Strategy, such as integrating testing or security early in the development process. There are no relevant mentions or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-04-08T19:52:34",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on an event announcement for Developer Day Scotland, with no explicit discussion of Common Goals, Agile, or DevOps principles. It lacks any alignment with the core themes of shared objectives or strategic alignment, and the depth of discussion is minimal, primarily revolving around logistics and personal anecdotes.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-04-08T19:52:36",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on an event announcement for Developer Day Scotland, with no explicit discussion of competence, continuous learning, or related themes. It lacks depth and alignment with the principles of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-04-08T19:52:39",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on an event announcement for Developer Day Scotland, with no explicit discussion or alignment with Continuous Improvement principles. It lacks any mention of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation, which are core themes of the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:52:42",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on an event announcement for Developer Day Scotland, with no explicit discussion of Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, adaptability, or the interplay between human and AI capabilities. The content lacks depth and relevance to the category, making it unsuitable for classification under Agentic Agility.",
     "level": "Ignored"
   }

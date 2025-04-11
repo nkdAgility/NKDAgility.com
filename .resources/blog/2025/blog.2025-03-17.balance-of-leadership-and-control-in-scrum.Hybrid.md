@@ -6,7 +6,7 @@ ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-03-17T09:00:00
-weight: 460
+weight: 405
 AudioNative: true
 creator: Martin Hinshelwood
 contributors: 
@@ -20,19 +20,23 @@ aliasesArchive:
 - /blog/balance-of-leadership-and-control-in-scrum
 categories:
 - Scrum
-- Social Technologies
-- Leadership
-tags:
-- Accountability
-- Scrum Product Development
-- Scrum Team
-- Scrum Master
-- Professional Scrum
+- Product Management
 - Technical Leadership
+tags:
+- Professional Scrum
+- Scrum Team
 - Agile Product Management
-- People and Process
+- Agile Frameworks
+- Software Development
+- Scrum Master
 - Agile Leadership
+- Pragmatic Thinking
 - Team Performance
+- Agile Transformation
+- Organisational Agility
+- Agile Strategy
+- Sociotechnical Systems
+- Product Delivery
 
 ---
 Scrum is built on self-management, yet accountability cannot exist without authority. If Scrum Masters and Product Owners are held responsible for outcomes, how much control should they have? Too much, and teams lose autonomy. Too little, and they become ineffective. This article explores the nuanced balance of leadership, authority, and control in Scrum—how influence must be complemented by decisive action to enable true agility.

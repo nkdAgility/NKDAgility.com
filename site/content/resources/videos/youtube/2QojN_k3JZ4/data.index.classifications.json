@@ -10,31 +10,31 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T14:53:26",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of 'done' in Agile teams without a focus on metrics, data, or learning mechanisms.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T14:53:27",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of 'done' in Agile teams, which is not related to installation or configuration processes.",
     "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-14T20:35:01",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 34.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on leadership expectations regarding quality and the definition of 'done', but it lacks a comprehensive discussion on leadership practices or strategies. The mention of leadership is not a primary focus, and the overall alignment with the core themes of leadership in Agile is limited.",
     "level": "Ignored"
   },
@@ -49,13 +49,13 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T18:11:12",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the concept of 'done' in Agile teams, focusing on quality and expectations, but does not explicitly mention Evidence-Based Management or its key topics. While it touches on the importance of clarity and quality assurance, it lacks empirical evidence or metrics that are central to EBM. The discussion is more about Agile practices than data-informed decision-making.",
     "level": "Ignored"
   },
@@ -77,24 +77,6 @@
     "reasoning": "Content primarily discusses the definition of 'done' in Agile teams, which is not central to Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T14:53:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the definition of 'done' in Agile teams, which is not directly related to code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T14:53:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the definition of 'done' in Agile teams without a clear focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
     "calculated_at": "2025-02-17T14:53:39",
@@ -103,18 +85,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of 'done' in Agile teams without a clear focus on market adaptability strategies or practices.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-06T15:01:25",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content briefly touches on the expectations of leadership regarding the definition of 'done' in Agile teams, indicating a connection to team dynamics and the role of leadership. However, it lacks a detailed exploration of how these expectations influence collaboration or process methodologies, resulting in a moderate confidence score.",
-    "level": "Secondary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -134,15 +104,6 @@
     "reasoning": "Content heavily discusses the concept of 'done' in Agile teams, which is directly related to Agile principles and practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T14:53:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of 'done' in Agile teams without providing news, updates, or reviews related to Agile methodologies or practices.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T14:53:46",
@@ -154,15 +115,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-14T20:35:01",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 45.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 35.0,
     "non_ai_confidence": 0,
-    "final_score": 40.0,
+    "final_score": 45.0,
     "reasoning": "The content briefly touches on the expectations of organisations regarding quality and the definition of 'done' in Agile teams, which hints at the interplay between organisational culture and software delivery. However, it lacks a detailed exploration of sociotechnical interactions and does not explicitly discuss the integration of social and technical aspects, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -175,20 +136,11 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T14:53:51",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the concept of 'done' in Agile teams without a clear focus on Agile Product Management practices or methodologies.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T14:53:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the definition of 'done' in Agile teams, which is not primarily about organisational resilience or change management.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -202,23 +154,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-14T20:35:01",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the expectations of quality within teams, which relates to organisational agility, but it lacks explicit discussions on agile methodologies, leadership roles, or strategies for enhancing adaptability. The mention of 'definition of done' hints at agile practices but does not delve into the broader implications of organisational agility.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T14:53:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the concept of 'done' in Agile teams without any mention of AI or automation technologies.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -232,15 +175,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:59:34",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 67.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the concept of 'done' in Agile teams, which relates to collaboration and decision-making within teams. It highlights the importance of clarity, consistency, and quality assurance, aligning with the core themes of social technologies. However, while it touches on collaboration and leadership engagement, it lacks a broader discussion on social frameworks or methodologies, which limits its depth in the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -278,35 +221,17 @@
     "reasoning": "Content primarily discusses the concept of 'done' in Agile teams, which is more focused on Agile practices rather than the broader principles of business agility.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T14:54:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on the concept of 'done' in Agile without discussing specific tools, methodologies, or practical techniques for implementation.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T14:54:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of 'done' in Agile teams without reference to specific events, presentations, or discussions related to Agile methodologies.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-14T20:35:01",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly touches on the concept of 'done' in Agile teams, which relates to product delivery, but lacks explicit discussion on methodologies, practices, or detailed insights into the delivery process. It hints at quality expectations but does not delve into the core themes of product delivery such as planning, testing, or deployment.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -315,15 +240,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the definition of 'done' in the context of agile teams without addressing broader organisational implications or enterprise-level agility.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T14:54:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of 'done' in Agile teams without reference to specific products, books, or tools related to Agile methodologies.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -337,35 +253,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T18:11:06",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the concept of 'done' in Agile, which is relevant to Agile practices but does not explicitly address the Agile Product Operating Model or its core principles. While it touches on quality assurance and team collaboration, it lacks a direct focus on product management, operational stability, or the transition from project to product ethos, which are key aspects of the APOM. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T18:10:49",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the concept of 'done' within Agile teams, which is more aligned with Agile methodologies than DevOps principles. While it touches on quality assurance and collaboration, it lacks explicit discussions on DevOps practices such as automation, shared accountability, or continuous improvement. The depth of discussion is limited to Agile-specific strategies, which do not fully encompass the broader DevOps philosophy.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T14:54:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the expectations of quality and the definition of 'done' in Agile teams, without a focus on discovery or learning processes.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -404,39 +311,24 @@
     "reasoning": "Content primarily discusses the concept of 'done' in Agile teams, which is more related to project management and team expectations rather than engineering practices or software craftsmanship.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T15:26:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the definition of 'done' in Agile teams and does not address Kanban principles or scaling it in large organizations.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T15:26:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T23:27:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Agile concept of 'done' and does not pertain to system configuration or related practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T15:26:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on the definition of done in Agile teams without addressing scaling Agile or enterprise-level coordination.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of 'done' in Agile methodologies, discussing quality expectations and team dynamics rather than system configuration. There are no direct mentions of system configuration, and while there are some tangential references to quality assurance and team collaboration, these do not align with the core themes of system setup, automation, or maintenance. The depth of discussion is also limited to Agile practices, which are outside the scope of system configuration.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T15:26:55",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the definition of done in the context of team roles, which leans towards specific Agile practices rather than the broader Agile philosophy.",
     "level": "Ignored"
   },
@@ -460,11 +352,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T15:26:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the concept of 'done' in agile teams, which is not directly related to Lead Time or its measurement and implications.",
+    "calculated_at": "2025-04-11T09:19:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of 'done' in Agile, discussing quality expectations and the importance of clarity and consistency in task completion. While it touches on aspects that could indirectly relate to Lead Time, such as reducing rework and enhancing quality, it does not explicitly mention Lead Time or provide a detailed discussion on its measurement or optimisation. Therefore, the content does not align well with the category of Lead Time.",
     "level": "Ignored"
   },
   "Team Motivation": {
@@ -496,10 +391,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T15:26:55",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the Definition of Done, which is not relevant to the Definition of Ready.",
     "level": "Ignored"
   },
@@ -559,15 +454,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T17:30:45",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the concept of 'done' in Agile, which is directly related to the delivery of working software. It highlights the importance of quality, clarity, and consistency in meeting customer expectations, aligning well with the core themes of the category. The depth of discussion is substantial, providing strategies for improving understanding and implementation of the definition of done, which is crucial for delivering functional software. However, while it focuses on quality and expectations, it does not delve deeply into metrics or specific case studies, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -596,21 +491,12 @@
     "reasoning": "Content primarily discusses the expectations around a standard of quality in Agile teams rather than Continuous Learning principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T15:26:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the concept of 'done' in Agile teams, which does not focus on scaling Scrum practices or frameworks. It does not represent a clear alignment with the topic of scaling Scrum.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T15:26:55",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of 'done' in Agile teams without reference to evidence-based leadership or empirical data informing decision-making.",
     "level": "Ignored"
   },
@@ -661,10 +547,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T15:26:55",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the definition of 'done' in Agile teams without directly addressing leadership roles, practices, or the environment fostered by Agile leadership.",
     "level": "Ignored"
   },
@@ -724,10 +610,10 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T15:26:55",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the expectation of quality without addressing self-organisation principles or practices.",
     "level": "Ignored"
   },
@@ -769,13 +655,13 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-13T15:31:18",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the concept of 'done' within Agile teams, which is a key aspect of Agile practices. It highlights the importance of clarity, quality assurance, and collaboration in defining 'done', aligning with Agile principles. However, while it touches on Agile transformation themes, it lacks a broader discussion on methodologies, frameworks, or change management strategies, which limits its depth and overall alignment with the category.",
     "level": "Secondary"
   },
@@ -808,20 +694,11 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T15:26:55",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on the definition of done and quality expectations in Agile teams, rather than on Agile strategy or its implementation at an organizational level.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T15:26:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the expectations around the definition of 'done' in Agile teams but does not focus on software developers' roles or practices within Agile and DevOps frameworks.",
+    "reasoning": "Content focuses on the definition of done and quality expectations in Agile teams, rather than on Agile strategy or its implementation at an organizational level.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -853,10 +730,10 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-17T15:26:55",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not focus on cross-functional teams but rather discusses the concept of 'Done' in Agile teams without addressing cross-functional collaboration or team structures.",
     "level": "Ignored"
   },
@@ -889,13 +766,13 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-11T14:28:42",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of the 'definition of done' in agile teams, which relates to leadership expectations and quality assurance. It mentions engaging leadership and collaborative definitions, aligning with technical leadership principles. However, it lacks depth in exploring broader technical leadership strategies and agile methodologies, focusing more on the concept of quality rather than the leadership role itself.",
     "level": "Secondary"
   },
@@ -910,10 +787,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T15:26:55",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without addressing innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -928,32 +805,35 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T15:26:55",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on the expectation of quality and the concept of 'done', which is a specific aspect of Agile but does not discuss Agile frameworks as a primary topic.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-14T20:35:01",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly touches on the concept of 'done' in Agile teams, which relates to team performance and quality expectations. However, it lacks explicit discussions on strategies, practices, or methodologies aimed at maximising team effectiveness. The mention of leadership expectations hints at a connection to team dynamics but does not provide sufficient depth or detail on how these factors influence overall team performance.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T15:26:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T23:27:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the definition of done in Agile teams, which is not a primary discussion about throughput or its measurement.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of 'done' in Agile teams, focusing on quality and expectations rather than throughput as a delivery metric. While it touches on aspects of team performance and quality assurance, it does not explicitly mention throughput or provide a detailed analysis of it as a metric. The discussion is more about improving clarity and consistency in definitions rather than measuring or visualising throughput, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -983,18 +863,6 @@
     "reasoning": "Content primarily discusses the concept of 'done' in the context of Agile teams, focusing on expectations and quality rather than employee motivation or engagement strategies.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-14T20:35:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content briefly touches on the concept of 'done' in Agile teams, which relates to quality expectations in project management. However, it lacks explicit discussions on Agile principles, frameworks, or roles, and does not provide sufficient depth or detail on Agile methodologies, resulting in a low confidence score.",
-    "level": "Ignored"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
     "calculated_at": "2025-02-17T15:26:55",
@@ -1006,22 +874,22 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T15:26:55",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of 'done' in Agile teams, which does not directly relate to Agile Planning Tools.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T18:11:09",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 12,
     "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the concept of 'done' in Agile, which is related to quality assurance and expectations in software delivery. However, it does not explicitly address Continuous Delivery principles or practices. While it touches on quality and clarity, it lacks a focus on automation, rapid feedback, or specific Continuous Delivery strategies, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -1036,22 +904,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T15:26:55",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the expectations of quality and leadership perspectives rather than elaborating on the Definition of Done itself or its specific criteria and importance in Agile teams.",
     "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-03-13T16:39:11",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the concept of 'done' in Agile teams, highlighting the role of leadership in shaping quality expectations, which aligns with the category's focus on organisational culture. It addresses how cultural elements influence team dynamics and the importance of collaboration in defining quality standards. The depth of discussion is significant, providing strategies for engaging leadership and fostering a culture of quality, but it does not delve deeply into broader cultural transformations or case studies, which slightly limits its alignment.",
     "level": "Secondary"
   },
@@ -1075,15 +943,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-13T15:08:37",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 87.0,
     "ai_mentions": 15.0,
     "ai_alignment": 40.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily discusses the concept of 'done' within Agile methodologies, which is a key aspect of software development practices. It addresses quality assurance, clarity in task completion, and the importance of collaboration in defining project standards, all of which align closely with the core themes of software development. The depth of discussion is substantial, providing strategies for improving understanding and implementation of the definition of done, which is crucial for maintaining quality in software projects.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1101,15 +969,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the definition of done in Agile teams, which is not directly related to the Product Backlog or its management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T15:26:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the concept of 'done' in Agile teams, but does not specifically engage with Scrum principles, roles, or product development processes.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -1141,10 +1000,10 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T15:26:55",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content briefly touches on the concept of 'done' but does not discuss Agile Planning methodologies, practices, or principles in a central manner.",
     "level": "Ignored"
   },
@@ -1195,13 +1054,13 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-11T16:18:10",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the concept of 'done' in Agile, which relates to quality expectations and team alignment, reflecting Agile principles of collaboration and customer-centricity. However, it primarily focuses on practical implications rather than explicitly addressing Agile values or principles in depth. The discussion is relevant but lacks a comprehensive exploration of Agile's core values and principles.",
     "level": "Secondary"
   },
@@ -1241,15 +1100,6 @@
     "reasoning": "Content primarily explores the concept of 'done' in Agile teams without addressing strategic approaches or alignment with Agile, Scrum, or DevOps frameworks.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T15:26:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the concept of 'done' in Agile teams without mention of AI or its integration in Agile methodologies.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-17T15:26:55",
@@ -1279,15 +1129,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:16:19",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the concept of 'done' in Agile, which relates to quality assurance and clarity in expectations. However, it does not explicitly mention Test First Development or its principles. While it touches on the importance of quality and collaboration, it lacks a direct focus on success criteria or testing practices, which are central to Test First Development.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -1309,15 +1159,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T18:02:08",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content briefly touches on the concept of 'done' in Agile teams, which relates to practical problem-solving in Agile contexts. However, it lacks explicit discussions on strategies or techniques for navigating complexity and uncertainty, which are central to pragmatic thinking. The mention of quality expectations indicates some alignment with real-world applications, but the depth of discussion is limited, focusing more on assumptions rather than actionable insights.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1337,26 +1187,17 @@
     "reasoning": "Content primarily discusses the expectation of quality and the definition of done in Agile teams without focusing on coaching practices or facilitating growth and development.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T15:26:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the definition of 'done' in agile teams, which is a team-level practice, rather than focusing on scaling agility across the organization.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T16:16:22",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the concept of 'done' in Agile, which is relevant to Scrum practices, but it does not explicitly mention the role of the Scrum Master or delve into their responsibilities. While it touches on quality assurance and team dynamics, it lacks a direct focus on the Scrum Master's influence or techniques for coaching and facilitating within a Scrum context.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1385,7 +1226,7 @@
     "reasoning": "Content primarily discusses the definition of 'done' and quality expectations, not focusing on the Increment concept in Agile.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T15:26:55",
     "ai_confidence": 0,
@@ -1441,86 +1282,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T20:35:01",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the concept of 'done', which is relevant to Scrum but does not explicitly mention Scrum roles, events, or artifacts. The discussion lacks depth and does not provide a comprehensive exploration of Scrum principles, making it a secondary mention rather than a primary focus.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:50:46",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the concept of 'done' in Agile teams, focusing on quality assurance and clarity, which are relevant to the Shift-Left Strategy. However, it does not explicitly mention the Shift-Left approach or integrate testing, security, or compliance early in the development process. The discussion is more about expectations and quality rather than proactive integration of processes, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T18:10:51",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of a clear definition of 'done' in Agile teams, which indirectly relates to Continuous Improvement by emphasising quality assurance and reducing rework. However, it lacks explicit references to Continuous Improvement principles and does not delve deeply into strategies or frameworks that support ongoing enhancement. The focus is more on clarifying expectations rather than on a broader culture of continuous improvement.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T18:10:57",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the concept of 'done' in Agile, which indirectly relates to common goals by emphasising clarity and quality expectations. However, it primarily focuses on the definition of done rather than explicitly addressing shared objectives or strategic alignment within teams. While there are mentions of leadership involvement and team collaboration, these are not deeply tied to the overarching theme of common goals in Agile and DevOps.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T18:10:59",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of a clear definition of 'done' in Agile, which directly relates to competence by emphasising quality assurance and the necessity for continuous improvement. It highlights the role of leadership and collaboration in establishing quality standards, aligning well with the core themes of competence. The depth of discussion is substantial, providing strategies for fostering a culture of quality, which is a key aspect of competence. However, while competence is a primary focus, the content could delve deeper into continuous learning and skill development to fully align with the category.",
     "level": "Secondary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T18:11:03",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the concept of 'done' in Agile teams, focusing on quality and expectations, which are relevant to software development practices. However, it does not explicitly mention the One Engineering System or its principles, nor does it address integration across teams or best practices for implementing 1ES. The discussion is primarily centred on Agile methodologies rather than the unified framework of 1ES.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:16:16",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content discusses the concept of 'done' in Agile teams, focusing on quality and expectations, but it does not explicitly address Agentic Agility or its principles. While there are elements of intent and accountability mentioned, the primary focus is on clarifying definitions and improving team processes rather than on the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical context.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T23:26:30",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses the concept of 'done' in Agile, which is a key aspect of product development methodologies. It aligns well with the principles of Agile product development, particularly in terms of quality assurance and iterative improvement. The depth of discussion is substantial, providing strategies for bridging the gap between expectations and reality, which is crucial for continuous improvement in product delivery. Overall, the content is highly relevant to the category, focusing on enhancing product quality through clear definitions and collaborative practices.",
+    "level": "Primary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T23:26:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of 'done' in Agile teams, discussing quality expectations and strategies for clarity and consistency. While it touches on collaboration and engagement, it does not explicitly mention Liberating Structures or their techniques. The discussion lacks depth regarding the principles and applications of Liberating Structures, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T23:26:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the concept of 'done' within Agile teams, which is a specific aspect of Agile methodology rather than a broader project management discussion. While it touches on quality assurance and stakeholder trust, which are relevant to project management, it lacks direct references to core project management principles, methodologies, or lifecycle phases. The depth of discussion is significant regarding the definition of done, but it does not encompass the wider scope of project management practices, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T23:26:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of 'done' in Agile teams, discussing quality expectations and the importance of clarity and collaboration. However, it does not explicitly mention Open Space Agile or its principles. While there are elements of collaboration and engagement, they are not framed within the context of Open Space Agile, which limits the depth of discussion and alignment with the category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T23:26:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the concept of 'done' in Agile teams, focusing on quality expectations and the importance of clarity and consistency. While it touches on aspects of quality and trust, it does not explicitly mention Unrealised Value or its indicators. The discussion is more about operational effectiveness rather than exploring untapped opportunities or potential improvements, which are central to the concept of Unrealised Value. Therefore, while there is some relevance, it does not meet the primary focus required for a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T23:26:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of 'done' in Agile, focusing on quality and clarity, which indirectly relates to Time to Market by emphasising the importance of delivering quality work efficiently. However, it does not explicitly mention Time to Market or related metrics, nor does it provide in-depth strategies for improving the speed of delivery. The primary focus is on quality assurance and team alignment rather than the overall process of reducing time to market.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T23:26:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of 'done' in Agile, focusing on quality and expectations, which indirectly relates to Current Value. However, it lacks explicit mentions of Current Value metrics or real-time assessments. The alignment with the core themes is limited, as it primarily addresses quality assurance rather than the tangible benefits or performance feedback associated with Current Value. The depth of discussion is moderate, providing strategies for improving understanding of 'done' but not delving into how this impacts customer satisfaction or revenue, which are key indicators of Current Value.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T23:26:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of 'done' in Agile teams, focusing on quality expectations and collaboration within teams. While it touches on aspects of organisational dynamics and the importance of leadership engagement, it does not explicitly address the broader principles of Company as a Product (CaaP) or provide a comprehensive exploration of customer-centric strategies or organisational design. The discussion is more centred on Agile practices rather than the overarching CaaP framework, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T23:26:53",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the concept of 'done' within Agile teams, discussing quality expectations and clarity in task completion. While it touches on collaboration and leadership engagement, it does not delve into scaling methodologies or frameworks, nor does it address the complexities of coordinating multiple teams or optimising flow across an enterprise. The discussion is more about individual team practices rather than scaling Agile practices across an organisation.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T23:26:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of 'done' in Agile teams, focusing on quality expectations and the importance of clarity and collaboration. However, it does not explicitly mention Hybrid Agile or critically examine the integration of traditional and agile methodologies. While it touches on leadership expectations, it lacks a thorough analysis of the challenges and pitfalls associated with Hybrid Agile, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T23:26:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of 'done' in Agile, focusing on quality and expectations, which aligns with some principles of Agnostic Agile, such as the importance of context and value delivery. However, it does not explicitly mention Agnostic Agile or its principles, nor does it provide a deep exploration of the category. The discussion is more centred on the mechanics of Agile practices rather than a critical examination of Agnostic Agile as a distinct philosophy.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T23:27:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of 'done' in Agile teams, focusing on quality expectations and team collaboration. It does not mention GitHub or its functionalities, nor does it relate to GitHub's tools or services. While it touches on Agile principles, it lacks any direct connection to GitHub, making it unsuitable for the GitHub category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T23:27:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of 'done' in Agile teams, discussing quality expectations and strategies for clarity and consistency. It does not directly mention or align with the principles of Cell Structure Design, nor does it explore the characteristics of autonomous cells or decentralised structures. The discussion is more about traditional Agile practices rather than the decentralised, network-based organisational design model outlined in the Cell Structure Design category.",
     "level": "Ignored"
   }
 }

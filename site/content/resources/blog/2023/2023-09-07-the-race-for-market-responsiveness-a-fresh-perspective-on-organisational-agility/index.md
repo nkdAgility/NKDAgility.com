@@ -34,11 +34,10 @@ tags:
 - Enterprise Agility
 - Market Adaptability
 - Organisational Change
-- Resilience and Change
 - Pragmatic Thinking
-- People and Process
 - Agile Philosophy
 - Agile Strategy
+- Strategic Goals
 categories: []
 preview: naked-agility-technically-survivalisoptional-1-1.jpg
 

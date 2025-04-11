@@ -37,22 +37,22 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-11T22:39:16",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily critiques the adoption of Agile practices rather than focusing on Scrum principles, roles, or events.",
     "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-03-10T18:00:02",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 67.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the application of Agile principles within organisations, highlighting the importance of understanding the underlying systems rather than merely following rituals. It touches on systems thinking by addressing how organisational culture and processes impact decision-making and effectiveness. However, while it aligns with some key themes of Organisational Physics, such as the interplay between structure and culture, it does not delve deeply into the broader concepts of systems thinking or organisational dynamics, which limits its overall depth of discussion.",
     "level": "Secondary"
   },
@@ -85,93 +85,96 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-06T14:57:46",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses Agile methodologies and their implementation, which is relevant to product management. However, it primarily focuses on the critique of Agile rituals rather than providing a comprehensive exploration of product management strategies or frameworks. While it touches on the importance of aligning processes with business needs, it lacks detailed discussions on key product management topics such as customer feedback, stakeholder alignment, or metrics for success.",
     "level": "Secondary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-14T20:03:02",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses Agile principles and the importance of adapting practices to deliver value, which aligns with Agile Leadership themes. However, it primarily focuses on Agile practices rather than explicitly addressing leadership roles or strategies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-11T22:39:28",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses Agile principles broadly without a clear focus on the Daily Scrum event or its specific practices.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-11T22:39:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T22:55:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and practices, with no focus on system configuration or related technical aspects.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and practices, focusing on the philosophy behind Agile rather than system configuration. While it touches on automation and human judgment, these concepts are not explored in the context of system configuration. The discussion lacks direct mentions of configuration management tools, system optimisation, or integration of hardware and software, which are key topics for the category. Overall, the content does not align with the core themes of system configuration, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-14T20:02:00",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses Agile methodologies and their importance in delivering value and adapting to change, which aligns with the principles of digital transformation. However, it primarily focuses on Agile practices rather than the broader strategic adoption of digital technologies for business transformation. While there are mentions of adapting processes and improving outcomes, the content lacks a direct focus on digital tools or technologies, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-14T20:02:20",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses Agile principles and the importance of delivering value, which aligns with the concept of working software. However, it primarily critiques Agile rituals rather than focusing on the delivery of functional software itself. While it touches on the need for adaptability and human judgment in software development, it lacks detailed discussions on best practices for ensuring software quality and functionality.",
     "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-14T20:02:47",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Agile principles and the importance of adapting processes to deliver value, which touches on decision-making aspects. However, it primarily focuses on Agile rituals and their effectiveness rather than structured decision-making methodologies. The mention of human judgment in complex systems aligns with decision-making but lacks depth in evidence-based practices or frameworks for evaluating options.",
     "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-03-14T20:01:46",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses Agile principles and critiques the mechanical application of rituals, which indirectly touches on self-organisation. However, it lacks a direct focus on self-organisation principles, techniques, or case studies. The emphasis is more on the critique of rituals rather than on fostering autonomy and ownership within teams.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -184,27 +187,27 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-03-14T20:01:49",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Agile methodologies and their application, with a focus on rituals and processes rather than Lean principles. While it touches on concepts like delivering value and adapting to change, it lacks a direct focus on Lean Product Development principles such as waste reduction and continuous improvement. The discussion is more about Agile practices than Lean practices, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-03-14T15:15:21",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses Agile methodologies and the importance of understanding the purpose behind rituals, which indirectly relates to organisational culture. However, it primarily focuses on the mechanics of Agile rather than explicitly addressing cultural elements that influence agility and transformation. While it touches on themes of belief and ownership within teams, it lacks a comprehensive exploration of how organisational culture shapes these dynamics.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -235,10 +238,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-11T22:39:44",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and practices but does not specifically address the Definition of Done or its criteria.",
     "level": "Ignored"
   },
@@ -271,51 +274,39 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-14T20:02:35",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the essence of Agile beyond rituals, focusing on delivering value and adapting to change, which aligns well with strategic principles in Agile. It critiques mechanical processes and emphasizes the importance of human judgment and continuous improvement, reflecting key strategic themes. However, while it touches on strategy, it does not delve deeply into specific strategic frameworks or metrics, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-14T20:02:13",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Agile practices and the importance of delivering value, but it primarily focuses on the critique of rituals rather than directly addressing the measurement and improvement of innovation capabilities. While it touches on adaptability and continuous improvement, it lacks a structured approach to Evidence-Based Management or specific frameworks for measuring the Ability to Innovate.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-11T09:58:43",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 72.0,
     "ai_mentions": 60.0,
     "ai_alignment": 80.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses Agile principles and critiques the mechanical adoption of Agile rituals, which aligns with the core themes of Agile frameworks. It emphasises the importance of understanding Agile beyond just rituals, suggesting a deeper exploration of Agile's purpose and implementation. However, while it touches on Agile concepts, it lacks specific references to distinct frameworks like Scrum or Kanban, which slightly lowers the confidence score.",
     "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-03-14T20:02:40",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on the misconceptions surrounding Agile practices at the team level, particularly the rituals associated with Scrum. While it touches on the importance of delivering value and adapting to change, it does not explicitly discuss scaling agility across an organisation or the frameworks and strategies necessary for that. The discussion lacks depth in terms of organisational-level agility and does not address the key topics outlined for the 'Scaling Agility' category.",
-    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
@@ -373,15 +364,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T11:21:43",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses Agile methodologies, focusing on the importance of understanding the principles behind Agile rather than merely following rituals. It aligns well with the Software Development category by addressing Agile practices, the pitfalls of mechanical processes, and the need for effective decision-making in software development. The depth of discussion is substantial, as it critiques common Agile implementations and suggests a more thoughtful approach to software development. Overall, the content is highly relevant to the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -394,11 +385,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-11T22:40:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T22:55:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile principles and the importance of belief in processes rather than focusing on throughput measurement or optimisation.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile principles and the importance of adapting processes rather than focusing on throughput as a delivery metric. While it touches on themes of delivering value and adapting to change, it does not explicitly define or calculate throughput, nor does it provide insights into visualising or analysing throughput metrics. The discussion is more philosophical about Agile practices and rituals, which does not align with the specific focus on throughput as a measurable delivery metric.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -412,22 +406,22 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-11T14:26:43",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 87.0,
     "ai_mentions": 75.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the essence of Agile beyond mere rituals, emphasising the importance of delivering value, adapting to change, and continuous improvement. It critiques the mechanical application of Agile practices and highlights the need for understanding and belief in Agile principles, aligning closely with the core themes of the category. The depth of discussion is significant, providing insights into how Agile should be implemented effectively, thus justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-11T22:40:11",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and practices without a focus on automated testing.",
     "level": "Ignored"
   },
@@ -451,15 +445,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-03-14T14:54:50",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Agile principles and the importance of adapting to change, which aligns with change management concepts. However, it primarily focuses on Agile rituals and practices rather than providing a comprehensive discussion on change management strategies or leadership roles in guiding transformation.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -472,13 +466,13 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-14T20:02:38",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses Agile principles, particularly the importance of adapting to change and delivering value, which aligns with empirical process control. However, it primarily critiques the mechanical application of Agile rituals rather than focusing on empirical process control itself. While it mentions key concepts like continuous improvement and human judgment, it lacks detailed exploration of empirical process control techniques or case studies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -509,27 +503,15 @@
     "reasoning": "Content heavily discusses Agile methodologies and their implementation, with no focus on revenue per employee or related financial metrics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-14T20:01:54",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses Agile methodologies and their implications for software development, focusing on the importance of understanding the purpose behind Agile rituals rather than just following them mechanically. It touches on key themes such as delivering value, adapting to change, and the role of human judgment in complex systems, which are relevant to software developers. However, the discussion is more philosophical and less technical, lacking specific best practices or tools that directly relate to the day-to-day work of software developers.",
-    "level": "Secondary"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:09:30",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses Agile principles and the importance of adapting processes rather than focusing on Test First Development practices. While it touches on automation and human judgment, it does not explicitly mention Test First methodologies or their principles, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -580,42 +562,36 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-11T22:40:34",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile principles and critiques the adoption of Scrum rituals, without focusing specifically on the Sprint Review process or its key elements.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-11T22:40:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile principles and the importance of belief in processes rather than focusing on Lead Time or its measurement.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-11T22:40:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:17:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses individual Agile practices and philosophies without a focus on scaling Agile across multiple teams or enterprise-level initiatives.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile principles and the importance of adapting processes rather than focusing on Lead Time as a specific metric. There are no direct mentions of Lead Time, and while it touches on themes of efficiency and value delivery, it does not delve into measuring or optimising Lead Time specifically. The discussion is more about Agile practices and their implementation, which does not align with the core definition of Lead Time as an observability metric.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T16:16:02",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the practical application of Agile principles, emphasising the importance of adaptability and critical thinking in navigating complex environments. It critiques the mechanical application of Agile rituals, advocating for a focus on delivering value and adapting to change, which aligns closely with the core themes of Pragmatic Thinking. The depth of discussion is significant, providing insights into real-world challenges and solutions within Agile frameworks.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -625,18 +601,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and practices but does not focus on deployment frequency or its optimisation.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-14T20:03:00",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content extensively discusses Agile principles, particularly the critique of ritualistic practices in Scrum and the emphasis on delivering value and adapting to change. It aligns well with the core themes of Agile Project Management, such as the importance of understanding Agile beyond mere rituals, focusing on outcomes, and the need for human judgment in complex systems. The depth of discussion is significant, providing insights into common pitfalls like 'zombie Scrum' and advocating for a mindset shift in Agile practices.",
-    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -649,25 +613,25 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-11T17:28:40",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content extensively discusses the essence of Agile beyond mere rituals, focusing on delivering value and adapting to change, which aligns well with Agile Strategy principles. It critiques the mechanical application of Agile practices and emphasises the importance of understanding and belief in Agile methodologies, which are key themes in strategic Agile discussions. The depth of the discussion is significant, providing insights into how organisations can better implement Agile principles to achieve long-term success.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T17:56:07",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Agile principles and practices, focusing on the importance of delivering value and adapting to change. While it touches on automation and continuous improvement, it does not explicitly address Continuous Delivery as a primary focus. The discussion lacks depth in Continuous Delivery practices and does not provide specific strategies or tools related to this category.",
     "level": "Ignored"
   },
@@ -682,24 +646,24 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-11T22:40:49",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the broader philosophy of Agile and critiques its implementation, without focusing on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-03-14T20:02:57",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Agile methodologies and the importance of adapting to change, which aligns with sensemaking principles. However, it primarily focuses on Agile rituals and practices rather than explicitly exploring sensemaking frameworks or decision-making processes in complex environments. The discussion on human judgment in complex systems hints at sensemaking but lacks depth and direct engagement with the category's core themes.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -717,24 +681,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily critiques the adoption of Agile rituals and processes rather than focusing on team performance, collaboration, or methodologies aimed at enhancing team dynamics.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-11T22:40:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Agile methodologies and the importance of belief in processes, without any mention of AI or its applications.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-11T22:40:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and critiques Scrum practices without a focus on Kanban or its scaling in large organisations.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -766,15 +712,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-13T15:06:42",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the essence of Agile beyond mere rituals, emphasising the importance of delivering value and adapting to change, which aligns closely with Agile transformation principles. It critiques the mechanical application of Agile practices and highlights the need for a mindset shift, which is central to successful Agile transformations. The depth of discussion on the challenges of Agile adoption and the focus on outcomes further supports its relevance to the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -787,64 +733,55 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-11T22:41:01",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile principles and critiques the adoption of rituals rather than focusing on Scrum Values.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-13T15:29:24",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses Agile principles and the importance of adapting processes to deliver value, which aligns with the themes of organisational change. However, it primarily focuses on Agile practices and rituals rather than broader organisational change strategies or frameworks. While it touches on the need for human judgment and adaptability, it lacks detailed exploration of change management methodologies or leadership roles in driving change.",
     "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-11T22:41:03",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and practices without a focus on test automation.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-11T22:41:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses Agile principles broadly without a clear focus on Scrum practices or product development.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-14T20:02:16",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses Agile practices and the importance of adapting processes to deliver value, which aligns with operational efficiency. However, it primarily critiques the mechanical application of Agile rituals rather than providing specific operational strategies or techniques. While it touches on continuous improvement and the role of human judgment in automation, it lacks detailed discussions on metrics, KPIs, or specific process optimisation techniques.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:56:09",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Agile principles and the importance of delivering value, but it primarily focuses on rituals and processes rather than empirical evidence or metrics. While it touches on the need for outcomes and adapting to change, it lacks a strong emphasis on data-informed decision-making and the specific metrics outlined in Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -857,36 +794,27 @@
     "reasoning": "Content primarily discusses the philosophical aspects of Agile and critiques the mechanical adoption of rituals, without focusing on backlog refinement or related practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-11T22:41:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the philosophical aspects of Agile and its implementation, without a clear focus on scaling Scrum practices or frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T16:09:28",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Agile principles and critiques the mechanical application of Scrum rituals, but it does not explicitly focus on the role of the Scrum Master or their responsibilities. While it touches on themes relevant to Scrum, such as continuous improvement and value delivery, it lacks a detailed exploration of the Scrum Master's influence or techniques for coaching and mentoring within a Scrum context.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-03-14T20:02:26",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Agile principles at a team level, focusing on rituals and individual practices rather than large-scale implementation or frameworks. While it touches on the importance of adapting Agile to deliver value, it lacks explicit references to scaling Agile across an organisation or the frameworks associated with large-scale agility.",
     "level": "Ignored"
   },
@@ -901,15 +829,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-14T20:02:51",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses Agile principles and critiques the mechanical application of Agile rituals, which aligns with the themes of fostering a culture of continuous improvement and adapting to change. However, it lacks direct mentions of technical leadership roles, mentoring, or specific strategies for guiding teams, which limits its depth in the context of technical leadership.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -931,13 +859,13 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-14T20:02:49",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses Agile principles and the importance of delivering value over merely following rituals, which aligns with Agile Planning. However, it primarily critiques the mechanical application of Agile practices rather than providing detailed strategies or methodologies for Agile Planning itself. The focus is more on mindset and philosophy than on specific planning techniques or frameworks.",
     "level": "Secondary"
   },
@@ -950,7 +878,7 @@
     "reasoning": "Content heavily discusses the importance of understanding Agile beyond rituals and procedures, focusing on belief in processes rather than accountability or ownership within teams.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-11T22:41:21",
     "ai_confidence": 0,
@@ -988,10 +916,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-11T22:41:27",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile principles and critiques the adoption of rituals, without focusing on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -1033,15 +961,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-13T16:37:09",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the essence of Agile beyond mere rituals, emphasising value delivery, adaptability, and continuous improvement. It critiques the mechanical application of Agile practices and highlights the importance of understanding the underlying philosophy. The depth of discussion is significant, covering various aspects of Agile philosophy, including the need for human judgment and the focus on outcomes rather than procedures.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1054,10 +982,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-11T22:41:35",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the philosophical aspects of Agile and critiques its implementation, rather than focusing on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
@@ -1090,15 +1018,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-03-14T20:01:57",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Agile principles and the importance of delivering value, which aligns with the broader themes of strategic goals. However, it primarily focuses on the critique of Agile rituals and processes rather than explicitly defining long-term objectives or strategic alignment. The discussion lacks depth in articulating how these principles translate into strategic goals, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -1120,15 +1048,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-06T14:57:48",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the broader implications of Agile beyond team-level practices, emphasising the need for organisations to adopt a mindset that values adaptability and effective decision-making over mere adherence to rituals. It critiques the mechanical application of Agile processes and highlights the importance of understanding the underlying principles, which aligns with the core themes of Enterprise Agility. However, while it touches on organisational aspects, it lacks specific frameworks or detailed strategies for fostering a culture of agility, which limits its depth of discussion.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -1139,34 +1067,13 @@
     "reasoning": "Content heavily discusses Agile principles and practices without a clear focus on Lean methodologies or principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-03-14T20:02:28",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses Agile principles, particularly the importance of adaptability and responding to change, which aligns with the category of Resilience and Change. However, it primarily focuses on Agile practices and rituals rather than organisational resilience strategies or change management methodologies. While it touches on the need for human judgment in complex systems and the importance of continuous improvement, these points are not explored in depth, leading to a moderate confidence score.",
-    "level": "Secondary"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-11T22:38:20",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and organisational practices rather than installation or configuration of tools.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-11T22:38:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Agile methodologies and organisational processes rather than the interplay between software code quality and complexity.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1178,111 +1085,63 @@
     "reasoning": "Content primarily discusses the philosophical aspects of Agile and the pitfalls of ritualistic adherence to processes, rather than focusing on flow efficiency or optimisation of work throughput.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-11T22:38:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Agile principles and practices without a focus on AI or automation.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-14T20:02:24",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses Agile methodologies extensively, focusing on the importance of delivering value and adapting to change, which aligns well with product delivery principles. It critiques the mechanical application of Agile rituals and emphasises the need for human judgement in complex systems, which is relevant to ensuring quality and effective delivery. However, while it touches on key aspects of product delivery, it does not delve deeply into specific practices like testing, deployment, or metrics, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-14T20:01:52",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content extensively discusses the essence of Agile beyond rituals, emphasising the importance of delivering value and adapting to change, which aligns closely with Agile Product Management principles. It highlights the need for understanding the purpose behind Agile practices, the role of human judgment in complex systems, and the focus on outcomes rather than mere adherence to processes. The depth of discussion is significant, covering various aspects of Agile philosophy and its application in product management, making it a strong fit for the category.",
-    "level": "Secondary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-14T20:02:05",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses Agile principles and the importance of adapting processes to deliver value, which aligns with the themes of continuous learning and innovation. However, it primarily focuses on critiquing Agile rituals rather than exploring methodologies for fostering discovery and learning. While there are mentions of reflection and adaptation, the depth of discussion on specific learning techniques or frameworks is limited.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-03-14T20:02:10",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Agile methodologies and the importance of adapting processes to deliver value, which aligns with some principles of Systems Thinking, such as the need for human judgment in complex systems. However, it primarily focuses on Agile practices rather than a holistic analysis of interconnected systems, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-03-14T20:02:54",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses Agile practices and the importance of adaptability in complex systems, which aligns with complexity thinking. However, it primarily focuses on Agile methodologies rather than explicitly addressing complexity science principles. The mention of human judgment in complex systems and the critique of mechanical processes indicates a moderate depth of discussion related to complexity, but it lacks direct references to frameworks like Cynefin or specific complexity theories.",
     "level": "Secondary"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-11T22:38:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the nature of Agile practices and the pitfalls of ritualistic adherence, without a focus on transparency or accountability.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-11T22:38:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile philosophy and the importance of belief in processes rather than practical techniques or tooling.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-11T22:38:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile principles and practices without reference to specific events, presentations, or discussions.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-14T20:02:32",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses Agile methodologies extensively, focusing on the importance of adapting to change and delivering value, which aligns well with the principles of market adaptability. It highlights the need for continuous improvement and the dangers of mechanical processes, indicating a strong understanding of how Agile can enhance responsiveness to market demands. However, while it touches on key aspects of market adaptability, it does not delve deeply into specific strategies or case studies, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
@@ -1297,13 +1156,13 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T17:55:52",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Agile methodologies and their principles, focusing on the importance of delivering value and adapting to change. While there are some overlaps with DevOps concepts, such as continuous improvement and the need for human judgment in automated processes, the main focus is on Agile rather than DevOps. The discussion lacks direct mentions of DevOps practices, principles, or cultural shifts, which are essential for a higher confidence score in this category.",
     "level": "Ignored"
   },
@@ -1316,24 +1175,15 @@
     "reasoning": "Content heavily discusses Agile principles and practices without specific reference to Azure DevOps.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-11T22:38:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Agile principles and practices rather than specific products or literature.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-06T15:49:54",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 67.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the essence of Agile beyond rituals, emphasising the need for organisations to adapt and innovate in their processes. It critiques the mechanical adoption of Agile practices and highlights the importance of belief in these processes for achieving business outcomes. While it touches on themes of organisational adaptability and the need for effective decision-making, it does not delve deeply into specific strategies or leadership roles that promote business agility. The discussion is relevant but lacks comprehensive coverage of the key topics outlined in the category definition.",
     "level": "Secondary"
   },
@@ -1348,15 +1198,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-14T20:02:02",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the importance of delivering value in Agile practices, moving beyond mere rituals. It aligns well with the core themes of value delivery by emphasising the need for adaptability, continuous improvement, and focusing on outcomes rather than processes. The depth of discussion is significant, providing insights into the pitfalls of mechanical Scrum and the necessity of human judgement in complex systems, which are crucial for effective value delivery.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1369,13 +1219,13 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-07T13:08:27",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the essence of Agile beyond mere rituals, emphasising the need for a cultural shift in organisations to truly embrace agility. It critiques the mechanical adherence to Agile practices without understanding their purpose, which aligns with the principles of organisational agility. However, while it touches on key themes, it lacks detailed exploration of specific strategies or frameworks that enhance organisational adaptability, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
@@ -1388,45 +1238,24 @@
     "reasoning": "Content primarily discusses Agile principles and critiques of its implementation rather than personal experiences or reflections.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-10T11:48:35",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 30,
-    "non_ai_confidence": 20,
-    "final_score": 76.0,
-    "reasoning": "The content explicitly discusses the importance of human belief in Agile processes and critiques the mechanical adherence to rituals, which directly relates to team dynamics and collaboration. It aligns well with the core themes of the category by addressing how people interact with Agile methodologies and the impact of these interactions on productivity and innovation. The depth of discussion is significant, as it explores the consequences of following processes without understanding their purpose, thus highlighting the human factors influencing Agile practices.",
-    "level": "Secondary"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-10T14:04:23",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of understanding Agile beyond mere rituals, highlighting the interplay between organisational culture and technology adoption. It critiques the mechanical adherence to processes without belief in their value, which aligns with sociotechnical principles. However, while it touches on these themes, it lacks detailed exploration of specific sociotechnical frameworks or case studies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-11T22:39:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile principles and practices rather than providing news or reviews related to Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-11T22:39:05",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and the importance of belief in processes rather than metrics or learning mechanisms.",
     "level": "Ignored"
   },
@@ -1450,10 +1279,10 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-11T22:39:11",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and processes, with no clear focus on psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
   },
@@ -1468,49 +1297,49 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-07T13:08:24",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of understanding Agile beyond rituals and procedures, hinting at leadership's role in fostering belief in processes and decision-making. However, it lacks direct mentions of leadership practices or frameworks, focusing more on Agile implementation and organisational behaviour. The discussion is somewhat aligned with leadership themes but does not delve deeply into leadership strategies or techniques.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T17:56:04",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses Agile principles and the importance of delivering value, which aligns with the Agile Product Operating Model. However, it primarily focuses on the critique of Agile rituals rather than a comprehensive exploration of the APOM framework. While it touches on product delivery and adapting to change, it lacks detailed discussion on key APOM topics such as governance, operational stability, and the integration of Scrum with product management practices.",
     "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-03-14T20:03:08",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Agile principles and critiques traditional practices, but it does not explicitly mention Beta Codex or its principles. While it aligns with some themes of decentralisation and human-centric approaches, the focus remains primarily on Agile methodologies rather than the broader concepts of Beta Codex. The depth of discussion on Beta Codex principles is minimal, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:57:38",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses Agile principles, focusing on delivering value and adapting to change, which aligns with the core themes of Social Technologies. However, it primarily centres on Agile rituals and practices rather than explicitly addressing collaboration, decision-making, or value delivery frameworks. The depth of discussion on social technologies is limited, as it does not explore specific methodologies or tools that promote collaboration or collective intelligence.",
     "level": "Secondary"
   },
@@ -1534,63 +1363,63 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:50:40",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 55.0,
     "ai_mentions": 30.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 54.0,
+    "final_score": 55.0,
     "reasoning": "The content discusses Agile principles and critiques the mechanical adoption of Scrum rituals, indicating a focus on the underlying philosophy rather than the specific Scrum framework. While it mentions Scrum events like Daily Scrum and Sprint Review, it does not delve deeply into the Scrum roles or artifacts, which limits its alignment with the category. The discussion is more about the broader Agile mindset and the pitfalls of ritualistic adherence to Scrum practices, which provides some depth but lacks a comprehensive exploration of Scrum itself.",
     "level": "Tertiary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:48:47",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses Agile principles and practices, focusing on rituals and the importance of delivering value rather than explicitly addressing the Shift-Left Strategy. While there are mentions of adapting processes and improving outcomes, these concepts do not directly relate to integrating testing, security, or compliance earlier in the software development lifecycle, which is the core of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:55:55",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of moving beyond Agile rituals and emphasises the need for reflection and adaptation, which aligns with Continuous Improvement principles. However, while it touches on these themes, the primary focus is on Agile methodologies rather than a dedicated exploration of Continuous Improvement itself. The depth of discussion on Continuous Improvement concepts is moderate, but it lacks extensive detail on specific strategies or tools related to Continuous Improvement.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:55:57",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Agile principles and the importance of delivering value, but it primarily focuses on the critique of rituals rather than establishing or aligning with common goals. While it touches on the need for teams to understand their objectives, it lacks a detailed exploration of how common goals specifically guide decision-making or connect individual contributions to the organisation's mission.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:55:59",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 62.0,
     "ai_mentions": 3,
     "ai_alignment": 75.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of understanding Agile beyond rituals, which aligns with the concept of competence in fostering genuine progress and continuous improvement. It mentions the need for belief in Agile practices and the role of human judgment in complex systems, which ties into the idea of skill development and maintaining quality outcomes. However, while competence is a theme, it is not the primary focus, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
@@ -1606,14 +1435,170 @@
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:09:25",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Agile principles and the importance of adapting practices to deliver value, which aligns with the concept of Agentic Agility. However, it primarily focuses on Agile rituals and processes rather than explicitly addressing the intentional shaping of outcomes through autonomy and adaptability. The mention of human judgment in automated systems hints at the interplay between human and AI capabilities, but it lacks depth in exploring these themes in the context of Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T22:54:41",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses Agile principles, focusing on delivering value and adapting to change, which are core themes of product development. It critiques the mechanical application of Agile rituals and emphasises the importance of continuous improvement and customer-centric approaches. The depth of discussion is significant, providing insights into how Agile can be effectively implemented to enhance product delivery. Overall, the content aligns well with the key topics of product development, particularly in its emphasis on iterative learning and the role of human judgement in complex systems.",
+    "level": "Primary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T22:54:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile principles and critiques traditional Agile rituals without any direct mention of Liberating Structures or their specific techniques. While it touches on themes of collaboration and adaptability, it does not delve into the facilitation techniques or the core philosophy of Liberating Structures, which are essential for a higher confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T22:54:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on Agile methodologies, particularly critiquing the mechanical application of Agile rituals. While it discusses the importance of delivering value and adapting to change, which are relevant to project management, it lacks a broader discussion of core project management principles, methodologies, and lifecycle phases. The depth of discussion is limited to Agile practices without integrating them into a wider project management context, thus not fully aligning with the category's scope.",
+    "level": "Tertiary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T22:54:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile principles and critiques traditional Scrum practices, focusing on the importance of delivering value rather than adhering to rituals. However, it does not explicitly mention Open Space Agile or its core concepts such as psychological safety, co-creation, or iterative dialogue. The discussion is more aligned with general Agile philosophy rather than the specific nuances of Open Space Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T22:54:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile principles and the importance of delivering value, but it does not explicitly mention 'Unrealised Value' or focus on the potential value that can be captured through improvements and innovations. While there are references to maximizing returns and adapting to change, the discussion lacks depth in exploring specific indicators or strategies for identifying untapped opportunities. Overall, the content is more about Agile practices than the concept of Unrealised Value in Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T22:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile principles and the importance of delivering value, but it does not explicitly mention Time to Market or related metrics. While it touches on themes of adaptability and maximizing returns, which are relevant to Time to Market, the primary focus is on Agile rituals and processes rather than on the efficiency of delivering products to market. Therefore, the confidence score reflects a low direct mention, moderate conceptual alignment, and limited depth regarding Time to Market specifically.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T22:54:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile principles and the importance of delivering value, which aligns with the concept of Current Value. However, it lacks specific metrics or indicators to measure Current Value and does not provide detailed techniques for gathering or analysing data related to it. The focus is more on Agile practices and mindset rather than a real-time assessment of value delivered, which is central to the Current Value category.",
+    "level": "Secondary"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T22:55:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 40,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile methodologies and the importance of delivering value, which aligns with some principles of the Company as a Product (CaaP) approach. However, it primarily focuses on Agile practices rather than explicitly addressing the organisation as a product or integrating customer feedback into organisational design. The discussion lacks depth in terms of CaaP-specific strategies and does not provide concrete examples or case studies related to CaaP implementations. Therefore, while there are relevant themes, the content does not sufficiently centre on the CaaP concept to warrant a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T22:55:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile principles and the importance of understanding the purpose behind Agile rituals, rather than focusing on scaling methodologies or frameworks. While it touches on themes of value delivery and adaptability, it does not delve into specific strategies for scaling Agile practices or managing cross-team collaboration, which are essential for the 'Scaling' category. The discussion remains largely centred on individual team practices rather than enterprise-level scaling challenges or solutions.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T22:55:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the essence of Agile and critiques the mechanical application of Agile rituals, but it does not explicitly discuss Hybrid Agile or its challenges. While it touches on themes like 'zombie Scrum' and the importance of human judgment, it lacks a critical examination of the integration of traditional methodologies with Agile practices, which is central to the Hybrid Agile category. Therefore, the confidence score reflects minimal relevance to the specified category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T22:55:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile principles and the importance of delivering value over following rituals, which aligns with Agnostic Agile's emphasis on context-driven agility. However, it primarily focuses on critiquing Scrum rituals and does not explicitly mention Agnostic Agile or its distinct philosophy. The depth of discussion on the principles of Agnostic Agile is limited, as it does not explore comparisons with other frameworks or ethical considerations in detail.",
+    "level": "Secondary"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T22:55:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Agile methodologies and practices without any direct mention of GitHub or its functionalities. While it touches on concepts relevant to software development, it does not align with GitHub's specific tools or services, nor does it provide any depth regarding GitHub's role in version control or collaboration. The focus is on Agile principles rather than GitHub-related practices, leading to a very low confidence score for the GitHub category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T22:55:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies, focusing on rituals and processes within Scrum, which is unrelated to Cell Structure Design. There are no direct mentions of the principles of the Beta Codex or the characteristics of autonomous cells. While it touches on themes of adaptability and value delivery, these concepts are not aligned with the core themes of Cell Structure Design, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

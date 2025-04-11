@@ -37,10 +37,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T18:10:53",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a developer event and various presentations, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:10:57",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a developer event and presentations, with no focus on installation or configuration topics.",
     "level": "Ignored"
   },
@@ -80,35 +80,14 @@
     "reasoning": "Content primarily discusses specific presentations and speakers at a developer event, focusing on their topics rather than Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T18:11:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a developer event and presentations on technical topics, with no clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-16T18:11:02",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a developer event and presentations on specific technical topics, without a focus on complexity science or its principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T07:31:39",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content briefly mentions Continuous Integration and Test Driven Development, which are relevant to the category. However, the primary focus is on the event and speakers rather than a detailed exploration of practical techniques or tooling. The discussion lacks depth and specific methodologies, resulting in a moderate confidence score.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -121,10 +100,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T18:11:06",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a developer event and speaker presentations, with no clear focus on metrics or learning principles.",
     "level": "Ignored"
   },
@@ -157,39 +136,27 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-04-08T19:52:25",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a developer event and discusses specific presentations on technical topics such as ADO.NET and Test Driven Development. There is no explicit mention of Evidence-Based Management principles or metrics, and the discussion lacks depth in relation to data-informed decision-making or empirical evidence.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-04-08T19:52:20",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a specific event and discussions around ADO.NET, Anti-Patterns, and Test Driven Development, with no direct mention of the Agile Product Operating Model or its principles. While there are references to agile practices like Continuous Integration and Test Driven Development, these are not framed within the context of the Agile Product Operating Model, leading to a very low confidence score.",
     "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-10T13:15:05",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content primarily discusses a specific event, Developer Day Scotland, and provides insights into the presentations and speakers, which aligns with the category of industry events and updates. However, while it mentions relevant topics like Continuous Integration and Test Driven Development, the focus is more on personal experiences rather than a comprehensive review or analysis of the event's impact on Agile or DevOps practices. The depth of discussion on the event and its speakers is substantial, but it lacks broader industry context or trends, which slightly lowers the confidence score.",
-    "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -218,48 +185,6 @@
     "reasoning": "Content primarily discusses a developer event and various presentations, with no clear focus on platform engineering or related topics.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T18:11:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a developer event and presentations on topics like ADO.NET, anti-patterns, and test-driven development, with no clear focus on AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T07:31:42",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content briefly mentions topics related to software development, such as 'Anti-Patterns' and 'Test Driven Development', which are relevant to code quality. However, the primary focus is on the event and speakers rather than a deep exploration of the interplay between code quality and complexity. The discussion lacks substantial detail on complexity theory or its application in software development, leading to a low confidence score.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-10T15:12:07",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 20,
-    "final_score": 80.0,
-    "reasoning": "The content explicitly discusses a specific event, Developer Day Scotland, and highlights various presentations and speakers, which aligns directly with the category of Events and Presentations. The author provides detailed insights into the sessions attended, showcasing the knowledge shared by the speakers, which reflects a strong alignment with the core themes of the category. The depth of discussion is significant, as it includes personal reflections on the impact of the presentations, indicating a thorough engagement with the event. Overall, the content is highly relevant and focused on the category.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T18:11:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a developer event and presentations, lacking focus on transparency and accountability principles.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
     "calculated_at": "2025-02-16T18:11:26",
@@ -271,10 +196,10 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-16T18:11:27",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a developer event and presentations on specific technical topics, without a focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
@@ -298,15 +223,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-10T18:58:19",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 59.0,
+    "final_score": 62.0,
     "reasoning": "The content reflects personal experiences and insights gained from attending a developer event, which aligns with the Personal category. However, the focus is more on the event and speakers rather than deep personal reflections or challenges faced in Agile or Scrum contexts. The mention of personal takeaways is present but lacks depth and detail, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -328,60 +253,27 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-04-08T19:52:05",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a developer event with discussions on ADO.NET, Anti-Patterns, and Test Driven Development. While Continuous Integration is mentioned, it is not explored in the context of DevOps principles. The overall emphasis is on individual presentations rather than the collaborative and cultural aspects of DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T10:46:49",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content mentions key technical topics such as Continuous Integration and Test-Driven Development, which are relevant to the category of Technical Excellence. However, the focus is more on the event and speakers rather than a deep exploration of these practices. The discussion lacks detailed analysis or methodologies that would typically characterise a thorough examination of technical excellence.",
     "level": "Secondary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T07:31:26",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content briefly mentions a developer event and highlights speakers and their topics, but it lacks a strong focus on the interplay between human behaviour and structured methodologies. While there are references to presentations on Continuous Integration and Test Driven Development, the discussion does not delve into team dynamics, leadership, or process improvement, which are core themes of the 'People and Process' category.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-15T07:31:40",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content briefly mentions learning outcomes from presentations, such as understanding ADO.NET Data Services and reflecting on past coding practices. However, it lacks a structured discussion on methodologies or processes that foster continuous learning or innovation. The focus is more on event experiences rather than a deep exploration of discovery and learning principles.",
-    "level": "Tertiary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T18:11:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a developer event and speakers, with no focus on specific products or literature related to Agile or DevOps.",
-    "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
@@ -403,19 +295,19 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T18:31:53",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses speakers and sessions at a developer event, focusing on development methodologies and experiences rather than system configuration.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T18:31:53",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily recounts a personal experience at a developer event without a focus on measuring or enhancing innovation capabilities.",
     "level": "Ignored"
   },
@@ -446,24 +338,15 @@
     "reasoning": "Content primarily focuses on a developer event and presentations related to programming topics, with no clear discussion of portfolio management or alignment with organisational strategy.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T18:31:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses events and speakers at a developer day, with no focus on Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-11T12:12:31",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content mentions key topics such as Continuous Integration and Test-Driven Development, which are relevant to Engineering Practices. However, the primary focus is on the event and speakers rather than a detailed discussion of engineering methodologies. The mentions are brief and lack depth, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -487,10 +370,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T18:31:53",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily a summary of a developer event and the speakers' presentations, without a clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -528,15 +411,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a developer event and speaker presentations without addressing the concept of Definition of Done.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T18:31:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a developer event with discussions on individual topics like Continuous Integration and Test Driven Development, rather than on scaling Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -577,13 +451,13 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-03-15T07:31:37",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 72.0,
     "ai_mentions": 60.0,
     "ai_alignment": 80.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content mentions 'Test Driven Development' explicitly and discusses a presentation focused on the TDD cycle, specifically the 'Red, Green, Refactor' concept. This aligns well with the core themes of TDD, such as the importance of writing tests before code. However, the overall discussion is more of a summary of an event rather than an in-depth exploration of TDD principles, which slightly lowers the depth score.",
     "level": "Secondary"
   },
@@ -605,27 +479,15 @@
     "reasoning": "Content primarily discusses an event and various presentations related to software development, without a focus on collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-11T17:05:43",
-    "ai_confidence": 72.0,
-    "ai_mentions": 60.0,
-    "ai_alignment": 80.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 0,
-    "final_score": 65.0,
-    "reasoning": "The content discusses a developer event with a focus on presentations related to Agile practices, specifically mentioning Continuous Integration and Test-Driven Development, which are key topics in the Software Developers category. The direct mentions of these practices indicate a strong relevance to the category, while the overall depth of discussion about the event and its impact on the attendees further supports the alignment with the role of software developers in Agile contexts.",
-    "level": "Secondary"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T15:15:40",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses various presentations from a developer event, including topics like Continuous Integration and Test-Driven Development, which are directly relevant to software development practices. However, the overall focus is more on the event and speakers rather than a deep exploration of software development methodologies or practices. The mentions of specific topics provide some alignment, but the depth of discussion is limited to personal reflections rather than detailed analysis.",
     "level": "Secondary"
   },
@@ -656,7 +518,7 @@
     "reasoning": "Content focuses on an event recap with discussions about speakers and sessions, but does not address estimation techniques or practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T18:31:53",
     "ai_confidence": 0,
@@ -730,13 +592,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-04-08T19:52:30",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Continuous Integration, which is related to Continuous Delivery, but does not delve into the principles, practices, or benefits of Continuous Delivery itself. The focus is more on individual presentations and topics like ADO.NET and Test Driven Development, rather than a comprehensive discussion on Continuous Delivery.",
     "level": "Ignored"
   },
@@ -751,15 +613,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-15T07:31:28",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content briefly mentions learning from presentations and insights gained from speakers, which aligns with the concept of continuous learning. However, it lacks a detailed exploration of the principles and practices that promote a growth mindset or knowledge sharing within teams. The focus is more on individual experiences rather than team improvement or methodologies like Agile or DevOps.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -781,20 +643,11 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T18:31:53",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses various presentations and speakers at a developer event, with a focus on topics like Test Driven Development and Continuous Integration, but does not cover hypothesis formulation, experimentation, or data-driven decision-making related to product development.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T18:31:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses event experiences and speakers, lacking focus on AI in Agile or DevOps.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -817,13 +670,13 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-15T07:31:34",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 47.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 44.0,
+    "final_score": 47.0,
     "reasoning": "The content briefly mentions a session on Continuous Integration but lacks detailed discussion or exploration of CI principles, practices, or tools. The focus is more on the event and speakers rather than a thorough examination of CI.",
     "level": "Tertiary"
   },
@@ -919,10 +772,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T18:31:53",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses an event and speakers, with no focus on team dynamics, collaboration, or performance metrics related to agile teams.",
     "level": "Ignored"
   },
@@ -964,10 +817,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T18:31:53",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on the Developer Day event and personal impressions of speakers and presentations, with little to no emphasis on team collaboration techniques or Agile methodologies.",
     "level": "Ignored"
   },
@@ -982,10 +835,10 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T18:31:53",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a developer event and various presentations related to development topics, with no focus on Acceptance Test Driven Development or its principles.",
     "level": "Ignored"
   },
@@ -1000,13 +853,13 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:31:45",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses various presentations related to software development, including topics like Continuous Integration and Test Driven Development, which align with the principles of Technical Mastery. However, the focus is more on the event and speakers rather than a deep exploration of technical practices or methodologies. The mentions of specific topics are brief and lack detailed discussion, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1019,15 +872,6 @@
     "reasoning": "Content primarily discusses a local developer event, speaker presentations, and technical sessions, with no focus on remote working or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T18:31:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about event experiences and presentations on various technical topics, without any focus on Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T18:31:53",
@@ -1035,15 +879,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses a developer event and the presentations given, with no direct relation to customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T18:31:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a developer event and presentations on various programming topics without a clear focus on Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1201,10 +1036,10 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-16T18:31:53",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a developer event and various presentations on topics like ADO.NET, Anti-Patterns, Continuous Integration, and Test Driven Development, without any focus on Lean Thinking principles.",
     "level": "Ignored"
   },
@@ -1219,10 +1054,10 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T18:31:53",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a developer event with discussions on various topics, including Continuous Integration and Test Driven Development, but does not primarily focus on Behaviour Driven Development.",
     "level": "Ignored"
   },
@@ -1237,13 +1072,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T07:31:33",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a developer event and the speakers' presentations rather than directly discussing working software. While there are mentions of relevant topics like Continuous Integration and Test Driven Development, these are not explored in depth or connected to the broader themes of delivering functional software. The overall emphasis is more on the event experience than on the characteristics or practices of working software.",
     "level": "Ignored"
   },
@@ -1258,33 +1093,33 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T18:31:53",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a developer event and presentations on topics like Continuous Integration and Test Driven Development, with no clear focus on Scrum Team dynamics, roles, or practices.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T18:31:53",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on speakers and their presentations from an event, lacking a clear discussion on team motivation strategies or dynamics.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T07:31:30",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions topics relevant to Agile and DevOps, such as Continuous Integration and Test Driven Development, but lacks a focused discussion on pragmatic problem-solving strategies or real-world applications. The reflections on speakers and their presentations do not delve deeply into the practical application of these concepts, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1297,13 +1132,13 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T13:15:02",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses various presentations related to software development practices, including Continuous Integration and Test Driven Development, which are relevant to engineering excellence. However, the focus is more on the event and speakers rather than a deep exploration of engineering principles or practices. The mentions of specific topics are brief and lack detailed analysis, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1323,15 +1158,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses a developer event with speakers and presentations focused on various technical topics, but does not address asynchronous development principles, practices, or related discussions.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T18:31:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a developers' event and individual presentations that are not related to scaling Scrum or its principles and practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1370,38 +1196,29 @@
     "reasoning": "The content does not primarily discuss Scrum principles, roles, or practices, but rather focuses on a developer event and mentions topics like Continuous Integration and Test Driven Development.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T18:31:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on speaker presentations related to software development and individual sessions rather than on strategies for scaling agile practices or organizational agility.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:52:23",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a developer event and discusses various technical topics and speakers, with no direct mention of the Scrum Master role or its responsibilities. While there are references to concepts like Continuous Integration and Test Driven Development, these are not aligned with the core themes of the Scrum Master category. The discussion lacks depth regarding the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-03-15T07:31:24",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content briefly mentions 'Test Driven Development' and 'Continuous integration', which are related to automated testing, but the primary focus is on the event and speakers rather than a detailed exploration of automated testing principles or practices. The discussion lacks depth and does not cover key topics such as types of automated tests, best practices, or tools, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1414,25 +1231,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:52:27",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content mentions 'Test Driven Development' (TDD) explicitly, which is a key aspect of Test First Development. However, the overall focus of the content is more on the event and various presentations rather than a deep exploration of TDD principles or practices. While there is some alignment with the core themes of Test First Development, such as the mention of continuous integration and the impact of TDD, the depth of discussion is limited to a brief mention of the topic without detailed exploration of its principles or practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:51:46",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on specific technical topics and presentations from a developer event, such as ADO.NET and Test Driven Development, with minimal discussion on collaboration or decision-making frameworks. While there are mentions of speakers and their insights, the content lacks a clear connection to the principles of social technologies, such as self-organisation or collective intelligence. The overall depth of discussion regarding social technologies is very limited, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -1447,10 +1264,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:43:00",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a developer event and various presentations on topics like ADO.NET, Anti-Patterns, Continuous Integration, and Test Driven Development, which are not directly related to Internal Developer Platforms.",
     "level": "Ignored"
   },
@@ -1465,73 +1282,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T07:31:20",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on a developer event and the presentations given, with no direct mention of Scrum principles, roles, or practices. While there is a brief reference to Continuous Integration and Test Driven Development, these topics do not align closely with the core themes of Scrum. The discussion lacks depth regarding Scrum's framework or its implementation, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:41:49",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Continuous Integration and Test Driven Development, which are related to the Shift-Left Strategy, but it does not explicitly discuss the integration of testing, security, or compliance early in the development process. The focus is more on event experiences and speaker presentations rather than a detailed exploration of Shift-Left principles or practices.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-04-08T19:52:08",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on personal experiences and reflections from a specific event, discussing various presentations and speakers without addressing the concept of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives or alignment strategies, and the discussion lacks depth regarding the principles of Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-04-08T19:52:11",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 45.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 40.0,
+    "final_score": 45.0,
     "reasoning": "The content briefly mentions the importance of learning and insights gained from presentations, which aligns with the concept of continuous learning. However, it lacks a detailed discussion on competence as a foundational principle, focusing more on event experiences rather than strategies for fostering competence or the impact of competence on professional outcomes.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-04-08T19:52:14",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Continuous Integration and Test Driven Development, which are related to Continuous Improvement, but does not delve into the principles or practices of Continuous Improvement itself. The focus is more on event highlights and speaker presentations rather than a discussion on the ongoing practice of reflection and adaptation.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:52:16",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a developer event and discusses specific presentations on technical topics such as ADO.NET, Anti-Patterns, and Test Driven Development. There are no explicit mentions of Agentic Agility or its principles, and the discussion does not align with the core themes of intentionality, autonomy, or adaptability. The depth of discussion is limited to event experiences and speaker insights, lacking any exploration of the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }

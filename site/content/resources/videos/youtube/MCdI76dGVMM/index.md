@@ -33,8 +33,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
 - Competence
+- Scrum Master
 - Continuous Learning
 - Software Development
 resourceTypes:

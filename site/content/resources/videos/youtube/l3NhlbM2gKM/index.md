@@ -32,14 +32,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Empirical Process Control
-- Agile Planning
 - Agile Product Management
+- Empirical Process Control
 - Agile Philosophy
+- Agile Planning
 - Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 # Unraveling the Story Point Myth in Scrum: A Path to Clarity 🚀

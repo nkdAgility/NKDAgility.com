@@ -9,7 +9,7 @@ ResourceImportId: 9951
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-08-19
-weight: 630
+weight: 590
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,9 +30,8 @@ aliasesArchive:
 - /blog/a-change-for-the-better--4---homecoming
 - /resources/blog/a-change-for-the-better-4
 tags:
-- Mentoring
 - Application Lifecycle Management
-- Coaching
+- Mentoring
 categories: []
 preview: nakedalm-logo-128-link-4-4.png
 

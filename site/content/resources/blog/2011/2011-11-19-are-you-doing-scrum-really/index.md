@@ -9,7 +9,7 @@ ResourceImportId: 4049
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-11-19
-weight: 575
+weight: 530
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,16 +28,13 @@ aliasesArchive:
 - /blog/are-you-doing-scrum--really-
 - /resources/blog/are-you-doing-scrum-really
 tags:
-- Software Development
 - Agile Frameworks
-- Agile Project Management
-- Scrum Product Development
+- Software Development
 - Professional Scrum
-- People and Process
 - Agile Product Management
-- News and Reviews
-- Software Developers
 - Agile Transformation
+- Pragmatic Thinking
+- Working Software
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-3-3.png

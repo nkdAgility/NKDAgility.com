@@ -1,10 +1,10 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T19:20:03",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal holiday activities and experiences, with only a brief mention of WPF development, which does not align with the core principles of Application Lifecycle Management.",
     "level": "Ignored"
   },
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T19:20:11",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal holiday activities and reflections, with only a brief mention of issues related to SharePoint installation, which is not the main focus.",
     "level": "Ignored"
   },
@@ -73,24 +73,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-10T13:17:49",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 72.0,
     "ai_mentions": 10.0,
     "ai_alignment": 60.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses personal experiences and reflections during the holiday period, which aligns with the Miscellaneous category. While it mentions WPF and SharePoint, these references do not delve into Agile, Scrum, DevOps, or Lean principles, making them secondary to the overall narrative. The depth of discussion on personal activities and general observations contributes to a higher confidence score, as it lacks a direct connection to established frameworks.",
     "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T19:20:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal holiday activities and technical challenges with WPF, without addressing organisational resilience or change management.",
-    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -99,15 +90,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal holiday activities and learning WPF, with no clear focus on complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T19:20:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal holiday activities and experiences, with only a brief mention of WPF, which is not central to the overall theme.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -121,10 +103,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T19:20:21",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal holiday activities and learning WPF, with no focus on metrics or learning principles.",
     "level": "Ignored"
   },
@@ -157,35 +139,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-04-08T20:15:20",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on personal holiday plans and gaming, with a brief mention of WPF development. There are no direct discussions or mentions of Evidence-Based Management principles or metrics, and the content lacks any empirical decision-making or data-informed discussions.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-04-08T20:15:15",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on personal holiday plans and gaming, with a brief mention of WPF development. It does not discuss any aspects of the Agile Product Operating Model or related principles, making it irrelevant to the category.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T19:20:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on personal experiences and holiday activities, with only a brief mention of WPF, which does not align with the core themes of industry news or reviews.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -213,42 +186,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal holiday activities and experiences, with only a brief mention of WPF, which is not central to platform engineering.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T19:20:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses personal holiday activities and experiences, with no relevance to AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T19:20:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal holiday activities and experiences, with only a brief mention of WPF, which does not align with the central themes of code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T19:20:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal holiday activities and reflections, with no focus on events or presentations related to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T19:20:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal holiday activities and technical learning, with no focus on transparency or accountability within Agile teams.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -319,13 +256,13 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-04-08T20:15:02",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on personal holiday plans, gaming, and learning WPF for .NET development, with no explicit discussion of DevOps principles, practices, or cultural shifts. While there is a mention of SharePoint development, it does not align with the core themes of DevOps, such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
@@ -336,36 +273,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal holiday activities and experiences, with only a brief mention of WPF, which does not constitute a central theme related to technical excellence.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T19:20:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal holiday activities and technical challenges with SharePoint and WPF, with no focus on team dynamics, collaboration, or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-15T07:37:08",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content briefly mentions the intention to learn WPF and acknowledges its steep learning curve, which aligns with the theme of continuous learning. However, the primary focus is on personal activities during the holiday period, with only a minor emphasis on learning and discovery. The discussion lacks depth and does not explore methodologies or processes that foster innovation or experimentation, leading to a lower confidence score.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T19:21:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal holiday activities and experiences, with only a brief mention of WPF, which does not align with the category focus on products and books related to Agile and DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -397,10 +304,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T19:47:00",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses personal holiday activities and experiences, with only a brief mention of WPF in the context of learning, which is not central to the theme of innovation.",
     "level": "Ignored"
   },
@@ -429,15 +336,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses personal holiday activities and technical learning, with no clear focus on portfolio management or related themes.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T19:47:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content discusses personal experiences and technology unrelated to Scrum or product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -469,10 +367,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T19:47:00",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on personal holiday activities and learning WPF, with no discussion on Agile values or principles.",
     "level": "Ignored"
   },
@@ -505,20 +403,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T19:47:00",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content is focused on personal holiday reflections and experiences, with no relevant discussion of the Definition of Done.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T19:47:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on personal holiday activities and technology, specifically WPF and SharePoint, without any reference to Scaled Agile practices or frameworks.",
+    "reasoning": "Content is focused on personal holiday reflections and experiences, with no relevant discussion of the Definition of Done.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -550,19 +439,19 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T19:47:00",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal holiday activities and development experiences with WPF, without relating to empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T19:47:00",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal holiday activities and experiences, along with mentions of SharePoint and WPF development, but does not address Test Driven Development.",
     "level": "Ignored"
   },
@@ -584,33 +473,24 @@
     "reasoning": "Content primarily discusses personal experiences during the holiday season and mentions SharePoint development issues without directly focusing on collaboration tools for Agile teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T19:47:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses personal activities during a holiday period, with minimal mention of software development, and does not align with the themes of Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:37:10",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions WPF and its relevance to .NET application development, indicating some alignment with software development practices. However, the primary focus is on personal experiences and holiday activities, with only a superficial discussion of software topics. The depth of discussion on software development is minimal, primarily reflecting personal opinions rather than detailed methodologies or practices.",
     "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-16T19:47:00",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about personal holiday experiences and learning WPF, with no mention of Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
@@ -632,7 +512,7 @@
     "reasoning": "Content does not discuss estimation, Agile, or Scrum; it focuses on personal experiences and technology learning.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T19:47:00",
     "ai_confidence": 0,
@@ -706,34 +586,34 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-04-08T20:15:24",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on personal holiday plans, gaming, and learning WPF for .NET development, with no direct mention or discussion of Continuous Delivery principles, practices, or related topics. It lacks any relevant depth or alignment with the category.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T19:47:00",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about personal updates and holiday activities, with no discussion on Lead Time or relevant topics.",
     "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-15T07:37:08",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions the intention to learn WPF, which aligns with the concept of continuous learning. However, the primary focus is on personal holiday activities and does not delve deeply into the principles or practices of continuous learning, such as knowledge sharing or feedback loops. The discussion lacks detail on how this learning will impact team dynamics or contribute to a growth mindset.",
     "level": "Ignored"
   },
@@ -757,20 +637,11 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T19:47:00",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about holiday activities, personal reflections, and technology, with no mention of hypothesis formulation or experimentation.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T19:47:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses personal holiday activities and technology interests unrelated to AI, Agile, or DevOps.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -811,10 +682,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T19:47:00",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses personal activities and experiences during a holiday period, with no relevance to Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -865,10 +736,10 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T19:47:00",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses personal holiday experiences and WPF development rather than source control practices.",
     "level": "Ignored"
   },
@@ -946,19 +817,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T19:47:00",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on personal holiday experiences and technical development, without relation to Definition of Ready or Agile practices.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T19:47:00",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on personal experiences, holiday activities, and WPF, with no discussion or reference to Acceptance Test Driven Development.",
     "level": "Ignored"
   },
@@ -973,13 +844,13 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:37:08",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 12.0,
     "ai_mentions": 15.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on personal experiences during the holiday season, with only a brief mention of WPF and its learning curve. While there is a nod towards improving technical skills, the overall discussion lacks depth and does not align closely with the core themes of software craftsmanship or engineering practices.",
     "level": "Ignored"
   },
@@ -992,15 +863,6 @@
     "reasoning": "Content is primarily about personal updates, holiday activities, and learning WPF, with no relevant discussion on remote working or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T19:47:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily personal and recreational, discussing holiday activities and technology interests without any reference to Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T19:47:00",
@@ -1008,15 +870,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about personal experiences and holiday activities, without any discussion on customer retention strategies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T19:47:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses personal holiday activities and technology topics, with no mention or relevance to Agile Project Management.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1039,10 +892,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T19:47:00",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses personal holiday activities and development with WPF, with no mention of Cycle Time or relevant metrics.",
     "level": "Ignored"
   },
@@ -1195,10 +1048,10 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T19:47:00",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily a personal blog about holiday activities and learning WPF, with no relevance to Behaviour Driven Development.",
     "level": "Ignored"
   },
@@ -1213,13 +1066,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T07:37:08",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on personal experiences during the holiday period, with only a brief mention of WPF and SharePoint development. It lacks a direct discussion on working software principles, quality, or customer feedback, which are essential for the 'Working Software' category.",
     "level": "Ignored"
   },
@@ -1288,20 +1141,11 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T19:47:00",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal activities during a holiday period, focusing on gaming and learning WPF, without mention of asynchronous development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T19:47:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on personal experiences and technology unrelated to Scaling Scrum, such as WPF and SharePoint, with no relevant discussion on Scrum principles or practices.",
+    "reasoning": "Content primarily discusses personal activities during a holiday period, focusing on gaming and learning WPF, without mention of asynchronous development principles or practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1340,24 +1184,15 @@
     "reasoning": "Content primarily discusses personal holiday activities and technology topics, with no relevant focus on Scrum principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T19:47:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal holiday experiences and development with WPF, with no relation to scaling agility concepts or frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T20:15:17",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on personal holiday plans and technical insights related to WPF and .NET development, with no direct mention of Scrum or the role of a Scrum Master. While there is a brief mention of learning and skill development, it does not align with the core themes of the Scrum Master category, such as facilitating team effectiveness or promoting agile principles.",
     "level": "Ignored"
   },
@@ -1381,25 +1216,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T20:15:22",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on personal holiday plans and experiences with Xbox and WPF development, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:53:34",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on personal holiday plans and gaming, with a brief mention of WPF development. It does not discuss any themes related to collaboration, decision-making, or value delivery within organisations, which are central to the category of Social Technologies.",
     "level": "Ignored"
   },
@@ -1432,73 +1267,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:15:49",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not mention Scrum or its principles, roles, events, or artifacts. It focuses on personal experiences and technology discussions unrelated to Scrum, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:44:05",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on personal experiences and holiday activities, with a brief mention of WPF development. It does not discuss the Shift-Left Strategy or its principles, benefits, or techniques, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-04-08T20:15:04",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on personal holiday plans and gaming, with only a brief mention of WPF development. It lacks any discussion on Common Goals, Agile, or DevOps principles, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-04-08T20:15:07",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions the intention to learn WPF and increase skill sets, which aligns with the concept of continuous learning. However, the primary focus is on personal holiday activities and gaming, with only a minor emphasis on competence in the context of skill development. The depth of discussion regarding competence is minimal, primarily limited to a mention of the learning curve associated with WPF.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-04-08T20:15:09",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on personal holiday plans and gaming, with a brief mention of learning WPF. There is no substantial discussion on Continuous Improvement principles, nor does it provide insights into processes, team effectiveness, or empirical evidence. The content lacks alignment with the core themes of Continuous Improvement, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T20:15:12",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on personal holiday plans and gaming, with a brief mention of WPF development. There is no discussion of Agentic Agility, intentional shaping of outcomes, or the interplay between human and AI capabilities. The themes of autonomy, adaptability, and value alignment are absent, leading to a very low confidence score.",
     "level": "Ignored"
   }

@@ -9,7 +9,7 @@ ResourceImportId: 4138
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-02
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,8 +29,7 @@ aliasesArchive:
 - /visual-studio-2010-overview---reporting-&-process
 - /blog/visual-studio-2010-overview---reporting-&-process
 - /resources/blog/visual-studio-2010-overview-reporting-process
-tags:
-- Practical Techniques and Tooling
+tags: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories: []
 

@@ -8,18 +8,6 @@
     "reasoning": "The content is focused on issues related to upgrading Team Foundation Server and database connection errors, which do not pertain to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-10T14:52:01",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses specific errors encountered during the upgrade of Team Foundation Server 2012 and provides practical steps for troubleshooting and resolving these issues. It includes a detailed analysis of error messages and suggests a structured approach to upgrading TFS, which aligns with the category's focus on practical techniques and tooling. However, while it mentions tools and methodologies, the discussion is primarily centred on troubleshooting rather than a broader exploration of Agile and DevOps practices, which slightly limits its alignment and depth.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-14T15:07:54",
@@ -31,72 +19,36 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:00:41",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical issues related to upgrading Team Foundation Server, with no direct mention of Evidence-Based Management principles or metrics. While it discusses problem-solving and troubleshooting, it does not align with the core themes of EBM, such as data-informed decision-making or value delivery metrics.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-14T15:07:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses troubleshooting specific errors during the upgrade of Team Foundation Server, with a focus on database issues rather than principles of code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-14T15:07:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily focuses on technical issues and error messages related to database upgrades, lacking discussions on learning processes or methodologies for fostering innovation.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-14T15:07:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content discusses errors encountered during a TFS upgrade and does not address AI, automation, or Agile methodologies.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-14T15:07:54",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about database upgrade issues in Team Foundation Server and does not reference Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-06T16:03:15",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on troubleshooting and resolving issues related to the installation and upgrade of Team Foundation Server 2012. It discusses specific error messages encountered during the upgrade process, which directly relates to installation and configuration challenges. The detailed steps provided for mitigating future issues, such as running the Best Practices Analyser and ensuring backups, align well with the key topics of the category. The depth of discussion is substantial, as it includes error logs and specific solutions, demonstrating a clear focus on practical installation and configuration guidance.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-14T15:07:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical error related to Team Foundation Server upgrade processes, focusing on troubleshooting and recovery steps rather than topics of transparency or accountability within Agile teams.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content primarily focuses on a technical upgrade issue concerning Team Foundation Server, detailing errors and troubleshooting steps without addressing the interplay between social and technical systems.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-14T15:07:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on technical errors and resolution steps for upgrading Team Foundation Server, lacking a primary discussion on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:00:25",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific error related to the upgrade of Team Foundation Server (TFS) and does not engage with broader DevOps principles or practices. While it mentions aspects of system administration and upgrade processes, it lacks discussions on collaboration, automation, or cultural shifts that are central to the DevOps philosophy. The content is more technical and operational rather than strategic or philosophical, leading to a low confidence score in its alignment with the DevOps category.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily discusses technical issues related to upgrading Team Foundation Server, without any focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-14T15:07:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to upgrading Team Foundation Server rather than events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-14T15:07:54",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses errors related to a failed upgrade of Team Foundation Server, without a clear focus on flow efficiency principles, metrics, or methodologies.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-14T15:07:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical errors and solutions for upgrading Team Foundation Server, without addressing any human factors or processes related to team dynamics, collaboration, or methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-14T15:07:54",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses error messages and solutions during a failed upgrade of Team Foundation Server, focusing on technical issues, not metrics or learning.",
     "level": "Ignored"
   },
@@ -220,15 +145,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-07T15:13:05",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses a specific error encountered during the upgrade of Team Foundation Server, focusing on troubleshooting and solutions. While it touches on technical aspects related to database connectivity and upgrade processes, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The mention of best practices for upgrades is relevant but does not delve deeply into the principles of Technical Excellence, such as TDD or CI/CD. Therefore, while there is some alignment, the depth and focus on the category are limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -250,13 +175,13 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T05:28:29",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a specific error encountered during the upgrade of Team Foundation Server, focusing on troubleshooting and solutions rather than the broader methodologies and practices of product delivery. While it touches on aspects of planning and execution related to upgrades, it lacks a comprehensive discussion on product delivery principles such as Agile methodologies, iterative development, or deployment strategies.",
     "level": "Ignored"
   },
@@ -278,15 +203,6 @@
     "reasoning": "Content is focused on troubleshooting and technical details regarding a specific error in upgrading Team Foundation Server, and does not discuss Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-14T15:07:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to upgrading Team Foundation Server rather than reviewing or analyzing products or literature related to Agile methodologies or DevOps practices.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-14T15:07:54",
@@ -298,13 +214,13 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T12:51:23",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 72.0,
     "ai_mentions": 80.0,
     "ai_alignment": 65.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses issues related to upgrading Team Foundation Server (TFS), which is a component of Azure DevOps. It provides specific error messages and troubleshooting steps that are relevant to TFS, indicating a strong focus on Azure DevOps functionalities. However, while it aligns well with the category, it lacks broader discussions on Azure DevOps services and methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -328,22 +244,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T15:07:54",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to upgrading Team Foundation Server, specifically error messages and troubleshooting steps, which do not align with the principles or framework of One Engineering System.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:00:38",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses technical issues related to upgrading Team Foundation Server, focusing on error messages and troubleshooting steps. It does not mention or align with the Agile Product Operating Model or its principles, nor does it provide any depth on product management or agile methodologies.",
     "level": "Ignored"
   },
@@ -356,26 +272,17 @@
     "reasoning": "Content primarily discusses technical errors and solutions related to upgrading Team Foundation Server, with no focus on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-14T15:07:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses technical errors related to upgrading Team Foundation Server, detailing troubleshooting steps and solutions without presenting any industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T05:28:25",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses a specific error encountered during the upgrade of Team Foundation Server (TFS) 2012, focusing on troubleshooting and resolution steps. While it touches on aspects of application maintenance and upgrade processes, it lacks a comprehensive discussion on the broader methodologies, practices, and tools associated with Application Lifecycle Management. The mention of upgrade steps and best practices hints at ALM but does not delve into the lifecycle stages or governance principles, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -388,24 +295,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T19:25:57",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on technical issues and troubleshooting of a specific software upgrade, which does not pertain to the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T18:41:04",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses a specific error encountered during the upgrade of Team Foundation Server, focusing on troubleshooting and solutions. While it touches on technical aspects such as database connectivity and upgrade procedures, it lacks a broader discussion on software craftsmanship, best practices, or principles of clean code. The depth of discussion is limited to a specific issue rather than encompassing the wider scope of technical mastery.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -418,13 +325,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:00:44",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 10.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on troubleshooting issues related to upgrading Team Foundation Server (TFS) and does not discuss Continuous Delivery principles, practices, or benefits. While it touches on aspects of software deployment, it lacks a direct connection to Continuous Delivery concepts such as automation, rapid feedback, or cultural aspects of delivery. The discussion is more about resolving specific upgrade errors rather than exploring Continuous Delivery as a practice.",
     "level": "Ignored"
   },
@@ -439,10 +346,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T19:25:57",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses issues related to upgrading Team Foundation Server and resolving errors, with no clear primary focus on Lead Time or its associated metrics.",
     "level": "Ignored"
   },
@@ -457,10 +364,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T19:25:57",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses issues related to database upgrades in Team Foundation Server and troubleshooting errors, which does not pertain to the Definition of Ready or backlog item readiness.",
     "level": "Ignored"
   },
@@ -511,22 +418,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-11T10:31:24",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses troubleshooting and solutions related to a failed upgrade of Team Foundation Server, which touches on operational practices in terms of ensuring system health and successful upgrades. However, it primarily focuses on specific error messages and technical details rather than broader operational efficiency strategies or methodologies. While it does provide some best practices for upgrades, the overall emphasis is more on problem resolution than on enhancing operational efficiency within Agile, DevOps, or Lean frameworks.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T19:25:57",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Team Foundation Server upgrades, database connection errors, and troubleshooting, which are not relevant to Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -586,10 +493,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T19:25:57",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on issues and troubleshooting related to upgrading Team Foundation Server, not on team performance or Agile methodologies.",
     "level": "Ignored"
   },
@@ -613,31 +520,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T11:56:24",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed discussion on issues encountered during the upgrade of Team Foundation Server (TFS), which is a software development tool. It explicitly mentions error codes and troubleshooting steps, aligning closely with software development practices, particularly in the context of version control and upgrade processes. The depth of the discussion includes specific error messages, potential causes, and a structured solution, demonstrating a strong focus on software development methodologies and best practices.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T19:25:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to upgrading Team Foundation Server and troubleshooting database connectivity errors, which is not related to Agile Project Management principles or practices.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T19:25:57",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to SQL Server communication errors during a Team Foundation Server upgrade, with no mention of Agile values or principles.",
     "level": "Ignored"
   },
@@ -661,10 +559,10 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T19:25:57",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about issues encountered during a software upgrade, technical solutions, and database errors, with no focus on empirical process control principles or Agile methodologies.",
     "level": "Ignored"
   },
@@ -688,10 +586,10 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T19:25:57",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on a specific error related to Team Foundation Server upgrade processes, not on collaboration tools or enhancing team collaboration.",
     "level": "Ignored"
   },
@@ -731,15 +629,6 @@
     "reasoning": "Content primarily discusses technical errors and solutions related to upgrading Team Foundation Server, without reference to customer satisfaction principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T19:25:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on issues related to upgrading Team Foundation Server, including errors and troubleshooting related to SQL Server connectivity, rather than discussions on scaling Scrum practices or frameworks.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T19:25:58",
@@ -758,24 +647,15 @@
     "reasoning": "Content discusses technical issues related to upgrading Team Foundation Server, with no mention of psychological safety or its relevance in team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T19:25:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on technical issues and solutions related to upgrading Team Foundation Server, with no discussion of scaling agility or related frameworks.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T05:28:16",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a specific error encountered during the upgrade of Team Foundation Server, focusing on troubleshooting and solutions rather than broader engineering excellence principles. While it touches on best practices for upgrades, it lacks a comprehensive discussion on software craftsmanship, coding standards, or continuous improvement processes, which are central to the category of Engineering Excellence.",
     "level": "Ignored"
   },
@@ -817,13 +697,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T18:03:22",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content provides a detailed account of troubleshooting a specific error encountered during a Team Foundation Server upgrade, which aligns with pragmatic thinking by focusing on practical problem-solving strategies. It discusses real-world applications of TFS upgrade processes, including steps to mitigate future issues, which reflects adaptability and critical thinking in a complex environment. However, while it does mention relevant concepts, the primary focus is on a specific technical issue rather than broader Agile or DevOps principles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -838,29 +718,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T19:25:58",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses errors and troubleshooting during a Team Foundation Server upgrade process, with no clear focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T19:25:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses technical issues related to upgrading Team Foundation Server, which is unrelated to Scrum product development methodologies, roles, or practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T19:25:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical issues related to upgrading Team Foundation Server, with no mention of Agile practices, scaling Agile methodologies, or coordination among teams.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -901,22 +763,22 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T05:28:31",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a specific error encountered during the upgrade of Team Foundation Server, focusing on troubleshooting and solutions rather than the broader principles of working software. While it touches on aspects of software functionality and operational issues, it lacks a comprehensive discussion on delivering high-quality software or aligning with user requirements, which are central to the 'Working Software' category.",
     "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T19:25:58",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical error related to upgrading Team Foundation Server, with no relevant information on Agile planning tools or methodologies.",
     "level": "Ignored"
   },
@@ -994,13 +856,13 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-11T16:51:37",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses issues related to upgrading Team Foundation Server, which is a part of the release management process. It mentions specific errors encountered during the upgrade, which aligns with the risk management aspect of release processes. However, the focus is primarily on troubleshooting rather than on broader release management strategies, making it a secondary discussion rather than a primary focus.",
     "level": "Secondary"
   },
@@ -1015,10 +877,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T19:25:58",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on TFS upgrade errors and troubleshooting rather than on Cycle Time measurement or implications.",
     "level": "Ignored"
   },
@@ -1051,10 +913,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T19:25:58",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical issues related to upgrading Team Foundation Server and database errors, which do not align with discussions on team collaboration, dynamics, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1076,7 +938,7 @@
     "reasoning": "Content primarily focuses on troubleshooting and upgrading Team Foundation Server, which does not align with discussions on leveraging digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T19:25:58",
     "ai_confidence": 0,
@@ -1085,26 +947,17 @@
     "reasoning": "Content is focused on troubleshooting and resolving errors related to Team Foundation Server upgrades, which does not pertain to Minimum Viable Product discussions.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T19:25:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses a specific technical error related to upgrading Team Foundation Server, which does not involve AI or its applications in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T15:01:36",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily discusses issues related to the upgrade and configuration of Team Foundation Server (TFS), including specific error messages and troubleshooting steps. It directly addresses configuration management by detailing the errors encountered during the upgrade process and the necessary steps to resolve them. The depth of discussion includes specific error codes, log examination, and a structured approach to restoring and upgrading the system, which aligns well with the key topics of system configuration. Overall, the content is focused on practical aspects of configuring and maintaining a system, justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1144,37 +997,37 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T18:58:21",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses issues related to upgrading Team Foundation Server and does not mention Test First Development principles, success criteria, or testing practices. It focuses on error resolution and upgrade processes rather than any testing methodologies.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T05:28:19",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 83.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily discusses issues related to upgrading Team Foundation Server (TFS) 2012, which operates on the Windows platform. It explicitly mentions error messages and troubleshooting steps that are relevant to the Windows environment, particularly in relation to SQL Server and TFS. The depth of discussion includes specific error codes, potential solutions, and best practices for managing TFS updates, all of which align closely with the key topics outlined in the Windows category. The content does not stray into non-Windows operating systems or unrelated software, maintaining a strong focus on Windows-related issues.",
     "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-15T05:28:27",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses an error encountered during the upgrade of Team Foundation Server, focusing on troubleshooting and recovery steps rather than deployment strategies. While it touches on aspects of the upgrade process, it lacks a direct discussion of methodologies or practices related to deployment strategies such as Blue-Green Deployments or Canary Releases. The mention of steps to mitigate issues during upgrades is relevant but does not provide a comprehensive exploration of deployment strategies.",
     "level": "Ignored"
   },
@@ -1189,19 +1042,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T19:25:58",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily focused on technical issues related to the upgrade of Team Foundation Server, including error messages and solutions related to database connectivity. There is no discussion of team dynamics, motivation, or any psychological aspects of team engagement.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T19:25:58",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on troubleshooting issues with Team Foundation Server and upgrade processes, with no relevance to remote working or Agile team practices.",
     "level": "Ignored"
   },
@@ -1216,13 +1069,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T05:28:22",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 38,
     "non_ai_confidence": 0,
-    "final_score": 83.0,
+    "final_score": 92.0,
     "reasoning": "The content primarily focuses on troubleshooting issues encountered during the upgrade of Team Foundation Server 2012, detailing specific error messages and their implications. It provides a systematic approach to diagnosing the problems, including examining logs and identifying SQL Server communication errors. The depth of discussion includes specific error codes, potential causes, and a step-by-step solution for restoring data and ensuring a successful upgrade. This aligns closely with the key topics of the Troubleshooting category, demonstrating both conceptual alignment and depth of discussion.",
     "level": "Primary"
   },
@@ -1237,13 +1090,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T18:58:23",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses entirely on technical issues related to upgrading Team Foundation Server and does not mention or discuss the role, responsibilities, or impact of a Scrum Master in any capacity. There are no references to Scrum practices, team dynamics, or agile principles, which are essential for alignment with the Scrum Master category.",
     "level": "Ignored"
   },
@@ -1265,15 +1118,6 @@
     "reasoning": "Content primarily discusses technical errors related to upgrading Team Foundation Server and provides troubleshooting steps, which is not relevant to working agreements or team collaboration.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T19:25:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to the upgrade process of Team Foundation Server and error messages, with no focus on software development practices, Agile, or DevOps principles.",
-    "level": "Ignored"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-15T19:25:58",
@@ -1285,10 +1129,10 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-15T19:25:58",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a database upgrade issue related to Team Foundation Server (TFS) and does not focus on Agile engineering practices, methodologies, or principles.",
     "level": "Ignored"
   },
@@ -1375,10 +1219,10 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-15T19:25:58",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical error messages and troubleshooting for Team Foundation Server upgrades, with no focus on trend analysis or patterns within Agile, DevOps, or business agility frameworks.",
     "level": "Ignored"
   },
@@ -1389,15 +1233,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical issues related to Team Foundation Server upgrades and error messages, lacking any discussion on accountability or team dynamics.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T19:25:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses errors and solutions related to upgrading Team Foundation Server, with no mention of Kanban principles or scaling practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1420,13 +1255,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:33:44",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical issues related to upgrading Team Foundation Server, specifically error messages and troubleshooting steps. It does not discuss collaboration, decision-making, or value delivery, which are core themes of social technologies. The mention of TFS and SQL Server is technical and does not align with the principles of self-organisation or collective intelligence. Overall, the content lacks depth in relation to social technologies.",
     "level": "Ignored"
   },
@@ -1459,73 +1294,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:42:29",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses issues related to upgrading Team Foundation Server (TFS) and does not mention Scrum principles, roles, events, or any related topics. It focuses on technical errors and solutions specific to TFS, which is unrelated to the Scrum framework.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:24:23",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses issues related to upgrading Team Foundation Server, including error messages and troubleshooting steps. It does not address the Shift-Left Strategy, which focuses on integrating testing, security, and compliance earlier in the software development lifecycle. There are no direct mentions of Shift-Left principles, techniques, or metrics, and the discussion lacks depth in relation to the category.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:00:27",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific error during a software upgrade process, lacking discussions on Continuous Improvement principles such as empirical evidence, culture of experimentation, or strategies for enhancing processes. While it does mention steps to mitigate future issues, these are more about immediate problem resolution rather than a commitment to ongoing improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:00:31",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical issues related to upgrading Team Foundation Server, specifically error messages and troubleshooting steps. It does not discuss or align with the concept of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment within teams. The content lacks any mention of frameworks like OKRs or the significance of Common Goals, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:00:35",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific error related to the upgrade of Team Foundation Server 2012. While it does touch on the importance of following best practices during upgrades, it lacks a direct discussion on competence, continuous learning, or skill development. The mention of best practices is too brief and does not delve into fostering a culture of competence or the impact of competence on decision-making, which are key themes in the category. Overall, the content does not align well with the principles of competence as defined.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T18:58:18",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific error related to the upgrade of Team Foundation Server 2012. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The content lacks any mention of intentional shaping of outcomes, adaptability, or alignment with values, which are core to the concept of Agentic Agility.",
     "level": "Ignored"
   }

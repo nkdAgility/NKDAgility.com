@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses issues related to automated builds and testing of Business Intelligence solutions, which does not align with Agile Product Management principles.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T11:29:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses challenges and issues related to automating builds and deployments in Business Intelligence solutions, without focusing on specific products or literature relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-16T11:29:13",
@@ -37,13 +28,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-07T15:49:54",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses challenges related to automated builds and testing of Business Intelligence solutions, which aligns with the principles of Technical Excellence. It mentions specific issues around automation and testing, indicating a focus on engineering practices. However, the discussion lacks depth in exploring solutions or methodologies like TDD or CI/CD, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
@@ -56,44 +47,17 @@
     "reasoning": "Content primarily discusses technical challenges related to automated builds and testing of Business Intelligence solutions, without a focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T11:29:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses challenges and solutions related to automated builds of Business Intelligence solutions, with no reference to events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T11:29:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical challenges related to automated builds and Business Intelligence solutions without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T09:38:55",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses challenges related to automating Business Intelligence builds, which touches on automation—a key principle of DevOps. However, it primarily focuses on specific tools and problems rather than the broader DevOps philosophy or practices. The mention of automation is relevant but not deeply explored, and the overall discussion lacks a comprehensive alignment with the core themes of DevOps.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T11:29:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues related to automated builds and deployment of Business Intelligence solutions, without a clear focus on AI or Agile methodologies.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -115,27 +79,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T09:39:05",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the challenges of automating Business Intelligence builds and does not discuss the Agile Product Operating Model or its principles. While it touches on automation and testing, these topics are not aligned with the core themes of APOM, such as product management or agile methodologies. The discussion lacks depth regarding the Agile Product Operating Model, resulting in a very low confidence score.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-10T13:12:15",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 75.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses specific challenges and questions related to automating the deployment and testing of Business Intelligence (BI) solutions, particularly focusing on SSIS and SSAS packages. This aligns well with the category as it explores practical techniques for tooling in the context of Agile and DevOps practices. The author explicitly mentions automation and testing, which are key aspects of the category. However, while the content is rich in detail regarding the issues faced, it lacks comprehensive solutions or methodologies, which slightly lowers the depth score.",
-    "level": "Secondary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -157,15 +109,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-15T07:27:30",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses challenges related to automating the deployment and testing of Business Intelligence (BI) packages, which aligns with installation and configuration processes. However, it lacks explicit step-by-step instructions or detailed configuration best practices, focusing instead on problems and frustrations without providing actionable solutions. The primary focus is on the issues faced rather than a structured guide, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -178,43 +130,22 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T09:39:10",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the challenges of automating Business Intelligence builds and does not explicitly mention Evidence-Based Management or its core themes. While it touches on issues related to performance testing and deployment, it lacks a focus on empirical decision-making or metrics that align with EBM principles.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T07:27:54",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses challenges related to automating builds and testing of Business Intelligence (BI) solutions, which touches on aspects of code quality and complexity. However, it primarily focuses on specific tools and processes without deeply exploring the broader implications of complexity theory or best practices in software development. The mention of problems and potential solutions indicates some alignment with the category, but the depth of discussion is limited, resulting in a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T11:29:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal challenges and technical issues related to automated builds and Business Intelligence solutions, rather than providing news or reviews relevant to Agile, DevOps, or technology updates.",
     "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-16T11:29:41",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses challenges related to automated builds and testing of Business Intelligence solutions, without a clear focus on business agility principles or practices.",
     "level": "Ignored"
   },
@@ -247,10 +178,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T11:29:46",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses challenges related to automated builds and deployment of Business Intelligence solutions, without a focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -290,45 +221,27 @@
     "reasoning": "Content primarily discusses technical challenges related to automated builds and Business Intelligence solutions, without personal reflections or experiences.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T11:30:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical challenges and issues related to automated builds and testing of Business Intelligence solutions, without a focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T07:27:49",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses automated builds and deployment related to Business Intelligence solutions, which can be associated with Azure DevOps practices. However, it does not explicitly mention Azure DevOps or its specific services, focusing instead on issues with BI packages and SQL. The discussion is somewhat relevant to CI/CD concepts but lacks depth in Azure DevOps functionalities and best practices.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T11:30:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses challenges related to automated builds and testing of Business Intelligence solutions, without addressing transparency or accountability within Agile teams.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-10T15:09:49",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses challenges related to automating the build and deployment of Business Intelligence solutions, which touches on aspects of the application lifecycle, particularly deployment and maintenance. However, it lacks a comprehensive exploration of the entire lifecycle and does not delve into governance, compliance, or risk management strategies. The mention of ALM is brief and does not serve as a primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -339,15 +252,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses challenges related to automated builds and testing of Business Intelligence solutions, without a focus on Systems Thinking principles or interconnectedness.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T11:30:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical challenges related to automated builds and deployment of Business Intelligence solutions, without a clear focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -370,15 +274,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T07:27:37",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses challenges related to automating the deployment and testing of Business Intelligence (BI) solutions, which aligns with the product delivery category. It mentions specific issues such as unit testing and performance analysis, which are relevant to quality assurance and deployment strategies. However, while it touches on important aspects of product delivery, the focus is more on specific technical challenges rather than a comprehensive discussion of methodologies or practices in product delivery.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -391,15 +295,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T07:27:52",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses challenges related to automating the build and deployment of Business Intelligence solutions, which touches on aspects of release management, particularly in the context of deployment and testing. However, it lacks explicit discussions on release planning, version control, or coordination among stakeholders, which are core themes of release management. The depth of discussion is limited to specific problems without a broader context of release strategies or practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -466,13 +370,13 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:27:26",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses challenges related to automated builds and testing of Business Intelligence solutions, which aligns with the principles of improving code quality and maintainability. However, it primarily focuses on specific issues rather than broader best practices or methodologies in software craftsmanship. The mention of automation and testing indicates some alignment with technical mastery, but the depth of discussion is limited to personal experiences and frustrations without a comprehensive exploration of solutions or principles.",
     "level": "Secondary"
   },
@@ -494,7 +398,7 @@
     "reasoning": "Content primarily discusses challenges and solutions related to automated builds and testing of Business Intelligence packages, without a focus on scaling Agile methodologies or enterprise-level practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T12:25:54",
     "ai_confidence": 0,
@@ -512,24 +416,15 @@
     "reasoning": "Content primarily discusses challenges in automating the deployment and testing of Business Intelligence solutions, which does not relate to Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T12:25:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on issues related to automated builds and testing of Business Intelligence solutions, without discussing Agile methodologies or principles.",
-    "level": "Ignored"
-  },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-03-15T07:27:47",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses challenges related to automating builds and deployments of Business Intelligence solutions, which is relevant to Azure Pipelines. However, it does not explicitly mention Azure Pipelines or CI/CD practices within the Azure ecosystem. The focus is more on the issues with SQL and BI packages rather than on Azure Pipelines specifically. While there are mentions of automation and testing, they are not deeply tied to Azure Pipelines, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -544,10 +439,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T12:25:54",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to automated builds and Business Intelligence solutions rather than Scrum Team roles, collaboration, or dynamics.",
     "level": "Ignored"
   },
@@ -607,10 +502,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-16T12:25:54",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on automated building of Business Intelligence solutions and specific technical problems related to SSIS and SSAS packages, with no mention of remote work or Agile practices.",
     "level": "Ignored"
   },
@@ -670,13 +565,13 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T13:12:13",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses challenges related to automated builds and testing of Business Intelligence solutions, which aligns with the principles of software craftsmanship and quality assurance. However, while it raises important questions about automation and testing methodologies, it lacks a structured discussion on best practices or continuous improvement processes. The focus is primarily on specific issues rather than a comprehensive exploration of engineering excellence.",
     "level": "Secondary"
   },
@@ -696,27 +591,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses issues related to automated builds and testing of Business Intelligence solutions, without reference to estimation techniques or Agile/Scrum frameworks.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T07:27:56",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses challenges related to automated builds and testing of Business Intelligence (BI) solutions, which is relevant to software development. However, it lacks explicit references to Agile or DevOps methodologies, and the focus is more on specific technical issues rather than broader practices or principles that enhance productivity and collaboration among developers. While it touches on automation and testing, it does not delve deeply into the core themes of Agile or DevOps, resulting in a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T12:25:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to automated builds and deployments of Business Intelligence solutions but does not focus on AI applications within Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -757,13 +631,13 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T12:10:53",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses challenges and considerations related to automating builds and testing for Business Intelligence solutions, which directly relates to software development practices. It explicitly mentions issues with deployment and testing of SSIS and SSAS packages, aligning well with CI/CD and testing methodologies. The depth of discussion is significant, as it outlines specific problems and seeks solutions, indicating a strong focus on software development processes.",
     "level": "Secondary"
   },
@@ -774,15 +648,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses issues related to Business Intelligence (BI) packages and their deployment, with no mention of Agile frameworks, principles, or practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T12:25:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses automated build processes and testing for Business Intelligence solutions without any reference to scaled Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -823,10 +688,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T12:25:54",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses challenges and issues related to automating deployment and testing of Business Intelligence solutions, not focusing on innovation capabilities or methods to improve them.",
     "level": "Ignored"
   },
@@ -877,13 +742,13 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-11T17:04:33",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses automation and testing in the context of Business Intelligence solutions, which aligns with key topics in Engineering Practices. It explicitly mentions challenges related to automating deployments and testing SSIS and SSAS packages, indicating a focus on automation and testing methodologies. However, while it touches on relevant themes, the depth of discussion on established practices like TDD or CI/CD is limited, preventing a higher confidence score.",
     "level": "Secondary"
   },
@@ -907,10 +772,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T12:25:54",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses challenges related to automating builds and deployments of Business Intelligence solutions, but it does not mention the Definition of Done or its principles.",
     "level": "Ignored"
   },
@@ -925,15 +790,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T09:39:08",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses challenges and solutions related to automating the deployment and testing of Business Intelligence packages, which aligns with the principles of Continuous Delivery, particularly in terms of automation and delivering incremental improvements. However, it does not explicitly mention Continuous Delivery as a concept, which affects the direct mentions score. The depth of discussion is significant as it explores various aspects of automation and testing, but it lacks a broader context of Continuous Delivery practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -946,25 +811,25 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T07:27:39",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses challenges related to automating builds and testing of Business Intelligence solutions, which touches on aspects of working software. However, it primarily focuses on specific technical issues rather than the broader principles of delivering functional software that meets user needs. While there are mentions of testing and deployment, the depth of discussion does not fully align with the core themes of working software, such as iterative development or customer feedback integration.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-03-10T18:56:22",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 78.0,
     "ai_mentions": 90.0,
     "ai_alignment": 70.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly discusses the challenges and considerations around automating the deployment and testing of Business Intelligence (BI) solutions, particularly focusing on SSIS and SSAS packages. It raises specific questions about automation and testing, which aligns well with the principles of Test Automation. The depth of discussion is significant, as it outlines various aspects of automated testing and deployment, although it does not delve into specific frameworks or tools. Overall, the content is primarily focused on test automation within the context of BI solutions, justifying a high confidence score.",
     "level": "Secondary"
   },
@@ -1006,13 +871,13 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-03-11T10:45:12",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly discusses various aspects of automated testing, particularly in the context of Business Intelligence (BI) solutions. It raises specific questions about automating the deployment and testing of SSIS and SSAS packages, which directly aligns with the core themes of automated testing. The depth of discussion is moderate, as it outlines several challenges and considerations without providing extensive solutions or methodologies. Overall, the content is focused on automated testing practices, making it a strong fit for the category.",
     "level": "Secondary"
   },
@@ -1027,15 +892,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T07:27:24",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses challenges and considerations related to automating the deployment and testing of Business Intelligence (BI) solutions, which aligns with operational practices in terms of improving efficiency and delivery. However, while it touches on relevant topics such as automation and testing, it lacks a structured approach to operational methodologies like Agile or DevOps, and does not provide in-depth strategies or best practices. The focus is more on personal experiences and frustrations rather than a comprehensive exploration of operational practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1055,21 +920,12 @@
     "reasoning": "Content is primarily focused on automated build processes and challenges related to Business Intelligence solutions, with no clear connection to empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T12:25:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Business Intelligence (BI) package building and automation, with no focus on Kanban principles or scaling Kanban methodology.",
-    "level": "Ignored"
-  },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T12:25:54",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses issues related to automated builds and testing in Business Intelligence, with no mention of backlog items or Definition of Ready concepts.",
     "level": "Ignored"
   },
@@ -1102,13 +958,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T19:39:54",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses challenges related to automating testing and deployment of Business Intelligence packages, which touches on aspects of testing but does not explicitly focus on Test First Development principles. While it mentions unit testing and automation, it lacks a clear emphasis on defining success criteria before implementation or the structured approach of Test First Development. The discussion is more about the challenges faced rather than a detailed exploration of Test First practices.",
     "level": "Ignored"
   },
@@ -1123,10 +979,10 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T12:25:54",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to automated builds and testing of Business Intelligence packages, rather than Acceptance Test Driven Development specifically.",
     "level": "Ignored"
   },
@@ -1186,13 +1042,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T07:27:35",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses practical challenges faced in automating builds and testing for Business Intelligence solutions, which aligns with pragmatic problem-solving in complex environments. It raises specific issues and questions related to deployment and testing, indicating a focus on real-world applications. However, while it touches on relevant topics, it lacks a structured exploration of Agile or DevOps principles, which limits its depth and direct mention of the category.",
     "level": "Secondary"
   },
@@ -1216,19 +1072,19 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-16T12:25:54",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical challenges with Business Intelligence solutions and automation, not on working agreements or team collaboration.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T12:25:54",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to automated deployment and testing of Business Intelligence packages, with no clear focus on team dynamics or agile practices.",
     "level": "Ignored"
   },
@@ -1252,10 +1108,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T12:25:54",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details related to automated builds and Business Intelligence solutions without addressing team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1270,67 +1126,58 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-15T07:27:32",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses challenges related to automating the deployment of Business Intelligence (BI) solutions, specifically SSIS and SSAS packages. While it touches on deployment automation, it lacks a comprehensive exploration of deployment strategies and methodologies. The focus is more on the problems faced rather than actionable insights or established strategies, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T12:25:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on automated build processes and challenges in Business Intelligence solutions without any reference to Scrum principles or product development.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T15:14:11",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly discusses various problems encountered while automating builds and deployments of Business Intelligence solutions, which aligns with troubleshooting. It raises specific issues related to SSIS and SSAS packages, indicating a focus on diagnosing and resolving technical problems. However, while it mentions these issues, the depth of discussion on methodologies or systematic approaches to troubleshooting is limited, which affects the overall confidence score.",
     "level": "Secondary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:39:57",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on challenges related to automating Business Intelligence builds and does not discuss the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, team dynamics, or the Scrum Master's influence on organisational change, which are key aspects of the category. The discussion is technical and specific to BI solutions, lacking any relevance to Scrum practices.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-03-15T07:27:41",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses challenges related to automating the deployment of Business Intelligence solutions, which touches on deployment practices. However, it lacks a direct focus on deployment frequency as a primary topic. While it mentions automation and testing, it does not delve into strategies for increasing deployment frequency or the significance of frequent releases in Agile or DevOps contexts. The discussion is more about the problems faced rather than optimising deployment intervals.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T12:25:54",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical challenges related to Business Intelligence packages, automation, and testing rather than team collaboration or Agile, Scrum, or DevOps principles.",
     "level": "Ignored"
   },
@@ -1345,29 +1192,20 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T12:25:54",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical issues related to Business Intelligence and deployment challenges, with no focus on Agile values or principles.",
     "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T12:25:54",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses challenges related to automated builds and testing of Business Intelligence solutions, focusing on SSIS and SSAS packages, which does not align with the core principles of Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T12:25:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to automated builds and deployment of Business Intelligence solutions, with no relevance to Scaling Scrum or its frameworks.",
+    "reasoning": "Content primarily discusses challenges related to automated builds and testing of Business Intelligence solutions, focusing on SSIS and SSAS packages, which does not align with the core principles of Test Driven Development.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1399,24 +1237,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T18:14:49",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses challenges related to automating the deployment and testing of Business Intelligence (BI) solutions, which directly relates to system configuration. It mentions specific issues with SQL BI packages and the need for automation in deployment and testing, aligning with the core themes of system optimisation and configuration management. However, while it touches on relevant topics, the depth of discussion is somewhat limited to specific problems without providing comprehensive solutions or best practices, which affects the overall confidence score.",
     "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T12:25:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the issues related to automating build and testing for Business Intelligence solutions, without any discussion of scaling agility practices or frameworks.",
-    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1429,25 +1258,25 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-15T07:27:44",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses challenges related to automating builds and testing for Business Intelligence solutions, which touches on aspects of Continuous Integration. However, it lacks explicit references to CI principles or practices, and the focus is more on specific problems rather than a comprehensive exploration of CI as a category. The depth of discussion is limited, primarily listing problems without delving into solutions or best practices related to CI.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:49:26",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical challenges related to automating Business Intelligence builds and does not discuss social technologies, collaboration, or decision-making. While it mentions tools and processes, it lacks any exploration of self-organisation, collective intelligence, or organisational culture, which are key themes of the Social Technologies category.",
     "level": "Ignored"
   },
@@ -1471,82 +1300,82 @@
   },
   "Artificial Intelligence": {
     "category": "Artificial Intelligence",
-    "calculated_at": "2025-02-24T14:39:56",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Business Intelligence solutions and automated build processes, with no clear focus on Artificial Intelligence or its integration within Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:57:28",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily discusses issues related to automated builds and deployment of Business Intelligence solutions, with no direct mention of Scrum principles, roles, or events. While there is a focus on project management challenges, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is also minimal regarding Scrum, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:39:26",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses challenges related to automated testing and deployment of Business Intelligence solutions, which touches on aspects of the Shift-Left Strategy. However, it lacks explicit mention of the Shift-Left concept and does not provide a comprehensive exploration of integrating testing and security early in the development process. The focus is more on specific technical issues rather than a strategic overview.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T09:38:58",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses challenges and solutions related to automating Business Intelligence builds, which does not directly address Continuous Improvement principles. While there are mentions of problems and potential solutions, the focus is more on specific technical issues rather than a broader commitment to ongoing improvement or a culture of experimentation. The depth of discussion on Continuous Improvement concepts is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T09:39:00",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical challenges of automating Business Intelligence builds and does not explicitly discuss Common Goals or their significance in Agile or DevOps. While it touches on issues related to project management and automation, it lacks a clear connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T09:39:02",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses challenges in automating Business Intelligence builds and highlights the need for solutions, which indirectly relates to competence in terms of skill development and problem-solving. However, it lacks a direct focus on continuous learning or the broader implications of competence in Agile or DevOps contexts. The depth of discussion is primarily technical and does not explore the cultural or strategic aspects of competence.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:39:51",
+    "calculated_at": "2025-04-10T15:56:27",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the challenges of automating Business Intelligence builds and does not explicitly mention Agentic Agility or its principles. While it touches on issues related to automation and problem-solving, it lacks a focus on intentional shaping of outcomes, autonomy, or adaptability in the context of Agentic Agility. The discussion is more about technical challenges than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }

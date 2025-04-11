@@ -25,10 +25,10 @@ preview: https://i.ytimg.com/vi/MutnPwNzyXM/maxresdefault.jpg
 duration: 263
 isShort: false
 tags:
-- Personal
 - Pragmatic Thinking
-- Agile Values and Principles
+- Personal
 - Agile Philosophy
+- Agile Values and Principles
 - Customer Satisfaction
 sitemap:
   filename: sitemap.xml

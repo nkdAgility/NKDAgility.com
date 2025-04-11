@@ -2,7 +2,7 @@
 title: How to Tackle the Challenge of an Ineffective Product Owner in Agile Teams
 description: Struggling with an ineffective Product Owner? Discover actionable strategies for Scrum Masters to enhance collaboration and drive team success in Agile environments.
 date: 2023-10-27T14:30:10Z
-weight: 700
+weight: 665
 ResourceId: JGQ5zW6F6Uc
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -25,16 +25,16 @@ preview: https://i.ytimg.com/vi/JGQ5zW6F6Uc/maxresdefault.jpg
 duration: 407
 isShort: false
 tags:
-- People and Process
-- Agile Project Management
 - Scrum Team
-- Scrum Master
 - Software Development
+- Scrum Master
 - Pragmatic Thinking
 - Agile Product Management
 - Team Performance
-- Scrum Product Development
 - Agile Frameworks
+- Agile Transformation
+- Professional Scrum
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,6 +42,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Product Development
 - Scrum
 
 ---

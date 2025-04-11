@@ -8,18 +8,6 @@
     "reasoning": "Content primarily discusses technical implementation details related to WPF and dependency injection, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:42:21",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content provides a detailed exploration of using Ninject for dependency injection in a WPF application, which aligns well with practical techniques and tooling in software development. It discusses the implementation of a custom DataSourceProvider and the integration of Ninject, showcasing a specific tool and methodology. The depth of discussion includes code examples and explanations of how to achieve the desired functionality, demonstrating a strong focus on practical application. However, while it is primarily focused on tooling, it does not cover broader Agile or DevOps practices, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-16T01:59:56",
@@ -31,44 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T09:10:19",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical implementation details of WPF and dependency injection using Ninject, with no direct mention or discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery metrics.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T07:20:48",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily discusses the implementation of a custom data provider using Ninject in a WPF application, which touches on aspects of code quality and dependency injection. However, it lacks a broader discussion on complexity theory or its implications on software architecture and design. While there are mentions of maintainability and modular design through dependency injection, the depth of discussion does not fully explore the interplay between code quality and complexity as outlined in the category definition.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T02:00:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details related to WPF and dependency injection, without a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T02:00:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses dependency injection in WPF using Ninject, which is unrelated to AI and automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -82,20 +40,11 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T02:00:07",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation of a custom DataSourceProvider using Ninject in a WPF application, rather than focusing on installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T02:00:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of WPF and dependency injection, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -116,24 +65,15 @@
     "reasoning": "Content primarily discusses technical implementation details of WPF and dependency injection using Ninject, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T02:00:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementations of dependency injection in WPF using Ninject, without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T09:10:04",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on WPF and dependency injection using Ninject, which are not directly related to DevOps principles or practices. While there are mentions of automation and design patterns, these are not discussed in the context of DevOps, and the overall emphasis is on software development rather than the integration of people, processes, and technology for continuous value delivery.",
     "level": "Ignored"
   },
@@ -155,15 +95,6 @@
     "reasoning": "Content primarily discusses technical implementations related to WPF and dependency injection, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T02:00:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of WPF and Ninject, with no reference to events, presentations, or discussions related to Agile, DevOps, or software engineering events.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T02:00:54",
@@ -171,15 +102,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses dependency injection in WPF applications and does not address flow efficiency principles or techniques.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T02:00:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of dependency injection in WPF using Ninject, with no focus on human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +124,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T02:00:59",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses dependency injection in WPF applications and does not address metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -220,13 +142,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T13:08:09",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the implementation of dependency injection using Ninject in a WPF application, which aligns with the principles of modular architecture and emergent design. However, while it touches on technical practices, the focus is more on a specific implementation rather than broader engineering methodologies or practices that enhance agility in software development. The depth of discussion is moderate, primarily detailing code snippets and their functionality without extensive exploration of the underlying principles of technical excellence.",
     "level": "Secondary"
   },
@@ -268,28 +190,19 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-16T02:01:07",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses WPF, dependency injection, and MVVM patterns, with no clear focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T02:01:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of WPF and Ninject, without focusing on specific products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-16T02:01:09",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details of dependency injection in WPF using Ninject, without a focus on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
@@ -322,22 +235,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T02:01:14",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses dependency injection in WPF using Ninject, which is unrelated to the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T09:10:16",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on WPF and dependency injection using Ninject, with no direct mention or relevant discussion of the Agile Product Operating Model or its principles. It lacks any connection to product management or agile methodologies.",
     "level": "Ignored"
   },
@@ -350,21 +263,12 @@
     "reasoning": "Content primarily discusses technical implementation of dependency injection in WPF using Ninject, with no focus on organisational agility or related strategies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T02:01:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of WPF and Ninject, lacking a focus on industry news, updates, or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T02:01:18",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses dependency injection in WPF applications and does not address the stages or practices of Application Lifecycle Management.",
     "level": "Ignored"
   },
@@ -379,24 +283,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T02:06:48",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on dependency injection and WPF programming techniques, with no mention of the Definition of Done or related Agile concepts.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T15:06:00",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on the implementation of dependency injection using Ninject in a WPF application, which aligns well with best practices in software design and architecture. It discusses the importance of maintaining clean code and improving code quality through the use of dependency injection, which is a key principle of software craftsmanship. The depth of discussion is substantial, providing code examples and explanations of how to create a custom DataSourceProvider, which demonstrates a strong understanding of technical concepts. Overall, the content is a detailed exploration of a specific technical practice, justifying a high confidence score in the 'Technical Mastery' category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -409,13 +313,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T09:10:21",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on WPF and dependency injection using Ninject, with no explicit discussion of Continuous Delivery principles, practices, or benefits. While it touches on software development practices, it does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or incremental improvements.",
     "level": "Ignored"
   },
@@ -448,10 +352,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T02:06:48",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses dependency injection in WPF using Ninject, with no reference to the Definition of Ready or backlog item readiness.",
     "level": "Ignored"
   },
@@ -484,10 +388,10 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-16T02:06:48",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses dependency injection, WPF, and MVVM architecture without any reference to Value Stream Mapping or Lean principles.",
     "level": "Ignored"
   },
@@ -601,31 +505,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T18:53:14",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed discussion on implementing dependency injection in a WPF application using Ninject, which is a core software development practice. It explicitly mentions concepts such as MVVM, data access layers, and custom data providers, aligning well with best practices in software design and architecture. The depth of the discussion is significant, as it includes code examples and explanations of the implementation process, demonstrating a strong focus on software development methodologies.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T02:06:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses dependency injection and WPF development techniques, with no mention of agile principles, methodologies, or practices.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T02:06:49",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on dependency injection and WPF, with no clear discussion of Agile values or principles.",
     "level": "Ignored"
   },
@@ -719,15 +614,6 @@
     "reasoning": "Content heavily discusses technical implementation details of dependency injection in WPF, without any focus on customer satisfaction or related themes.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T02:06:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses WPF and dependency injection using Ninject, with no relevance to Scrum principles or scaling frameworks.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T02:06:49",
@@ -746,24 +632,15 @@
     "reasoning": "Content heavily discusses technical aspects of dependency injection and WPF development, with no mention of psychological safety or related themes.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T02:06:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical implementation of dependency injection in WPF, with no discussion on scaling agile methodologies or practices within organizations.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T07:20:48",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the implementation of dependency injection using Ninject in a WPF application, which touches on best practices in software development. However, it lacks a broader discussion on engineering excellence principles, such as quality assurance or continuous improvement. The focus is primarily on a specific technical implementation rather than a comprehensive exploration of engineering excellence.",
     "level": "Ignored"
   },
@@ -805,13 +682,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T07:20:48",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the implementation of a custom DataSourceProvider using Ninject for dependency injection in a WPF application. While it touches on practical problem-solving in a software development context, it lacks a strong focus on Agile, Scrum, or DevOps principles. The discussion is more technical and specific to WPF rather than addressing broader pragmatic thinking strategies or real-world applications in project management.",
     "level": "Ignored"
   },
@@ -826,29 +703,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T02:06:49",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details of using Ninject in WPF, focusing on dependency injection rather than any broader insights into innovation capabilities or practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T02:06:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on WPF and dependency injection without any mention or discussion of Scrum principles, practices, or product development methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T02:06:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on WPF development and dependency injection using Ninject, with no mention of Scaled Agile practices or multi-team coordination.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -889,13 +748,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T07:20:48",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the implementation of a custom data provider using Ninject in a WPF application, which relates to the development of functional software. However, it lacks a direct focus on the broader principles of working software, such as customer feedback, iterative development, or quality assurance practices. The discussion is more technical and specific to a coding solution rather than addressing the delivery of high-quality software that meets user needs.",
     "level": "Ignored"
   },
@@ -1061,22 +920,13 @@
     "reasoning": "Content primarily focuses on coding techniques and specific implementations of dependency injection using Ninject in a WPF application, without discussing strategic adoption or integration of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T02:06:49",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation of dependency injection in a WPF application, focusing on the use of Ninject and MVVM, without any reference to Minimum Viable Product strategies or principles.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T02:06:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses dependency injection in WPF and Ninject, with no relevant discussion on AI or its applications in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1138,13 +988,13 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T18:13:25",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses WPF (Windows Presentation Foundation) and its integration with dependency injection using Ninject, which is directly related to the Windows operating system environment. There are numerous direct mentions of Windows, WPF, and Visual Studio, indicating a strong focus on Windows development. The content provides a detailed explanation of implementing a custom DataSourceProvider in a WPF application, showcasing a depth of discussion that aligns well with the category's key topics, particularly in configuration and troubleshooting. However, it does not cover broader aspects like installation or system updates, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
@@ -1177,10 +1027,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-16T02:06:49",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses WPF and dependency injection, with no focus on remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1213,13 +1063,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T19:28:23",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses entirely on WPF and dependency injection using Ninject, with no mention or discussion of Scrum, the role of a Scrum Master, or any related agile principles. It does not align with the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
@@ -1234,23 +1084,11 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-16T02:06:49",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details related to WPF and dependency injection, with no focus on working agreements or teamwork principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T07:20:48",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily discusses the implementation of dependency injection in a WPF application using Ninject, which is relevant to software development practices. However, it lacks explicit references to Agile or DevOps methodologies, and while it touches on modern engineering practices, it does not delve deeply into the collaborative or iterative aspects that are central to the Software Developers category. The focus is more on technical implementation rather than the broader role of developers within Agile or DevOps frameworks.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1264,13 +1102,13 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T07:20:50",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses dependency injection and the implementation of a custom DataSourceProvider using Ninject, which relates to clean code and automation principles. However, it lacks a broader discussion on Agile methodologies or practices like TDD, CI/CD, or refactoring. The focus is primarily on technical implementation rather than on engineering practices as a whole.",
     "level": "Ignored"
   },
@@ -1373,15 +1211,6 @@
     "reasoning": "Content primarily discusses WPF and dependency injection with no relevant information on accountability in Agile contexts.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T02:06:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses solely on WPF, dependency injection, and MVVM pattern implementation, without any relevance to Kanban or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T02:06:49",
@@ -1402,13 +1231,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:44:52",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical aspects of WPF and dependency injection using Ninject, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it touches on MVVM, it does not align with the core themes of social technologies, such as fostering collaboration or enhancing organisational culture.",
     "level": "Ignored"
   },
@@ -1441,73 +1270,73 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:53:08",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses technical aspects of WPF and dependency injection using Ninject, with no direct mentions or discussions related to Scrum principles, roles, events, or practices. The focus is on implementation details rather than any Scrum-related topics.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:35:22",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses the implementation of dependency injection in a WPF application using Ninject, with no explicit mention of the Shift-Left Strategy or its principles. While there are elements of software development discussed, they do not align with the proactive integration of testing, security, or compliance earlier in the development lifecycle, which is central to the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T09:10:09",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical implementation details of WPF and Ninject for dependency injection, with no explicit discussion of Continuous Improvement principles. While there is a mention of adapting and improving code through dependency injection, it lacks a broader context of ongoing reflection, empirical evidence, or a culture of experimentation that characterises Continuous Improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T09:10:11",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical implementation details of WPF and Ninject for dependency injection, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on project structure and design patterns, it lacks alignment with the core themes of shared objectives and strategic alignment that define Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T09:10:14",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical implementation details of WPF and Ninject for dependency injection, with minimal reference to competence or skill development. While it discusses the use of dependency injection, it does not delve into continuous learning, professional development, or the broader implications of competence in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T19:28:17",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical implementation details of WPF dependency injection using Ninject, with no explicit discussion of Agentic Agility or its principles. While there are elements of adaptability in the context of software development, the content does not engage with the intentional shaping of outcomes or the interplay between human and AI capabilities, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }

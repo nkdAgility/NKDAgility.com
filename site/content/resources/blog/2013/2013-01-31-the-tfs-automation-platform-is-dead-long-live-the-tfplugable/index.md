@@ -9,7 +9,7 @@ ResourceImportId: 9229
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-01-31
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,9 +32,8 @@ aliasesArchive:
 - /blog/the-tfs-automation-platform-is-dead--long-live-the-tfplugable
 - /resources/blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 tags:
-- Install and Configuration
-- Practical Techniques and Tooling
 - Software Development
+- Install and Configuration
 categories: []
 preview: nakedalm-logo-128-link-3-3.png
 

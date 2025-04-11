@@ -2,7 +2,7 @@
 title: What is a common mistake made by rookie agile consultants?
 description: Discover rookie mistakes made by agile consultants and learn how to identify the right expert for your team's agile journey in this insightful video!
 date: 2023-02-17T07:00:30Z
-weight: 630
+weight: 590
 ResourceId: y0dg0Sqs4xw
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,8 +29,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Agile Project Management
 - Pragmatic Thinking
 - Empirical Process Control
 - Agile Transformation

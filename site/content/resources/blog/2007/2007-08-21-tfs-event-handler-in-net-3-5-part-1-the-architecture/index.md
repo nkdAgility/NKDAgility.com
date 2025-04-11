@@ -9,7 +9,7 @@ ResourceImportId: 3487
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-21
-weight: 700
+weight: 665
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,9 +29,8 @@ aliasesArchive:
 - /resources/blog/tfs-event-handler-in-net-3-5-part-1-the-architecture
 tags:
 - Software Development
-- System Configuration
-- Windows
 - Technical Mastery
+- System Configuration
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

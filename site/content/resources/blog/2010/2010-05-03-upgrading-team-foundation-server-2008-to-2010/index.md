@@ -9,7 +9,7 @@ ResourceImportId: 45
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-05-03
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,11 +24,10 @@ aliasesArchive:
 - /upgrading-team-foundation-server-2008-to-2010
 - /resources/blog/upgrading-team-foundation-server-2008-to-2010
 tags:
-- Install and Configuration
-- Practical Techniques and Tooling
-- System Configuration
 - Windows
 - Software Development
+- Install and Configuration
+- System Configuration
 - Troubleshooting
 - Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-1-1.png

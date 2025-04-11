@@ -9,7 +9,7 @@ ResourceImportId: 9446
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-04-18
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,9 +29,8 @@ aliasesArchive:
 - /resources/blog/tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 tags:
 - Troubleshooting
-- Install and Configuration
 - Software Development
-- Practical Techniques and Tooling
+- Install and Configuration
 - Azure DevOps
 - Windows
 - System Configuration

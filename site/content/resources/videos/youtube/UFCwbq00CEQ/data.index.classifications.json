@@ -10,36 +10,36 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-06T14:58:45",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 45.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 35.0,
     "non_ai_confidence": 20,
-    "final_score": 42.0,
+    "final_score": 45.0,
     "reasoning": "The content briefly mentions metrics in the context of Agile but primarily critiques their use rather than exploring their role in fostering continuous improvement. While it touches on the negative impact of focusing on estimates, it lacks a detailed discussion on how metrics can be effectively utilised for learning and improvement, which is central to the category.",
     "level": "Tertiary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T14:31:55",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and team dynamics rather than installation and configuration processes.",
     "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-14T20:11:19",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly touches on the negative impact of focusing on estimates over actual delivery, which indirectly relates to leadership by highlighting the importance of psychological safety and team outcomes. However, it lacks explicit discussions on leadership strategies, frameworks, or the role of leaders in fostering an agile environment, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -52,13 +52,13 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T18:00:14",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of prioritising value over estimates, which aligns with the core themes of Evidence-Based Management, particularly in terms of focusing on outcomes rather than outputs. However, it does not explicitly mention Evidence-Based Management or its specific metrics, leading to a moderate confidence score. The depth of discussion on empirical decision-making and current value is limited, focusing more on the cultural aspects of Agile rather than data-driven management.",
     "level": "Secondary"
   },
@@ -80,24 +80,6 @@
     "reasoning": "Content primarily discusses Agile methodologies and the importance of focusing on outcomes rather than estimates, without a clear emphasis on Systems Thinking principles or interconnectedness.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T14:32:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Agile methodologies and team dynamics, with no focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T14:32:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the negative impact of focusing on estimates rather than outcomes, without a clear emphasis on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
     "calculated_at": "2025-02-17T14:32:06",
@@ -107,29 +89,17 @@
     "reasoning": "Content primarily discusses the negative impact of focusing on estimation metrics in Agile, rather than addressing strategies for market adaptability.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-07T13:10:08",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses the negative impact of focusing on estimation metrics on team dynamics and psychological safety, which aligns with the category's emphasis on human behaviour in Agile environments. However, it lacks a broader exploration of team collaboration or structured methodologies, limiting its depth and overall alignment.",
-    "level": "Secondary"
-  },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-03-10T11:49:26",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 65.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 58.0,
+    "final_score": 65.0,
     "reasoning": "The content discusses the impact of focusing on metrics over outcomes, which relates to psychological safety and team dynamics. However, it primarily addresses Agile practices rather than core organisational psychology theories, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -140,38 +110,29 @@
     "reasoning": "Content heavily discusses Agile principles and practices, specifically focusing on the negative impacts of estimation metrics in Agile environments.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T14:32:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile practices and the negative impact of focusing on estimates, rather than providing news or reviews related to Agile methodologies.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-10T14:04:59",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the importance of prioritising value over estimates, which aligns with the core themes of value delivery. It critiques a focus on metrics that do not contribute to customer outcomes, indicating a conceptual alignment with value delivery principles. However, the discussion lacks depth and specific strategies related to iterative development or customer feedback mechanisms, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-14T20:11:19",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly touches on the impact of metrics on team dynamics and psychological safety, which aligns with sociotechnical principles. However, it lacks a comprehensive discussion on the interplay between social and technical systems, focusing instead on a specific critique of agile practices without exploring broader organisational implications.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -184,24 +145,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-11T09:59:15",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the importance of focusing on outcomes rather than estimates, which aligns with Agile principles of delivering value. However, it lacks detailed exploration of Agile Product Management practices, such as the role of the Product Owner or backlog prioritisation techniques.",
     "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T14:32:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the pitfalls of focusing on estimation metrics in Agile, rather than addressing organisational resilience or change management.",
-    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -214,24 +166,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-11T11:22:15",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content briefly mentions agile practices and criticises a focus on metrics that do not align with delivering value, which relates to organisational agility. However, it lacks a comprehensive discussion on the broader principles, practices, and cultural shifts necessary for enhancing organisational agility. The focus is more on individual behaviours rather than organisational strategies, resulting in a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T14:32:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the importance of focusing on value over estimates in Agile practices, without any mention of AI or automation.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -244,15 +187,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:58:11",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the importance of prioritising value over estimates in Agile, which aligns with the principles of collaboration and decision-making. It highlights the need for psychological safety and a focus on outcomes, which are key themes in social technologies. However, while it touches on these concepts, it does not delve deeply into specific frameworks or methodologies that promote collaboration, limiting its depth of discussion.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Lean": {
     "category": "Lean",
@@ -283,43 +226,25 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-11T14:27:18",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses the importance of prioritising value over estimates, which aligns closely with the principles of business agility. It addresses the psychological safety of teams, the focus on outcomes rather than outputs, and strategies for fostering a culture of innovation and collaboration. The depth of discussion is significant, providing actionable strategies and personal experiences that illustrate the shift towards a more agile mindset. Overall, the content is highly relevant to the category of Business Agility.",
-    "level": "Secondary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T14:32:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the negative impact of focusing on estimation metrics in Agile, without providing practical techniques or tooling related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T14:32:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile metrics and team dynamics without reference to specific events, presentations, or discussions.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T16:16:37",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the importance of focusing on value delivery over estimation metrics within Agile methodologies, which aligns closely with the core themes of product delivery. It addresses the psychological safety of teams, the dangers of output-focused metrics, and provides strategies for prioritising outcomes, all of which are relevant to effective product delivery practices. The depth of discussion is substantial, offering insights and personal experiences that enhance understanding, but it does not cover all aspects of product delivery comprehensively.",
     "level": "Secondary"
   },
@@ -332,55 +257,37 @@
     "reasoning": "Content heavily discusses team-level agile practices and metrics without addressing broader organisational implications or strategies for enterprise agility.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T14:32:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the negative impact of focusing on estimation metrics in Agile, without reference to specific products, books, or tools.",
-    "level": "Ignored"
-  },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T14:32:44",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the pitfalls of focusing on estimation in Agile, rather than directly addressing Value Stream Management principles or practices.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T18:00:09",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of prioritising value over estimates, which aligns with the core principles of the Agile Product Operating Model. However, it primarily focuses on the 'Agile Bandit' mentality and psychological safety rather than directly addressing the APOM framework or its key topics. The discussion lacks depth in terms of specific APOM practices, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T17:59:54",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Agile methodologies and the importance of focusing on value delivery over estimation metrics. While it touches on themes of collaboration and team dynamics, which are relevant to DevOps, it does not explicitly address DevOps principles or practices. The discussion lacks depth in terms of DevOps-specific concepts such as automation, shared accountability, or continuous improvement, leading to a low confidence score.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T14:32:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the pitfalls of focusing on estimation metrics in Agile, rather than exploring processes or methodologies that foster innovation and learning.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -403,15 +310,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T11:49:24",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content briefly touches on Agile methodologies and criticises a focus on estimation metrics, which aligns with the broader themes of product management. However, it lacks depth and does not provide substantial discussion on strategic alignment, stakeholder interests, or product vision, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -422,56 +329,41 @@
     "reasoning": "Content primarily discusses Agile methodologies and the focus on value over estimates, which does not align with the core principles of engineering excellence.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T15:26:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile metrics and the pitfalls of focusing on estimation rather than value delivery, without any relevance to Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T15:26:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T23:06:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodology and estimation metrics, which are unrelated to system configuration.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T15:26:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses individual Agile metrics and their impact on team dynamics rather than addressing scaling Agile practices at an enterprise level.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Agile methodologies and team dynamics, focusing on the importance of value delivery over estimation metrics. There are no direct mentions of system configuration, and the themes revolve around project management and team culture rather than the setup or integration of systems. The discussion lacks depth in any relevant topics related to system configuration, such as configuration management tools or system optimisation.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-13T15:30:00",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the detrimental effects of focusing on estimates in Agile, aligning closely with the core themes of value delivery, collaboration, and psychological safety. It provides a detailed exploration of how shifting focus from output to outcomes can enhance team dynamics and customer satisfaction, demonstrating a strong understanding of Agile principles. The depth of discussion is significant, with practical strategies for fostering an Agile mindset, which further supports a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-03-14T14:55:20",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of shifting focus from estimates to value delivery, which aligns with change management principles in Agile. However, it primarily centres on the Agile Bandit mentality and does not delve deeply into broader change management strategies or practices. While it touches on fostering a safe environment and emphasising outcomes, it lacks comprehensive exploration of change management topics such as stakeholder engagement or leadership roles.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -484,24 +376,27 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T15:26:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses the pitfalls of focusing on estimation metrics rather than delivering value, with no clear discussion on Lead Time as a metric.",
+    "calculated_at": "2025-04-11T09:17:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the pitfalls of focusing on estimation metrics in Agile, emphasising the importance of delivering value over adhering to estimates. While it touches on themes relevant to Agile practices, it does not explicitly mention Lead Time or its significance as an observability metric. The discussion lacks depth regarding Lead Time, its measurement, or strategies for optimisation, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-03-14T20:11:59",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 87.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the negative impact of focusing on estimates on team dynamics, particularly highlighting psychological safety and collaboration. It aligns well with the core themes of team motivation by addressing the importance of fostering a safe environment and shifting focus to value delivery. The depth of discussion is substantial, providing strategies for enhancing team engagement and motivation, making it a strong fit for the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -523,10 +418,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T15:26:29",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the pitfalls of focusing on estimates rather than value delivery, which is not directly related to the Definition of Ready.",
     "level": "Ignored"
   },
@@ -586,13 +481,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-14T20:11:49",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of delivering value over mere estimation metrics, which aligns well with the principles of working software. It emphasises the need for a focus on outcomes and customer satisfaction, which are key aspects of delivering functional software. The depth of discussion on shifting mindsets and fostering a safe environment for innovation further supports its relevance to the category. However, while it touches on working software, it does not delve deeply into specific practices or metrics for assessing software quality, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -623,15 +518,6 @@
     "reasoning": "Content primarily discusses the pitfalls of focusing on estimates in agile methodologies rather than promoting growth mindset or continuous learning practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T15:26:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to agile metrics and team dynamics, without focusing on scaling Scrum or its frameworks, roles, or practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-17T15:26:29",
@@ -652,22 +538,22 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T15:26:29",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses Agile metrics and team psychology but does not address remote working practices, challenges, or solutions.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-14T20:11:42",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the negative impact of focusing on estimation metrics, which aligns with the principles of empirical process control by emphasising the importance of delivering value and fostering a safe environment for team collaboration. It highlights the need for transparency and adaptation in Agile practices, although it does not explicitly mention empirical process control or its key figures. The depth of discussion on shifting focus from output to outcomes and the personal experience shared adds to the overall relevance, but the lack of direct references to empirical process control concepts slightly lowers the score.",
     "level": "Secondary"
   },
@@ -691,15 +577,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-14T20:12:09",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses the detrimental effects of focusing on estimates, which aligns with the themes of psychological safety and team empowerment in Agile leadership. It provides strategies for fostering a safe environment and emphasises the importance of outcomes over outputs, which are key aspects of Agile leadership. The depth of discussion is substantial, offering personal experiences and actionable insights, thus reinforcing the primary focus on Agile leadership principles.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -712,10 +598,10 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-02-17T15:26:29",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the drawbacks of focusing on estimation metrics rather than delivery outcomes, suggesting that estimation is not the central theme but rather a critique of its excessive emphasis in Agile practices.",
     "level": "Ignored"
   },
@@ -757,13 +643,13 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-03-13T15:07:15",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of shifting focus from estimates to value delivery, which aligns with self-organisation principles. It highlights the need for psychological safety and collaboration, key aspects of self-organising teams. However, while it touches on these themes, it does not delve deeply into specific self-organisation techniques or case studies, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
@@ -787,10 +673,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-14T20:11:19",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 40,
     "non_ai_confidence": 10,
-    "final_score": 37.0,
+    "final_score": 40.0,
     "reasoning": "While the content touches on psychological safety, it primarily focuses on the pitfalls of estimation and metrics in Agile, not specifically addressing Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -805,25 +691,25 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-14T20:11:57",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses the detrimental effects of focusing on estimation metrics within Agile practices, aligning closely with Agile principles of value delivery and team collaboration. It provides detailed strategies for shifting focus from output to outcomes, which is a core theme of Agile transformation. The personal experience shared adds depth to the discussion, illustrating the impact of these changes in a real-world context.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-14T20:12:07",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the detrimental effects of focusing on estimation metrics in Agile, which aligns with the core themes of operational efficiency and value delivery. It provides practical strategies for shifting focus from output to outcomes, fostering a safe environment, and using meaningful metrics, all of which are relevant to improving operational practices. However, while it touches on these topics, it does not delve deeply into specific methodologies or metrics typically associated with Agile, DevOps, or Lean frameworks, which slightly lowers the depth score.",
     "level": "Secondary"
   },
@@ -838,36 +724,24 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T15:26:29",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily addresses issues of estimation and output versus outcomes in an Agile context, without a clear focus on working agreements or teamwork norms.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-14T20:11:37",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 38.0,
     "ai_depth": 29.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the detrimental effects of focusing on estimates in Agile, which aligns with the core themes of delivering value and fostering a collaborative environment. It provides strategies for shifting focus towards outcomes and psychological safety, demonstrating a clear understanding of Agile principles. However, while it touches on Agile strategy, it does not delve deeply into broader strategic planning or organisational alignment, which slightly limits its depth of discussion.",
-    "level": "Secondary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-14T20:11:32",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15,
-    "ai_alignment": 35,
-    "ai_depth": 30,
-    "non_ai_confidence": 0,
-    "final_score": 74.0,
-    "reasoning": "The content explicitly discusses Agile principles and their impact on software development teams, particularly focusing on the dangers of prioritising estimates over value delivery. It aligns well with the core themes of the category by addressing psychological safety, collaboration, and the importance of outcomes in Agile practices. The depth of discussion is substantial, providing strategies for shifting focus and sharing personal experiences that illustrate the concepts. Overall, the content is highly relevant to software developers working within Agile frameworks.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -898,10 +772,10 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-17T15:26:29",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of prioritizing value over estimates and warns against focusing on output metrics, without specifically addressing cross-functional teams or their benefits within Agile methodologies.",
     "level": "Ignored"
   },
@@ -934,15 +808,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-14T20:11:21",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of shifting focus from estimates to value delivery, which aligns with the principles of fostering collaboration and psychological safety in agile teams. However, it lacks direct mentions of technical leadership roles or specific agile practices, and the depth of discussion on mentoring or coaching is limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -955,10 +829,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T15:26:29",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses Agile practices and metrics but does not focus on the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
@@ -973,35 +847,38 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-14T20:11:46",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the pitfalls of focusing on estimation metrics within Agile practices, which aligns with Agile principles. However, it does not explicitly mention specific Agile frameworks or provide a comparative analysis of them. The discussion is primarily centred on the mindset and cultural aspects of Agile rather than a detailed exploration of frameworks themselves.",
     "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-14T20:11:28",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 87.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the negative impact of focusing on estimation metrics, which directly relates to team performance and collaboration. It highlights the importance of psychological safety, fostering a safe environment, and shifting focus from output to outcomes, all of which are key themes in enhancing team dynamics. The depth of discussion is substantial, providing strategies and personal experiences that illustrate the principles of Agile and their effect on team success.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T15:26:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T23:05:57",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses prioritizing value over estimates and the negative implications of focusing on output rather than outcomes, which does not align with the measurement and optimization of throughput.",
+    "final_score": 25.0,
+    "reasoning": "The content discusses the dangers of focusing on estimation metrics and advocates for prioritising value over output, which indirectly relates to throughput. However, it does not explicitly mention throughput as a metric or provide a detailed analysis of it. The primary focus is on shifting mindsets away from estimates rather than on throughput as a delivery metric, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1031,18 +908,6 @@
     "reasoning": "Content primarily discusses Agile metrics and processes, focusing on estimation rather than employee engagement or motivation.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-14T20:11:44",
-    "ai_confidence": 87.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 90.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content explicitly discusses the pitfalls of focusing on estimation metrics in Agile, aligning closely with Agile principles that prioritise value delivery and team collaboration. It provides detailed strategies for shifting focus from output to outcomes, emphasising the importance of psychological safety and meaningful metrics, which are core themes in Agile Project Management. The depth of discussion is substantial, offering personal experiences and actionable insights, reinforcing its relevance to the category.",
-    "level": "Secondary"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
     "calculated_at": "2025-02-17T15:26:29",
@@ -1054,22 +919,22 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T15:26:29",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the pitfalls of focusing on estimates in Agile but does not primarily focus on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T18:00:12",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Agile methodologies and the importance of focusing on value over estimates, which is tangentially related to Continuous Delivery principles. However, it does not explicitly mention Continuous Delivery or its core practices, such as automation in testing and deployment, nor does it provide in-depth discussion on the topic. The focus is more on Agile culture and metrics rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
@@ -1084,22 +949,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T15:26:29",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on prioritizing value over estimates and does not discuss the Definition of Done or related concepts.",
     "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-03-14T15:15:55",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the detrimental effects of focusing on estimation metrics, which directly impacts psychological safety and team dynamics—key aspects of organisational culture. It emphasises the importance of fostering a safe environment and shifting focus towards value delivery, aligning well with the core themes of the category. The depth of discussion is substantial, providing strategies for cultural transformation within Agile teams, although it does not delve deeply into leadership roles or specific cultural dimensions.",
     "level": "Secondary"
   },
@@ -1123,15 +988,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T20:11:35",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 87.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily discusses Agile methodologies, specifically critiquing the focus on estimation metrics and advocating for a value-driven approach. It aligns well with key topics in software development, such as Agile practices and team dynamics, while providing detailed insights and strategies for improvement. The depth of discussion on psychological safety and team collaboration further supports its relevance to the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1151,15 +1016,6 @@
     "reasoning": "Content primarily discusses the pitfalls of focusing on estimates rather than outcomes in agile environments, without a clear focus on Product Backlog management or prioritization.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T15:26:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses agile metrics and team dynamics but does not focus primarily on Scrum practices or product development.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-17T15:26:29",
@@ -1171,15 +1027,15 @@
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-03-14T20:11:25",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 87.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses psychological safety in the context of Agile practices, highlighting its importance in fostering a supportive environment. It provides detailed insights into how focusing on estimation metrics can undermine psychological safety and offers strategies to cultivate a safe environment for team members. The discussion is rich in examples and personal experiences, demonstrating a strong alignment with the core themes of psychological safety, such as open communication and collaboration.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -1192,13 +1048,13 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-14T20:12:03",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the detrimental effects of focusing on estimates in Agile, aligning well with Agile Planning principles by emphasising value delivery over metrics. It provides strategies for shifting focus towards outcomes and fostering a safe environment, which are key aspects of Agile methodologies. The depth of discussion is substantial, offering personal experiences and actionable insights, but it does not delve deeply into specific Agile planning techniques or frameworks like Scrum or Kanban.",
     "level": "Secondary"
   },
@@ -1249,13 +1105,13 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-14T20:12:01",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 30,
-    "final_score": 81.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the detrimental effects of focusing on estimates, which undermines Agile principles such as delivering customer value and fostering collaboration. It aligns well with the core themes of Agile values, particularly the emphasis on outcomes over outputs and the importance of psychological safety. The depth of discussion is significant, providing strategies for shifting focus and sharing personal experiences that reinforce the principles of Agile. Overall, the content is a strong reflection of Agile values and principles.",
     "level": "Primary"
   },
@@ -1288,24 +1144,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-13T16:37:40",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the importance of prioritising value over estimates in Agile environments, which aligns closely with strategic approaches in Agile. It addresses key themes such as psychological safety, the focus on outcomes rather than outputs, and the use of meaningful metrics, all of which are relevant to strategic alignment and optimisation of delivery processes. The depth of discussion is substantial, providing specific strategies for shifting focus and fostering a collaborative environment, which enhances its relevance to the Strategy category.",
     "level": "Secondary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T15:26:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile practices and metrics, without any mention or focus on AI.",
-    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1336,13 +1183,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T16:11:43",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the dangers of focusing on estimation metrics in Agile and promotes a shift towards valuing outcomes over outputs. It does not mention Test First Development or its principles, nor does it delve into testing practices, either manual or automated. The focus is on team dynamics and psychological safety rather than on defining success criteria or testing methodologies.",
     "level": "Ignored"
   },
@@ -1366,15 +1213,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-14T20:11:54",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 87.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the pitfalls of focusing on estimates in Agile, which aligns with pragmatic thinking by emphasising practical problem-solving strategies and the importance of delivering value. It provides actionable strategies for shifting focus from output to outcomes, fostering a safe environment, and using meaningful metrics, demonstrating a strong alignment with the core themes of the category. The depth of discussion is substantial, as it includes personal experiences and specific strategies, enhancing its relevance to pragmatic thinking.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1387,36 +1234,27 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-14T20:11:39",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of psychological safety and fostering a collaborative environment, which aligns with coaching principles. However, it primarily focuses on the dangers of estimation metrics rather than providing in-depth coaching techniques or frameworks. The mention of fostering a safe environment and shifting focus to outcomes indicates some alignment with coaching, but the overall depth and direct discussion of coaching practices are limited.",
     "level": "Secondary"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T15:26:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses individual team metrics and emphasizes team-focused practices rather than organizational scaling of agility.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T16:11:46",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Agile principles and the importance of focusing on value delivery over estimates, which aligns with the Scrum Master's role in fostering a culture of continuous improvement. However, it does not explicitly mention the Scrum Master role or its specific responsibilities, leading to a lower confidence score. The discussion is more general about Agile practices rather than focused on the Scrum Master specifically.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1429,10 +1267,10 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-17T15:26:29",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the mentality of prioritizing value over estimation in Agile practices, with no significant focus on Value Stream Mapping.",
     "level": "Ignored"
   },
@@ -1445,7 +1283,7 @@
     "reasoning": "Content focuses on the prioritization of value over estimates and the psychological impact of focusing on metrics, without discussing Increments directly.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T15:26:29",
     "ai_confidence": 0,
@@ -1465,15 +1303,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-14T20:11:51",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses the importance of psychological safety and collaboration within Agile teams, addressing how focusing on estimates can undermine team dynamics. It provides strategies for fostering a safe environment and emphasises the shift from output to outcomes, which aligns well with the core themes of team collaboration. The depth of discussion is substantial, offering practical advice and personal experiences that enhance the understanding of team dynamics in Agile contexts.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1504,63 +1342,63 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T20:11:19",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 45.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 40.0,
+    "final_score": 45.0,
     "reasoning": "The content briefly mentions agile principles and criticises a focus on estimation, which aligns with Scrum's emphasis on delivering value and outcomes. However, it lacks direct references to Scrum roles, events, or artifacts, and does not provide in-depth discussion on Scrum practices, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:49:20",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Agile principles and the importance of focusing on value delivery over estimates, which aligns with some aspects of the Shift-Left Strategy, particularly in terms of fostering collaboration and improving outcomes. However, it does not explicitly mention testing, security, or compliance integration early in the development process, which are core elements of the Shift-Left Strategy. The discussion is more centred on Agile practices rather than a direct focus on Shift-Left methodologies.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:59:56",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of prioritising value over estimates, which aligns with the principles of Continuous Improvement by emphasising outcomes and fostering a culture of psychological safety. However, it does not explicitly mention Continuous Improvement or delve deeply into its frameworks or strategies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T18:00:00",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of focusing on value delivery over estimates, which aligns with the concept of Common Goals in Agile. However, it primarily centres on the pitfalls of estimation metrics and personal experiences rather than explicitly addressing shared objectives or strategic alignment. The discussion lacks depth in connecting these ideas to broader organisational goals or frameworks like OKRs.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T18:00:02",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of shifting focus from estimates to value delivery, which indirectly relates to competence by emphasising the need for a culture of psychological safety and collaboration. However, it does not explicitly address continuous learning or skill development, which are core themes of competence. The discussion is more about team dynamics and metrics rather than a deep exploration of competence itself.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
@@ -1576,14 +1414,170 @@
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T16:11:40",
+    "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of prioritising value over estimates, which aligns with the concept of intentionality in Agentic Agility. However, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. The focus is more on Agile practices and team dynamics rather than the transformative capacity of individuals or systems, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T23:05:17",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the pitfalls of focusing on estimates in Agile, which directly relates to product development methodologies. It aligns well with the core themes of prioritising customer value and fostering a collaborative environment, both of which are essential in product development. The depth of discussion is substantial, providing strategies for shifting focus from output to outcomes, which is a critical aspect of continuous improvement in product development. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
+    "level": "Primary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T23:05:23",
+    "ai_confidence": 42.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of psychological safety and collaboration, which aligns with the principles of Liberating Structures. However, it primarily focuses on the Agile Bandit mentality and does not explicitly mention specific Liberating Structures techniques or their applications. The discussion on fostering a safe environment and shifting focus from output to outcomes touches on themes relevant to Liberating Structures but lacks depth in exploring specific methods or case studies related to the category.",
+    "level": "Tertiary"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T23:05:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the Agile methodology and critiques the focus on estimation metrics, which is a specific aspect of Agile rather than a broader project management perspective. While it touches on themes like team dynamics and value delivery, it lacks comprehensive coverage of core project management principles, methodologies, and lifecycle phases. The discussion is more about Agile practices than project management as a whole, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T23:05:27",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of psychological safety and prioritising value over estimates, which aligns with some core themes of Open Space Agile. However, it does not explicitly mention Open Space Agile or its principles, nor does it delve deeply into the collaborative change processes that characterise this methodology. The focus is more on general Agile practices rather than the specific nuances of Open Space Agile.",
+    "level": "Secondary"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T23:05:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of prioritising value over estimates, which aligns with the concept of Unrealised Value by emphasising the need to focus on outcomes and customer value. However, it does not explicitly mention 'Unrealised Value' or provide detailed indicators or strategies for identifying untapped opportunities. The discussion is more about shifting mindsets and practices within Agile rather than a thorough exploration of unrealised value as defined in Evidence-Based Management. Therefore, while there is a relevant connection, it lacks depth and direct mentions, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T23:05:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of focusing on value delivery over estimation metrics, which indirectly relates to Time to Market by emphasising outcomes that enhance customer satisfaction. However, it does not explicitly mention Time to Market or provide detailed metrics or strategies for improving it. The primary focus is on shifting mindsets and fostering a safe environment rather than on the efficiency of delivering products to market.",
+    "level": "Tertiary"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T23:05:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of prioritising value over estimates, which aligns closely with the concept of Current Value in Evidence-Based Management. It explicitly mentions the need to focus on outcomes and customer value, which are key indicators of Current Value. The discussion on psychological safety and meaningful metrics further supports the alignment with the category. However, while the content is rich in practical advice and examples, it does not delve deeply into specific metrics or case studies that would enhance the depth of discussion on Current Value, leading to a slightly lower score.",
+    "level": "Secondary"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T23:05:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": 20,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of prioritising value over estimates in Agile teams, which aligns with the CaaP focus on delivering customer value. However, it primarily centres on Agile practices rather than a broader organisational strategy. The mention of fostering a culture of psychological safety and collaboration hints at CaaP principles, but the depth of discussion remains limited to team dynamics rather than organisational design or customer-centric strategies.",
+    "level": "Tertiary"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T23:05:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the pitfalls of focusing on estimation metrics in Agile practices and promotes a shift towards prioritising value delivery and psychological safety. While it touches on themes relevant to Agile methodologies, it does not explicitly address scaling frameworks, cross-team collaboration, or the complexities involved in scaling Agile practices. The discussion is more centred on individual team dynamics rather than the coordination of multiple teams or enterprise-level scaling strategies, leading to a lower confidence score in the 'Scaling' category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T23:05:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the pitfalls of focusing on estimates in Agile, which aligns with some themes of Hybrid Agile, such as the conflict between traditional metrics and agile principles. However, it does not explicitly mention Hybrid Agile or critically examine the integration of traditional and agile methodologies. The discussion is more focused on Agile practices rather than the specific challenges of Hybrid Agile, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T23:05:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 33.0,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of prioritising value over estimates, which aligns with the Agnostic Agile principle of value delivery. However, it does not explicitly mention Agnostic Agile or its principles, focusing instead on the 'Agile Bandit' mentality. While it touches on themes of psychological safety and the dangers of rigid metrics, it lacks a deeper exploration of Agnostic Agile's broader context and comparisons with traditional frameworks. Therefore, while there is a strong conceptual alignment, the lack of direct mentions and depth in discussing Agnostic Agile specifically limits the overall confidence score.",
+    "level": "Secondary"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T23:05:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the importance of focusing on value over estimates, without any direct mention of GitHub or its functionalities. While it touches on themes relevant to Agile project management, it does not align with GitHub-specific practices or tools, nor does it provide any depth regarding GitHub services. Therefore, the confidence score is low.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T23:05:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the importance of focusing on value delivery over estimation metrics. While it touches on themes of team dynamics and psychological safety, it does not directly mention or align with the principles of Cell Structure Design, such as decentralisation, autonomous cells, or the Beta Codex. The discussion is more about Agile practices rather than the specific organisational design model outlined in the category.",
     "level": "Ignored"
   }
 }

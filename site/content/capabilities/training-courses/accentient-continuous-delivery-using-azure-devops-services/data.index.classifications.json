@@ -1,43 +1,43 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-21T11:26:47",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not explicitly mention social technologies or related concepts. It lacks any discussion on collaboration, decision-making, or value delivery, which are core themes of the category. The absence of detail and context further diminishes its relevance to the category, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-18T00:05:22",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on Continuous Delivery and DevOps principles, which are central to engineering excellence in software development practices.",
     "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T11:26:50",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 50,
-    "final_score": 18.0,
+    "final_score": 15.0,
     "reasoning": "The content title suggests a focus on Azure DevOps Services, which is a tool related to DevOps practices. However, the description lacks any specific details or discussions about DevOps principles, methodologies, or cultural shifts. As a result, while there is a mention of DevOps in the title, the overall content does not provide substantial information or alignment with the core themes of the DevOps philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T00:05:25",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Azure DevOps and technical training for developers, lacking a central theme related to product management.",
     "level": "Ignored"
   },
@@ -52,10 +52,10 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses DevOps principles, which relate to business agility by promoting continuous delivery and faster value delivery. However, the primary focus is more on Azure DevOps services rather than a direct exploration of business agility principles.",
     "level": "Tertiary"
   },
@@ -88,49 +88,31 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T15:06:25",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not explicitly mention Evidence-Based Management or its key topics. It lacks any discussion on data-informed decision-making or empirical evidence, focusing instead on a training resource for Azure DevOps Services without relevant details.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on Continuous Delivery and DevOps practices without addressing code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about continuous delivery and DevOps principles, with no clear focus on Scaling Kanban methodology or its application.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Continuous Delivery and DevOps practices, without a central emphasis on hypothesis formulation or experimentation.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions agile practices and principles in the context of Continuous Delivery but primarily focuses on Azure DevOps services rather than exploring Agile frameworks in depth.",
     "level": "Tertiary"
   },
@@ -145,10 +127,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a training course on Continuous Delivery using Azure DevOps, with no direct relevance to the Definition of Ready.",
     "level": "Ignored"
   },
@@ -161,30 +143,21 @@
     "reasoning": "The content focuses on a training course for Azure DevOps and Continuous Delivery, without discussing trends, patterns, or shifts relevant to Agile, DevOps, or business agility frameworks.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses scaling agility in the context of DevOps practices, which can relate to scaled Agile principles, but the primary focus is on Continuous Delivery and Azure DevOps rather than specifically on Scaled Agile methodologies.",
-    "level": "Tertiary"
-  },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content involves Continuous Delivery and DevOps practices, which may include aspects of test automation, but the focus is primarily on broader DevOps principles and does not explicitly center on test automation.",
     "level": "Tertiary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content focuses on DevOps principles and practices related to continuous delivery, which aligns with software craftsmanship and engineering practices essential for high-quality software development.",
     "level": "Secondary"
   },
@@ -199,28 +172,28 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses DevOps principles and practices, including Continuous Integration and Continuous Delivery in the context of Azure DevOps Services, but does not focus specifically on Azure Pipelines.",
     "level": "Tertiary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses working better as a team and scaling agility, which are related to team performance, but the primary focus is on Continuous Delivery and Azure DevOps practices rather than team dynamics or performance metrics.",
     "level": "Tertiary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses working better as a team and mentions Agile principles that relate to collaboration, but the primary focus is on DevOps practices and Azure DevOps Services rather than specific collaboration tools.",
     "level": "Tertiary"
   },
@@ -235,57 +208,30 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content heavily focuses on continuous delivery practices within the framework of Azure DevOps, emphasizing principles, methodologies, and outcomes directly related to product delivery.",
     "level": "Secondary"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily focuses on Azure DevOps training and continuous delivery practices without discussing AI applications.",
-    "level": "Ignored"
-  },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses DevOps principles and practices, which are relevant to digital transformation initiatives, particularly in improving operational efficiency and delivery of software. However, the primary focus is on a training course rather than a strategic discussion on digital transformation itself.",
-    "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses improving teamwork and collaboration in a DevOps context, which aligns with the themes of team dynamics and collaboration under the People and Process category. However, the primary focus seems to be on Azure DevOps tools and technical practices.",
     "level": "Tertiary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Continuous Delivery and DevOps principles, with no focus on Test Driven Development methodologies or practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses principles of DevOps and teamwork which relates to agile methodologies, but the primary focus is on Azure DevOps rather than agile project management specifically.",
-    "level": "Tertiary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -305,30 +251,21 @@
     "reasoning": "The content focuses on a training course for Azure DevOps, emphasizing team collaboration and continuous delivery without specifically discussing accountability in an Agile context.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on a training course for Continuous Delivery and DevOps principles, without discussing transparency or accountability in Agile contexts.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "While the content focuses on continuous delivery and DevOps practices, which are related to release management, it mainly emphasizes DevOps principles and teamwork without explicitly detailing specific release management strategies.",
     "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses scaling agility and continuous delivery practices within a team context using DevOps principles, which is a major but secondary theme to the overall course focus on technical aspects.",
     "level": "Tertiary"
   },
@@ -343,70 +280,70 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses a training course focused on DevOps principles, which relate to technical leadership and team collaboration, but it does not delve deeply into the core aspects of technical leadership.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Continuous Delivery and DevOps principles rather than specific Agile Planning Tools.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T17:31:25",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not mention the Scrum Master role or its responsibilities. It lacks any discussion on Scrum principles, techniques, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions concepts related to Agile, such as scaling agility and delivering value continuously, which are significant themes within Agile Planning, but the primary focus is on Continuous Delivery using Azure DevOps Services.",
     "level": "Tertiary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses DevOps principles and practices related to teamwork and continuous delivery, which aligns with some Agile values like collaboration and continuous improvement, but the primary focus is on the technical aspects of DevOps rather than Agile's core values.",
     "level": "Tertiary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions increasing flow at scale and delivering continuously as key outcomes, indicating a focus on flow efficiency as part of the DevOps principles taught in the course. However, the majority of the content revolves around Azure DevOps training and related practices rather than directly addressing flow efficiency principles or techniques in detail.",
     "level": "Tertiary"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T17:31:27",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not explicitly mention Test First Development or its principles. It lacks any discussion on success criteria, testing practices, or related topics, making it irrelevant to the category.",
     "level": "Ignored"
   },
@@ -439,10 +376,10 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses scaling agility and continuous delivery in a team context, which aligns with some aspects of Large Scale Agility, but it is primarily focused on DevOps practices and training without a strong emphasis on organizational Agile frameworks.",
     "level": "Tertiary"
   },
@@ -466,37 +403,37 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on DevOps training and practices without exploring the measurement or enhancement of innovation capabilities.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses DevOps principles and practices that can be relevant to Agile transformations, particularly in the context of improving team collaboration and delivering value continuously. However, it primarily focuses on Continuous Delivery and DevOps rather than Agile transformation itself.",
     "level": "Tertiary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content focuses on Continuous Delivery and DevOps principles which are central to Agile engineering practices, particularly relating to automation, Continuous Integration, and Continuous Delivery. The emphasis on hands-on practices to enhance teamwork and continuous delivery of software aligns well with the category.",
     "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses DevOps principles and practices such as Continuous Delivery and Continuous Integration, which align with Lean concepts of maximizing value and minimizing waste through process optimization, although it is not solely focused on Lean Principles.",
     "level": "Tertiary"
   },
@@ -509,39 +446,21 @@
     "reasoning": "Content primarily focuses on Azure DevOps training and continuous delivery practices, with only a passing reference to Scrum, thus failing to establish a central theme around Scrum Values.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-03-21T11:26:42",
-    "ai_confidence": 20,
-    "non_ai_confidence": 10,
-    "final_score": 19.0,
-    "reasoning": "The content primarily focuses on technical training related to DevOps principles and practices rather than directly addressing resilience and change management concepts.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a training course focused on DevOps principles and practices, particularly continuous delivery using Azure DevOps Services, which aligns with the exploration and application of tools and methodologies in Agile and DevOps.",
-    "level": "Secondary"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses DevOps principles and practices but does not directly address Value Stream Mapping or its techniques.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a training course on continuous delivery and Azure DevOps rather than focusing on the Product Backlog in Agile.",
     "level": "Ignored"
   },
@@ -554,49 +473,31 @@
     "reasoning": "Content focuses on a training course related to Azure DevOps and does not contain personal reflections or experiences.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content describes a training course on Continuous Delivery using Azure DevOps Services, which includes hands-on practices and is delivered in a structured format, indicating it aligns with workshops or educational events in the Agile/DevOps space.",
-    "level": "Tertiary"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps principles and continuous delivery rather than specifically addressing working agreements.",
     "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a training course for DevOps principles and practices, with no discussions related to market share or strategies to increase it.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses aspects of teamwork and mentions Scrum within the context of DevOps training, making it a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses principles of scaling agility in the context of continuous delivery and DevOps practices, indicating that it is a major but secondary theme.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -619,13 +520,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T15:06:23",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 20,
-    "final_score": 11.0,
+    "final_score": 10.0,
     "reasoning": "The content title suggests a focus on Continuous Delivery, but the description lacks any specific details or discussions related to the principles, practices, or benefits of Continuous Delivery. There are no direct mentions or substantial alignment with the core themes of the category, resulting in a very low confidence score.",
     "level": "Ignored"
   },
@@ -640,10 +541,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a training course focused on DevOps principles and practices, without any mention of remote work strategies or Agile remote team collaboration.",
     "level": "Ignored"
   },
@@ -658,10 +559,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content emphasizes working better as a team, scaling agility, sharing and integrating work, and delivering software continuously, which aligns well with the principles of team collaboration in Agile and DevOps.",
     "level": "Secondary"
   },
@@ -674,7 +575,7 @@
     "reasoning": "The content primarily discusses Continuous Delivery using Azure DevOps and does not focus on the Daily Scrum or related Scrum events.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T07:21:17",
     "ai_confidence": 0,
@@ -692,15 +593,6 @@
     "reasoning": "Content focuses primarily on Azure DevOps Services and continuous delivery practices rather than on Windows operating system topics.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses continuous learning and iterative processes in the context of DevOps, but it primarily focuses on training for Azure DevOps rather than deeper discussions on methodologies for fostering innovation or experimentation.",
-    "level": "Tertiary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-18T07:21:17",
@@ -712,13 +604,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T11:26:59",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not explicitly mention the Agile Product Operating Model or its key topics. It lacks any discussion on transitioning to a product ethos, agile principles, or product management practices, which are central to the category. The absence of relevant details results in a very low confidence score.",
     "level": "Ignored"
   },
@@ -733,19 +625,19 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Azure DevOps and Continuous Delivery principles, with no direct reference to Behaviour Driven Development.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily discusses DevOps principles and practices that enhance team agility, continuous delivery, and feedback loops, which align well with market adaptability strategies.",
     "level": "Secondary"
   },
@@ -769,10 +661,10 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions the importance of receiving 'early and valuable feedback' as part of Continuous Delivery and Continuous Feedback in the context of DevOps, but the primary focus seems to be on DevOps principles and practices rather than on customer feedback loops specifically.",
     "level": "Tertiary"
   },
@@ -787,10 +679,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Continuous Learning and Continuous Feedback as part of the DevOps principles, which align with the key themes of metrics and learning, though it is not the primary focus of the course description.",
     "level": "Tertiary"
   },
@@ -805,10 +697,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on DevOps principles and Continuous Delivery, which are not specifically aligned with Lean Product Development principles.",
     "level": "Ignored"
   },
@@ -819,15 +711,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical training course on Azure DevOps without a focus on mentoring or coaching aspects.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on DevOps principles and practices for software development, not specifically on AI and automation within Agile methodologies.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -841,37 +724,37 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses principles and practices related to DevOps that contribute to continuous delivery and agile team collaboration, which are connected to strategy formulation and execution in an Agile context.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The course focuses on DevOps principles and practices that enhance continuous delivery and operational efficiency, making it a clear primary topic related to operational practices.",
     "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses principles like teamwork, continuous delivery, and continuous feedback, which are relevant to Agile Philosophy, but it primarily focuses on technical training specific to Azure DevOps Services.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Continuous Delivery and DevOps principles, with no mention or discussion of Acceptance Test Driven Development, acceptance criteria, or related collaborative practices.",
     "level": "Ignored"
   },
@@ -886,28 +769,28 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily discusses Continuous Delivery principles and practices, focusing on the ability to deliver working software continuously, which aligns closely with the concepts of Frequent Releases.",
     "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily discusses a course on Continuous Delivery using Azure DevOps Services, emphasizing the principles of Continuous Learning along with Continuous Integration and Continuous Feedback within the context of Agile and DevOps methodologies.",
     "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Continuous Delivery using Azure DevOps Services without specifically addressing Azure Boards or its features.",
     "level": "Ignored"
   },
@@ -931,10 +814,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Azure DevOps principles and technical training rather than Agile Product Management principles.",
     "level": "Ignored"
   },
@@ -949,91 +832,73 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Continuous Delivery and related DevOps principles, which touch on aspects of value delivery and flow in technical environments but does not focus explicitly on Value Stream Management as a primary topic.",
-    "level": "Tertiary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content loosely touches upon scaling agility and working better as a team, which aligns with scaling Scrum principles; however, it primarily focuses on Azure DevOps and Continuous Delivery rather than explicitly discussing Scrum practices.",
     "level": "Tertiary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on team practices in a DevOps context, indicating a relationship between social aspects (teamwork) and technical processes (Azure DevOps). However, it primarily emphasizes technical tools and principles rather than a comprehensive sociotechnical analysis.",
-    "level": "Tertiary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses a training course related to DevOps practices, making it a significant theme, though it does not focus on specific products or literature.",
     "level": "Tertiary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Continuous Integration, Continuous Delivery, and Continuous Feedback, which are related to empirical process control principles, though it is primarily focused on Azure DevOps training and not specifically about empirical process control itself.",
     "level": "Tertiary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content is primarily about Continuous Delivery, but it touches on Continuous Integration as part of the broader DevOps principles and practices. CI is mentioned as a goal of the course, but it is not the primary focus.",
     "level": "Tertiary"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 70,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
+    "final_score": 70.0,
     "reasoning": "The content primarily focuses on DevOps principles and their practical applications in a training context, emphasizing hands-on practices, teamwork, and continuous delivery. While it aligns well with the topic of pragmatic thinking, it primarily serves as a course description rather than an in-depth discussion on pragmatic thinking itself.",
     "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses concepts related to continuous delivery and delivering working software continuously, which are relevant to lead time. However, it primarily focuses on DevOps practices without specifically elaborating on lead time as a metric.",
     "level": "Tertiary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily focused on Continuous Delivery using Azure DevOps Services and does not discuss technical debt or its management.",
     "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily discusses principles and practices of Continuous Delivery in the context of Azure DevOps, emphasizing the delivery of working software and its continuous improvement in a DevOps framework.",
     "level": "Secondary"
   },
@@ -1066,19 +931,19 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on DevOps training and technical practices, not on product strategy methodologies or frameworks.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on DevOps principles and practices related to Continuous Delivery using Azure DevOps Services, which is a central aspect of software development methodologies and practices.",
     "level": "Secondary"
   },
@@ -1093,10 +958,10 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content discusses a training course focused on Continuous Delivery using Azure DevOps Services, which aligns directly with the Azure DevOps category as it emphasizes Azure DevOps functionalities and practices.",
     "level": "Secondary"
   },
@@ -1127,21 +992,12 @@
     "reasoning": "Content primarily focuses on Azure DevOps principles and practices, not specifically on cross-functional teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content is primarily focused on Continuous Delivery and DevOps practices relevant to software developers, discussing methodologies like Continuous Integration and Continuous Delivery within the context of Azure DevOps.",
-    "level": "Secondary"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 70,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
+    "final_score": 70.0,
     "reasoning": "The course focuses on Continuous Delivery, which is closely related to deployment frequency. While it discusses principles and practices around continuous delivery aimed at improving feedback and delivering working software continuously, the primary focus is on Azure DevOps practices rather than specifically on deployment frequency itself. Thus, it is a major theme but not the primary topic.",
     "level": "Secondary"
   },
@@ -1156,64 +1012,55 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "While the content primarily discusses a training course on DevOps principles and practices, it includes a mention of installing and evaluating extensions from the Azure DevOps Marketplace, making installation and configuration a significant aspect albeit not the central focus.",
     "level": "Tertiary"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on DevOps training and practices without specific emphasis on the Product Owner role or responsibilities.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily outlines a training course on Azure DevOps Services, lacking any news or review aspects relevant to the industry.",
     "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on continuous delivery and general Azure DevOps services without specific emphasis on Azure Repos functionalities.",
     "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily discusses Continuous Delivery and related DevOps principles, aligning closely with Technical Excellence in engineering practices.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "While the content focuses on Continuous Delivery and DevOps practices, which are related to ALM, it does not explicitly cover the broader aspects of managing the entire application lifecycle.",
     "level": "Tertiary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Continuous Delivery and DevOps principles without any clear discussion on asynchronous development practices or principles.",
     "level": "Ignored"
   },
@@ -1228,10 +1075,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions working better as a team and scaling agility, which relates to team dynamics and motivation. However, the primary focus is on technical aspects of Azure DevOps and continuous delivery, making team motivation a secondary theme.",
     "level": "Tertiary"
   },
@@ -1246,40 +1093,40 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on Continuous Delivery and Azure DevOps services, with no clear emphasis or discussion on validating product ideas through user engagement.",
     "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses DevOps principles and practices aimed at increasing flow and delivering value continuously, which relates to throughput, but the focus is more on training and practices rather than a deep exploration of throughput as a primary topic.",
     "level": "Tertiary"
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-21T11:26:44",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not explicitly mention Scrum or its principles, roles, events, or artifacts. It lacks any discussion on Agile principles or team dynamics, which are core to the Scrum framework. The title suggests a focus on Continuous Delivery and Azure DevOps, which are not aligned with Scrum discussions. Therefore, the confidence score is very low, reflecting minimal relevance to the Scrum category.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily discusses the principles and practices of Continuous Delivery and DevOps, emphasizing delivering value and obtaining feedback, which are key themes of value delivery.",
     "level": "Secondary"
   },
@@ -1294,29 +1141,20 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses continuous delivery in the context of Azure DevOps, which is related to deployment strategies, but it emphasizes training for developers rather than specific methodologies for deploying software.",
     "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content relates to a training course on DevOps principles and continuous delivery, focusing on implementation rather than methodologies for identifying customer needs and defining product features.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T07:21:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily focuses on Continuous Delivery using Azure DevOps and does not directly discuss Scrum principles, practices, or product development. While Scrum is briefly mentioned in the objectives, it is not the central topic of the course.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -1330,28 +1168,28 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on Continuous Delivery and DevOps principles rather than the Definition of Done in Agile and Scrum.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content is primarily focused on Continuous Delivery and DevOps practices, which are related to Agile principles but does not explicitly discuss Agile strategy or its alignment with organizational vision.",
     "level": "Tertiary"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses continuous delivery and working software, which relates to the concept of Increment in Agile, but the primary focus is on DevOps principles rather than specifically on increments in Scrum.",
     "level": "Tertiary"
   },
@@ -1366,10 +1204,10 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T07:21:17",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses DevOps principles and practices that relate to continuous delivery and feedback, which are connected to organisational agility. However, the primary focus appears to be on the technical implementation of DevOps rather than broader organizational strategies and cultural shifts.",
     "level": "Tertiary"
   },
@@ -1393,37 +1231,37 @@
   },
   "Artificial Intelligence": {
     "category": "Artificial Intelligence",
-    "calculated_at": "2025-03-21T11:26:52",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not mention Artificial Intelligence directly and lacks any discussion related to its application in Agile methodologies, DevOps practices, or software development processes. The title suggests a focus on Azure DevOps Services, which is not aligned with the specified category. Overall, the content does not provide any relevant information to support a higher confidence score.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-03-21T11:26:55",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not explicitly mention Internal Developer Platforms or their key components. It lacks any discussion on the benefits, architecture, or best practices related to IDPs. The title suggests a focus on Continuous Delivery and Azure DevOps, which are not directly aligned with the IDP concept. Overall, the content does not meet the criteria for a meaningful discussion on Internal Developer Platforms.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-21T11:26:57",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not explicitly mention the Shift-Left Strategy or its principles. It lacks any discussion on integrating testing, security, or compliance early in the development process, and there are no details provided that align with the core themes of the category. The content is too vague and does not provide any depth on the topic.",
     "level": "Ignored"
   },
@@ -1441,49 +1279,49 @@
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T15:06:13",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not explicitly mention Common Goals or discuss any related concepts. It lacks detail and does not align with the core themes of the category, focusing instead on a training resource without providing relevant information.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T15:06:18",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not explicitly mention competence or related concepts. It lacks any discussion on continuous learning, skill development, or the importance of competence in Agile or DevOps environments. The absence of relevant details means it does not align with the core themes of the category, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T15:06:21",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not explicitly mention the One Engineering System or its principles. It lacks any discussion on integration, standardisation, or best practices related to 1ES, focusing instead on a general training resource without specific details. Therefore, it does not align with the core themes of the category.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T17:31:20",
+    "calculated_at": "2025-04-10T15:54:46",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not mention Agentic Agility or its principles, nor does it discuss any related concepts. It appears to be a request for information about a training resource, lacking any substantive discussion on the intentional shaping of outcomes or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }

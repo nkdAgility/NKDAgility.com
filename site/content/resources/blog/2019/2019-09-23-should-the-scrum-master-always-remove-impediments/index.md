@@ -9,7 +9,7 @@ ResourceImportId: 39856
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-09-23
-weight: 675
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,14 +30,11 @@ aliasesArchive:
 tags:
 - Scrum Team
 - Scrum Master
-- Agile Project Management
 - Professional Scrum
-- People and Process
 - Software Development
-- Pragmatic Thinking
-- Scrum Product Development
-- Team Performance
 - Agile Frameworks
+- Pragmatic Thinking
+- Team Performance
 categories:
 - Scrum
 preview: PSX_20190823_113052-1-1.jpg

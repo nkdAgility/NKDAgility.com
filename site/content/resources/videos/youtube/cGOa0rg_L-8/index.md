@@ -2,7 +2,7 @@
 title: Is Your Project Ecosystem Truly Agile?
 description: Unlock true agility in product management! Discover how to break down silos, embrace automation, and maximise stakeholder value in this insightful video.
 date: 2024-07-31T06:45:01Z
-weight: 375
+weight: 305
 ResourceId: cGOa0rg_L-8
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -33,20 +33,30 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
-- AI and Automation in Agility
-- Product Delivery
 - Business Agility
 - Enterprise Agility
 - Organisational Agility
-- Practical Techniques and Tooling
 - Working Software
 - Operational Practices
 - Agile Strategy
+- Pragmatic Thinking
+- Product Delivery
+- Deployment Frequency
+- Team Collaboration
+- Continuous Improvement
+- Release Management
+- Agile Planning
+- Continuous Delivery
+- Flow Efficiency
+- Customer Feedback Loops
+- Team Performance
+- Time to Market
+- Agile Frameworks
 resourceTypes:
 - video
 categories:
+- Product Development
 - DevOps
-- Social Technologies
 
 ---
 In today’s fast-paced world, organizations are embracing Agile practices to remain competitive and deliver value to their customers. But here’s the catch—having Agile programming teams is only part of the equation. If these Agile teams are followed by linear, bureaucratic deployment processes, then the ecosystem is far from truly Agile. This gap can lead to delays, inefficiencies, and ultimately, a failure to deliver the value that your stakeholders expect. So, how can we ensure that our entire project ecosystem is genuinely Agile from end to end?

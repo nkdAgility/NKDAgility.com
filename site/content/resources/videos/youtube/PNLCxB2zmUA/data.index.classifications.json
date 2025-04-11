@@ -19,25 +19,25 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T10:36:15",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 61.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses architectural adaptation in software development, which is relevant to DevOps principles like continuous improvement and collaboration. However, it lacks explicit mentions of DevOps as a philosophy or its core practices. The case study of the Azure DevOps team provides some alignment, but the overall focus is more on software architecture than on DevOps itself.",
     "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:42:49",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of adapting to changing demands in software development, which touches on themes of collaboration and team dynamics. However, it primarily focuses on architectural adaptation rather than explicitly addressing social technologies or frameworks that promote collaboration and decision-making. While there are mentions of fostering a culture of adaptability and investing in teams, these concepts are not explored in depth regarding their impact on organisational behaviour or collective intelligence. The case study of the Azure DevOps team provides some insight into long-term vision and incremental changes, but it lacks a thorough examination of social technologies as defined in the category.",
     "level": "Ignored"
   },
@@ -59,7 +59,7 @@
     "reasoning": "Content primarily discusses Scrum roles and events, with no clear focus on leadership practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-20T19:50:49",
     "ai_confidence": 0,
@@ -95,15 +95,6 @@
     "reasoning": "The content primarily discusses the differences in Scrum Master roles and mentions architectural adaptation, but does not focus specifically on Agile Product Management practices or methodologies.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily addresses architectural adaptation in Agile and Scrum, with little emphasis on the interplay between human behavior and structured methodologies or team dynamics.",
-    "level": "Ignored"
-  },
   "Team Collaboration": {
     "category": "Team Collaboration",
     "calculated_at": "2025-02-20T19:50:49",
@@ -124,13 +115,13 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-14T16:27:34",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content discusses the need for architectural adaptation in software development but does not explicitly mention Agile frameworks or principles. While it touches on the importance of enabling teams to work incrementally, it lacks a direct focus on Agile methodologies like Scrum or Kanban. The discussion is more about architectural changes rather than the frameworks themselves, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -154,10 +145,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-20T19:50:49",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on Scrum roles and events, with only a brief mention of Agile, making it not central to the topic.",
     "level": "Ignored"
   },
@@ -188,21 +179,12 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on differences in Scrum Master roles rather than providing news, reviews, or updates in the Agile or DevOps space.",
-    "level": "Ignored"
-  },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-20T19:50:49",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between a newbie and a professional Scrum Master, without a focus on metrics, learning, or data-driven decision-making.",
     "level": "Ignored"
   },
@@ -213,15 +195,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the difference between Scrum Master roles, which does not closely align with the specific role of software developers within Agile and DevOps contexts.",
     "level": "Ignored"
   },
   "Troubleshooting": {
@@ -249,15 +222,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content mainly discusses the difference between a newbie Scrum Master and a professional Scrum Master, which does not align with the strategic focus of Agile Strategy.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not focus on practical techniques or tooling; it discusses the differences between types of Scrum Masters without detailing any methodologies or tools.",
     "level": "Ignored"
   },
   "Lean Product Development": {
@@ -314,15 +278,6 @@
     "reasoning": "Content primarily discusses roles in Scrum rather than the end-to-end product delivery process.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not directly related to software code quality or complexity.",
-    "level": "Ignored"
-  },
   "Technical Excellence": {
     "category": "Technical Excellence",
     "calculated_at": "2025-02-20T19:50:49",
@@ -334,20 +289,23 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-20T19:50:49",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the distinction between a newbie and a professional Scrum Master, without discussing installation or configuration aspects.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events and does not focus on Lead Time measurements or discussions.",
+    "calculated_at": "2025-04-11T08:54:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content discusses architectural adaptation and the importance of incremental changes in software development but does not explicitly mention Lead Time or its measurement. While it touches on themes of long-term vision and reducing time to market, these concepts are not directly tied to Lead Time as a metric. The focus is more on adaptability and team investment rather than on the specific observability metric of Lead Time, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -397,13 +355,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T10:36:18",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of adapting architecture in software development, which aligns with agile principles of continuous improvement and responsiveness to change. However, it lacks direct mentions of the Agile Product Operating Model and does not delve into specific product management practices or frameworks, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -461,21 +419,12 @@
     "reasoning": "Content heavily discusses Scrum roles and events, which are more related to project management than technical practices.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on the difference between Scrum Masters, with no direct reference to specific events or presentations.",
-    "level": "Ignored"
-  },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-20T19:50:49",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, with no mention or focus on the Scrum Values.",
     "level": "Ignored"
   },
@@ -508,12 +457,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T16:40:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of adapting architecture in response to changing demands, which aligns with the concept of innovation. It mentions fostering a culture of adaptability and encourages experimentation, both of which are key to innovation. However, the primary focus is on architectural adaptation rather than a broader discussion of innovation practices or metrics. While there are relevant insights, the depth of discussion on innovation as a standalone topic is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -569,15 +521,6 @@
     "reasoning": "Content does not primarily discuss team performance; it focuses more on the differences between scrum master experience levels and mentions architectural adaptation, which is not directly related to team dynamics or performance.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without any mention of AI or automation.",
-    "level": "Ignored"
-  },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
     "calculated_at": "2025-02-20T19:50:49",
@@ -587,15 +530,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events without a focus on customer satisfaction or related practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the difference between a newbie and a professional Scrum Master and does not directly relate to scaling Scrum practices or frameworks.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
     "calculated_at": "2025-02-20T19:50:49",
@@ -603,15 +537,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content briefly mentions agile and scrum, but the primary focus is not on organisational agility strategies or practices.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the necessity of architectural adaptation and does not focus on transparency or accountability within Agile teams.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -686,15 +611,6 @@
     "reasoning": "Content primarily discusses the differences between Scrum Master roles rather than focusing on Product Owner responsibilities or practices.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not primarily focus on Scrum principles or product development; it briefly mentions Scrum but is more centered around architectural adaptation and includes unrelated hashtags such as #devops and #agileprojectmanagement.",
-    "level": "Ignored"
-  },
   "Remote Working": {
     "category": "Remote Working",
     "calculated_at": "2025-02-20T19:50:49",
@@ -706,11 +622,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:00:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on architectural adaptation in software development rather than system configuration. While it touches on the importance of maintaining architectural health, it does not delve into specific system configuration practices, tools, or methodologies. The discussion is more aligned with software development processes and team dynamics than with the core themes of system configuration.",
     "level": "Ignored"
   },
   "Lean Startup": {
@@ -769,22 +688,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-20T19:50:49",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, with no focus on the Definition of Done.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T16:45:14",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of adapting architecture in software development, which touches on themes of long-term vision and incremental changes. However, it lacks explicit references to Evidence-Based Management principles, such as empirical decision-making or specific metrics related to current value or time to market. The focus is more on general software development practices rather than a data-informed management approach.",
     "level": "Ignored"
   },
@@ -795,15 +714,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum and Agile topics without discussing Lean principles directly.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, with no focus on scaling Kanban principles or practices.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
@@ -898,10 +808,10 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-20T19:50:49",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content does not focus on the Daily Scrum; it discusses the difference between a newbie and a professional Scrum Master without specific reference to Daily Scrum activities or principles.",
     "level": "Ignored"
   },
@@ -995,24 +905,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without any focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Product Backlog": {
     "category": "Product Backlog",
     "calculated_at": "2025-02-20T19:50:49",
@@ -1038,15 +930,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content titles and tags suggest a focus on comparing Scrum Master roles, but does not provide substantial discussion on Agile Transformation itself.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Scrum roles and events, with no clear discussion of AI applications in Agile or DevOps.",
     "level": "Ignored"
   },
   "Customer Retention": {
@@ -1078,20 +961,11 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-20T19:50:49",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content does not clearly discuss Scrum principles, roles, or practices, and appears to be focused on unrelated topics like architectural adaptation and includes hashtags that suggest a broader agile context rather than a specific focus on Professional Scrum.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on the difference between a newbie and professional Scrum Master, which does not directly discuss specific products, books, or resources related to Agile methodologies.",
     "level": "Ignored"
   },
   "Decision Making": {
@@ -1157,22 +1031,16 @@
     "reasoning": "Content heavily discusses Scrum roles and events, which are not directly relevant to Azure Boards.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content briefly mentions scrum and agile concepts, but is focused on the difference between a newbie and a professional Scrum Master, which is a secondary theme.",
-    "level": "Tertiary"
-  },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:00:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on architectural adaptation and the importance of incremental changes in software development. While it touches on themes of long-term vision and team investment, it does not explicitly discuss throughput as a delivery metric or provide any analysis, visualisation, or interpretation of throughput. Therefore, it lacks direct mentions and depth in relation to the category.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1186,15 +1054,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T16:45:12",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 42.0,
     "ai_mentions": 3,
     "ai_alignment": 50.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of incremental changes and architectural adaptation, which aligns with Continuous Delivery principles. However, it lacks a direct focus on Continuous Delivery practices, automation, or specific tools, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1216,13 +1084,13 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T15:32:05",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content discusses the importance of adapting to changing demands in software development and architectural adaptation, but it does not explicitly mention the role of a Scrum Master or align closely with the core themes of the category. While it touches on team dynamics and fostering a culture of adaptability, it lacks depth in discussing the specific responsibilities and impact of a Scrum Master within a Scrum framework.",
     "level": "Ignored"
   },
@@ -1264,13 +1132,13 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-06T14:34:50",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the necessity of architectural adaptation in software development, particularly in relation to changing product demands and the impact on test infrastructure. It mentions the Azure DevOps team, which ties into software development practices. However, while it touches on relevant themes, the discussion lacks depth in methodologies or frameworks, resulting in a moderately high confidence score.",
     "level": "Secondary"
   },
@@ -1281,15 +1149,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on Scrum roles and events, with no substantial discussion on resilience or change management strategies.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1310,21 +1169,12 @@
     "reasoning": "Content primarily discusses architectural adaptation in the context of Scrum, but does not clearly focus on key themes of technical leadership.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the differences between Scrum Masters rather than on scaling agile practices or frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-20T19:50:49",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content seems to focus on architectural adaptation and doesn't provide any significant discussion about Scrum Team roles, dynamics, or collaboration.",
     "level": "Ignored"
   },
@@ -1357,10 +1207,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-20T19:50:49",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not address the Definition of Ready and is primarily about the differences in Scrum Master experience levels, not relevant to backlog item readiness.",
     "level": "Ignored"
   },
@@ -1375,13 +1225,13 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:32:01",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses architectural adaptation and the importance of incremental changes in software development, without any direct mention or focus on Test First Development principles. While it touches on themes of adaptability and long-term vision, it does not align with the core concepts of defining success criteria or the practices of Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). Therefore, the confidence score reflects a very low relevance to the Test First Development category.",
     "level": "Ignored"
   },
@@ -1405,86 +1255,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T16:27:34",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 12,
     "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the need for architectural changes in response to evolving product demands, which aligns with the Agile principle of responding to change. However, it lacks explicit references to Scrum roles, events, or artifacts, and does not delve deeply into Scrum practices. The focus is more on architectural adaptation rather than Scrum-specific methodologies, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:36:48",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses architectural adaptation and the importance of incremental changes, which are relevant to the Shift-Left Strategy. However, it does not explicitly mention testing, security, or compliance integration early in the development process, which are core aspects of the Shift-Left concept. The focus is more on long-term vision and adaptability rather than on proactive measures to enhance software quality and delivery speed.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T16:44:58",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of incremental changes and fostering a culture of adaptability, which aligns with Continuous Improvement principles. However, while it touches on these themes, it does not explicitly focus on Continuous Improvement as a primary topic. The depth of discussion on specific Continuous Improvement techniques and frameworks is limited, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T16:45:00",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of adapting to changing demands and fostering a culture of adaptability, which aligns with the concept of Common Goals in terms of creating a shared vision and long-term objectives. However, it lacks direct mentions of Common Goals and does not delve deeply into the specific frameworks or techniques that operationalise these goals, resulting in a lower confidence score.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T16:45:03",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 62.0,
     "ai_mentions": 3,
     "ai_alignment": 25,
     "ai_depth": 34,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of adapting to changing demands in software development, which indirectly relates to competence through the emphasis on investing in teams and fostering a culture of adaptability. However, while it touches on continuous improvement and long-term vision, it lacks a direct focus on the core themes of competence such as skill development and professionalism. The depth of discussion on strategies for fostering competence is present but not exhaustive, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T16:45:06",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses architectural adaptation and team dynamics in software development but does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on themes of collaboration and long-term vision, it lacks a direct focus on the integration and standardisation of engineering processes that characterise 1ES. The case study provided is relevant but does not connect to the broader framework of 1ES, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T15:31:57",
+    "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses adaptability and long-term vision in software development, which aligns with some principles of Agentic Agility. However, it lacks explicit mentions of the category and does not differentiate between human and AI capabilities. The focus is more on architectural adaptation rather than intentional shaping of outcomes, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T13:00:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of adapting architecture in software development, which aligns with iterative and incremental development processes. It emphasises the need for teams to make incremental changes and invest in long-term outcomes, reflecting principles of Agile and continuous improvement. However, while it touches on product development themes, it lacks a direct focus on customer feedback loops and specific methodologies, which slightly lowers the confidence score.",
+    "level": "Secondary"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T13:00:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of adapting to changing demands in software development, which touches on project management principles like long-term vision and incremental changes. However, it lacks explicit references to project management methodologies, lifecycle phases, or specific tools, making it more focused on software development practices rather than comprehensive project management strategies.",
+    "level": "Tertiary"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T13:00:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content discusses architectural adaptation and incremental changes in software development but does not explicitly mention Hybrid Agile or its core challenges. It lacks a critical examination of the integration of traditional and agile methodologies, focusing instead on general software development practices.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T13:00:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses architectural adaptation and the importance of incremental changes in software development, which are relevant to scaling practices. However, it lacks explicit mentions of scaling frameworks or strategies for cross-team collaboration, which are central to the Scaling category. The focus is more on individual team dynamics and architectural health rather than on methodologies for scaling Agile practices across multiple teams.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T13:00:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses architectural adaptation in software development without any direct mention of GitHub or its services. While it touches on themes relevant to software development practices, it does not align with GitHub's functionalities or methodologies, nor does it provide any specific insights into GitHub tools or collaboration features.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T16:40:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of adapting architecture to meet changing demands, which indirectly relates to Time to Market by highlighting the need for long-term vision and incremental changes. The mention of the Azure DevOps team's goal to reduce their time to market provides a direct reference, but the overall focus is more on architectural adaptation rather than specific metrics or strategies for improving Time to Market. The depth of discussion on fostering adaptability and prioritising architectural health adds value, but it does not fully align with the core themes of Time to Market as defined.",
+    "level": "Secondary"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T16:41:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of architectural adaptation in software development, which indirectly relates to the concept of Unrealised Value by emphasising the need for long-term vision and incremental changes. However, it lacks direct mentions of Unrealised Value or specific indicators and strategies for identifying untapped opportunities. The focus is more on adaptation and team investment rather than on exploring potential value or innovation opportunities, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T16:41:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses architectural adaptation and the importance of incremental changes in software development, but it does not explicitly mention Current Value or its metrics. While it touches on themes of long-term vision and team investment, which can relate to value delivery, it lacks a direct focus on measuring or assessing Current Value as defined in Evidence-Based Management. The depth of discussion on architectural health and adaptability is present, but it does not provide concrete examples or metrics that would align it closely with the Current Value category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T16:40:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of adapting to changing demands in software development, which aligns with the Agnostic Agile principle of context-driven agility. However, it lacks direct mentions of Agnostic Agile or its specific principles, focusing instead on architectural adaptation and team dynamics. The depth of discussion is limited to general strategies without a clear connection to the broader Agnostic Agile philosophy.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T16:40:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses architectural adaptation in software development, focusing on incremental changes and long-term vision. However, it does not explicitly mention the concept of 'Company as a Product' or its core themes such as customer feedback integration or cross-functional collaboration. While there are elements of continuous improvement and adaptability, the primary focus remains on software architecture rather than organisational strategy, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T16:41:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses architectural adaptation in software development, focusing on team dynamics and long-term vision. It does not explicitly mention Cell Structure Design or its principles, nor does it delve into the characteristics of autonomous cells or decentralised structures. While there are themes of adaptability and team investment, these are not aligned with the core concepts of the Cell Structure Design model.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T16:40:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on architectural adaptation in software development and does not explicitly mention Liberating Structures or their techniques. While it discusses themes of team adaptability and long-term vision, which could tangentially relate to the principles of collaboration and self-organisation, it lacks direct references to specific Liberating Structures methods or their applications. The depth of discussion on the topic is minimal, primarily centred on architectural strategies rather than facilitation techniques.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T16:41:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content discusses architectural adaptation in software development but does not explicitly mention Open Space Agile or its principles. While it touches on themes of adaptability and team investment, it lacks a direct connection to the core concepts of Open Space Agile, such as psychological safety, co-creation, or iterative dialogue. The discussion is primarily focused on architectural changes rather than collaborative change processes, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

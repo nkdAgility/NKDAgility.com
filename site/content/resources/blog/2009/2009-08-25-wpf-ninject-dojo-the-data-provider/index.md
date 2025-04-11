@@ -9,7 +9,7 @@ ResourceImportId: 88
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-08-25
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,8 +30,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Technical Mastery
-- Practical Techniques and Tooling
-- Windows
 categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 

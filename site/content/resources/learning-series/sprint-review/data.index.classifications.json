@@ -109,11 +109,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T21:25:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:34:27",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss system configuration; it is focused on Scrum roles and events.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on the Sprint Review, which is a Scrum event related to project management and software development, rather than system configuration. There are no direct mentions of system configuration, and the discussion does not align with the core themes of system setup, automation, or maintenance. The depth of discussion is minimal, as the content is incomplete and lacks substantive information.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -253,11 +256,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T21:25:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:34:29",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide any relevant information or discussion related to the Ability to Innovate category; it is incomplete and lacks focus on innovation capabilities.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on the Sprint Review process in Agile, which is not directly related to the Ability to Innovate. There are no explicit mentions of innovation, metrics, or practices that foster innovation. The discussion is too brief and lacks depth, failing to address any of the key topics outlined in the category.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -267,15 +273,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content does not provide any substantial information or discussion related to Agile frameworks; it is merely a placeholder.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T21:25:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss scaling agility; it is too vague and does not provide relevant information on the topic.",
     "level": "Ignored"
   },
   "Team Collaboration": {
@@ -352,11 +349,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T21:25:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:34:32",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss throughput or related concepts; it is vague and lacks relevant information.",
+    "final_score": 15.0,
+    "reasoning": "The content does not explicitly mention throughput or related metrics. While it discusses the Sprint Review, which is a Scrum event, it does not focus on throughput as a delivery metric or provide any analysis or visualisation of throughput. The discussion is more about stakeholder engagement and future planning rather than measuring or interpreting delivery capacity.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -458,24 +458,15 @@
     "reasoning": "Content does not discuss revenue per employee or related financial metrics; it is unrelated to the category.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-12T21:26:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide any substantial information related to software developers or Agile methodologies; it is vague and lacks detail.",
-    "level": "Ignored"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-04-08T15:44:08",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Sprint Review process within Scrum, which does not directly address Test First Development principles. There are no explicit mentions of success criteria, testing practices, or the importance of testing in the development process. The discussion is more about stakeholder engagement and future planning rather than the core themes of Test First Development.",
     "level": "Ignored"
   },
@@ -526,29 +517,23 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-12T21:26:16",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content does not provide any substantial information or discussion related to the Sprint Review; it is merely a placeholder.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T21:26:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:00:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Lead Time; it is focused on a Scrum event without relevant details.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T21:26:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide any relevant information about Scaled Agile methodologies or frameworks; it is too vague and does not discuss scaling Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content does not explicitly mention Lead Time or its related concepts. While it discusses the Sprint Review, which is a part of the Agile process, it does not address Lead Time as a metric or its importance in measuring efficiency. The discussion is primarily focused on stakeholder engagement and future planning, lacking any depth or alignment with the core themes of Lead Time.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
@@ -567,15 +552,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not provide any relevant information regarding deployment frequency; it is too vague and does not discuss Agile or DevOps practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T21:26:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not provide sufficient information or discussion related to Agile Project Management, as it only states 'Coming soon' without elaborating on any relevant topics.",
     "level": "Ignored"
   },
   "Continuous Integration": {
@@ -598,13 +574,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T17:05:09",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on the Sprint Review, which is a Scrum event rather than Continuous Delivery. While it touches on aspects of stakeholder engagement and decision-making, it does not explicitly discuss Continuous Delivery principles, practices, or the role of automation, which are central to the category. The mention of future states and increments is too vague and does not provide substantial alignment with Continuous Delivery concepts.",
     "level": "Ignored"
   },
@@ -651,24 +627,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content does not provide any substantial information or discussion related to team performance or collaboration; it is merely a placeholder.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T21:26:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss AI or its applications in Agile, DevOps, or software development; it is unrelated to the category.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T21:26:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about Scrum roles and events, with no mention of Kanban principles or scaling practices.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -743,15 +701,6 @@
     "reasoning": "Content does not discuss test automation or related topics; it focuses on Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T21:26:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not provide any substantial information or discussion related to Scrum Product Development; it is merely a placeholder.",
-    "level": "Ignored"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
     "calculated_at": "2025-02-12T21:26:49",
@@ -763,13 +712,13 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:05:11",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content briefly touches on decision-making related to the future state of the product but lacks explicit discussion on Evidence-Based Management principles or metrics. It primarily focuses on the Sprint Review process without providing empirical evidence or data-informed decision-making insights.",
     "level": "Ignored"
   },
@@ -782,24 +731,15 @@
     "reasoning": "Content is primarily about the Sprint Review, which is unrelated to Backlog Refinement discussions.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T21:26:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide any relevant information about Scaling Scrum; it is too vague and lacks substance.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-04-08T15:44:05",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions the Sprint Review, which is a Scrum event, but does not explicitly discuss the role or responsibilities of the Scrum Master. While it touches on stakeholder engagement and decision-making, it lacks depth and a direct focus on the Scrum Master's influence or techniques. Overall, the content is more about the event itself rather than the Scrum Master role.",
     "level": "Ignored"
   },
@@ -866,7 +806,7 @@
     "reasoning": "Content does not provide any relevant discussion on accountability or related themes; it is too vague and lacks substance.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T21:27:03",
     "ai_confidence": 0,
@@ -1046,15 +986,6 @@
     "reasoning": "Content does not discuss Lean principles or methodologies; it is primarily about Scrum, which is unrelated to Lean.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T21:24:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide any relevant information or discussion related to organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
     "calculated_at": "2025-02-12T21:24:04",
@@ -1064,15 +995,6 @@
     "reasoning": "Content does not address installation or configuration topics; it is vague and does not provide actionable instructions or insights related to the category.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T21:24:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss code quality, complexity, or related software development practices; it is unrelated to the category.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-12T21:24:07",
@@ -1080,15 +1002,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not provide any relevant information regarding flow efficiency or its principles; it is too vague and lacks substance.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T21:24:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss AI or automation in Agile practices; it is unrelated to the category.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -1109,15 +1022,6 @@
     "reasoning": "The content does not provide any substantial information or discussion related to Agile Product Management, as it is incomplete and lacks relevant details.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T21:24:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide any relevant information or discussion related to discovery and learning; it is too vague and lacks substance.",
-    "level": "Ignored"
-  },
   "Systems Thinking": {
     "category": "Systems Thinking",
     "calculated_at": "2025-02-12T21:24:15",
@@ -1134,33 +1038,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss complexity science or its principles; it is vague and lacks relevant information.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T21:24:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide any information related to transparency or accountability; it is vague and lacks substance.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T21:24:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is too vague and does not provide any specific information or discussion related to practical techniques or tooling in Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T21:24:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide any information about events or presentations; it only mentions a forthcoming topic without context.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1183,13 +1060,13 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T10:43:51",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on the Sprint Review, which is a Scrum event, rather than discussing DevOps principles or practices. While there is a mention of stakeholders and decision-making, it does not align with the core themes of DevOps such as collaboration, automation, or shared accountability. The discussion lacks depth and does not provide substantial insights into DevOps as a philosophy.",
     "level": "Ignored"
   },
@@ -1200,15 +1077,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not mention Azure DevOps and focuses on Scrum, which is not relevant to the category.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T21:24:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not provide any substantial discussion or analysis related to products or books; it is merely a placeholder statement.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -1265,15 +1133,6 @@
     "reasoning": "Content does not provide any personal reflections, experiences, or insights related to Agile, Scrum, or DevOps; it is too vague and lacks substance.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-12T21:24:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide any substantial information or discussion related to people or processes; it is incomplete and lacks context.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-12T21:24:42",
@@ -1281,15 +1140,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not provide any relevant discussion on sociotechnical systems; it is too vague and lacks substance.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T21:24:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not provide any relevant information or insights related to Agile, DevOps, or technology updates. It appears to be incomplete and lacks substance.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
@@ -1339,13 +1189,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:49:45",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions decision-making in the context of the Sprint Review, which aligns with the category's focus on collaboration and value delivery. However, it lacks depth and does not explore the broader themes of self-organisation, transparency, or collective intelligence. The mention of stakeholders indicates some relevance, but the overall discussion is limited and does not provide substantial insights into social technologies.",
     "level": "Ignored"
   },
@@ -1360,13 +1210,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T10:43:54",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly touches on aspects of Agile practices, specifically the Sprint Review, but does not explicitly discuss the Agile Product Operating Model or its core principles. The focus is more on Scrum events rather than the broader product-oriented mindset and integration with product management that characterises APOM.",
     "level": "Ignored"
   },
@@ -1399,86 +1249,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:43:32",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 10.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content title suggests a focus on a Scrum event, the Sprint Review, but the body of the content is incomplete and does not provide any substantial information or discussion on Scrum principles, roles, or practices. Therefore, while there is a minimal mention of a Scrum-related topic, the lack of detail and context results in a very low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:41:32",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not explicitly mention the Shift-Left Strategy or its principles. It appears to be a placeholder with no relevant information, making it difficult to assess any alignment or depth regarding the category. The minimal mention of 'coming soon' does not provide any context or discussion related to the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:04:59",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly touches on the concept of making decisions about the future based on the current state, which aligns with the idea of Continuous Improvement. However, it lacks explicit discussions on the principles of Continuous Improvement, empirical evidence, or detailed strategies for fostering a culture of experimentation and learning. The focus is primarily on the Sprint Review process within Scrum, which does not fully encapsulate the broader themes of Continuous Improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:05:01",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the purpose of the Sprint Review in relation to future decision-making and stakeholder involvement, which aligns with the concept of Common Goals. However, it lacks explicit discussions on shared objectives, strategic alignment, or detailed frameworks like OKRs. The overall depth of discussion is minimal, focusing more on the event itself rather than its role in achieving common goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:05:04",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content briefly touches on the importance of stakeholder involvement in decision-making during the Sprint Review, which can relate to competence in terms of ensuring informed choices. However, it lacks explicit discussions on continuous learning, skill development, or the core themes of competence. The depth of discussion is minimal, focusing primarily on the purpose of the Sprint Review without delving into how competence plays a role in achieving its objectives.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:05:07",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on the Sprint Review, a specific Scrum event, which does not directly relate to the One Engineering System framework. There are no explicit mentions of 1ES principles, components, or its impact on software development practices. The discussion lacks depth and does not address integration, standardisation, or best practices relevant to 1ES.",
     "level": "Ignored"
   },
   "Agentic Agility": {
     "category": "Agentic Agility",
-    "calculated_at": "2025-04-08T15:43:57",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content briefly touches on decision-making regarding future states, which could relate to the concept of shaping outcomes. However, it lacks explicit discussion of Agentic Agility principles, does not differentiate between human and AI capabilities, and does not provide depth or detail on the category.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T17:33:42",
+    "ai_confidence": 20.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 20.0,
+    "reasoning": "The content briefly mentions the Sprint Review, which is a component of Agile product development, but lacks substantial detail or discussion on methodologies, practices, or principles related to product development. The focus is primarily on the purpose of the Sprint Review without exploring its implications for iterative learning, customer feedback, or continuous improvement, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T17:33:45",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content does not explicitly mention Time to Market or related metrics. While it discusses the Sprint Review, which is a Scrum event, it does not delve into how this event impacts the speed of delivering value or improving Time to Market. The focus is more on stakeholder engagement and future planning rather than on the efficiency of transforming ideas into market-ready products.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T17:33:48",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content does not mention GitHub at all and focuses solely on the Sprint Review, which is a Scrum event. While it touches on Agile principles, it does not align with GitHub's functionalities or practices, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T17:33:51",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content does not explicitly mention Agnostic Agile or its principles. It focuses solely on the Sprint Review, a specific Scrum event, without discussing the broader context or ethical considerations of agility. There is minimal alignment with the core themes of Agnostic Agile, and the depth of discussion is extremely limited, as the content is incomplete.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T17:33:55",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content does not explicitly mention 'Company as a Product' or any related concepts. It briefly discusses the Sprint Review, which is a Scrum event focused on future planning rather than organisational design or customer-centric strategies. The alignment with CaaP principles is minimal, and the depth of discussion is insufficient to warrant a higher score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T17:34:00",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content does not explicitly mention Cell Structure Design or its principles. It focuses on the Sprint Review, a Scrum event, which is not aligned with the core themes of decentralised organisational structures or the Beta Codex. The discussion lacks depth and detail regarding the characteristics or functions of autonomous cells, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T17:34:03",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on the Sprint Review, a specific Agile event, without any direct mention or discussion of Liberating Structures. While it touches on decision-making and stakeholder engagement, it does not align with the core themes of Liberating Structures, which emphasise facilitation techniques and inclusive engagement. The depth of discussion is minimal, as the content is incomplete and lacks substantial information.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T17:34:05",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content does not explicitly mention Hybrid Agile or its core themes. It focuses solely on the Sprint Review, which is a specific agile practice, without any critical examination of the integration of traditional methodologies with agile practices. The lack of depth and relevant discussion on Hybrid Agile concepts results in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T17:34:08",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content briefly touches on the future focus of the Sprint Review, which could imply a consideration of potential improvements. However, it lacks explicit discussions on Unrealised Value, indicators, or strategies for identifying untapped opportunities. The overall depth is minimal, and the primary focus is not aligned with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T17:34:12",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on the Sprint Review, which is a specific Agile event rather than a discussion on scaling methodologies or frameworks. There are no direct mentions of scaling practices, and the content lacks depth in exploring the complexities involved in scaling Agile across multiple teams. While it touches on stakeholder engagement, it does not align with the core themes of scaling or provide substantial detail on strategies or frameworks relevant to the category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T17:34:15",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content briefly touches on the concept of assessing the current state during the Sprint Review, which could relate to Current Value. However, it lacks explicit discussions on metrics, techniques for gathering data, or the role of Current Value in decision-making. The focus is more on the future and decision-making rather than a real-time assessment of value, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T17:34:17",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions the Sprint Review, which is a specific agile ceremony, but does not provide a comprehensive discussion on broader project management principles or methodologies. The focus is limited to a single aspect of Agile without addressing the wider context of project management, such as planning, execution, or stakeholder communication.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T17:34:19",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content does not explicitly mention Open Space Agile or its principles. While it touches on Agile concepts, such as stakeholder engagement and decision-making, it lacks a direct focus on Open Space Technology, psychological safety, or co-creation, which are central to the category. The discussion is minimal and does not provide depth on the key topics outlined for Open Space Agile.",
     "level": "Ignored"
   }
 }

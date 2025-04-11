@@ -9,7 +9,7 @@ ResourceImportId: 10502
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-04-30
-weight: 995
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,9 +25,8 @@ aliasesArchive:
 - /resources/blog/migrating-to-office-365-from-google-mail
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
-- System Configuration
 - Troubleshooting
+- System Configuration
 categories: []
 preview: metro-office-128-link-3-3.png
 

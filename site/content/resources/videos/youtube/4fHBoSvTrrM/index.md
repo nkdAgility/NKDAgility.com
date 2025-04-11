@@ -2,7 +2,7 @@
 title: How will a PSM II course challenge your assumptions the most?
 description: Discover how the PSM II course can elevate your Scrum Master career. Join Martin Hinshelwood as he shares insights on advancing your Agile journey!
 date: 2023-04-03T07:00:03Z
-weight: 700
+weight: 665
 ResourceId: 4fHBoSvTrrM
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -32,11 +32,9 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
-- Agile Project Management
 - Professional Scrum
-- People and Process
-- Scrum Team
 - Agile Frameworks
+- Scrum Team
 - Software Development
 resourceTypes:
 - video

@@ -9,7 +9,7 @@ ResourceImportId: 9731
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-08
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,15 +25,15 @@ aliasesArchive:
 - /resources/blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
-- System Configuration
 - Azure Boards
 - Azure DevOps
 - Software Development
-- Agile Planning Tools
+- System Configuration
 - Operational Practices
-- Product Backlog
+- Agile Planning Tools
 - Portfolio Management
+- Product Backlog
+- Working Software
 categories: []
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 

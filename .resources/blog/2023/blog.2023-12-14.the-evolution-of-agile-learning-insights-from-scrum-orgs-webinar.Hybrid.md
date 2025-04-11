@@ -9,7 +9,7 @@ ResourceImportId: 50979
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-12-14
-weight: 850
+weight: 840
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -30,13 +30,9 @@ aliasesArchive:
 - /resources/blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 tags:
 - Continuous Learning
-- Discovery and Learning
-- Events and Presentations
-- People and Process
 - Pragmatic Thinking
-categories:
-- Social Technologies
-- Scrum
+- Competence
+categories: []
 preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg
 
 ---

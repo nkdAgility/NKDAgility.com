@@ -9,7 +9,7 @@ ResourceImportId: 45806
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-02-04
-weight: 670
+weight: 640
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -25,12 +25,10 @@ aliasesArchive:
 - /become-the-leader-that-you-were-meant-to-to-be
 - /resources/blog/become-the-leader-that-you-were-meant-to-to-be
 tags:
-- People and Process
 - Agile Leadership
 - Scrum Master
 categories:
 - Leadership
-- Scrum
 preview: image-2-2.png
 
 ---
