@@ -42,13 +42,16 @@ tags:
 - Agile Planning
 - Agile Values and Principles
 - Agile Transformation
+- Time to Market
 - Cycle Time
 - Metrics and Learning
 - Product Delivery
 - Working Software
+- Current Value
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 **Introduction to Agile Metrics: The Pitfall of Story Points and Velocity**

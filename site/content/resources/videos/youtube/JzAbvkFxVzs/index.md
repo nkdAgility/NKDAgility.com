@@ -44,9 +44,11 @@ tags:
 - Team Collaboration
 - Working Software
 - Product Delivery
+- Current Value
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 In the world of Agile, we often hear about the famous "three questions" used during the daily Scrum or retrospective sessions:

@@ -54,6 +54,7 @@ layout: video
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

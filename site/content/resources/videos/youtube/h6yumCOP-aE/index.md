@@ -42,7 +42,8 @@ tags:
 - Agile Frameworks
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 ### Achieving Team Alignment with Kanban: The Importance of a Working Agreement

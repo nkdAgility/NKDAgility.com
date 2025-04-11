@@ -48,12 +48,14 @@ tags:
 - Agile Product Management
 - Continuous Improvement
 - Digital Transformation
+- Current Value
 - Operational Practices
 - Strategic Goals
 resourceTypes:
 - video
 categories:
 - Product Management
+- Product Development
 
 ---
 In the world of agile transformation, it’s easy to get caught up in the methods, frameworks, and terminology. But the real question is: Are these changes actually making your organization more successful? That’s where evidence-based management (EBM) comes in. Instead of focusing on delivering agile for the sake of agile, we need to turn our attention to **achieving business success**—with agile as a tool to help us get there.

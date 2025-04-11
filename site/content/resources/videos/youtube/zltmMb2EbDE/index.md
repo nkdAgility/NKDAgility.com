@@ -45,6 +45,7 @@ resourceTypes:
 - video
 categories:
 - Kanban
+- Product Development
 
 ---
 ### Integrating Kanban with Scrum: Enhancing Your Workflow

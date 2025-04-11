@@ -33,6 +33,8 @@ tags:
 - Metrics and Learning
 - Pragmatic Thinking
 - Ability to Innovate
+- Current Value
+- Unrealised Value
 sitemap:
   filename: sitemap.xml
   priority: 0.6

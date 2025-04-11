@@ -32,6 +32,7 @@ sitemap:
   priority: 0.6
 tags:
 - Operational Practices
+- Scaling
 - Agile Frameworks
 - Portfolio Management
 - Flow Efficiency
@@ -42,10 +43,12 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Organisational Physics
+- Project Management
 - Throughput
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 ### Scaling Portfolio Kanban: Enhancing Flow and Predictability at the Organizational Level

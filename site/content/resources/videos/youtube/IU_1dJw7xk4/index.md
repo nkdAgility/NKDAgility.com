@@ -39,10 +39,12 @@ tags:
 - Agile Transformation
 - Continuous Improvement
 - Flow Efficiency
+- Project Management
 resourceTypes:
 - video
 categories:
 - Kanban
+- Product Development
 
 ---
 ### Transitioning from Traditional Project Management to Kanban

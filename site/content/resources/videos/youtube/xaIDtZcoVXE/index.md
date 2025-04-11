@@ -31,6 +31,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Time to Market
 - Ability to Innovate
 - Continuous Improvement
 - Evidence Based Leadership
@@ -43,17 +44,17 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Product Delivery
+- Current Value
 - Decision Making
 - Metrics and Learning
 - Organisational Agility
 - Value Delivery
 - Lead Time
 - Business Agility
-- Empirical Process Control
-- Team Performance
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

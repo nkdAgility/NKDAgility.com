@@ -52,6 +52,7 @@ tags:
 - Scrum Master
 categories:
 - Scrum
+- Product Development
 preview: NKDAgility-Courses-AFMS-16x9-1.jpg
 previewIcon: AFMS.png
 brandColour: 

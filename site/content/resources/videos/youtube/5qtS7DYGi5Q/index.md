@@ -33,6 +33,7 @@ tags:
 - Evidence Based Leadership
 - Decision Making
 - Evidence Based Management
+- Current Value
 - Continuous Improvement
 - Ability to Innovate
 - Pragmatic Thinking
@@ -49,6 +50,7 @@ resourceTypes:
 - video
 layout: video
 categories:
+- Product Development
 - Product Management
 
 ---

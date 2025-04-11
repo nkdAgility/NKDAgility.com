@@ -44,6 +44,7 @@ resourceTypes:
 - video
 categories:
 - Kanban
+- Product Development
 
 ---
 ### Improving Your Workflow in a Kanban Strategy

@@ -31,6 +31,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Unrealised Value
 - Continuous Improvement
 - Decision Making
 - Evidence Based Leadership
@@ -40,6 +41,7 @@ tags:
 - Ability to Innovate
 - Evidence Based Management
 - Pragmatic Thinking
+- Current Value
 - Customer Satisfaction
 - Working Software
 - Customer Retention
@@ -49,11 +51,10 @@ tags:
 - Agile Strategy
 - Entrepreneurship
 - Operational Practices
-- Product Backlog
-- Value Delivery
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

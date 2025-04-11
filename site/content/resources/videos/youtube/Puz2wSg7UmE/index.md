@@ -40,15 +40,18 @@ tags:
 - Metrics and Learning
 - Business Agility
 - Pragmatic Thinking
+- Unrealised Value
 - Technical Debt
 - Digital Transformation
 - Operational Practices
 - Organisational Agility
 - Value Delivery
 - Software Development
+- Current Value
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 In today's fast-paced business environment, organizations are constantly seeking ways to improve the value they deliver. But how can you truly know if your organization is effective at doing so? The answer lies in understanding your **organizational capability** and, more specifically, your **ability to innovate**. In this blog post, we’ll explore how you can leverage evidence-based management to measure and improve your organization's capacity for innovation. We’ll also dive into some key metrics that can help you gauge your progress.

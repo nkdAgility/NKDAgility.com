@@ -280,14 +280,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-04-10T14:45:10",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "calculated_at": "2025-04-10T21:54:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of adapting to user feedback and empowering teams to make changes, which aligns with the concept of innovation. However, it primarily focuses on Agile practices rather than explicitly measuring or enhancing innovation capabilities. While it touches on some aspects of Evidence-Based Management, it lacks a comprehensive framework or metrics for assessing the Ability to Innovate.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of adapting to user feedback, which is a key aspect of innovation. It highlights the need for teams to be empowered to change requirements based on real-time insights, aligning with the core themes of innovation capability. However, while it touches on innovation, the primary focus is on Agile practices and user feedback mechanisms rather than a comprehensive exploration of innovation metrics or strategies. The depth of discussion is substantial but not exhaustive in terms of innovation frameworks or case studies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
@@ -385,11 +385,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-11T23:02:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T21:54:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of user feedback and the ability to adapt requirements in Agile environments, rather than focusing on the measurement and optimisation of work completion rates.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of adapting to user feedback in Agile environments rather than discussing throughput as a delivery metric. While it touches on the need for teams to pivot and adjust requirements, it does not explicitly define or calculate throughput, nor does it provide visualisations or trends related to throughput. The discussion is more about empowerment and flexibility in Agile practices, which does not align closely with the core themes of throughput as a metric for delivery capacity and performance inspection.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -1531,5 +1534,77 @@
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of adapting requirements based on real-time user feedback, which aligns closely with the concept of Current Value in Evidence-Based Management. It explicitly mentions the need for teams to be empowered to make changes based on user insights, which is a direct reference to assessing value delivered. The depth of discussion includes barriers to change and practical examples, enhancing its relevance to Current Value. However, while it touches on metrics like user feedback, it lacks a comprehensive exploration of specific Current Value indicators and techniques for measurement, which slightly lowers the confidence score.",
     "level": "Secondary"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T21:53:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 2,
+    "ai_alignment": 75.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 30,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of adapting to user feedback within Agile organisations, which aligns with the principles of treating the organisation as a product. It mentions the need for teams to be empowered to change requirements based on user insights, reflecting a customer-centric approach. However, while it touches on organisational design and agility, it lacks a comprehensive exploration of CaaP principles and does not provide detailed strategies or case studies related to the broader organisational culture or structure, which limits its depth of discussion.",
+    "level": "Secondary"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T21:53:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on empowering Agile teams to adapt to user feedback, which is more about Agile practices than scaling methodologies. While it touches on the importance of flexibility and responsiveness, it does not delve into frameworks for scaling Agile, cross-team collaboration, or managing dependencies, which are key aspects of the 'Scaling' category. The discussion lacks depth in terms of scaling strategies and does not provide specific examples or metrics related to scaling efforts, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T21:53:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on empowering agile teams to adapt to user feedback, which aligns more closely with pure Agile principles rather than a critical examination of Hybrid Agile. While it touches on challenges such as rigid structures and complex change request systems, it does not explicitly discuss the integration of traditional project management methodologies with agile practices or the pitfalls of Hybrid Agile. The depth of discussion on Hybrid Agile concepts is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T21:53:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 2,
+    "ai_alignment": 85.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of adapting Agile practices based on user feedback, which aligns with the principles of Agnostic Agile. It emphasises flexibility and empowerment over rigid structures, reflecting the core themes of the category. However, while it touches on Agile principles, it primarily focuses on user feedback mechanisms rather than a broader discussion of Agnostic Agile principles or comparisons with specific frameworks like Scrum or Kanban. The depth of discussion is moderate, providing examples and scenarios but lacking extensive exploration of Agnostic Agile's distinct philosophy.",
+    "level": "Secondary"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T21:53:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the importance of user feedback in adapting requirements, without any direct mention of GitHub or its services. While it touches on Agile principles, it does not align with GitHub's functionalities or best practices, nor does it provide any depth regarding GitHub tools or integrations. Therefore, the confidence score reflects a very low relevance to the GitHub category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T21:54:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the importance of user feedback in adapting requirements, which does not directly relate to Cell Structure Design. While there are mentions of team empowerment and adaptability, these concepts are framed within the context of Agile practices rather than the principles of the Beta Codex or the specific characteristics of autonomous cells. The discussion lacks depth regarding the core themes of Cell Structure Design, such as decentralisation, complexity theory, or comparisons with traditional hierarchies.",
+    "level": "Ignored"
   }
 }

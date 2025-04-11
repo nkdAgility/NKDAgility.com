@@ -38,7 +38,8 @@ tags:
 - Flow Efficiency
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 ### Demystifying Kanban: A Strategy for Continuous Improvement

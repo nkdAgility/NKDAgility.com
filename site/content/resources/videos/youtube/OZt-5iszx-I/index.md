@@ -42,6 +42,7 @@ tags:
 - Software Development
 - Working Software
 - Product Delivery
+- Time to Market
 - Value Delivery
 - Business Agility
 - Agile Strategy
@@ -51,10 +52,10 @@ tags:
 - Lead Time
 - Agile Frameworks
 - Agile Product Management
-- Agile Product Operating Model
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

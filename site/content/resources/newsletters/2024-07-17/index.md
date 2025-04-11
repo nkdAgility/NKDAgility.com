@@ -20,6 +20,7 @@ aliasesArchive:
 - /resources/newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
 categories:
 - Product Management
+- Product Development
 tags:
 - Product Discovery
 - Product Validation

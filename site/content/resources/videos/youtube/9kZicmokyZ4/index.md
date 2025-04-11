@@ -44,6 +44,7 @@ tags:
 - Metrics and Learning
 - Agile Transformation
 - Agile Strategy
+- Current Value
 - Organisational Agility
 - Team Performance
 - Value Delivery
@@ -53,6 +54,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

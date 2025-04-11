@@ -50,7 +50,8 @@ tags:
 - Product Delivery
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 ### Applying Flow Metrics for Scrum: Enhancing Value Delivery with Kanban

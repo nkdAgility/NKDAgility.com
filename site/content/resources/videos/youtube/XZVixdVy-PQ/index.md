@@ -45,7 +45,8 @@ tags:
 - Market Adaptability
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 There’s a quote from Ken Schwaber, one of the co-creators of Scrum, that goes:

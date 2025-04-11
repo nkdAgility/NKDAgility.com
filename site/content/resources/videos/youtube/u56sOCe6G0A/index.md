@@ -45,6 +45,7 @@ resourceTypes:
 - video
 categories:
 - Kanban
+- Product Development
 
 ---
 ### Actively Managing Your Workflow in a Kanban Strategy

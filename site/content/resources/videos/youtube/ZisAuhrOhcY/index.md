@@ -43,7 +43,8 @@ tags:
 - Metrics and Learning
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 ### Embracing Kanban for Enhanced Workflow and Predictability

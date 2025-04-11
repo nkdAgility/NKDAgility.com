@@ -34,7 +34,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 In my journey through the world of product development, I've often found myself reflecting on the relationship between our products and the users who engage with them. It's a dynamic that can make or break the success of what we create. Today, I want to share some insights on how we can foster a more benevolent relationship with our users, ensuring that they see our products not as burdens or cost centres, but as valuable tools that empower them.

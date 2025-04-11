@@ -42,6 +42,7 @@ tags:
 - Cycle Time
 - Continuous Improvement
 - Evidence Based Leadership
+- Current Value
 - Flow Efficiency
 - Pragmatic Thinking
 - Transparency
@@ -49,6 +50,7 @@ resourceTypes:
 - video
 categories:
 - Kanban
+- Product Development
 
 ---
 ### Avoiding Common Mistakes in Your Kanban Strategy

@@ -29,6 +29,7 @@ aliasesArchive:
 - /blog/you-can't-stop-the-signal--but-you-can-ignore-it-
 - /resources/blog/you-cant-stop-the-signal-but-you-can-ignore-it
 categories:
+- Product Development
 - Scrum
 preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
 tags:

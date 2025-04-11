@@ -37,11 +37,13 @@ tags:
 - Throughput
 - Flow Efficiency
 - Product Delivery
+- Project Management
 - Pragmatic Thinking
 - Value Delivery
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 ### Enhancing Team Predictability with Kanban: The "Applying Metrics for Predictability" Course
