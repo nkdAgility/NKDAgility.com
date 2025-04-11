@@ -28,7 +28,7 @@ Content Requirements:
 Keep it concise, natural, and engaging. Do not generate a title. Do not enclose text in quotes.
 
 Classification Title: {{title}}  
-Classification Description: {{description}}
+Classification abstract: {{abstract}}
 Classification Instruction:
 
 ```
