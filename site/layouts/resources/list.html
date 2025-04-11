@@ -123,7 +123,6 @@
               {{- $count := len ($items) -}}
               {{- if gt $count 0 }}
                 <div class="col-12 col-xl-6 p-3">
-                  {{ $ResourceTypes }}
                   {{- partial "components/cards/taxonomy.html" (dict "context" . "subTypes" $ResourceTypes) }}
                 </div>
               {{ end }}
