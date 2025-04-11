@@ -33,7 +33,8 @@ tags:
 - Team Collaboration
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 ## Bridging DevOps & Software Engineering Through Scrum! 🔥

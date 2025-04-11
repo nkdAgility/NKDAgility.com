@@ -42,6 +42,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 
 ---
 Why is Scrum so easy to understand but incredibly hard to master?

@@ -37,7 +37,8 @@ tags:
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Product Development
 
 ---
 What is DevOps and how is it different to Agile?

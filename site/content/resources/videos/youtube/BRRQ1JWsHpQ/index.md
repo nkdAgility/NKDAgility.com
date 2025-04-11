@@ -27,6 +27,7 @@ preview: https://i.ytimg.com/vi/BRRQ1JWsHpQ/maxresdefault.jpg
 duration: 418
 isShort: false
 tags:
+- Liberating Structures
 - Team Collaboration
 - Pragmatic Thinking
 - Continuous Learning

@@ -35,6 +35,7 @@ resourceTypes:
 categories:
 - Technical Leadership
 - Scrum
+- Product Development
 tags:
 - Scrum Master
 - Social Technologies

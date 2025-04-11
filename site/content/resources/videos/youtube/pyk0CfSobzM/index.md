@@ -38,6 +38,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 
 ---
 ## Navigating the Uncertainties of Sprint Estimations in Scrum Teams

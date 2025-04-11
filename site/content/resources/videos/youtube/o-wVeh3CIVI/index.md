@@ -35,7 +35,8 @@ tags:
 - Social Technologies
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 **What is Scrum?**

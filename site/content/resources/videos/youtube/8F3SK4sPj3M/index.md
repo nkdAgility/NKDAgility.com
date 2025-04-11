@@ -33,7 +33,8 @@ tags:
 - Agile Product Management
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 ## Stepping Up Your Game as a Product Owner

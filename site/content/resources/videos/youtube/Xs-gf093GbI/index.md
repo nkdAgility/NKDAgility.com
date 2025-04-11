@@ -31,7 +31,8 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 ## The essence of a Product is 'The Vision'

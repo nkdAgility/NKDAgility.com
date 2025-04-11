@@ -44,6 +44,7 @@ resourceTypes:
 categories:
 - Scrum
 - Technical Leadership
+- Product Development
 
 ---
 When I reflect on the role of a Scrum Master, I often find myself thinking of them as a guide—perhaps a "Scrum Guide" would be a more fitting title, but alas, that name is already taken. The essence of a Scrum Master lies in their deep technical understanding of Agile principles, practices, and the various methodologies that underpin them. They are there to empower the team, equipping them with the knowledge, tools, and skills necessary to make informed decisions within their specific context.

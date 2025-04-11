@@ -40,6 +40,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 
 ---
 ## The Art of Sprint Goal Creation

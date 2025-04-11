@@ -42,6 +42,7 @@ tags:
 - Scrum Team
 - Mentoring
 - Software Development
+- Liberating Structures
 resourceTypes:
 - video
 categories:

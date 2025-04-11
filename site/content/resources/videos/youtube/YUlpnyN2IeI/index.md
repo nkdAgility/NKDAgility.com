@@ -39,6 +39,7 @@ tags:
 - Organisational Agility
 - Agile Frameworks
 - Agile Transformation
+- Agnostic Agile
 - Agile Product Management
 - Continuous Improvement
 - Empirical Process Control
@@ -47,6 +48,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 
 ---
 ## The Golden Nugget of Scrum Advice I've Ever Received

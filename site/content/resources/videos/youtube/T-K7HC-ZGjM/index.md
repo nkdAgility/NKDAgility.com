@@ -44,6 +44,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 
 ---
 ## Interpreting the Sprint Backlog

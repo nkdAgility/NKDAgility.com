@@ -44,6 +44,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 
 ---
 In my experience teaching the Professional Scrum Master II (PSM2) course, I've encountered a recurring theme that resonates deeply with participants: the epiphanies that emerge during our discussions. While there are several insights that attendees gain, the most common epiphany often revolves around the role of the Scrum Master and the broader implications of their responsibilities.

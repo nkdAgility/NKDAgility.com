@@ -48,6 +48,7 @@ resourceTypes:
 categories:
 - Scrum
 - Technical Leadership
+- Product Development
 
 ---
 **Is a scrum master an agile micromanager?**

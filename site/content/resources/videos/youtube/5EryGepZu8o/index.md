@@ -46,7 +46,8 @@ tags:
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Product Development
 
 ---
 If you could teach just one thing about Scrum, what would it be?

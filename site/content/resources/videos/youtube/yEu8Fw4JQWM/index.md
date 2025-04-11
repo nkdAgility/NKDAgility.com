@@ -42,6 +42,7 @@ resourceTypes:
 - video
 categories:
 - Kanban
+- Product Development
 
 ---
 ## Why Less is Always More When It Comes to WIP

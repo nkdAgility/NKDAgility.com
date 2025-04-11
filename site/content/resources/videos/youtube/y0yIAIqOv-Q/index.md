@@ -35,7 +35,8 @@ tags:
 - Pragmatic Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 **When should an organisation consider a professional agile consultant?**

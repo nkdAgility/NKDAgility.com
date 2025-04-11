@@ -35,7 +35,8 @@ tags:
 - Scrum Master
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 ## Empowering Teams with the APS Approach: Elevating Your Scrum Journey

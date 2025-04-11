@@ -28,7 +28,8 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Project Management
 resourceTypes:
 - video
 categories: []

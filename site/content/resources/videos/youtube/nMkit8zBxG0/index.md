@@ -41,6 +41,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 
 ---
 ## Setting the Tone for Success

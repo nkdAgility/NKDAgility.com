@@ -38,7 +38,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 When it comes to learning, especially in the realm of Agile and Scrum, the traditional classroom model often leaves much to be desired. I’ve seen it time and again: participants leave with their heads filled with information, yet only retain about ten per cent of it two weeks later. This is where immersive learning comes into play, and I’m excited to share my thoughts on this transformative approach.

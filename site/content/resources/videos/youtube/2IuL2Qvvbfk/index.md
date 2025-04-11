@@ -50,6 +50,7 @@ resourceTypes:
 - video
 layout: video
 categories:
+- Product Development
 - Product Management
 - Leadership
 

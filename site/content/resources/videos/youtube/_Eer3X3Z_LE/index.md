@@ -35,7 +35,8 @@ tags:
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Product Development
 
 ---
 **What is a product backlog?**
