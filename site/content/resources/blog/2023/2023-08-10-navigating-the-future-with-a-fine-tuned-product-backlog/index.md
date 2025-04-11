@@ -41,6 +41,7 @@ tags:
 categories:
 - Scrum
 - Product Management
+- Product Development
 preview: naked-agility-technically-NavigatingtheFuturewithaFine-TunedProductBacklog-1-1.jpg
 
 ---

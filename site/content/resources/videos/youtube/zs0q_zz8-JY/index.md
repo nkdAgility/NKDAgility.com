@@ -49,6 +49,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 
 ---
 When I reflect on my journey as a Scrum Master, one of the most persistent misconceptions I encounter is the belief that a Scrum Master is an order giver or, worse still, a figure of authority within the team. This misunderstanding can lead to a myriad of issues, not just for the Scrum Master but for the entire team dynamic. 

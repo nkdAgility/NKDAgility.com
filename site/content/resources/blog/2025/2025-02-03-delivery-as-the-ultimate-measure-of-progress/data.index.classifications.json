@@ -622,15 +622,15 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-04-10T13:00:40",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "calculated_at": "2025-04-11T08:55:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the importance of delivery in Scrum and the distinction between 'Done' and 'Delivered', which indirectly relates to Lead Time as it touches on the delivery aspect. However, it does not explicitly define or measure Lead Time, nor does it provide in-depth strategies for optimising it. The focus is more on delivery as a measure of progress rather than on Lead Time as a metric itself.",
-    "level": "Secondary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of delivery in Scrum and the distinction between 'Done' and 'Delivered', which indirectly relates to Lead Time as it touches on the delivery aspect. However, it does not explicitly define or measure Lead Time, nor does it provide techniques for measuring it or strategies for optimisation. The focus is more on delivery as a measure of progress rather than on Lead Time as a metric, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",

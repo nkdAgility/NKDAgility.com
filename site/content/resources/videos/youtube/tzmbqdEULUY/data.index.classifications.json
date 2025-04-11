@@ -550,11 +550,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-04-10T13:43:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:57:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses data migration and downtime management, with no clear focus on Lead Time as defined.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on minimising downtime during data migration and does not explicitly discuss Lead Time as a metric. While it touches on planning and efficiency, it lacks a direct connection to Lead Time or its relationship with Cycle Time. The discussion is more about operational strategies rather than measuring or optimising Lead Time, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {

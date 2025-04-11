@@ -544,11 +544,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-04-10T14:45:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:02:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses data migration issues in Azure DevOps, focusing on technical challenges and identity management rather than Lead Time as a metric or its implications.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure DevOps data migration, discussing challenges, best practices, and personal experiences related to the migration process. There are no direct mentions of Lead Time or its importance as an observability metric. While the content touches on aspects of workflow and process efficiency, it does not delve into Lead Time as a specific metric or its relationship with Cycle Time. Therefore, the confidence score reflects a very low alignment with the category.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {

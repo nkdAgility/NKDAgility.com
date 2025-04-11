@@ -39,7 +39,8 @@ tags:
 - Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 # Unraveling the Story Point Myth in Scrum: A Path to Clarity 🚀

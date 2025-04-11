@@ -541,14 +541,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-04-10T21:27:05",
+    "calculated_at": "2025-04-11T09:02:52",
     "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
+    "ai_mentions": 0,
     "ai_alignment": 10.0,
-    "ai_depth": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
     "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the migration process from TFS to Azure DevOps, discussing tools, strategies, and common issues encountered during migration. While it touches on efficiency and collaboration, it does not explicitly define or measure Lead Time, nor does it explore its relationship with other metrics or its impact on customer satisfaction. Therefore, the content does not align well with the category of Lead Time.",
+    "reasoning": "The content primarily focuses on the migration process from TFS to Azure DevOps, discussing challenges, strategies, and best practices. There are no direct mentions of Lead Time or its significance as an observability metric. While the content touches on efficiency and process improvement, it does not delve into Lead Time as a specific metric or its relationship with Cycle Time. The discussion lacks depth regarding techniques for measuring Lead Time or strategies for optimising it, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {

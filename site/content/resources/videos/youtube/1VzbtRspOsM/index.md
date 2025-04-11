@@ -54,6 +54,7 @@ resourceTypes:
 - video
 layout: video
 categories:
+- Product Development
 - Technical Leadership
 - Leadership
 

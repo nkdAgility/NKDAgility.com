@@ -40,7 +40,8 @@ tags:
 - Metrics and Learning
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 **The Peril of Pride in Agile: A Cautionary Tale** 

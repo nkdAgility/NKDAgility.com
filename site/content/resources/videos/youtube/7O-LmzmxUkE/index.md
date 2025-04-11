@@ -49,6 +49,7 @@ resourceTypes:
 layout: video
 categories:
 - Scrum
+- Product Development
 
 ---
 # Demystifying Scrum: Beyond Meetings to Meaningful Events 🚀

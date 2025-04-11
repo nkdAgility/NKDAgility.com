@@ -43,7 +43,8 @@ tags:
 - Product Delivery
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 **Embracing 'Less is More' in Agile: Maximising Value, Minimising Waste 🚀🌟** 

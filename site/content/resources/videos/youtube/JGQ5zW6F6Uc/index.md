@@ -42,6 +42,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Product Development
 - Scrum
 
 ---

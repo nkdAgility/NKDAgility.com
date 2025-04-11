@@ -35,7 +35,8 @@ tags:
 - Agile Product Management
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 ## The Order of Product Backlogs

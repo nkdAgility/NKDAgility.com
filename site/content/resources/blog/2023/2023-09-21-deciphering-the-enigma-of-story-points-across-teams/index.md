@@ -40,7 +40,11 @@ tags:
 - Evidence Based Management
 - Operational Practices
 - Product Delivery
+- Time to Market
+- Unrealised Value
+- Current Value
 categories:
+- Product Development
 - Product Management
 preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 

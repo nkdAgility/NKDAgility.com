@@ -31,6 +31,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agnostic Agile
 - Agile Transformation
 - Agile Frameworks
 - Software Development

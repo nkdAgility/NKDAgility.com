@@ -51,7 +51,8 @@ tags:
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Product Development
 
 ---
 # Navigating the Agile Apocalypse: Overcoming the Alpha Organizational Structure

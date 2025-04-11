@@ -334,11 +334,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-04-10T13:41:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:57:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on test-driven development and pair programming rather than on Lead Time or its measurement.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on test-driven development (TDD) and pair programming, discussing their benefits for code quality and architecture. There are no direct mentions of Lead Time or its importance as an observability metric. While there is a brief mention of productivity, it does not align with the core themes of Lead Time, such as measuring time from initiation to delivery or strategies for optimising Lead Time. The discussion lacks depth regarding Lead Time, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Team Motivation": {

@@ -31,7 +31,8 @@ tags:
 - Agile Transformation
 - Agile Values and Principles
 - Pragmatic Thinking
-categories: []
+categories:
+- Product Development
 preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg
 
 ---

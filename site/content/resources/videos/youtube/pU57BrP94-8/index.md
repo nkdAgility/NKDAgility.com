@@ -37,7 +37,8 @@ tags:
 - Competence
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 ## Immersive Learning: Revolutionising On-the-Job Agile Learning

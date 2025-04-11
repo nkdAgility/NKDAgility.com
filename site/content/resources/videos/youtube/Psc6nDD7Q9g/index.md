@@ -42,10 +42,10 @@ tags:
 - Transparency
 - Continuous Delivery
 - Cycle Time
+- Lead Time
 - Metrics and Learning
 - Empirical Process Control
 - Product Delivery
-- Lead Time
 resourceTypes:
 - video
 categories:

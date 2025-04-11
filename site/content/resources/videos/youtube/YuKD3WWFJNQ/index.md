@@ -56,6 +56,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Product Development
 - Scrum
 - Product Management
 

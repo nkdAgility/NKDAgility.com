@@ -48,6 +48,7 @@ tags:
 - Value Delivery
 - Azure DevOps
 categories:
+- Product Development
 - Scrum
 preview: NKDAgility-technically-SprintRefignementBallance-6-6.jpg
 

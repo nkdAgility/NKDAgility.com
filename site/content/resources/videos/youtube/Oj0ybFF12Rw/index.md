@@ -32,6 +32,7 @@ tags:
 - Software Development
 - Agile Frameworks
 - Professional Scrum
+- Scaling
 resourceTypes:
 - video
 categories:

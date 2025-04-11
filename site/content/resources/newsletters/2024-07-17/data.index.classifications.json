@@ -388,11 +388,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-04-10T14:45:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:12:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a workshop for product validation and discovery, with no direct discussion on Lead Time or its measurement.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a workshop for product validation and discovery, with no direct mention of Lead Time or its related concepts. While it discusses customer-centric development and validation techniques, these topics do not align with the core themes of Lead Time as an observability metric. The content lacks depth in discussing Lead Time, its measurement, or strategies for optimisation, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {

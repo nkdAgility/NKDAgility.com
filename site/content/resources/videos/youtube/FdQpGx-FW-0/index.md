@@ -32,6 +32,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agnostic Agile
 - Agile Transformation
 - Software Development
 - Agile Philosophy
@@ -53,6 +54,7 @@ resourceTypes:
 - video
 categories:
 - Leadership
+- Product Development
 
 ---
 # Escaping the Judgment Trap in Agile Transformation 🚀

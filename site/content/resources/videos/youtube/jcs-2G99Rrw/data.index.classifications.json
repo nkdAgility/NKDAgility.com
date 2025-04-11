@@ -553,11 +553,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-04-10T14:45:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:14:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues and mistakes related to Azure DevOps usage, without a clear focus on Lead Time as a metric or its implications.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on optimising Azure DevOps and discusses common pitfalls in its usage. While it touches on agile practices, it does not explicitly mention Lead Time or its significance as an observability metric. The discussion lacks depth regarding Lead Time, its measurement, or strategies for optimisation, which are crucial for alignment with the category. Overall, the content does not meet the criteria for a primary focus on Lead Time.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {

@@ -38,6 +38,7 @@ tags:
 - Agile Product Management
 categories:
 - Product Management
+- Product Development
 preview: naked-agility-technically-rethinkinguserstories-1-1-1.jpg
 
 ---

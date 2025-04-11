@@ -39,6 +39,7 @@ sitemap:
 resourceTypes:
 - video
 categories:
+- Product Development
 - Lean
 - Product Management
 

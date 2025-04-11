@@ -334,11 +334,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-04-10T15:52:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:17:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the negative impact of project management mindsets on Agile practices, specifically related to product ownership, without a clear focus on Lead Time as a measurement of time taken from work initiation to delivery.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner and the negative impacts of a project management mindset on Agile teams. While it touches on themes of value delivery and team dynamics, it does not explicitly mention Lead Time or its measurement, nor does it explore its relationship with Cycle Time or other observability metrics. The focus is more on team collaboration and empowerment rather than on the efficiency of processes or strategies for optimising Lead Time, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Team Motivation": {

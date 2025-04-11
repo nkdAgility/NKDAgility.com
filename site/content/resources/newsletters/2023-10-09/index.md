@@ -21,6 +21,7 @@ aliasesArchive:
 - /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
 categories:
 - Scrum
+- Product Development
 tags:
 - Agile Product Management
 - Product Backlog

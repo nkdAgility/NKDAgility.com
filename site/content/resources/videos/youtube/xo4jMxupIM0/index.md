@@ -44,6 +44,7 @@ tags:
 - Competence
 - Software Development
 categories:
+- Product Development
 - Scrum
 
 ---

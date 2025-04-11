@@ -55,6 +55,7 @@ resourceTypes:
 - video
 categories:
 - Technical Leadership
+- Product Development
 - Scrum
 
 ---

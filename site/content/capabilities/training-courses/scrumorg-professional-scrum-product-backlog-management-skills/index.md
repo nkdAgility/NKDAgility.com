@@ -49,6 +49,7 @@ tags:
 - Product Strategy
 categories:
 - Scrum
+- Product Development
 - Product Management
 preview: naked-agility-Professional-Scrum-PSPBMS-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PSPBMS-400x.png

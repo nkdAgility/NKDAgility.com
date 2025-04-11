@@ -877,12 +877,15 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-04-10T15:52:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 50.0,
-    "reasoning": "The content discusses flow metrics, which are related to measuring efficiency and delivery processes in Scrum. While Lead Time is not the primary focus, it appears as a secondary theme within the context of enhancing team efficiency and delivery.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-11T09:17:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on flow metrics within the Scrum framework, mentioning Cycle Time and other related metrics but does not explicitly discuss Lead Time. While there is some conceptual alignment regarding the importance of metrics in improving efficiency, the depth of discussion does not sufficiently cover Lead Time as a distinct observability metric. Therefore, the confidence score reflects a low primary focus on Lead Time.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",

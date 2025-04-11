@@ -46,7 +46,8 @@ tags:
 - Team Collaboration
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 # Conquering Famine in Agile Organizations: A Blueprint for Success 🚀

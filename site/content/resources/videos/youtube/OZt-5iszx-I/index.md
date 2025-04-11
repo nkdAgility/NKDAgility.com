@@ -49,9 +49,9 @@ tags:
 - Agile Philosophy
 - Agile Planning
 - Product Owner
-- Lead Time
 - Agile Frameworks
 - Agile Product Management
+- Agile Product Operating Model
 resourceTypes:
 - video
 categories:

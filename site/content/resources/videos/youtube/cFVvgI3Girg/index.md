@@ -43,6 +43,7 @@ resourceTypes:
 - video
 categories:
 - Leadership
+- Product Development
 
 ---
 As I reflect on my journey in the world of Agile, I often find myself considering the natural evolution of roles within our organisations. One role that stands out in this evolution is that of the Product Owner, particularly as they transition into more significant leadership positions. This shift is not just a change in title; it represents a deeper understanding of product management and a broader organisational perspective.

@@ -44,6 +44,7 @@ tags:
 - Scrum Master
 categories:
 - Scrum
+- Product Development
 - Product Management
 preview: NKDAgility-technically-SetEffectiveSprintGoals-1-1.jpg
 

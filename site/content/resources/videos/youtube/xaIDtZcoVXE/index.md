@@ -49,8 +49,8 @@ tags:
 - Metrics and Learning
 - Organisational Agility
 - Value Delivery
-- Lead Time
 - Business Agility
+- Empirical Process Control
 resourceTypes:
 - video
 categories:

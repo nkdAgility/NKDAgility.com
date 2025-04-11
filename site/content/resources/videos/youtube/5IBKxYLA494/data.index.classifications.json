@@ -397,12 +397,15 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-04-10T14:45:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 50.0,
-    "reasoning": "The content discusses lead time in the context of Azure DevOps and Scrum, but it is primarily focused on Scrum roles, events, and the use of Azure DevOps tools. Lead time is mentioned as part of cycle time discussions, but it is not the central theme of the content.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-11T09:14:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the use of Azure DevOps to enhance those practices. While it discusses aspects of project management and team collaboration, it does not explicitly mention Lead Time or its significance as an observability metric. The discussion is centred around Scrum roles, events, and backlog management, which are not directly related to Lead Time. Therefore, the content does not align with the core themes of the Lead Time category.",
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",

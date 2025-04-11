@@ -44,7 +44,8 @@ tags:
 - Personal
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 **Addressing Wrath in Agile Teams: From Blame to Accountability 🌪️🛠️** 

@@ -42,7 +42,8 @@ tags:
 - Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 # Scrum and Governance: Navigating the Balance for Agile Success 🚀

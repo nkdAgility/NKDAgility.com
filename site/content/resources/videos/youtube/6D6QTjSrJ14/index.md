@@ -39,7 +39,8 @@ tags:
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Product Development
 
 ---
 ## Embracing the Shift: Why Immersive Learning is the Future of Professional Development 

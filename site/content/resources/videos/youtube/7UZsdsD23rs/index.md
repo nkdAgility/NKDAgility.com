@@ -51,6 +51,7 @@ resourceTypes:
 - video
 layout: video
 categories:
+- Product Development
 - Scrum
 
 ---

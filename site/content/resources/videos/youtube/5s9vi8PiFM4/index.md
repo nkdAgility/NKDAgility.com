@@ -34,7 +34,8 @@ tags:
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Product Development
 
 ---
 ## The Missing Piece in My Initial Scrum Journey

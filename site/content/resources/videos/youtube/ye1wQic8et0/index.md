@@ -27,6 +27,7 @@ duration: 408
 isShort: false
 tags:
 - Pragmatic Thinking
+- Time to Market
 - Agile Strategy
 - Organisational Agility
 - Value Delivery
@@ -45,7 +46,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 In the world of agile methodologies, one question that often arises is whether removing committees can significantly reduce time to market. Some claim that this can lead to a reduction of up to 50%. But is that really true? My experience suggests that while the figure may be exaggerated, the impact of committees on decision-making and agility is profound.

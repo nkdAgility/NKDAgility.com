@@ -877,12 +877,15 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-04-10T15:52:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-11T09:17:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 50.0,
-    "reasoning": "The course covers Agile metrics, including flow metrics like Cycle Time and Throughput, which are related to Lead Time, but does not primarily focus on Lead Time itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses agile metrics and forecasting, which are related to project management but does not explicitly mention Lead Time. While it touches on concepts like Cycle Time and flow metrics, it lacks a direct focus on Lead Time as a specific observability metric. The discussion is more general and does not provide in-depth analysis or techniques specifically for measuring or optimising Lead Time, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",

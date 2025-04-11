@@ -29,6 +29,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scaling
 - Agile Transformation
 - Software Development
 - Pragmatic Thinking
@@ -46,6 +47,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Product Development
 - Scrum
 
 ---

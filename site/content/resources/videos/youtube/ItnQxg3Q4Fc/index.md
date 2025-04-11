@@ -50,6 +50,7 @@ resourceTypes:
 - video
 categories:
 - Leadership
+- Product Development
 
 ---
 ## Why Senior Leadership is Non-Negotiable in an Agile Consulting Journey

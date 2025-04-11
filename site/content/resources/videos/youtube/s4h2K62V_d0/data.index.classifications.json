@@ -580,11 +580,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-04-10T13:40:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:57:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses quality assurance practices and the concept of shifting left in software engineering, without a clear focus on Lead Time as defined in the category.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses code reviews and quality assurance in software development, with a focus on improving code quality and reducing defects. While it touches on the importance of automating processes to avoid blockers, it does not explicitly mention Lead Time or its significance as an observability metric. The discussion lacks depth regarding Lead Time, its measurement, or strategies for optimisation, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {

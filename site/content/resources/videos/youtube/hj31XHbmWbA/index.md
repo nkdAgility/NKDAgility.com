@@ -36,7 +36,8 @@ tags:
 - Metrics and Learning
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 **Steve Jobs and the Art of Connecting Dots in Agile Environments** 

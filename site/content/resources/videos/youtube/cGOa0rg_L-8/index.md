@@ -51,7 +51,7 @@ tags:
 - Customer Feedback Loops
 - Team Performance
 - Time to Market
-- Lead Time
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

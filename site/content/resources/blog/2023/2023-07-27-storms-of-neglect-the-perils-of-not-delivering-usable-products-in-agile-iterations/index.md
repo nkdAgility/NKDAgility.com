@@ -44,6 +44,7 @@ tags:
 - Team Performance
 - Technical Debt
 categories:
+- Product Development
 - Scrum
 - Product Management
 preview: image-1.jpg

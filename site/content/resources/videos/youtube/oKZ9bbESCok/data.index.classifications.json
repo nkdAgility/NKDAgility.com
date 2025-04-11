@@ -565,11 +565,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-04-10T15:52:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of say-do metrics and their implications in project management, without a clear focus on Lead Time as defined in the category description.",
+    "calculated_at": "2025-04-11T09:17:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses say-do metrics and their implications in Agile environments, focusing on the distinction between outputs and outcomes. While it touches on the importance of delivering value, it does not explicitly mention Lead Time or its measurement, nor does it explore its relationship with Cycle Time or other relevant observability metrics. The discussion is more centred on the pitfalls of certain metrics rather than on Lead Time itself, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {

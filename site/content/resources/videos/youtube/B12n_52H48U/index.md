@@ -45,6 +45,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

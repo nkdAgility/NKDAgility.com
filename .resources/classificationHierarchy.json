@@ -1,92 +1,26 @@
 {
-  "Principle": {
+  "Value": {
+    "categories": [],
     "tags": [
-      "Working Software",
-      "Value Delivery",
-      "Troubleshooting",
-      "Transparency",
-      "Self Organisation",
-      "Personal",
-      "Open Space Agile",
-      "Metrics and Learning",
-      "Liberating Structures",
-      "Lean Thinking",
-      "Lean Principles",
-      "Lead Time",
-      "Evidence Based Management",
-      "Empirical Process Control",
-      "Customer Satisfaction",
-      "Customer Retention",
-      "Customer Feedback Loops",
-      "Continuous Improvement",
-      "Common Goals",
-      "Asynchronous Development",
-      "Agnostic Agile",
-      "Agile Planning",
-      "Agile Leadership"
-    ],
-    "categories": [
-      "Lean"
+      "Scrum Values",
+      "Agile Values and Principles"
     ]
   },
-  "Observability": {
-    "tags": [
-      "Throughput",
-      "Revenue per Employee"
-    ],
-    "categories": []
-  },
-  "Method": {
-    "tags": [
-      "Release Management",
-      "Lean Startup",
-      "Lean Product Development",
-      "Hypothesis Driven Development",
-      "Estimation"
-    ],
-    "categories": []
-  },
-  "Artifact": {
-    "tags": [
-      "Product Backlog",
-      "Increment",
-      "Definition of Ready",
-      "Definition of Done"
-    ],
-    "categories": []
-  },
-  "Tenet": {
-    "categories": [],
-    "tags": []
-  },
   "Framework": {
+    "categories": [
+      "Scrum"
+    ],
     "tags": [
       "Sprint Review",
       "Large Scale Agility",
       "Agile Frameworks"
-    ],
-    "categories": [
-      "Scrum"
     ]
   },
-  "Value": {
-    "tags": [
-      "Scrum Values",
-      "Agile Values and Principles"
-    ],
-    "categories": []
-  },
-  "Model": {
-    "tags": [
-      "Systems Thinking",
-      "Organisational Physics",
-      "Complexity Thinking",
-      "Cell Structure Design",
-      "Agile Product Operating Model"
-    ],
-    "categories": []
-  },
   "Capability": {
+    "categories": [
+      "Technical Leadership",
+      "Leadership"
+    ],
     "tags": [
       "Unrealised Value",
       "Time to Market",
@@ -130,36 +64,12 @@
       "Agile Strategy",
       "Agentic Agility",
       "Ability to Innovate"
-    ],
-    "categories": [
-      "Technical Leadership",
-      "Leadership"
-    ]
-  },
-  "Philosophy": {
-    "tags": [
-      "Social Technologies",
-      "Agile Philosophy"
-    ],
-    "categories": [
-      "DevOps"
-    ]
-  },
-  "Discipline": {
-    "tags": [
-      "Working Agreements",
-      "Scrum Master",
-      "Project Management",
-      "Professional Scrum",
-      "Organisational Psychology",
-      "Forecasting",
-      "Competence"
-    ],
-    "categories": [
-      "Engineering Excellence"
     ]
   },
   "Practice": {
+    "categories": [
+      "Kanban"
+    ],
     "tags": [
       "Value Stream Mapping",
       "Test First Development",
@@ -183,12 +93,21 @@
       "Backlog Refinement",
       "Automated Testing",
       "Acceptance Test Driven Development"
-    ],
+    ]
+  },
+  "Philosophy": {
     "categories": [
-      "Kanban"
+      "DevOps"
+    ],
+    "tags": [
+      "Social Technologies",
+      "Agile Philosophy"
     ]
   },
   "Strategy": {
+    "categories": [
+      "Product Development"
+    ],
     "tags": [
       "Value Stream Management",
       "Trend Analysis",
@@ -203,22 +122,104 @@
       "Decision Theory",
       "Company as a Product",
       "Agile Product Management"
-    ],
+    ]
+  },
+  "Discipline": {
     "categories": [
-      "Product Development"
+      "Engineering Excellence"
+    ],
+    "tags": [
+      "Working Agreements",
+      "Scrum Master",
+      "Project Management",
+      "Professional Scrum",
+      "Organisational Psychology",
+      "Forecasting",
+      "Competence"
+    ]
+  },
+  "Observability": {
+    "categories": [],
+    "tags": [
+      "Throughput",
+      "Revenue per Employee",
+      "Lead Time"
+    ]
+  },
+  "Model": {
+    "categories": [],
+    "tags": [
+      "Systems Thinking",
+      "Organisational Physics",
+      "Complexity Thinking",
+      "Cell Structure Design",
+      "Agile Product Operating Model"
+    ]
+  },
+  "Tenet": {
+    "categories": [],
+    "tags": []
+  },
+  "Principle": {
+    "categories": [
+      "Lean"
+    ],
+    "tags": [
+      "Working Software",
+      "Value Delivery",
+      "Troubleshooting",
+      "Transparency",
+      "Self Organisation",
+      "Personal",
+      "Open Space Agile",
+      "Metrics and Learning",
+      "Liberating Structures",
+      "Lean Thinking",
+      "Lean Principles",
+      "Evidence Based Management",
+      "Empirical Process Control",
+      "Customer Satisfaction",
+      "Customer Retention",
+      "Customer Feedback Loops",
+      "Continuous Improvement",
+      "Common Goals",
+      "Asynchronous Development",
+      "Agnostic Agile",
+      "Agile Planning",
+      "Agile Leadership"
+    ]
+  },
+  "Method": {
+    "categories": [],
+    "tags": [
+      "Release Management",
+      "Lean Startup",
+      "Lean Product Development",
+      "Hypothesis Driven Development",
+      "Estimation"
+    ]
+  },
+  "Artifact": {
+    "categories": [],
+    "tags": [
+      "Product Backlog",
+      "Increment",
+      "Definition of Ready",
+      "Definition of Done"
     ]
   },
   "Accountability": {
+    "categories": [
+      "Product Management"
+    ],
     "tags": [
       "Scrum Team",
       "Product Owner",
       "Hybrid Agile"
-    ],
-    "categories": [
-      "Product Management"
     ]
   },
   "Tool": {
+    "categories": [],
     "tags": [
       "Windows",
       "Internal Developer Platform",
@@ -230,7 +231,6 @@
       "Azure DevOps",
       "Azure Boards",
       "Agile Planning Tools"
-    ],
-    "categories": []
+    ]
   }
 }

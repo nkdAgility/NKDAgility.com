@@ -32,6 +32,7 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Working Software
+- Project Management
 - Agile Philosophy
 - Product Delivery
 - Value Delivery
@@ -42,7 +43,8 @@ tags:
 - Agile Product Management
 - Increment
 - Market Adaptability
-categories: []
+categories:
+- Product Development
 preview: image-1.jpg
 
 ---

@@ -48,6 +48,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 
 ---
 In my journey through the world of Agile and Scrum, one concept has consistently stood out as a cornerstone of success: the Definition of Done (DoD). It’s not just a checklist; it’s a commitment to quality that shapes the very essence of our work. Today, I want to share my insights on why the Definition of Done is crucial and how it can transform your team's approach to delivering value.

@@ -562,12 +562,15 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-04-10T14:45:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-11T09:01:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the impact of DevOps practices on the efficiency of processes and the delivery of features, which relates to Lead Time. However, it primarily focuses on broader themes of organisational effectiveness and DevOps philosophy rather than specifically measuring or optimising Lead Time.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses DevOps transformation, technical debt, and organizational efficiency without explicitly addressing Lead Time as a metric. While it touches on themes of efficiency and delivery, it does not define or measure Lead Time, nor does it explore its relationship with Cycle Time or provide techniques for measuring it. The discussion lacks depth in relation to Lead Time, focusing instead on broader DevOps practices and outcomes.",
+    "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",

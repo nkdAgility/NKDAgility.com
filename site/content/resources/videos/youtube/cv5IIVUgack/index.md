@@ -35,7 +35,8 @@ tags:
 - Agile Transformation
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 ## From Developer to Scrum Developer: A Journey of Continuous Learning

@@ -394,11 +394,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-04-10T14:45:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:00:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses various metrics related to team performance and project management, with a focus on Cycle Time and other unrelated metrics, rather than Lead Time specifically.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses various metrics related to team and project performance, including Cycle Time, which is related to Lead Time. However, Lead Time itself is not explicitly mentioned, and the focus is more on general performance metrics rather than specifically on Lead Time as an observability metric. The depth of discussion on related concepts like Cycle Time provides some alignment, but it does not delve into Lead Time's definition, importance, or strategies for optimisation, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {

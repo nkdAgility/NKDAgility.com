@@ -571,11 +571,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-04-10T13:41:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:57:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the costs associated with poor quality code and its impact on productivity, brand reputation, and technical debt, without a clear focus on Lead Time as defined in the category.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the costs associated with poor-quality code and the benefits of improving code quality. While it touches on productivity and efficiency, it does not explicitly mention Lead Time or its measurement. The discussion is more focused on technical debt and team morale rather than the specific observability metric of Lead Time, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {

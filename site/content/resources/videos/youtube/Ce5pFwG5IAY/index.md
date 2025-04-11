@@ -28,6 +28,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Liberating Structures
 - Team Collaboration
 - Scrum Master
 - Scrum Team

@@ -568,11 +568,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-04-10T15:52:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:15:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban implementation and metrics like cycle time, without a clear focus on Lead Time as defined in the category.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses Kanban and mentions metrics like cycle time, which is related to Lead Time, but it does not focus on Lead Time as a primary topic. The discussion is more about implementing Kanban and improving workflows rather than specifically addressing Lead Time as an observability metric. While there is some conceptual alignment with the idea of measuring efficiency, the depth of discussion on Lead Time itself is minimal.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {

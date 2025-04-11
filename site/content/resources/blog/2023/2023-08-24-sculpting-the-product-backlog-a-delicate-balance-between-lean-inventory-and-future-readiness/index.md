@@ -45,10 +45,11 @@ tags:
 - Value Delivery
 - Backlog Refinement
 - Lean Thinking
+- Unrealised Value
 categories:
 - Product Management
+- Product Development
 - Lean
-- Scrum
 preview: image-1.jpg
 
 ---

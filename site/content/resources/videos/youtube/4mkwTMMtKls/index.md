@@ -32,6 +32,7 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
+- Agnostic Agile
 - Agile Transformation
 - Organisational Agility
 - Personal

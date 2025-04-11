@@ -47,6 +47,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 
 ---
 ## The APS Advantage: Exploring Professional Scrum Mastery

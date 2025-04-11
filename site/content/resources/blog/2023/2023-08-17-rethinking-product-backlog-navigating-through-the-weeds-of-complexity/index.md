@@ -48,6 +48,7 @@ tags:
 - Product Delivery
 categories:
 - Product Management
+- Product Development
 preview: image-1.jpg
 
 ---

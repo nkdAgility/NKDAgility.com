@@ -44,7 +44,8 @@ tags:
 - Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 **The Power of Purpose: How 'Start with Why' Drives Agile Success** 

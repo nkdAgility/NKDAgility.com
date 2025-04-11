@@ -46,6 +46,7 @@ resourceTypes:
 - video
 categories:
 - Leadership
+- Product Development
 
 ---
 # Overcoming the Culture of Contempt in Agile Teams

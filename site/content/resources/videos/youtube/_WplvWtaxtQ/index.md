@@ -44,6 +44,7 @@ resourceTypes:
 layout: video
 categories:
 - Technical Leadership
+- Product Development
 - Scrum
 
 ---
