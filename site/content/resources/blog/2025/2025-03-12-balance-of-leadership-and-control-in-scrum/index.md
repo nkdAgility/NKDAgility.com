@@ -49,11 +49,11 @@ Scrum is built on self-management, yet accountability cannot exist without autho
 
 Product Owners and Scrum Masters balance leadership, authority, and control by providing clear intent, fostering initiative, and reinforcing accountability. They guide rather than micromanage, ensuring the team understands the vision and goals, has the autonomy to execute, and remains accountable for outcomes. When intervention is needed, they step in decisively while preserving the team’s ownership of their responsibilities.
 
-Product Owners and Scrum Masters lead through influence but must assert authority when needed—Product Owners to maximise product value, and Scrum Masters to enable the effectiveness of the Scrum Team. Effective leadership balances autonomy and alignment, ensuring teams self-manage while staying accountable to commitments and organisational goals.
+Product Owners and Scrum Masters lead through influence but must assert authority when needed—Product Owners to maximise product value, and Scrum Masters to enable the effectiveness of the [Scrum Team]({{< ref "/tags/scrum-team" >}}). Effective leadership balances autonomy and alignment, ensuring teams self-manage while staying accountable to commitments and organisational goals.
 
 ### Context Dictates Authority
 
-The authority wielded by the Product Owner is more widely recognised and acknowledged, so why not the Scrum Master?
+The authority wielded by the [Product Owner]({{< ref "/tags/product-owner" >}}) is more widely recognised and acknowledged, so why not the [Scrum Master]({{< ref "/tags/scrum-master" >}})?
 
 The Scrum Master is accountable for the Scrum Team's effectiveness. This accountability demands both leadership and, within the right context, a degree of authority. While some argue that a Scrum Master should have no direct authority, this ignores the reality that influence alone is often insufficient to drive change in certain organisational contexts.
 
@@ -63,7 +63,7 @@ In practice, the level of authority a Scrum Master should exercise depends on th
 
 ### The Duality of Leadership and Control
 
-Leadership in a Scrum environment is about guiding the team toward continuous improvement. However, leadership without some degree of control is often ineffective. Control, in this context, does not mean command and dictate—it means ensuring that the Scrum framework is upheld, that organisational impediments are actively removed, and that the team operates within its defined constraints.
+Leadership in a Scrum environment is about guiding the team toward [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). However, leadership without some degree of control is often ineffective. Control, in this context, does not mean command and dictate—it means ensuring that the Scrum framework is upheld, that organisational impediments are actively removed, and that the team operates within its defined constraints.
 
 Some argue that the best Scrum Masters might be managers, while others argue that a Scrum Master should not have authority. Both perspectives have merit but must be contextualised.
 

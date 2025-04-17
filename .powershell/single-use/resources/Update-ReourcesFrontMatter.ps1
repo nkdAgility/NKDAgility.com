@@ -10,11 +10,11 @@
 $levelSwitch.MinimumLevel = 'Debug'
 
 # Iterate through each blog folder and update markdown files
-$outputDir = "site\content\resources\"
+$outputDir = "site\content\resources\blog\2025"
 $resources = $null
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending 
-$resources += Get-ChildItem -Path "site\content\capabilities\training-courses"  -Recurse -Include "index.md", "_index.md"  | Sort-Object { $_ } -Descending
+#$resources += Get-ChildItem -Path "site\content\capabilities\training-courses"  -Recurse -Include "index.md", "_index.md"  | Sort-Object { $_ } -Descending
 
 $Counter = 1
 
@@ -312,6 +312,10 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
                 
         }
     }
+    # =================CONTENT===================
+    $hugoMarkdown.BodyContent = Update-ClassificationLinksInBodyContent -ClassificationType "concepts" -hugoMarkdown $hugoMarkdown
+    $hugoMarkdown.BodyContent = Update-ClassificationLinksInBodyContent -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
+    $hugoMarkdown.BodyContent = Update-ClassificationLinksInBodyContent -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
     # =================COMPLETE===================
     Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
 

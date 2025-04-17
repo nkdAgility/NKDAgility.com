@@ -49,7 +49,7 @@ tags:
 - Organisational Agility
 
 ---
-Looking at cycle time for an individual is a fundamental misunderstanding of how flow works in a system—unless the individual is the system. And here is why!
+Looking at [cycle time]({{< ref "/tags/cycle-time" >}}) for an individual is a fundamental misunderstanding of how flow works in a system—unless the individual is the system. And here is why!
 
 ## Process Cycle Efficiency (PCE) Drives Flow, Not Individual Productivity
 
@@ -65,7 +65,7 @@ Measuring individual cycle time leads to bad incentives. If someone is judged on
 - Taking on work too early, creating unnecessary work in progress (WIP).
 - Cherry-picking simple tasks to appear fast rather than tackling what actually moves the system forward.
 
-Kanban is about improving the whole workflow. Look at Process Cycle Efficiency (PCE) and Throughput together—one improves the other.
+Kanban is about improving the whole workflow. Look at Process Cycle Efficiency (PCE) and [Throughput]({{< ref "/tags/throughput" >}}) together—one improves the other.
 
 ## Ignores Work in Progress (WIP) and Blockers
 
@@ -85,7 +85,7 @@ Optimise for flow across the system, not just individual speed.
 
 ## Creates Unintended Behaviour
 
-If people are measured by their personal cycle time, they may:
+If people are measured by their [personal]({{< ref "/tags/personal" >}}) cycle time, they may:
 
 - **Rush work**, sacrificing quality to look fast.
 - **Avoid complex or high-value tasks**, because they take longer.
@@ -99,7 +99,7 @@ None of this improves system flow. It just distorts behaviour.
 
 If you want to improve flow, focus on:
 
-- **customer lead time (time to market)** - the total time from when work is requested to when it is delivered to the customer.
+- **customer [lead time]({{< ref "/tags/lead-time" >}}) ([time to market]({{< ref "/tags/time-to-market" >}}))** - the total time from when work is requested to when it is delivered to the customer.
 - **Work in progress (WIP) limits** - to reduce bottlenecks and improve flow.
 - **Process Cycle Efficiency (PCE)** - the ratio of active work time to non value added time.
 - **Bottlenecks and blockers** - to identify systemic constraints.

@@ -1,6 +1,7 @@
 . ./.powershell/_includes/LoggingHelper.ps1
 . ./.powershell/_includes/OpenAI.ps1
 . ./.powershell/_includes/PromptManager.ps1
+. ./.powershell/_includes/HugoHelpers.ps1
 
 $batchesInProgress = $null;
 $batchesInProgressMax = 40;
@@ -570,3 +571,60 @@ function Remove-ClassificationsFromCacheThatLookBroken {
 
     }
 }
+
+function Update-ClassificationLinksInBodyContent {
+    param (
+        [string]$ClassificationType,
+        [object]$hugoMarkdown
+    )
+
+    $catalog = $catalogues["catalog"][$ClassificationType]
+
+    foreach ($classification in $catalog.Keys) {
+        $classificationData = $catalog[$classification]
+        $classificationTitle = $classificationData.Title
+        $classificationSlug = $classificationTitle.ToLowerInvariant() -replace ' ', '-'
+        $classificationEscaped = [regex]::Escape($classificationTitle)
+
+        # Skip if already linked using the correct shortcode
+        $linkedPattern = "\[.*?\]\(\{\{< ref ""/$ClassificationType/$classificationSlug"" >\}\}\)"
+        if ($hugoMarkdown.BodyContent -match $linkedPattern) {
+            continue
+        }
+
+        # Phase 1: Find all ranges of markdown links to exclude
+        $excludedRanges = [System.Collections.Generic.List[System.Tuple[int, int]]]::new()
+        $linkRegex = [regex]'\[.*?\]\(.*?\)'
+        foreach ($match in $linkRegex.Matches($hugoMarkdown.BodyContent)) {
+            $excludedRanges.Add([Tuple]::Create($match.Index, $match.Index + $match.Length))
+        }
+
+        # Phase 2: Find the first occurrence of the tag not inside any excluded range
+        $simpleRegex = [regex]::new("\b($classificationEscaped)\b", [System.Text.RegularExpressions.RegexOptions]::IgnoreCase)
+        foreach ($match in $simpleRegex.Matches($hugoMarkdown.BodyContent)) {
+            $index = $match.Index
+
+            $inExcluded = $false
+            foreach ($range in $excludedRanges) {
+                if ($index -ge $range.Item1 -and $index -lt $range.Item2) {
+                    $inExcluded = $true
+                    break
+                }
+            }
+
+            if (-not $inExcluded) {
+                # Inject Hugo ref-style link, preserving matched casing
+                $MatchValue = $match.Value
+                $replacement = "[$MatchValue]({{< ref `"/$ClassificationType/$classificationSlug`" >}})"
+                $hugoMarkdown.BodyContent = $hugoMarkdown.BodyContent.Substring(0, $index) + $replacement + $hugoMarkdown.BodyContent.Substring($index + $match.Length)
+                break
+            }
+        }
+    }
+
+    Write-InfoLog "Updated body content for classification type '$ClassificationType'."
+    return $hugoMarkdown.BodyContent
+}
+
+
+Write-InfoLog "ClassificationHelpers.ps1 loaded"
