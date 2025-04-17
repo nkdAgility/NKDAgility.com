@@ -39,7 +39,7 @@ tags:
 - Product Delivery
 
 ---
-Scrum is built on self-management, yet accountability cannot exist without authority. If Scrum Masters and Product Owners are held responsible for outcomes, how much control should they have? Too much, and teams lose autonomy. Too little, and they become ineffective. This article explores the nuanced balance of leadership, authority, and control in Scrum—how influence must be complemented by decisive action to enable true agility.
+[Scrum]({{< ref "/categories/scrum" >}}) is built on self-management, yet accountability cannot exist without authority. If Scrum Masters and Product Owners are held responsible for outcomes, how much control should they have? Too much, and teams lose autonomy. Too little, and they become ineffective. This article explores the nuanced balance of [leadership]({{< ref "/categories/leadership" >}}), authority, and control in Scrum—how influence must be complemented by decisive action to enable true agility.
 
 **Can One Be Held Accountable for What One Has No Control Over?**
 

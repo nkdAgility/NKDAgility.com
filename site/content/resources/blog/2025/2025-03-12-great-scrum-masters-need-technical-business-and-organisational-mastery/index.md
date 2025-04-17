@@ -49,9 +49,9 @@ tags:
 - Business Agility
 
 ---
-[Scrum Masters]({{< ref "/tags/scrum-master" >}}) don’t need to be subject-matter experts in the way traditional management once required. We’re no longer in an era where managers direct unskilled labour; modern teams are intelligent, capable, and cross-functional. The Scrum Master’s responsibility is not to do the work, but to enable others to do it better. They are leaders.
+[Scrum Masters]({{< ref "/tags/scrum-master" >}}) don’t need to be subject-matter experts in the way traditional management once required. We’re no longer in an era where managers direct unskilled labour; modern teams are intelligent, capable, and cross-functional. The [Scrum]({{< ref "/categories/scrum" >}}) Master’s responsibility is not to do the work, but to enable others to do it better. They are leaders.
 
-Leadership requires a different kind of expertise—expertise in change, collaboration, [coaching]({{< ref "/tags/coaching" >}}), facilitation, conflict navigation, communication, team development, [personal]({{< ref "/tags/personal" >}}) growth, and a [ballance of leadership with control]({{< ref "/resources/blog/2025/2025-03-12-balance-of-leadership-and-control-in-scrum" >}}). These are non-negotiable.
+[Leadership]({{< ref "/categories/leadership" >}}) requires a different kind of expertise—expertise in change, collaboration, [coaching]({{< ref "/tags/coaching" >}}), facilitation, conflict navigation, communication, team development, [personal]({{< ref "/tags/personal" >}}) growth, and a [ballance of leadership with control]({{< ref "/resources/blog/2025/2025-03-12-balance-of-leadership-and-control-in-scrum" >}}). These are non-negotiable.
 
 But these skills alone are not enough; we should recognise that for leaders to be successful, domain-specific mastery matters too. A Scrum Master who understands the *technical, business, and organisational* context their team operates in can better remove impediments, facilitate learning, and support adaptation.
 
@@ -100,7 +100,7 @@ Without technical mastery within the relevant domain, guiding a Scrum Team towar
 
 ### 2. Business Mastery
 
-The Product Owner is a key position that sets the tone for product leadership and defines success within the organisation. For them to be successful, they must implement modern product management practices and have a value-driven mindset. The Product Owner should be accountable for and have the authority to maximise the value of the product and the effectiveness of the [Product Backlog]({{< ref "/tags/product-backlog" >}}). Not every person who takes on the accountability of the Product Owner role will already possess these skills or even be aware that they should. Developing expertise in modern product management practices and value-driven decision-making is an ongoing journey. Since an effective Scrum Team requires an effective Product Owner, it falls within the accountability of the Scrum Master to teach, coach, and mentor the Product Owner as needed. This requires that they understand the business context of the Scrum Team and its product as well as the product management processes, techniques, and practices that a Product Owner might use to maximise the value of the Scrum Team's work.
+The Product Owner is a key position that sets the tone for product leadership and defines success within the organisation. For them to be successful, they must implement modern [product management]({{< ref "/categories/product-management" >}}) practices and have a value-driven mindset. The Product Owner should be accountable for and have the authority to maximise the value of the product and the effectiveness of the [Product Backlog]({{< ref "/tags/product-backlog" >}}). Not every person who takes on the accountability of the Product Owner role will already possess these skills or even be aware that they should. Developing expertise in modern product management practices and value-driven decision-making is an ongoing journey. Since an effective Scrum Team requires an effective Product Owner, it falls within the accountability of the Scrum Master to teach, coach, and mentor the Product Owner as needed. This requires that they understand the business context of the Scrum Team and its product as well as the product management processes, techniques, and practices that a Product Owner might use to maximise the value of the Scrum Team's work.
 
 This includes that the Product Owner is able to:
 
@@ -131,7 +131,7 @@ Key aspects include:
 - **Navigate organisational structure and politics** – Helping teams and leadership understand and adapt to the organisation's hierarchy, decision-making processes, and political dynamics to remove impediments.
 - **Apply [change management]({{< ref "/tags/change-management" >}}) principles** – Facilitating sustainable change by addressing resistance, fostering adoption, and ensuring alignment with Agile values.
 - **Engage stakeholders effectively** – Ensuring that decision-makers, sponsors, and key influencers understand Agile principles and support the Scrum Team’s ability to deliver value.
-- **Lead Agile and Lean transformations** – Driving [organisational agility]({{< ref "/tags/organisational-agility" >}}) by educating leadership, coaching teams, and embedding [Lean thinking]({{< ref "/tags/lean-thinking" >}}) into strategic planning and execution.
+- **Lead Agile and [Lean]({{< ref "/categories/lean" >}}) transformations** – Driving [organisational agility]({{< ref "/tags/organisational-agility" >}}) by educating leadership, coaching teams, and embedding [Lean thinking]({{< ref "/tags/lean-thinking" >}}) into strategic planning and execution.
 - **Influence leadership to remove systemic impediments** – Advocating for structural and cultural changes that enable agility and improve [value delivery]({{< ref "/tags/value-delivery" >}}) across the organisation.
 - **Foster a culture of [continuous learning]({{< ref "/tags/continuous-learning" >}}) and adaptation** – Encouraging a mindset of experimentation, feedback, and iterative improvement at all levels of the organisation.
 
@@ -139,7 +139,7 @@ Key aspects include:
 >
 > - Leading and coaching the organisation in its Scrum adoption.
 > - Planning Scrum implementations within the organisation.
-> - Helping employees and stakeholders understand Scrum and empirical product development.
+> - Helping employees and stakeholders understand Scrum and empirical [product development]({{< ref "/categories/product-development" >}}).
 > - Causing change that increases the productivity of the Scrum Team.
 >
 > — [The Scrum Master, Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}})

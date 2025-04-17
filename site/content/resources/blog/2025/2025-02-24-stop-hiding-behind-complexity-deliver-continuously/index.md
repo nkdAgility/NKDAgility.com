@@ -56,7 +56,7 @@ Every organisation says their software is 'too complex' for [continuous delivery
 
 Continuous delivery is not a pipe dream. If the organisation is willing to invest, it’s achievable for every software product, regardless of complexity or legacy constraints. And that's the challenge.
 
-The organisation must be willing to invest significant time and effort in enabling it. Microsoft's Azure DevOps team exemplifies this. They transitioned from shipping new features every two years to delivering value every three weeks, increasing their annual feature delivery from 25 to nearly 300 at their peak.
+The organisation must be willing to invest significant time and effort in enabling it. Microsoft's Azure [DevOps]({{< ref "/categories/devops" >}}) team exemplifies this. They transitioned from shipping new features every two years to delivering value every three weeks, increasing their annual feature delivery from 25 to nearly 300 at their peak.
 
 This evolution was not the result of a silver bullet but a deliberate effort to modernise architecture, eliminate [technical debt]({{< ref "/tags/technical-debt" >}}), automate relentlessly, and embed a culture of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). It is an ongoing evolution that has paid dividends for every year of effort invested. They delivered 58 features at the end of the first year of investment, rising to over 250 features after four years, later stabilising at just over 300. This is the power of continuous delivery.
 
@@ -72,7 +72,7 @@ Many teams believe they cannot achieve continuous delivery and instead claim:
 - Their teams lack the skills
 - It’s not possible in their regulated industry
 
-Every single one of these justifications is illegitimate and reflects either the team's unwillingness to learn or the leadership's unwillingness to invest. These are excuses, not realities.
+Every single one of these justifications is illegitimate and reflects either the team's unwillingness to learn or the [leadership]({{< ref "/categories/leadership" >}})'s unwillingness to invest. These are excuses, not realities.
 
 **In reality, systemic and continuous underinvestment in quality, scalable, and supportable products is to blame.**
 

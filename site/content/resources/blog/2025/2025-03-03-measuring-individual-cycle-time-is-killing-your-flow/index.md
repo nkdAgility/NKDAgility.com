@@ -53,7 +53,7 @@ Looking at [cycle time]({{< ref "/tags/cycle-time" >}}) for an individual is a f
 
 ## Process Cycle Efficiency (PCE) Drives Flow, Not Individual Productivity
 
-Kanban isn’t about individual productivity; it’s about optimising the flow of work through a system. When you measure an individual’s cycle time, you ignore the real bottlenecks—queues, dependencies, and wait times that slow everything down. A person might complete tasks quickly, but if those tasks get stuck waiting for reviews, approvals, or other handoffs, the overall system remains inefficient. If you want faster delivery, fix the system, not the people.
+[Kanban]({{< ref "/categories/kanban" >}}) isn’t about individual productivity; it’s about optimising the flow of work through a system. When you measure an individual’s cycle time, you ignore the real bottlenecks—queues, dependencies, and wait times that slow everything down. A person might complete tasks quickly, but if those tasks get stuck waiting for reviews, approvals, or other handoffs, the overall system remains inefficient. If you want faster delivery, fix the system, not the people.
 
 As Nigel Thurlow puts it: _"You never measure a person, ever. You only ever measure a process. You improve the system, never the people within it. If you're measuring an individual person to try and blame them, then you're ignoring what's wrong with the process that's causing it."_
 

@@ -61,7 +61,7 @@ Gone are the days of rigid Dev-Test-Staging-Production pipelines. These [traditi
 
 Instead, modern software engineering demands a smarter approach: deploying directly to real users in production but in a controlled, incremental manner.
 
-For those familiar with ring-based deployment, audience-based deployment is not a new concept; it expands on it. Ring-based deployment is a proven strategy, widely used at scale by companies like Microsoft with products like Windows and Microsoft Teams. Audience-based deployment simply extends this principle by providing even finer-grained control over who gets access to a given change based on account types, user profiles, or organisational groups. This approach allows teams, like the Azure DevOps team, to release software to small, targeted user groups, enabling faster feedback, reduced blast radius, and progressive rollout strategies.
+For those familiar with ring-based deployment, audience-based deployment is not a new concept; it expands on it. Ring-based deployment is a proven strategy, widely used at scale by companies like Microsoft with products like [Windows]({{< ref "/tags/windows" >}}) and Microsoft Teams. Audience-based deployment simply extends this principle by providing even finer-grained control over who gets access to a given change based on account types, user profiles, or organisational groups. This approach allows teams, like the Azure [DevOps]({{< ref "/categories/devops" >}}) team, to release software to small, targeted user groups, enabling faster feedback, reduced blast radius, and progressive rollout strategies.
 
 This approach enables:
 
@@ -71,7 +71,7 @@ This approach enables:
 
 ### Retaining Context Without Environmental Branching
 
-While you may need to retain some environmental context for compliance or operational reasons, **your branching structure should not model it**. Creating branches that mimic Dev-Test-Staging environments is costly and counterproductive. It increases complexity, delays feedback, and reinforces silos rather than fostering continuous delivery. Instead, focus on:
+While you may need to retain some environmental context for compliance or operational reasons, **your branching structure should not model it**. Creating branches that mimic Dev-Test-Staging environments is costly and counterproductive. It increases complexity, delays feedback, and reinforces silos rather than fostering [continuous delivery]({{< ref "/tags/continuous-delivery" >}}). Instead, focus on:
 
 - Using **feature flags** to control exposure.
 - Implementing **progressive rollouts** instead of environment-based branching.
@@ -83,7 +83,7 @@ I don't think this is easy; it's not. Teams making this shift face teething prob
 
 ### How Microsoft Transformed Deployment
 
-Microsoft’s transformation to DevOps and audience-based deployment has been an industry-defining journey, starting with the Visual Studio and Azure DevOps (was Team Foundation Server) teams in the Developer Division and later extending to Windows and Office.
+Microsoft’s transformation to DevOps and audience-based deployment has been an industry-defining journey, starting with the Visual Studio and [Azure DevOps]({{< ref "/tags/azure-devops" >}}) (was Team Foundation Server) teams in the Developer Division and later extending to Windows and Office.
 
 **Key Lessons from Microsoft’s Evolution:**
 
@@ -112,7 +112,7 @@ The Azure DevOps team revolutionised Microsoft’s approach to deployment by pio
 
 This strategy proved so effective that it became the foundation for deploying changes to **Windows**, an operating system with a vastly larger and more diverse user base. And more scary indeed is that Windows is an installed product that needs to support an almost infinite set of configurations.
 
-#### Windows: Scaling the Model to Millions
+#### Windows: [Scaling]({{< ref "/tags/scaling" >}}) the Model to Millions
 
 Windows took inspiration from Azure DevOps' success and implemented the ring-based model at an unprecedented scale:
 
@@ -136,7 +136,7 @@ This approach enables them to:
 - **Refine features based on telemetry and user behaviour**.
 - **Confidently scale releases** while maintaining stability.
 
-This isn’t just DevOps done well; it’s a learning engine driving continuous improvement across Microsoft’s ecosystem. Today, you will find this model and variants of it on all of Microsoft's platforms.
+This isn’t just DevOps done well; it’s a learning engine driving [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) across Microsoft’s ecosystem. Today, you will find this model and variants of it on all of Microsoft's platforms.
 
 For example, I am in the Insider group for Microsoft Teams, with my account in R3, with both R3.5 (preview) and R4 (ga) ahead of me... and yet I can be in a call with folks from any of the rings from R0 all the way to R4. We each get different features and capabilities and a different product stability level.
 
@@ -148,7 +148,7 @@ Most organisations still cling to the traditional **Dev-Test-Staging-Production*
 
 - **Testing environments are never identical to production.** Data, scale, and real-world user behaviour differences mean you’re testing a mirage.
 - **Delayed feedback loops increase risk.** The longer it takes to discover issues, the harder and costlier they are to fix.
-- **It stifles innovation.** Slow, gated releases hinder rapid iteration and experimentation.
+- **It stifles innovation.** Slow, gated releases hinder rapid iteration and [experimentation]({{< ref "/tags/experimentation" >}}).
 
 The alternative? **Deploying directly to your users, but smartly.**
 

@@ -313,7 +313,6 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
         }
     }
     # =================CONTENT===================
-    $hugoMarkdown.BodyContent = Update-ClassificationLinksInBodyContent -ClassificationType "concepts" -hugoMarkdown $hugoMarkdown
     $hugoMarkdown.BodyContent = Update-ClassificationLinksInBodyContent -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
     $hugoMarkdown.BodyContent = Update-ClassificationLinksInBodyContent -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
     # =================COMPLETE===================
